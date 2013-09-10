@@ -1,8 +1,0 @@
-from bs4 import BeautifulSoup
-
-
-soup = BeautifulSoup(open("TABLE-1f7e1308-e6f5-4380-8d85-e2a22bdec9db-drugInteractions-0.txt"))
-
-
-
-print soup.prettify()
