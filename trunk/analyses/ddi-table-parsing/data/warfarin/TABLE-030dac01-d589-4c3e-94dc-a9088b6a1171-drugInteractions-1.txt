@@ -1,0 +1,27 @@
+<table id="t3" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3: Drugs that Can Increase the Risk of Bleeding</caption>
+<col align="left" span="1" valign="top" width="25%"></col>
+<col align="left" span="1" valign="top" width="75%"></col>
+<tbody>
+<tr>
+<th colspan="1">Drug Class</th>
+<th colspan="1">Specific Drugs</th>
+</tr>
+<tr>
+<td>Anticoagulants</td>
+<td>argatroban, dabigatran, bivalirudin, desirudin, heparin, lepirudin</td>
+</tr>
+<tr>
+<td>Antiplatelet Agents</td>
+<td>aspirin, cilostazol, clopidogrel, dipyridamole, prasugrel, ticlopidine</td>
+</tr>
+<tr>
+<td>Nonsteroidal Anti-Inflammatory Agents</td>
+<td>celecoxib, diclofenac, diflunisal, fenoprofen, ibuprofen, indomethacin, ketoprofen, ketorolac, mefenamic acid, naproxen, oxaprozin, piroxicam, sulindac</td>
+</tr>
+<tr>
+<td>Serotonin Reuptake Inhibitors</td>
+<td>citalopram, desvenlafaxine, duloxetine, escitalopram, fluoxetine, fluvoxamine, milnacipran, paroxetine, sertraline, venlafaxine, vilazodone</td>
+</tr>
+</tbody>
+</table>
