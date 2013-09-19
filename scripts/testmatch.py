@@ -6,7 +6,8 @@
 # Authors: Stephanie Dofitas and Richard Boyce
 # 09/12/2013
 #
-##NOTES 9/18/13: Could not determine the overarching difference between tables with same # rows and columns but different information
+## NOTES 9/18/13: Format of dict is {table contents:file name} ... made searching easier
+## Could not determine the overarching difference between tables with same # rows and columns but different information
 ## How to see what type?
 ## Enzyme or interaction????
 
@@ -20,7 +21,8 @@ fileL = ["TABLE-030dac01-d589-4c3e-94dc-a9088b6a1171-drugInteractions-0.txt","TA
 #*******************************************************************************************************************************************************
 
 fileCount=len(fileL) #Shows 144 files in the list
-print(fileCount)
+#print(fileCount)
+
 # open the file, use soup on it, then close the file:
 readFile= "../data/warfarin/"+fileL[0]
 f = open(readFile)
@@ -31,15 +33,19 @@ f.close()
 tableStr = str(soup)
 
 # initialize dict d with first entry
-d={tableStr:fileL[0]} 
-print(d)
-b=0
-a=0
-for i in range(1, fileCount-1): #this cycles through the whole list of files, starting with the second
+d={tableStr:fileL[0]}
+
+#print(d) check if first one was added
+#duplicates=0 #initialize counter for duplicates
+#unique=0 #initialize counter for entries added
+
+for i in range(1, fileCount): #this cycles through the whole list of files, starting with the second...mot fileCount-1?
 
     readFile= "../data/warfarin/"+fileL[i] #this is the file I want to read
     f = open(readFile)
     soup=BeautifulSoup(f)
+    tableStr = str(soup)
+
     f.close()
 
 
@@ -49,9 +55,10 @@ for i in range(1, fileCount-1): #this cycles through the whole list of files, st
     #*******************************************************************************************************************************************************
 
     #if the contents already match contents in the dictionary
-    if tableStr in d.keys():
+    
+    if tableStr in d:
         print (readFile + " has the same contents as existing file already added to dictionary")
-        b+=1
+        #duplicates+=1 #duplicate found
         #NEED TO SPECIFY WHAT IT IS A DUPLICATE OF?
 
 
@@ -67,13 +74,13 @@ for i in range(1, fileCount-1): #this cycles through the whole list of files, st
         #under the assumption that all content is different
         #here, find number of rows and number of columns.
         #NOTE: how to tell if it is the same type of table but contains more information?
-        a+=1
+        #unique+=1 #entry added
 
         
 
 #print(d)
-print(b)
-print(a)
+#print(duplicates) #total duplicates found
+#print(unique) #total entries added
 
 
 #*******************************************************************************************************************************************************
