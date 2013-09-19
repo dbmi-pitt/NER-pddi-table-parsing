@@ -57,7 +57,9 @@ for i in range(1, fileCount): #this cycles through the whole list of files, star
     #if the contents already match contents in the dictionary
     
     if tableStr in d:
-        print (readFile + " has the same contents as existing file already added to dictionary")
+        print (readFile + " has the same contents as existing file already added to dictionary:")
+        print (d[tableStr] + "\n")
+
         #duplicates+=1 #duplicate found
         #NEED TO SPECIFY WHAT IT IS A DUPLICATE OF?
 
