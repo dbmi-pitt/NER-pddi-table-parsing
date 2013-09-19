@@ -75,7 +75,7 @@ for i in range(1, fileCount): #this cycles through the whole list of files, star
         #if the contents are unique, add entry to dictionary
         d[tableStr]=readFile
 
-        # process table data
+        # process table data and match them?
         title = soup.find('thead') #how to find title?
         table = soup.find('table')
         rows = table.findAll('tr')
@@ -89,18 +89,17 @@ for i in range(1, fileCount): #this cycles through the whole list of files, star
             i += 1 #+1 for every column found
         
         if i in tableType:
+            print(readFile + "is a table of type: " + tableType.get(i))
             continue
         else:
-            k=i+1
-            tableType[i]="column indexes" #this just says these tables are distinguishable depending on #cols
+            
+            #MANUAL ENTRY FOR TABLE TYPE:
+            manualMatch={1:"Table 3Drugs that Can Increase the Risk of Bleeding",2:"Table 2 Examples of CYP450 Interactions with Warfarin",3:"Specific Drugs Reported"}
+            tableType[i]=manualMatch.get(i) #this just says these tables are distinguishable depending on number of cols
+            
+        print(readFile + "is a table of new type" + tableType.get(i))
             
 print (tableType)
-        #print(i+1)
-        #under the assumption that all content is different
-        #here, find number of rows and number of columns.
-        #NOTE: how to tell if it is the same type of table but contains more information?
-        #unique+=1 #entry added
-
         
 
 #print(d)
