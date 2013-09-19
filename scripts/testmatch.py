@@ -34,6 +34,7 @@ tableStr = str(soup)
 
 # initialize dict d with first entry
 d={tableStr:fileL[0]}
+tableType={} #dict for types of tables
 
 #print(d) check if first one was added
 #duplicates=0 #initialize counter for duplicates
@@ -61,7 +62,7 @@ for i in range(1, fileCount): #this cycles through the whole list of files, star
         print (d[tableStr] + "\n")
 
         #duplicates+=1 #duplicate found
-        #NEED TO SPECIFY WHAT IT IS A DUPLICATE OF?
+        #NEED TO SPECIFY WHAT IT IS A DUPLICATE OF? done
 
 
     #*******************************************************************************************************************************************************
@@ -70,9 +71,31 @@ for i in range(1, fileCount): #this cycles through the whole list of files, star
     # (e.g., additional drugs)?
     #*******************************************************************************************************************************************************
 
-    #if the contents are unique, add entry to dictionary
     else:
+        #if the contents are unique, add entry to dictionary
         d[tableStr]=readFile
+
+        # process table data
+        title = soup.find('thead') #how to find title?
+        table = soup.find('table')
+        rows = table.findAll('tr')
+        headers=table.findAll('content')
+
+        for tr in rows:
+          cols = tr.findAll('td')
+        i = -1 # to track columns
+        
+        for td in cols:
+            i += 1 #+1 for every column found
+        
+        if i in tableType:
+            continue
+        else:
+            k=i+1
+            tableType[i]="column indexes" #this just says these tables are distinguishable depending on #cols
+            
+print (tableType)
+        #print(i+1)
         #under the assumption that all content is different
         #here, find number of rows and number of columns.
         #NOTE: how to tell if it is the same type of table but contains more information?
