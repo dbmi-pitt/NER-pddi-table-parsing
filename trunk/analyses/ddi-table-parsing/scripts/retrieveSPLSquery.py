@@ -27,7 +27,6 @@
 import re, string
 import codecs
 from SPARQLWrapper import SPARQLWrapper, JSON
-import simplejson as json
 import pickle
 import sys, os
 import fileinput
