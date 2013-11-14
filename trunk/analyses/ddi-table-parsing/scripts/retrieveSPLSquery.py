@@ -193,10 +193,10 @@ WHERE {
 if __name__ == "__main__":
 	## the D2R server can be slower but is generally more
 	## up-to-date than the virtuoso server (next line)
-	sparql = SPARQLWrapper("http://dbmi-icode-01.dbmi.pitt.edu/linkedSPLs/sparql")
+	#sparql = SPARQLWrapper("http://dbmi-icode-01.dbmi.pitt.edu/linkedSPLs/sparql")
 
 	## a higher performance but more static endpoint
-	#sparql = SPARQLWrapper("http://dbmi-icode-01.dbmi.pitt.edu:8080/sparql")
+	sparql = SPARQLWrapper("http://dbmi-icode-01.dbmi.pitt.edu:8080/sparql")
 
 	lspls = []
 	for line in fileinput.input('setIDs.txt'):
