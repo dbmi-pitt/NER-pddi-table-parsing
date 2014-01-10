@@ -1,0 +1,26 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" span="1" valign="top" width="25%"></col>
+<col align="left" span="1" valign="top" width="75%"></col>
+<tbody>
+<tr>
+<th colspan="1">Interacting Drug</th>
+<th colspan="1">Interaction</th>
+</tr>
+<tr>
+<td>Multivalent cation-containing products including antacids, metal cations or didanosine</td>
+<td>Absorption of levofloxacin is decreased when the tablet or oral solution formulation is taken within 2 hours of these products. Do not co-administer the intravenous formulation in the same IV line with a multivalent cation, e.g., magnesium (<linkhtml href="#S2.4">2.4</linkhtml>
+<content stylecode="italics">, </content>
+<linkhtml href="#S7.1">7.1</linkhtml>)</td>
+</tr>
+<tr>
+<td>Warfarin</td>
+<td>Effect may be enhanced. Monitor prothrombin time, INR, watch for bleeding (<linkhtml href="#S7.2">7.2</linkhtml>)</td>
+</tr>
+<tr>
+<td>Antidiabetic agents</td>
+<td>Carefully monitor blood glucose (<linkhtml href="#S5.11">5.11</linkhtml>
+<content stylecode="italics">, </content>
+<linkhtml href="#S7.3">7.3</linkhtml>)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,30 @@
+<table border="1" id="id_0e849586-1774-4aea-b2e4-d1914d6f25aa" width="431.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="49.4%"></col>
+<col width="50.6%"></col>
+<tbody>
+<tr id="id_e1979ea8-ada3-4582-a3e3-1354d7b3ddb7">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Interacting Agents</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Prescribing Recommendations</content>
+</td>
+</tr>
+<tr id="id_cd42ad3c-b3ba-472d-ae15-350954a0461e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, nefazodone), gemfibrozil, cyclosporine, danazol </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Contraindicated with simvastatin </td>
+</tr>
+<tr id="id_5383238c-6c20-4b74-9ab1-6fad979d0241">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Verapamil, diltiazem, dronedarone</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Do not exceed 10 mg simvastatin daily </td>
+</tr>
+<tr id="id_5e0833b6-067a-4263-9ee3-7ac4a132a764">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Amiodarone, amlodipine, ranolazine</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Do not exceed 20 mg simvastatin daily </td>
+</tr>
+<tr id="id_afa8b287-328d-486e-b77c-a4483bc31f4e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Grapefruit juice </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Avoid grapefruit juice</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,25 @@
+<table border="single" id="id_87ca5886-a7e0-40de-a5ea-7bb1752f722d" width="443" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="24.8%"></col>
+<col width="75.2%"></col>
+<tbody>
+<tr id="id_15e36ed6-4cc3-4392-a3d5-c75be2e9a4c7">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top">DRUG</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">DESCRIPTION OF INTERACTION</td>
+</tr>
+<tr id="id_6555671b-c1ad-4148-88ae-8c3bfda893ba">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>Heparin</paragraph>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Salicylate decreases platelet adhesiveness and interferes with hemostasis in heparin</paragraph>treated patients.</td>
+</tr>
+<tr id="id_d6ad14c4-262e-491e-b280-70a81333e9fc">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Pyrazinamide</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Inhibits pyrazinamide induced hyperuricemia.</td>
+</tr>
+<tr id="id_b3d48e9f-5be4-424c-bfa6-c8bb3a1e6b9e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Uricosuric Agents</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Effect of probenemide, sulfinpyrazone and phenylbutazone inhibited.</td>
+</tr>
+</tbody>
+</table>

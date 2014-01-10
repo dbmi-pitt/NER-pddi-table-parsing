@@ -1,0 +1,58 @@
+<table id="table7" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7: Selected Drug Interactions in Adults</caption>
+<col align="left" span="1" valign="top" width="30%"></col>
+<col align="center" span="1" valign="top" width="20%"></col>
+<col align="center" span="1" valign="top" width="50%"></col>
+<tbody>
+<tr>
+<th colspan="1">Concomitant Drug Class:<br/>Drug Name</th>
+<th colspan="1">Effect on Concentration of Raltegravir</th>
+<th colspan="1">Clinical Comment</th>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">HIV-1-Antiviral Agents</content>
+</td>
+</tr>
+<tr>
+<td>atazanavir</td>
+<td>↑</td>
+<td>Atazanavir, a strong inhibitor of UGT1A1, increases plasma concentrations of raltegravir. However, since concomitant use of ISENTRESS with atazanavir/ritonavir did not result in a unique safety signal in Phase 3 studies, no dose adjustment is recommended.</td>
+</tr>
+<tr>
+<td>atazanavir/ritonavir</td>
+<td>↑</td>
+<td>Atazanavir/ritonavir increases plasma concentrations of raltegravir. However, since concomitant use of ISENTRESS with atazanavir/ritonavir did not result in a unique safety signal in Phase 3 studies, no dose adjustment is recommended.</td>
+</tr>
+<tr>
+<td>efavirenz</td>
+<td>↓</td>
+<td>Efavirenz reduces plasma concentrations of raltegravir. The clinical significance of this interaction has not been directly assessed.</td>
+</tr>
+<tr>
+<td>etravirine</td>
+<td>↓</td>
+<td>Etravirine reduces plasma concentrations of raltegravir. The clinical significance of this interaction has not been directly assessed.</td>
+</tr>
+<tr>
+<td>tipranavir/ritonavir</td>
+<td>↓</td>
+<td>Tipranavir/ritonavir reduces plasma concentrations of raltegravir. However, since comparable efficacy was observed for this combination relative to other ISENTRESS-containing regimens in Phase 3 studies 018 and 019, no dose adjustment is recommended.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Other Agents</content>
+</td>
+</tr>
+<tr>
+<td>omeprazole</td>
+<td>↑</td>
+<td>Coadministration of medicinal products that increase gastric pH (e.g., omeprazole) may increase raltegravir levels based on increased raltegravir solubility at higher pH. However, since concomitant use of ISENTRESS with proton pump inhibitors and H2 blockers did not result in a unique safety signal in Phase 3 studies, no dose adjustment is recommended.</td>
+</tr>
+<tr>
+<td>rifampin</td>
+<td>↓</td>
+<td>Rifampin, a strong inducer of UGT1A1, reduces plasma concentrations of raltegravir. The recommended dosage of ISENTRESS is 800 mg twice daily during coadministration with rifampin.</td>
+</tr>
+</tbody>
+</table>

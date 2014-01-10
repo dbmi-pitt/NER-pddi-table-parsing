@@ -1,0 +1,46 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="77%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<paragraph>Antibiotics</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>azithromycin, clarithromycin, erythromycin, quinupristin/dalfopristin</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Antifungals</paragraph>
+</td>
+<td>
+<paragraph>fluconazole, itraconazole, ketoconazole, voriconazole</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Calcium Channel Blockers</paragraph>
+</td>
+<td>
+<paragraph>diltiazem, nicardipine, verapamil</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Glucocorticoids</paragraph>
+</td>
+<td>
+<paragraph>methylprednisolone</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Other Drugs</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>allopurinol, amiodarone, bromocriptine, colchicine, danazol, metoclopromide, imatinib, nefazodone, oral contraceptives</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

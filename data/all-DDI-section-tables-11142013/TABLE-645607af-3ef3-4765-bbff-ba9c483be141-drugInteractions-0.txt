@@ -1,0 +1,189 @@
+<table border="0" id="id_79ddb58a-755b-41b1-a033-aeb3d87114b0" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_2be5a863-eb11-43b1-82dd-6d61c469d15b">Table 4 Established and Potential Drug Interactions: Use With Caution, Alteration in Dose or Regimen May Be Needed Due to Drug Interaction Established Drug Interactions: See Clinical Pharmacology (12.3), Table 5 for Magnitude of Interaction.</caption>
+<col width="30%"></col>
+<col width="20%"></col>
+<col width="50%"></col>
+<tbody>
+<tr id="id_ecd48661-f584-4349-9a6c-2f7f13c0be38">
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Drug Name</content>
+</content>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Effect on Concentration of <br/> Nevirapine or Concomitant Drug</content>
+</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Clinical Comment</content>
+</content>
+</td>
+</tr>
+<tr id="id_95775508-aa72-4aa9-a2e6-7900f31ca3ee">
+<td align="left" stylecode="Botrule" valign="top">Atazanavir/Ritonavir</td>
+<td align="left" stylecode="Botrule" valign="top">↓ Atazanavir<br/>
+<br/> ↑ Nevirapine</td>
+<td align="left" stylecode="Botrule" valign="top">Do not co-administer nevirapine with atazanavir because nevirapine substantially decreases atazanavir exposure.</td>
+</tr>
+<tr id="id_6d58d6b2-6ec7-4a89-b090-5fc3be15488c">
+<td align="left" stylecode="Botrule" valign="top">Clarithromycin</td>
+<td align="left" stylecode="Botrule" valign="top">↓ Clarithromycin<br/>
+<br/> ↑ 14-OH clarithromycin</td>
+<td align="left" stylecode="Botrule" valign="top">Clarithromycin exposure was significantly decreased by nevirapine; however, 14-OH metabolite concentrations were increased.  Because clarithromycin active metabolite has reduced activity against <content stylecode="italics">
+<content stylecode="emphasis">Mycobacterium avium-intracellulare complex</content>
+</content>, overall activity against this pathogen may be altered. Alternatives to clarithromycin, such as azithromycin, should be considered.</td>
+</tr>
+<tr id="id_7e31a45e-38d8-402e-b645-aafbc3b9daed">
+<td align="left" valign="top">Efavirenz</td>
+<td align="left" valign="top">↓ Efavirenz</td>
+<td align="left" valign="top">There has been no determination of appropriate doses for the safe and effective use of this combination [<content stylecode="italics">
+<content stylecode="emphasis">
+<linkhtml href="#i4i_section_id_32351988-6fcd-4359-bc68-603596e23d8e">see Warnings and Precautions (5.4)</linkhtml>
+</content>
+</content>].</td>
+</tr>
+<tr id="id_2362ff13-8bd8-4c0d-a10f-3043d1166fc2">
+<td align="left" stylecode="Botrule" valign="top">Ethinyl estradiol and Norethindrone</td>
+<td align="left" stylecode="Botrule" valign="top">↓ Ethinyl estradiol<br/>
+<br/> ↓ Norethindrone</td>
+<td align="left" stylecode="Botrule" valign="top">Oral contraceptives and other hormonal methods of birth control should not be used as the sole method of contraception in women taking nevirapine, since nevirapine may lower the plasma levels of these medications.  An alternative or additional method of contraception is recommended.</td>
+</tr>
+<tr id="id_5bcacd4f-b560-4b75-b112-a8bf74583882">
+<td align="left" valign="top">Fluconazole</td>
+<td align="left" valign="top">↑Nevirapine</td>
+<td align="left" valign="top">Because of the risk of increased exposure to nevirapine, caution should be used in concomitant administration, and patients should be monitored closely for nevirapine-associated adverse events.</td>
+</tr>
+<tr id="id_62a64e43-5e83-48ce-b384-b49497358016">
+<td align="left" stylecode="Botrule" valign="top">Fosamprenavir</td>
+<td align="left" stylecode="Botrule" valign="top">↓ Amprenavir<br/>
+<br/> ↑ Nevirapine</td>
+<td align="left" stylecode="Botrule" valign="top">Co-administration of nevirapine and fosamprenavir without ritonavir is not recommended.</td>
+</tr>
+<tr id="id_be19f818-28f4-4317-b8e1-7c8e3ac33611">
+<td align="left" stylecode="Botrule" valign="top">Fosamprenavir/Ritonavir</td>
+<td align="left" stylecode="Botrule" valign="top">↓ Amprenavir<br/>
+<br/> ↑ Nevirapine</td>
+<td align="left" stylecode="Botrule" valign="top">No dosing adjustments are required when nevirapine is co-administered with 700/100 mg of fosamprenavir/ritonavir twice daily.</td>
+</tr>
+<tr id="id_f70f6a60-b8a2-4b30-8983-ca268e95f9a9">
+<td align="left" stylecode="Botrule" valign="top">Indinavir</td>
+<td align="left" stylecode="Botrule" valign="top">↓ Indinavir</td>
+<td align="left" stylecode="Botrule" valign="top">Appropriate doses for this combination are not established, but an increase in the dosage of indinavir may be required.</td>
+</tr>
+<tr id="id_09c42000-c5c9-40f8-8195-fe32b16da4b6">
+<td align="left" valign="top">Ketoconazole</td>
+<td align="left" valign="top">↓ Ketoconazole</td>
+<td align="left" valign="top">Nevirapine and ketoconazole should not be administered concomitantly because decreases in ketoconazole plasma concentrations may reduce the efficacy of the drug.</td>
+</tr>
+<tr id="id_252d1bf1-0171-4c34-9878-70f9fc3bbbfa">
+<td align="left" stylecode="Botrule" valign="top">Lopinavir/Ritonavir</td>
+<td align="left" stylecode="Botrule" valign="top">↓Lopinavir</td>
+<td align="left" stylecode="Botrule" valign="top">A dose increase of lopinavir/ritonavir tablets to 500/125 mg twice-daily is recommended when used in combination with nevirapine.<br/>
+<br/> A dose increase of lopinavir/ritonavir oral solution to 533/133 mg twice daily with food is recommended in combination with nevirapine. <br/>
+<br/> In children 6 months to 12 years of age receiving lopinavir/ritonavir solution, consideration should be given to increasing the dose of lopinavir/ritonavir to 13/3.25 mg/kg for those 7 to &lt;15 kg; 11/2.75 mg/kg for those 15 to 45 kg; up to a maximum dose of 533/133 mg twice daily.<br/>
+<br/> Refer to the lopinavir/ritonavir package insert for complete pediatric dosing instructions when lopinavir/ritonavir tablets are used in combination with nevirapine.</td>
+</tr>
+<tr id="id_b680d275-1cd3-489c-b849-82a2bcd9f766">
+<td align="left" valign="top">Methadone</td>
+<td align="left" valign="top">↓ Methadone</td>
+<td align="left" valign="top">Methadone levels were decreased; increased dosages may be required to prevent symptoms of opiate withdrawal.  Methadone-maintained patients beginning nevirapine therapy should be monitored for evidence of withdrawal and methadone dose should be adjusted accordingly.</td>
+</tr>
+<tr id="id_637755d9-318b-4029-8606-9f2998d41632">
+<td align="left" stylecode="Botrule" valign="top">Nelfinavir</td>
+<td align="left" stylecode="Botrule" valign="top">↓Nelfinavir M8 Metabolite<br/> ↓Nelfinavir C<sub>min</sub>
+</td>
+<td align="left" stylecode="Botrule" valign="top">The appropriate dose for nelfinavir in combination with nevirapine, with respect to safety and efficacy, has not been established.</td>
+</tr>
+<tr id="id_0730c2c5-2b9f-4871-b5d2-e2ff8b1a8978">
+<td align="left" valign="top">Rifabutin</td>
+<td align="left" valign="top">↑Rifabutin</td>
+<td align="left" valign="top">Rifabutin and its metabolite concentrations were moderately increased.  Due to high intersubject variability, however, some patients may experience large increases in rifabutin exposure and may be at higher risk for rifabutin toxicity.  Therefore, caution should be used in concomitant administration.</td>
+</tr>
+<tr id="id_f62cda48-66c3-43c0-93da-fe3f2aea2479">
+<td align="left" stylecode="Botrule" valign="top">Rifampin</td>
+<td align="left" stylecode="Botrule" valign="top">↓ Nevirapine</td>
+<td align="left" stylecode="Botrule" valign="top">Nevirapine and rifampin should not be administered concomitantly because decreases in nevirapine plasma concentrations may reduce the efficacy of the drug.  Physicians needing to treat patients co-infected with tuberculosis and using a nevirapine-containing regimen may use rifabutin instead.  </td>
+</tr>
+<tr id="id_099758fb-3136-4025-9820-df3d3cd9c0cc">
+<td align="left" valign="top">Saquinavir/Ritonavir</td>
+<td align="left" valign="top">The interaction between nevirapine and saquinavir/ritonavir has not been evaluated</td>
+<td align="left" valign="top">The appropriate doses of the combination of nevirapine and saquinavir/ritonavir with respect to safety and efficacy have not been established. </td>
+</tr>
+<tr id="id_d6caa710-ddb8-466b-a3f4-f87e563b64da">
+<td align="left" stylecode="Botrule" valign="top">
+<br/>
+<content stylecode="bold">
+<content stylecode="emphasis">
+<content stylecode="italics">Potential</content> Drug Interactions: </content>
+</content>
+</td>
+<td align="left" stylecode="Botrule" valign="top"> </td>
+<td align="left" stylecode="Botrule" valign="top"> </td>
+</tr>
+<tr id="id_a4c72694-78f8-4c1e-bc37-81b5e3dac368">
+<td align="left" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Drug Class</content>
+</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Examples of Drugs</content>
+</content>
+</td>
+<td align="left" valign="top"> </td>
+</tr>
+<tr id="id_379298d9-5342-4cc7-aa21-7e06de7cbeeb">
+<td align="left" stylecode="Botrule" valign="top">Antiarrhythmics</td>
+<td align="left" stylecode="Botrule" valign="top">Amiodarone, disopyramide, lidocaine</td>
+<td align="left" stylecode="Botrule" valign="top">Plasma concentrations may be decreased.</td>
+</tr>
+<tr id="id_4d0d9b4c-19fa-44c6-b642-b8ff0e2cc969">
+<td align="left" valign="top">Anticonvulsants</td>
+<td align="left" valign="top">Carbamazepine, clonazepam, ethosuximide</td>
+<td align="left" valign="top">Plasma concentrations may be decreased.</td>
+</tr>
+<tr id="id_bfc017d6-02b4-434c-bf9f-5a179807ba14">
+<td align="left" stylecode="Botrule" valign="top">Antifungals</td>
+<td align="left" stylecode="Botrule" valign="top">Itraconazole</td>
+<td align="left" stylecode="Botrule" valign="top">Plasma concentrations of some azole antifungals may be decreased. Nevirapine and itraconazole should not be administered concomitantly due to a potential decrease in itraconazole plasma concentrations.</td>
+</tr>
+<tr id="id_7139a857-4f5a-4519-ae5d-fb90aa37f462">
+<td align="left" valign="top">Calcium channel blockers</td>
+<td align="left" valign="top">Diltiazem, nifedipine, verapamil</td>
+<td align="left" valign="top">Plasma concentrations may be decreased.</td>
+</tr>
+<tr id="id_4d2df4f8-efa9-434e-8d15-272a3a29940d">
+<td align="left" stylecode="Botrule" valign="top">Cancer chemotherapy</td>
+<td align="left" stylecode="Botrule" valign="top">Cyclophosphamide</td>
+<td align="left" stylecode="Botrule" valign="top">Plasma concentrations may be decreased.</td>
+</tr>
+<tr id="id_c7a9377b-5b48-4ec8-b1c1-0c356ae01372">
+<td align="left" valign="top">Ergot alkaloids</td>
+<td align="left" valign="top">Ergotamine</td>
+<td align="left" valign="top">Plasma concentrations may be decreased.</td>
+</tr>
+<tr id="id_87b7daed-c58d-4a8e-8fb6-909fb2981fc5">
+<td align="left" stylecode="Botrule" valign="top">Immunosuppressants</td>
+<td align="left" stylecode="Botrule" valign="top">Cyclosporin, tacrolimus, sirolimus</td>
+<td align="left" stylecode="Botrule" valign="top">Plasma concentrations may be decreased.</td>
+</tr>
+<tr id="id_e29c26fb-86a6-4301-8ae2-55e59716f830">
+<td align="left" valign="top">Motility agents</td>
+<td align="left" valign="top">Cisapride</td>
+<td align="left" valign="top">Plasma concentrations may be decreased.</td>
+</tr>
+<tr id="id_d0da7ee2-3969-49cb-81c3-011c9a8175c2">
+<td align="left" stylecode="Botrule" valign="top">Opiate agonists</td>
+<td align="left" stylecode="Botrule" valign="top">Fentanyl</td>
+<td align="left" stylecode="Botrule" valign="top">Plasma concentrations may be decreased.</td>
+</tr>
+<tr id="id_5201383f-f911-48b1-8f5b-53046befe403">
+<td align="left" stylecode="Botrule" valign="top">Antithrombotics</td>
+<td align="left" stylecode="Botrule" valign="top">Warfarin</td>
+<td align="left" stylecode="Botrule" valign="top">Plasma concentrations may be increased. Potential effect on anticoagulation. Monitoring of anticoagulation levels is recommended.</td>
+</tr>
+</tbody>
+</table>

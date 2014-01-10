@@ -1,0 +1,66 @@
+<table width="700" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5:  AED Drug Interactions with Oxcarbazepine</caption>
+<tfoot>
+<tr>
+<td colspan="5">
+<sup>1</sup>nc denotes a mean change of less than 10% </td>
+</tr>
+<tr>
+<td colspan="5">
+<sup>2</sup>Pediatrics</td>
+</tr>
+<tr>
+<td colspan="5">
+<sup>3</sup>Mean increase in adults at high doses of immediate-release oxcarbazepine</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="botrule">
+<td align="center" stylecode="Lrule Rrule">
+<content stylecode="Bold">AED<br/>Coadministered<br/>(daily dose)</content>
+</td>
+<td align="center" stylecode="Rrule">
+<content stylecode="Bold">IR- <br/>Oxcarbazepine <br/>(daily dose)</content>
+</td>
+<td align="center" stylecode="Rrule">
+<content stylecode="Bold">Influence of IR- <br/>Oxcarbazepine on <br/>AED Concentration <br/>Mean Change [90% <br/>Confidence Interval]</content>
+</td>
+<td align="center" stylecode="Rrule">
+<content stylecode="Bold">Influence of AED on <br/>MHD Concentration <br/>(Mean Change, 90% <br/>Confidence Interval)</content>
+</td>
+<td align="center" stylecode="Rrule">
+<content stylecode="Bold">Recommendation</content>
+</td>
+</tr>
+<tr stylecode="botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Carbamazepine<br/>(400 – 2000 mg)</td>
+<td align="center" stylecode="Rrule" valign="top">900 mg</td>
+<td align="center" stylecode="Rrule" valign="top">nc<content stylecode="sup">1</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top">40% decrease <br/>[CI: 17% decrease, 57% <br/>decrease]</td>
+<td align="center" rowspan="3" stylecode="Rrule">Consider initiating<br/> Oxtellar XR™ at<br/> a higher dose.<br/> Monitor and<br/> titrate dose  to<br/> desired clinical<br/> effect (see <linkhtml href="#TH026aa609920-1d1d-11e1-8bc2-0800200c9a66">2.6</linkhtml>)</td>
+</tr>
+<tr stylecode="botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Phenobarbital<br/>(100 – 150 mg)</td>
+<td align="center" stylecode="Rrule" valign="top">600 – 1800 mg</td>
+<td align="center" stylecode="Rrule" valign="top">14% increase<br/>[CI: 2% increase, 24% <br/>increase]</td>
+<td align="center" stylecode="Rrule" valign="top">25% decrease <br/>[CI: 12% decrease, 51% <br/>decrease]</td>
+</tr>
+<tr stylecode="botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Phenytoin<br/>(250 – 500 mg)</td>
+<td align="center" stylecode="Rrule" valign="top">600 – 1800<br/>&gt;1200-2400</td>
+<td align="center" stylecode="Rrule" valign="top">nc<content stylecode="sup">1,2</content>
+<br/>up to 40% increase<content stylecode="sup">3</content>
+<br/>[CI: 12% increase, 60% <br/>increase]</td>
+<td align="center" stylecode="Rrule" valign="top">30% decrease<br/>[CI: 3% decrease, 48% <br/>decrease]</td>
+</tr>
+<tr stylecode="botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Valproic Acid<br/>(400 – 2800 mg)</td>
+<td align="center" stylecode="Rrule" valign="top">600-1800</td>
+<td align="center" stylecode="Rrule" valign="top">nc<content stylecode="sup">1</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top">18% decrease <br/>[CI: 13% decrease, 40% <br/>decrease]</td>
+<td align="center" stylecode="Rrule">Monitor. Dose<br/> adjustment of<br/> Oxtellar XR™<br/> may not be<br/> needed. </td>
+</tr>
+</tbody>
+</table>

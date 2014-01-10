@@ -1,0 +1,61 @@
+<table id="table_7" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col width="32%"></col>
+<col width="33%"></col>
+<col width="33%"></col>
+</colgroup>
+<tbody>
+<tr valign="top">
+<td stylecode="Toprule">
+<content stylecode="bold">
+<content stylecode="underline">Antibiotics  </content>
+</content>
+</td>
+<td stylecode="Toprule">
+<content stylecode="bold">
+<content stylecode="underline">Anticonvulsants  </content>
+</content>
+</td>
+<td stylecode="Toprule">
+<content stylecode="bold">
+<content stylecode="underline">Other Drugs/Dietary Supplements</content>
+</content>
+</td>
+</tr>
+<tr valign="top">
+<td>nafcillin</td>
+<td>carbamazepine</td>
+<td>bosentan</td>
+</tr>
+<tr valign="top">
+<td>rifampin</td>
+<td>oxcarbazepine</td>
+<td>octreotide</td>
+</tr>
+<tr valign="top">
+<td> </td>
+<td>phenobarbital</td>
+<td>orlistat</td>
+</tr>
+<tr valign="top">
+<td> </td>
+<td>phenytoin</td>
+<td>sulfinpyrazone </td>
+</tr>
+<tr valign="top">
+<td> </td>
+<td> </td>
+<td>St. John's Wort</td>
+</tr>
+<tr valign="top">
+<td> </td>
+<td> </td>
+<td>terbinafine</td>
+</tr>
+<tr valign="top">
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule">ticlopidine</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,67 @@
+<table id="table9" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9:  Predicted Drug Interactions with VIDEX </caption>
+<colgroup>
+<col width="25%"></col>
+<col align="center" width="30%"></col>
+<col width="45%"></col>
+</colgroup>
+<thead>
+<tr>
+<th>Drug or Drug Class</th>
+<th>Effect</th>
+<th>Clinical Comment</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3">↑  Indicates increase.</td>
+</tr>
+<tr>
+<td align="left" colspan="3">↓  Indicates decrease.</td>
+</tr>
+<tr>
+<td align="left" colspan="3">
+<sup>a</sup>  Only if other drugs are not available and if clearly indicated. If treatment with life-sustaining drugs that cause pancreatic toxicity is required, suspension of VIDEX is recommended [<content stylecode="italics">see Warnings and Precautions <linkhtml href="#Section_5.1">(5.1)</linkhtml>
+</content>].</td>
+</tr>
+<tr>
+<td align="left" colspan="3">
+<sup>b</sup>  [<content stylecode="italics">See Warnings and Precautions <linkhtml href="#Section_5.6">(5.6)</linkhtml>
+</content>.]</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" valign="top">Drugs that may cause pancreatic toxicity</td>
+<td valign="top">↑ risk of pancreatitis</td>
+<td align="left" valign="top">Use only with extreme caution<sup>a</sup>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Neurotoxic drugs</td>
+<td valign="top">↑ risk of neuropathy</td>
+<td align="left" valign="top">Use with caution<sup>b</sup>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Antacids containing magnesium or aluminum</td>
+<td valign="top">↑ side effects associated with antacid components</td>
+<td align="left" valign="top">Use caution with VIDEX Pediatric Powder for Oral Solution</td>
+</tr>
+<tr>
+<td align="left" valign="top">Azole antifungals</td>
+<td valign="top">↓ ketoconazole or itraconazole concentration</td>
+<td align="left" valign="top">Administer drugs such as ketoconazole or itraconazole at least 2 hours before VIDEX.</td>
+</tr>
+<tr>
+<td align="left" valign="top">Quinolone antibiotics (see also ciprofloxacin in <linkhtml href="#table8">Table 8</linkhtml>)</td>
+<td valign="top">↓ quinolone concentration</td>
+<td align="left" valign="top">Consult package insert of the quinolone.</td>
+</tr>
+<tr>
+<td align="left" valign="top">Tetracycline antibiotics</td>
+<td valign="top">↓ antibiotic concentration</td>
+<td align="left" valign="top">Consult package insert of the tetracycline.</td>
+</tr>
+</tbody>
+</table>

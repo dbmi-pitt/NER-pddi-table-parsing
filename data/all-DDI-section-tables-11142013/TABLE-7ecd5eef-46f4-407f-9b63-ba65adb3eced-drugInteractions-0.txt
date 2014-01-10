@@ -1,0 +1,81 @@
+<table id="t3" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3:  Summary of AED Interactions with Oxcarbazepine</caption>
+<thead>
+<tr>
+<td stylecode="Toprule " valign="bottom">
+<content stylecode="bold">AED </content>
+<content stylecode="bold">
+<br/>Coadministered</content>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<content stylecode="bold">Dose of AED </content>
+<content stylecode="bold">
+<br/>(mg/day)</content>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<content stylecode="bold">Oxcarbazepine<br/> Dose </content>
+<content stylecode="bold">
+<br/>(mg/day)</content>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<content stylecode="bold">Influence of </content>
+<content stylecode="bold">
+<br/>Oxcarbazepine on AED </content>
+<content stylecode="bold">
+<br/>Concentration </content>
+<content stylecode="bold">
+<br/>(Mean Change, </content>
+<content stylecode="bold">
+<br/>90% Confidence </content>
+<content stylecode="bold">
+<br/>Interval)</content>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<content stylecode="bold">Influence of </content>
+<content stylecode="bold">
+<br/>AED on MHD </content>
+<content stylecode="bold">
+<br/>Concentration </content>
+<content stylecode="bold">
+<br/>(Mean Change, </content>
+<content stylecode="bold">
+<br/>90% Confidence </content>
+<content stylecode="bold">
+<br/>Interval)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Toprule ">Carbamazepine</td>
+<td stylecode="Toprule ">400 to 2000</td>
+<td stylecode="Toprule ">900</td>
+<td stylecode="Toprule ">nc<sup>1</sup>
+</td>
+<td stylecode="Toprule ">40% decrease <br/>[CI: 17% decrease, <br/>57% decrease]</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">Phenobarbital</td>
+<td stylecode="Toprule ">100 to 150</td>
+<td stylecode="Toprule ">600 to 1800</td>
+<td stylecode="Toprule ">14% increase <br/>[CI: 2% increase, <br/>24% increase]</td>
+<td stylecode="Toprule ">25% decrease <br/>[CI: 12% decrease, <br/>51% decrease]</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">Phenytoin</td>
+<td stylecode="Toprule ">250 to 500</td>
+<td stylecode="Toprule ">600 to 1800 <br/>&gt;1200 to 2400</td>
+<td stylecode="Toprule ">nc<sup>1,2 </sup>
+<br/>up to 40% <br/>increase<sup>3</sup> <br/>[CI: 12% increase, <br/>60% increase]</td>
+<td stylecode="Toprule ">30% decrease <br/>[CI: 3% decrease, <br/>48% decrease]</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">Valproic acid</td>
+<td stylecode="Toprule ">400 to 2800</td>
+<td stylecode="Toprule ">600 to 1800</td>
+<td stylecode="Toprule ">nc<sup>1</sup>
+</td>
+<td stylecode="Toprule ">18% decrease <br/>[CI: 13% decrease, <br/>40% decrease]</td>
+</tr>
+</tbody>
+</table>

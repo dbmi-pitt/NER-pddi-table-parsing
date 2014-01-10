@@ -1,0 +1,278 @@
+<table id="table11" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 11:Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [See<linkhtml href="#S12.3"> Clinical Pharmacology (12.3) </linkhtml>for Magnitude of Interaction, <linkhtml href="#table14">Tables 14</linkhtml> and <linkhtml href="#table15">15</linkhtml>]</caption>
+<col align="left" valign="top" width="33%"></col>
+<col align="left" valign="top" width="34%"></col>
+<col align="left" valign="top" width="33%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Concomitant Drug Class:<br/>Drug Name</th>
+<th stylecode="Rrule">Effect on Concentration of Darunavir or Concomitant Drug</th>
+<th stylecode="Rrule">Clinical Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">HIV-1-Antiviral Agents: Nucleoside Reverse Transcriptase Inhibitors (NRTIs)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">didanosine</td>
+<td stylecode="Rrule">↔ darunavir<br/>↔ didanosine</td>
+<td stylecode="Rrule">Didanosine should be administered one hour before or two hours after PREZISTA/ritonavir (which are administered with food).</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">HIV-1-Antiviral Agents: HIV-Protease Inhibitors (PIs)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">indinavir<br/> <br/>(The reference regimen for indinavir was indinavir/ritonavir 800/100 mg twice daily.)</td>
+<td stylecode="Rrule">↑ darunavir<br/>↑ indinavir</td>
+<td stylecode="Rrule">The appropriate dose of indinavir in combination with PREZISTA/ritonavir has not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">lopinavir/ritonavir</td>
+<td stylecode="Rrule">↓ darunavir<br/>↔ lopinavir</td>
+<td stylecode="Rrule">Appropriate doses of the combination have not been established. Hence, it is not recommended to co-administer lopinavir/ritonavir and PREZISTA, with or without ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">saquinavir</td>
+<td stylecode="Rrule">↓ darunavir<br/>↔ saquinavir</td>
+<td stylecode="Rrule">Appropriate doses of the combination have not been established. Hence, it is not recommended to co-administer saquinavir and PREZISTA, with or without ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">HIV-1-Antiviral Agents: CCR5 co-receptor antagonists</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">maraviroc</td>
+<td stylecode="Rrule">↑ maraviroc</td>
+<td stylecode="Rrule">Maraviroc concentrations are increased when co-administered with PREZISTA/ritonavir. When used in combination with PREZISTA/ritonavir, the dose of maraviroc should be 150 mg twice daily.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">Other Agents</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antiarrhythmics</content>:<br/>bepridil,<br/>lidocaine (systemic),<br/>quinidine,<br/>amiodarone,<br/>flecainide,<br/>propafenone</td>
+<td stylecode="Rrule">↑ antiarrhythmics</td>
+<td stylecode="Rrule">Concentrations of these drugs may be increased when co-administered with PREZISTA/ritonavir. Caution is warranted and therapeutic concentration monitoring, if available, is recommended for antiarrhythmics when co-administered with PREZISTA/ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">digoxin</td>
+<td stylecode="Rrule">↑ digoxin</td>
+<td stylecode="Rrule">The lowest dose of digoxin should initially be prescribed. The serum digoxin concentrations should be monitored and used for titration of digoxin dose to obtain the desired clinical effect.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anticoagulant</content>:<br/>warfarin</td>
+<td stylecode="Rrule">↓ warfarin<br/>↔ darunavir</td>
+<td stylecode="Rrule">Warfarin concentrations are decreased when co-administered with PREZISTA/ritonavir. It is recommended that the international normalized ratio (INR) be monitored when warfarin is combined with PREZISTA/ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anticonvulsant</content>:<br/>carbamazepine</td>
+<td stylecode="Rrule">↔ darunavir<br/>↑ carbamazepine</td>
+<td stylecode="Rrule">The dose of either darunavir/ritonavir or carbamazepine does not need to be adjusted when initiating co-administration with darunavir/ritonavir and carbamazepine. Clinical monitoring of carbamazepine concentrations and its dose titration is recommended to achieve the desired clinical response.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anticonvulsant</content>:<br/>phenobarbital,<br/>phenytoin</td>
+<td stylecode="Rrule">↔ darunavir<br/>↓ phenytoin<br/>↓ phenobarbital</td>
+<td stylecode="Rrule">Co-administration of PREZISTA/ritonavir may cause a decrease in the steady-state concentrations of phenytoin and phenobarbital. Phenytoin and phenobarbital levels should be monitored when co-administering with PREZISTA/ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antidepressant</content>:<br/>trazodone,<br/>desipramine</td>
+<td stylecode="Rrule">↑ trazodone<br/>↑ desipramine</td>
+<td stylecode="Rrule">Concomitant use of trazodone or desipramine and PREZISTA/ritonavir may increase plasma concentrations of trazodone or desipramine which may lead to adverse events such as nausea, dizziness, hypotension and syncope. If trazodone or desipramine is used with PREZISTA/ritonavir, the combination should be used with caution, and a lower dose of trazodone or desipramine should be considered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anti-infective</content>:<br/>clarithromycin</td>
+<td stylecode="Rrule">↔ darunavir<br/>↑ clarithromycin</td>
+<td stylecode="Rrule">No dose adjustment of the combination is required for patients with normal renal function. For patients with renal impairment, the following dose adjustments should be considered: 							<list listtype="unordered">
+<item>For subjects with CLcr of 30–60 mL/min, the dose of clarithromycin should be reduced by 50%.</item>
+<item>For subjects with CLcr of &lt; 30 mL/min, the dose of clarithromycin should be reduced by 75%.</item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antifungals</content>:<br/>ketoconazole,<br/>itraconazole,<br/>voriconazole</td>
+<td stylecode="Rrule">↑ ketoconazole<br/>↑ darunavir<br/>↑ itraconazole<br/>(not studied)<br/>↓ voriconazole<br/>(not studied)</td>
+<td stylecode="Rrule">Ketoconazole and itraconazole are potent inhibitors as well as substrates of CYP3A. Concomitant systemic use of ketoconazole, itraconazole, and darunavir/ritonavir may increase plasma concentration of darunavir.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">Plasma concentrations of ketoconazole or itraconazole may be increased in the presence of darunavir/ritonavir. When co-administration is required, the daily dose of ketoconazole or itraconazole should not exceed 200 mg.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">Plasma concentrations of voriconazole may be decreased in the presence of darunavir/ritonavir. Voriconazole should not be administered to patients receiving darunavir/ritonavir unless an assessment of the benefit/risk ratio justifies the use of voriconazole.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anti-gout</content>:<br/>colchicine</td>
+<td stylecode="Rrule">↑ colchicine</td>
+<td stylecode="Rrule">
+<content stylecode="underline">Treatment of gout-flares – co-administration of colchicine in patients on PREZISTA/ritonavir:</content>
+<br/>0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Treatment course to be repeated no earlier than 3 days.<br/> <br/>
+<paragraph>
+<content stylecode="underline">Prophylaxis of gout-flares – co-administration of colchicine in patients on PREZISTA/ritonavir:</content>
+<br/>If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day.<br/>If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day. </paragraph>
+<br/>
+<paragraph>
+<content stylecode="underline">Treatment of familial Mediterranean fever – co-administration of colchicine in patients on PREZISTA/ritonavir:</content>
+<br/>maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day).<br/>Patients with renal or hepatic impairment should not be given colchicine with PREZISTA/ritonavir.</paragraph>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antimalarials</content>:
+                                    <br/>artemether/lumefantrine</td>
+<td stylecode="Rrule">↓ artemether<br/>↓ dihydroartemisinin<br/>↑ lumefantrine<br/>↔ darunavir</td>
+<td stylecode="Rrule">The combination of PREZISTA and artemether/lumefantrine can be used without dose adjustments. However, the combination should be used with caution as increased lumefantrine exposure may increase the risk of QT prolongation.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antimycobacterial</content>:<br/>rifabutin</td>
+<td rowspan="2" stylecode="Botrule Rrule">↑ darunavir<br/>↑ rifabutin<br/>↑ 25-<content stylecode="italics">O</content>-desacetylrifabutin</td>
+<td rowspan="2" stylecode="Botrule Rrule">Dose reduction of rifabutin by at least 75% of the usual dose (300 mg once daily) is recommended (i.e., a maximum dose of 150 mg every other day). Increased monitoring for adverse events is warranted in patients receiving this combination and further dose reduction of rifabutin may be necessary.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">The reference regimen for rifabutin was 300 mg once daily</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">β-Blockers</content>:<br/> <br/>metoprolol,<br/>timolol</td>
+<td stylecode="Rrule">↑ beta-blockers</td>
+<td stylecode="Rrule">Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with PREZISTA/ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Benzodiazepines</content>:<br/>parenterally administered midazolam</td>
+<td stylecode="Rrule">↑ midazolam</td>
+<td stylecode="Rrule">Concomitant use of parenteral midazolam with PREZISTA/ritonavir may increase plasma concentrations of midazolam. Co-administration should be done in a setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage reduction for midazolam should be considered, especially if more than a single dose of midazolam is administered. Co-administration of oral midazolam with PREZISTA/ritonavir is CONTRAINDICATED.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Calcium Channel</content>
+<br/>
+<content stylecode="bold">Blockers</content>:<br/>felodipine,<br/>nifedipine,<br/>nicardipine</td>
+<td stylecode="Rrule">↑ calcium channel blockers </td>
+<td stylecode="Rrule">Plasma concentrations of calcium channel blockers (e.g., felodipine, nifedipine, nicardipine) may increase when PREZISTA/ritonavir are co-administered. Caution is warranted and clinical monitoring of patients is recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Corticosteroid</content>:<br/>
+<content stylecode="bold">Systemic</content>:<br/>dexamethasone</td>
+<td stylecode="Rrule">↓ darunavir</td>
+<td stylecode="Rrule">Systemic dexamethasone induces CYP3A and can thereby decrease darunavir plasma concentrations. This may result in loss of therapeutic effect to PREZISTA.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Corticosteroid</content>:<br/>
+<content stylecode="bold">Inhaled/Nasal</content>:<br/>fluticasone</td>
+<td stylecode="Rrule">↑ fluticasone</td>
+<td stylecode="Rrule">Concomitant use of inhaled fluticasone and PREZISTA/ritonavir may increase plasma concentrations of fluticasone. Alternatives should be considered, particularly for long-term use.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Endothelin receptor antagonists</content>:<br/>bosentan</td>
+<td stylecode="Rrule">↑ bosentan</td>
+<td stylecode="Rrule">
+<paragraph>
+<content stylecode="underline">Co-administration of bosentan in patients on PREZISTA/ritonavir:</content>
+<br/>In patients who have been receiving PREZISTA/ritonavir for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability. </paragraph>
+<br/>
+<paragraph>
+<content stylecode="underline">Co-administration of PREZISTA/ritonavir in patients on bosentan:</content>
+<br/>Discontinue use of bosentan at least 36 hours prior to initiation of PREZISTA/ritonavir. After at least 10 days following the initiation of PREZISTA/ritonavir, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability.</paragraph>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Hepatitis C Virus (HCV) Direct-Acting Agents: <br/>NS3-4A protease inhibitors:</content>
+<br/>boceprevir<br/>telaprevir</td>
+<td stylecode="Rrule">↓ darunavir <br/>↓ boceprevir<br/>↓ telaprevir</td>
+<td stylecode="Rrule">
+<paragraph>Concomitant administration of PREZISTA/ritonavir and boceprevir or telaprevir  resulted in reduced steady-state exposures to darunavir and boceprevir or telaprevir.  It is not recommended to co-administer boceprevir or telaprevir and PREZISTA/ritonavir.</paragraph>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">HMG-CoA</content>
+<br/>
+<content stylecode="bold">Reductase Inhibitors</content>:<br/>pravastatin,<br/>atorvastatin,<br/>rosuvastatin</td>
+<td stylecode="Rrule">↑ pravastatin<br/>↑ atorvastatin<br/> ↑ rosuvastatin</td>
+<td stylecode="Rrule">Titrate atorvastatin, pravastatin or rosuvastatin dose carefully and use the lowest necessary dose while monitoring for safety.  Do not exceed atorvastatin  20 mg/day.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Immunosuppressants</content>:<br/>cyclosporine,<br/>tacrolimus,<br/>sirolimus</td>
+<td stylecode="Rrule">↑ immunosuppressants</td>
+<td stylecode="Rrule">Plasma concentrations of cyclosporine, tacrolimus or sirolimus may be increased when co-administered with PREZISTA/ritonavir. Therapeutic concentration monitoring of the immunosuppressive agent is recommended when co-administered with PREZISTA/ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Inhaled beta agonist</content>:<br/>salmeterol</td>
+<td stylecode="Rrule">↑ salmeterol</td>
+<td stylecode="Rrule">Concurrent administration of salmeterol and PREZISTA/ritonavir is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Narcotic Analgesic/Treatment of Opioid Dependence</content>:<br/>methadone,<br/>buprenorphine,<br/>buprenorphine/naloxone</td>
+<td stylecode="Rrule">↓ methadone<br/>↔  buprenorphine, naloxone<br/>↑ norbuprenorphine (metabolite)</td>
+<td stylecode="Rrule">No adjustment of methadone dosage is required when initiating co-administration of PREZISTA/ritonavir. However, clinical monitoring is recommended as the dose of methadone during maintenance therapy may need to be adjusted in some patients.<br/>No dose adjustment for buprenorphine or buprenorphine/naloxone is required with concurrent administration of PREZISTA/ritonavir. Clinical monitoring is recommended if PREZISTA/ritonavir and buprenorphine or buprenorphine/naloxone are coadministered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Neuroleptics</content>:<br/>risperidone,<br/>thioridazine</td>
+<td stylecode="Rrule">↑ neuroleptics</td>
+<td stylecode="Rrule">A dose decrease may be needed for these drugs when co-administered with PREZISTA/ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Oral Contraceptives/estrogen</content>:<br/>ethinyl estradiol,<br/>norethindrone</td>
+<td stylecode="Rrule">↓ ethinyl estradiol<br/>↓ norethindrone</td>
+<td stylecode="Rrule">Plasma concentrations of ethinyl estradiol are decreased due to induction of its metabolism by ritonavir. Alternative methods of nonhormonal contraception are recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">PDE-5 inhibitors</content>:<br/>sildenafil,<br/>vardenafil,<br/>tadalafil</td>
+<td stylecode="Rrule">↑ PDE-5 inhibitors (only the use of sildenafil at doses used for treatment of erectile dysfunction has been studied with PREZISTA/ritonavir)</td>
+<td stylecode="Rrule">
+<paragraph>Co-administration with PREZISTA/ritonavir may result in an increase in PDE-5 inhibitor-associated adverse events, including hypotension, syncope, visual disturbances and priapism.</paragraph>
+<br/>
+<paragraph>
+<content stylecode="underline">Use of PDE-5 inhibitors for pulmonary arterial hypertension (PAH):</content>
+</paragraph>
+<list>
+<item>Use of sildenafil is contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) [<content stylecode="italics">see <linkhtml href="#S4">Contraindications (4)</linkhtml>
+</content>].</item>
+<item>The following dose adjustments are recommended for use of tadalafil with PREZISTA/ritonavir:<br/>
+<content stylecode="underline">Co-administration of tadalafil in patients on PREZISTA/ritonavir:</content>
+<br/>In patients receiving PREZISTA/ritonavir for at least one week, start tadalafil at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.<br/>
+<content stylecode="underline">Co-administration of PREZISTA/ritonavir in patients on tadalafil:</content>
+<br/>Avoid use of tadalafil during the initiation of PREZISTA/ritonavir. Stop tadalafil at least 24 hours prior to starting PREZISTA/ritonavir. After at least one week following the initiation of PREZISTA/ritonavir, resume tadalafil at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability. </item>
+</list>
+<paragraph>
+<content stylecode="underline">Use of PDE-5 inhibitors for erectile dysfunction:</content>
+<br/>Sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg dose in 72 hours, or tadalafil at a single dose not exceeding 10 mg dose in 72 hours can be used with increased monitoring for PDE-5 inhibitor-associated adverse events. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Selective Serotonin Reuptake Inhibitors (SSRIs)</content>:<br/>sertraline,<br/>paroxetine</td>
+<td stylecode="Rrule">↔ darunavir<br/>↓ sertraline <br/>↓ paroxetine</td>
+<td stylecode="Rrule">If sertraline or paroxetine is co-administered with PREZISTA/ritonavir, the recommended approach is a careful dose titration of the SSRI based on a clinical assessment of antidepressant response. In addition, patients on a stable dose of sertraline or paroxetine who start treatment with PREZISTA/ritonavir should be monitored for antidepressant response.</td>
+</tr>
+</tbody>
+</table>

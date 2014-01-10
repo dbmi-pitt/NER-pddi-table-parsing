@@ -1,0 +1,79 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="125"></col>
+<col width="125"></col>
+<col width="125"></col>
+<col width="150"></col>
+<col width="150"></col>
+<col width="150"></col>
+<col width="125"></col>
+<tbody>
+<tr>
+<td valign="bottom">
+<content stylecode="italics underline">Antibiotics</content>
+</td>
+<td valign="bottom">
+<content stylecode="italics underline">Antineoplastic</content>
+</td>
+<td valign="bottom">
+<content stylecode="italics underline">Antifungals</content>
+</td>
+<td valign="bottom">
+<content stylecode="italics underline">Anti-Inflammatory Drugs</content>
+</td>
+<td valign="bottom">
+<content stylecode="italics underline">Gastrointestinal Agents</content>
+</td>
+<td valign="bottom">
+<content stylecode="italics underline">Immunosuppressives</content>
+</td>
+<td valign="bottom">
+<content stylecode="italics underline">Other Drugs</content>
+</td>
+</tr>
+<tr>
+<td>ciprofloxacin</td>
+<td>melphalan</td>
+<td>amphotericin B</td>
+<td>azapropazon</td>
+<td>cimetidine</td>
+<td>tacrolimus</td>
+<td valign="bottom">fibric acid derivatives<br/>(e.g., bezafibrate, fenofibrate)</td>
+</tr>
+<tr>
+<td valign="bottom">gentamicin</td>
+<td valign="bottom"></td>
+<td valign="bottom">ketoconazole</td>
+<td valign="bottom">colchicine</td>
+<td valign="bottom">ranitidine</td>
+<td valign="bottom"></td>
+<td valign="bottom">methotrexate</td>
+</tr>
+<tr>
+<td valign="bottom">tobramycin</td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td valign="bottom">diclofenac</td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+</tr>
+<tr>
+<td valign="bottom">trimethoprim <br/>with sulfamethoxazole</td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td>naproxen</td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+</tr>
+<tr>
+<td valign="bottom">vancomycin</td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td valign="bottom">sulindac</td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+</tr>
+</tbody>
+</table>

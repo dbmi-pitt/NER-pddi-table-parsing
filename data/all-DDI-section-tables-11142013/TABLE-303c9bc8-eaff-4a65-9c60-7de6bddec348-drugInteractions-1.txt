@@ -1,0 +1,202 @@
+<table id="table11" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 11 Established and Other Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies (see <linkhtml href="#table6">CLINICAL PHARMACOLOGY, for Magnitude of Interaction, Tables 6</linkhtml> and <linkhtml href="#table7">7</linkhtml>)</caption>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="50%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule Botrule">Concomitant Drug Class: Drug Name</th>
+<th stylecode="Rrule Botrule">Effect on Concentration</th>
+<th stylecode="Rrule Botrule">Clinical Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" colspan="3" stylecode="Lrule Rrule Botrule">HIV-Antiviral Agents</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Non-nucleoside Reverse Transcriptase Inhibitors:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="3" stylecode="Rrule Botrule">Appropriate doses for these combinations, with respect to safety and efficacy, have not been established.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">delavirdine</td>
+<td stylecode="Rrule">↑ nelfinavir<br/>↓ delavirdine</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">nevirapine</td>
+<td stylecode="Rrule Botrule">↓ nelfinavir (C<sub>min</sub>)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Nucleoside Reverse Transcriptase Inhibitor:<br/>didanosine</td>
+<td stylecode="Rrule Botrule"></td>
+<td stylecode="Rrule Botrule">It is recommended that didanosine be administered on an empty stomach; therefore, didanosine should be given one hour before or two hours after VIRACEPT (given with food).<br/>
+</td>
+<td stylecode="Botrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Protease Inhibitors:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="4" stylecode="Rrule Botrule">Appropriate doses for these combinations, with respect to safety and efficacy, have not been established.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">indinavir</td>
+<td stylecode="Rrule">↑ nelfinavir<br/>↑ indinavir</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">ritonavir</td>
+<td stylecode="Rrule">↑ nelfinavir</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">saquinavir</td>
+<td stylecode="Rrule Botrule">↑ saquinavir</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" colspan="3" stylecode="Lrule Rrule">Other Agents</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Anti-coagulant: <br/>warfarin</td>
+<td stylecode="Rrule Botrule">warfarin</td>
+<td stylecode="Rrule Botrule">Coadministration of warfarin and VIRACEPT may affect concentrations of warfarin.  It is recommended that the INR (international normalized ratio) be monitored carefully during treatment with VIRACEPT, especially when commencing therapy.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Anti-convulsants:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule Botrule">May decrease nelfinavir plasma concentrations. VIRACEPT may not be effective due to decreased nelfinavir plasma concentrations in patients taking these agents concomitantly.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">carbamazepine<br/>phenobarbital</td>
+<td stylecode="Rrule Botrule">↓ nelfinavir</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Anti-convulsant:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule Botrule">Phenytoin plasma/serum concentrations should be monitored; phenytoin dose may require adjustment to compensate for altered phenytoin concentration.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">phenytoin</td>
+<td stylecode="Rrule Botrule">↓ phenytoin</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Anti-depressant: trazodone</td>
+<td stylecode="Rrule Botrule">↑ trazodone</td>
+<td stylecode="Rrule Botrule">Concomitant use of trazodone and VIRACEPT may increase plasma concentrations of trazodone.  Adverse events of nausea, dizziness, hypotension and syncope have been observed following coadministration of trazodone and ritonavir.  If trazodone is used with a CYP3A4 inhibitor such as VIRACEPT, the combination should be used with caution and a lower dose of trazodone should be considered.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">Anti-gout<br/>colchicine</td>
+<td stylecode="Lrule Botrule">↑ colchicine</td>
+<td stylecode="Lrule Rrule Botrule">Treatment of gout flares–<br/>coadministration of colchicine in patients on VIRACEPT:<br/>
+<paragraph>0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Dose to be repeated no earlier than 3 days.</paragraph>
+<br/>
+<paragraph>Prophylaxis of gout-flares–<br/>coadministration of colchicine in patients on VIRACEPT: <br/>If the original colchicine regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. <br/>If the original colchicine regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day.</paragraph>
+<br/>
+<paragraph>Treatment of familial Mediterranean fever (FMF)–<br/>coadministration of colchicine in patients on VIRACEPT:</paragraph>
+<paragraph>Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day).<br/>Patients with renal or hepatic impairment should not be given colchicine with VIRACEPT.  </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Anti-Mycobacterial:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule Botrule" valign="top">It is recommended that the dose of rifabutin be reduced to one-half the usual dose when administered with VIRACEPT; 1250 mg BID is the preferred dose of VIRACEPT when coadministered with rifabutin.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">rifabutin</td>
+<td stylecode="Rrule">↑ rifabutin<br/>↓ nelfinavir <br/>  (750 mg TID)<br/>↔ nelfinavir<br/>  (1250 mg BID)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Endothelin receptor antagonists:<br/>bosentan</td>
+<td stylecode="Lrule">↑ bosentan</td>
+<td stylecode="Lrule Rrule">
+<paragraph>Coadministration of bosentan in patients on VIRACEPT or coadministration of VIRACEPT in patients on bosentan: </paragraph>
+<paragraph>Start at or adjust bosentan to 62.5 mg once daily or every other day based upon individual tolerability.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">HMG-CoA Reductase Inhibitor:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="3" stylecode="Rrule Botrule">Use lowest possible dose of atorvastatin or rosuvastatin with careful monitoring, or consider other HMG-CoA reductase inhibitors such as pravastatin or fluvastatin in combination with VIRACEPT.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">atorvastatin</td>
+<td stylecode="Rrule" valign="top">↑ atorvastatin</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule" valign="top">rosuvastatin </td>
+<td stylecode="Rrule Botrule" valign="top">↑ rosuvastatin</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Immuno-suppressants:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule Botrule">Plasma concentrations may be increased by VIRACEPT.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">cyclosporine <br/>tacrolimus <br/>sirolimus</td>
+<td stylecode="Rrule Botrule">↑ immuno-suppressants</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Inhaled beta agonist:<br/>salmeterol</td>
+<td stylecode="Rrule">↑ salmeterol</td>
+<td stylecode="Rrule">Concurrent administration of salmeterol with VIRACEPT is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Inhaled/nasal steroid: Fluticasone</td>
+<td stylecode="Rrule Botrule">↑ fluticasone</td>
+<td stylecode="Rrule Botrule">Concomitant use of fluticasone propionate and VIRACEPT may increase plasma concentrations of fluticasone propionate. Use with caution. Consider alternatives to fluticasone propionate, particularly for long-term use.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule Rrule">Macrolide Antibiotic:<br/>azithromycin</td>
+<td stylecode="Botrule Rrule">
+<br/>↑ azithromycin</td>
+<td stylecode="Rrule Botrule">Dose adjustment of azithromycin is not recommended, but close monitoring for known side effects such as liver enzyme abnormalities and hearing impairment is warranted.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Narcotic Analgesic:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule  Botrule">Dosage of methadone may need to be increased when coadministered with VIRACEPT.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">methadone</td>
+<td stylecode="Rrule Botrule">↓ methadone</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Oral Contraceptive:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule Botrule">Alternative or additional contraceptive measures should be used when oral contraceptives and VIRACEPT are coadministered.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">ethinyl estradiol</td>
+<td stylecode="Rrule Botrule">↓ ethinyl estradiol</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">PDE5 Inhibitors:<br/>sildenafil<br/>vardenafil<br/>tadalafil</td>
+<td stylecode="Rrule" valign="top">
+<br/>
+<br/>
+<br/>↑ PDE5 Inhibitors</td>
+<td stylecode="Rrule">Concomitant use of PDE5 inhibitors and VIRACEPT should be undertaken with caution.<br/>
+<br/>
+<paragraph>May result in an increase in PDE5 inhibitor-associated adverse events, including hypotension, syncope, visual disturbances, and priapism.</paragraph>
+<br/>
+<paragraph>
+<content stylecode="underline">Use of PDE-5 inhibitors for pulmonary arterial hypertension (PAH):</content>
+</paragraph>
+<br/>
+<list>
+<item>Use of sildenafil (REVATIO) is contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) [see <linkhtml href="#CONTRAINDICATIONS">Contraindications</linkhtml>].</item>
+<item>The following dose adjustments are recommended for use of tadalafil (ADCIRCA™) with VIRACEPT:</item>
+</list>
+<paragraph>
+<content stylecode="underline">Coadministration of ADCIRCA in patients on VIRACEPT or coadministration of VIRACEPT in patients on ADCIRCA:</content>
+</paragraph>
+<br/>
+<paragraph>Start at or adjust ADCIRCA to 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.</paragraph>
+<br/>
+<paragraph>
+<content stylecode="underline">Use of PDE5 inhibitors for erectile dysfunction:</content>
+</paragraph>
+<br/>
+<paragraph>Sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg in 24 hours, or tadalafil at a single dose not exceeding 10 mg dose in 72 hours, is recommended. Use with increased monitoring for adverse events.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

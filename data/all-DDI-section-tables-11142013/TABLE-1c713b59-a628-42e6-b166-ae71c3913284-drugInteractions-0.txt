@@ -1,0 +1,121 @@
+<table id="_RefID93AA8B91500E446B81C231B5D96FC590" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7 Summary of AED Interactions with Oxcarbazepine </caption>
+<col width="19%"></col>
+<col width="14%"></col>
+<col width="20%"></col>
+<col width="32%"></col>
+<col width="30%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">AED Coadministered</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Dose of AED (mg/day)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Oxcarbazepine Dose (mg/day)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Influence of Oxcarbazepine on AED Concentration (Mean Change, 90% Confidence Interval)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Carbamazepine</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>400-2000</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>900</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>nc<footnote id="_RefID5794A75EB34142938FC3D1D7BF9CA809">nc denotes a mean change of less than 10%</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>40% decrease</paragraph>
+<paragraph>[CI: 17% decrease,</paragraph>
+<paragraph>57% decrease]</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Phenobarbital</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>100-150</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>600-1800</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>14% increase</paragraph>
+<paragraph>[CI: 2% increase, 24% increase]</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>25% decrease</paragraph>
+<paragraph>[CI: 12% decrease,</paragraph>
+<paragraph>51% decrease]</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Phenytoin</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>250-500</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>600-1800</paragraph>
+<paragraph>&gt;1200-2400</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>nc<footnoteref idref="_RefID5794A75EB34142938FC3D1D7BF9CA809"></footnoteref>
+<footnote id="_RefID127629764210409395D46C8893D96DB8">Pediatrics</footnote>
+</paragraph>
+<paragraph>up to 40% increase<footnote id="_RefID038959D2C203414CA4EF0E3DBE9EF18C">Mean increase in adults at high oxcarbazepine doses</footnote> [CI: 12% increase,</paragraph>
+<paragraph>60% increase]</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>30% decrease</paragraph>
+<paragraph>[CI: 3% decrease,</paragraph>
+<paragraph>48% decrease]</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>Valproic acid</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>400-2800</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>600-1800</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>nc<footnoteref idref="_RefID5794A75EB34142938FC3D1D7BF9CA809"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>18% decrease</paragraph>
+<paragraph>[CI: 13% decrease,</paragraph>
+<paragraph>40% decrease]</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

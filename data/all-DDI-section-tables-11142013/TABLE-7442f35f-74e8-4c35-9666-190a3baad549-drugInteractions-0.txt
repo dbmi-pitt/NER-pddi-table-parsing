@@ -1,0 +1,37 @@
+<table border="grid" id="id_9b783a91-4e46-48b5-8155-892cceff9729" width="357.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_c49d9cf1-5d1b-45ca-af31-bf498e4c3572">Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis (<linkhtml href="#i4i_section_id_2f5a8549-db65-4df5-bbac-cc688b7c0e5d">2.6</linkhtml>, <linkhtml href="#i4i_section_id_7746237f-7cbb-498f-868d-cb7f0d32b92f">5.1</linkhtml>, <linkhtml href="#i4i_section_id_1a03bfbc-961d-4d79-81d1-f8832db4ceb0">7.1</linkhtml>, <linkhtml href="#i4i_section_id_ec7443f3-35df-4118-bec1-462810038202">7.2</linkhtml>, <linkhtml href="#i4i_section_id_5428a977-d299-492c-aba4-81923f4d7fa8">7.3</linkhtml>, <linkhtml href="#i4i_section_id_61fac6bd-ac23-49f1-9166-ced378bca560">7.4</linkhtml>)</caption>
+<col width="49.3%"></col>
+<col width="50.7%"></col>
+<thead>
+<tr id="id_e123a7e2-005d-4dce-b7cd-5ee8dca1da5a" stylecode="Botrule">
+<td align="center" valign="top">
+<content stylecode="bold">Interacting Agents</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Prescribing Recommendations</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_cc874736-9477-4ccc-b7f6-5b5032906c34" stylecode="Toprule">
+<td align="left" valign="top">Itraconazole, ketoconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, nefazodone</td>
+<td align="left" valign="top">Avoid simvastatin</td>
+</tr>
+<tr id="id_9187c40f-6ef0-4c73-82d5-2e7a9dbee039">
+<td align="left" valign="top">Gemfibrozil, cyclosporine, danazol</td>
+<td align="left" valign="top">Do not exceed 10 mg simvastatin daily</td>
+</tr>
+<tr id="id_67aeaa0b-c916-492b-8c9c-80a4f7b288f6">
+<td align="left" valign="top">Amiodarone, verapamil</td>
+<td align="left" valign="top">Do not exceed 20 mg simvastatin daily</td>
+</tr>
+<tr id="id_8a9b24c4-3b5c-4dfb-b02a-489e9b3eaf01">
+<td align="left" valign="top">Diltiazem</td>
+<td align="left" valign="top">Do not exceed 40 mg simvastatin daily</td>
+</tr>
+<tr id="id_867aa404-d411-478f-b2b8-d4aba9bc6a74" stylecode="Botrule">
+<td align="justify" valign="top">Grapefruit juice</td>
+<td align="left" valign="top">Avoid large quantities of grapefruit juice (&gt;1 quart daily)</td>
+</tr>
+</tbody>
+</table>
