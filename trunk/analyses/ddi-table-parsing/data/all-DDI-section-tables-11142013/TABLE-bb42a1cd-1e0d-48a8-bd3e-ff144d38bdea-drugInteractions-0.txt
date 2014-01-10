@@ -1,0 +1,42 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="40%"></col>
+<col span="1" width="75%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Interacting Drug</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Interaction</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Antacids, sucralfate, multivitamins, and other products containing multivalent cations</paragraph>
+</td>
+<td>
+<paragraph>Moxifloxacin absorption is decreased. Administer AVELOX Tablet at least 4 hours before or 8 hours after these products. <linkhtml href="#ID_cf0582ae-e5e6-40b8-9497-b72cb140df62">(2.2</linkhtml>, <linkhtml href="#_Ref">7.1</linkhtml>, <linkhtml href="#_Ref">12.3</linkhtml>, <linkhtml href="#ID_0e8db7da-b67f-472f-8890-2110c2ad7c6d">17.2</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Warfarin</paragraph>
+</td>
+<td>
+<paragraph>Anticoagulant effect of warfarin may be enhanced. Monitor prothrombin time/INR, watch for bleeding. (<linkhtml href="#ID_fd93c086-448e-4a91-8a26-47a67344cca6">6.4</linkhtml>, <linkhtml href="#ID_533dc632-54f0-4ba9-90eb-f43098bf5a73">7.2</linkhtml>, <linkhtml href="#_Ref">12.3</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Class IA and Class III antiarrhythmics:</paragraph>
+</td>
+<td>
+<paragraph>Proarrhythmic effect may be enhanced. Avoid concomitant use. (<linkhtml href="#ID_2af3a07f-89df-4dcb-8f17-df88db603966">5.3</linkhtml>, <linkhtml href="#ID_e058c68c-ef7e-4680-8ab4-6f8e02062d14">7.4</linkhtml>)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

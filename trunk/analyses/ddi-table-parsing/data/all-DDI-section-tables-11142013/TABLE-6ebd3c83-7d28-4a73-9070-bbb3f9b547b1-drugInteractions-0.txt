@@ -1,0 +1,57 @@
+<table border="single" id="id_1751cb62-4a96-405c-846d-3ea4339eea31" width="466.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_ade2632e-1592-4469-ba85-924f3b772f88">Table 7: Summary of AED Interactions with Oxcarbazepine</caption>
+<col width="18.7%"></col>
+<col width="15.9%"></col>
+<col width="18.2%"></col>
+<col width="24.2%"></col>
+<col width="23.0%"></col>
+<tbody>
+<tr id="id_68669972-815f-4138-babd-0740990d0d77">
+<td align="center" stylecode="Toprule Botrule Lrule" valign="middle">
+<content stylecode="bold">AED Coadministered</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Dose of AED (mg/day)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Oxcarbazepine dose (mg/day)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Influence of Oxcarbazepine on AED Concentration (Mean change, 90% Confidence Interval)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Influence of AED on MHD Concentration (Mean change, 90% Confidence Interval)</content>
+</td>
+</tr>
+<tr id="id_a549e17a-b022-48d7-9914-bf61f8d8831e">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Carbamazepine</td>
+<td align="center" stylecode="Botrule" valign="middle">400 to 2000</td>
+<td align="center" stylecode="Botrule" valign="middle">900</td>
+<td align="center" stylecode="Botrule" valign="middle">nc<footnote id="id-f00f5057-3e8a-4f23-8d62-6f9f08448de7">nc denotes a mean change of less than 10%</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">40% decrease [CI: 17% decrease, 57% decrease]</td>
+</tr>
+<tr id="id_f220d375-7f30-4e33-b9d5-e86e4071b58b">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Phenobarbital</td>
+<td align="center" stylecode="Botrule" valign="middle">100 to 150</td>
+<td align="center" stylecode="Botrule" valign="middle">600 to 1800</td>
+<td align="center" stylecode="Botrule" valign="middle">14% increase [CI: 2% increase, 24% increase]</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">25% decrease [CI: 12% decrease, 51% decrease]</td>
+</tr>
+<tr id="id_d11e5745-fe6f-47e3-a49d-2135479be849">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Phenytoin</td>
+<td align="center" stylecode="Botrule" valign="middle">250 to 500</td>
+<td align="center" stylecode="Botrule" valign="middle">600 to 1800 &gt;1200 to 2400</td>
+<td align="center" stylecode="Botrule" valign="middle">nc<footnoteref idref="id-f00f5057-3e8a-4f23-8d62-6f9f08448de7"></footnoteref>, <footnote id="id-b672a740-d812-4b8a-8cd5-702a8d483c7c">Pediatrics</footnote> up to 40% increase<footnote id="id-31c2b596-a963-4888-a000-04885a0d0968">Mean increase in adults at high oxcarbazepine doses</footnote> [CI: 12% increase, 60% increase]</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">30% decrease [CI: 3% decrease, 48% decease]</td>
+</tr>
+<tr id="id_b0a3516c-89b4-4ef1-b98f-f694af2230c9">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Valproic acid</td>
+<td align="center" stylecode="Botrule" valign="middle">400 to 2800</td>
+<td align="center" stylecode="Botrule" valign="middle">600 to 1800</td>
+<td align="center" stylecode="Botrule" valign="middle">nc<footnoteref idref="id-f00f5057-3e8a-4f23-8d62-6f9f08448de7"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">18% decrease [CI: 13% decrease, 40% decrease]</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,22 @@
+<table border="single" id="id_347900ca-9465-4af5-a99a-00c70a159c94" width="443" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="26.8%"></col>
+<col width="73.1%"></col>
+<tbody>
+<tr id="id_f0e8d454-409e-47aa-9490-2cc36d989095">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top">DRUG</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">DESCRIPTION OF INTERACTION</td>
+</tr>
+<tr id="id_20f708d1-cddb-4ece-84a2-2e0f53f8bace">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Corticosteroids</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Decreases plasma salicylate level; tapering doses of steroids may promote salicylism.</td>
+</tr>
+<tr id="id_ea9a06c4-e563-4da8-b5cd-2d41a5f08bc4">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Acidifying Agents</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Increases plasma salicylate level.</td>
+</tr>
+<tr id="id_29402e07-82e7-4f74-a216-9f22bf85c330">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Alkanizing Agents</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Decreased plasma salicylate levels.</td>
+</tr>
+</tbody>
+</table>

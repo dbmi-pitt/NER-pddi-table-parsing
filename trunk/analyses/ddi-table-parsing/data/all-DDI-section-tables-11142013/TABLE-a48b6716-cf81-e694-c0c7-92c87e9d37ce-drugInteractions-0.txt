@@ -1,0 +1,53 @@
+<table id="id_ebb9601c-07f0-45d3-a5f3-b80224a61351" width="873.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="33.6%"></col>
+<col width="33.2%"></col>
+<col width="33.2%"></col>
+<tbody>
+<tr id="id_eacc3e7c-05ca-4c56-85aa-a7061c3c7399">
+<td align="left" stylecode="Toprule Botrule" valign="top">AED Coadministered</td>
+<td align="left" stylecode="Botrule" valign="top">AED Concentration</td>
+<td align="left" stylecode="Botrule" valign="top">Topiramate Concentration </td>
+</tr>
+<tr id="id_5f0d0c0c-f837-410e-8e62-d2d7eccd80f5">
+<td align="left" valign="top">Phenytoin </td>
+<td align="left" valign="top">NC or 25% increase<footnote id="id-c8f58f62-70f7-4c44-ace1-a396dd6bf731">Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin.</footnote>
+</td>
+<td align="left" valign="top">48% decrease</td>
+</tr>
+<tr id="id_927d5510-549e-4290-a99d-dd01a3a662d5">
+<td align="left" valign="top">Carbamazepine (CBZ) </td>
+<td align="left" valign="top">NC </td>
+<td align="left" valign="top">40% decrease</td>
+</tr>
+<tr id="id_3cf2f4a5-9bc4-484c-a5a4-109a8640e429">
+<td align="left" valign="top">CBZ epoxide<footnote id="id-1e081b76-81a4-43d0-bf6d-9b49c3aa41d6">Is not administered but is an active metabolite of carbamazepine. </footnote>
+</td>
+<td align="left" valign="top">NC </td>
+<td align="left" valign="top">NE </td>
+</tr>
+<tr id="id_1cb1f307-376e-41b1-bd8e-5a585f41740c">
+<td align="left" valign="top">Valproic acid </td>
+<td align="left" valign="top">11% decrease </td>
+<td align="left" valign="top">14% decrease </td>
+</tr>
+<tr id="id_3ff68a8c-2de1-4984-8441-d40181c09a36">
+<td align="left" valign="top">Phenobarbital </td>
+<td align="left" valign="top">NC </td>
+<td align="left" valign="top">NE </td>
+</tr>
+<tr id="id_29dab34d-5c8b-473d-83d7-e1d73397f295">
+<td align="left" valign="top">Primidone </td>
+<td align="left" valign="top">NC </td>
+<td align="left" valign="top">NE </td>
+</tr>
+<tr id="id_494292f1-380d-43e9-84fe-1aec4cada233">
+<td align="left" stylecode="Botrule" valign="top">Lamotrigine </td>
+<td align="left" stylecode="Botrule" valign="top">NC at TPM doses up to 400 mg/day </td>
+<td align="left" stylecode="Botrule" valign="top">13% decrease </td>
+</tr>
+<tr id="id_542fbfe4-4927-4d88-9bb6-579e38faac0f">
+<td align="left" colspan="2" stylecode="Botrule" valign="top">NC = Less than 10% change in plasma concentration.<br/>NE = Not Evaluated.</td>
+<td align="left" stylecode="Botrule" valign="top"></td>
+</tr>
+</tbody>
+</table>

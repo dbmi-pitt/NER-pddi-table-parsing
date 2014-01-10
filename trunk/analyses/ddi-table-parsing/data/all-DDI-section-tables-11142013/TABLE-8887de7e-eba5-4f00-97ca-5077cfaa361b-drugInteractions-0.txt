@@ -1,0 +1,49 @@
+<table id="id_3af2f598-6caa-430f-95b2-ba76140f32c4" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_b2f2587e-25d4-4ceb-924a-e7b04e36a24e">
+<td align="left" stylecode="Botrule Rrule" valign="middle">AED Coadministered</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">AED Concentration</td>
+<td align="left" stylecode="Lrule Botrule" valign="middle">Topiramate Concentration</td>
+</tr>
+<tr id="id_e44cb8e9-2885-498e-a446-dfb988d312c2">
+<td align="left" stylecode="Botrule Rrule" valign="middle">Phenytoin</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">NC or 25% increase<footnote id="id-4e0e9320-2b4f-4223-b510-ddf0d2eba65f">= Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin.</footnote>
+</td>
+<td align="left" stylecode="Lrule Botrule" valign="middle">48% decrease</td>
+</tr>
+<tr id="id_437b59e1-c2fd-4af3-a6cd-35e01d69a746">
+<td align="left" stylecode="Botrule Rrule" valign="middle">Carbamazepine (CBZ)</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">NC</td>
+<td align="left" stylecode="Lrule Botrule" valign="middle">40% decrease</td>
+</tr>
+<tr id="id_9e52713a-8b08-4fa0-b563-fad932a10ee4">
+<td align="left" stylecode="Botrule Rrule" valign="middle">CBZ epoxide<footnote id="id-f6d8556f-9284-42eb-8872-64989653e2f0">= Is not administered but is an active metabolite of carbamazepine.</footnote>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">NC</td>
+<td align="left" stylecode="Lrule Botrule" valign="middle">NE</td>
+</tr>
+<tr id="id_705b6f0e-3ffd-4f78-82cf-64578c5903d0">
+<td align="left" stylecode="Botrule Rrule" valign="middle">Valproic acid</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">11% decrease</td>
+<td align="left" stylecode="Lrule Botrule" valign="middle">14% decrease</td>
+</tr>
+<tr id="id_ebb300f3-8528-47f1-840d-6ecf1926bfaf">
+<td align="left" stylecode="Botrule Rrule" valign="middle">Phenobarbital</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">NC</td>
+<td align="left" stylecode="Lrule Botrule" valign="middle">NE</td>
+</tr>
+<tr id="id_a455f0f8-bf6b-49e9-ae65-75bc53faab2a">
+<td align="left" stylecode="Botrule Rrule" valign="middle">Primidone</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">NC</td>
+<td align="left" stylecode="Lrule Botrule" valign="middle">NE</td>
+</tr>
+<tr id="id_3d3ed1a3-8167-43ae-8f12-fcc93e6ea903">
+<td align="left" stylecode="Rrule" valign="middle">Lamotrigine</td>
+<td align="left" stylecode="Rrule" valign="middle">NC at TPM doses up to 400 mg/day</td>
+<td align="left" stylecode="Botrule" valign="middle">13% decrease</td>
+</tr>
+</tbody>
+</table>

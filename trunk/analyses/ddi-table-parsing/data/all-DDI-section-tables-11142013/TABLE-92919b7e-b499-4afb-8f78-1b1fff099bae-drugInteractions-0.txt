@@ -1,0 +1,70 @@
+<table border="single" id="id_93aa8b91-500e-446b-81c2-31b5d96fc590" width="443" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_2076208e-67a6-42f5-b7a8-9593b9586654">Table 7 Summary of AED Interactions with Oxcarbazepine</caption>
+<col width="20.9%"></col>
+<col width="12.8%"></col>
+<col width="19.9%"></col>
+<col width="22.9%"></col>
+<col width="23.4%"></col>
+<tbody>
+<tr id="id_fafa3473-8c01-47c6-b94b-26956ea5543a">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">AED Coadministered</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Dose of AED (mg/day)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Oxcarbazepine Dose (mg/day)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Influence of Oxcarbazepine on AED Concentration (Mean Change, 90% Confidence Interval)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval)</content>
+</td>
+</tr>
+<tr id="id_37fb479b-a949-41a4-b30c-941d6d7fdaf5">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Carbamazepine</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">400-2000</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">900</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">nc<footnote id="id-5794a75e-b341-4293-8fc3-d1d7bf9ca809">nc denotes a mean change of less than 10%</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>40% decrease</paragraph>
+<paragraph>[CI: 17% decrease,</paragraph>57% decrease]</td>
+</tr>
+<tr id="id_6fb31411-cf88-445e-8b4f-4440e23669c3">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Phenobarbital</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">100-150</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">600-1800</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>14% increase</paragraph>[CI: 2% increase, 24% increase]</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>25% decrease</paragraph>
+<paragraph>[CI: 12% decrease,</paragraph>51% decrease]</td>
+</tr>
+<tr id="id_78b7f714-36d1-4c58-b267-c29d04a4ceed">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Phenytoin</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">250-500</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>600-1800</paragraph>&gt;1200-2400</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>nc<footnoteref idref="id-5794a75e-b341-4293-8fc3-d1d7bf9ca809"></footnoteref>
+</paragraph>
+<paragraph>up to 40% increase [CI: 12% increase,</paragraph>60% increase]</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>30% decrease</paragraph>
+<paragraph>[CI: 3% decrease,</paragraph>48% decrease]</td>
+</tr>
+<tr id="id_cba288ab-cae1-44b5-9a82-c7819c36f32a">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Valproic acid</td>
+<td align="center" stylecode="Rrule" valign="middle">400-2800</td>
+<td align="center" stylecode="Rrule" valign="middle">600-1800</td>
+<td align="center" stylecode="Rrule" valign="middle">nc<footnoteref idref="id-5794a75e-b341-4293-8fc3-d1d7bf9ca809"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>18% decrease</paragraph>
+<paragraph>[CI: 13% decrease,</paragraph>40% decrease]</td>
+</tr>
+</tbody>
+</table>

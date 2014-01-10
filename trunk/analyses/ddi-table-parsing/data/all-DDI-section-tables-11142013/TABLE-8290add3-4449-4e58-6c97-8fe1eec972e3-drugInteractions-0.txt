@@ -1,0 +1,279 @@
+<table border="1" frame="box" id="table_9" rules="all" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9. Established and Other Potentially Significant Drug Interactions</caption>
+<colgroup>
+<col width="26%"></col>
+<col width="22%"></col>
+<col width="51%"></col>
+</colgroup>
+<tbody>
+<tr valign="top">
+<td stylecode="Toprule">
+<content stylecode="bold">Concomitant Drug Class:</content>
+<br/>
+<content stylecode="bold">Drug Name</content>
+</td>
+<td stylecode="Toprule">
+<content stylecode="bold">Effect on Concentration of Lopinavir or Concomitant Drug</content>
+</td>
+<td align="center" stylecode="Toprule">
+<content stylecode="bold">Clinical Comments</content>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<content stylecode="italics">
+<content stylecode="bold">HIV-1 Antiviral Agents</content>
+</content>
+</td>
+</tr>
+<tr>
+<td valign="top">HIV-1 Protease Inhibitor:<br/>fosamprenavir/ritonavir</td>
+<td valign="top">↓ amprenavir <br/>↓ lopinavir</td>
+<td valign="top">An increased rate of adverse reactions has been observed with co-administration of these medications.  Appropriate doses of the combinations with respect to safety and efficacy have not been established.</td>
+</tr>
+<tr>
+<td valign="top">HIV-1 Protease Inhibitor:<br/>indinavir*</td>
+<td valign="top">↑ indinavir </td>
+<td valign="top">Decrease indinavir dose to 600 mg twice daily, when co-administered with KALETRA 400/100 mg twice daily <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#section_12.3">12.3</linkhtml>)]</content>.  KALETRA once daily has not been studied in combination with indinavir.</td>
+</tr>
+<tr>
+<td valign="top">HIV-1 Protease Inhibitor:<br/>nelfinavir*</td>
+<td valign="top">↑ nelfinavir <br/>↑ M8 metabolite of nelfinavir<br/>↓ lopinavir</td>
+<td valign="top">KALETRA should not be administered once daily in combination with nelfinavir<br/>
+<content stylecode="italics">[see Dosage and Administration (<linkhtml href="#section_2.1">2.1</linkhtml>) and Clinical Pharmacology (<linkhtml href="#section_12.3">12.3</linkhtml>)]</content>.<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top">HIV-1 Protease Inhibitor:<br/>ritonavir*</td>
+<td valign="top">↑ lopinavir</td>
+<td valign="top">Appropriate doses of additional ritonavir in combination with KALETRA with respect to safety and efficacy have not been established.</td>
+</tr>
+<tr>
+<td valign="top">HIV-1 Protease Inhibitor:<br/>saquinavir*</td>
+<td valign="top">↑ saquinavir </td>
+<td valign="top">The saquinavir dose is 1000 mg twice daily, when co-administered with KALETRA 400/100 mg twice daily. <br/>KALETRA once daily has not been studied in combination with saquinavir.   </td>
+</tr>
+<tr>
+<td valign="top">HIV-1 Protease Inhibitor:<br/>tipranavir</td>
+<td valign="top">↓ lopinavir AUC and C<sub>min</sub>
+</td>
+<td valign="top">KALETRA should not be administered with tipranavir (500 mg twice daily) co-administered with ritonavir (200 mg twice daily).</td>
+</tr>
+<tr>
+<td valign="top">HIV CCR5 – Antagonist:<br/> maraviroc</td>
+<td valign="top">↑ maraviroc</td>
+<td valign="top">Concurrent administration of maraviroc with KALETRA will increase plasma levels of maraviroc.   When co-administered, patients should receive 150 mg twice daily of maraviroc.  For further details see complete prescribing information for Selzentry<sup>®</sup> (maraviroc).  </td>
+</tr>
+<tr valign="top">
+<td>Non-nucleoside Reverse Transcriptase Inhibitors:<br/>efavirenz*,<br/>nevirapine*</td>
+<td>↓ lopinavir</td>
+<td>KALETRA dose increase is recommended in all patients <content stylecode="italics">[see Dosage and Administration (<linkhtml href="#section_2.1">2.1</linkhtml>) and Clinical Pharmacology (<linkhtml href="#section_12.3">12.3</linkhtml>)]</content>.<br/>Increasing the dose of KALETRA tablets to 500/125 mg (given as two 200/50 mg tablets and one 100/25 mg tablet) twice daily co-administered with efavirenz resulted in similar lopinavir concentrations compared to KALETRA tablets 400/100 mg (given as two 200/50 mg tablets) twice daily without efavirenz.<br/>Increasing the dose of KALETRA tablets to 600/150 mg (given as three 200/50 mg tablets) twice daily co-administered with efavirenz resulted in significantly higher lopinavir plasma concentrations compared to KALETRA tablets 400/100 mg twice daily without efavirenz. <br/>KALETRA should not be administered once daily in combination with efavirenz or nevirapine<br/>
+<content stylecode="italics">[see Dosage and Administration (<linkhtml href="#section_2.1">2.1</linkhtml>) and Clinical Pharmacology (<linkhtml href="#section_12.3">12.3</linkhtml>)]</content>.</td>
+</tr>
+<tr valign="top">
+<td>Non-nucleoside Reverse Transcriptase Inhibitor:<br/>delavirdine</td>
+<td>↑ lopinavir</td>
+<td>Appropriate doses of the combination with respect to safety and efficacy have not been established.</td>
+</tr>
+<tr valign="top">
+<td>Nucleoside Reverse Transcriptase Inhibitor:<br/>didanosine</td>
+<td> </td>
+<td>KALETRA tablets can be administered simultaneously with didanosine without food.<br/>For KALETRA oral solution, it is recommended that didanosine be administered on an empty stomach; therefore, didanosine should be given one hour before or two hours after KALETRA oral solution (given with food).</td>
+</tr>
+<tr valign="top">
+<td>Nucleoside Reverse Transcriptase Inhibitor:<br/>tenofovir</td>
+<td>↑ tenofovir</td>
+<td>KALETRA increases tenofovir concentrations.  The mechanism of this interaction is unknown.  Patients receiving KALETRA and tenofovir should be monitored for adverse reactions associated with tenofovir.</td>
+</tr>
+<tr valign="top">
+<td>Nucleoside Reverse Transcriptase Inhibitors:<br/>abacavir<br/>zidovudine</td>
+<td>↓ abacavir<br/>↓ zidovudine</td>
+<td>KALETRA induces glucuronidation; therefore,  KALETRA has the potential to reduce zidovudine and abacavir plasma concentrations. The clinical significance of this potential interaction is unknown. </td>
+</tr>
+<tr valign="top">
+<td align="center" colspan="3">
+<content stylecode="italics">
+<content stylecode="bold">Other Agents</content>
+</content>
+</td>
+</tr>
+<tr valign="top">
+<td>Antiarrhythmics e.g.:<br/>amiodarone,<br/>bepridil,<br/>lidocaine (systemic),<br/>quinidine</td>
+<td>↑ antiarrhythmics</td>
+<td>Caution is warranted and therapeutic concentration monitoring (if available) is recommended for antiarrhythmics when co-administered with KALETRA.</td>
+</tr>
+<tr valign="top">
+<td>Anticancer Agents: <br/>vincristine,<br/>vinblastine,<br/>dasatinib,  <br/>nilotinib</td>
+<td>↑ anticancer agents</td>
+<td>Concentrations of these drugs may be increased when co-administered with KALETRA resulting in the potential for increased adverse events usually associated with these anticancer agents.  <br/>For vincristine and vinblastine, consideration should be given to temporarily withholding the ritonavir-containing antiretroviral regimen in patients who develop significant hematologic or gastrointestinal side effects when KALETRA is administered concurrently with vincristine or vinblastine. If the antiretroviral regimen must be withheld for a prolonged period, consideration should be given to initiating a revised regimen that does not include a CYP3A or P-gp inhibitor.<br/>  A decrease in the dosage or an adjustment of the dosing interval of nilotinib and dasatinib may be necessary for patients requiring co-administration with strong CYP3A inhibitors such as KALETRA.  Please refer to the nilotinib and dasatinib prescribing information for dosing instructions.</td>
+</tr>
+<tr valign="top">
+<td>Anticoagulants:<br/>warfarin,<br/>rivaroxaban</td>
+<td>  ↑ rivaroxaban</td>
+<td>Concentrations of warfarin may be affected.  It is recommended that INR (international normalized ratio) be monitored.<br/>
+<br/>Avoid concomitant use of rivaroxaban and KALETRA. Co-administration of KALETRA and rivaroxaban is expected to result in increased exposure of rivaroxaban which may lead to risk of increased bleeding.</td>
+</tr>
+<tr valign="top">
+<td>Anticonvulsants:<br/>carbamazepine,<br/>phenobarbital,<br/>phenytoin</td>
+<td>↓ lopinavir<br/>↓ phenytoin</td>
+<td>KALETRA may be less effective due to decreased lopinavir plasma concentrations in patients taking these agents concomitantly and should be used with caution.<br/>KALETRA should not be administered once daily in combination with carbamazepine, phenobarbital, or phenytoin.<br/>
+<br/>In addition, co-administration of phenytoin and KALETRA may cause decreases in steady-state phenytoin concentrations.  Phenytoin levels should be monitored when co-administering with KALETRA. </td>
+</tr>
+<tr>
+<td valign="top">Anticonvulsants:<br/>lamotrigine, <br/>valproate</td>
+<td valign="top">↓ lamotrigine <br/>↓ or ↔ valproate</td>
+<td valign="top">Co-administration of KALETRA and lamotrigine or valproate may decrease the exposure of lamotrigine or valproate.  A dose increase of lamotrigine or valproate  may be needed when co-administered with KALETRA and therapeutic concentration monitoring for lamotrigine may be indicated; particularly during dosage adjustments <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#">12.3</linkhtml>)]</content>.</td>
+</tr>
+<tr valign="top">
+<td>Antidepressant: <br/>bupropion</td>
+<td>↓ bupropion<br/>↓ active metabolite, <br/>hydroxybupropion</td>
+<td>Concurrent administration of bupropion with KALETRA may decrease plasma levels of both bupropion and its active metabolite (hydroxybupropion).  Patients receiving KALETRA and bupropion concurrently should be monitored for an adequate clinical response to bupropion.  </td>
+</tr>
+<tr valign="top">
+<td>Antidepressant:<br/>trazodone<br/>
+</td>
+<td>↑ trazodone</td>
+<td>Concomitant use of trazodone and KALETRA may increase concentrations of trazodone.  Adverse reactions of nausea, dizziness, hypotension and syncope have been observed following co-administration of trazodone and ritonavir.  If trazodone is used with a CYP3A4 inhibitor such as ritonavir, the combination should be used with caution and a lower dose of trazodone should be considered.</td>
+</tr>
+<tr valign="top">
+<td>Anti-infective:<br/>clarithromycin</td>
+<td>↑ clarithromycin</td>
+<td>For patients with renal impairment, the following dosage adjustments should be considered: <br/>  • For patients with CL<sub>CR</sub> 30 to 60 mL/min the dose <br/>    of clarithromycin should be reduced by 50%.<br/>  • For patients with CL<sub>CR</sub> &lt; 30 mL/min the dose <br/>    of clarithromycin should be decreased by 75%.<br/>
+<br/>No dose adjustment for patients with normal renal function is necessary.</td>
+</tr>
+<tr valign="top">
+<td>Antifungals:<br/>ketoconazole*,<br/>itraconazole,<br/>voriconazole</td>
+<td>↑ ketoconazole<br/>↑ itraconazole<br/>↓ voriconazole </td>
+<td>High doses of ketoconazole (&gt;200 mg/day) or itraconazole (&gt; 200 mg/day) are not recommended.  <br/>Co-administration of voriconazole with KALETRA has not been studied.  However, a study has been shown that administration of voriconazole with ritonavir 100 mg every 12 hours decreased voriconazole steady-state AUC by an average of 39%; therefore, co-administration of KALETRA and voriconazole may result in decreased voriconazole concentrations and the potential for decreased voriconazole effectiveness and should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole.  Otherwise, alternative antifungal therapies should be considered in these patients.  </td>
+</tr>
+<tr valign="top">
+<td>Anti-gout: <br/>colchicine</td>
+<td>↑ colchicine</td>
+<td>Patients with renal or hepatic impairment should not be given colchicine with KALETRA.  <br/>
+<br/>
+<content stylecode="underline">Treatment of gout flares-co-administration of colchicine in patients on KALETRA:</content>
+<br/>
+<br/>0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Dose to be repeated no earlier than 3 days.<br/>
+<br/>
+<content stylecode="underline">Prophylaxis of gout flares-co-administration of colchicine in patients on KALETRA:</content>
+<br/>
+<br/>If the original colchicine regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day.  <br/>
+<br/>If the original colchicine regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day. <br/>
+<br/>
+<content stylecode="underline">Treatment of familial Mediterranean fever (FMF)-co-administration of colchicine in patients on KALETRA:</content>
+<br/>
+<br/>Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day).</td>
+</tr>
+<tr valign="top">
+<td>Antimycobacterial:<br/>rifabutin*</td>
+<td>↑ rifabutin and rifabutin metabolite</td>
+<td>Dosage reduction of rifabutin by at least 75% of the usual dose of 300 mg/day is recommended (i.e., a maximum dose of 150 mg every other day or three times per week).  Increased monitoring for adverse reactions is warranted in patients receiving the combination.  Further dosage reduction of rifabutin may be necessary.</td>
+</tr>
+<tr valign="top">
+<td>Antimycobacterial:<br/>rifampin</td>
+<td>↓ lopinavir</td>
+<td>May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors or other co-administered antiretroviral agents.  A study evaluated combination of rifampin 600 mg once daily, with KALETRA 800/200 mg twice daily or KALETRA 400/100 mg + ritonavir 300 mg twice daily.  Pharmacokinetic and safety results from this study do not allow for a dose recommendation.  Nine subjects (28%) experienced a ≥ grade 2 increase in ALT/AST, of which seven (21%) prematurely discontinued study per protocol.  Based on the study design, it is not possible to determine whether the frequency or magnitude of the ALT/AST elevations observed is higher than what would be seen with rifampin alone <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#section_12.3">12.3</linkhtml>) </content>for magnitude of interaction<content stylecode="italics">]</content>.</td>
+</tr>
+<tr valign="top">
+<td>Antiparasitic:<br/>atovaquone</td>
+<td>↓ atovaquone</td>
+<td>Clinical significance is unknown; however, increase in atovaquone doses may be needed.</td>
+</tr>
+<tr valign="top">
+<td>Benzodiazepines: parenterally administered midazolam</td>
+<td>↑ midazolam</td>
+<td>Midazolam is extensively metabolized by CYP3A4. Increases in the concentration of midazolam are expected to be significantly higher with oral than parenteral administration.  Therefore, KALETRA should not be given with orally administered midazolam <content stylecode="italics">[see Contraindications (<linkhtml href="#section_4">4</linkhtml>)]</content>. If KALETRA is co-administered with parenteral midazolam, close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised and dosage adjustment should be considered.</td>
+</tr>
+<tr valign="top">
+<td>Contraceptive:<br/>ethinyl estradiol*</td>
+<td>↓ ethinyl estradiol</td>
+<td>Because contraceptive steroid concentrations may be altered when KALETRA is co-administered with oral contraceptives or with the contraceptive patch, alternative methods of nonhormonal contraception are recommended.</td>
+</tr>
+<tr valign="top">
+<td>Corticosteroids (systemic): e.g.<br/>budesonide,<br/>dexamethasone,<br/>prednisone</td>
+<td>↓ lopinavir<br/>↑ glucocorticoids</td>
+<td>Use with caution.  KALETRA may be less effective due to decreased lopinavir plasma concentrations in patients taking these agents concomitantly.<br/>Concomitant use may result in increased steroid concentrations and reduced serum cortisol concentrations.  Concomitant use of glucocorticoids that are metabolized by CYP3A, particularly for long-term use, should consider the potential benefit of treatment versus the risk of systemic corticosteroid effects.  Concomitant use may increase the risk for development of systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression.</td>
+</tr>
+<tr>
+<td valign="top">Dihydropyridine Calcium Channel Blockers: e.g.<br/>felodipine,<br/>nifedipine,<br/>nicardipine</td>
+<td valign="top">↑ dihydropyridine calcium channel blockers</td>
+<td valign="top">Caution is warranted and clinical monitoring of patients is recommended.</td>
+</tr>
+<tr valign="top">
+<td>Disulfiram/metronidazole</td>
+<td> </td>
+<td>KALETRA oral solution contains alcohol, which can produce disulfiram-like reactions when co-administered with disulfiram or other drugs that produce this reaction (e.g., metronidazole).</td>
+</tr>
+<tr valign="top">
+<td>Endothelin Receptor Antagonists: <br/>bosentan</td>
+<td>↑ bosentan</td>
+<td>
+<content stylecode="underline">Co-administration of bosentan in patients on KALETRA:</content>
+<br/>
+<br/>In patients who have been receiving KALETRA for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability.  <br/>
+<br/>
+<content stylecode="underline">Co-administration of KALETRA in patients on bosentan:</content>
+<br/>
+<br/>Discontinue use of bosentan at least 36 hours prior to initiation of KALETRA.   <br/>
+<br/>After at least 10 days following the initiation of KALETRA, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability.</td>
+</tr>
+<tr>
+<td valign="top">HCV-Protease Inhibitor:<br/>boceprevir</td>
+<td valign="top">↓ lopinavir<br/>↓ boceprevir<br/>↓ ritonavir</td>
+<td valign="top">It is not recommended to co-administer KALETRA and boceprevir. Concomitant administration of KALETRA and boceprevir reduced boceprevir, lopinavir and ritonavir steady-state exposures <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#section_12.3">12.3</linkhtml>)]</content>.</td>
+</tr>
+<tr>
+<td valign="top">HCV-Protease Inhibitor:<br/>telaprevir</td>
+<td valign="top">↓ telaprevir<br/>↔ lopinavir</td>
+<td valign="top">It is not recommended to co-administer KALETRA and telaprevir. Concomitant administration of KALETRA and telaprevir reduced steady-state telaprevir exposure, while the steady-state lopinavir exposure was not affected <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#section_12.3">12.3</linkhtml>)]</content>.</td>
+</tr>
+<tr valign="top">
+<td>HMG-CoA Reductase Inhibitors:<br/>atorvastatin<br/>rosuvastatin</td>
+<td>↑ atorvastatin<br/>↑ rosuvastatin</td>
+<td>Use atorvastatin with caution and at the lowest necessary dose. Titrate rosuvastatin dose carefully and use the lowest necessary dose; do not exceed rosuvastatin 10 mg/day. See Drugs with No Observed or Predicted Interactions with KALETRA <content stylecode="italics">(<linkhtml href="#section_7.4">7.4</linkhtml>) </content>and Clinical Pharmacology <content stylecode="italics">(<linkhtml href="#section_12.3">12.3</linkhtml>)</content> for drug interaction data with other HMG-CoA reductase inhibitors.</td>
+</tr>
+<tr valign="top">
+<td>Immunosuppressants: e.g.<br/>cyclosporine,<br/>tacrolimus,<br/>sirolimus</td>
+<td>↑ immunosuppressants</td>
+<td>Therapeutic concentration monitoring is recommended for immunosuppressant agents when co-administered with KALETRA.</td>
+</tr>
+<tr valign="top">
+<td>Inhaled or Intranasal Steroids e.g.:<br/>fluticasone,<br/>budesonide</td>
+<td>↑ glucocorticoids</td>
+<td>Concomitant use of KALETRA and fluticasone or other glucocorticoids that are metabolized by CYP3A is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects.  Concomitant use may result in increased steroid concentrations and reduce serum cortisol concentrations. <br/>Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression have been reported during postmarketing use in patients when certain ritonavir-containing products have been co-administered with fluticasone propionate or budesonide. </td>
+</tr>
+<tr valign="top">
+<td>Long-acting beta-adrenoceptor Agonist: <br/>salmeterol</td>
+<td>↑ salmeterol</td>
+<td>Concurrent administration of salmeterol and KALETRA is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia.</td>
+</tr>
+<tr valign="top">
+<td>Narcotic Analgesics:<br/>methadone,*<br/>fentanyl</td>
+<td>↓ methadone<br/>↑ fentanyl</td>
+<td>Dosage of methadone may need to be increased when co-administered with KALETRA.<br/>Concentrations of fentanyl are expected to increase.  Careful monitoring of therapeutic and adverse effects (including potentially fatal respiratory depression) is recommended when fentanyl is concomitantly administered with KALETRA.</td>
+</tr>
+<tr valign="top">
+<td>PDE5 inhibitors: <br/>avanafil,<br/>sildenafil, <br/>tadalafil, <br/>vardenafil </td>
+<td>↑ avanafil<br/>↑ sildenafil <br/>↑ tadalafil <br/>↑ vardenafil </td>
+<td>Do not use KALETRA with avanafil because a safe and effective avanafil dosage regimen has not been established.<br/>Particular caution should be used when prescribing sildenafil, tadalafil, or vardenafil in patients receiving KALETRA. Co-administration of KALETRA with these drugs is expected to substantially increase their concentrations and may result in an increase in PDE5 inhibitor associated adverse reactions including hypotension, syncope, visual changes and prolonged erection.<br/>
+<br/>Use of PDE5 inhibitors for pulmonary arterial hypertension (PAH):  <br/>
+<br/>Sildenafil (Revatio<sup>®</sup>) is contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) because a safe and effective dose has not been established when used with KALETRA <content stylecode="italics">[see Contraindications (<linkhtml href="#section_4">4</linkhtml>)]</content>. <br/>
+<br/>The following dose adjustments are recommended for use of tadalafil (Adcirca<sup>®</sup>) with KALETRA:  <br/>
+<br/>
+<content stylecode="underline">Co-administration of ADCIRCA in patients on KALETRA:</content>
+<br/>
+<br/>In patients receiving KALETRA for at least one week, start ADCIRCA at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.  <br/>
+<br/>
+<content stylecode="underline">Co-administration of KALETRA in patients on ADCIRCA:</content>
+<br/>
+<br/>Avoid use of ADCIRCA during the initiation of KALETRA. Stop ADCIRCA at least 24 hours prior to starting KALETRA. After at least one week following the initiation of KALETRA, resume ADCIRCA at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.  <br/>
+<br/>Use of PDE5 inhibitors for erectile dysfunction:  <br/>
+<br/>It is recommended not to exceed the following doses:<br/>  • Sildenafil: 25 mg every 48 hours<br/>  • Tadalafil: 10 mg every 72 hours<br/>  • Vardenafil: 2.5 mg every 72 hours<br/>
+<br/>Use with increased monitoring for adverse events.</td>
+</tr>
+<tr>
+<td colspan="3">*    <content stylecode="italics">see Clinical Pharmacology (<linkhtml href="#section_12.3">12.3</linkhtml>)</content> for magnitude of interaction.</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,33 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis (<linkhtml href="#s2.3">2.3</linkhtml>, <linkhtml href="#s4">4</linkhtml>, <linkhtml href="#s5.1">5.1</linkhtml>, <linkhtml href="#s7.1">7.1</linkhtml>, <linkhtml href="#s7.2">7.2</linkhtml>, <linkhtml href="#s7.3">7.3</linkhtml>, <linkhtml href="#s12.3">12.3</linkhtml>)</caption>
+<col width="50%"></col>
+<col width="50%"></col>
+<thead>
+<tr>
+<td align="center" valign="top">
+<content stylecode="bold">Interacting Agents</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Prescribing Recommendations</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" stylecode="Rrule" valign="top">Strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, nefazodone), gemfibrozil, cyclosporine, danazol</td>
+<td align="left" stylecode="Lrule" valign="top">Contraindicated with simvastatin</td>
+</tr>
+<tr>
+<td align="left" stylecode="Rrule Toprule" valign="top">Verapamil, diltiazem, dronedarone</td>
+<td align="left" stylecode="Lrule Toprule" valign="top">Do not exceed 10 mg simvastatin daily</td>
+</tr>
+<tr>
+<td align="left" stylecode="Rrule Toprule" valign="top">Amiodarone, amlodipine, ranolazine</td>
+<td align="left" stylecode="Lrule Toprule" valign="top">Do not exceed 20 mg simvastatin daily</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Rrule Toprule" valign="top">Grapefruit juice</td>
+<td align="left" stylecode="Lrule Toprule" valign="top">Avoid grapefruit juice</td>
+</tr>
+</tbody>
+</table>

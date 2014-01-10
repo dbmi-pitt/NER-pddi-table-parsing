@@ -1,0 +1,36 @@
+<table border="none" id="id_5c339b3a-1923-4390-ab3a-a7a567ee831d" width="444.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<tbody>
+<tr id="id_5875884a-a5e3-46a9-8780-0aab8abdb13a">
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="underline">DRUGS</content>
+</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">
+<content stylecode="underline">EFFECT</content>
+</content>
+</td>
+</tr>
+<tr id="id_87a215a7-4af5-4c0b-a661-2534f2432fd8">
+<td align="left" valign="top">Aspirin w/anti-inflammatory agents</td>
+<td align="left" valign="top">
+<paragraph>Increased<br/>ulcerogenic effects.</paragraph>
+</td>
+</tr>
+<tr id="id_bd13c1df-3fa9-4fbf-9438-cd12a669eba0">
+<td align="left" valign="top">Butalbital w/coumarin anticoagulants</td>
+<td align="left" valign="top">
+<paragraph>Decreased effect of<br/>anticoagulant <br/>because of<br/>increased<br/>metabolism<br/>resulting from<br/>enzyme induction.</paragraph>
+</td>
+</tr>
+<tr id="id_b9dbddc0-9792-40a2-88e1-d7afa6fc3a89">
+<td align="left" stylecode="Botrule" valign="top">Butalbital w/tricyclic antidepressants</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>Decreased blood<br/>levels of the<br/>antidepressant.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

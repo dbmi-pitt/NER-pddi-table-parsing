@@ -1,0 +1,30 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="31%"></col>
+<col width="70%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<paragraph>Antibiotics</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>nafcillin, rifampin</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Anticonvulsants</paragraph>
+</td>
+<td>
+<paragraph>carbamazepine, oxcarbazepine, phenobarbital, phenytoin</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Other Drugs/Dietary Supplements</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>bosentan, octreotide, orlistat, sulfinpyrazone, terbinafine, ticlopidine, St. John’s Wort</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

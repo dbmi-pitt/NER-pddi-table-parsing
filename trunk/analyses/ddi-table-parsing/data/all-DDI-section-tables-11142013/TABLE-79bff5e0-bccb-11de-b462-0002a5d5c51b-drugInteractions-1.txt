@@ -1,0 +1,16 @@
+<table width="800" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Toprule">
+<td stylecode="bold">Drug</td>
+<td stylecode="bold">Description</td>
+</tr>
+<tr>
+<td>Corticosteroids</td>
+<td>Decreases plasma salicylate level; Tapering doses of steroids may promote salicylism</td>
+</tr>
+<tr stylecode="Botrule">
+<td>Ammonium Sulfate</td>
+<td>Increases plasma salicylate level</td>
+</tr>
+</tbody>
+</table>

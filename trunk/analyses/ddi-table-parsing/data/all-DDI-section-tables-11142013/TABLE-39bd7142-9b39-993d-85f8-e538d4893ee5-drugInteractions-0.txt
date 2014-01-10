@@ -1,0 +1,52 @@
+<table frame="void" width="65%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">AED Co-administration</content>
+</td>
+<td rowspan="1">
+<content stylecode="bold">AED Concentration</content>
+</td>
+<td rowspan="1">
+<content stylecode="bold">Topiramate Concentration</content>
+</td>
+</tr>
+<tr>
+<td colspan="1">Phenytoin</td>
+<td rowspan="1">NC or 25% increase<sup>a</sup>
+</td>
+<td rowspan="1">48% decrease</td>
+</tr>
+<tr>
+<td colspan="1">Carbamazepine (CBZ)</td>
+<td colspan="1">NC</td>
+<td colspan="1">40% decrease</td>
+</tr>
+<tr>
+<td colspan="1">CBZ epoxide<sup>b</sup>
+</td>
+<td colspan="1">NC</td>
+<td colspan="1">NE</td>
+</tr>
+<tr>
+<td colspan="1">Valproic acid</td>
+<td colspan="1">11% decrease</td>
+<td colspan="1">14% decrease</td>
+</tr>
+<tr>
+<td colspan="1">Phenobarbital</td>
+<td colspan="1">NC</td>
+<td colspan="1">NE</td>
+</tr>
+<tr>
+<td colspan="1">Primidone</td>
+<td colspan="1">NC</td>
+<td colspan="1">NE</td>
+</tr>
+<tr>
+<td colspan="1">Lamotrigine</td>
+<td colspan="1">NC at TPM doses up to 400 mg/day</td>
+<td colspan="1">13% decrease</td>
+</tr>
+</tbody>
+</table>

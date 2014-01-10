@@ -1,0 +1,184 @@
+<table border="1" id="id_77ae8680-d064-477b-9b5f-5abcf28e4399" width="873.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_a27bb6d2-80a5-4605-9cb5-c217ce6a2630">Table 2: Drug-Thyroidal Axis Interactions</caption>
+<col width="29.6%"></col>
+<col width="70.4%"></col>
+<tbody>
+<tr id="id_4801e767-758b-4eab-8839-3da04bab1899">
+<td align="center" stylecode="Botrule Toprule Rrule" valign="top">
+<content stylecode="bold">Drug or Drug Class</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Effect</content>
+</td>
+</tr>
+<tr id="id_32ec6f42-1aa7-44d6-8d4f-0cd4cc344817">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that may reduce TSH secretion - the reduction is not sustained; therefore, hypothyroidism does not occur</content>
+</td>
+</tr>
+<tr id="id_41643613-6b95-475f-91ee-abadbdcbc657">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Dopamine/Dopamine Agonists<br/>Glucocorticoids<br/>Octreotide</paragraph>
+</td>
+<td align="char" stylecode="Botrule" valign="top">Use of these agents may result in a transient reduction in TSH secretion when administered at the following doses: Dopamine (≥1 mcg/kg/min); Glucocorticoids (hydrocortisone ≥ 100 mg/day or equivalent); Octreotide (&gt; 100 mcg/day).</td>
+</tr>
+<tr id="id_c5fb0a1b-a700-4a6d-a565-863cde3c6150">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that alter thyroid hormone secretion</content>
+</td>
+</tr>
+<tr id="id_991870f1-803e-43c6-8896-9577562d31b9">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that may decrease thyroid hormone secretion, which may result in hypothyroidism</content>
+</td>
+</tr>
+<tr id="id_3ee594f0-1180-4c92-a91a-ffbbde99480c">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Aminoglutethimide<br/>Amiodarone<br/>Iodide (including iodine-containing radiographic contrast agents)<br/>Lithium<br/>Methimazole<br/>Propylthiouracil (PTU)<br/>Sulfonamides<br/>Tolbutamide</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Long-term lithium therapy can result in goiter in up to 50% of patients, and either subclinical or overt hypothyroidism, each in up to 20% of patients. The fetus, neonate, elderly and euthyroid patients with underlying thyroid disease (e.g., Hashimoto’s thyroiditis or with Grave’s disease previously treated with radioiodine or surgery) are among those individuals who are particularly susceptible to iodine-induced hypothyroidism. Oral cholecystographic agents and amiodarone are slowly excreted, producing more prolonged hypothyroidism than parenterally administered iodinated contrast agents. Long-term aminoglutethimide therapy may minimally decrease T<sub>4</sub> and T<sub>3 </sub>levels and increase TSH, although all values remain within normal limits in most patients.</td>
+</tr>
+<tr id="id_c5b0d0e2-f2d5-4183-b3cd-dd4eaa4b6bc1">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that may increase thyroid hormone secretion, which may result in hyperthyroidism</content>
+</td>
+</tr>
+<tr id="id_8943e972-cd7f-4d9c-8c7d-582073850f96">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Amiodarone<br/>Iodide (including iodine-containing radiographic contrast agents)</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Iodide and drugs that contain pharmacologic amounts of iodide may cause hyperthyroidism in euthyroid patients with Grave’s disease previously treated with antithyroid drugs or in euthyroid patients with thyroid autonomy (e.g., multinodular goiter or hyperfunctioning thyroid adenoma). Hyperthyroidism may develop over several weeks and may persist for several months after therapy discontinuation. Amiodarone may induce hyperthyroidism by causing thyroiditis.</td>
+</tr>
+<tr id="id_8d030d31-13ff-4a00-b67f-fa439638c09a">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that may decrease T<sub>4 </sub> absorption, which may result in hypothyroidism</content>
+</td>
+</tr>
+<tr id="id_43acf66b-7661-4edc-8f72-7403dd299c51">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Antacids<br/>- Aluminum &amp; Magnesium Hydroxides<br/>- Simethicone<br/>Bile Acid Sequestrants<br/>- Cholestyramine<br/>- Colestipol<br/>Calcium Carbonate<br/>Cation Exchange Resins<br/>- Kayexalate<br/>Ferrous Sulfate<br/>Orlistat<br/>Sucralfate</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Concurrent use may reduce the efficacy of levothyroxine by binding and delaying or preventing absorption, potentially resulting in hypothyroidism. Calcium carbonate may form an insoluble chelate with levothyroxine, and ferrous sulfate likely forms a ferric-thyroxine complex. Administer levothyroxine at least 4 hours apart from these agents. Patients treated concomitantly with orlistat and levothyroxine sodium should be monitored for changes in thyroid function.</td>
+</tr>
+<tr id="id_30a9fdda-578b-483d-8ed7-aa5d12fc4ecb">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that may alter T<sub>4</sub> and T<sub>3</sub> serum transport - but FT<sub>4</sub> concentration remains normal; and therefore, the patient remains euthyroid</content>
+</td>
+</tr>
+<tr id="id_7ffb89b6-8246-4a61-8da0-64991c1ee979">
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Drugs that may increase serum TBG concentration</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that may decrease serum TBG concentration</content>
+</td>
+</tr>
+<tr id="id_456d3d9b-ad88-4b61-9cda-4b1c265ac8d0">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Clofibrate<br/>Estrogen-containing oral contraceptives<br/>Estrogens (oral)<br/>Heroin/Methadone<br/>5-Fluorouracil<br/>Mitotane<br/>Tamoxifen</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Androgens/Anabolic Steroids<br/>Asparaginase<br/>Glucocorticoids<br/>Slow-Release Nicotinic Acid</td>
+</tr>
+<tr id="id_9f8b1f01-df5a-4906-af52-925bfcc2ed67">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that may cause protein-binding site displacement</content>
+</td>
+</tr>
+<tr id="id_1eefc32d-a6d1-4454-baa6-ddf5ab25733b">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Furosemide (&gt; 80 mg IV)<br/>Heparin<br/>Hydantoins<br/>Non-Steroidal Anti-Inflammatory Drugs<br/>- Fenamates<br/>- Phenylbutazone<br/>Salicylates (&gt; 2 g/day)</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Administration of these agents with levothyroxine results in an initial transient increase in FT<sub>4</sub> . Continued administration results in a decrease in serum T<sub>4</sub> and normal FT<sub>4</sub> and TSH concentrations and, therefore, patients are clinically euthyroid. Salicylates inhibit binding of T<sub>4</sub> and T<sub>3</sub> to TBG and transthyretin. An initial increase in serum FT<sub>4</sub> is followed by return of FT<sub>4</sub> to normal levels with sustained therapeutic serum salicylate concentrations, although total-T<sub>4</sub> levels may decrease by as much as 30%.</td>
+</tr>
+<tr id="id_89da11d3-e632-4cbb-aa65-038f455233dd">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that may alter T<sub>4</sub> and T<sub>3</sub> metabolism</content>
+</td>
+</tr>
+<tr id="id_9f9b41cf-76ff-41af-97b1-ecbb0ecd26ba">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that may increase hepatic metabolism, which may result in hypothyroidism</content>
+</td>
+</tr>
+<tr id="id_6e0efaf7-6395-4db3-b93c-9068db4b11e3">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Carbamazepine<br/>Hydantoins<br/>Phenobarbital<br/>Rifampin</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased levothyroxine requirements. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total- and free-T<sub>4</sub> may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid.</td>
+</tr>
+<tr id="id_3a5dae1c-3448-4db0-8c6d-6a81b9254b52">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drugs that may decrease T<sub>4</sub> 5'-deiodinase activity</content>
+</td>
+</tr>
+<tr id="id_3e97048a-a690-4223-a519-c6bd86d2ebb2">
+<td align="char" stylecode="Botrule Rrule" valign="top">
+<paragraph>Amiodarone<br/>Beta-adrenergic antagonists<br/>- (e.g., Propranolol &gt; 160 mg/day)<br/>Glucocorticoids<br/>- (e.g., Dexamethasone ³ 4 mg/day)<br/>Propylthiouracil (PTU)</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Administration of these enzyme inhibitors decreases the peripheral conversion of T<sub>4</sub> to T<sub>3</sub>, leading to decreased T<sub>3</sub> levels. However, serum T<sub>4 </sub>levels are usually normal but may occasionally be slightly increased. In patients treated with large doses of propranolol (&gt;160 mg/day), T<sub>3</sub> and T<sub>4</sub> levels change slightly, TSH levels remain normal, and patients are clinically euthyroid. It should be noted that actions of particular beta-adrenergic antagonists may be impaired when the hypothyroid patient is converted to the euthyroid state. Short-term administration of large doses of glucocorticoids may decrease serum T<sub>3 </sub>concentrations by 30% with minimal change in serum T<sub>4</sub> levels. However, long-term glucocorticoid therapy may result in slightly decreased T<sub>3</sub> and T<sub>4 </sub>levels due to decreased TBG production (see above). </td>
+</tr>
+<tr id="id_e4e41329-ecd4-4a4a-b18a-d0252b623df1">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Miscellaneous</content>
+</td>
+</tr>
+<tr id="id_dbf46b0b-bbfa-4097-ba62-0519a6ecd2b0">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Anticoagulants (oral)<br/>- Coumarin Derivatives<br/>- Indandione Derivatives</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Thyroid hormones appear to increase the catabolism of vitamin K-dependent clotting factors, thereby increasing the anticoagulant activity of oral anticoagulants. Concomitant use of these agents impairs the compensatory increases in clotting factor synthesis. Prothrombin time should be carefully monitored in patients taking levothyroxine and oral anticoagulants and the dose of anticoagulant therapy adjusted accordingly.</td>
+</tr>
+<tr id="id_56d4b921-a5c8-4fb7-bf7c-2bcf4190b73a">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Antidepressants<br/>- Tricyclics (e.g., Amitriptyline)<br/>- Tetracyclics (e.g., Maprotiline)<br/>- Selective Serotonin Reuptake Inhibitors (SSRIs; e.g., Sertraline)</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Concurrent use of tri/tetracyclic antidepressants and levothyroxine may increase the therapeutic and toxic effects of both drugs, possibly due to increased receptor sensitivity to catecholamines. Toxic effects may include increased risk of cardiac arrhythmias<br/>and CNS stimulation; onset of action of tricyclics may be accelerated. Administration of sertraline in patients stabilized on levothyroxine may result in increased levothyroxine requirements. </td>
+</tr>
+<tr id="id_f5e392a4-438a-4338-998c-6b08a3dd0f4f">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Antidiabetic Agents<br/>- Biguanides<br/>- Meglitinides<br/>- Sulfonylureas<br/>- Thiazolidinediones<br/>- Insulin</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Addition of levothyroxine to antidiabetic or insulin therapy may result in increased antidiabetic agent or insulin requirements. Careful monitoring of diabetic control is recommended, especially when thyroid therapy is started, changed, or discontinued. </td>
+</tr>
+<tr id="id_534887ea-5cde-4944-bfcb-ae40c65cd65a">
+<td align="left" stylecode="Botrule Rrule" valign="top">Cardiac Glycosides</td>
+<td align="left" stylecode="Botrule" valign="top">Serum digitalis glycoside levels may be reduced in hyperthyroidism or when the hypothyroid patient is converted to the euthyroid state. Therapeutic effect of digitalis glycosides may be reduced.</td>
+</tr>
+<tr id="id_fb936922-4a82-482f-a1b6-c38ce4c28497">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Cytokines<br/>- Interferon-α<br/>- Interleukin-2</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Therapy with interferon-α has been associated with the development of antithyroid microsomal antibodies in 20% of patients and some have transient hypothyroidism, hyperthyroidism, or both. Patients who have antithyroid antibodies before treatment are at higher risk for thyroid dysfunction during treatment. Interleukin-2 has been associated with transient painless thyroiditis in 20% of patients. Interferon-β and -γ have not been reported to cause thyroid dysfunction.</td>
+</tr>
+<tr id="id_3acdb39f-a48a-45be-aaa7-f0903cd6e02c">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Growth Hormones<br/>- Somatrem<br/>- Somatropin</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Excessive use of thyroid hormones with growth hormones may accelerate epiphyseal closure. However, untreated hypothyroidism may interfere with growth response to growth hormone. </td>
+</tr>
+<tr id="id_7433baa3-cbce-42a1-bdfc-f02ea9626b61">
+<td align="left" stylecode="Botrule Rrule" valign="top">Ketamine</td>
+<td align="left" stylecode="Botrule" valign="top">Concurrent use may produce marked hypertension and tachycardia; cautious administration to patients receiving thyroid hormone therapy is recommended.</td>
+</tr>
+<tr id="id_dc6cd77a-4c07-43aa-8afe-3b730050db99">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Methylxanthine Bronchodilators<br/>- (e.g., Theophylline)</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">Decreased theophylline clearance may occur in hypothyroid patients; clearance returns to normal when the euthyroid state is achieved.</td>
+</tr>
+<tr id="id_bc6de4bb-ed7e-4ec5-b4f7-2f9c0338abfb">
+<td align="left" stylecode="Botrule Rrule" valign="top">Radiographic Agents</td>
+<td align="left" stylecode="Botrule" valign="top">Thyroid hormones may reduce the uptake of <sup>123</sup> I, <sup>131</sup>I, and <sup>99m</sup>Tc.</td>
+</tr>
+<tr id="id_1ba6221b-7398-4f0f-94c1-d6c889f02fd3">
+<td align="left" stylecode="Botrule Rrule" valign="top">Sympathomimetics</td>
+<td align="left" stylecode="Botrule" valign="top">Concurrent use may increase the effects of sympathomimetics or thyroid hormone. Thyroid hormones may increase the risk of coronary insufficiency when sympathomimetic agents are administered to patients with coronary artery disease.</td>
+</tr>
+<tr id="id_d901c10c-3197-4ff3-a438-23d195b7f340">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Chloral Hydrate<br/>Diazepam<br/>Ethionamide<br/>Lovastatin<br/>Metoclopramide<br/>6-Mercaptopurine<br/>Nitroprusside<br/>Para-aminosalicylate sodium<br/>Perphenazine<br/>Resorcinol (excessive topical use)<br/>Thiazide Diuretics</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">These agents have been associated with thyroid hormone and/or TSH level alterations by various mechanisms.</td>
+</tr>
+</tbody>
+</table>

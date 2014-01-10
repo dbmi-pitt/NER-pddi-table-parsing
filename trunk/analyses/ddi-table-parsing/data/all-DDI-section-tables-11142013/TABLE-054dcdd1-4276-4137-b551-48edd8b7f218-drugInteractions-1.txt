@@ -1,0 +1,423 @@
+<table id="id_037cf2ff-0058-4579-8717-22470a787d42" width="430.000" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="34.0%"></col>
+<col width="32.1%"></col>
+<col width="34.0%"></col>
+<thead>
+<tr id="id_eee9f424-6646-4f00-86ba-162dd29ef2f7">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">Classes of Drug </content>
+</paragraph>
+</td>
+<td align="justify" stylecode="Botrule" valign="middle">
+<paragraph></paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="middle">
+<paragraph></paragraph>
+</td>
+</tr>
+</thead>
+<tfoot id="id_729c730c-82d2-4655-9464-db93ee3ca8e9">
+<tr>
+<td align="left" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>also: other medications affecting blood elements which may modify hemostasis </paragraph>
+<paragraph>dietary deficiencies</paragraph>
+<paragraph>prolonged hot weather</paragraph>
+<paragraph>unreliable PT/INR determinations </paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_d2e2acc5-5a65-4e84-81ab-e0cbbc55a00a">
+<td align="justify" stylecode="Lrule Toprule Rrule" valign="top">   5-lipoxygenase Inhibitor </td>
+<td align="justify" stylecode="Rrule" valign="top">   Antiplatelet Drugs/Effects </td>
+<td align="left" stylecode="Rrule" valign="top">   Leukotriene Receptor Antagonist </td>
+</tr>
+<tr id="id_7d131f4c-cdcd-43a7-982d-f63e5f6d6050">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Adrenergic Stimulants, Central </td>
+<td align="justify" stylecode="Rrule" valign="top">   Antithyroid Drugs<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">   Monoamine Oxidase Inhibitors </td>
+</tr>
+<tr id="id_a7a2dfdd-ffa5-48b7-addd-a50770ae4324">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Alcohol Abuse Reduction </td>
+<td align="justify" stylecode="Rrule" valign="top">   Beta-Adrenergic Blockers </td>
+<td align="justify" stylecode="Rrule" valign="top">   Narcotics, prolonged </td>
+</tr>
+<tr id="id_3036cc6e-63c6-4a09-99c7-52084fa4f062">
+<td align="justify" stylecode="Lrule Rrule" valign="top">       Preparations </td>
+<td align="justify" stylecode="Rrule" valign="top">   Cholelitholytic Agents </td>
+<td align="justify" stylecode="Rrule" valign="top">   Nonsteroidal Anti- </td>
+</tr>
+<tr id="id_56ac3447-d284-471f-824b-942a7fb570a7">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Analgesics </td>
+<td align="justify" stylecode="Rrule" valign="top">   Diabetes Agents, Oral </td>
+<td align="justify" stylecode="Rrule" valign="top">         Inflammatory Agents </td>
+</tr>
+<tr id="id_755432b4-8b0a-4a6d-80bf-0d3a7bcb50a5">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Anesthetics, Inhalation </td>
+<td align="justify" stylecode="Rrule" valign="top">   Diuretics<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">   Proton Pump Inhibitors </td>
+</tr>
+<tr id="id_8f2329aa-fd59-457f-a445-d6cde7e00d09">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Antiandrogen </td>
+<td align="justify" stylecode="Rrule" valign="top">   Fungal Medications,  </td>
+<td align="justify" stylecode="Rrule" valign="top">   Psychostimulants </td>
+</tr>
+<tr id="id_b9788f0d-bddb-49cc-a7e0-69e5aa7d116c">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Antiarrhythmics<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">       Intravaginal, Systemic<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">   Pyrazolones </td>
+</tr>
+<tr id="id_bc014a04-1b6c-4fce-8f9a-a193b3891820">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Antibiotics<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">   Gastric Acidity and Peptic </td>
+<td align="justify" stylecode="Rrule" valign="top">   Salicylates </td>
+</tr>
+<tr id="id_c267d54b-d800-4170-b94f-410b7b25243b">
+<td align="justify" stylecode="Lrule Rrule" valign="top">      Aminoglycosides (oral) </td>
+<td align="justify" stylecode="Rrule" valign="top">       Ulcer Agents<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">   Selective Serotonin </td>
+</tr>
+<tr id="id_81bf5e5e-8dbe-4e0a-a50d-a64b26f5eb56">
+<td align="justify" stylecode="Lrule Rrule" valign="top">      Cephalosporins, parenteral </td>
+<td align="justify" stylecode="Rrule" valign="top">   Gastrointestinal </td>
+<td align="justify" stylecode="Rrule" valign="top">         Reuptake Inhibitors </td>
+</tr>
+<tr id="id_c63b8938-4d67-462c-94c7-0fde80c0bb88">
+<td align="justify" stylecode="Lrule Rrule" valign="top">      Macrolides </td>
+<td align="justify" stylecode="Rrule" valign="top">       Prokinetic Agents </td>
+<td align="justify" stylecode="Rrule" valign="top">   Steroids, Adrenocortical<sup>†</sup>
+</td>
+</tr>
+<tr id="id_c1f364ae-a0f7-411b-8bce-4ca59d07d8ae">
+<td align="justify" stylecode="Lrule Rrule" valign="top">      Miscellaneous </td>
+<td align="justify" stylecode="Rrule" valign="top">       Ulcerative Colitis Agents </td>
+<td align="justify" stylecode="Rrule" valign="top">   Steroids, Anabolic (17-Alkyl </td>
+</tr>
+<tr id="id_172327e4-6f76-4870-8497-65d25f649734">
+<td align="justify" stylecode="Lrule Rrule" valign="top">      Penicillins, intravenous, </td>
+<td align="justify" stylecode="Rrule" valign="top">   Gout Treatment Agents </td>
+<td align="justify" stylecode="Rrule" valign="top">          Testosterone Derivatives) </td>
+</tr>
+<tr id="id_f0806822-37b2-4483-a6d6-86411b741474">
+<td align="justify" stylecode="Lrule Rrule" valign="top">         high dose </td>
+<td align="justify" stylecode="Rrule" valign="top">   Hemorrheologic Agents </td>
+<td align="justify" stylecode="Rrule" valign="top">   Thrombolytics </td>
+</tr>
+<tr id="id_b814d96b-bf15-4a41-94f1-13c0d4c03a80">
+<td align="justify" stylecode="Lrule Rrule" valign="top">      Quinolones (fluoroquinolones) </td>
+<td align="justify" stylecode="Rrule" valign="top">   Hepatotoxic Drugs </td>
+<td align="justify" stylecode="Rrule" valign="top">   Thyroid Drugs </td>
+</tr>
+<tr id="id_05204e4c-4222-491e-8529-12d9ddb21c05">
+<td align="justify" stylecode="Lrule Rrule" valign="top">      Sulfonamides, long acting </td>
+<td align="justify" stylecode="Rrule" valign="top">   Hyperglycemic Agents </td>
+<td align="justify" stylecode="Rrule" valign="top">   Tuberculosis Agents<sup>†</sup>
+</td>
+</tr>
+<tr id="id_52ae30d3-d6d5-4d19-814d-b9c6db645fbc">
+<td align="justify" stylecode="Lrule Rrule" valign="top">      Tetracyclines </td>
+<td align="justify" stylecode="Rrule" valign="top">   Hypertensive Emergency  Agents           </td>
+<td align="justify" stylecode="Rrule" valign="top">   Uricosuric Agents </td>
+</tr>
+<tr id="id_9995db44-90b4-4993-8380-26d1f1f4e28a">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Anticoagulants </td>
+<td align="justify" stylecode="Rrule" valign="top">   Hypnotics<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">   Vaccines </td>
+</tr>
+<tr id="id_de3b17b5-3b69-4a0b-b87f-ac5764b3e187">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Anticonvulsants<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">   Hypolipidemics<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">   Vitamins<sup>†</sup>
+</td>
+</tr>
+<tr id="id_6f7ea4e9-efd1-4995-9f16-d492011e4000">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Antidepressants<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">      Bile Acid-Binding Resins<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_15b57fe6-5577-47aa-a731-5fa23cf76a5f">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Antimalarial Agents </td>
+<td align="justify" stylecode="Rrule" valign="top">      Fibric Acid Derivatives </td>
+<td align="justify" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_9369d626-9d8b-4e25-b841-980034ce06df">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Antineoplastics<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">      HMG-CoA Reductase   Inhibitors<sup>†</sup>
+</td>
+<td align="justify" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_27d0552b-0034-47d7-bbac-c2772114be9b">
+<td align="justify" stylecode="Lrule Rrule" valign="top">   Antiparasitic/Antimicrobials </td>
+<td align="justify" stylecode="Rrule" valign="top"></td>
+<td align="justify" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_45f8532c-47c7-4895-9607-b1afdf077c12">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Specific Drugs Reported </content>
+</paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph></paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph></paragraph>
+</td>
+</tr>
+<tr id="id_d53b1fa7-9aa7-4637-9594-a8c1c31c7b22">
+<td align="left" stylecode="Lrule Rrule" valign="top">   acetaminophen </td>
+<td align="left" stylecode="Rrule" valign="top">   fenoprofen </td>
+<td align="left" stylecode="Rrule" valign="top">   paroxetine </td>
+</tr>
+<tr id="id_210b606f-6011-49c2-94e3-ac17ea9057c2">
+<td align="left" stylecode="Lrule Rrule" valign="top">   alcohol<footnote id="id-35093e1d-d3af-4d08-a305-ef7a99b35e97">Increased and decreased PT/INR responses have been reported.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">   fluconazole </td>
+<td align="left" stylecode="Rrule" valign="top">   penicillin G, intravenous </td>
+</tr>
+<tr id="id_72a23f91-41cd-47d7-af40-55cd9bbb55e6">
+<td align="left" stylecode="Lrule Rrule" valign="top">   allopurinol </td>
+<td align="left" stylecode="Rrule" valign="top">   fluorouracil </td>
+<td align="left" stylecode="Rrule" valign="top">   pentoxifylline </td>
+</tr>
+<tr id="id_22f63163-1961-4b28-92a6-0fe8528ba572">
+<td align="left" stylecode="Lrule Rrule" valign="top">   aminosalicylic acid </td>
+<td align="left" stylecode="Rrule" valign="top">   fluoxetine </td>
+<td align="left" stylecode="Rrule" valign="top">   phenylbutazone </td>
+</tr>
+<tr id="id_601c114f-0f09-4cc2-bd3b-aaae2578b123">
+<td align="left" stylecode="Lrule Rrule" valign="top">   amiodarone HCl </td>
+<td align="left" stylecode="Rrule" valign="top">   flutamide </td>
+<td align="left" stylecode="Rrule" valign="top">   phenytoin<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+</tr>
+<tr id="id_1f86d641-cfe9-4e4a-826c-e2a7da3dbaf5">
+<td align="left" stylecode="Lrule Rrule" valign="top">   argatroban </td>
+<td align="left" stylecode="Rrule" valign="top">   fluvastatin </td>
+<td align="left" stylecode="Rrule" valign="top">   piperacillin </td>
+</tr>
+<tr id="id_bc206773-ff51-4a6c-a68f-eb1f4a85975b">
+<td align="left" stylecode="Lrule Rrule" valign="top">   aspirin </td>
+<td align="left" stylecode="Rrule" valign="top">   fluvoxamine </td>
+<td align="left" stylecode="Rrule" valign="top">   piroxicam </td>
+</tr>
+<tr id="id_f8b21175-f987-4b37-bd16-93b9ea272130">
+<td align="left" stylecode="Lrule Rrule" valign="top">   atenolol </td>
+<td align="left" stylecode="Rrule" valign="top">   gefitinib </td>
+<td align="left" stylecode="Rrule" valign="top">   pravastatin<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+</tr>
+<tr id="id_9cbab2c7-1e2b-43d9-b27e-84cb8b2e3014">
+<td align="left" stylecode="Lrule Rrule" valign="top">   atorvastatin<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">   gemfibrozil </td>
+<td align="left" stylecode="Rrule" valign="top">   prednisone<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+</tr>
+<tr id="id_eee813d4-87ad-4f89-af6c-235fae4ae7ae">
+<td align="left" stylecode="Lrule Rrule" valign="top">   azithromycin </td>
+<td align="left" stylecode="Rrule" valign="top">   glucagon </td>
+<td align="left" stylecode="Rrule" valign="top">   propafenone </td>
+</tr>
+<tr id="id_a13646bd-53c8-4d66-8a4d-21957a5bd821">
+<td align="left" stylecode="Lrule Rrule" valign="top">   bivalirudin </td>
+<td align="left" stylecode="Rrule" valign="top">   halothane </td>
+<td align="left" stylecode="Rrule" valign="top">   propoxyphene </td>
+</tr>
+<tr id="id_e96303d4-545d-4b58-8954-0f425af33dcc">
+<td align="left" stylecode="Lrule Rrule" valign="top">   capecitabine </td>
+<td align="left" stylecode="Rrule" valign="top">   heparin </td>
+<td align="left" stylecode="Rrule" valign="top">   propranolol </td>
+</tr>
+<tr id="id_4326e8c9-f79d-444f-b4c6-6a825c867627">
+<td align="left" stylecode="Lrule Rrule" valign="top">   cefamandole </td>
+<td align="left" stylecode="Rrule" valign="top">   ibuprofen </td>
+<td align="left" stylecode="Rrule" valign="top">   propylthiouracil<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+</tr>
+<tr id="id_65f6ef67-a82c-42c4-90c3-06e9a158605d">
+<td align="left" stylecode="Lrule Rrule" valign="top">   cefazolin </td>
+<td align="left" stylecode="Rrule" valign="top">   ifosfamide </td>
+<td align="left" stylecode="Rrule" valign="top">   quinidine </td>
+</tr>
+<tr id="id_019e761d-5eeb-43c1-a879-86f9129ed754">
+<td align="left" stylecode="Lrule Rrule" valign="top">   cefoperazone </td>
+<td align="left" stylecode="Rrule" valign="top">   indomethacin </td>
+<td align="left" stylecode="Rrule" valign="top">   quinine </td>
+</tr>
+<tr id="id_0ca4f1db-791d-40cd-a66d-c1bdc15493d6">
+<td align="left" stylecode="Lrule Rrule" valign="top">   cefotetan </td>
+<td align="left" stylecode="Rrule" valign="top">   influenza virus vaccine </td>
+<td align="left" stylecode="Rrule" valign="top">   rabeprazole </td>
+</tr>
+<tr id="id_7338784d-05ce-466f-9e6e-d45735a8f2aa">
+<td align="left" stylecode="Lrule Rrule" valign="top">   cefoxitin </td>
+<td align="left" stylecode="Rrule" valign="top">   itraconazole </td>
+<td align="left" stylecode="Rrule" valign="top">   ranitidine<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+</tr>
+<tr id="id_d9c14e18-21d5-4f26-945d-c27c849fa4d8">
+<td align="left" stylecode="Lrule Rrule" valign="top">   ceftriaxone </td>
+<td align="left" stylecode="Rrule" valign="top">   ketoprofen </td>
+<td align="left" stylecode="Rrule" valign="top">   rofecoxib </td>
+</tr>
+<tr id="id_3f44709a-16de-44aa-ba5f-469e18a7e106">
+<td align="left" stylecode="Lrule Rrule" valign="top">   celecoxib </td>
+<td align="left" stylecode="Rrule" valign="top">   ketorolac </td>
+<td align="left" stylecode="Rrule" valign="top">   sertraline </td>
+</tr>
+<tr id="id_0b844537-ddf4-4172-a482-9d462bd7bdfe">
+<td align="left" stylecode="Lrule Rrule" valign="top">   cerivastatin </td>
+<td align="left" stylecode="Rrule" valign="top">   lansoprazole </td>
+<td align="left" stylecode="Rrule" valign="top">   simvastatin </td>
+</tr>
+<tr id="id_7204d2b4-0cc4-453f-9d58-f2264da4f543">
+<td align="left" stylecode="Lrule Rrule" valign="top">   chenodiol </td>
+<td align="left" stylecode="Rrule" valign="top">   lepirudin </td>
+<td align="left" stylecode="Rrule" valign="top">   stanozolol </td>
+</tr>
+<tr id="id_637742c0-b17c-458e-af09-b910cc26c2c2">
+<td align="left" stylecode="Lrule Rrule" valign="top">   chloramphenicol </td>
+<td align="left" stylecode="Rrule" valign="top">   levamisole </td>
+<td align="left" stylecode="Rrule" valign="top">   streptokinase </td>
+</tr>
+<tr id="id_98fe3beb-bec5-460e-97ae-e3a05135a67d">
+<td align="left" stylecode="Lrule Rrule" valign="top">   chloral hydrate<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">   levofloxacin </td>
+<td align="left" stylecode="Rrule" valign="top">   sulfamethizole </td>
+</tr>
+<tr id="id_af1cb554-c569-4168-9af1-378dbf9e38ed">
+<td align="left" stylecode="Lrule Rrule" valign="top">   chlorpropamide </td>
+<td align="left" stylecode="Rrule" valign="top">   levothyroxine </td>
+<td align="left" stylecode="Rrule" valign="top">   sulfamethoxazole </td>
+</tr>
+<tr id="id_9bb71efb-d38f-48f2-bcf2-c17b9e827add">
+<td align="left" stylecode="Lrule Rrule" valign="top">   cholestyramine<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">   liothyronine </td>
+<td align="left" stylecode="Rrule" valign="top">   sulfinpyrazone </td>
+</tr>
+<tr id="id_556f95ef-2602-49ec-9c19-599a5a5e8a4a">
+<td align="left" stylecode="Lrule Rrule" valign="top">   cimetidine </td>
+<td align="left" stylecode="Rrule" valign="top">   lovastatin </td>
+<td align="left" stylecode="Rrule" valign="top">   sulfisoxazole </td>
+</tr>
+<tr id="id_52f01dc7-f666-474c-bb07-a3a36a04ec72">
+<td align="left" stylecode="Lrule Rrule" valign="top">   ciprofloxacin </td>
+<td align="left" stylecode="Rrule" valign="top">   mefenamic acid </td>
+<td align="left" stylecode="Rrule" valign="top">   sulindac </td>
+</tr>
+<tr id="id_edef5243-dfca-45b5-809d-d087e6b1b5db">
+<td align="left" stylecode="Lrule Rrule" valign="top">   cisapride </td>
+<td align="left" stylecode="Rrule" valign="top">   methimazole<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">   tamoxifen </td>
+</tr>
+<tr id="id_d9ab1b0f-52a6-4168-bc92-f45d090382ac">
+<td align="left" stylecode="Lrule Rrule" valign="top">   clarithromycin </td>
+<td align="left" stylecode="Rrule" valign="top">   methyldopa </td>
+<td align="left" stylecode="Rrule" valign="top">   tetracycline </td>
+</tr>
+<tr id="id_0a0e72bf-2a99-472e-abb4-20454335912c">
+<td align="left" stylecode="Lrule Rrule" valign="top">   clofibrate </td>
+<td align="left" stylecode="Rrule" valign="top">   methylphenidate </td>
+<td align="left" stylecode="Rrule" valign="top">   thyroid </td>
+</tr>
+<tr id="id_97ce1902-8b07-407a-a9d1-4bb1b58d4c9c">
+<td align="left" stylecode="Lrule Rrule" valign="top">   warfarin sodium overdose </td>
+<td align="left" stylecode="Rrule" valign="top">   methylsalicylate ointment (topical) </td>
+<td align="left" stylecode="Rrule" valign="top">   ticarcillin </td>
+</tr>
+<tr id="id_8d211640-0bb8-4bb2-935f-fc02d3e84264">
+<td align="left" stylecode="Lrule Rrule" valign="top">   cyclophosphamide<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">   metronidazole </td>
+<td align="left" stylecode="Rrule" valign="top">   ticlopidine </td>
+</tr>
+<tr id="id_8ea7e106-b240-4e3c-bb89-ea57687ecce2">
+<td align="left" stylecode="Lrule Rrule" valign="top">   danazol </td>
+<td align="left" stylecode="Rrule" valign="top">   miconazole  </td>
+<td align="left" stylecode="Rrule" valign="top">   tissue plasminogen </td>
+</tr>
+<tr id="id_63a89415-1763-43b2-bcfb-a14759546505">
+<td align="left" stylecode="Lrule Rrule" valign="top">   dextran </td>
+<td align="left" stylecode="Rrule" valign="middle">   (intravaginal, oral, systemic) </td>
+<td align="left" stylecode="Rrule" valign="middle">   activator (t-PA) </td>
+</tr>
+<tr id="id_14a396b7-fa08-4aca-baf1-98d52b0ab2f0">
+<td align="left" stylecode="Lrule Rrule" valign="top">   dextrothyroxine </td>
+<td align="left" stylecode="Rrule" valign="top">   moricizine hydrochloride<footnoteref idref="id-35093e1d-d3af-4d08-a305-ef7a99b35e97"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">   tolbutamide </td>
+</tr>
+<tr id="id_712d6c5c-a38e-489f-98b4-6364124922bc">
+<td align="left" stylecode="Lrule Rrule" valign="top">   diazoxide </td>
+<td align="left" stylecode="Rrule" valign="top">   nalidixic acid </td>
+<td align="left" stylecode="Rrule" valign="top">   tramadol </td>
+</tr>
+<tr id="id_71e4868b-bdd1-49de-a86b-b6700dd04d9c">
+<td align="left" stylecode="Lrule Rrule" valign="top">   diclofenac </td>
+<td align="left" stylecode="Rrule" valign="top">   naproxen </td>
+<td align="left" stylecode="Rrule" valign="top">   trimethoprim/sulfamethoxazole </td>
+</tr>
+<tr id="id_82e5ea6c-f27f-410a-973f-59c64ad08d82">
+<td align="left" stylecode="Lrule Rrule" valign="top">   dicumarol </td>
+<td align="left" stylecode="Rrule" valign="top">   neomycin </td>
+<td align="justify" stylecode="Rrule" valign="top">   urokinase </td>
+</tr>
+<tr id="id_191777ac-0f56-4cc4-8c1c-72e523f43f2d">
+<td align="left" stylecode="Lrule Rrule" valign="top">   diflunisal </td>
+<td align="left" stylecode="Rrule" valign="top">   norfloxacin </td>
+<td align="justify" stylecode="Rrule" valign="top">   valdecoxib </td>
+</tr>
+<tr id="id_d5da2f4b-829f-4461-8460-840c3e809034">
+<td align="left" stylecode="Lrule Rrule" valign="top">   disulfiram </td>
+<td align="left" stylecode="Rrule" valign="top">   ofloxacin </td>
+<td align="justify" stylecode="Rrule" valign="top">   valproate </td>
+</tr>
+<tr id="id_e95233a0-a344-4e97-a83a-9f16c52b0edb">
+<td align="left" stylecode="Lrule Rrule" valign="top">   doxycycline </td>
+<td align="left" stylecode="Rrule" valign="top">   olsalazine </td>
+<td align="justify" stylecode="Rrule" valign="top">   vitamin E </td>
+</tr>
+<tr id="id_8116fd9b-acde-4af8-bfb4-0df6451dc7db">
+<td align="left" stylecode="Lrule Rrule" valign="top">   erythromycin </td>
+<td align="left" stylecode="Rrule" valign="top">   omeprazole </td>
+<td align="justify" stylecode="Rrule" valign="top">   zafirlukast </td>
+</tr>
+<tr id="id_0baf8115-82b6-44bd-89d1-d4f1081f8f28">
+<td align="left" stylecode="Lrule Rrule" valign="top">   esomeprazole </td>
+<td align="left" stylecode="Rrule" valign="top">   oxandrolone </td>
+<td align="justify" stylecode="Rrule" valign="top">   zileuton </td>
+</tr>
+<tr id="id_8a463ccb-21dd-4cd3-b3a7-cbb6328cfd4b">
+<td align="left" stylecode="Lrule Rrule" valign="top">   ethacrynic acid </td>
+<td align="left" stylecode="Rrule" valign="top">   oxaprozin </td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_5905afd6-007f-4fb3-84b0-4b5162774703">
+<td align="left" stylecode="Lrule Rrule" valign="top">   ezetimibe </td>
+<td align="left" stylecode="Rrule" valign="top">   oxymetholone </td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_3de40ef3-2b80-43cb-808a-f55e0634b723">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">   fenofibrate </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">   pantoprazole </td>
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+</tr>
+</tbody>
+</table>
