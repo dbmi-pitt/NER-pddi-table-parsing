@@ -34,9 +34,10 @@ import glob
 
 from bs4 import BeautifulSoup
 
+
 class SPL:
-    fullName = None
-    genericMedicine = None
+    drugName = None
+    medicine = None
     adverseReactions = None
     boxedWarning = None
     clinicalPharmacology = None
@@ -46,17 +47,17 @@ class SPL:
     dosageAndAdministration = None 
     drugInteractions = None
     indicationsAndUsage = None
-    patientMedicationInformation = None
-    informationForPatients = None
+    patientInformation = None
+    patientCounseling = None
     precautions = None
-    useInSpecificPopulations = None 
+    specialPopulations = None 
     warningsAndPrecautions = None
     warnings = None
     setID = None
 
-    def __init__(self, fullName = None, genericMedicine = None, adverseReactions = None, boxedWarning = None, clinicalPharmacology = None, clinicalStudies = None, contraindications = None, description = None, dosageAndAdministration = None, drugInteractions = None, indicationsAndUsage = None, patientMedicationInformation = None, informationForPatients = None, precautions = None, useInSpecificPopulations = None, warningsAndPrecautions = None, warnings = None, setID = None):
-        self.fullName = fullName
-        self.genericMedicine = genericMedicine
+    def __init__(self, drugName = None, medicine = None, adverseReactions = None, boxedWarning = None, clinicalPharmacology = None, clinicalStudies = None, contraindications = None, description = None, dosageAndAdministration = None, drugInteractions = None, indicationsAndUsage = None, patientInformation = None, patientCounseling = None, precautions = None, specialPopulations = None, warningsAndPrecautions = None, warnings = None, setID = None):
+        self.drugName = drugName
+        self.medicine = medicine
         self.adverseReactions = adverseReactions
         self.boxedWarning = boxedWarning
         self.clinicalPharmacology = clinicalPharmacology
@@ -66,92 +67,25 @@ class SPL:
         self.dosageAndAdministration = dosageAndAdministration
         self.drugInteractions = drugInteractions
         self.indicationsAndUsage = indicationsAndUsage
-        self.patientMedicationInformation = patientMedicationInformation
-        self.informationForPatients = informationForPatients
+        self.patientInformation = patientInformation
+        self.patientCounseling = patientCounseling
         self.precautions = precautions
-        self.useInSpecificPopulations = useInSpecificPopulations
+        self.specialPopulations = specialPopulations
         self.warningsAndPrecautions = warningsAndPrecautions
         self.warnings = warnings
         self.setID = setID
 
     def __str__(self):
-        return 'setID: ' + self.setID + '\nfullName: ' + self.fullName + '\ngenericMedicine: ' + self.genericMedicine + '\nadverseReactions: ' + self.adverseReactions + '\nboxedWarning: ' + self.boxedWarning + '\nclinicalPharmacology: ' + self.clinicalPharmacology + '\nclinicalStudies: ' + self.clinicalStudies + '\ncontraindications: ' + self.contraindications + '\ndescription: ' + self.description + '\ndosageAndAdministration: ' + self.dosageAndAdministration + '\ndrugInteractions: ' + self.drugInteractions + '\nindicationAndUsage: ' + self.indicationsAndUsage + '\npatientMedicationInformation: ' +  self.patientMedicationInformation + '\ninformationForPatients: ' + self.informationForPatients + '\nprecautions: ' + self.precautions + '\nuseInSpecificPopulations: ' + self.useInSpecificPopulations + '\nwarningsAndPrecautions: ' + self.warningsAndPrecautions + '\nwarnings: ' + self.warnings + '\n'
+        return 'setID: ' + self.setID + '\ndrugName: ' + self.drugName + '\nmedicine: ' + self.medicine + '\nadverseReactions: ' + self.adverseReactions + '\nboxedWarning: ' + self.boxedWarning + '\nclinicalPharmacology: ' + self.clinicalPharmacology + '\nclinicalStudies: ' + self.clinicalStudies + '\ncontraindications: ' + self.contraindications + '\ndescription: ' + self.description + '\ndosageAndAdministration: ' + self.dosageAndAdministration + '\ndrugInteractions: ' + self.drugInteractions + '\nindicationAndUsage: ' + self.indicationsAndUsage + '\npatientInformation: ' +  self.patientInformation + '\npatientCounseling: ' + self.patientCounseling + '\nprecautions: ' + self.precautions + '\nspecialPopulations: ' + self.specialPopulations + '\nwarningsAndPrecautions: ' + self.warningsAndPrecautions + '\nwarnings: ' + self.warnings + '\n'
 
 
     def toDict(self):
-        result = { "fullName": self.fullName, "genericMedicine": self.genericMedicine, "adverseReactions": self.adverseReactions, "boxedWarning": self.boxedWarning, "clinicalPharmacology": self.clinicalPharmacology, "clinicalStudies": self.clinicalStudies,"contraindications": self.contraindications, "description": self.description, "dosageAndAdministration": self.dosageAndAdministration,"drugInteractions": self.drugInteractions, "indicationsAndUsage":self.indicationsAndUsage, "patientMedicationInformation":self.patientMedicationInformation, "informationForPatients":self.informationForPatients, "precautions":self.precautions, "useInSpecificPopulations":self.useInSpecificPopulations, "warningsAndPrecautions":self.warningsAndPrecautions, "warnings":self.warnings }
+        result = { "drugName": self.drugName, "medicine": self.medicine, "adverseReactions": self.adverseReactions, "boxedWarning": self.boxedWarning, "clinicalPharmacology": self.clinicalPharmacology, "clinicalStudies": self.clinicalStudies,"contraindications": self.contraindications, "description": self.description, "dosageAndAdministration": self.dosageAndAdministration,"drugInteractions": self.drugInteractions, "indicationsAndUsage":self.indicationsAndUsage, "patientInformation":self.patientInformation, "patientCounseling":self.patientCounseling, "precautions":self.precautions, "specialPopulations":self.specialPopulations, "warningsAndPrecautions":self.warningsAndPrecautions, "warnings":self.warnings }
         return result
 
 
-# def getAllSPLSectionsSparql(spl, sparql):
-# 	sID = spl
-# 	#print sID
-# 	splUri = "http://dbmi-icode-01.dbmi.pitt.edu/linkedSPLs/resource/structuredProductLabelMetadata/" + spl
-# 	qry = '''
-# PREFIX dailymed: <http://dbmi-icode-01.dbmi.pitt.edu/linkedSPLs/vocab/resource/>
 
-# SELECT 
-# ?fullName ?genericMedicine ?adverseReactions ?boxedWarning ?clinicalPharmacology ?clinicalStudies ?contraindications ?description ?dosageAndAdministration ?drugInteractions ?indicationsAndUsage ?patientMedicationInformation ?informationForPatients ?precautions ?useInSpecificPopulations ?warningsAndPrecautions ?warnings
-
-# WHERE { 
-#     OPTIONAL { <%s> dailymed:fullName   ?fullName}
-#     OPTIONAL { <%s> dailymed:genericName   ?genericMedicine}
-#     OPTIONAL { <%s> dailymed:adverseReactions   ?adverseReactions }
-#     OPTIONAL { <%s> dailymed:boxedWarning   ?boxedWarning }
-#     OPTIONAL { <%s> dailymed:clinicalPharmacology   ?clinicalPharmacology }
-#     OPTIONAL { <%s> dailymed:clinicalStudies   ?clinicalStudies }
-#     OPTIONAL { <%s> dailymed:contraindications   ?contraindications }
-#     OPTIONAL { <%s> dailymed:description   ?description }
-#     OPTIONAL { <%s> dailymed:dosageAndAdministration   ?dosageAndAdministration }
-#     OPTIONAL { <%s> dailymed:drugInteractions   ?drugInteractions }
-#     OPTIONAL { <%s> dailymed:indicationsAndUsage   ?indicationsAndUsage }
-#     OPTIONAL { <%s> dailymed:patientMedicationInformation   ?patientMedicationInformation }
-#     OPTIONAL { <%s> dailymed:informationForPatients   ?informationForPatients }
-#     OPTIONAL { <%s> dailymed:precautions   ?precautions }
-#     OPTIONAL { <%s> dailymed:useInSpecificPopulations   ?useInSpecificPopulations }
-#     OPTIONAL { <%s> dailymed:warningsAndPrecautions   ?warningsAndPrecautions }
-#     OPTIONAL { <%s> dailymed:warnings   ?warnings }
-# }
-# ''' % (splUri,splUri,splUri,splUri,splUri,splUri,splUri,splUri,splUri,splUri,splUri,splUri,splUri,splUri,splUri,splUri,splUri)
-
-# 	#print "QUERY: %s" % qry
-# 	sparql.setQuery(qry)
-# 	sparql.setReturnFormat(JSON)
-# 	results = sparql.query().convert()
-
-
-# 	if len(results["results"]["bindings"]) == 0:
-# 		print "ERROR: no results from query"
-# 		return {}
-
-# 	secD = {
-#         "fullName": 'None',
-#         "genericMedicine": 'None',
-#         "adverseReactions": 'None',
-#         "boxedWarning": 'None',
-#         "clinicalPharmacology": 'None',
-#         "clinicalStudies": 'None',
-#         "contraindications": 'None',
-#         "description": 'None',
-#         "dosageAndAdministration":'None',
-#         "drugInteractions":'None',
-#         "indicationsAndUsage":'None',
-#         "patientMedicationInformation":'None',
-#         "informationForPatients":'None',
-#         "precautions":'None',
-#         "useInSpecificPopulations":'None',
-#         "warningsAndPrecautions":'None',
-#         "warnings":'None'
-#         }
-
-# 	for k in secD.keys():
-# 		if results["results"]["bindings"][0].has_key(k):
-# 			secD[k] = unicode(results["results"]["bindings"][0][k]["value"])
-# 	sp = SPL(secD['fullName'].strip(), secD['genericMedicine'].strip(), secD['adverseReactions'].strip(), secD['boxedWarning'].strip(), secD['clinicalPharmacology'].strip(), secD['clinicalStudies'].strip(), secD['contraindications'].strip(),secD['description'].strip(), secD['dosageAndAdministration'].strip(), secD['drugInteractions'].strip(), secD['indicationsAndUsage'].strip(), secD['patientMedicationInformation'].strip(), secD['informationForPatients'].strip(), secD['precautions'].strip(), secD['useInSpecificPopulations'].strip(), secD['warningsAndPrecautions'].strip(), secD['warnings'].strip(), spl)
-# 	return sp
-
-
-def getDDISPLSectionsSparql(spl, sparql):
+def getAllSPLSectionsSparql(spl, sparql):
     sID = spl
     #print sID
 
@@ -165,7 +99,8 @@ PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX linkedspls_vocabulary: <http://bio2rdf.org/linkedspls_vocabulary:>
 PREFIX loinc: <http://www.hipaaspace.com/Medical_Billing/Coding/Logical.Observation.Identifiers.Names.and.Codes/>
 
-SELECT ?drugInteractions ?adverseReactions
+SELECT ?drugName ?medicine ?drugInteractions ?adverseReactions ?boxedWarning ?clinicalPharmacology ?clinicalStudies ?contraindications ?description ?dosageAndAdministration ?indicationAndUsage ?patientInformation ?patientCounseling  ?precautions ?specialPopulations ?warningsAndPrecautions ?warnings
+
 FROM <http://purl.org/net/nlprepository/spl-core>
 WHERE {
 
@@ -173,12 +108,25 @@ WHERE {
      linkedspls_vocabulary:genericMedicine ?medicine.
 
 OPTIONAL { <%s> loinc:34073-7 ?drugInteractions }
-OPTIONAL { <%s> loinc:34084-4 ?adverseReactions}
-
+OPTIONAL { <%s> loinc:34084-4 ?adverseReactions }
+OPTIONAL { <%s> loinc:34066-1 ?boxedWarning }
+OPTIONAL { <%s> loinc:34090-1 ?clinicalPharmacology }
+OPTIONAL { <%s> loinc:34092-7 ?clinicalStudies }
+OPTIONAL { <%s> loinc:34070-3 ?contraindications }
+OPTIONAL { <%s> loinc:34089-3 ?description }
+OPTIONAL { <%s> loinc:34068-7 ?dosageAndAdministration }
+OPTIONAL { <%s> loinc:34067-9 ?indicationAndUsage }
+OPTIONAL { <%s> loinc:68498-5 ?patientInformation }
+OPTIONAL { <%s> loinc:34076-0 ?patientCounseling  }
+OPTIONAL { <%s> loinc:34072-9 ?precautions }
+OPTIONAL { <%s> loinc:43684-0 ?specialPopulations }
+OPTIONAL { <%s> loinc:43685-7 ?warningsAndPrecautions }
+OPTIONAL { <%s> loinc:34071-1 ?warnings}
 }
 
-''' % (splUri, splUri, splUri)
+''' % (splUri, splUri, splUri, splUri, splUri, splUri, splUri, splUri, splUri, splUri,splUri, splUri, splUri, splUri, splUri, splUri)
 
+    
     #print "QUERY: %s" % qry
     sparql.setQuery(qry)
     sparql.setReturnFormat(JSON)
@@ -191,56 +139,50 @@ OPTIONAL { <%s> loinc:34084-4 ?adverseReactions}
     secD = {}
 
     sp = SPL()
+    sp.setID = spl
     for res in results["results"]["bindings"]:
-
+            
+        #if res.has_key("drugName"):
+        #    sp.drugName = unicode(res['drugName']["value"])
+        #if res.has_key("medicine"):
+        #    sp.medicine = unicode(res['medicine']["value"])
+        
+        if res.has_key("boxedWarning"):
+            sp.boxedWarning = unicode(res['boxedWarning']["value"])
+        if res.has_key("clinicalPharmacology"):
+            sp.clinicalPharmacology = unicode(res['clinicalPharmacology']["value"])                                    
+        if res.has_key("warnings"):
+            sp.warnings = unicode(res['warnings']["value"])
+        if res.has_key("warningsAndPrecautions"):
+            sp.warningsAndPrecautions = unicode(res['warningsAndPrecautions']["value"])
+        if res.has_key("precautions"):
+            sp.precautions = unicode(res['precautions']["value"])
+        if res.has_key("contraindications"):
+            sp.contraindications = unicode(res['contraindications']["value"])
         if res.has_key("drugInteractions"):
             sp.drugInteractions = unicode(res['drugInteractions']["value"])
-        if res.has_key("adverseReactions"):
-            sp.adverseReactions = unicode(res['adverseReactions']["value"])
-        sp.setID = spl
-
+            
+        #if res.has_key("indicationAndUsage"):
+        #    sp.indicationAndUsage = unicode(res['indicationAndUsage']["value"])
+        #if res.has_key("adverseReactions"):
+        #    sp.adverseReactions = unicode(res['adverseReactions']["value"])    
+        #if res.has_key("clinicalStudies"):
+        #    sp.clinicalStudies = unicode(res['clinicalStudies']["value"])
+        #if res.has_key("specialPopulations"):
+        #    sp.specialPopulations = unicode(res['specialPopulations']["value"])
+        #if res.has_key("patientCounseling"):
+        #    sp.patientCounseling = unicode(res['patientCounseling']["value"])
+        #if res.has_key("patientInformation"):
+        #    sp.patientInformation = unicode(res['patientInformation']["value"])
+        #if res.has_key("dosageAndAdministration"):
+        #    sp.dosageAndAdministration = unicode(res['dosageAndAdministration']["value"])
+        #if res.has_key("description"):
+        #    sp.description = unicode(res['description']["value"])
+                        
     return sp
 
 
-## deprecated function works for old linkedSPLs
 
-# def getDDISPLSectionsSparql(spl, sparql):
-# 	sID = spl
-# 	#print sID
-# 	splUri = "http://dbmi-icode-01.dbmi.pitt.edu/linkedSPLs/resource/structuredProductLabelMetadata/" + spl
-# 	qry = '''
-# PREFIX dailymed: <http://dbmi-icode-01.dbmi.pitt.edu/linkedSPLs/vocab/resource/>
-
-# SELECT 
-# ?drugInteractions
-
-# WHERE { 
-#     OPTIONAL { <%s> dailymed:drugInteractions   ?drugInteractions }
-# }
-# ''' % (splUri)
-
-# 	#print "QUERY: %s" % qry
-# 	sparql.setQuery(qry)
-# 	sparql.setReturnFormat(JSON)
-# 	results = sparql.query().convert()
-
-
-# 	if len(results["results"]["bindings"]) == 0:
-# 		print "ERROR: no results from query"
-# 		return {}
-
-# 	secD = {
-#         "drugInteractions":'None',
-#         }
-
-# 	for k in secD.keys():
-# 		if results["results"]["bindings"][0].has_key(k):
-# 			secD[k] = unicode(results["results"]["bindings"][0][k]["value"])
-# 	sp = SPL()
-# 	sp.drugInteractions = secD['drugInteractions'].strip()
-# 	sp.setID = spl
-
-# 	return sp
 
 
 if __name__ == "__main__":
@@ -249,21 +191,15 @@ if __name__ == "__main__":
     #sparql = SPARQLWrapper("http://dbmi-icode-01.dbmi.pitt.edu/linkedSPLs/sparql")
 
     ## a higher performance but more static endpoint
-    sparql = SPARQLWrapper("http://dbmi-icode-01.dbmi.pitt.edu:8080/sparql")
+    sparql = SPARQLWrapper("http://dbmi-icode-01.dbmi.pitt.edu/sparql")
 
     lspls = []
     for line in fileinput.input('setIDs.txt'):
         if not line or line == "":
             break
-        #print line.strip()
 
-        ## uncomment this line and comment the next to get all
-        ## sections
-        #lspls.append(getAllSPLSectionsSparql(line.strip(), sparql))	
-
-        ## uncomment this line and comment the previous to get
-        ## only the DDI sections
-        lspls.append(getDDISPLSectionsSparql(line.strip(), sparql))	
+        #lspls.append(getDDISPLSectionsSparql(line.strip(), sparql))	
+        lspls.append(getAllSPLSectionsSparql(line.strip(), sparql))	
 
     for sp in lspls:
         dic = sp.toDict()
