@@ -3,6 +3,10 @@
 ## Retrieve set id by drug name or medicine name on graph core linkedSPLs
 # Author: Yifan Ning
 
+## hard coded drug list and mappings of drug name and dailyemed label
+## prior to query setId by drug name, by dailymed label first
+## return setid of latest product label 
+
 import re, string
 import codecs
 from SPARQLWrapper import SPARQLWrapper, JSON
@@ -13,7 +17,8 @@ import glob
 
 drugL = ["Isocarboxazid", "Phenelzine" ,"Tranylcypromine" ,"Selegiline" ,"Citalopram" ,"Escitalopram" ,"Fluoxetine" ,"Fluvoxamine" ,"Paroxetine" ,"Sertraline" ,"Vilazodone (5HT1a receptor antagonist)" ,"Desvenlafaxine" ,"Duloxetine" ,"Levomilnacipran" ,"Minacipran" ,"Venlafaxine" ,"Tetracyclic" ,"Maprotiline" ,"Mirtazapine" ,"Amitriptyline" ,"Amoxapine" ,"Clomipramine" ,"Desipramine" ,"Doxepin" ,"Imipramine" ,"Nortriptyline" ,"Protriptyline" ,"Trimipramine" ,"Bupropion" ,"Nefazodone" ,"Vortioxetine" ,"Iloperidone" ,"Paliparidone" ,"Risperidon" ,"Ziprasidone" ,"Lurasidone" ,"Asenapine" ,"Clozapine" ,"Loxapine" ,"Olanzapine" ,"Quetiapine" ,"Chlorpromazine" ,"Fluphenazine" ,"Perphenazine" ,"Prochlorperazine" ,"Thioridazine" ,"Trifluoperazine" ,"Haloperidol" ,"Aripiprazole" ,"Thiothixene" ,"Eszopiclone" ,"Zaleplon" ,"Zolpidem" ,"Estazolam" ,"Flurazepam" ,"Quazepam" ,"Temazepam" ,"Triazolam" ,"Atorvastatin" ,"Fluvastatin" ,"Lovastatin" ,"Pitavastatin" ,"Pravastatin" ,"Rosuvastatin" ,"Simvastatin" ,"warfarin" ,"dabigatran" ,"apixaban" ,"rivaroxaban"]
 
-#dailymedLabelD = {"Isocarboxazid":"Marplan", "Phenelzine":"Nardil", "Tranylcypromine":"Parnate"}
+dailymedLabelD = {"Isocarboxazid":"Marplan", "Phenelzine":"Nardil", "Tranylcypromine":"Parnate", "Selegiline":"EMSAM", "Citalopram":"Celexa", "Escitalopram":"Lexapro", "Fluoxetine":"Prozac", "Maprotiline":"Mylan", "Clomipramine":"Sandoz", "Fluvastatin":"Teva", "Olanzapine":"Zyprexa", "Clozapine":"Clozaril", "Aripiprazole":"Abilify", "Eszopiclone":"Lunesta", "Zaleplon":"Pfizer", "Zolpidem":"Ambien", "Triazolam":"Halcion", "Atorvastatin":"Lipitor", "Lovastatin":"Mevacor", "Pitavastatin":"Livalo", "Rosuvastatin":"Crestor", "Simvastatin":"Zocor", "dabigatran":"Pradaxa", "Mirtazapine":"Remeron", "Desipramine":"Norpramin", "Imipramine":"Tofranil", "Nortriptyline":"Pamelor", "Trimipramine":"Surmontil", "Bupropion":"Wellbutrin"}
+
 
 
 def getRecentlySetIdByDrug(drugName):
@@ -58,8 +63,18 @@ LIMIT 10  ''' % (drugName, drugName)
 ################ MAIN ################
 
 for drug in drugL:
-    setId = getRecentlySetIdByDrug(drug)
-    if setId:
-        print "find drug: %s, setId: %s" % (drug, setId)
+    if dailymedLabelD.has_key(drug):
+        dailymedL = dailymedLabelD[drug]
+        setId = getRecentlySetIdByDrug(dailymedL)
+        if setId:
+            print "find setId by dailymedL: %s for drug: %s, setId: %s" % (dailymedL, drug, setId)
+        else:
+            print "setId not found for drugName-dailymedLabel: %s-%s" % (drug, dailymedL)
     else:
-        print "setId not found: %s" % (drug)
+        setId = getRecentlySetIdByDrug(drug)
+        if setId:
+            print "find setId by drugName: %s, setId: %s" % (drug, setId)
+        else:
+            print "setId not found for drug: %s" % (drug)
+
+
