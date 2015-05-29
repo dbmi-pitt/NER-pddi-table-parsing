@@ -147,16 +147,16 @@ OPTIONAL { <%s> loinc:34071-1 ?warnings}
         #if res.has_key("medicine"):
         #    sp.medicine = unicode(res['medicine']["value"])
         
-        if res.has_key("boxedWarning"):
-            sp.boxedWarning = unicode(res['boxedWarning']["value"])
+        # if res.has_key("boxedWarning"):
+        #     sp.boxedWarning = unicode(res['boxedWarning']["value"])
         if res.has_key("clinicalPharmacology"):
             sp.clinicalPharmacology = unicode(res['clinicalPharmacology']["value"])                                    
-        if res.has_key("warnings"):
-            sp.warnings = unicode(res['warnings']["value"])
-        if res.has_key("warningsAndPrecautions"):
-            sp.warningsAndPrecautions = unicode(res['warningsAndPrecautions']["value"])
-        if res.has_key("precautions"):
-            sp.precautions = unicode(res['precautions']["value"])
+        # if res.has_key("warnings"):
+        #     sp.warnings = unicode(res['warnings']["value"])
+        # if res.has_key("warningsAndPrecautions"):
+        #     sp.warningsAndPrecautions = unicode(res['warningsAndPrecautions']["value"])
+        # if res.has_key("precautions"):
+        #     sp.precautions = unicode(res['precautions']["value"])
         if res.has_key("contraindications"):
             sp.contraindications = unicode(res['contraindications']["value"])
         if res.has_key("drugInteractions"):
