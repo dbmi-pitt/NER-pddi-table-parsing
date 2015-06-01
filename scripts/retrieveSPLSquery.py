@@ -157,8 +157,8 @@ OPTIONAL { <%s> loinc:34071-1 ?warnings}
         #     sp.warningsAndPrecautions = unicode(res['warningsAndPrecautions']["value"])
         # if res.has_key("precautions"):
         #     sp.precautions = unicode(res['precautions']["value"])
-        if res.has_key("contraindications"):
-            sp.contraindications = unicode(res['contraindications']["value"])
+        # if res.has_key("contraindications"):
+        #     sp.contraindications = unicode(res['contraindications']["value"])
         if res.has_key("drugInteractions"):
             sp.drugInteractions = unicode(res['drugInteractions']["value"])
             
@@ -207,6 +207,8 @@ if __name__ == "__main__":
             if (dic[key] is None):
                 continue
 
+            #print "[DEBUG] process " + sp.setID.strip() + " - " + key
+
             # extract HTML tables and split text into sub-files as necessary
             sectTxt = dic[key]
 
@@ -214,10 +216,15 @@ if __name__ == "__main__":
                 print "WARNING: no section '%s' for setid %s, this SPL section will not be processed" % (key,sp.setID.strip())
                 continue
 
-            soup = BeautifulSoup(sectTxt)
-            tables = soup.findAll('table')
+            #print "[DEBUG] original Text: " + sectTxt 
+
+            soup = BeautifulSoup(sectTxt, "html.parser")
+            tables = soup.find_all('table')
             i = -1
             for tbl in tables:
+
+                #print "[DEBUG] find table: " + str(tbl)
+                
                 i += 1
                 tbl.replaceWith("")
                 f = codecs.open("outfiles/TABLE-%s-%s-%d.txt" % (sp.setID.strip(), key, i) ,encoding = 'utf-8', mode ='w+') 
