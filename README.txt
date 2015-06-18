@@ -1,7 +1,5 @@
 ------------
 
-Trivial edit
-
 To get tables from a new drug:
 
 1) With your browser, go to: http://dbmi-icode-01.dbmi.pitt.edu/linkedSPLs/snorql/
