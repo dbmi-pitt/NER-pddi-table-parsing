@@ -32,17 +32,19 @@ def organize():
     rowsTot = 0
 
     # [WORKING] Section fixes broken HTML before processing
-    fileName = "/Users/Josh/Documents/NER-pddi-table-parsing/data/all-DDI-section-tables-11142013/tables.txt"
+    fileName = "../data/all-DDI-section-tables-11142013/tables.txt"
     file = open(fileName, "rb")
     html = file.read()
 
+    ## TODO: fix the script that pulls tables from Linked SPLs so that
+    ## encoding and "prettify" are done at the time of extraction.
     soupTemp = BeautifulSoup(html)
 
-    output = open("output.txt", "w")
+    output = open("../data/all-DDI-section-tables-11142013/output.txt", "w")
     output.write(soupTemp.prettify().encode("utf-8"))
     output.close()
 
-    input = open("output.txt", "r")
+    input = open("output.txt", "r") 
     htmlParse = input.read().decode("utf-8")
 
     # Section prepares each part for addition to tableInfo dictionary
@@ -98,7 +100,7 @@ def organize():
         # print("Table ID: "+ tableIDs[c] + "\t\tNumber: " + str(c + 1))
 
     # [WORKING] Section takes txt database and categorizes everything into a dictionary
-    db = "/Users/Josh/Documents/Python Projects/ParseTableInfo/Categories.txt"
+    db = "/Users/Josh/Documents/Python Projects/ParseTableInfo/Categories.txt" ## get the Categories.txt into the code repository and adjust like above to not care about local configuration (relative path)
     data = open(db, "rb")
 
     with data as txtData:
