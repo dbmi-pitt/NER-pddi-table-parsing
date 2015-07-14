@@ -40,6 +40,7 @@ def organize():
                   "Misc.": ()}
     tableInfo = {"Name": [("Table ID", "Row", "Col")]}
     headers = []
+    headersText = []
     tableStatsCols = []
     tableStatsRows = []
     colsTot = 0
@@ -79,9 +80,14 @@ def organize():
         tableStatsRows.append(len(tableNo))
 
     for n in range (0, len(headers)):
-        print headers[n]
+        for i in range (0, len(headers[n])):
+            dataHTML = str(headers[n][i])
+            soup = BeautifulSoup(dataHTML)
+            headersText.append(soup.text)
 
+    print headersText
     print len(headers)
+    print len(headersText)
 
     print "Total Columns: " + str(colsTot)
     print "Minimum Columns: " + str(min(tableStatsCols))
