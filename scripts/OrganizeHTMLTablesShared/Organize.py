@@ -7,11 +7,14 @@
 #   6. Find how many headers each group contains
 
 import re
+import os
 from bs4 import BeautifulSoup
 
 def generate():
+    dir = os.path.dirname(__file__)
+
     # [WORKING] Section fixes broken HTML before processing
-    fileName = "/Users/Josh/Documents/NER-pddi-table-parsing/scripts/OrganizeHTMLTablesShared/tables.html"
+    fileName = os.path.join(dir, "tables.html")
     file = open(fileName, "rb")
     html = file.read()
 
@@ -19,7 +22,7 @@ def generate():
     ## encoding and "prettify" are done at the time of extraction.
     soupTemp = BeautifulSoup(html)
 
-    output = open("/Users/Josh/Documents/NER-pddi-table-parsing/scripts/OrganizeHTMLTablesShared/output.html", "w")
+    output = open(os.path.join(dir, "output.txt"), "w")
     output.write(soupTemp.prettify().encode("utf-8"))
     output.close()
 
@@ -42,8 +45,9 @@ def organize():
     colsTot = 0
     colsTotTemp = 0
     rowsTot = 0
+    dir = os.path.dirname(__file__)
 
-    input = open("output.txt", "r") 
+    input = open(os.path.join(dir, "output.txt"), "r")
     htmlParse = input.read().decode("utf-8")
 
     # Section prepares each part for addition to tableInfo dictionary
@@ -52,7 +56,7 @@ def organize():
 
     tableIDs = [(n["value"]) for n in soup.findChildren("input")] # Creates a list of table names (List)
 
-    for c in range(0, len(tableIDs)): # Goes through all tables
+    for c in range(0, len(tableIDs) - 1): # Goes through all tables
         tableNo = tables[c].findChildren(["tr"]) # Finds all rows in a table (ResultSet)
 
         for line in tableNo:
@@ -100,9 +104,10 @@ def organize():
 
 def dbToDict():
     connect = {}
+    dir = os.path.dirname(__file__)
 
     # [WORKING] Section takes txt database and categorizes everything into a dictionary
-    db = "/Users/Josh/Documents/Python Projects/ParseTableInfo/Categories.txt" ## get the Categories.txt into the code repository and adjust like above to not care about local configuration (relative path)
+    db = os.path.join(dir, "Categories.txt") ## get the Categories.txt into the code repository and adjust like above to not care about local configuration (relative path)
     data = open(db, "rb")
 
     with data as txtData:
@@ -120,3 +125,5 @@ def dbToDict():
                 connect.update({line[1]: [line[0]]})
 
     print connect
+
+organize()
