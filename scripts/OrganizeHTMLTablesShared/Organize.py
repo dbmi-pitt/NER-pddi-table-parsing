@@ -28,21 +28,22 @@ def generate():
 
 def organize():
     categories = {"SetID": [],
-                  "Interacting Substance": (),
-                  "Interacting Substance Properties": (),
-                  "Interaction Properties": (),
-                  "Drug Name or Drug Class": (),
-                  "Drug Effect": (),
-                  "Drug Dose Recommendation": (),
-                  "Effect on Drug": (),
-                  "Clinical Comment": (),
-                  "Sample Size": (),
-                  "Misc.": ()}
+                  "Interacting Substance": [],
+                  "Interacting Substance Properties": [],
+                  "Interaction Properties": [],
+                  "Drug Name or Drug Class": [],
+                  "Drug Effect": [],
+                  "Drug Dose Recommendation": [],
+                  "Effect on Drug": [],
+                  "Clinical Comment": [],
+                  "Sample Size": [],
+                  "Misc.": []}
     tableInfo = {"Name": [("Table ID", "Row", "Col")]}
     headers = []
     headersText = []
     tableStatsCols = []
     tableStatsRows = []
+    tempData = ""
     colsTot = 0
     colsTotTemp = 0
     rowsTot = 0
@@ -61,10 +62,10 @@ def organize():
         tableNo = tables[c].findChildren(["tr"]) # Finds all rows in a table (ResultSet)
 
         for line in tableNo:
-            dataCellsCols = len(line.findChildren(["td", "th"])) # The amount of cells per row (columns)
+            dataCellsCols = len(line.findChildren(["th", "td"])) # The amount of cells per row (columns)
             colsTotTemp += dataCellsCols
 
-            if tableNo.index(line) == 0 and line.findChildren(["th"]):
+            if line.findChildren(["th", tableNo.index(line) == 0 and line.findChildren(["th"])]):
                 headers.append(line.findChildren(["th"]))
 
             elif tableNo.index(line) == 0 and line.findChildren(["td"]):
@@ -83,9 +84,17 @@ def organize():
         for i in range (0, len(headers[n])):
             dataHTML = str(headers[n][i])
             soup = BeautifulSoup(dataHTML)
-            headersText.append(soup.text)
+            tempData = re.sub(' +',' ', soup.text.strip("\t\n\r").replace("\n", "").strip())
 
-    print headersText
+            if tempData not in headersText:
+                headersText.append(tempData)
+
+            else:
+                None
+
+    headersFile = open(os.path.join(dir, "headers.txt"), "w")
+    headersFile.write(str(headersText).encode("utf-8"))
+
     print len(headers)
     print len(headersText)
 
