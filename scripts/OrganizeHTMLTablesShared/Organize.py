@@ -40,6 +40,7 @@ def organize():
                   "Misc.": []}
     tableInfo = {"Name": [("Table ID", "Row", "Col")]}
     headers = []
+    headersRowsCols = []
     headersText = []
     tableStatsCols = []
     tableStatsRows = []
@@ -62,11 +63,15 @@ def organize():
         tableNo = tables[c].findChildren(["tr"]) # Finds all rows in a table (ResultSet)
 
         for line in tableNo:
-            dataCellsCols = len(line.findChildren(["th", "td"])) # The amount of cells per row (columns)
+            allTable = line.findChildren(["th", "td"])
+            dataCellsCols = len(allTable) # The amount of cells per row (columns)
             colsTotTemp += dataCellsCols
 
             if line.findChildren(["th", tableNo.index(line) == 0 and line.findChildren(["th"])]):
                 headers.append(line.findChildren(["th"]))
+
+                ("Row: " + str(tableNo.index(line) + 1), "Col: " + str(allTable))
+                headersRowsCols
 
             elif tableNo.index(line) == 0 and line.findChildren(["td"]):
                 headers.append(line.findChildren(["td"]))
@@ -86,11 +91,11 @@ def organize():
             soup = BeautifulSoup(dataHTML)
             tempData = re.sub(' +',' ', soup.text.strip("\t\n\r").replace("\n", "").strip())
 
-            if tempData not in headersText:
-                headersText.append(tempData)
+        if tempData not in headersText:
+            headersText.append(tempData)
 
-            else:
-                None
+        else:
+            None
 
     headersFile = open(os.path.join(dir, "headers.txt"), "w")
     headersFile.write(str(headersText).encode("utf-8"))
