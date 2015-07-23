@@ -1,0 +1,105 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="64%"></col>
+<col width="23%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Factors</content>
+</th>
+<th align="left" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">Adjusted Dose</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">CYP2D6 Poor Metabolizers </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>CYP2D6 Poor Metabolizers taking concomitant CYP3A4 inhibitors</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>200 mg<footnote id="_Ref400443157">200 mg and 160 mg dose adjustments are obtained only by using the 300 mg or 400 mg strength vials.</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Patients Taking 400 mg of ABILIFY MAINTENA</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Strong CYP2D6 <content stylecode="bold">
+<content stylecode="underline">or</content>
+</content> CYP3A4 inhibitors</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>300 mg</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>CYP2D6 <content stylecode="bold">
+<content stylecode="underline">and</content>
+</content> CYP3A4 inhibitors</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>200 mg<footnoteref idref="_Ref400443157"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>CYP3A4 inducers</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Avoid use</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Patients Taking 300 mg of ABILIFY MAINTENA</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Strong CYP2D6 <content stylecode="bold">
+<content stylecode="underline">or</content>
+</content> CYP3A4 inhibitors</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>200 mg<footnoteref idref="_Ref400443157"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>CYP2D6 <content stylecode="bold">
+<content stylecode="underline">and</content>
+</content> CYP3A4 inhibitors</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>160 mg<footnoteref idref="_Ref400443157"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>CYP3A4 inducers</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Avoid use</paragraph>
+</td>
+</tr>
+</tbody>
+</table>
