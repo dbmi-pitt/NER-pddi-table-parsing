@@ -2,7 +2,7 @@ import glob
 
 files = glob.glob("*.txt")
 
-header = "<!DOCTYPE html><html><head><style>table, th, td{border: 1px solid black;}</style><body>"
+header = "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"><style>table, th, td{border: 1px solid black;}</style><body>"
 body = ""
 footer = "</body></html>"
 
