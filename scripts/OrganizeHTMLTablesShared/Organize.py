@@ -9,6 +9,12 @@
 import re
 import os
 from bs4 import BeautifulSoup
+from collections import defaultdict
+
+def chunks(l, n):
+    """Yield successive n-sized chunks from l."""
+    for i in xrange(0, len(l), n):
+        yield l[i:i+n]
 
 def generate():
     dir = os.path.dirname(__file__)
@@ -38,16 +44,21 @@ def organize():
                   "Clinical Comment": [],
                   "Sample Size": [],
                   "Misc.": []}
-    tableInfo = {"Name": [("Table ID", "Row", "Col")]}
+    tableInfo = defaultdict(list)
+    perTableCol = []
+    perTableColLong = []
     headers = []
     headersRowsCols = []
     headersText = []
     tableStatsCols = []
     tableStatsRows = []
+    tablePosInfo = []
     tempData = ""
+    colNo = 0
     colsTot = 0
     colsTotTemp = 0
     rowsTot = 0
+    newNum = 0
     dir = os.path.dirname(__file__)
 
     input = open(os.path.join(dir, "output.txt"), "r")
@@ -67,14 +78,11 @@ def organize():
             dataCellsCols = len(allTable) # The amount of cells per row (columns)
             colsTotTemp += dataCellsCols
 
-            if line.findChildren(["th", tableNo.index(line) == 0 and line.findChildren(["th"])]):
-                headers.append(line.findChildren(["th"]))
+            if (line.findChildren(["th", tableNo.index(line) == 0 and line.findChildren(["th"])])) or (tableNo.index(line) == 0 and line.findChildren(["td"])):
+                headers.append(line.findChildren(["th", "td"]))
 
-                ("Row: " + str(tableNo.index(line) + 1), "Col: " + str(allTable))
-                headersRowsCols
-
-            elif tableNo.index(line) == 0 and line.findChildren(["td"]):
-                headers.append(line.findChildren(["td"]))
+                tablePosInfo += chunks(list(len(line.findChildren(["th", "td"])) * (("Table: " + str(tableIDs[c])), "Row: " + str(1), "Column: " + str(colNo))), 3)
+                perTableCol.append([len(line.findChildren(["th", "td"]))])
 
         colsTot += colsTotTemp/len(tableNo)
         colsTotTemp = 0
@@ -89,19 +97,38 @@ def organize():
         for i in range (0, len(headers[n])):
             dataHTML = str(headers[n][i])
             soup = BeautifulSoup(dataHTML)
-            tempData = re.sub(' +',' ', soup.text.strip("\t\n\r").replace("\n", "").strip())
+            tempData = (re.sub(' +',' ', soup.text.strip("\t\n\r").replace("\n", "").strip())).upper().encode("utf-8")
 
-        if tempData not in headersText:
             headersText.append(tempData)
 
-        else:
-            None
+    for t in range (0, len(perTableCol)):
+        for n in range (0, perTableCol[t][0]):
+            newNum = perTableCol[t][0]
+            if newNum > 0:
+                newNum -= 1
+                perTableCol[t].insert(0, newNum)
+            elif newNum == 0:
+                None
+
+    for t in range (0, len(perTableCol)):
+        for i in range (0, len(perTableCol[t])):
+            if perTableCol[t][i] > 0:
+                perTableColLong.append(perTableCol[t][i])
+
+    for t in range (0, len(perTableColLong)):
+        tablePosInfo[t][2] = "Column: " + str(perTableColLong[t])
+        tablePosInfo[t] = tuple(tablePosInfo[t])
+
+    for delvt, pin in zip(headersText, tablePosInfo):
+        tableInfo[delvt].append(pin)
 
     headersFile = open(os.path.join(dir, "headers.txt"), "w")
-    headersFile.write(str(headersText).encode("utf-8"))
+    headersFile.write(str(tableInfo))
 
-    print len(headers)
-    print len(headersText)
+    print "List of parsed headers: " + str(len(headersText))
+    print "Dictionary: " + str(len(tableInfo))
+    print "List of tuples: " + str(len(tablePosInfo))
+    print "List of unparsed headers: " + str(len(headers))
 
     print "Total Columns: " + str(colsTot)
     print "Minimum Columns: " + str(min(tableStatsCols))
@@ -112,15 +139,6 @@ def organize():
     print "Minimum Rows: " + str(min(tableStatsRows))
     print "Maximum Rows: " + str(max(tableStatsRows))
     print "Average Rows: " + str(sum(tableStatsRows)/len(tableStatsRows)) + "\n\n"
-
-    """
-        for i in range(0, len(trList)): # Goes through each table for row, col, and data information
-            tdList.append(trList[i][0].findChildren(["td", "th"]))
-    """
-
-    # print trList
-
-        # print("Table ID: "+ tableIDs[c] + "\t\tNumber: " + str(c + 1))
 
 def dbToDict():
     connect = {}
