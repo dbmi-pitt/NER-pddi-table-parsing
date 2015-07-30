@@ -6,11 +6,23 @@
 #   5. Find how many times each heading is stated in HTML document
 #   6. Find how many headers each group contains
 
+import ast
+import itertools
 import re
 import os
 from bs4 import BeautifulSoup
 from collections import defaultdict
-import ast
+
+def f7(seq):
+    seen = set()
+    seen_add = seen.add
+    return [ x for x in seq if not (x in seen or seen_add(x))]
+
+def is_empty(any_structure):
+    if any_structure:
+        return False
+    else:
+        return True
 
 def replace_tab(s, tabstop = 4):
   result = str()
@@ -173,109 +185,33 @@ def dbToDict():
     file.write(str(connect))
 
 def drugMentions():
-    combinedData = {}
-    drugMentionsCategories = ["Interacting Substance", "Interacting Substance Properties", "Interaction Properties", "Effect on Drug"]
-    tableData = []
     dir = os.path.dirname(__file__)
+    finalList = []
+    textList = []
 
     input = open(os.path.join(dir, "output.txt"), "r")
     htmlParse = input.read().decode("utf-8")
 
     soup = BeautifulSoup(htmlParse)
 
-    categoriesFile = os.path.join(dir, "dbToDict.txt")
-    categoriesText = open(categoriesFile, "rb").read()
-
-    tableDataFile = os.path.join(dir, "headers.txt")
-    tableDataText = open(tableDataFile, "rb").read()
-
-    inputCategoriesDict = ast.literal_eval(categoriesText)
-    inputHeadersDict = ast.literal_eval(tableDataText[:-1].replace("defaultdict(<type 'list'>, ", ""))
-
-    # Gets possible interactions
-    values = inputCategoriesDict.get("Interacting Substance")
-    categoryHeaders = []
-    convertedLists = []
-
-    for c in range (0, len(values)):
-        categoryHeaders.append(inputHeadersDict.get(values[c]))
-
-    for c in range (0, len(categoryHeaders)):
-        for t in range (0, len(categoryHeaders[c])):
-            convertList = list(categoryHeaders[c][t])
-            convertList[0] = convertList[0].replace("Table: ", "")
-            convertList[1] = int(convertList[1].replace("Row: ", "")) - 1
-            convertList[2] = int(convertList[2].replace("Column: ", "")) - 1
-            convertedLists.append(convertList)
-
-    combinedData["Interacting Substance"] = convertedLists
-
-    inputCategoriesDict.get("Interacting Substance Properties")
-    categoryHeaders = []
-    convertedLists = []
-
-    for c in range (0, len(values)):
-        categoryHeaders.append(inputHeadersDict.get(values[c]))
-
-    for c in range (0, len(categoryHeaders)):
-        for t in range (0, len(categoryHeaders[c])):
-            convertList = list(categoryHeaders[c][t])
-            convertList[0] = convertList[0].replace("Table: ", "")
-            convertList[1] = int(convertList[1].replace("Row: ", "")) - 1
-            convertList[2] = int(convertList[2].replace("Column: ", "")) - 1
-            convertedLists.append(convertList)
-
-    combinedData["Interacting Substance Properties"] = convertedLists
-
-    inputCategoriesDict.get("Interaction Properties")
-    categoryHeaders = []
-    convertedLists = []
-
-    for c in range (0, len(values)):
-        categoryHeaders.append(inputHeadersDict.get(values[c]))
-
-    for c in range (0, len(categoryHeaders)):
-        for t in range (0, len(categoryHeaders[c])):
-            convertList = list(categoryHeaders[c][t])
-            convertList[0] = convertList[0].replace("Table: ", "")
-            convertList[1] = int(convertList[1].replace("Row: ", "")) - 1
-            convertList[2] = int(convertList[2].replace("Column: ", "")) - 1
-            convertedLists.append(convertList)
-
-    combinedData["Interaction Properties"] = convertedLists
-
-    inputCategoriesDict.get("Effect on Drug")
-    categoryHeaders = []
-    convertedLists = []
-
-    for c in range (0, len(values)):
-        categoryHeaders.append(inputHeadersDict.get(values[c]))
-
-    for c in range (0, len(categoryHeaders)):
-        for t in range (0, len(categoryHeaders[c])):
-            convertList = list(categoryHeaders[c][t])
-            convertList[0] = convertList[0].replace("Table: ", "")
-            convertList[1] = int(convertList[1].replace("Row: ", "")) - 1
-            convertList[2] = int(convertList[2].replace("Column: ", "")) - 1
-            convertedLists.append(convertList)
-
-    combinedData["Effect on Drug"] = convertedLists
-
-    file = open(os.path.join(dir, "tempFile.txt"), "w")
-    file.write(str(combinedData))
-
-    tables = soup.findChildren("table") # (ResultSet)
+    tables = soup.findChildren(["table"])
     tableIDs = [(n["value"]) for n in soup.findChildren("input")]
+    del tableIDs[0]
 
-    for c in range (0, len(drugMentionsCategories)):
-        print combinedData.get(drugMentionsCategories[c])
+    for c in range (0, len(tables)):
+        dictList = tables[c].findChildren(["td"])
 
-        for t in range (0, len(combinedData.get(drugMentionsCategories[c]))):
-            tableHTML = tables[tableIDs.index(combinedData.get(drugMentionsCategories[c])[t][0])] # Processes list of tables from here on
-            tableNo = tableHTML.findChildren(["tr"])
+        for t in range (0, len(dictList)):
+            textList.append(re.sub(' +', ' ', (dictList[t].getText().strip("\t\n\r").replace("\n", "").strip().upper().encode("utf-8"))))
 
-            for line in tableNo:
-                #if (not (line.findChildren(["th", tableNo.index(line) == 0 and line.findChildren(["th"])]))):
-                tableData.append(line.findChildren(["tr"])) # WIP
+        finalList.append([tableIDs[c].encode("utf-8"), textList])
+        textList = []
+
+    file = open(os.path.join(dir, "finalList.txt"), "w")
+    file.write(str(finalList))
+
+    for c in range (0, len(finalList)):
+        file = open(os.path.join(dir, finalList[c][0].replace("TABLE-", "")[:-6] + ".txt"), "w")
+        file.write(str(finalList[c][1]))
 
 drugMentions()
