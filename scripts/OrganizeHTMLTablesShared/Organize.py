@@ -175,14 +175,6 @@ def dbToDict():
 def drugMentions():
     combinedData = {}
     drugMentionsCategories = ["Interacting Substance", "Interacting Substance Properties", "Interaction Properties", "Effect on Drug"]
-    interactingSubstanceList = []
-    iSData = []
-    interactingSubstancePropertiesList = []
-    iSPData = []
-    interactionPropertiesList = []
-    iPData = []
-    effectOnDrugList = []
-    eODData = []
     dir = os.path.dirname(__file__)
 
     input = open(os.path.join(dir, "output.txt"), "r")
@@ -271,33 +263,13 @@ def drugMentions():
     file = open(os.path.join(dir, "tempFile.txt"), "w")
     file.write(str(combinedData))
 
-    for c in range (0, len(combinedData.get("Interacting Substance"))):
-        interactingSubstanceList.append(combinedData.get("Interacting Substance")[c][0])
-
-    for c in range (0, len(combinedData.get("Interacting Substance Properties"))):
-        interactingSubstancePropertiesList.append(combinedData.get("Interacting Substance Properties")[c][0])
-
-    for c in range (0, len(combinedData.get("Interaction Properties"))):
-        interactionPropertiesList.append(combinedData.get("Interaction Properties")[c][0])
-
-    for c in range (0, len(combinedData.get("Effect on Drug"))):
-        effectOnDrugList.append(combinedData.get("Effect on Drug")[c][0])
+    tables = soup.findChildren("table") # (ResultSet)
+    tableIDs = [(n["value"]) for n in soup.findChildren("input")]
 
     for c in range (0, len(drugMentionsCategories)):
-        if drugMentionsCategories[c] == "Interacting Substance":
-            for t in range (0, len(interactingSubstanceList)):
-                iSData.append(soup.findChildren([interactingSubstanceList[t]]))
+        print combinedData.get(drugMentionsCategories[c])
 
-        elif drugMentionsCategories[c] == "Interacting Substance Properties":
-            for t in range (0, len(interactingSubstancePropertiesList)):
-                iSPData.append(soup.findChildren([interactingSubstancePropertiesList[t]]))
-
-        elif drugMentionsCategories[c] == "Interaction Properties":
-            for t in range (0, len(interactionPropertiesList)):
-                iPData.append(soup.findChildren([interactionPropertiesList[t]]))
-
-        elif drugMentionsCategories[c] == "Effect on Drug":
-            for t in range (0, len(effectOnDrugList)):
-                eODData.append(soup.findChildren([effectOnDrugList[t]]))
+        for t in range (0, len(combinedData.get(drugMentionsCategories[c]))):
+            tableHTML = str(tables[tableIDs.index(combinedData.get(drugMentionsCategories[c])[t][0])]) # Processes list of tables from here on
 
 drugMentions()
