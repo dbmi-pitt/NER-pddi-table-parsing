@@ -1,7 +1,7 @@
 # Goals for this .py file
 #   1. List number of rows and columns for each table
 #   2. Append all headings of each table into a list without duplication
-#   3. Find the total number of tables [DONE]
+#   3. Find the total number of tables
 #   4. Find the distribution of rows and columns between tables
 #   5. Find how many times each heading is stated in HTML document
 #   6. Find how many headers each group contains
@@ -10,6 +10,17 @@ import re
 import os
 from bs4 import BeautifulSoup
 from collections import defaultdict
+import ast
+
+def replace_tab(s, tabstop = 4):
+  result = str()
+  for c in s:
+    if c == '\t':
+      while (len(result) % tabstop != 0):
+        result += ' ';
+    else:
+      result += c
+  return result
 
 def chunks(l, n):
     """Yield successive n-sized chunks from l."""
@@ -33,32 +44,26 @@ def generate():
     output.close()
 
 def organize():
-    categories = {"SetID": [],
-                  "Interacting Substance": [],
+    categories = {"Interacting Substance": [],
                   "Interacting Substance Properties": [],
                   "Interaction Properties": [],
                   "Drug Name or Drug Class": [],
-                  "Drug Effect": [],
-                  "Drug Dose Recommendation": [],
                   "Effect on Drug": [],
-                  "Clinical Comment": [],
+                  "Recommendation or Comment": [],
                   "Sample Size": [],
                   "Misc.": []}
     tableInfo = defaultdict(list)
     perTableCol = []
     perTableColLong = []
     headers = []
-    headersRowsCols = []
     headersText = []
     tableStatsCols = []
     tableStatsRows = []
     tablePosInfo = []
-    tempData = ""
     colNo = 0
     colsTot = 0
     colsTotTemp = 0
     rowsTot = 0
-    newNum = 0
     dir = os.path.dirname(__file__)
 
     input = open(os.path.join(dir, "output.txt"), "r")
@@ -122,23 +127,25 @@ def organize():
     for delvt, pin in zip(headersText, tablePosInfo):
         tableInfo[delvt].append(pin)
 
+    stringy = ""
+    for key in tableInfo.keys():
+        key = re.sub('\t+', ' ', key)
+        stringy = stringy + key + "\n"
+
+    print stringy
+
     headersFile = open(os.path.join(dir, "headers.txt"), "w")
     headersFile.write(str(tableInfo))
 
-    print "List of parsed headers: " + str(len(headersText))
-    print "Dictionary: " + str(len(tableInfo))
-    print "List of tuples: " + str(len(tablePosInfo))
-    print "List of unparsed headers: " + str(len(headers))
+    print "Total Number of Columns: " + str(colsTot)
+    print "Minimum Number of Columns: " + str(min(tableStatsCols))
+    print "Maximum Number of Columns: " + str(max(tableStatsCols))
+    print "Average Number of Columns: " + str(sum(tableStatsCols)/len(tableStatsCols)) + "\n\n"
 
-    print "Total Columns: " + str(colsTot)
-    print "Minimum Columns: " + str(min(tableStatsCols))
-    print "Maximum Columns: " + str(max(tableStatsCols))
-    print "Average Columns: " + str(sum(tableStatsCols)/len(tableStatsCols)) + "\n\n"
-
-    print "Total Rows: " + str(rowsTot)
-    print "Minimum Rows: " + str(min(tableStatsRows))
-    print "Maximum Rows: " + str(max(tableStatsRows))
-    print "Average Rows: " + str(sum(tableStatsRows)/len(tableStatsRows)) + "\n\n"
+    print "Total Number of Rows: " + str(rowsTot)
+    print "Minimum Number of Rows: " + str(min(tableStatsRows))
+    print "Maximum Number of Rows: " + str(max(tableStatsRows))
+    print "Average Number of Rows: " + str(sum(tableStatsRows)/len(tableStatsRows)) + "\n\n"
 
 def dbToDict():
     connect = {}
@@ -162,6 +169,135 @@ def dbToDict():
             else:
                 connect.update({line[1]: [line[0]]})
 
-    print connect
+    file = open(os.path.join(dir, "dbToDict.txt"), "w")
+    file.write(str(connect))
 
-organize()
+def drugMentions():
+    combinedData = {}
+    drugMentionsCategories = ["Interacting Substance", "Interacting Substance Properties", "Interaction Properties", "Effect on Drug"]
+    interactingSubstanceList = []
+    iSData = []
+    interactingSubstancePropertiesList = []
+    iSPData = []
+    interactionPropertiesList = []
+    iPData = []
+    effectOnDrugList = []
+    eODData = []
+    dir = os.path.dirname(__file__)
+
+    input = open(os.path.join(dir, "output.txt"), "r")
+    htmlParse = input.read().decode("utf-8")
+
+    soup = BeautifulSoup(htmlParse)
+
+    categoriesFile = os.path.join(dir, "dbToDict.txt")
+    categoriesText = open(categoriesFile, "rb").read()
+
+    tableDataFile = os.path.join(dir, "headers.txt")
+    tableDataText = open(tableDataFile, "rb").read()
+
+    inputCategoriesDict = ast.literal_eval(categoriesText)
+    inputHeadersDict = ast.literal_eval(tableDataText[:-1].replace("defaultdict(<type 'list'>, ", ""))
+
+    # Gets possible interactions
+    values = inputCategoriesDict.get("Interacting Substance")
+    categoryHeaders = []
+    convertedLists = []
+
+    for c in range (0, len(values)):
+        categoryHeaders.append(inputHeadersDict.get(values[c]))
+
+    for c in range (0, len(categoryHeaders)):
+        for t in range (0, len(categoryHeaders[c])):
+            convertList = list(categoryHeaders[c][t])
+            convertList[0] = convertList[0].replace("Table: ", "")
+            convertList[1] = int(convertList[1].replace("Row: ", "")) - 1
+            convertList[2] = int(convertList[2].replace("Column: ", "")) - 1
+            convertedLists.append(convertList)
+
+    combinedData["Interacting Substance"] = convertedLists
+
+    inputCategoriesDict.get("Interacting Substance Properties")
+    categoryHeaders = []
+    convertedLists = []
+
+    for c in range (0, len(values)):
+        categoryHeaders.append(inputHeadersDict.get(values[c]))
+
+    for c in range (0, len(categoryHeaders)):
+        for t in range (0, len(categoryHeaders[c])):
+            convertList = list(categoryHeaders[c][t])
+            convertList[0] = convertList[0].replace("Table: ", "")
+            convertList[1] = int(convertList[1].replace("Row: ", "")) - 1
+            convertList[2] = int(convertList[2].replace("Column: ", "")) - 1
+            convertedLists.append(convertList)
+
+    combinedData["Interacting Substance Properties"] = convertedLists
+
+    inputCategoriesDict.get("Interaction Properties")
+    categoryHeaders = []
+    convertedLists = []
+
+    for c in range (0, len(values)):
+        categoryHeaders.append(inputHeadersDict.get(values[c]))
+
+    for c in range (0, len(categoryHeaders)):
+        for t in range (0, len(categoryHeaders[c])):
+            convertList = list(categoryHeaders[c][t])
+            convertList[0] = convertList[0].replace("Table: ", "")
+            convertList[1] = int(convertList[1].replace("Row: ", "")) - 1
+            convertList[2] = int(convertList[2].replace("Column: ", "")) - 1
+            convertedLists.append(convertList)
+
+    combinedData["Interaction Properties"] = convertedLists
+
+    inputCategoriesDict.get("Effect on Drug")
+    categoryHeaders = []
+    convertedLists = []
+
+    for c in range (0, len(values)):
+        categoryHeaders.append(inputHeadersDict.get(values[c]))
+
+    for c in range (0, len(categoryHeaders)):
+        for t in range (0, len(categoryHeaders[c])):
+            convertList = list(categoryHeaders[c][t])
+            convertList[0] = convertList[0].replace("Table: ", "")
+            convertList[1] = int(convertList[1].replace("Row: ", "")) - 1
+            convertList[2] = int(convertList[2].replace("Column: ", "")) - 1
+            convertedLists.append(convertList)
+
+    combinedData["Effect on Drug"] = convertedLists
+
+    file = open(os.path.join(dir, "tempFile.txt"), "w")
+    file.write(str(combinedData))
+
+    for c in range (0, len(combinedData.get("Interacting Substance"))):
+        interactingSubstanceList.append(combinedData.get("Interacting Substance")[c][0])
+
+    for c in range (0, len(combinedData.get("Interacting Substance Properties"))):
+        interactingSubstancePropertiesList.append(combinedData.get("Interacting Substance Properties")[c][0])
+
+    for c in range (0, len(combinedData.get("Interaction Properties"))):
+        interactionPropertiesList.append(combinedData.get("Interaction Properties")[c][0])
+
+    for c in range (0, len(combinedData.get("Effect on Drug"))):
+        effectOnDrugList.append(combinedData.get("Effect on Drug")[c][0])
+
+    for c in range (0, len(drugMentionsCategories)):
+        if drugMentionsCategories[c] == "Interacting Substance":
+            for t in range (0, len(interactingSubstanceList)):
+                iSData.append(soup.findChildren([interactingSubstanceList[t]]))
+
+        elif drugMentionsCategories[c] == "Interacting Substance Properties":
+            for t in range (0, len(interactingSubstancePropertiesList)):
+                iSPData.append(soup.findChildren([interactingSubstancePropertiesList[t]]))
+
+        elif drugMentionsCategories[c] == "Interaction Properties":
+            for t in range (0, len(interactionPropertiesList)):
+                iPData.append(soup.findChildren([interactionPropertiesList[t]]))
+
+        elif drugMentionsCategories[c] == "Effect on Drug":
+            for t in range (0, len(effectOnDrugList)):
+                eODData.append(soup.findChildren([effectOnDrugList[t]]))
+
+drugMentions()
