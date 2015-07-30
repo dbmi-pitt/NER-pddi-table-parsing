@@ -175,6 +175,7 @@ def dbToDict():
 def drugMentions():
     combinedData = {}
     drugMentionsCategories = ["Interacting Substance", "Interacting Substance Properties", "Interaction Properties", "Effect on Drug"]
+    tableData = []
     dir = os.path.dirname(__file__)
 
     input = open(os.path.join(dir, "output.txt"), "r")
@@ -270,6 +271,11 @@ def drugMentions():
         print combinedData.get(drugMentionsCategories[c])
 
         for t in range (0, len(combinedData.get(drugMentionsCategories[c]))):
-            tableHTML = str(tables[tableIDs.index(combinedData.get(drugMentionsCategories[c])[t][0])]) # Processes list of tables from here on
+            tableHTML = tables[tableIDs.index(combinedData.get(drugMentionsCategories[c])[t][0])] # Processes list of tables from here on
+            tableNo = tableHTML.findChildren(["tr"])
+
+            for line in tableNo:
+                #if (not (line.findChildren(["th", tableNo.index(line) == 0 and line.findChildren(["th"])]))):
+                tableData.append(line.findChildren(["tr"])) # WIP
 
 drugMentions()
