@@ -13,26 +13,11 @@ import os
 from bs4 import BeautifulSoup
 from collections import defaultdict
 
-def f7(seq):
-    seen = set()
-    seen_add = seen.add
-    return [ x for x in seq if not (x in seen or seen_add(x))]
-
 def is_empty(any_structure):
     if any_structure:
         return False
     else:
         return True
-
-def replace_tab(s, tabstop = 4):
-  result = str()
-  for c in s:
-    if c == '\t':
-      while (len(result) % tabstop != 0):
-        result += ' ';
-    else:
-      result += c
-  return result
 
 def chunks(l, n):
     """Yield successive n-sized chunks from l."""
@@ -211,7 +196,7 @@ def drugMentions():
     file.write(str(finalList))
 
     for c in range (0, len(finalList)):
-        file = open(os.path.join(dir, finalList[c][0].replace("TABLE-", "")[:-6] + ".txt"), "w")
+        file = open(os.path.join(dir, finalList[c][0].replace("TABLE-", "")), "w")
         file.write(str(finalList[c][1]))
 
 drugMentions()
