@@ -135,7 +135,7 @@ OPTIONAL { <%s> loinc:34071-1 ?warnings}
     results = sparql.query().convert()
 
     if len(results["results"]["bindings"]) == 0:
-        print "ERROR: no results from query"
+        print "ERROR: no query results for label %s" % (spl)
         return {}
 
     secD = {}
@@ -211,6 +211,11 @@ if __name__ == "__main__":
         lspls.append(getAllSPLSectionsSparql(line.strip(), sparql))	
 
     for sp in lspls:
+
+        ## skip current label if no query results back
+        if not sp:
+            continue
+        
         dic = sp.toDict()
         for key in dic:
             if (dic[key] is None):
