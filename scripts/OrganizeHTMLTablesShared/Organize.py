@@ -13,6 +13,15 @@ import os
 from bs4 import BeautifulSoup
 from collections import defaultdict
 
+def median(lst):
+    lst = sorted(lst)
+    if len(lst) < 1:
+            return None
+    if len(lst) %2 == 1:
+            return lst[((len(lst)+1)/2)-1]
+    else:
+            return float(sum(lst[(len(lst)/2)-1:(len(lst)/2)+1]))/2.0
+
 def is_empty(any_structure):
     if any_structure:
         return False
@@ -137,11 +146,13 @@ def organize():
     print "Total Number of Columns: " + str(colsTot)
     print "Minimum Number of Columns: " + str(min(tableStatsCols))
     print "Maximum Number of Columns: " + str(max(tableStatsCols))
+    print str(median(tableStatsCols))
     print "Average Number of Columns: " + str(sum(tableStatsCols)/len(tableStatsCols)) + "\n\n"
 
     print "Total Number of Rows: " + str(rowsTot)
     print "Minimum Number of Rows: " + str(min(tableStatsRows))
     print "Maximum Number of Rows: " + str(max(tableStatsRows))
+    print str(median(tableStatsRows))
     print "Average Number of Rows: " + str(sum(tableStatsRows)/len(tableStatsRows)) + "\n\n"
 
 def dbToDict():
@@ -173,6 +184,7 @@ def drugMentions():
     dir = os.path.dirname(__file__)
     finalList = []
     textList = []
+    printedTableIDs = []
 
     input = open(os.path.join(dir, "output.txt"), "r")
     htmlParse = input.read().decode("utf-8")
@@ -198,5 +210,66 @@ def drugMentions():
     for c in range (0, len(finalList)):
         file = open(os.path.join(dir, finalList[c][0].replace("TABLE-", "")), "w")
         file.write(str(finalList[c][1]))
+        printedTableIDs.append(finalList[c][0].replace("TABLE-", ""))
 
-drugMentions()
+    file = open(os.path.join(dir, "tableIDs.txt"), "w")
+    file.write(str(printedTableIDs))
+
+def findCells():
+    tdList = []
+    dir = os.path.dirname(__file__)
+    input = open(os.path.join(dir, "output.txt"), "r")
+    htmlParse = input.read().decode("utf-8")
+
+    soup = BeautifulSoup(htmlParse)
+
+    tdList.append(soup.findChildren(["td"]))
+
+    print len(tdList)
+    print len(tdList[0])
+
+def drugMentionsStats():
+    dir = os.path.dirname(__file__)
+    drugMentionsPer = []
+
+    db = os.path.join(dir, "drugNERCounts-1059-07312015.txt")
+    data = open(db, "rb")
+
+    with data as txtData:
+        for line in txtData:
+            line = re.split(r"\t+", line.strip("\n"))
+            drugMentionsPer.append(int(line[1]))
+
+    file = open(os.path.join(dir, "drugMentionsPer.txt"), "w")
+    file.write(str(drugMentionsPer))
+
+    print str(len(drugMentionsPer))
+    print str(min(drugMentionsPer))
+    print str(max(drugMentionsPer))
+    print str(median(drugMentionsPer))
+    print str(float(sum(drugMentionsPer))/len(drugMentionsPer))
+
+def getHighProbMentions():
+    dir = os.path.dirname(__file__)
+
+    dbToDict = os.path.join(dir, "dbToDict.txt")
+    readData = open(dbToDict, "rb")
+    dict = ast.literal_eval(readData.read())
+
+    tableIDs = os.path.join(dir, "tableIDs.txt")
+    readData = open(tableIDs, "rb")
+    litData = readData.read()
+
+    tables = ast.literal_eval(litData)
+
+    for c in range (0, len(tables)):
+        file = os.path.join(dir, tables[c])
+        readData = open(file, "rb")
+        litData = readData.read()
+        tempList = ast.literal_eval(litData)
+
+        for t in range (0, len(tempList)):
+            if (tempList[t] in dict.get("Interacting Substance")) or (tempList[t] in dict.get("Interaction Properties")) or (tempList[t] in dict.get("Drug Name or Drug Class")) or (tempList[t] in dict.get("Effect on Drug")):
+                ""
+
+getHighProbMentions()
