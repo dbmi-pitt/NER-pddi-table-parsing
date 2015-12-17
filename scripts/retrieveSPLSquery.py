@@ -132,14 +132,14 @@ OPTIONAL { <%s> loinc:34071-1 ?warnings}
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
 
-    if len(results["results"]["bindings"]) == 0:
-        print "ERROR: no results from query"
-        return {}
-
-    secD = {}
-
     sp = SPL()
     sp.setID = spl
+    
+    if len(results["results"]["bindings"]) == 0:
+        print "ERROR: no results from query\n\t %s" % qry
+        return sp
+
+    secD = {}
     for res in results["results"]["bindings"]:
             
         #if res.has_key("drugName"):
@@ -198,10 +198,12 @@ if __name__ == "__main__":
         if not line or line == "":
             break
 
-        #lspls.append(getDDISPLSectionsSparql(line.strip(), sparql))	
+        print "Retrieving data for SPL " + line.strip()
         lspls.append(getAllSPLSectionsSparql(line.strip(), sparql))	
 
     for sp in lspls:
+        print "Writing data for SPL " + line.strip()
+        
         dic = sp.toDict()
         for key in dic:
             if (dic[key] is None):
