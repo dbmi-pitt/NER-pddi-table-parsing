@@ -1,12 +1,27 @@
 # -*- coding: utf-8 -*-
 
+###############################################################
+# Generates unique table header structures and saves the      #
+# result as a text file titled "table_structures.txt".        #
+# Stored as key (table header structure) and                  #
+# value (table-names). Can parse as dictionary.               #
+###############################################################
+# Author: Steven DeMarco                                      #
+###############################################################
+
 import re
 import os
 import string
 from bs4 import BeautifulSoup
 
+###############################################################
+# Convenience function to convert the list into the final     #
+# structure of key (structure) : value (table-name).          #
+# Returns the final dictionary.                               #
+###############################################################
 
-def converToStructureDict(structure):
+
+def convertToStructureDict(structure):
     finaldict = {}
     for s in structure:
         splits = s.split("\t", 1)
@@ -38,9 +53,9 @@ def cleanUp(s):
 ###############################################################
 # Convenience function to generate a list of each table's     #
 # headers. Returns a list of headers or None if empty.        #
-# Removes all non-printable strings contained in header       #
-# - this helps with encoding/decoding issues that caused      #
-#   mismatched strings to occur.                              #
+# ** Removes all non-printable strings contained in header    #
+# ** - helps with encoding/decoding issues that caused        #
+# **   mismatched strings to occur.                           #
 ###############################################################
 
 
@@ -74,6 +89,7 @@ def generateList(x):
 # Convenience function to create a string that contains:      #
 # Table's name and its corresponding categorical header       #
 # structure (tab-separated); returns as a string.             #
+# Params: (TABLE-NAME , HEADERS-LIST , CATEGORIES-LIST)       #
 ###############################################################
 
 
@@ -128,38 +144,27 @@ def classify():
     data = open(db, "rb")
 
     # Generate the dictionary headerClassification = { header : category }
+    # Removes any non-printable strings and whitespaces
     with data as txtData:
         for line in txtData:
             line = line.translate(None, '[\n\r]')
             line = filter(lambda x: x in string.printable, line)
             line = re.split(r"\t+", line.strip("\n"))
-            zero = re.sub(r'[\W_]+', '', line[0])
-            if line[1] in headerClassification:
-                if zero not in headerClassification.values():
-                    headerClassification[line[1]].append(zero)
+            cat = line[1]
+            header = re.sub(r'[\W_]+', '', line[0])
+            if cat in headerClassification:
+                if header not in headerClassification.values():
+                    headerClassification[cat].append(header)
                 else:
                     break
             else:
-                headerClassification.update({zero: line[1]})
-
-    # print headerClassification
-
-    # Testing purposes ######### Testing Purposes ######### Testing Purposes ################
-    '''for key in headerClassification:
-        print key + ' is the table header which is part of this category: ' + str(headerClassification[key])
-
-    print 'The dict contains ', len(headerClassification.keys()), ' unique keys.'
-
-    file = open(os.path.join(dir, "testingCreateDict.txt"), "w")
-    file.write(str(headerClassification)) '''
-    # Testing purposes ######### Testing Purposes ######### Testing Purposes ################
+                headerClassification.update({header: cat})
 
     # Absolute path of the directory where the program resides
     dir = os.path.dirname(__file__)
     input = open(os.path.join(dir, "output.txt"), "r")
     htmlParse = input.read().decode("utf-8")
 
-    # Section prepares each part for addition to tableInfo dictionary
     soup = BeautifulSoup(htmlParse, "html.parser")
     tables = soup.findChildren("table")  # (ResultSet) - finds all the <table> tags in the HTML of output.txt
 
@@ -174,21 +179,29 @@ def classify():
         for line in tableNo:
             if (line.findChildren(["th", tableNo.index(line) == 0 and line.findChildren(["th"])])) or \
                     (tableNo.index(line) == 0 and line.findChildren(["td"])):
-                soup = BeautifulSoup(str(line.findChildren(["th", "td"])))  # -- ** try to remove str() - complete eval on this (turn string to list)
-                # Properly formats and encodes **SOME** of the table headers
+                soup = BeautifulSoup(str(line.findChildren(["th", "td"])))
+                # Properly formats and encodes table headers
                 tempData = (re.sub(' +', ' ', soup.text.strip("\t\n\r").replace("\n", "").strip())).upper().encode("utf-8")
 
                 # Gathers table headers for classification and construction of categorical assignment string
                 tableStructure.append(generateStructure(str(tableIDs[c]), generateList(str(tempData)), headerClassification))
 
-    # Prints each table that does not contain a 'HEADER NOT FOUND' error
-    '''for s in tableStructure:
-        # if "ERR:HEADER NOT FOUND" not in s:
-            print s'''
+    # Converts to final header-structure dictionary
+    dict = convertToStructureDict(tableStructure)
+    
+    # Write the final dictionary to the file 'table_structures.txt'
+    file = open(os.path.join(dir, "table_structures.txt"), "w")
+    file.write(str(dict))
+    file.close
+    
+    ###########################################################
+    # Printing options for testing/review.                    #
+    ###########################################################
+    
+    # Print number of unique table structures
+    '''print "There are " + str(len(dict.keys())) + " unique table structures. \n"'''
 
-    dict = converToStructureDict(tableStructure)
-    print "There are " + str(len(dict.keys())) + " unique table structures. \n"
-
+    # Prints the number of tables within each unique table structure
     for key in dict:
         if key in dict.keys():
             splits = dict[key].split(' ')
@@ -196,10 +209,9 @@ def classify():
             print key
             print str(len(splits)) + ' tables.'
             print '\n'
+            # Prints each table name
             # for s in splits:
                 # print s
-
-
 
     # Prints each table's structure (listForm) including all errors
     '''listForm = createList(tableStructure)
@@ -209,10 +221,13 @@ def classify():
             s += item + ' '
         print s '''
 
+    # Prints each table that does not contain a 'HEADER NOT FOUND' error
+    '''for s in tableStructure:
+        # if "ERR:HEADER NOT FOUND" not in s:
+            print s'''
 
 ###############################################################
 # Main code                                                   #
 ###############################################################
-
 
 classify()

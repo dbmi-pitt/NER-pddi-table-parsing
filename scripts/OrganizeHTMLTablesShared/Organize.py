@@ -166,7 +166,7 @@ def organize():
     headersFile.write(str(tableInfo))
 
     # Print summary statistics of the tables.
-    '''print("Total Number of Columns: " + str(colsTot))
+    print("Total Number of Columns: " + str(colsTot))
     print("Minimum Number of Columns: " + str(min(tableStatsCols)))
     print("Maximum Number of Columns: " + str(max(tableStatsCols)))
     print("Average Number of Columns: " + str(sum(tableStatsCols)/len(tableStatsCols)) + "\n\n")
@@ -174,7 +174,7 @@ def organize():
     print("Total Number of Rows: " + str(rowsTot))
     print("Minimum Number of Rows: " + str(min(tableStatsRows)))
     print("Maximum Number of Rows: " + str(max(tableStatsRows)))
-    print("Average Number of Rows: " + str(sum(tableStatsRows)/len(tableStatsRows)) + "\n\n")'''
+    print("Average Number of Rows: " + str(sum(tableStatsRows)/len(tableStatsRows)) + "\n\n")
 
 
 # Takes a text database and categorizes everything into a directory
@@ -242,6 +242,5 @@ def drugMentions():
 #############################################################################
 # Main part of code                                                         #
 #############################################################################
-# generate()
+
 organize()
-# dbToDict()
