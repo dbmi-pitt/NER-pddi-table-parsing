@@ -1,0 +1,186 @@
+<table border="1" id="id_e10aba63-b796-4840-af32-b8d8e9197302" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_2ea33434-c967-4960-9296-8ac012e4e76f" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="bold">Co-Administered Drug or Grapefruit Juice </content>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">Dosing of Co-Administered Drug or Grapefruit Juice </content>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">Dosing of Simvastatin </content>
+</td>
+<td align="left" colspan="3" valign="top">
+<content stylecode="bold">Geometric Mean Ratio </content>
+<content stylecode="bold">(Ratio</content>*<content stylecode="bold"> with / without </content>
+<content stylecode="bold">co-administered drug) </content>
+<content stylecode="bold">No Effect = 1.00</content>
+</td>
+</tr>
+<tr id="id_222b39ed-3751-44f9-88ac-5e3092dd6a58">
+<td align="left" valign="top">
+<content stylecode="bold"> </content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold"> </content>
+</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">
+<content stylecode="bold">AUC</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">Cmax</content>
+</td>
+</tr>
+<tr id="id_c76e4f6d-1c9e-4cb9-9ee3-75c2a811d107">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">Avoid taking with simvastatin </content>[see <content stylecode="bold">Warnings and Precautions (5.1)</content>] </td>
+</tr>
+<tr id="id_8ca6d6ee-bc3d-4f17-bda3-de00253948b6">
+<td align="left" valign="top">Telithromycin<sup>†</sup>
+</td>
+<td align="left" valign="top">200 mg QD for 4 days</td>
+<td align="left" valign="top">80 mg</td>
+<td align="left" valign="top">simvastatin acid<sup>‡</sup> simvastatin</td>
+<td align="left" valign="top">128.9</td>
+<td align="left" valign="top">155.3</td>
+</tr>
+<tr id="id_198d9ae1-fc47-4655-8286-1b2d7336eacb">
+<td align="left" valign="top">Nelfinavir<sup>†</sup>
+</td>
+<td align="left" valign="top">1250 mg BID for 14 days</td>
+<td align="left" valign="top">20 mg QD for 28 days</td>
+<td align="left" valign="top">simvastatin acid<sup>‡ </sup>simvastatin</td>
+<td align="left" valign="bottom">6</td>
+<td align="left" valign="bottom">6.2</td>
+</tr>
+<tr id="id_568bae90-aeb7-4f9a-8562-b5d2964be106">
+<td align="left" valign="top">Itraconazole<sup>†</sup>
+</td>
+<td align="left" valign="top">200 mg QD for 4 days</td>
+<td align="left" valign="top">80 mg</td>
+<td align="left" valign="top">simvastatin acid<sup>‡</sup> simvastatin</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">13.113.1</td>
+</tr>
+<tr id="id_ac8c11f2-86c1-4a22-9a32-ab4094ca16ce">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">Avoid &gt;1 quart of grapefruit juice with simvastatin </content>[see <content stylecode="bold">Warnings and Precautions (5.1)</content>]</td>
+</tr>
+<tr id="id_cc87ee7d-8c6d-4bd2-84b4-e348c652e2ef">
+<td align="left" valign="top">Grapefruit Juice<sup>§</sup> (high dose)</td>
+<td align="left" valign="top">200 mL of double-strength TID<sup>¶</sup>
+</td>
+<td align="left" valign="top">60 mg single dose</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">716</td>
+<td align="left" valign="top"> </td>
+</tr>
+<tr id="id_2738e904-8261-4099-a11d-aaa457039dc6">
+<td align="left" valign="top">Grapefruit Juice<sup>§</sup> (low dose)</td>
+<td align="left" valign="top">8 oz (about 237mL) of single-strength<sup>#</sup>
+</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">1.31.9</td>
+<td align="left" valign="top"> </td>
+</tr>
+<tr id="id_130f3e2a-2cd7-45cc-975e-2dd4f26950b7">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">Avoid taking with &gt;10 mg simvastatin</content>, based on clinical and/or post-marketing experience [see <content stylecode="bold">Warnings and Precautions (5.1)</content>]</td>
+</tr>
+<tr id="id_b3211df1-30df-4489-b441-e45658a08729">
+<td align="left" valign="top">Gemfibrozil</td>
+<td align="left" valign="top">600 mg BID for 3 days</td>
+<td align="left" valign="top">40 mg</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">2.851.35</td>
+<td align="left" valign="top">2.180.91</td>
+</tr>
+<tr id="id_5fd3239b-e2d4-499e-9c03-91135295f2c9">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">Avoid taking with &gt;20 mg simvastatin</content>, based on clinical and/or post-marketing experience [see <content stylecode="bold">Warnings and Precautions (5.1)</content>]</td>
+</tr>
+<tr id="id_51f7dcae-7ed4-4bbb-8044-7f53131f4ccb">
+<td align="left" valign="top">Verapamil SR</td>
+<td align="left" valign="top">240 mg QD Days 1-7 then 240 mg BID on Days 8-10</td>
+<td align="left" valign="top">80 mg on Day 10</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">2.32.5</td>
+<td align="left" valign="top">2.42.1</td>
+</tr>
+<tr id="id_95623532-a4cb-41f9-b34c-8ade6c113e95">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">Avoid taking with &gt;40 mg simvastatin</content>, based on clinical and/or post-marketing experience [see <content stylecode="bold">Warnings and Precautions (5.1)</content>]</td>
+</tr>
+<tr id="id_ac54bb74-d0e9-4abe-a9e0-0629a8507f54">
+<td align="left" valign="top">Diltiazem</td>
+<td align="left" valign="top">120 mg BID for 10 days</td>
+<td align="left" valign="top">80 mg on Day 10</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">2.693.10</td>
+<td align="left" valign="top">2.692.88</td>
+</tr>
+<tr id="id_a378aebb-3e18-4408-87c3-9497485a93a5">
+<td align="left" valign="top">Diltiazem</td>
+<td align="left" valign="top">120 mg BID for 14 days</td>
+<td align="left" valign="top">20 mg on Day 14</td>
+<td align="left" valign="top">simvastatin</td>
+<td align="left" valign="top">4.6 </td>
+<td align="left" valign="top">3.6 </td>
+</tr>
+<tr id="id_09170dff-9ca9-4084-abb3-891f77f178e1">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">No dosing adjustments required for the following:</content>
+</td>
+</tr>
+<tr id="id_aca10347-fc3d-4d3b-a923-454522603f13">
+<td align="left" valign="top">Fenofibrate</td>
+<td align="left" valign="top">160 mg QD X 14 days</td>
+<td align="left" valign="top">80 mg QD on Days 8-14</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">0.640.89</td>
+<td align="left" valign="top">0.890.83</td>
+</tr>
+<tr id="id_642b75fc-df07-4350-a80a-149eb14df23f">
+<td align="left" valign="top">Niacin extended- release<sup> Þ</sup>
+</td>
+<td align="left" valign="top">2 g single dose</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">1.61.4</td>
+<td align="left" valign="top">1.841.08</td>
+</tr>
+<tr id="id_37dd377c-923f-4393-80bc-96f51b048445">
+<td align="left" valign="top">Diltiazem</td>
+<td align="left" valign="top">120 mg BID for 10 days</td>
+<td align="left" valign="top">80 mg on Day 10</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">2.693.10</td>
+<td align="left" valign="top">2.692.88</td>
+</tr>
+<tr id="id_8a3b5c76-ab5d-4f0a-bb1d-492508ba7eaf">
+<td align="left" valign="top">Amlodipine</td>
+<td align="left" valign="top">10 mg QD x 10 days</td>
+<td align="left" valign="top">80 mg on Day 10</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">1.581.77</td>
+<td align="left" valign="top">1.561.47</td>
+</tr>
+<tr id="id_a4146a4f-4f0a-4999-a610-829739cec324" stylecode="Botrule">
+<td align="left" valign="top">Propranolol</td>
+<td align="left" valign="top">80 mg single dose</td>
+<td align="left" valign="top">80 mg single dose</td>
+<td align="left" valign="top">total inhibitor  active inhibitor</td>
+<td align="left" valign="top">0.79  0.79</td>
+<td align="left" valign="top">↓ from 33.6 to 21.1 ng·eq/ml  ↓from 7.0 to 4.7 ng·eq/mL</td>
+</tr>
+</tbody>
+</table>

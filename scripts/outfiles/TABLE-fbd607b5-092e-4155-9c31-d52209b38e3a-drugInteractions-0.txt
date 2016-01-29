@@ -1,0 +1,50 @@
+<table border="grid" id="ID_5FB75B18-994D-4A20-9A3A-419F83595F14" width="357.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>
+Drug Interactions Associated with Increased Risk of  Myopathy/Rhabdomyolysis (
+<linkhtml href="#dosing3">2.3</linkhtml>, 
+<linkhtml href="#dosing4">2.4</linkhtml>, 
+<linkhtml href="#contraindications">4</linkhtml>, 
+<linkhtml href="#i4i_section_ID_4FD678AF-6EB7-455F-BCB8-E75468F55FF2">5.1</linkhtml>, 
+<linkhtml href="#i4i_section_ID_7E1615A3-A89A-4732-AA79-E6D67B4C43DA">7.1</linkhtml>, 
+<linkhtml href="#i4i_section_ID_179D3C13-C346-4247-B12B-046258E855CA">7.2</linkhtml>, 
+<linkhtml href="#blockers">7.3</linkhtml>, 
+<linkhtml href="#i4i_pharmacokinetics_ID_25B1B3F5-7F81-4DB6-A229-FC827A32BB83">12.3</linkhtml>)
+</caption>
+<col span="1" width="49.3%"></col>
+<col span="1" width="50.7%"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Interacting Agents</content>
+</td>
+<td>
+<content stylecode="bold">Prescribing Recommendations</content>
+</td>
+</tr>
+<tr>
+<td>
+Strong CYP3A4 inhibitors
+(e.g. itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, nefazodone cobicistat-containing products), gemfibrozil, cyclosporine, danazol
+</td>
+<td>Contraindicated with simvastatin</td>
+</tr>
+<tr>
+<td>Verapamil, diltiazem, dronedarone</td>
+<td>Do not exceed 10 mg simvastatin daily</td>
+</tr>
+<tr>
+<td>Amiodarone, amlodipine, ranolazine</td>
+<td>Do not exceed 20 mg simvastatin daily</td>
+</tr>
+<tr>
+<td>Lomitapide</td>
+<td>For patients with HoFH, do not exceed 20 mg simvastatin daily 
+<linkhtml href="#footnote-1">*</linkhtml>
+</td>
+</tr>
+<tr>
+<td>Grapefruit juice</td>
+<td>Avoid grapefruit juice </td>
+</tr>
+</tbody>
+</table>

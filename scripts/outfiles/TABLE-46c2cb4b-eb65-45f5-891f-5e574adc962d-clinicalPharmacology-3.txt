@@ -1,0 +1,151 @@
+<table border="grid" id="id_307aebc3-3383-43d0-a093-1ecc019bad34" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_8cb83cc3-2659-4ffc-96f0-177ff5377ec5">Table 4: Efficacy Outcomes within Demographic Subgroups</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_ea7006d7-501f-456b-bf5c-628505fc573a">
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="center" colspan="3" valign="top">Primary Composite Endpoint</td>
+<td align="center" colspan="3" valign="top">ESRD</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_8f3cd916-0e0f-4a5d-b37b-35ed94755d50">
+<td align="left" valign="top"></td>
+<td align="center" valign="top">No. of Patients</td>
+<td align="center" valign="top">Losartan<br/>Event Rate<br/>%</td>
+<td align="center" valign="top">Placebo<br/>Event Rate<br/>%</td>
+<td align="center" valign="top">Hazard Ratio<br/>(95% CI)</td>
+<td align="center" valign="top">Losartan<br/>Event Rate<br/>%</td>
+<td align="center" valign="top">Placebo<br/>Event Rate<br/>%</td>
+<td align="center" valign="top">Hazard Ratio<br/>(95% CI)</td>
+</tr>
+<tr id="id_3db9fb1b-d2a5-4b07-af2c-3866ab5c0ee6">
+<td align="left" valign="top">Overall Results</td>
+<td align="center" valign="top">1513</td>
+<td align="center" valign="top">43.5</td>
+<td align="center" valign="top">47.1</td>
+<td align="center" valign="top">0.839 (0.721, 0.977)</td>
+<td align="center" valign="top">19.6</td>
+<td align="center" valign="top">25.5</td>
+<td align="center" valign="top">0.714 (0.576, 0.885)</td>
+</tr>
+<tr id="id_fbf9a98b-f087-4eb5-9f6f-620dada74cf3">
+<td align="left" valign="top">Age</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_cc0aae4a-4b2a-4928-9ad3-d63217c5e605">
+<td align="left" valign="top">    &lt;65 years</td>
+<td align="center" valign="top">1005</td>
+<td align="center" valign="top">44.1</td>
+<td align="center" valign="top">49.0</td>
+<td align="center" valign="top">0.784 (0.653, 0.941)</td>
+<td align="center" valign="top">21.1</td>
+<td align="center" valign="top">28.5</td>
+<td align="center" valign="top">0.670 (0.521, 0.863)</td>
+</tr>
+<tr id="id_21da385d-4d9a-4981-9df3-b5cfddc5966b">
+<td align="left" valign="top">    ≥65 years</td>
+<td align="center" valign="top">508</td>
+<td align="center" valign="top">42.3</td>
+<td align="center" valign="top">43.5</td>
+<td align="center" valign="top">0.978 (0.749, 1.277)</td>
+<td align="center" valign="top">16.5</td>
+<td align="center" valign="top">19.6</td>
+<td align="center" valign="top">0.847 (0.560, 1.281)</td>
+</tr>
+<tr id="id_728650b7-e3f0-4387-aa74-1cbefe21cfa5">
+<td align="left" valign="top">Gender</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_ae8153a9-04bf-4acc-9988-e06b4aba9dbf">
+<td align="left" valign="top">    Female</td>
+<td align="center" valign="top">557</td>
+<td align="center" valign="top">47.8</td>
+<td align="center" valign="top">54.1</td>
+<td align="center" valign="top">0.762 (0.603, 0.962)</td>
+<td align="center" valign="top">22.8</td>
+<td align="center" valign="top">32.8</td>
+<td align="center" valign="top">0.601 (0.436, 0.828)</td>
+</tr>
+<tr id="id_735d71b9-6b30-4e4a-bdfc-141a67d3e4d1">
+<td align="left" valign="top">    Male</td>
+<td align="center" valign="top">956</td>
+<td align="center" valign="top">40.9</td>
+<td align="center" valign="top">43.3</td>
+<td align="center" valign="top">0.892 (0.733, 1.085)</td>
+<td align="center" valign="top">17.5</td>
+<td align="center" valign="top">21.5</td>
+<td align="center" valign="top">0.809 (0.605, 1.081)</td>
+</tr>
+<tr id="id_08921843-dfd5-45ff-a779-dc75ab68ac5b">
+<td align="left" valign="top">Race</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_fe892ab5-e722-4ac7-9906-a0964cd6ea1d">
+<td align="left" valign="top">    Asian</td>
+<td align="center" valign="top">252</td>
+<td align="center" valign="top">41.9</td>
+<td align="center" valign="top">54.8</td>
+<td align="center" valign="top">0.655 (0.453, 0.947)</td>
+<td align="center" valign="top">18.8</td>
+<td align="center" valign="top">27.4</td>
+<td align="center" valign="top">0.625 (0.367, 1.066)</td>
+</tr>
+<tr id="id_467c64d6-c26c-4be1-88a5-59e29c93dcb7">
+<td align="left" valign="top">    Black</td>
+<td align="center" valign="top">230</td>
+<td align="center" valign="top">40.0</td>
+<td align="center" valign="top">39.0</td>
+<td align="center" valign="top">0.983 (0.647, 1.495)</td>
+<td align="center" valign="top">17.6</td>
+<td align="center" valign="top">21.0</td>
+<td align="center" valign="top">0.831 (0.456, 1.516)</td>
+</tr>
+<tr id="id_0408cbbe-d367-4f7e-992e-e3498481a4e7">
+<td align="left" valign="top">    Hispanic</td>
+<td align="center" valign="top">277</td>
+<td align="center" valign="top">55.0</td>
+<td align="center" valign="top">54.0</td>
+<td align="center" valign="top">1.003 (0.728, 1.380)</td>
+<td align="center" valign="top">30.0</td>
+<td align="center" valign="top">28.5</td>
+<td align="center" valign="top">1.024 (0.661, 1.586)</td>
+</tr>
+<tr id="id_469e086b-32c5-445c-8832-e8f854e71879" stylecode="Botrule">
+<td align="left" valign="top">    White</td>
+<td align="center" valign="top">735</td>
+<td align="center" valign="top">40.5</td>
+<td align="center" valign="top">43.2</td>
+<td align="center" valign="top">0.809 (0.645, 1.013)</td>
+<td align="center" valign="top">16.2</td>
+<td align="center" valign="top">23.9</td>
+<td align="center" valign="top">0.596 (0.427, 0.831)</td>
+</tr>
+</tbody>
+</table>

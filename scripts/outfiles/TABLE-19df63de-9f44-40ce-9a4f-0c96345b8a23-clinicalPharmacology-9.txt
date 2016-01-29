@@ -1,0 +1,42 @@
+<table id="id_6bea95c4-38ac-4e7f-abca-741fd371ad77" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="34%"></col>
+<col align="left" width="33%"></col>
+<col align="center" width="33%"></col>
+<thead>
+<tr id="id_99a55c52-b4b3-4ab5-b738-79a5a4490103" stylecode="Botrule">
+<td align="left" colspan="2" stylecode="Lrule Rrule" valign="top">Organism</td>
+<td align="left" stylecode="Rrule" valign="top">Zone Diameter</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_dbf0b883-2c46-4d2e-bdd9-d0264c31436e" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">E. coli</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">ATCC 25922</td>
+<td align="left" stylecode="Rrule" valign="top">30-40</td>
+</tr>
+<tr id="id_6a32281f-b353-47f3-8235-fb66935b44f1">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">H. influenzae<footnote id="id-01e5c6d4-8f53-4bd6-b4bb-e347096b01d3">These quality control limits are applicable to only<content stylecode="italics"> H. influenzae</content> ATCC 49247 testing using <content stylecode="italics">Haemophilus</content> Test Medium (HTM)<sup>2</sup>.</footnote>
+</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">ATCC 49247</td>
+<td align="left" stylecode="Rrule" valign="top">34-42</td>
+</tr>
+<tr id="id_403d5ce3-ada6-4ee7-9e96-c065c74ed4f9">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">P. aeruginosa</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">ATCC 27853</td>
+<td align="left" stylecode="Rrule" valign="top">25-33</td>
+</tr>
+<tr id="id_07438f8c-a394-4c9d-8378-f8db1c550b0f" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">S. aureus</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">ATCC 25923</td>
+<td align="left" stylecode="Rrule" valign="top">22-30</td>
+</tr>
+</tbody>
+</table>

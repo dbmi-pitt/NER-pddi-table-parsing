@@ -1,0 +1,55 @@
+<table frame="void" width="568" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="left" stylecode="Botrule" valign="top"> Time  (hr):</td>
+<td align="left" stylecode="Botrule" valign="top"> 0.5</td>
+<td align="left" stylecode="Botrule" valign="top"> 1.0</td>
+<td align="left" stylecode="Botrule" valign="top"> 1.5</td>
+<td align="left" stylecode="Botrule" valign="top"> 2.0</td>
+<td align="left" colspan="2" stylecode="Botrule" valign="top"> 3.0</td>
+<td align="left" stylecode="Botrule" valign="top"> 4.0</td>
+<td align="left" stylecode="Botrule" valign="top"> 8.0</td>
+<td align="left" stylecode="Botrule" valign="top"> 12.0</td>
+<td align="left" stylecode="Botrule" valign="top"> 24.0</td>
+<td align="left" stylecode="Botrule" valign="top"> 48.0</td>
+<td align="left" stylecode="Botrule" valign="top"> 72</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" stylecode="Botrule Toprule" valign="top">Conc:  (mcg/mL)</td>
+<td align="left" stylecode="Botrule Toprule" valign="top">1.02</td>
+<td align="left" stylecode="Botrule Toprule" valign="top">2.26</td>
+<td align="left" stylecode="Botrule Toprule" valign="top">2.67</td>
+<td align="left" stylecode="Botrule Toprule" valign="top">3.01</td>
+<td align="left" colspan="2" stylecode="Botrule Toprule" valign="top">3.16</td>
+<td align="left" stylecode="Botrule Toprule" valign="top">3.03</td>
+<td align="left" stylecode="Botrule Toprule" valign="top">2.03</td>
+<td align="left" stylecode="Botrule Toprule" valign="top">1.62</td>
+<td align="left" stylecode="Botrule Toprule" valign="top">0.95</td>
+<td align="left" stylecode="Botrule Toprule" valign="top">0.37</td>
+<td align="left" stylecode="Botrule Toprule" valign="top">0.15</td>
+</tr>
+<tr>
+<td align="center" colspan="13" stylecode="Botrule" valign="top">
+<content stylecode="bold">Average Observed Values</content>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule Toprule" valign="top">Maximum Concentration</td>
+<td align="left" colspan="7" stylecode="Botrule Toprule" valign="top">3.61 mcg/mL (± 0.9 sd)</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule Toprule" valign="top">Time of Maximum Concentration</td>
+<td align="left" colspan="7" stylecode="Botrule Toprule" valign="top">2.60 hr (± 1.10 sd)</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule Toprule" valign="top">Elimination Rate Constant</td>
+<td align="left" colspan="7" stylecode="Botrule Toprule" valign="top">0.049 per hr (± 0.030 sd)</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Toprule" valign="top">Half-Life</td>
+<td align="left" colspan="7" stylecode="Toprule" valign="top">16.33 hr (± 4.53 sd)</td>
+</tr>
+</tbody>
+</table>

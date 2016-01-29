@@ -1,0 +1,25 @@
+<table border="none" id="id_8fa34f14-a018-40fb-bc99-f7335683f5d1" width="342" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_3ef4fd89-4ca1-4b92-84b2-7827d360cefc"></caption>
+<col width="60.5%"></col>
+<col width="39.5%"></col>
+<tbody>
+<tr id="id_dc6e4580-5e80-4d38-b5ef-9650592a370a" stylecode="Toprule">
+<td align="center" valign="middle">
+<content stylecode="underline">Organism</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="underline">MIC</content>
+<content stylecode="underline">(mcg/mL</content>)</td>
+</tr>
+<tr id="id_cb0c6501-0a04-452c-9ebd-3af651ce6202">
+<td align="center" valign="middle">
+<content stylecode="italics">Neisseria gonorrhoeae</content> ATCC 49226</td>
+<td align="center" valign="middle">0.25-1</td>
+</tr>
+<tr id="id_bc0fddd9-ec34-4782-9d26-d8023761740b" stylecode="Botrule">
+<td align="center" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 29213</td>
+<td align="center" valign="middle">0.25-1</td>
+</tr>
+</tbody>
+</table>

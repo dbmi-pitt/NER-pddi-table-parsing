@@ -1,0 +1,362 @@
+<table id="_Reftable14" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 14 Drug Interactions:  Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD</caption>
+<col width="18%"></col>
+<col width="19%"></col>
+<col width="16%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="14%"></col>
+<thead>
+<tr>
+<th align="left" rowspan="2" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">Coadministered Drug</content>
+</th>
+<th align="left" rowspan="2" stylecode="Rrule Toprule " valign="top">
+<content stylecode="bold">Dose of Coadministered Drug (mg)</content>
+</th>
+<th align="left" rowspan="2" stylecode="Rrule Toprule " valign="top">
+<content stylecode="bold">N</content>
+</th>
+<th align="left" colspan="3" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">% Change of Coadministered Drug Pharmacokinetic Parameters</content>
+<footnote id="_RefID0EOGBI">
+<content stylecode="bold">Increase = ↑; Decrease = ↓; No Effect =⇔ ; NA = Not Applicable</content>
+</footnote>
+<br/>
+<content stylecode="bold"> (90% CI)</content>
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">AUC</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">C<sub>min</sub>
+</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Abacavir</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>300 once</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>8</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>↑ 12<br/> (↓ 1 to ↑ 26)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>NA</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Atazanavir<footnote id="_Reft10ftb">Reyataz Prescribing Information</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>400 once daily<br/> × 14 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>34</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 21<br/> (↓ 27 to ↓ 14)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 25<br/> (↓ 30 to ↓ 19)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 40<br/> (↓ 48 to ↓ 32)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Atazanavir<footnoteref idref="_Reft10ftb"></footnoteref>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Atazanavir/ Ritonavir<br/> 300/100 once daily<br/> × 42 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>10</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 28<br/> (↓ 50 to ↑ 5)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 25<footnote id="_Reft10ftc">In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and C<sub>min</sub> values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone.</footnote>
+<br/> (↓ 42 to ↓ 3)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 23<footnoteref idref="_Reft10ftc"></footnoteref>
+<br/> (↓ 46 to ↑ 10)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Darunavir<footnote id="_RefID0E5JBI">Prezista Prescribing Information</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Darunavir/Ritonavir 300/100 mg once daily</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↑ 16<br/> (↓ 6 to ↑ 42)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↑ 21<br/> (↓ 5 to ↑ 54)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↑ 24 <br/>	 (↓ 10 to ↑ 69)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Didanosine<footnote id="_RefID0EXKBI">Videx EC Prescribing Information.  Subjects received didanosine enteric-coated capsules.</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>250 once, simultaneously with VIREAD and a light meal<footnote id="_RefID0E2KBI">373 kcal, 8.2 g fat</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>33</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>	↓ 20<footnote id="_Reft14ff">Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions.</footnote>
+<br/>	 (↓  32 to ↓ 7) </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>⇔<sup>7</sup>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>	NA </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Emtricitabine</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>200 once daily <br/> × 7 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>17</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↑ 20<br/> (↑ 12 to ↑ 29)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Entecavir</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1 mg once daily <br/>× 10 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>28 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↑ 13<br/>(↑ 11 to ↑ 15)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Indinavir</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>800 three times daily × 7 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 11<br/> (↓ 30 to ↑ 12)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Lamivudine</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>150 twice daily<br/> × 7 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>15</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 24<br/> (↓  34 to ↓ 12)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule ">
+<paragraph>Lopinavir</paragraph>
+</td>
+<td rowspan="2" stylecode="Rrule Botrule ">
+<paragraph>Lopinavir/Ritonavir 400/100 twice daily × 14 days</paragraph>
+</td>
+<td rowspan="2" stylecode="Rrule Botrule ">
+<paragraph>24</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>⇔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Ritonavir</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule ">
+<paragraph>Saquinavir</paragraph>
+</td>
+<td rowspan="2" stylecode="Rrule Botrule ">
+<paragraph>Saquinavir/Ritonavir 1000/100 twice daily × 14 days</paragraph>
+</td>
+<td rowspan="2" stylecode="Rrule Botrule ">
+<paragraph>32</paragraph>
+</td>
+<td stylecode="Rrule ">
+<paragraph>↑ 22<br/> (↑ 6 to ↑ 41)</paragraph>
+</td>
+<td stylecode="Rrule ">
+<paragraph>↑ 29<footnote id="_Reft10ftg">Increases in AUC and C<sub>min</sub> are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered.</footnote>
+<br/> (↑ 12 to ↑ 48)</paragraph>
+</td>
+<td stylecode="Rrule ">
+<paragraph>↑ 47<footnoteref idref="_Reft10ftg"></footnoteref>
+<br/> (↑ 23 to ↑ 76)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Ritonavir</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↑ 23<br/> (↑ 3 to ↑ 46)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Tacrolimus</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.05 mg/kg twice<br/>daily × 7 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>21</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>⇔</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="Rrule Lrule Botrule ">
+<paragraph>Tipranavir<footnote id="_RefID0E3RBI">Aptivus Prescribing Information</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Tipranavir/Ritonavir 500/100 twice daily</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>22</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 17<br/> (↓ 26 to ↓ 6)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 18<br/> (↓ 25 to ↓ 9)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 21<br/> (↓ 30 to ↓ 10)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Tipranavir/Ritonavir 750/200 twice daily (23 doses)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>20</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 11<br/> (↓ 16 to ↓ 4)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 9<br/> (↓ 15 to ↓ 3)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓ 12<br/> (↓ 22 to 0)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

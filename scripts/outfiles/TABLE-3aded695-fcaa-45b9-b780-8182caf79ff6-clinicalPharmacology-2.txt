@@ -1,0 +1,49 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table III: Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths, and All-Cause Mortality in the Helsinki Heart Study, Years 0 to 8.5<footnote id="FOOT_4977">Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions.</footnote>
+</caption>
+<col width="23.9%"></col>
+<col width="18.2%"></col>
+<col width="17.0%"></col>
+<col width="20.5%"></col>
+<col width="20.5%"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule     " valign="top"> Event</td>
+<td stylecode="     Botrule     " valign="bottom"> Gemfibrozil at Study Start</td>
+<td stylecode="     Botrule     " valign="bottom"> Placebo at Study Start</td>
+<td stylecode="     Botrule     " valign="bottom"> Gemfibrozil: Placebo Hazard Ratio<footnote id="FOOT_4978">Hazard ratio for risk event in the group originally randomized to gemfibrozil compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study conditions.</footnote>
+</td>
+<td stylecode="     Botrule          Rrule     " valign="bottom"> CI Hazard Ratio<footnote id="FOOT_4979">95% confidence intervals of gemfibrozil:placebo group hazard ratio</footnote>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="bottom"> Cardiac Events<footnote id="FOOT_4980">Fatal and non-fatal myocardial infarctions plus sudden cardiac deaths over the 8.5 year period.</footnote>
+</td>
+<td stylecode="     Botrule     " valign="bottom"> 110</td>
+<td stylecode="     Botrule     " valign="bottom"> 131</td>
+<td stylecode="     Botrule     " valign="bottom"> 0.80</td>
+<td stylecode="     Botrule          Rrule     " valign="bottom"> 0.62 to 1.03</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="bottom"> Cardiac Deaths</td>
+<td stylecode="     Botrule     " valign="bottom"> 36</td>
+<td stylecode="     Botrule     " valign="bottom"> 38</td>
+<td stylecode="     Botrule     " valign="bottom"> 0.98</td>
+<td stylecode="     Botrule          Rrule     " valign="bottom"> 0.63 to 1.54</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="bottom"> Non-Cardiac Deaths</td>
+<td stylecode="     Botrule     " valign="bottom"> 65</td>
+<td stylecode="     Botrule     " valign="bottom"> 45</td>
+<td stylecode="     Botrule     " valign="bottom"> 1.40</td>
+<td stylecode="     Botrule          Rrule     " valign="bottom"> 0.95 to 2.05</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="bottom"> All-Cause Mortality</td>
+<td stylecode="     Botrule     " valign="bottom"> 101</td>
+<td stylecode="     Botrule     " valign="bottom"> 83</td>
+<td stylecode="     Botrule     " valign="bottom"> 1.20</td>
+<td stylecode="     Botrule          Rrule     " valign="bottom"> 0.90 to 1.61</td>
+</tr>
+</tbody>
+</table>

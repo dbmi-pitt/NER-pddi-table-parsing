@@ -1,0 +1,26 @@
+<table id="xfe" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="center" stylecode="Lrule">
+<content stylecode="underline">MIC ( mcg /mL)</content>
+</td>
+<td align="center" stylecode="Lrule Rrule">
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule">≤4</td>
+<td align="center" stylecode="Lrule Rrule">(S) Susceptible</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule">8</td>
+<td align="center" stylecode="Lrule Rrule">(I) Intermediate</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule">≥16</td>
+<td align="center" stylecode="Lrule Rrule">(R) Resistant</td>
+</tr>
+</tbody>
+</table>

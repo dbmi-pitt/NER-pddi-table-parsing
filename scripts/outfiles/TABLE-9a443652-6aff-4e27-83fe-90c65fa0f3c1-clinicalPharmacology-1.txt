@@ -1,0 +1,83 @@
+<table id="table2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2</caption>
+<col align="left" valign="top" width="17%"></col>
+<col align="left" valign="top" width="17%"></col>
+<col align="center" valign="top" width="33%"></col>
+<col align="center" valign="top" width="33%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Interacting Drug</th>
+<th stylecode="Rrule">Adult Doses Studied</th>
+<th stylecode="Rrule">% Increase in C<sub>max</sub> of Oral Midazolam</th>
+<th stylecode="Rrule">% Increase in AUC of Oral Midazolam</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Cimetidine</td>
+<td stylecode="Rrule">800-1200 mg up to qid in divided doses</td>
+<td stylecode="Rrule">6-138</td>
+<td stylecode="Rrule">10-102</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Diltiazem</td>
+<td stylecode="Rrule">60 mg tid</td>
+<td stylecode="Rrule">105</td>
+<td stylecode="Rrule">275</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Erythromycin</td>
+<td stylecode="Rrule">500 mg tid</td>
+<td stylecode="Rrule">170-171</td>
+<td stylecode="Rrule">281-341</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Fluconazole</td>
+<td stylecode="Rrule">200 mg qd</td>
+<td stylecode="Rrule">150</td>
+<td stylecode="Rrule">250</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Grapefruit Juice</td>
+<td stylecode="Rrule">200 mL</td>
+<td stylecode="Rrule">56</td>
+<td stylecode="Rrule">52</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Itraconazole</td>
+<td stylecode="Rrule">100-200 mg qd</td>
+<td stylecode="Rrule">80-240</td>
+<td stylecode="Rrule">240-980</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ketoconazole</td>
+<td stylecode="Rrule">400 mg qd</td>
+<td stylecode="Rrule">309</td>
+<td stylecode="Rrule">1490</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ranitidine</td>
+<td stylecode="Rrule">150 mg bid or tid; 300 mg qd</td>
+<td stylecode="Rrule">15-67</td>
+<td stylecode="Rrule">9-66</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Roxithromycin</td>
+<td stylecode="Rrule">300 mg qd</td>
+<td stylecode="Rrule">37</td>
+<td stylecode="Rrule">47</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Saquinavir</td>
+<td stylecode="Rrule">1200 mg tid</td>
+<td stylecode="Rrule">235</td>
+<td stylecode="Rrule">514</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Verapamil</td>
+<td stylecode="Rrule">80 mg tid</td>
+<td stylecode="Rrule">97</td>
+<td stylecode="Rrule">192</td>
+</tr>
+</tbody>
+</table>

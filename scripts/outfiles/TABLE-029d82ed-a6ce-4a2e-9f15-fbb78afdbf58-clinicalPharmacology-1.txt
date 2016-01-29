@@ -1,0 +1,58 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="17.5%"></col>
+<col width="15.8%"></col>
+<col width="16.7%"></col>
+<col width="16.7%"></col>
+<col width="16.7%"></col>
+<col width="16.7%"></col>
+<tbody>
+<tr>
+<td align="justify" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Age Studied</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> Dose (mg/kg)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> Clearance (mL/min/kg)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> Half-life (Hours)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> C<sub>max </sub>(μg/mL)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> <paragraph>V dss</paragraph>(L/kg)</td>
+</tr>
+<tr>
+<td align="justify" stylecode="     Botrule         Lrule          Rrule     " valign="top"> 9 Months-13 years</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> Single-Oral 2 mg/kg</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.40 (38%) N=14</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 25.0</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 2.9 (22%) N=16</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> ------</td>
+</tr>
+<tr>
+<td align="justify" stylecode="     Botrule         Lrule          Rrule     " valign="top"> 9 Months-13 years</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> Single-Oral 8 mg/kg</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.51 (60%) N=15</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 19.5</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 9.8 (20%) N=15</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> ------</td>
+</tr>
+<tr>
+<td align="justify" stylecode="     Botrule         Lrule          Rrule     " valign="top"> 5-15 years</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> Multiple IV 2 mg/kg</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.49 (40%) N=4</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 17.4</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 5.5 (25%) N=5</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.722 (36%) N=4</td>
+</tr>
+<tr>
+<td align="justify" stylecode="     Botrule         Lrule          Rrule     " valign="top"> 5-15 years</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> Multiple IV 4 mg/kg</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.59 (64%) N=5</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 15.2</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 11.4 (44%) N=6</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.729 (33%) N=5</td>
+</tr>
+<tr>
+<td align="justify" stylecode="     Botrule         Lrule          Rrule     " valign="top"> 5-15 years</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Multiple IV 8 mg/kg</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0.66 (31%) N=7</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 17.6</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 14.1 (22%) N=8</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 1.069 (37%) N=7</td>
+</tr>
+</tbody>
+</table>

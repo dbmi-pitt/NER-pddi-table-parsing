@@ -1,0 +1,82 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="47%"></col>
+<col width="46%"></col>
+<tbody>
+<tr stylecode="Toprule">
+<td stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">Drug</content>
+</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">Effect</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Phenylephrine with prior administration of monoamine oxidase inhibitors (MAOI).</paragraph>
+</td>
+<td>
+<paragraph>Cardiac pressor response potentiated. May cause acute hypertensive crisis.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Phenylephrine with tricyclic antidepressants.</paragraph>
+</td>
+<td>
+<paragraph>Pressor response increased.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Phenylephrine with ergot alkaloids.</paragraph>
+</td>
+<td>
+<paragraph>Excessive rise in blood pressure.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Phenylephrine with bronchodilator sympathomimetic agents and with epinephrine or other sympathomimetics.</paragraph>
+</td>
+<td>
+<paragraph>Tachycardia or other arrhythmias may occur.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Phenylephrine with atropine sulfate.</paragraph>
+</td>
+<td>
+<paragraph>Reflex bradycardia blocked; pressor response enhanced.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Phenylephrine with prior administration of propranolol or other ß-adrenergic blockers.</paragraph>
+</td>
+<td>
+<paragraph>Cardiostimulating effects blocked.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Phenylephrine with prior administration of phentolamine or other α-adrenergic blockers.</paragraph>
+</td>
+<td>
+<paragraph>Pressor response decreased.</paragraph>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<paragraph>Phenylephrine with diet preparations, such as amphetamines or phenylpropanolamine.</paragraph>
+</td>
+<td>
+<paragraph>Synergistic adrenergic response.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

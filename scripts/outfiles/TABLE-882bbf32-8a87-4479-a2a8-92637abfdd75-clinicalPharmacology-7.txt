@@ -1,0 +1,27 @@
+<table border="1" id="inv-81c29b2f-1cf9-472e-92d8-fdef72953b7e" width="291" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_1f92278c-2268-4edf-abf2-8113c91ef3ea">For testing Staphylococcus spp.</caption>
+<col width="52.9%"></col>
+<col width="47.1%"></col>
+<tbody>
+<tr id="id_75ebaf09-0e79-44d6-a085-28fc74e1d4b4">
+<td align="center" stylecode="Toprule Botrule Lrule" valign="middle">
+<content stylecode="bold">Zone diameter (mm)</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr id="id_0212f738-7f64-4fe9-8521-a185b5959863">
+<td align="left" stylecode="Lrule" valign="middle">≥ 18</td>
+<td align="left" stylecode="Rrule" valign="middle">Susceptible (S)</td>
+</tr>
+<tr id="id_f9e2ff60-ed4f-45f1-903b-113d7a6c7985">
+<td align="left" stylecode="Lrule" valign="middle">14 to 17</td>
+<td align="left" stylecode="Rrule" valign="middle">Intermediate (I)</td>
+</tr>
+<tr id="id_5eee8e2a-fdc7-43b5-b54e-9118c72b1185">
+<td align="left" stylecode="Lrule Botrule" valign="middle">≤ 13</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

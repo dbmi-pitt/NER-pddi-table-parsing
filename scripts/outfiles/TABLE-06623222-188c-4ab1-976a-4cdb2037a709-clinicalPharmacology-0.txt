@@ -1,0 +1,236 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Pharmacokinetic <br/>Parameters <br/>(% CV) </content>
+</td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">  <content stylecode="bold">Steady State </content>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Single Dose </content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> <content stylecode="bold">Healthy</content>
+<content stylecode="bold"> male </content>
+<content stylecode="bold">adults</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Fed)</content>
+<content stylecode="bold">
+<sup>†</sup>
+</content>
+<content stylecode="bold"> </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> <content stylecode="bold">Elderly </content>
+<content stylecode="bold">males</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold"> (Fed)<sup>†</sup>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> <content stylecode="bold">Elderly</content>
+<content stylecode="bold"> females <br/>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Fed)<sup>†</sup> </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> <content stylecode="bold">Renal </content>
+<content stylecode="bold">failure <br/>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Fasted) </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> <content stylecode="bold">Hepatic</content>
+<content stylecode="bold"> insufficiency <br/>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Fasted) </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> <content stylecode="bold">7.5 mg</content>
+<content stylecode="bold">
+<sup>‡ </sup>
+</content>
+<content stylecode="bold">tablets </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> <content stylecode="bold">15 m</content>
+<content stylecode="bold">g</content>
+<content stylecode="bold"> capsules </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> <content stylecode="bold">15 mg</content>
+<content stylecode="bold"> capsules </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> <content stylecode="bold">15 m</content>
+<content stylecode="bold">g</content>
+<content stylecode="bold"> capsules </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> <content stylecode="bold">15 m</content>
+<content stylecode="bold">g </content>
+<content stylecode="bold">capsules </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">N </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">18 </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">5 </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">8 </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">12 </content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">12 </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>C<sub>max</sub>  [µg/mL]</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>1.05 (20)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>2.3 (59)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>3.2 (24)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>0.59 (36)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>0.84 (29)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>t<sub>max</sub>  [h]</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>4.9 (8)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>5 (12)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>6 (27)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>4 (65)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>10 (87)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>t<sub>½</sub>  [h]</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>20.1 (29)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>21 (34)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>24 (34)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>18 (46)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>16 (29)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>CL/f {mL/min}</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>8.8 (29)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>9.9 (76)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>5.1 (22)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>19 (43)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>11 (44)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>V<sub>z</sub>f<sup>§</sup> [L]</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>14.7(32)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>15 (42)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>10 (30)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>26 (44)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph> 14 (29)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

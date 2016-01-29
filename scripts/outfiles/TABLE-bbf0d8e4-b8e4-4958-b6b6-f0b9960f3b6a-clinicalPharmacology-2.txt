@@ -1,0 +1,40 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="50%"></col>
+<col align="left" width="25%"></col>
+<col align="left" width="25%"></col>
+<tbody>
+<tr valign="top">
+<td>
+<content stylecode="bold">Oraganism (ATTC #)</content>
+</td>
+<td>
+<content stylecode="bold">Oxacillin<br/>MIC range<br/>(mcg/mL)</content>
+</td>
+<td>
+<content stylecode="bold">Cefoxitin<br/>disk diffusion<br/>range (mm)</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus aureus</content> (29213)
+</td>
+<td>
+0.12 - 0.5
+</td>
+<td>
+Not applicable
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus aureus</content> (25923)
+</td>
+<td>
+Not applicable
+</td>
+<td>
+23 - 29
+</td>
+</tr>
+</tbody>
+</table>

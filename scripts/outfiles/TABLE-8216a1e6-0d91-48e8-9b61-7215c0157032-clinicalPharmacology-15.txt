@@ -1,0 +1,25 @@
+<table id="table_16" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Susceptibility Test Interpretive Criteria for H. pylori</caption>
+<colgroup>
+<col width="56%"></col>
+<col width="43%"></col>
+</colgroup>
+<tbody>
+<tr valign="bottom">
+<td stylecode="Toprule Botrule">
+<content stylecode="bold">Amoxicillin MIC (mcg/mL)  <sup>j,k</sup>
+</content>
+</td>
+<td stylecode="Toprule Botrule">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>&lt; 0.25</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Toprule">j  These are tentative breakpoints for the agar dilution methodology, and should not be used to interpret results obtained using alternative methods.<br/>k  There were not enough organisms with MICs &gt; 0.25 mcg/mL to determine a resistance breakpoint.</td>
+</tr>
+</tbody>
+</table>

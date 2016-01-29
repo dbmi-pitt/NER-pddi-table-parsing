@@ -1,0 +1,418 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5: Established and Other Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction</caption>
+<col width="25%"></col>
+<col width="21%"></col>
+<col width="55%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Botrule Toprule " valign="bottom">
+<content stylecode="bold">Concomitant Drug Class: Drug Name</content>
+</th>
+<th align="center" stylecode="Botrule Toprule " valign="bottom">
+<content stylecode="bold">Effect</content>
+</th>
+<th align="center" stylecode="Botrule Toprule " valign="bottom">
+<content stylecode="bold">Clinical Comment</content>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3" stylecode="Botrule" valign="top">*  The interaction between SUSTIVA and the drug was evaluated in a clinical study. All other drug interactions shown are predicted.<br/>This table is not all-inclusive.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule ">
+<paragraph>
+<content stylecode="italics">HIV antiviral agents</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Protease inhibitor:<br/> Fosamprenavir calcium</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ amprenavir</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Fosamprenavir (unboosted): Appropriate doses of the combinations with respect to safety and efficacy have not been established.<br/>Fosamprenavir/ritonavir: An additional 100 mg/day (300 mg total) of ritonavir is recommended when SUSTIVA is administered with fosamprenavir/ritonavir once daily. No change in the ritonavir dose is required when SUSTIVA is administered with fosamprenavir plus ritonavir twice daily.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Protease inhibitor:<br/> Atazanavir</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ atazanavir*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>
+<content stylecode="italics">Treatment-naive patients: </content>When coadministered with SUSTIVA, the recommended dose of atazanavir is 400 mg with ritonavir 100 mg (together once daily with food) and SUSTIVA 600 mg (once daily on an empty stomach, preferably at bedtime).<br/>
+<content stylecode="italics">Treatment-experienced patients: </content>Coadministration of SUSTIVA and atazanavir is not recommended.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Protease inhibitor:<br/> Indinavir</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ indinavir*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>The optimal dose of indinavir, when given in combination with SUSTIVA, is not known. Increasing the indinavir dose to 1000 mg every 8 hours does not compensate for the increased indinavir metabolism due to SUSTIVA. When indinavir at an increased dose (1000 mg every 8 hours) was given with SUSTIVA (600 mg once daily), the indinavir AUC and C<sub>min</sub> were decreased on average by 33-46% and 39-57%, respectively, compared to when indinavir (800 mg every 8 hours) was given alone.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Protease inhibitor:<br/> Lopinavir/ritonavir</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ lopinavir*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Dose increase of lopinavir/ritonavir is recommended for all patients. Lopinavir/ritonavir tablets should not be administered once daily in combination with SUSTIVA. See the lopinavir/ritonavir prescribing information for dose adjustments of lopinavir/ritonavir when coadministered with efavirenz in adult and pediatric patients.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Protease inhibitor:<br/> Ritonavir</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↑ ritonavir*<br/>↑ efavirenz*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>When ritonavir 500 mg q12h was coadministered with SUSTIVA 600 mg once daily, the combination was associated with a higher frequency of adverse clinical experiences (eg, dizziness, nausea, paresthesia) and laboratory abnormalities (elevated liver enzymes). Monitoring of liver enzymes is recommended when SUSTIVA is used in combination with ritonavir.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Protease inhibitor:<br/> Saquinavir</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ saquinavir*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Appropriate doses of the combination of SUSTIVA and saquinavir/ritonavir with respect to safety and efficacy have not been established.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>NNRTI:<br/> Other NNRTIs</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>↑ or ↓ efavirenz<br/>and/or NNRTI </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Combining two NNRTIs has not been shown to be beneficial. SUSTIVA should not be coadministered with other NNRTIs.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>CCR5 co-receptor antagonist:<br/> Maraviroc</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ maraviroc*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Refer to the full prescribing information for maraviroc for guidance on coadministration with efavirenz.</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Botrule ">
+<paragraph>
+<content stylecode="italics">Hepatitis C antiviral agents</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Protease inhibitor:<br/> Boceprevir</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ boceprevir*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Plasma trough concentrations of boceprevir were decreased when boceprevir was coadministered with SUSTIVA, which may result in loss of therapeutic effect. The combination should be avoided. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Protease inhibitor:<br/> Simeprevir</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ simeprevir*<br/>↔ efavirenz*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Concomitant administration of simeprevir with SUSTIVA is not recommended because it may result in loss of therapeutic effect of simeprevir. </paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Botrule ">
+<paragraph>
+<content stylecode="italics">Other agents</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Anticoagulant:<br/> Warfarin</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↑ or ↓ warfarin</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Plasma concentrations and effects potentially increased or decreased by SUSTIVA.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Anticonvulsants:<br/> Carbamazepine</paragraph>
+</td>
+<td align="center">
+<paragraph>
+<br/>↓ carbamazepine*<br/>↓ efavirenz*</paragraph>
+</td>
+<td>
+<paragraph>
+<br/>There are insufficient data to make a dose recommendation for efavirenz. Alternative anticonvulsant treatment should be used.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph> Phenytoin<br/> Phenobarbital</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>↓ anticonvulsant<br/>↓ efavirenz</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Potential for reduction in anticonvulsant and/or efavirenz plasma levels; periodic monitoring of anticonvulsant plasma levels should be conducted.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Antidepressants:<br/> Bupropion</paragraph>
+</td>
+<td align="center">
+<paragraph>
+<br/>↓ bupropion*</paragraph>
+</td>
+<td>
+<paragraph>
+<br/>The effect of efavirenz on bupropion exposure is thought to be due to the induction of bupropion metabolism. Increases in bupropion dosage should be guided by clinical response, but the maximum recommended dose of bupropion should not be exceeded.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph> Sertraline</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>↓ sertraline*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Increases in sertraline dosage should be guided by clinical response.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Antifungals:<br/> Voriconazole</paragraph>
+</td>
+<td align="center">
+<paragraph>
+<br/>↓ voriconazole*<br/>↑ efavirenz*</paragraph>
+</td>
+<td>
+<paragraph>
+<br/>SUSTIVA and voriconazole should not be coadministered at standard doses. Efavirenz significantly decreases voriconazole plasma concentrations, and coadministration may decrease the therapeutic effectiveness of voriconazole. Also, voriconazole significantly increases efavirenz plasma concentrations, which may increase the risk of SUSTIVA-associated side effects. When voriconazole is coadministered with SUSTIVA, voriconazole maintenance dose should be increased to 400 mg every 12 hours and SUSTIVA dose should be decreased to 300 mg once daily using the capsule formulation. SUSTIVA tablets must not be broken. [<content stylecode="italics">See <linkhtml href="#Section_2.1">Dosage and Administration (2.1)</linkhtml>
+</content> and <content stylecode="italics">
+<linkhtml href="#Section_12.3">Clinical Pharmacology (12.3, Tables 7 and 8)</linkhtml>
+</content>.]</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<br/> Itraconazole</paragraph>
+</td>
+<td align="center">
+<paragraph>
+<br/>↓ itraconazole*<br/>↓ hydroxyitraconazole*</paragraph>
+</td>
+<td>
+<paragraph>
+<br/>Since no dose recommendation for itraconazole can be made, alternative antifungal treatment should be considered.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> Ketoconazole</paragraph>
+</td>
+<td align="center">
+<paragraph>↓ ketoconazole</paragraph>
+</td>
+<td>
+<paragraph>Drug interaction studies with SUSTIVA and ketoconazole have not been conducted. SUSTIVA has the potential to decrease plasma concentrations of ketoconazole.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph> Posaconazole</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>↓ posaconazole*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Avoid concomitant use unless the benefit outweighs the risks. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Anti-infective:<br/> Clarithromycin</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ clarithromycin*<br/>↑ 14-OH metabolite*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Plasma concentrations decreased by SUSTIVA; clinical significance unknown. In uninfected volunteers, 46% developed rash while receiving SUSTIVA and clarithromycin. No dose adjustment of SUSTIVA is recommended when given with clarithromycin. Alternatives to clarithromycin, such as azithromycin, should be considered (see <content stylecode="italics">
+<linkhtml href="#Section_7.1.1">Other Drugs</linkhtml>
+</content>, following table). Other macrolide antibiotics, such as erythromycin, have not been studied in combination with SUSTIVA.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Antimycobacterials:<br/> Rifabutin</paragraph>
+</td>
+<td align="center">
+<paragraph>
+<br/>↓ rifabutin*</paragraph>
+</td>
+<td>
+<paragraph>Increase daily dose of rifabutin by 50%. Consider doubling the rifabutin dose in regimens where rifabutin is given 2 or 3 times a week.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph> Rifampin</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>↓ efavirenz*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>If SUSTIVA is coadministered with rifampin to patients weighing 50 kg or more, an increase in the dose of SUSTIVA to 800 mg once daily is recommended.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Antimalarials:<br/> Artemether/lumefantrine</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ artemether*<sup></sup>
+<br/>↓ dihydroartemisinin*</paragraph>
+<paragraph>↓ lumefantrine*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Artemether/lumefantrine should be used cautiously with efavirenz because decreased artemether, dihydroartemisinin (active metabolite of artemether), and/or lumefantrine concentrations may result in a decrease of antimalarial efficacy of artemether/lumefantrine.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Calcium channel blockers:<br/> Diltiazem</paragraph>
+</td>
+<td align="center">
+<paragraph>
+<br/>↓ diltiazem*<br/>↓ desacetyl diltiazem*<br/>↓ N-monodesmethyl diltiazem*</paragraph>
+</td>
+<td>
+<paragraph>Diltiazem dose adjustments should be guided by clinical response (refer to the full prescribing information for diltiazem). No dose adjustment of efavirenz is necessary when administered with diltiazem.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Others (eg, felodipine, nicardipine, nifedipine, verapamil)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ calcium channel blocker</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>No data are available on the potential interactions of efavirenz with other calcium channel blockers that are substrates of CYP3A. The potential exists for reduction in plasma concentrations of the calcium channel blocker. Dose adjustments should be guided by clinical response (refer to the full prescribing information for the calcium channel blocker).</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>HMG-CoA reductase inhibitors:<br/>  Atorvastatin <br/>  Pravastatin<br/>  Simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>
+<br/>↓ atorvastatin*<br/>↓ pravastatin*<br/>↓ simvastatin*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Plasma concentrations of atorvastatin, pravastatin, and simvastatin decreased. Consult the full prescribing information for the HMG-CoA reductase inhibitor for guidance on individualizing the dose.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Hormonal contraceptives: <br/>Oral<br/> Ethinyl estradiol/<br/> Norgestimate</paragraph>
+</td>
+<td align="center">
+<paragraph>
+<br/>↓ active metabolites<br/>of norgestimate*</paragraph>
+</td>
+<td>
+<paragraph>
+<br/>A reliable method of barrier contraception should be used in addition to hormonal contraceptives. Efavirenz had no effect on ethinyl estradiol concentrations, but progestin levels (norelgestromin and levonorgestrel) were markedly decreased. No effect of ethinyl estradiol/norgestimate on efavirenz plasma concentrations was observed. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Implant<br/> Etonogestrel</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ etonogestrel</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>
+<br/>A reliable method of barrier contraception should be used in addition to hormonal contraceptives. The interaction between etonogestrel and efavirenz has not been studied. Decreased exposure of etonogestrel may be expected. There have been postmarketing reports of contraceptive failure with etonogestrel in efavirenz-exposed patients. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Immunosuppressants: <br/>Cyclosporine, tacrolimus, sirolimus, and others metabolized by CYP3A</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ immunosuppressant </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Decreased exposure of the immunosuppressant may be expected due to CYP3A induction. These immunosuppressants are not anticipated to affect exposure of efavirenz. Dose adjustments of the immunosuppressant may be required. Close monitoring of immunosuppressant concentrations for at least 2 weeks (until stable concentrations are reached) is recommended when starting or stopping treatment with efavirenz. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Narcotic analgesic:<br/> Methadone</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<br/>↓ methadone*</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Coadministration in HIV-infected individuals with a history of injection drug use resulted in decreased plasma levels of methadone and signs of opiate withdrawal. Methadone dose was increased by a mean of 22% to alleviate withdrawal symptoms.  Patients should be monitored for signs of withdrawal and their methadone dose increased as required to alleviate withdrawal symptoms.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

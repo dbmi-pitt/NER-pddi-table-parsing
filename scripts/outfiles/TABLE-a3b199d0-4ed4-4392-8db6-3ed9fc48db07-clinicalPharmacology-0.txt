@@ -1,0 +1,295 @@
+<table id="ie0a234ad-a18e-4b6b-8820-4e3f74f82550" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10: Mean ±SD Levofloxacin PK Parameters</caption>
+<col align="left" valign="top" width="23%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Lrule Toprule" valign="bottom">Regimen</th>
+<th stylecode="Lrule Toprule">C<sub>max</sub>
+</th>
+<th stylecode="Lrule Toprule">T<sub>max</sub>
+</th>
+<th stylecode="Lrule Toprule">AUC</th>
+<th stylecode="Lrule Toprule">CL/F<sup>1</sup>
+</th>
+<th stylecode="Lrule Toprule">Vd/F<sup>2</sup>
+</th>
+<th stylecode="Lrule Toprule">t<sub>1/2</sub>
+</th>
+<th stylecode="Lrule Rrule">CL<sub>R</sub>
+</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Lrule">(mcg/mL)</th>
+<th stylecode="Lrule">(h)</th>
+<th stylecode="Lrule">(mcg∙h/mL)</th>
+<th stylecode="Lrule">(mL/min)</th>
+<th stylecode="Lrule">(L)</th>
+<th stylecode="Lrule">(h)</th>
+<th stylecode="Lrule Rrule">(mL/min)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="8">
+<sup>1</sup> clearance/bioavailability<br/>
+<sup>2</sup> volume of distribution/bioavailability<br/>
+<sup>3</sup> healthy males 18–53 years of age<br/>
+<sup>4</sup> 60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose<br/>
+<sup>5</sup> healthy male and female subjects 18–54 years of age<br/>
+<sup>6</sup> 500 mg every 48h for patients with moderate renal impairment (CLCR 20–50 mL/min) and infections of the respiratory tract or skin<br/>
+<sup>7</sup> dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling<br/>
+<sup>8</sup> healthy males 22–75 years of age<br/>
+<sup>9</sup> healthy females 18–80 years of age<br/>
+<sup>10</sup> young healthy male and female subjects 18–36 years of age<br/>
+<sup>11</sup> healthy elderly male and female subjects 66–80 years of age<br/>
+<sup>12</sup> healthy males and females 19–55 years of age.<br/>*Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet;<br/>ND=not determined.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="8" stylecode="Lrule Rrule">
+<content stylecode="bold">Single dose</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">250 mg oral tablet<sup>3</sup>
+</td>
+<td stylecode="Lrule">2.8 ± 0.4</td>
+<td stylecode="Lrule">1.6 ± 1.0</td>
+<td stylecode="Lrule">27.2 ± 3.9</td>
+<td stylecode="Lrule">156 ± 20</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">7.3 ± 0.9</td>
+<td stylecode="Lrule Rrule">142 ± 21</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">500 mg oral tablet<sup>3</sup>*</td>
+<td stylecode="Lrule">5.1 ± 0.8</td>
+<td stylecode="Lrule">1.3 ± 0.6</td>
+<td stylecode="Lrule">47.9 ± 6.8</td>
+<td stylecode="Lrule">178 ± 28</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">6.3 ± 0.6</td>
+<td stylecode="Lrule Rrule">103 ± 30</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">500 mg oral solution<sup>12</sup>
+</td>
+<td stylecode="Lrule">5.8 ± 1.8</td>
+<td stylecode="Lrule">0.8 ± 0.7</td>
+<td stylecode="Lrule">47.8 ± 10.8</td>
+<td stylecode="Lrule">183 ± 40</td>
+<td stylecode="Lrule">112 ± 37.2</td>
+<td stylecode="Lrule">7.0 ± 1.4</td>
+<td stylecode="Lrule Rrule">ND</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">500 mg IV<sup>3</sup>
+</td>
+<td stylecode="Lrule">6.2 ± 1.0</td>
+<td stylecode="Lrule">1.0 ± 0.1</td>
+<td stylecode="Lrule">48.3 ± 5.4</td>
+<td stylecode="Lrule">175 ± 20</td>
+<td stylecode="Lrule">90 ± 11</td>
+<td stylecode="Lrule">6.4 ± 0.7</td>
+<td stylecode="Lrule Rrule">112 ± 25</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">750 mg oral tablet<sup>5</sup>*
+											</td>
+<td stylecode="Lrule">9.3 ± 1.6</td>
+<td stylecode="Lrule">1.6 ± 0.8</td>
+<td stylecode="Lrule">101 ± 20</td>
+<td stylecode="Lrule">129 ± 24</td>
+<td stylecode="Lrule">83 ± 17</td>
+<td stylecode="Lrule">7.5 ± 0.9</td>
+<td stylecode="Lrule Rrule">ND</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">750 mg IV<sup>5</sup>
+</td>
+<td stylecode="Lrule">11.5 ±4.0<sup>4</sup>
+</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">110 ±40</td>
+<td stylecode="Lrule">126 ±39</td>
+<td stylecode="Lrule">75 ± 13</td>
+<td stylecode="Lrule">7.5 ± 1.6</td>
+<td stylecode="Lrule Rrule">ND</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="8" stylecode="Lrule Rrule">
+<content stylecode="bold">Multiple dose</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">500 mg every 24h oral tablet<sup>3</sup>
+</td>
+<td stylecode="Lrule">5.7 ± 1.4</td>
+<td stylecode="Lrule">1.1 ± 0.4</td>
+<td stylecode="Lrule">47.5 ± 6.7</td>
+<td stylecode="Lrule">175 ± 25</td>
+<td stylecode="Lrule">102 ± 22</td>
+<td stylecode="Lrule">7.6 ± 1.6</td>
+<td stylecode="Lrule Rrule">116 ± 31</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">500 mg every 24h IV<sup>3</sup>
+</td>
+<td stylecode="Lrule">6.4 ± 0.8</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">54.6 ± 11.1</td>
+<td stylecode="Lrule">158 ± 29</td>
+<td stylecode="Lrule">91 ± 12</td>
+<td stylecode="Lrule">7.0 ± 0.8</td>
+<td stylecode="Lrule Rrule">99 ± 28</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">500 mg or 250 mg every 24h IV, patients with bacterial infection<sup>6</sup>
+</td>
+<td stylecode="Lrule" valign="middle">8.7± 4.0<sup>7</sup>
+</td>
+<td stylecode="Lrule" valign="middle">ND</td>
+<td stylecode="Lrule" valign="middle">72.5 ± 51.2<sup>7</sup>
+</td>
+<td stylecode="Lrule" valign="middle">154 ± 72</td>
+<td stylecode="Lrule" valign="middle">111 ± 58</td>
+<td stylecode="Lrule" valign="middle">ND</td>
+<td stylecode="Lrule Rrule" valign="middle">ND</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">750 mg every 24h oral tablet<sup>5</sup>
+</td>
+<td stylecode="Lrule">8.6 ± 1.9</td>
+<td stylecode="Lrule">1.4 ± 0.5</td>
+<td stylecode="Lrule">90.7 ± 17.6</td>
+<td stylecode="Lrule">143 ± 29</td>
+<td stylecode="Lrule">100 ± 16</td>
+<td stylecode="Lrule">8.8 ± 1.5</td>
+<td stylecode="Lrule Rrule">116 ± 28</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">750 mg every 24h IV<sup>5</sup>
+</td>
+<td stylecode="Lrule">12.1 ± 4.1<sup>4</sup>
+</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">108 ± 34</td>
+<td stylecode="Lrule">126 ± 37</td>
+<td stylecode="Lrule">80 ± 27</td>
+<td stylecode="Lrule">7.9 ± 1.9</td>
+<td stylecode="Lrule Rrule">ND</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="8" stylecode="Lrule Rrule">
+<content stylecode="bold">500 mg oral tablet single dose, effects of gender and age:</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Male<sup>8</sup>
+</td>
+<td stylecode="Lrule">5.5 ± 1.1</td>
+<td stylecode="Lrule">1.2 ± 0.4</td>
+<td stylecode="Lrule">54.4 ± 18.9</td>
+<td stylecode="Lrule">166 ± 44</td>
+<td stylecode="Lrule">89 ± 13</td>
+<td stylecode="Lrule">7.5 ± 2.1</td>
+<td stylecode="Lrule Rrule">126 ± 38</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Female<sup>9</sup>
+</td>
+<td stylecode="Lrule">7.0 ± 1.6</td>
+<td stylecode="Lrule">1.7 ± 0.5</td>
+<td stylecode="Lrule">67.7 ± 24.2</td>
+<td stylecode="Lrule">136 ± 44</td>
+<td stylecode="Lrule">62 ± 16</td>
+<td stylecode="Lrule">6.1 ± 0.8</td>
+<td stylecode="Lrule Rrule">106 ± 40</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Young<sup>10</sup>
+</td>
+<td stylecode="Lrule">5.5 ± 1.0</td>
+<td stylecode="Lrule">1.5 ± 0.6</td>
+<td stylecode="Lrule">47.5 ± 9.8</td>
+<td stylecode="Lrule">182 ± 35</td>
+<td stylecode="Lrule">83 ± 18</td>
+<td stylecode="Lrule">6.0 ± 0.9</td>
+<td stylecode="Lrule Rrule">140 ± 33</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Elderly<sup>11</sup>
+</td>
+<td stylecode="Lrule">7.0 ± 1.6</td>
+<td stylecode="Lrule">1.4 ± 0.5</td>
+<td stylecode="Lrule">74.7 ± 23.3</td>
+<td stylecode="Lrule">121 ± 33</td>
+<td stylecode="Lrule">67 ± 19</td>
+<td stylecode="Lrule">7.6 ± 2.0</td>
+<td stylecode="Lrule Rrule">91 ± 29</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="8" stylecode="Lrule Rrule">
+<content stylecode="bold">500 mg oral single dose tablet, patients with renal insufficiency:</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">CLCR 50–80 mL/min</td>
+<td stylecode="Lrule">7.5 ± 1.8</td>
+<td stylecode="Lrule">1.5 ± 0.5</td>
+<td stylecode="Lrule">95.6 ± 11.8</td>
+<td stylecode="Lrule">88 ± 10</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">9.1 ± 0.9</td>
+<td stylecode="Lrule Rrule">57 ± 8</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">CLCR 20–49 mL/min</td>
+<td stylecode="Lrule">7.1 ± 3.1</td>
+<td stylecode="Lrule">2.1 ± 1.3</td>
+<td stylecode="Lrule">182.1 ± 62.6</td>
+<td stylecode="Lrule">51 ± 19</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">27 ± 10</td>
+<td stylecode="Lrule Rrule">26 ± 13</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">CLCR &lt;20 mL/min</td>
+<td stylecode="Lrule">8.2 ± 2.6</td>
+<td stylecode="Lrule">1.1 ± 1.0</td>
+<td stylecode="Lrule">263.5 ± 72.5</td>
+<td stylecode="Lrule">33 ± 8</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">35 ± 5</td>
+<td stylecode="Lrule Rrule">13 ± 3</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Hemodialysis</td>
+<td stylecode="Lrule">5.7 ± 1.0</td>
+<td stylecode="Lrule">2.8 ± 2.2</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">76 ± 42</td>
+<td stylecode="Lrule Rrule">ND</td>
+</tr>
+<tr>
+<td stylecode="Lrule">CAPD</td>
+<td stylecode="Lrule">6.9 ± 2.3</td>
+<td stylecode="Lrule">1.4 ± 1.1</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">ND</td>
+<td stylecode="Lrule">51 ± 24</td>
+<td stylecode="Lrule Rrule">ND</td>
+</tr>
+</tbody>
+</table>

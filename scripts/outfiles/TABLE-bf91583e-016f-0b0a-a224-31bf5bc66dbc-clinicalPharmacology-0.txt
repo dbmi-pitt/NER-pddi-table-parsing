@@ -1,0 +1,77 @@
+<table border="0" cellpadding="0" cellspacing="0" width="60%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tfoot>
+<tr>
+<td colspan="2">
+                    a : dosed preprandially with three meals<br/>CL = total body clearance<br/>V<sub>ss</sub> = volume of distribution at steady state <br/>AbsBio = absolute bioavailability
+                  </td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Parameter</content>
+</td>
+<td stylecode="Rrule" valign="top">
+<content stylecode="bold">
+                      Patients with type 2 diabetes<sup>a</sup>
+</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+                    Dose<br/>0.5 mg<br/>1 mg<br/>2 mg<br/>4 mg
+                  </td>
+<td stylecode="Rrule" valign="top">
+                    AUC<sub>0-24 hr</sub> Mean ± SD (ng/mL<sup>*</sup>hr):<br/>68.9 ± 154.4<br/>125.8 ± 129.8<br/>152.4 ± 89.6<br/>447.4 ± 211.3
+                  </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+                    Dose<br/>0.5 mg<br/>1 mg<br/>2 mg<br/>4 mg
+                  </td>
+<td stylecode="Rrule" valign="top">
+                    C<sub>max 0-5 hr</sub> Mean ± SD (ng/mL):<br/>9.8 ± 10.2<br/>18.3 ± 9.1<br/>26.0 ± 13.0<br/>65.8 ± 30.1
+                  </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+                    Dose<br/>0.5-4 mg
+                  </td>
+<td stylecode="Rrule" valign="top">
+                    T<sub>max 0-5 hr</sub> Means (SD)<br/>1.0 - 1.4 (0.3 - 0.5) hr
+                  </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+                    Dose<br/>0.5-4 mg
+                  </td>
+<td stylecode="Rrule" valign="top">
+                    T<sub>1/2</sub> Means (Ind Range)<br/>1.0 - 1.4 (0.4 - 8.0) hr
+                  </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+                    Parameter<br/>
+</td>
+<td stylecode="Rrule" valign="top">Healthy Subjects</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+                    CL based on i.v.<br/>
+</td>
+<td stylecode="Rrule" valign="top">38 ± 16 L/hr</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+                    V<sub>ss</sub> based on i.v.<br/>
+</td>
+<td stylecode="Rrule" valign="top">31 ± 12 L</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">
+                    AbsBio<br/>
+</td>
+<td stylecode="Rrule" valign="top">56 ± 9%</td>
+</tr>
+</tbody>
+</table>

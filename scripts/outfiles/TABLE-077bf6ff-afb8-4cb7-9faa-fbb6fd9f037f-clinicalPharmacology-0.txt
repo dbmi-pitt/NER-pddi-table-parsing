@@ -1,0 +1,106 @@
+<table id="id_308725d6-3026-4886-8e9b-14376cc1b2e4" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_fa776fcf-c750-4242-b74f-45dffbf87a2e">TABLE I: TABLE OF PHARMACOKINETIC PARAMETERS OF YAZ (DRSP 3 mg and EE 0.02 mg)</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_e2816209-8ab3-4ef1-890c-569a3bdb6ad6">
+<td align="center" colspan="6" stylecode="Botrule" valign="top">DRSP</td>
+</tr>
+<tr id="id_6515a49b-baff-4063-8ed8-7ff358cc4bc4">
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Cycle / Day</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">No. of Subjects</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">C<sub>max</sub>
+<footnote id="id-69313570-491f-4d69-b096-0a3d3884a53f">geometric mean (geometric coefficient of variation)</footnote>
+<br/>(ng/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">T<sub>max</sub>
+<footnote id="id-6215c98b-e336-4655-b432-400c01b7b9d2">median (range)</footnote>
+<br/>(h)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">AUC(0–24h)<footnoteref idref="id-69313570-491f-4d69-b096-0a3d3884a53f"></footnoteref>
+<br/>(ng•h/mL) </content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">t<sub>1/2</sub>
+<footnoteref idref="id-69313570-491f-4d69-b096-0a3d3884a53f"></footnoteref>
+<br/>(h)</content>
+</td>
+</tr>
+<tr id="id_f35c3139-5f2d-438e-a2dc-88c7e612a9a7">
+<td align="center" stylecode="Botrule Rrule" valign="top">1/1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">23</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">38.4 (25)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.5 (1–2)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">268 (19)</td>
+<td align="center" stylecode="Botrule" valign="top">NA<footnote id="id-1acf483c-41c6-4433-9761-a43ba33ca350">NA = Not available</footnote>
+</td>
+</tr>
+<tr id="id_3302dfb2-c3b5-4ad9-88ae-f61a4987aa1d">
+<td align="center" stylecode="Botrule Rrule" valign="top">1/21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">23</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">70.3 (15)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.5 (1–2)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">763 (17)</td>
+<td align="center" stylecode="Botrule" valign="top">30.8 (22)</td>
+</tr>
+<tr id="id_afb66300-9b7c-465a-8fce-4bccdd6d89ef">
+<td align="center" colspan="6" stylecode="Botrule" valign="top">EE</td>
+</tr>
+<tr id="id_60b20fb5-be73-42eb-8a2f-1026b2276053">
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Cycle / Day</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">No. of Subjects</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">C<sub>max</sub>
+<footnoteref idref="id-69313570-491f-4d69-b096-0a3d3884a53f"></footnoteref>
+<br/>(pg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">T<sub>max</sub>
+<footnoteref idref="id-6215c98b-e336-4655-b432-400c01b7b9d2"></footnoteref>
+<br/>(h)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">AUC(0–24h)<footnoteref idref="id-69313570-491f-4d69-b096-0a3d3884a53f"></footnoteref>
+<br/>(pg•h/mL) </content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">t<sub>1/2</sub>
+<footnoteref idref="id-69313570-491f-4d69-b096-0a3d3884a53f"></footnoteref>
+<br/>(h)</content>
+</td>
+</tr>
+<tr id="id_03e6aca0-e6fc-444b-a379-5f93f2a5f650">
+<td align="center" stylecode="Botrule Rrule" valign="top">1/1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">23</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">32.8 (45)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.5 (1–2)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">108 (52)</td>
+<td align="center" stylecode="Botrule" valign="top">NA<footnoteref idref="id-1acf483c-41c6-4433-9761-a43ba33ca350"></footnoteref>
+</td>
+</tr>
+<tr id="id_dff37036-0978-4f87-9fef-6a45d8263d4c">
+<td align="center" stylecode="Botrule Rrule" valign="top">1/21</td>
+<td align="center" stylecode="Rrule" valign="top">23</td>
+<td align="center" stylecode="Rrule" valign="top">45.1 (35)</td>
+<td align="center" stylecode="Rrule" valign="top">1.5 (1–2)</td>
+<td align="center" stylecode="Rrule" valign="top">220 (57)</td>
+<td align="center" stylecode="Botrule" valign="top">NA<footnoteref idref="id-1acf483c-41c6-4433-9761-a43ba33ca350"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

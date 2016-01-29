@@ -1,0 +1,44 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5 Mean Pharmacokinetic Parameters of Penciclovir in Healthy Adult Subjects<footnote>Based on pharmacokinetic data from 17 studies</footnote>
+</caption>
+<col width="20"></col>
+<col width="20"></col>
+<col width="20"></col>
+<col width="20"></col>
+<tbody>
+<tr>
+<th align="center" stylecode="Toprule" valign="bottom">Dose</th>
+<th align="center" stylecode="Toprule" valign="bottom">AUC (0-inf) (mcg hr/mL)<footnote>AUC (0-inf) (mcg hr/mL)=area under the plasma concentration-time profile extrapolated to infinity.</footnote>
+</th>
+<th align="center" stylecode="Toprule" valign="bottom">C<sub>max</sub>(mcg/mL) <footnote>C<sub>max</sub> (mcg/mL)=maximum observed plasma concentration.</footnote>
+</th>
+<th align="center" stylecode="Toprule" valign="bottom">t<sub>max</sub>
+<footnote>
+<sub>tmax</sub> (h)= time to C<sub>max</sub>. </footnote>(h)</th>
+</tr>
+<tr>
+<td align="center" stylecode="Toprule">125 mg</td>
+<td align="center" stylecode="Toprule" valign="bottom">2.24</td>
+<td align="center" stylecode="Toprule" valign="bottom">0.8</td>
+<td align="center" stylecode="Toprule" valign="bottom">0.9</td>
+</tr>
+<tr>
+<td align="center">250 mg</td>
+<td align="center" valign="bottom">4.48</td>
+<td align="center" valign="bottom">1.6</td>
+<td align="center" valign="bottom">0.9</td>
+</tr>
+<tr>
+<td align="center">500 mg</td>
+<td align="center" valign="bottom">8.95</td>
+<td align="center" valign="bottom">3.3</td>
+<td align="center" valign="bottom">0.9</td>
+</tr>
+<tr>
+<td align="center">1000 mg</td>
+<td align="center" valign="bottom">17.9</td>
+<td align="center" valign="bottom">6.6</td>
+<td align="center" valign="bottom">0.9</td>
+</tr>
+</tbody>
+</table>

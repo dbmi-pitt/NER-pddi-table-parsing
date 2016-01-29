@@ -1,0 +1,62 @@
+<table width="50%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="35%"></col>
+<col width="25%"></col>
+<col width="20%"></col>
+<col width="20%"></col>
+<thead>
+<tr>
+<th stylecode="     Botrule     ">Microorganism</th>
+<th></th>
+<th colspan="2" stylecode="     Botrule     ">Zone Diameter (mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> </td>
+<td> </td>
+<td> tetracycline</td>
+<td> Doxycycline</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Escherichia coli</content>
+</td>
+<td> ATCC 25922</td>
+<td> 18-25</td>
+<td> 18-24</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Haemophilus influenzae</content>
+<footnote id="FOOT_1540">Range applicable only to tests performed by disk diffusion method using a 30-mcg tetracycline-class disk and using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>2,3</sup>
+</footnote>
+</td>
+<td> ATCC 49247</td>
+<td> 14-22</td>
+<td> ---</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Neisseria gonorrhoeae</content>
+<footnote id="FOOT_1541">Range applicable only to tests performed by disk diffusion method using a 30-mcg tetracycline-class disk and using GC agar base with 1% defined growth supplement.<sup>2,3</sup>
+</footnote>
+</td>
+<td> ATCC 49226</td>
+<td> 30-42</td>
+<td> ---</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td> ATCC 25923</td>
+<td> 24-30</td>
+<td> 23-29</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Streptococcus pneumoniae</content>
+<footnote id="FOOT_1542">Range applicable only to tests performed by disk diffusion method using a 30-mcg tetracycline-class disk and using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO<sub>2</sub>.<sup>2,3</sup>
+</footnote>
+</td>
+<td> ATCC 49619</td>
+<td> 27-31</td>
+<td> ---</td>
+</tr>
+</tbody>
+</table>

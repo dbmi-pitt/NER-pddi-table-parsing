@@ -1,0 +1,60 @@
+<table border="single" id="id_e764c494-e8f4-40a0-8201-6d9df65acb5d" width="430" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_5c1c7c15-d142-4648-9bd4-a3b1b665801b">Table 1. Pharmacokinetic Parameters for Diclofenac</caption>
+<col width="50.0%"></col>
+<col width="26.0%"></col>
+<col width="24.0%"></col>
+<tbody>
+<tr id="id_ddcd081d-99bc-41a4-b6ce-77ba05adf864">
+<td align="left" rowspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">PK Parameter</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Normal Healthy Adults (20-52 yrs.)</content>
+</td>
+</tr>
+<tr id="id_dfdac6cb-1f30-4cee-9366-284d5811d61f">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="bottom">
+<content stylecode="bold">Mean</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Coefficient of Variation (%)</content>
+</td>
+</tr>
+<tr id="id_7cfbf3a6-dcb4-4b73-ab57-c01885706050">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">Absolute Bioavailability (%) [N = 7]</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">55</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">40</td>
+</tr>
+<tr id="id_088d9d9e-1594-47dc-82ce-db0dc19e73c7">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">Tmax (hr) [N = 65]</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">1.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">76</td>
+</tr>
+<tr id="id_3c853dd0-addc-48fb-bd24-d295c294efdb">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">Oral Clearance (CL/F; mL/min) [N = 61]</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">622</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">21</td>
+</tr>
+<tr id="id_c2d4bb60-755f-4eb6-88e6-4d6f6f003e18">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">Renal Clearance (% unchanged drug in urine) [N = 7]</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>&lt;1</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>–</paragraph>
+</td>
+</tr>
+<tr id="id_bad5f942-d6db-4b5d-8645-36049c30d47a">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">Apparent Volume of Distribution (V/F; L/kg) [N = 61]</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">1.3</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">33</td>
+</tr>
+<tr id="id_1795f02a-9917-4696-a366-bd68d62fc6a7">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">Terminal Half-life (hr) [N = 48]</td>
+<td align="center" stylecode="Rrule" valign="bottom">1.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">29</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,169 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Tissue</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> I.V. Dose (gram)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Number of Samples</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Mean [mcg/mL or mcg/(g)]<footnote id="FOOT_5608">at 1 hour unless otherwise noted</footnote>  </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Range [mcg/mL or mcg/(g)]</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Endometrium</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.5 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 4.2</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1.7–10.2 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Myometrium </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 15</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 3.8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.4–8.1</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Ovary </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 2.8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.8–4.8</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Cervix </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">2 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5.4–8.5</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Fallopian tube</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">9 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.3-3.4</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Skin </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">22 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 3.3</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.5–12.6</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Interstitial fluid<footnote id="FOOT_5609">obtained from blister fluid</footnote>  </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 9</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">3.2-8.6 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Skin </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 10</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">5.3 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.3–16.7</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Interstitial fluid<footnoteref idref="FOOT_5609"></footnoteref> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1.0 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">26.3 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">20.9–37.4 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Colon </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1.0 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">2 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 2.6</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 2.5–2.7</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Bile </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 14.6 (3 h)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">4.0–25.7 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Gall bladder </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">— </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 3.9</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Peritoneal fluid</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1.0 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 9</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 30.2</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7.4–54.6</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Lung </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1.0 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 2</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 4.8 (2 h)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.4–8.2</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Bronchial mucosa </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">4.5 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.3–11.1</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Muscle</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">2 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">6.1 (2 h) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">5.3–6.9 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Fascia</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 9</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">8.8 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.5–20</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Heart valves </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 9.7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 6.4–12.1</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Myocardium</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">10 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 15.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5.2–25.5</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">CSF (inflamed) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">20 mg/kg<footnote id="FOOT_6558">in pediatric patients of age 5 months to 8 years</footnote> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.1 (2 h) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.2-2.8 </td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 40 mg/kg<footnote id="FOOT_6559">in pediatric patients of age 1 month to 15 years</footnote> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 3.3 (3 h)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.9-6.5</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">CSF (uninflamed) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">4 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.2 (2 h)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.1–0.3 </td>
+</tr>
+</tbody>
+</table>

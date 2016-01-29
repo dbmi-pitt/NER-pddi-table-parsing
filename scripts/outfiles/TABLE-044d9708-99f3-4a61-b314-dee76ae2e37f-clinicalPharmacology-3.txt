@@ -1,0 +1,138 @@
+<table id="t9" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_88e38d4f-7694-47c4-a222-1fd0157e8acc">Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir<footnote id="idaqnvpd">Subjects received VIREAD 300 mg once daily</footnote> in the Presence of the Coadministered Drug</caption>
+<col align="left" width="20%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="6%"></col>
+<col align="center" width="18%"></col>
+<col align="center" width="18%"></col>
+<col align="center" width="18%"></col>
+<thead>
+<tr id="id_3a3efbc3-fd62-4d58-9cbc-88a85be399c1" stylecode="Toprule">
+<td align="center" rowspan="2" stylecode="Lrule Botrule Rrule" valign="top">Coadministered Drug</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">Dose of Coadministered Drug (mg)</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">N</td>
+<td align="left" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">% Change of Tenofovir Pharmacokinetic Parameters<footnote id="idahpvpd">Increase = ↑; Decrease = ↓; No Effect = ⇔; NC = Not Calculated</footnote>
+<br/>(90% CI)</td>
+</tr>
+<tr id="id_fb8cadbc-6601-44a1-aca7-5728dc6c683c" stylecode="Botrule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">C<sub>max</sub>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">AUC</td>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">C<sub>min</sub>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_7b72a297-2d75-45f7-8007-519f4f33aee3" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Abacavir</td>
+<td align="left" stylecode="Rrule" valign="top">300 once</td>
+<td align="left" stylecode="Rrule" valign="top">8</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">NC</td>
+</tr>
+<tr id="id_2ab982b9-77bb-419a-a823-9ffed14e8ff1">
+<td align="left" stylecode="Lrule Rrule" valign="top">Atazanavir<footnote id="idahrvpd">Reyataz Prescribing Information</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">400 once daily × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">33</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 14<br/>(↑ 8 to ↑ 20)</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 24<br/>(↑ 21 to ↑ 28)</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 22<br/>(↑ 15 to ↑ 30)</td>
+</tr>
+<tr id="id_24d2ab98-aa39-45a3-8787-cd8881c7dd44">
+<td align="left" stylecode="Lrule Rrule" valign="top">Didanosine (enteric-coated)</td>
+<td align="left" stylecode="Rrule" valign="top">400 once</td>
+<td align="left" stylecode="Rrule" valign="top">25</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_69b7849e-5375-4478-995b-87eeb6e2a7cd">
+<td align="left" stylecode="Lrule Rrule" valign="top">Didanosine (buffered)</td>
+<td align="left" stylecode="Rrule" valign="top">250 or 400 once daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">14</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_15003b04-9e10-44ce-878e-f9fe8a895ee2">
+<td align="left" stylecode="Lrule Rrule" valign="top">Efavirenz</td>
+<td align="left" stylecode="Rrule" valign="top">600 once daily × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">29</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_60a5b5f6-ae13-4186-97e9-bf365edebccc">
+<td align="left" stylecode="Lrule Rrule" valign="top">Emtricitabine</td>
+<td align="left" stylecode="Rrule" valign="top">200 once daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">17</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_f9e1b8d9-8355-474a-87bf-f6921987cfdd">
+<td align="left" stylecode="Lrule Rrule" valign="top">Entecavir</td>
+<td align="left" stylecode="Rrule" valign="top">1 mg once daily × 10 days</td>
+<td align="left" stylecode="Rrule" valign="top">28</td>
+<td align="left" stylecode="Rrule" valign="top">
+<rendermultimedia referencedobject="id_c53028f2-be98-4cef-a20d-5da5f7b7bce1"></rendermultimedia>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<rendermultimedia referencedobject="id_8d9b7767-5e94-43a4-bcb3-9ac9a504a95d"></rendermultimedia>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<rendermultimedia referencedobject="id_095fbed3-8103-4154-b060-17b41adda9f4"></rendermultimedia>
+</td>
+</tr>
+<tr id="id_dd5a88b9-f033-4395-a15d-bdc6307b37f3">
+<td align="left" stylecode="Lrule Rrule" valign="top">Indinavir</td>
+<td align="left" stylecode="Rrule" valign="top">800 three times daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">13</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 14<br/>(↓ 3 to ↑ 33)</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_71f989e8-494d-4d8b-84f2-a5f31e222556">
+<td align="left" stylecode="Lrule Rrule" valign="top">Lamivudine</td>
+<td align="left" stylecode="Rrule" valign="top">150 twice daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">15</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_f5bc1f6c-fd8b-4e9c-ab7b-a1bac8667775">
+<td align="left" stylecode="Lrule Rrule" valign="top">Lopinavir/ Ritonavir</td>
+<td align="left" stylecode="Rrule" valign="top">400/100 twice daily × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">24</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 32<br/>(↑ 25 to ↑ 38)</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 51<br/>(↑ 37 to ↑ 66)</td>
+</tr>
+<tr id="id_36484054-ad1b-406a-9a3d-8406169fd5ba">
+<td align="left" stylecode="Lrule Rrule" valign="top">Nelfinavir</td>
+<td align="left" stylecode="Rrule" valign="top">1250 twice daily × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">29</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_bf6e457f-fb68-4542-ad58-1c6b925e40e4">
+<td align="left" stylecode="Lrule Rrule" valign="top">Saquinavir/ Ritonavir</td>
+<td align="left" stylecode="Rrule" valign="top">1000/100 twice daily × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">35</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 23<br/>(↑ 16 to ↑ 30)</td>
+</tr>
+<tr id="id_f3bb31f5-0a2b-4d99-8400-2fdc8692f7dc" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Tacrolimus</td>
+<td align="left" stylecode="Rrule" valign="top">0.05 mg/kg twice daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">21</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 13<br/>(↑ 1 to ↑ 27)</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+</tbody>
+</table>

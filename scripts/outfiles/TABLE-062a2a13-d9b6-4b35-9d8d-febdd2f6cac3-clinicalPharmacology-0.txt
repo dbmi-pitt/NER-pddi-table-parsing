@@ -1,0 +1,108 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" colspan="6" valign="top"> <content stylecode="bold">Table 4. Summary of Mean (±SD) Pharmacokinetic Parameters in Patients<sup>a</sup> with Solid Tumors Receiving Intravenous Epirubicin Hydrochloride 60 to 150 mg/m<sup>2</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">Dose <sup>b</sup>
+<br/>
+</content>
+<content stylecode="bold">(mg/m<sup>2</sup>)</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">C<sub>max</sub>
+<sup>c</sup>
+<br/>
+</content>
+<content stylecode="bold">(mcg/mL)</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">AUC <sup>d</sup>
+<br/>
+</content>
+<content stylecode="bold">(mcg<sup>.</sup>h/mL)</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">t <sub>1/2</sub>
+<sup>e</sup>
+<br/>
+</content>
+<content stylecode="bold">(hours)</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">CL <sup>f</sup>
+<br/>
+</content>
+<content stylecode="bold">(L/hour)</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">Vss <sup>g</sup>
+<br/>
+</content>
+<content stylecode="bold">(L/kg)</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 60</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5.7± 1.6</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.6 ± 0.2</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 35.3± 9</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 65 ± 8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 21 ± 2</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 75</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5.3± 1.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.7 ± 0.3</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 32.1± 5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 83 ± 14</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 27 ± 11</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 120</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 9± 3.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 3.4 ± 0.7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 33.7± 4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 65 ± 13</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 23 ± 7</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 150</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 9.3± 2.9</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 4.2 ± 0.8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 31.1± 6</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 69 ± 13</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 21 ± 7</td>
+</tr>
+<tr>
+<td colspan="6"> <sup>a</sup> Advanced solid tumor cancers, primarily of the lung</td>
+</tr>
+<tr>
+<td colspan="6"> <sup>b</sup> N=6 patients per dose level</td>
+</tr>
+<tr>
+<td colspan="6"> <sup>c</sup> Plasma concentration at the end of 6 to 10 minute infusion</td>
+</tr>
+<tr>
+<td colspan="6"> <sup>d</sup> Area under the plasma concentration curve</td>
+</tr>
+<tr>
+<td colspan="6"> <sup>e</sup> Half-life of terminal phase</td>
+</tr>
+<tr>
+<td colspan="6"> <sup>f</sup> Plasma clearance</td>
+</tr>
+<tr>
+<td colspan="6"> <sup>g</sup> Steady-state volume of distribution</td>
+</tr>
+</tbody>
+</table>

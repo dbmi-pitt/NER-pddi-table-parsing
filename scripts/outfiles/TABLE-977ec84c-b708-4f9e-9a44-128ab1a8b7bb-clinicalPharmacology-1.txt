@@ -1,0 +1,27 @@
+<table width="50%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="55%"></col>
+<col width="45%"></col>
+<thead>
+<tr>
+<th align="center" colspan="2" stylecode="     Toprule     "> Average Observed Values    </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Toprule     ">     Maximum Concentration</td>
+<td stylecode="     Toprule     "> 3.61 mcg/mL (± 0.9 sd)</td>
+</tr>
+<tr>
+<td>     Time of Maximum Concentration</td>
+<td> 2.60 hr (± 1.10 sd)</td>
+</tr>
+<tr>
+<td>     Elimination Rate Constant</td>
+<td> 0.049 per hr (± 0.030 sd)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     ">     Half-Life</td>
+<td stylecode="     Botrule     "> 16.33 hr (± 4.53 sd)</td>
+</tr>
+</tbody>
+</table>

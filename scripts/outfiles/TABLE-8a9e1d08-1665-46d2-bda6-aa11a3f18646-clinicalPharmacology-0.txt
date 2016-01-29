@@ -1,0 +1,659 @@
+<table border="1" cellpadding="0" cellspacing="0" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="185.25pt"></col>
+<col width="117pt"></col>
+<col width="99pt"></col>
+<col width="103.45pt"></col>
+<thead>
+<tr>
+<td colspan="10">
+<paragraph>
+<content stylecode="bold">Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycline </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="bold">Bacteria<sup>*</sup>
+</content>
+</paragraph>
+</td>
+<td colspan="3" stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">Minimal Inhibitory Concentration<br/> (mcg/mL)</content>
+</paragraph>
+</td>
+<td colspan="3" stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">Zone Diameter<br/> (mm)</content>
+</paragraph>
+</td>
+<td colspan="3" stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">Agar Dilution<br/> (mcg/mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     "></td>
+<td>
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Acinetobacter spp.</content>
+</paragraph>
+<paragraph>Doxycycline</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤4</paragraph>
+<paragraph>≤4</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>8</paragraph>
+<paragraph>8</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥16</paragraph>
+<paragraph>≥16</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥13</paragraph>
+<paragraph>≥15</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>10 to 12</paragraph>
+<paragraph>12 to 14</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤9</paragraph>
+<paragraph>≤11</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>Anaerobes</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤4</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>8</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥16</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Bacillus anthracis</content>
+<linkhtml href="#lookup.cfm?setid=d6f98d3c-5a20-4cbf-9a9c-abef10b9e465#footnote-3">†</linkhtml>
+</paragraph>
+<paragraph>Doxycycline</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤1</paragraph>
+<paragraph>≤1</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Brucella</content> species<linkhtml href="#lookup.cfm?setid=d6f98d3c-5a20-4cbf-9a9c-abef10b9e465#footnote-3">†</linkhtml>
+</paragraph>
+<paragraph>Doxycycline</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤1</paragraph>
+<paragraph>≤1</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Enterobacteriaceae</content>
+</paragraph>
+<paragraph>Doxycycline</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤4</paragraph>
+<paragraph>≤4</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>8</paragraph>
+<paragraph>8</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥16</paragraph>
+<paragraph>≥16</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥14</paragraph>
+<paragraph>≥15</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>11 to 13</paragraph>
+<paragraph>12 to 14</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤10</paragraph>
+<paragraph>≤11</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Franciscella tularensis</content>
+<linkhtml href="#lookup.cfm?setid=d6f98d3c-5a20-4cbf-9a9c-abef10b9e465#footnote-3">†</linkhtml>
+</paragraph>
+<paragraph>Doxycycline</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤ 4</paragraph>
+<paragraph>≤ 4</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae</content>
+</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤2</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>4</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥8</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥29</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>26 to 28</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤25</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Mycoplasma pneumoniae</content>
+<linkhtml href="#lookup.cfm?setid=d6f98d3c-5a20-4cbf-9a9c-abef10b9e465#footnote-3">†</linkhtml>
+</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤2</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Nocardiae</content> and other aerobic </paragraph>
+<paragraph>
+<content stylecode="italics">Actinomyces</content> species<linkhtml href="#lookup.cfm?setid=d6f98d3c-5a20-4cbf-9a9c-abef10b9e465#footnote-3">†</linkhtml>
+</paragraph>
+<paragraph>Doxycycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤1</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>2 to 4</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥8</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+<linkhtml href="#lookup.cfm?setid=d6f98d3c-5a20-4cbf-9a9c-abef10b9e465#footnote-4">‡</linkhtml>
+</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥38</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>31 to 37</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤30</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤0.25</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>0.5 to 1</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥2</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</paragraph>
+<paragraph>Doxycycline</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤0.25</paragraph>
+<paragraph>≤1</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>0.5</paragraph>
+<paragraph>2</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥1</paragraph>
+<paragraph>≥4</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥ 28</paragraph>
+<paragraph>≥ 28</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>25 to 27</paragraph>
+<paragraph>25 to 27</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤ 24</paragraph>
+<paragraph>≤ 24</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Vibrio cholerae</content>
+</paragraph>
+<paragraph>Doxycycline</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤4</paragraph>
+<paragraph>≤4</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>8</paragraph>
+<paragraph>8</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥16</paragraph>
+<paragraph>≥16</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Yersinia pestis</content>
+</paragraph>
+<paragraph>Doxycycline</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤4</paragraph>
+<paragraph>≤4</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>8</paragraph>
+<paragraph>8</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥16</paragraph>
+<paragraph>≥16</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>
+<content stylecode="italics">Ureaplasma urealyticum</content>
+</paragraph>
+<paragraph>Tetracycline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≤1</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>≥2</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,51 @@
+<table border="1" frame="border" id="inv-d22917e0-058a-435a-92aa-4e704a4b1536" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-a9225161-93d2-4198-94ef-25d339a09b3c">Quality Control Ranges for MIC Broth Dilution Method</caption>
+<col width="208px"></col>
+<col width="208px"></col>
+<col width="207px"></col>
+<thead valign="bottom">
+<tr valign="bottom">
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom">Microorganism</td>
+<td stylecode="Botrule Rrule Toprule" valign="bottom"></td>
+<td stylecode="Botrule Rrule Toprule" valign="bottom">MIC (mcg/ml)</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">ATCC 25922</td>
+<td align="center" stylecode="Botrule Rrule">0.5-2</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Haemophilus influenzae<sup>a</sup>
+</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">ATCC 49247</td>
+<td align="center" stylecode="Botrule Rrule">4-32</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">Neisseria gonorrhoeae<sup>b</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule">ATCC 49226</td>
+<td align="center" stylecode="Botrule Rrule">0.25-1</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">ATCC 29213</td>
+<td align="center" stylecode="Botrule Rrule">0.12-1</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Streptococcus pneumoniae<sup>c</sup>
+</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">ATCC 49619</td>
+<td align="center" stylecode="Botrule Rrule">0.06 - 0.5</td>
+</tr>
+</tbody>
+</table>

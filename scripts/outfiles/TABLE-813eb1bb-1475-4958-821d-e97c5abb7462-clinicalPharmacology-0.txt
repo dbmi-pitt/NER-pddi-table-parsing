@@ -1,0 +1,29 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td colspan="4" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Evening Dosing </td>
+<td stylecode="     Toprule          Rrule     " valign="top"> Morning </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> 120 mg </td>
+<td stylecode="     Botrule          Rrule     " valign="top"> 240 mg </td>
+<td stylecode="     Botrule          Rrule     " valign="top"> 360 mg </td>
+<td stylecode="     Botrule          Rrule     " valign="top"> 540 mg </td>
+<td stylecode="     Botrule          Rrule     " valign="top"> Dosing 360 mg </td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> -2.0 </td>
+<td stylecode="     Botrule          Rrule     " valign="top"> -4.4 </td>
+<td stylecode="     Botrule          Rrule     " valign="top"> -4.4 </td>
+<td stylecode="     Botrule          Rrule     " valign="top"> -8.1 </td>
+<td stylecode="     Botrule          Rrule     " valign="top"> -6.4 </td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,175 @@
+<table id="_RefIDEA8EB0DEFD4B405DA31FF55F6334FCF0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8: Susceptibility Test Interpretive Criteria for Cefepime<footnote id="_RefID47AD3714C05F424A97ADD8C8256BB284">For patients with renal impairment see <linkhtml href="#_RefTABLE2">Table 2</linkhtml> in Dosage and Administration (<linkhtml href="#i4i_section_id_s2.2">2.2</linkhtml>).</footnote>
+</caption>
+<col width="18%"></col>
+<col width="18%"></col>
+<col width="14%"></col>
+<col width="12%"></col>
+<col width="12%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Botrule Lrule Toprule ">
+<paragraph>Pathogen</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Lrule Toprule ">
+<paragraph>Minimum Inhibitory Concentrations</paragraph>
+<paragraph>(mcg/mL)</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Disk Diffusion Zone Diameters</paragraph>
+<paragraph>(mm)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(S) <br/>Susceptible</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(I) <br/>Intermediate</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(R) <br/>Resistant</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(S) <br/>Susceptible</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(I) <br/>Intermediate</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>(R) </paragraph>
+<paragraph>Resistant</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Enterobacteriaceae</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≤2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>4-8<footnote id="_RefID155989167C6D4BF6A15F4683FD9E7754">For isolates of<content stylecode="italics"> Enterobacteriaceae</content> with intermediate susceptibility, use a dose of 2g every 8 hours in patients with normal renal function.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥25</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>19-24<footnoteref idref="_RefID155989167C6D4BF6A15F4683FD9E7754"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>≤18</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+<footnote id="_RefID775E25AB9BC743D3AE3FEF74B37D35F1">For <content stylecode="italics">Pseudomonas aeruginosa</content>, use 2 g IV every 8 hours in patients with normal renal function.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≤8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥18</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>≤17</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<footnote id="_RefID62C0FF4C176048F0A26EC1EEADB63031">For non-meningitis isolates, a penicillin MIC of &lt; 0.06 mcg/ml (or oxacillin zone &gt; 20mm) can predict susceptibility to cefepime.</footnote>
+</paragraph>
+<paragraph>non-meningitisisolates</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≤1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥4</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus pyogenes</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≤0.5</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥24</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>Viridans group streptococci</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≤1</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≥4</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≥24</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>22-23</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>≤21</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

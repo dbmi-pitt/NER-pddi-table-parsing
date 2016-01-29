@@ -1,0 +1,55 @@
+<table stylecode="Noautorules" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Repaglinide Tablets, USP vs. Placebo Treatment: Mean FPG, PPG, and HbA<sub>1c</sub> Changes from baseline after 3 months of treatment:</caption>
+<col align="left" valign="top" width="25%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="12%"></col>
+<thead>
+<tr stylecode="Toprule">
+<th></th>
+<th colspan="2">FPG (mg/dL)</th>
+<th colspan="2">PPG (mg/dL)</th>
+<th colspan="2">HbA<sub>1c</sub> (%)</th>
+</tr>
+<tr>
+<th></th>
+<th>PL</th>
+<th>R</th>
+<th>PL</th>
+<th>R</th>
+<th>PL</th>
+<th>R</th>
+</tr>
+</thead>
+<tfoot>
+<tr stylecode="Botrule">
+<td align="left" colspan="7">FPG = fasting plasma glucose<br/>PPG = post-prandial glucose<br/>PL = placebo (N=33)<br/>R = repaglinide (N=66)</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td>Baseline</td>
+<td>215.3</td>
+<td>220.2</td>
+<td>245.2</td>
+<td>261.7</td>
+<td>8.1</td>
+<td>8.5</td>
+</tr>
+<tr>
+<td>Change from Baseline (at last visit)</td>
+<td>30.3</td>
+<td>-31.0<footnote id="t2ft">: p &lt; 0.05 for between group difference</footnote>
+</td>
+<td>56.5</td>
+<td>-47.6<footnoteref idref="t2ft"></footnoteref>
+</td>
+<td>1.1</td>
+<td>-0.6<footnoteref idref="t2ft"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

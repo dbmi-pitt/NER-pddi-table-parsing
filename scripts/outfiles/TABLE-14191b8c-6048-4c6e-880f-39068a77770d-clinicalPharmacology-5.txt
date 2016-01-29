@@ -1,0 +1,72 @@
+<table width="99%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="33%"></col>
+<col width="33%"></col>
+<col width="33%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Quality Control Organism</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Disk Diffusion (zone diameters in mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus </content>ATCC<footnote id="_Ref424634578">ATCC = American Type Culture Collection</footnote> 25923</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Not Applicable</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>21 to 26</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus </content>ATCC 29213</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>0.5 to 2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Not Applicable</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Haemophilus Influenzae </content>ATCC 49247</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1 to 4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>13 to 21</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae </content>ATCC 49619</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>0.06 to 0.25</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>19 to 25</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

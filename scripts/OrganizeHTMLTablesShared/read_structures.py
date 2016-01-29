@@ -11,7 +11,7 @@ import ast
 
 
 # Opens text file 'table_structures.txt'
-with open('table_structures.txt', 'r') as f:
+with open('output/table_structures.txt', 'r') as f:
     dict = ast.literal_eval(f.read())
 
 # Prints each table's unique structure along with each table name

@@ -1,0 +1,69 @@
+<table id="table13" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 13: Population Pharmacokinetic Estimates of Darunavir Exposure (Study TMC114-C230, Study TMC114-C212 and Study TMC114-C228) Following Administration of Doses in Tables 2 and 3</caption>
+<col align="left" valign="bottom" width="19%"></col>
+<col align="center" valign="bottom" width="19%"></col>
+<col align="center" valign="bottom" width="24%"></col>
+<col align="center" valign="bottom" width="19%"></col>
+<col align="center" valign="bottom" width="19%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th stylecode="Lrule Rrule">Parameter</th>
+<th stylecode="Rrule">Study TMC114-C230<br/> PREZISTA/ritonavir once daily<footnote id="t13f1">Summary statistics for population pharmacokinetic parameter estimates for DRV after administration of DRV/rtv at 800/100 mg q.d. in treatment-naïve HIV-1 infected subjects from 12 to &lt;18 years of age – Week-48 Analyses</footnote>
+<br/>N=12</th>
+<th stylecode="Rrule">Study TMC114-C212<br/> PREZISTA/ritonavir twice daily<br/>N=74</th>
+<th colspan="2" stylecode="Rrule">Study TMC114-C228<br/> PREZISTA/ritonavir twice daily<footnote id="t13f2">Subjects may have contributed pharmacokinetic data to both the 10 kg to less than 15 kg weight group and the 15 kg to less than 20 kg weight group.</footnote>
+</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th stylecode="Rrule"></th>
+<th stylecode="Rrule"></th>
+<th align="center" stylecode="Rrule" valign="bottom">10 to less than 15 kg<footnote id="t13f3">Calculated from individual pharmacokinetic parameters estimated for Week 2 and Week 4, based on the Week 48 analysis that evaluated a darunavir dose of 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily.</footnote>
+<br/>N=10</th>
+<th stylecode="Rrule" valign="bottom">15 to less than 20 kg<footnote id="t13f4">The 15 kg to less than 20 kg weight group received 380 mg (3.8 mL) PREZISTA oral suspension twice daily with 48 mg (0.6 mL) ritonavir oral solution twice daily in TMC114-C228. Calculated from individual pharmacokinetic parameters estimated for Week 2 post-dose adjustment visit; Week 24 and Week 48 based on the – Week 48 analysis that evaluated a darunavir dose of 380 mg twice daily.</footnote>
+<br/>N=13</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="5">N=number of subjects with data.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="5" stylecode="Lrule Rrule">AUC<sub>24h</sub> (ng∙h/mL) <footnote id="table13b">AUC<sub>24h</sub> is calculated as AUC<sub>12h</sub>*2</footnote>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">  Mean ± Standard Deviation</td>
+<td stylecode="Rrule">84390 ± 23587</td>
+<td stylecode="Rrule">126377 ± 34356</td>
+<td stylecode="Rrule">137896 ± 51420</td>
+<td stylecode="Rrule">157760 ± 54080</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">  Median (Range)</td>
+<td stylecode="Rrule">86741<br/>(35527–123325)</td>
+<td stylecode="Rrule">127340<br/>(67054–230720)</td>
+<td stylecode="Rrule">124044<br/>(89688–261090)</td>
+<td stylecode="Rrule">132698<br/>(112310–294840)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="5" stylecode="Lrule Rrule">C<sub>0h</sub> (ng/mL)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">  Mean ± Standard Deviation</td>
+<td stylecode="Rrule">2141 ± 865</td>
+<td stylecode="Rrule">3948 ± 1363</td>
+<td stylecode="Rrule">4510 ± 2031</td>
+<td stylecode="Rrule">4848 ± 2143</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">  Median (Range)</td>
+<td stylecode="Rrule">2234<br/>(542–3776)</td>
+<td stylecode="Rrule">3888<br/>(1836–7821)</td>
+<td stylecode="Rrule">4126<br/>(2456–9361)</td>
+<td stylecode="Rrule">3927<br/>(3046–10292)</td>
+</tr>
+</tbody>
+</table>

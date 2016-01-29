@@ -1,0 +1,87 @@
+<table border="1" frame="border" id="inv-93508037-8616-4d1b-af69-422bdac53c98" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-443ad567-a8bf-41a3-98bd-83280761a326">Table 2. Acceptable Quality Control Ranges for Clindamycin to be Used in Validation of Susceptibility Test Results</caption>
+<col id="inv-d0ede172-5ee9-4a0f-a403-aa9c20d1d073" width="276.00px"></col>
+<col id="inv-fe8407cb-0bc4-4f82-b376-0a2693577f86" width="192.00px"></col>
+<col id="inv-acd2c20a-c75f-4601-9339-c33055d26293" width="168.00px"></col>
+<tbody id="inv-62704b1c-30a8-4f13-a5f9-489481407aa6">
+<tr id="inv-e835c1d8-b04c-4883-985a-977f6143bfd8">
+<td id="inv-364eb173-2809-4f0b-89f9-d970b86e3e58"></td>
+<td align="center" colspan="2" id="inv-27131be8-ce34-470d-bbfd-a8019e7985dd">
+<content stylecode="bold">Acceptable Quality Control Ranges</content>
+</td>
+</tr>
+<tr id="inv-8d5281d5-3180-4827-9711-df9e7176d6ab">
+<td align="center" id="inv-75cdfbaa-9649-4c42-862b-8516fac6dd48">
+<content stylecode="bold">QC Strain</content>
+</td>
+<td align="center" id="inv-ad80543f-73b5-4187-b458-e85b915a0f86">
+<content stylecode="bold">Minimum Inhibitory Concentration Range</content>
+<content stylecode="bold">(mcg/mL)</content>
+</td>
+<td align="center" id="inv-a7143d50-b1c6-4a66-812d-f427ff621c83">
+<content stylecode="bold">Disk Diffusion Range</content>
+<content stylecode="bold">(Zone Diameters in mm)</content>
+</td>
+</tr>
+<tr id="inv-8dc22c19-682e-4772-bfbc-f229d639872f">
+<td id="inv-57cab68d-e38e-4be9-beb2-7a9631524012">
+<content stylecode="bold">
+<content stylecode="italics">When Testing Aerobic Pathogens</content>
+</content>
+</td>
+<td align="center" id="inv-2ab9eb6a-40d1-46ae-a2d6-5a95df5f0922"></td>
+<td align="center" id="inv-d3b73b8d-fa98-48fe-b8a0-9f4063086d57"></td>
+</tr>
+<tr id="inv-8d836edf-4873-49af-9468-b718e864ae3b">
+<td id="inv-a6f8808c-6b20-4bee-8201-9cc9edccb2d2">ATCC 29213
+                                        <content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" id="inv-e3d6ee81-9acd-4285-9173-21f14a4b3fca">0.06 to 0.25</td>
+<td align="center" id="inv-643bbf49-fd4b-4e24-8961-ec93a6befad5">NA</td>
+</tr>
+<tr id="inv-566b6f4c-df96-4251-ab7e-1809cf30bbb8">
+<td id="inv-9f145ada-43c0-4787-8c40-e3d86a33c0f3">ATCC 25923
+                                        <content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" id="inv-f0fb5e71-7381-48c9-8ce6-3a7696e52666">NA</td>
+<td align="center" id="inv-e98ba265-9793-45b1-aa2a-6776798492a1">24 to 30</td>
+</tr>
+<tr id="inv-77e3a819-5bb0-476c-aa06-f30654c0bf15">
+<td id="inv-664f9ec9-0256-4668-9bd9-21574eb1f556">ATCC 49619
+                                        <content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" id="inv-40dd19a3-366d-454b-8150-bca42ac2e5d2">0.03 to 0.12</td>
+<td align="center" id="inv-43cf0a79-60a4-4384-9940-cdfdcdb9093e">19 to 25</td>
+</tr>
+<tr id="inv-25faf85e-49b3-4147-9a67-53aff69fa5ad">
+<td id="inv-d3bbc3b8-e12e-4d3d-8fae-09c883d9577c">
+<content stylecode="bold">
+<content stylecode="italics">When Testing Anaerobes</content>
+</content>
+</td>
+<td align="center" id="inv-ffdbf0bc-8f79-4d99-8e36-391ce580b0d7"></td>
+<td align="center" id="inv-48a687ea-f99a-4532-8fe1-434fff97fa24"></td>
+</tr>
+<tr id="inv-e2ccc6c7-dd77-4c94-9ecf-575b46e6d3ac">
+<td id="inv-0dfb6469-763c-4db9-a537-6160da9de0b8">ATCC 25285
+                                        <content stylecode="italics">Bacteroides fragilis</content>
+</td>
+<td align="center" id="inv-6003de35-ff7a-41fb-8aff-3e0230330a97">0.5 to 2</td>
+<td align="center" id="inv-2714f489-8192-4144-acd2-8bccd6842f88">NA</td>
+</tr>
+<tr id="inv-5262bc58-e261-4c63-aa34-2a5917540748">
+<td id="inv-22c9f383-207f-4988-84cd-30dea435fa90">ATCC 29741
+                                        <content stylecode="italics">Bacteroides thetaiotaomicron</content>
+</td>
+<td align="center" id="inv-75206ae4-69cb-4c18-b6c5-fc29afc78b50">2 to 8</td>
+<td align="center" id="inv-faf4ac70-1160-47df-8663-35c533cbb5ca">NA</td>
+</tr>
+<tr id="inv-9555cd8a-b722-413d-b0dd-f6424d007279">
+<td id="inv-b2afc7a6-8d63-44f0-b832-14af3dcf9bfb">ATCC 43055
+                                        <content stylecode="italics">Eubacterium lentum</content>
+</td>
+<td align="center" id="inv-2f5688e3-9007-4009-99c7-7f01b2ec57ee">0.06 to 0.25</td>
+<td align="center" id="inv-bf8af067-bcdb-4e47-83e8-6aeaea9c5c30">NA</td>
+</tr>
+</tbody>
+</table>

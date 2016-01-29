@@ -1,0 +1,98 @@
+<table id="table_5" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col width="18%"></col>
+<col width="18%"></col>
+<col width="27%"></col>
+<col width="29%"></col>
+</colgroup>
+<tbody>
+<tr valign="top">
+<td stylecode="Toprule">
+<content stylecode="bold">
+<content stylecode="underline">Antibiotics</content>
+</content>
+</td>
+<td stylecode="Toprule">
+<content stylecode="bold">
+<content stylecode="underline">Antineoplastics</content>
+</content>
+</td>
+<td stylecode="Toprule">
+<content stylecode="bold">
+<content stylecode="underline">Anti-inflammatory Drugs</content>
+</content>
+</td>
+<td stylecode="Toprule">
+<content stylecode="bold">
+<content stylecode="underline">Gastrointestinal Agents</content>
+</content>
+</td>
+</tr>
+<tr valign="top">
+<td>ciprofloxacin</td>
+<td>melphalan</td>
+<td>Azapropazon</td>
+<td>cimetidine</td>
+</tr>
+<tr valign="top">
+<td>gentamicin</td>
+<td> </td>
+<td>Colchicine</td>
+<td>ranitidine</td>
+</tr>
+<tr valign="top">
+<td>tobramycin</td>
+<td>
+<content stylecode="bold">
+<content stylecode="underline">Antifungals</content>
+</content>
+</td>
+<td>Diclofenac</td>
+<td> </td>
+</tr>
+<tr valign="top">
+<td>vancomycin</td>
+<td>amphotericin B</td>
+<td>Naproxen</td>
+<td>
+<content stylecode="bold">
+<content stylecode="underline">Immunosuppressives  </content>
+</content>
+</td>
+</tr>
+<tr valign="top">
+<td>trimethoprim with sulfamethoxazole</td>
+<td>ketoconazole</td>
+<td>Sulindac</td>
+<td>tacrolimus</td>
+</tr>
+<tr valign="top">
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr valign="top">
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<content stylecode="bold">
+<content stylecode="underline">Other Drugs</content>
+</content>
+</td>
+</tr>
+<tr valign="top">
+<td> </td>
+<td> </td>
+<td> </td>
+<td>fibric acid derivatives<br/>(e.g., bezafibrate, fenofibrate)</td>
+</tr>
+<tr>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule">methotrexate</td>
+</tr>
+</tbody>
+</table>

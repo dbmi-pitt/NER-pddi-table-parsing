@@ -1,0 +1,575 @@
+<table id="_RefID16" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes<sup>a</sup>
+</caption>
+<col width="16%"></col>
+<col width="15%"></col>
+<col width="21%"></col>
+<col width="12%"></col>
+<col width="12%"></col>
+<col width="11%"></col>
+<col width="13%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="7" stylecode="Botrule" valign="top">a Includes only patients with pretreatment clarithromycin susceptibility tests <br/>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" stylecode="Botrule" valign="top">b Susceptible (S) MIC &lt; 0.25 mcg/mL, Intermediate (I) MIC 0.5 - 1.0 mcg/mL, Resistant<br/>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" stylecode="Botrule" valign="top">(R) MIC &gt; 2 mcg/mL<br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td colspan="2" stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Clarithromycin</content>
+<br/>
+<content stylecode="bold">Pretreatment Results</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" colspan="5" stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Clarithromycin</content>
+<br/>
+<content stylecode="bold">Post-treatment Results</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">H. pylori </content>negative -</content>
+<br/>
+<content stylecode="bold">eradicated</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" colspan="3" valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">H. pylori </content>positive - </content>
+<br/>
+<content stylecode="bold">not eradicated</content>
+<br/>
+<content stylecode="bold">Post-treatment susceptibility</content>
+<br/>
+<content stylecode="bold">results</content>
+<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">S<sup>b</sup>
+</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">I<sup>b</sup>
+</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">R<sup>b</sup>
+</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">No MIC</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Omeprazole 40 mg q.d. / clarithromycin 500 mg t.i.d. for 14 days followed by</content>
+<br/>
+<content stylecode="bold">omeprazole 20 mg q.d. for another 14 days (M93-067, M93-100)</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Susceptible<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>108<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>72<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>26<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>9<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Intermediate<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Resistant<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>4<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>4<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Ranitidine bismuth citrate 400 mg b.i.d. / clarithromycin 500 mg t.i.d. for</content>
+<br/>
+<content stylecode="bold">14 days followed by ranitidine bismuth citrate 400 mg b.i.d. for another 14 days</content>
+<br/>
+<content stylecode="bold">(H2BA3001)</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Susceptible<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>124<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>98<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>4<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>14<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>8<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Intermediate<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>3<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Resistant<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>17<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>15<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Ranitidine bismuth citrate 400 mg b.i.d. / clarithromycin 500 mg b.i.d. for </content>
+<br/>
+<content stylecode="bold">14 days followed by ranitidine bismuth citrate 400 mg b.i.d. for another 14 days</content>
+<br/>
+<content stylecode="bold">(H2BA3001)</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Susceptible<br/>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>125<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>106<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>12<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>5<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Intermediate<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>2<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Resistant<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>20<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>19<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Omeprazole 20 mg b.i.d. / clarithromycin 500 mg b.i.d. / amoxicillin 1 g b.i.d. for </content>
+<br/>
+<content stylecode="bold">10 days (126, 127, M96-446)</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Susceptible<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>171<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>153<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>7<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>3<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>8<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Intermediate<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Resistant<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>14<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>4<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>6<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>3<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Lansoprazole 30 mg b.i.d. / clarithromycin 500 mg b.i.d. / amoxicillin 1 g b.i.d. </content>
+<br/>
+<content stylecode="bold">for 14 days (M95-399, M93-131, M95-392)</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Susceptible<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>112<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>105<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>7<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Intermediate<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>3<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>3<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Resistant<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>17<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>6<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>7<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>4<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Lansoprazole 30 mg b.i.d. / clarithromycin 500 mg b.i.d. / amoxicillin 1 g b.i.d. </content>
+<br/>
+<content stylecode="bold">for 10 days (M95-399)</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Susceptible<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>42<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>40<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Intermediate<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Resistant<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>4<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>3<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+</tr>
+</tbody>
+</table>

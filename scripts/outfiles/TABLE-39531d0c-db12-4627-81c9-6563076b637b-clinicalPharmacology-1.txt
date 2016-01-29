@@ -1,0 +1,58 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Pharmacokinetic Parameters in Normal Subjects Receiving 100, 200, 400, and 800 mcg of Lazanda or 200 mcg OTFC</caption>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="15%"></col>
+<col align="left" valign="top" width="15%"></col>
+<col align="left" valign="top" width="15%"></col>
+<col align="left" valign="top" width="15%"></col>
+<col align="left" valign="top" width="15%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th stylecode="Lrule Rrule"></th>
+<th align="center" colspan="4" stylecode="Rrule">Lazanda</th>
+<th stylecode="Rrule">OTFC</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule">PHARMACOKINETIC PARAMETERS</th>
+<th stylecode="Rrule">100 mcg</th>
+<th stylecode="Rrule">200 mcg</th>
+<th stylecode="Rrule">400 mcg</th>
+<th stylecode="Rrule">800 mcg</th>
+<th stylecode="Rrule">200 mcg</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">T<sub>max</sub>, hours<br/>median  (range)</td>
+<td stylecode="Rrule">0.33<br/>(0.08–1.50)</td>
+<td stylecode="Rrule">0.25<br/>(0.17–1.60)</td>
+<td stylecode="Rrule">0.35<br/>(0.25–0.75)</td>
+<td stylecode="Rrule">0.34 <br/>(0.17–3.00)</td>
+<td stylecode="Rrule">1.50 <br/>(0.50–8.00)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>max</sub>, pg/mL<br/>Mean  (%CV)</td>
+<td stylecode="Rrule">351.5<br/>(51.3)</td>
+<td stylecode="Rrule">780.8<br/>(48.4)</td>
+<td stylecode="Rrule">1552.1<br/>(26.2)</td>
+<td stylecode="Rrule">2844.0<br/> (56.0)</td>
+<td stylecode="Rrule">317.4<br/>(29.9)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">AUC<sub>inf</sub>, pg.hour/mL<br/>Mean  (%CV)</td>
+<td stylecode="Rrule">2460.5<br/>(17.9)</td>
+<td stylecode="Rrule">4359.9<br/>(29.8)</td>
+<td stylecode="Rrule">7513.4<br/>(26.7)</td>
+<td stylecode="Rrule">17272<br/>(48.9)</td>
+<td stylecode="Rrule">3735.0<br/>(32.8)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">t<sub>1/2</sub>, hour<br/>Mean (%CV)</td>
+<td stylecode="Rrule">21.9<br/>(13.6)</td>
+<td stylecode="Rrule">24.9<br/>(51.3)</td>
+<td stylecode="Rrule">15.0<br/>(24.7)</td>
+<td stylecode="Rrule">24.9<br/>(92.5)</td>
+<td stylecode="Rrule">18.6<br/>(31.4)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,33 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th align="center" colspan="6" stylecode="     Toprule     ">Table 1<br/>Absorption of lidocaine from LIDOCAINE PATCH 5%<br/>Normal volunteers (n = 15, 12-hour wearing time)</th>
+</tr>
+<tr>
+<th align="center" stylecode="     Toprule         Lrule     " valign="bottom">Lidocaine Patch 5%</th>
+<th align="center" stylecode="     Toprule         Lrule     " valign="bottom">Application Site</th>
+<th align="center" stylecode="     Toprule         Lrule     " valign="bottom">Area<br/>(cm<sup>2</sup>)</th>
+<th align="center" stylecode="     Toprule         Lrule     ">Dose Absorbed (mg)</th>
+<th align="center" stylecode="     Toprule         Lrule     " valign="bottom">C<sub>max</sub>
+<br/>(µg/mL)</th>
+<th align="center" stylecode="     Toprule         Lrule          Rrule     " valign="bottom">T<sub>max</sub>
+<br/>(hr)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" stylecode="     Toprule         Lrule     " valign="top">  3 patches<br/>(2100 mg)</td>
+<td align="center" stylecode="     Toprule         Lrule     " valign="top">  Back</td>
+<td align="center" stylecode="     Toprule         Lrule     " valign="top">  420</td>
+<td align="center" stylecode="     Toprule         Lrule     " valign="top">  64 ± 32</td>
+<td align="center" stylecode="     Toprule         Lrule     " valign="top">  0.13 ± 0.06</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     " valign="top">  11 hr</td>
+</tr>
+</tbody>
+</table>

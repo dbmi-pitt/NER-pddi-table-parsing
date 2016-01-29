@@ -1,0 +1,52 @@
+<table border="single" id="id_28290938-e916-4d19-b770-1bb3f6bafbd6" width="446.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_53ef70bb-41be-4d1b-a020-1b3911d06563">Table 2: Acceptable Quality Control Ranges for Fluconazole to be Used in Validation of Susceptibility Test Results</caption>
+<col width="27.4%"></col>
+<col width="22.2%"></col>
+<col width="22.2%"></col>
+<col width="28.3%"></col>
+<tbody>
+<tr id="id_65d71394-1780-46d8-a348-6f8dca4b5f85">
+<td align="justify" stylecode="Botrule Toprule Rrule Lrule" valign="top">QC Strain</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Macrodilution (MIC in μg/mL) </paragraph>@ 48 hours</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Microdilution </paragraph>
+<paragraph>(MIC in μg/mL) </paragraph>@ 48 hours</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Disk Diffusion </paragraph>(Zone Diameter in mm) @ 24 hours</td>
+</tr>
+<tr id="id_dd217131-9a53-459f-8109-88bf3d613a38">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Candida parapsilosis </content>ATCC 22019</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.0-8.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.0-4.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">22-33</td>
+</tr>
+<tr id="id_30d4448f-71c4-47ba-8f37-0727e4bf1905">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Candida krusei</content> ATCC 6258</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16-64</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16-128</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">---<footnote id="id-a0067b36-d788-4bf3-96f0-c80778658133">Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies.</footnote>
+</td>
+</tr>
+<tr id="id_c6dc5c58-2b73-44e8-a544-6328dca5a016">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Candida albicans</content> ATCC 90028</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">---<footnoteref idref="id-a0067b36-d788-4bf3-96f0-c80778658133"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">---<footnoteref idref="id-a0067b36-d788-4bf3-96f0-c80778658133"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">28-39</td>
+</tr>
+<tr id="id_9aebc3fb-2753-4106-82f6-c4f434f93c31">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Candida tropicalis </content>ATCC 750</td>
+<td align="center" stylecode="Rrule" valign="top">---<footnoteref idref="id-a0067b36-d788-4bf3-96f0-c80778658133"></footnoteref>
+</td>
+<td align="center" stylecode="Rrule" valign="top">---<footnoteref idref="id-a0067b36-d788-4bf3-96f0-c80778658133"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">26-37</td>
+</tr>
+</tbody>
+</table>

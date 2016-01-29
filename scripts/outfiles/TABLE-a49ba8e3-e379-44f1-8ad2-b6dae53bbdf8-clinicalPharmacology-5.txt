@@ -1,0 +1,56 @@
+<table id="inv-e0286d70-2757-4a19-b699-45bc338a2e71" width="433" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-3d7f61c0-0239-4e9c-a0a2-8af230166bb4">Rate of Endoscopically Confirmed Healing of Erosions and/or Ulcers</caption>
+<col width="11.5%"></col>
+<col width="14.3%"></col>
+<col width="15.5%"></col>
+<col width="16.4%"></col>
+<col width="16.6%"></col>
+<col width="25.6%"></col>
+<tbody>
+<tr id="id_892b297b-a417-4603-8ad4-9e02048bfe1d">
+<td align="center" stylecode="Toprule Botrule Lrule" valign="middle">
+<content stylecode="bold">     Trial </content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle"></td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Cimetidine </content>(800 mg twice daily) </td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Cimetidine</content> (400 mg 4 times daily) </td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Placebo</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">p-Value</content> (800 mg twice daily vs. placebo) </td>
+</tr>
+<tr id="id_fd452e97-b7e0-4e5a-a234-7a5bb102374f">
+<td align="center" rowspan="2" stylecode="Lrule Botrule" valign="middle"> 1 </td>
+<td align="center" stylecode="Botrule" valign="middle"> Week 6 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 45% </td>
+<td align="center" stylecode="Botrule" valign="middle"> 52% </td>
+<td align="center" stylecode="Botrule" valign="middle"> 26% </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> 0.02 </td>
+</tr>
+<tr id="id_376da084-acdf-4e3f-afc1-f53311275da3">
+<td align="center" stylecode="Lrule Botrule" valign="middle"> Week 12 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 60% </td>
+<td align="center" stylecode="Botrule" valign="middle"> 66% </td>
+<td align="center" stylecode="Botrule" valign="middle"> 42% </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> 0.02 </td>
+</tr>
+<tr id="id_ba2ab16d-3e6a-403a-8e8e-516614038bcd">
+<td align="center" rowspan="2" stylecode="Lrule Botrule" valign="middle"> 2 </td>
+<td align="center" stylecode="Botrule" valign="middle"> Week 6 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 50% </td>
+<td align="center" stylecode="Botrule" valign="middle">   </td>
+<td align="center" stylecode="Botrule" valign="middle"> 20% </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> &lt;0.01 </td>
+</tr>
+<tr id="id_a33f5c6f-97e0-4f51-96d3-3ced4f9eb927">
+<td align="center" stylecode="Lrule Botrule" valign="middle"> Week 12 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 67% </td>
+<td align="center" stylecode="Botrule" valign="middle">   </td>
+<td align="center" stylecode="Botrule" valign="middle"> 36% </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> &lt;0.01 </td>
+</tr>
+</tbody>
+</table>

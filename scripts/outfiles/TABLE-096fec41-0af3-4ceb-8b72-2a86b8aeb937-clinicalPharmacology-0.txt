@@ -1,0 +1,271 @@
+<table cellpadding="5.75pt" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="16%"></col>
+<col width="7%"></col>
+<col width="16%"></col>
+<col width="15%"></col>
+<col width="10%"></col>
+<col width="18%"></col>
+<col width="14%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold"> </content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">SYMPTOM SCORE</content>
+<footnote id="_Ref409602545">AUA questionnaire (range 0 to 30) in <content stylecode="bold">STUDIES 1</content> and <content stylecode="bold">3</content>.  Modified Boyarsky Questionnaire (range 7 to 39) in<content stylecode="bold"> STUDY 2</content>.</footnote>
+<footnoteref idref="_Ref409602545"></footnoteref>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">MAXIMUM FLOW RATE (mL/sec) </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">N</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">MEAN <content stylecode="underline">BASELINE</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">MEAN</content>
+<content stylecode="bold">
+<content stylecode="underline">CHANGE</content>
+</content>
+<content stylecode="bold">
+<footnote id="_Ref409602561">Change is to endpoint.</footnote>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">N</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">MEAN <content stylecode="underline">BASELINE</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">MEAN</content>
+<content stylecode="bold">
+<content stylecode="underline">CHANGE</content>
+</content>
+<content stylecode="bold">
+<footnote id="_Ref409602646">Change is fixed-dose efficacy phase, 22 to 26 hours post-dose for STUDIES 1 and 3 and 2 to 6 hours post-dose for STUDY 2.</footnote>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">STUDY 1 (Titration to maximum dose of 8 mg)</content>
+<footnote id="_Ref409602677">36 patients received a dose of 8 mg doxazosin mesylate.</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Placebo</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>47</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>15.6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>-2.3</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>41</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>9.7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>+0.7</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Doxazosin mesylate</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>49</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>14.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>-4.9<sup>g</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>41</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>9.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>+2.9<footnote id="_Ref409602698">p &lt; 0.01 compared to placebo mean change.</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">STUDY 2 (Titration to fixed dose-14 weeks)</content>
+<footnote id="_Ref409602665">Study in hypertensives with BPH.</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Placebo</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>37</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>20.7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>-2.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>30</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>10.6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>+0.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Doxazosin mesylate 4 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>38</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>21.2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>-5.0<sup>g</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>32</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>9.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>+2.3<footnote id="_Ref409602689">p &lt; 0.05 compared to placebo mean change.</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Doxazosin mesylate 8 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>42</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>19.9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>-4.2<footnoteref idref="_Ref409602689"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>36</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>10.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>+3.3<footnoteref idref="_Ref409602698"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">STUDY 3 (Titration to fixed dose-12 weeks)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Placebo </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph> 47</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>        14.9</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>        -4.7</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>    44</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>           9.9</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>     +2.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Doxazosin mesylate 4 mg</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph> 46</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>        16.6</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>        -6.1<footnoteref idref="_Ref409602689"></footnoteref>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>    46</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>           9.6</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>     +2.6</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

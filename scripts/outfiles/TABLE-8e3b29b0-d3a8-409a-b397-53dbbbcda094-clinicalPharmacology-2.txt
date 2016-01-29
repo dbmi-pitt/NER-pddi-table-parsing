@@ -1,0 +1,75 @@
+<table id="id_db475e3a-f351-4f3c-a52f-8f966079d6f6" rules="cols" width="873.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_2daf7246-b6d3-4320-b255-d46a924a8654">Table 3. Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults</caption>
+<col width="25.8%"></col>
+<col width="24.4%"></col>
+<col width="25.4%"></col>
+<col width="24.4%"></col>
+<tbody>
+<tr id="id_1160420b-3a43-4535-976c-3a8a3a86ab28">
+<td align="center" stylecode="Lrule Toprule Rrule" valign="top">Single or</td>
+<td align="center" stylecode="Rrule" valign="top">Children<footnote id="id-fd50216f-fe44-4b8c-a113-fdc350271f61">Data from single and repeated dose studies</footnote>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Children<footnoteref idref="id-fd50216f-fe44-4b8c-a113-fdc350271f61"></footnoteref>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Adults<footnote id="id-dc56e244-5a43-4f81-b60d-0bfd129d83d8">Data from a single and repeated dose study</footnote>
+</td>
+</tr>
+<tr id="id_377d918f-3c9d-4d7f-b3cc-316093d1ee03">
+<td align="center" stylecode="Lrule Rrule" valign="top">Repeated</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 20 kg</td>
+<td align="center" stylecode="Rrule" valign="top">&gt; 20 kg</td>
+<td align="center" stylecode="Rrule" valign="top">(mean 76 kg)</td>
+</tr>
+<tr id="id_864de5af-4f9d-4281-bb10-d77b11d6452d">
+<td align="center" stylecode="Lrule Rrule" valign="top">Oral Dosing</td>
+<td align="center" stylecode="Rrule" valign="top">2 to 5 years</td>
+<td align="center" stylecode="Rrule" valign="top">6 to 16 years</td>
+<td align="center" stylecode="Rrule" valign="top">23 to 29 years</td>
+</tr>
+<tr id="id_05af6134-6be7-4492-a551-3f7e59abb653">
+<td align="center" stylecode="Lrule Rrule" valign="top">/Parameter</td>
+<td align="center" stylecode="Rrule" valign="top">10 mg</td>
+<td align="center" stylecode="Rrule" valign="top">20 mg</td>
+<td align="center" stylecode="Rrule" valign="top">(n = 12)</td>
+</tr>
+<tr id="id_7aaea771-1ebf-4dcc-8fa2-188961084f3a">
+<td align="center" colspan="4" stylecode="Lrule Rrule" valign="top">Single Dosing</td>
+</tr>
+<tr id="id_86b724a8-6f93-462a-b835-96a2496606ad">
+<td align="center" stylecode="Lrule Rrule" valign="top">C<sub>max</sub>
+<footnote id="id-e70ecbe5-37e6-425f-a2bc-d0d3581fcfdc">Plasma concentration adjusted to an oral dose of 1 mg/kg.<br/>Doses of 10 mg, 20 mg and 40 mg omeprazole as enteric-coated granules</footnote>
+<br/>(ng/mL)</td>
+<td align="center" stylecode="Rrule" valign="top">288 <br/>(n = 10)</td>
+<td align="center" stylecode="Rrule" valign="top">495 <br/>(n = 49)</td>
+<td align="center" stylecode="Rrule" valign="top">668</td>
+</tr>
+<tr id="id_4c7d0cc4-f8ee-4847-a4d3-79adb45c50b1">
+<td align="center" stylecode="Lrule Rrule" valign="top">AUC<footnoteref idref="id-e70ecbe5-37e6-425f-a2bc-d0d3581fcfdc"></footnoteref>
+<br/>(ng h/mL)</td>
+<td align="center" stylecode="Rrule" valign="top">511 <br/>(n = 7)</td>
+<td align="center" stylecode="Rrule" valign="top">1,140 <br/>(n = 32)</td>
+<td align="center" stylecode="Rrule" valign="top">1,220</td>
+</tr>
+<tr id="id_eb83e697-3f4c-4656-8d0d-175ea184deae">
+<td align="center" colspan="4" stylecode="Lrule Rrule" valign="top">Repeated Dosing</td>
+</tr>
+<tr id="id_58aeadd1-9ed2-4d74-abe2-750c4fc8b6fc">
+<td align="center" stylecode="Lrule Rrule" valign="top">C<sub>max</sub>
+<footnoteref idref="id-e70ecbe5-37e6-425f-a2bc-d0d3581fcfdc"></footnoteref>
+<br/>(ng/mL)</td>
+<td align="center" stylecode="Rrule" valign="top">539 <br/>(n = 4)</td>
+<td align="center" stylecode="Rrule" valign="top">851 <br/>(n = 32)</td>
+<td align="center" stylecode="Rrule" valign="top">1,458</td>
+</tr>
+<tr id="id_2a1ed311-58cd-4a6f-ad5d-01b64955accb">
+<td align="center" stylecode="Lrule Rrule" valign="top">AUC<footnoteref idref="id-e70ecbe5-37e6-425f-a2bc-d0d3581fcfdc"></footnoteref>
+<br/>(ng h/mL)</td>
+<td align="center" stylecode="Rrule" valign="top">1,179 <br/>(n = 2)</td>
+<td align="center" stylecode="Rrule" valign="top">2,276 <br/>(n = 23)</td>
+<td align="center" stylecode="Rrule" valign="top">3,352</td>
+</tr>
+<tr id="id_c0cb4122-0cdd-4e52-97be-074416dfbb8f">
+<td align="center" colspan="4" stylecode="Lrule Botrule Rrule" valign="top">Doses of 10 mg, 20 mg and 40 mg omeprazole as enteric-coated granules</td>
+</tr>
+</tbody>
+</table>

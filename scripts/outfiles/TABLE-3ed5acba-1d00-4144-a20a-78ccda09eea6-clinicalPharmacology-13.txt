@@ -1,0 +1,46 @@
+<table id="table_14" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="27%"></col>
+<col span="1" width="31%"></col>
+<col span="1" width="40%"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Acceptable Quality Control Ranges for Clarithromycin</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">QC Strain</content>
+</td>
+<td>
+<content stylecode="bold">Zone diameter (mm)</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">S. aureus</content>
+</td>
+<td>ATCC 25923</td>
+<td>26 to 32</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">S. pneumoniae</content>
+<sup>h</sup>
+</td>
+<td>ATCC 49619</td>
+<td>25 to 31</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>i</sup>
+</td>
+<td>ATCC 49247</td>
+<td>11 to 17</td>
+</tr>
+<tr>
+<td>h  This quality control range is applicable only to tests performed by disk diffusion using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood.<br/>i This quality control limit applies to tests conducted with <content stylecode="italics">Haemophilus influenzae</content> ATCC 49247 using HTM<sup>2</sup>. </td>
+</tr>
+</tbody>
+</table>

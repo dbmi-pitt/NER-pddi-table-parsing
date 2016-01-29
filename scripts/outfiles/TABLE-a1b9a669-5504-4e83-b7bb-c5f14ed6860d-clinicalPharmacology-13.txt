@@ -1,0 +1,58 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="26%"></col>
+<col span="1" width="24%"></col>
+<col span="1" width="25%"></col>
+<col span="1" width="25%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Acceptable Quality Control Ranges</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Antimicrobial Agent</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">MIC (mcg/mL)</content>
+<sup>1</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">H. pylori</content>
+</paragraph>
+</td>
+<td>
+<paragraph>ATCC 43504</paragraph>
+</td>
+<td>
+<paragraph>Clarithromycin</paragraph>
+</td>
+<td>
+<paragraph>0.015 to 0.12 mcg/mL</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">H. pylori</content>
+</paragraph>
+</td>
+<td>
+<paragraph>ATCC 43504</paragraph>
+</td>
+<td>
+<paragraph>Amoxicillin</paragraph>
+</td>
+<td>
+<paragraph>0.015 to 0.12 mcg/mL</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

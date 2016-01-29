@@ -1,0 +1,55 @@
+<table id="t2" width="70%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Acceptable Quality Control Ranges for Erythromycin</caption>
+<col align="left" valign="bottom" width="34%"></col>
+<col align="center" valign="middle" width="33%"></col>
+<col align="center" valign="middle" width="33%"></col>
+<thead>
+<tr>
+<th>QC Strain</th>
+<th valign="bottom">Minimum Inhibitory Concentrations (mcg/mL)
+                                                                        <br/>
+</th>
+<th valign="bottom">Disk Diffusion (zone diameters in mm)
+                                                                        <br/>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ATCC 29213
+                                                                        <content stylecode="italics">Staphylococcus aureus
+                                                                            <br/>
+</content>
+</td>
+<td>0.25-1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>ATCC 25923
+                                                                        <content stylecode="italics">Staphylococcus aureus
+                                                                            <br/>
+</content>
+</td>
+<td>NA</td>
+<td>22-30</td>
+</tr>
+<tr>
+<td>ATCC 29212
+                                                                        <content stylecode="italics">Enterococcus faecalis
+                                                                            <br/>
+</content>
+</td>
+<td>1-4</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>ATCC 49619
+                                                                        <content stylecode="italics">Streptococcus pneumoniae
+                                                                            <br/>
+</content>
+</td>
+<td>0.03-0.12</td>
+<td>25-30</td>
+</tr>
+</tbody>
+</table>

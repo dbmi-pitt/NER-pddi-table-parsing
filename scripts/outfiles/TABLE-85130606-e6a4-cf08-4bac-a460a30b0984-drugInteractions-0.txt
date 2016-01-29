@@ -1,0 +1,196 @@
+<table frame="box" id="table_4" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4. Established Drug Interactions Based on Drug Interaction Trials</caption>
+<colgroup>
+<col width="24%"></col>
+<col width="25%"></col>
+<col width="49%"></col>
+</colgroup>
+<thead>
+<tr>
+<th align="center" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Concomitant Drug Class: Drug Name</content>
+</th>
+<th align="center" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Effect on Concentration</content>
+</th>
+<th align="center" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Clinical Comments</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">ANTIARRHYTHMICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">digoxin</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ digoxin</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Decrease digoxin dose by 30-50%. Appropriate monitoring of serum digoxin levels is recommended.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule">amiodarone*,<br/>bepridil*,<br/>disopyramide*,<br/>flecainide*,<br/>lidocaine (systemic)*,<br/>mexiletine*,<br/>propafenone*,<br/>quinidine*</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ antiarrhythmics</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Caution is warranted and therapeutic concentration monitoring (if available) is recommended for antiarrhythmics when co-administered with TECHNIVIE. </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">ANTIFUNGALS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">ketoconazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ ketoconazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule">When TECHNIVIE is co-administered with ketoconazole, the maximum daily dose of ketoconazole should be limited to 200 mg per day.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">voriconazole*</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ voriconazole </td>
+<td stylecode="Toprule Botrule Lrule Rrule">Co-administration of TECHNIVIE with voriconazole is not recommended unless an assessment of the benefit-to-risk ratio justifies the use of voriconazole.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">ANTIPSYCHOTICS</content>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top"> </td>
+<td stylecode="Toprule Botrule Lrule Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">quetiapine		</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ quetiapine</td>
+<td stylecode="Toprule Botrule Lrule Rrule">
+<list id="l361451291434462878" listtype="unordered" stylecode="Disc">
+<item>Initiation of TECHNIVIE in patients taking quetiapine:  Consider alternative anti-HCV therapy to avoid increases in quetiapine exposures.  If coadministration is necessary, reduce the quetiapine dose to 1/6<sup>th</sup> of the current dose and monitor for quetiapine-associated adverse reactions.  Refer to the quetiapine prescribing information for recommendations on adverse reaction monitoring. </item>
+<item>Initiation of quetiapine in patients taking TECHNIVIE:  Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine. </item>
+</list>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">CALCIUM CHANNEL BLOCKERS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">amlodipine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ amlodipine</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Consider dose reduction for amlodipine.  Clinical monitoring is recommended.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">CORTICOSTEROIDS (INHALED/NASAL)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">fluticasone*</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ fluticasone</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Concomitant use of TECHNIVIE with inhaled or nasal fluticasone may reduce serum cortisol concentrations.  Alternative corticosteroids should be considered, particularly for long term use.  </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">DIURETICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">furosemide</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ furosemide (C<sub>max</sub>)</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Clinical monitoring of patients is recommended and therapy should be individualized based on patient’s response.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">HIV-ANTIVIRAL AGENTS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">atazanavir or atazanavir/ritonavir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ paritaprevir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Co-administration of TECHNIVIE with atazanavir or atazanavir/ritonavir is not recommended. </td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">darunavir/ritonavir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ darunavir (C<sub>trough</sub>)</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">When co-administered with TECHNIVIE, darunavir 800 mg (without ritonavir) should be taken at the same time as TECHNIVIE. </td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">lopinavir/ritonavir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ paritaprevir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Co-administration of TECHNIVIE with lopinavir/ritonavir is not recommended.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">rilpivirine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ rilpivirine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Co-administration of TECHNIVIE with rilpivirine once daily is not recommended due to potential for QT interval prolongation with higher concentrations of rilpivirine.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">HMG CoA REDUCTASE INHIBITORS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">pravastatin</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ pravastatin</td>
+<td stylecode="Toprule Botrule Lrule Rrule">When TECHNIVIE is co-administered with pravastatin, the dose of pravastatin should not exceed 40 mg per day.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">IMMUNOSUPPRESSANTS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">cyclosporine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ cyclosporine</td>
+<td stylecode="Toprule Botrule Lrule Rrule">When initiating therapy with TECHNIVIE, reduce cyclosporine dose to 1/5<sup>th</sup> of the patient’s current cyclosporine dose. Measure cyclosporine blood concentrations to determine subsequent dose modifications. Upon completion of TECHNIVIE therapy, the appropriate time to resume pre-TECHNIVIE dose of cyclosporine should be guided by assessment of cyclosporine blood concentrations. Frequent assessment of renal function and cyclosporine-related side effects is recommended. </td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">tacrolimus</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ tacrolimus</td>
+<td stylecode="Toprule Botrule Lrule Rrule">When initiating therapy with TECHNIVIE, the dose of tacrolimus needs to be reduced. Do not administer tacrolimus on the day TECHNIVIE is initiated. Beginning the day after TECHNIVIE is initiated; reinitiate tacrolimus at a reduced dose based on tacrolimus blood concentrations.  Typical tacrolimus dosing is 0.5 mg every 7 days.<br/> Measure tacrolimus blood concentrations and adjust dose or dosing frequency to determine subsequent dose modifications. Upon completion of TECHNIVIE therapy, the appropriate time to resume pre-TECHNIVIE dose of tacrolimus should be guided by assessment of tacrolimus blood concentrations. Frequent assessment of renal function and tacrolimus related side effects is recommended. </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">LONG ACTING BETA-ADRENOCEPTOR AGONIST</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">salmeterol*</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ salmeterol</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Concurrent administration of TECHNIVIE and salmeterol is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">NARCOTIC ANALGESICS </content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">buprenorphine/naloxone 	</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ buprenorphine <br/>↑ norbuprenorphine 	</td>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="top">No dose adjustment of buprenorphine/naloxone is required upon co-administration with TECHNIVIE. Patients should be closely monitored for sedation and cognitive effects.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">PROTON PUMP INHIBITORS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">omeprazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ omeprazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Monitor patients for decreased efficacy of omeprazole. Consider increasing the omeprazole dose in patients whose symptoms are not well controlled; avoid use of more than 40 mg per day of omeprazole.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">SEDATIVES/HYPNOTICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">alprazolam</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ alprazolam</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Clinical monitoring of patients is recommended. A decrease in alprazolam dose can be considered based on clinical response.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">*Not studied.<br/>
+<content stylecode="italics">See Clinical Pharmacology, Tables <linkhtml href="#table_5">5</linkhtml> and <linkhtml href="#table_6">6</linkhtml>
+</content>.<br/>The direction of the arrow indicates the direction of the change in exposures (C<sub>max</sub> and AUC) (↑ =<content stylecode="italics"> increase of more than 20%,</content> ↓ = <content stylecode="italics">decrease of more than 20%).</content>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,38 @@
+<table width="60%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="center" width="50%"></col>
+<col align="center" width="50%"></col>
+<tbody>
+<tr>
+<td stylecode="Lrule Botrule">
+<content stylecode="bold">May Require a Decrease in Dose at Cessation of Smoking</content>
+</td>
+<td stylecode="Lrule Botrule Rrule">
+<content stylecode="bold">Possible Mechanism</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Acetaminophen, caffeine, imipramine, oxazepam, pentazocine, propranolol, or other beta-blockers, theophylline </td>
+<td stylecode="Rrule" valign="top">Deinduction of hepatic enzymes on smoking cessation.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="middle">Insulin</td>
+<td stylecode="Rrule">Increase of subcutaneous insulin absorption with smoking cessation.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Adrenergic antagonists (e.g. prazosin, labetalol)</td>
+<td stylecode="Rrule">Decrease in circulating catecholamines with smoking cessation.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">May Require an Increase in Dose at Cessation of Smoking</content>
+</td>
+<td stylecode="Rrule" valign="middle">
+<content stylecode="bold">Possible Mechanism</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Adrenergic agonists (e.g. isoproterenol, phenylephrine)</td>
+<td stylecode="Rrule">Decrease in circulating catecholamines with smoking cessation.</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,118 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 14. Mean<footnote id="FOOT_5947">The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and C1/F and between 30% and 70% for T<sub>max</sub>  . The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/patients in each study. The numbers in parentheses below each parameter mean represent the range of individual volunteer/patient values across studies.</footnote> Pharmacokinetic Parameters in Healthy Volunteers and Adult Patients With Epilepsy</caption>
+<col width="21.5%"></col>
+<col width="16.4%"></col>
+<col width="20.9%"></col>
+<col width="18.7%"></col>
+<col width="22.5%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Adult Study Population</td>
+<td align="center" stylecode="     Botrule          Rrule     "> Number of Subjects</td>
+<td align="center" stylecode="     Botrule          Rrule     "> T<sub>max</sub>  : Time of <br/>Maximum <br/>Plasma Concentration <br/>(hr)</td>
+<td align="center" stylecode="     Botrule          Rrule     "> t<sub>½</sub>  : Elimination <br/>Half-life <br/>(hr)</td>
+<td align="center" stylecode="     Botrule          Rrule     "> C1/F: <br/>Apparent Plasma <br/>Clearance <br/>(mL/min/kg)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> <content stylecode="bold">Healthy volunteers taking no other medications:</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> Single-dose Lamotrigine</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 179</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 2.2 <br/>(0.25-12.0)</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 32.8 <br/>(14.0-103.0)</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0.44 <br/>(0.12-1.10)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Multiple-dose Lamotrigine</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 36</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 1.7 <br/>(0.5-4.0)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 25.4 <br/>(11.6-61.6)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.58 <br/>(0.24-1.15)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> <content stylecode="bold">Healthy volunteers taking valproate:</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> Single-dose Lamotrigine</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 6</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 1.8 <br/>(1.0-4.0)</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 48.3 <br/>(31.5-88.6)</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0.30 <br/>(0.14-0.42)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     "> Multiple-dose Lamotrigine</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 18</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 1.9 <br/>(0.5-3.5)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 70.3 <br/>(41.9-113.5)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.18 <br/>(0.12-0.33)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> <content stylecode="bold">Patients with epilepsy taking valproate only:</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     "> Single-dose Lamotrigine</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 4</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 4.8 <br/>(1.8-8.4)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 58.8 <br/>(30.5-88.8)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.28 <br/>(0.16-0.40)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> <content stylecode="bold">Patients with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone</content>
+<footnote id="FOOT_5948">Carbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of Lamotrigine. Estrogen-containing oral contraceptives and other drugs such as rifampin that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of Lamotrigine <content stylecode="italics">[see Drug Interactions (</content>
+<linkhtml href="#LINK_aab13d7e-763d-426c-a612-5a5bd47f41bc">7</linkhtml>
+<content stylecode="italics"> )].</content>
+</footnote>
+<content stylecode="bold"> plus valproate:</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     "> Single-dose Lamotrigine</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 25</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 3.8 <br/>(1.0-10.0)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 27.2 <br/>(11.2-51.6)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.53 <br/>(0.27-1.04)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> <content stylecode="bold">Patients with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone<footnoteref idref="FOOT_5948"></footnoteref>   :</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> Single-dose Lamotrigine</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 24</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 2.3 <br/>(0.5-5.0)</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 14.4 <br/>(6.4-30.4)</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 1.10 <br/>(0.51-2.22)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     "> Multiple-dose Lamotrigine</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 17</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 2.0 <br/>(0.75-5.93)</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 12.6 <br/>(7.5-23.1)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 1.21 <br/>(0.66-1.82)</td>
+</tr>
+</tbody>
+</table>

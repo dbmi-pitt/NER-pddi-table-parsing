@@ -1,0 +1,109 @@
+<table id="id_df6f6c08-ea6c-401d-ad01-967781be0177" rules="all" width="430" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_797f5a4d-1329-4029-87e6-59c7fd5e5485">Table 4. Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes</caption>
+<col width="18.8%"></col>
+<col width="7.2%"></col>
+<col width="23.0%"></col>
+<col width="9.3%"></col>
+<col width="9.3%"></col>
+<col width="10.5%"></col>
+<col width="21.9%"></col>
+<tbody>
+<tr id="id_6e96ea4d-90ab-42f7-90a4-ec2e48769a5a">
+<td align="center" colspan="7" stylecode="Botrule" valign="top">Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes<footnote id="id-5f00302b-496e-4980-a16d-c1d9cb377742">Includes only patients with pretreatment clarithromycin susceptibility test results</footnote>
+</td>
+</tr>
+<tr id="id_b42d4ce3-f25d-4bca-9889-6b950c899e38">
+<td align="center" colspan="3" stylecode="Botrule" valign="top">Clarithromycin<br/>Pretreatment Results</td>
+<td align="center" colspan="4" stylecode="Botrule" valign="top">Clarithromycin Post-treatment Results</td>
+</tr>
+<tr id="id_ca311e12-b899-41d6-9a05-0c3b055d7506">
+<td align="center" stylecode="Botrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="top">
+<content stylecode="italics">H. pylori</content> negative<br/>– eradicated</td>
+<td align="center" colspan="4" stylecode="Botrule" valign="top">
+<content stylecode="italics">H. pylori</content> positive – not eradicated</td>
+</tr>
+<tr id="id_c7531620-885f-4d9b-b707-ce9d5fd806fc">
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" colspan="4" stylecode="Botrule" valign="top">Post-treatment susceptibility results</td>
+</tr>
+<tr id="id_50964657-b639-4513-a661-9f603989a2ae">
+<td align="center" stylecode="Botrule Rrule" valign="top">  </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">S<footnote id="id-8c3d6710-397f-4865-81bd-04a7ce8e7ea7">Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">I<footnoteref idref="id-8c3d6710-397f-4865-81bd-04a7ce8e7ea7"></footnoteref> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">R <footnoteref idref="id-8c3d6710-397f-4865-81bd-04a7ce8e7ea7"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">No MIC</td>
+</tr>
+<tr id="id_7e49eb06-406e-4a63-86ea-7d664361bd12">
+<td align="center" colspan="7" stylecode="Botrule" valign="top">Dual Therapy - (omeprazole 40 mg once daily/clarithromycin 500 mg three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5)</td>
+</tr>
+<tr id="id_75169ff4-c83b-4685-bc8f-56f70cbd7f71">
+<td align="center" stylecode="Botrule" valign="top">Susceptible<footnoteref idref="id-8c3d6710-397f-4865-81bd-04a7ce8e7ea7"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">108</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">72</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">26</td>
+<td align="center" stylecode="Botrule" valign="top">9</td>
+</tr>
+<tr id="id_7e0640d9-0334-4756-a9d6-95ee47561459">
+<td align="center" stylecode="Botrule" valign="top">Intermediate<footnoteref idref="id-8c3d6710-397f-4865-81bd-04a7ce8e7ea7"></footnoteref> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1</td>
+<td align="center" stylecode="Botrule" valign="top"> </td>
+</tr>
+<tr id="id_d1c8317c-5dd6-413a-87cb-ee910517d1b2">
+<td align="center" stylecode="Botrule" valign="top">Resistant <footnoteref idref="id-8c3d6710-397f-4865-81bd-04a7ce8e7ea7"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4</td>
+<td align="center" stylecode="Botrule" valign="top"> </td>
+</tr>
+<tr id="id_2f20213f-471b-46d9-addc-fa47712c7832">
+<td align="center" colspan="7" stylecode="Botrule" valign="top">Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) </td>
+</tr>
+<tr id="id_6f9c5403-bbdd-4b5b-a630-4c5dbb5a01b4">
+<td align="center" stylecode="Botrule" valign="top">Susceptible <footnoteref idref="id-8c3d6710-397f-4865-81bd-04a7ce8e7ea7"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">171</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">153</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">7</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3</td>
+<td align="center" stylecode="Botrule" valign="top">8</td>
+</tr>
+<tr id="id_497c316f-3ba1-46cd-b8a3-a6d194355f15">
+<td align="center" stylecode="Botrule" valign="top">Intermediate <footnoteref idref="id-8c3d6710-397f-4865-81bd-04a7ce8e7ea7"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule" valign="top"> </td>
+</tr>
+<tr id="id_7c9c37e8-3074-4c23-a9ea-3baadc665a99">
+<td align="center" stylecode="Botrule" valign="top">Resistant <footnoteref idref="id-8c3d6710-397f-4865-81bd-04a7ce8e7ea7"></footnoteref>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14</td>
+<td align="center" stylecode="Rrule" valign="top">4</td>
+<td align="center" stylecode="Rrule" valign="top">1</td>
+<td align="center" stylecode="Rrule" valign="top"> </td>
+<td align="center" stylecode="Rrule" valign="top">6</td>
+<td align="center" stylecode="Botrule" valign="top">3</td>
+</tr>
+</tbody>
+</table>

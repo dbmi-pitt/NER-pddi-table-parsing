@@ -1,0 +1,70 @@
+<table border="1" id="inv-5ded3b63-99b2-46c5-9da2-99e3077e3a2f" width="384" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-6955a6f2-2c50-4e4f-b8d2-83d7317b6b95">Table 1: Mean (SD) R,S-Flurbiprofen Pharmacokinetic Parameters Normalized to a 100 mg Dose of Flurbiprofen Tablets</caption>
+<col width="18.5%"></col>
+<col width="20.1%"></col>
+<col width="22.9%"></col>
+<col width="20.1%"></col>
+<col width="18.5%"></col>
+<tbody>
+<tr id="id_c1376dc2-9fa1-4ad3-8387-a27c62d56859">
+<td align="center" stylecode="Toprule Botrule Lrule" valign="middle">Pharmacokinetic Parameter</td>
+<td align="center" stylecode="Botrule" valign="middle">Normal Healthy Adults<footnote id="id-f24299bc-015a-48fd-b49a-edc94d74bc7d">100 mg single-dose</footnote> (18 to 40 years) N = 15</td>
+<td align="center" stylecode="Botrule" valign="middle">Geriatric Arthritis Patients<footnote id="id-ada7a356-5e9a-4cae-b949-a2d7ba35187c">Steady-state evaluation of 100 mg every 12 hours</footnote> (65 to 83 years) N = 13</td>
+<td align="center" stylecode="Botrule" valign="middle">End Stage Renal Disease Patients<footnoteref idref="id-f24299bc-015a-48fd-b49a-edc94d74bc7d"></footnoteref> (23 to 42 years) N = 8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Alcoholic Cirrhosis Patients<footnote id="id-53868393-ccac-441a-9bc9-df7f670bd1fd">200 mg single-dose</footnote> (31 to 61 years) N = 8</td>
+</tr>
+<tr id="id_7f128619-4d53-4ff9-876e-ee045caf9dd3">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Peak Concentration (Tg/mL)</td>
+<td align="center" stylecode="Botrule" valign="middle">14 (4)</td>
+<td align="center" stylecode="Botrule" valign="middle">16 (5)</td>
+<td align="center" stylecode="Botrule" valign="middle">9<footnote id="id-9e6d4da2-c982-43a6-a4a0-6e11f5647ccf">Calculated from mean parameter values of both flurbiprofen enantiomers</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">9<footnoteref idref="id-9e6d4da2-c982-43a6-a4a0-6e11f5647ccf"></footnoteref>
+</td>
+</tr>
+<tr id="id_83270fb2-2ba9-40cb-9fe0-2176c83d7ca0">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Time of Peak Concentration (h)</td>
+<td align="center" stylecode="Botrule" valign="middle">1.9 (1.5)</td>
+<td align="center" stylecode="Botrule" valign="middle">2.2 (3)</td>
+<td align="center" stylecode="Botrule" valign="middle">2.3<footnoteref idref="id-9e6d4da2-c982-43a6-a4a0-6e11f5647ccf"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.2<footnoteref idref="id-9e6d4da2-c982-43a6-a4a0-6e11f5647ccf"></footnoteref>
+</td>
+</tr>
+<tr id="id_3f337a36-7861-4ea1-a220-5a9611ea2620">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Urinary Recovery of Unchanged Flurbiprofen (% of Dose)</td>
+<td align="center" stylecode="Botrule" valign="middle">2.9 (1.3)</td>
+<td align="center" stylecode="Botrule" valign="middle">0.6 (0.6)</td>
+<td align="center" stylecode="Botrule" valign="middle">0.02 (0.02)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">NA<footnote id="id-eb63cf4a-e0b7-4d63-8daf-6de8a2dcd95f">Not available</footnote>
+</td>
+</tr>
+<tr id="id_fe97d179-d4ae-44a6-831b-66cd4c9da466">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Area Under the Curve (AUC)<footnote id="id-43780d49-d015-43f6-bd04-eaa3ddf03ceb">AUC from 0 to infinity for single doses and from 0 to the end of the dosing interval for multiple-doses</footnote> (Tg h/mL)</td>
+<td align="center" stylecode="Botrule" valign="middle">83 (20)</td>
+<td align="center" stylecode="Botrule" valign="middle">77 (24)</td>
+<td align="center" stylecode="Botrule" valign="middle">44<footnoteref idref="id-9e6d4da2-c982-43a6-a4a0-6e11f5647ccf"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">50<footnoteref idref="id-9e6d4da2-c982-43a6-a4a0-6e11f5647ccf"></footnoteref>
+</td>
+</tr>
+<tr id="id_aee83d4d-d948-4fe2-9abd-299aa7bb9c77">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Apparent Volume of Distribution (Vz/F, L)</td>
+<td align="center" stylecode="Botrule" valign="middle">14 (3)</td>
+<td align="center" stylecode="Botrule" valign="middle">12 (5)</td>
+<td align="center" stylecode="Botrule" valign="middle">10<footnoteref idref="id-9e6d4da2-c982-43a6-a4a0-6e11f5647ccf"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14<footnoteref idref="id-9e6d4da2-c982-43a6-a4a0-6e11f5647ccf"></footnoteref>
+</td>
+</tr>
+<tr id="id_a2605693-b2b9-4e62-b383-45733570f5ec">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Terminal Disposition Half-life (t½<sub>,</sub> h)</td>
+<td align="center" stylecode="Botrule" valign="middle">7.5 (0.8)</td>
+<td align="center" stylecode="Botrule" valign="middle">5.8 (1.9)</td>
+<td align="center" stylecode="Botrule" valign="middle">3.3<footnote id="id-e944dcc4-845e-4182-8a90-b74f8a8c846e">Value for S-flurbiprofen</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">5.4<footnoteref idref="id-e944dcc4-845e-4182-8a90-b74f8a8c846e"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

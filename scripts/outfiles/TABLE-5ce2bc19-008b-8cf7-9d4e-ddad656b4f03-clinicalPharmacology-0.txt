@@ -1,0 +1,128 @@
+<table id="t300" width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Pharmacokinetic Parameters at Steady State Day 5 (Mean of 24 Subjects)
+</caption>
+<col align="left" width="5.525%"></col>
+<col align="left" width="15.000%"></col>
+<col align="left" width="11.538%"></col>
+<col align="left" width="10.612%"></col>
+<col align="left" width="16.988%"></col>
+<col align="left" width="11.675%"></col>
+<col align="left" width="9.550%"></col>
+<col align="left" width="19.112%"></col>
+<tbody>
+<tr>
+<td align="left" stylecode="Toprule Botrule Lrule" valign="top"></td>
+<td align="left" stylecode="Toprule Botrule" valign="top">Parameter (units)
+</td>
+<td align="left" colspan="3" stylecode="Toprule Botrule" valign="top">naproxen 500 mg <br/>Q12h/5 days<br/>(1000 mg)
+</td>
+<td align="left" colspan="3" stylecode="Toprule Botrule Rrule" valign="top">NAPRELAN<sup>®</sup> 2 x 500 mg <br/>tablets (1000 mg) <br/>Q24h/5 days
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top">Mean
+</td>
+<td align="left" stylecode="Botrule" valign="top">SD
+</td>
+<td align="left" stylecode="Botrule" valign="top">Range
+</td>
+<td align="left" stylecode="Botrule" valign="top">Mean
+</td>
+<td align="left" stylecode="Botrule" valign="top">SD
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Range
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top">AUC 0-24 <br/>(mcgxh/mL)
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">1446
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">168
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">1167 - 1858
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">1448
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">145
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">1173 - 1774
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top">C<sub>max</sub>
+<br/>(mcg/mL)
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">95
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">13
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">71 - 117
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">94
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">13
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">74 - 127
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top">C<sub>avg</sub>
+<br/>(mcg/mL)
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">60
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">7
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">49 - 77
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">60
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">6
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">49 - 74
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top">C<sub>min</sub>
+<br/>(mcg/mL)
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">36
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">9
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">13 - 51
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">33
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">7
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">23 - 48
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top">T<sub>max </sub>
+<br/>(hrs)
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">3
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">1
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">1 - 4
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">5
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">2
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">2-10
+</td>
+</tr>
+</tbody>
+</table>

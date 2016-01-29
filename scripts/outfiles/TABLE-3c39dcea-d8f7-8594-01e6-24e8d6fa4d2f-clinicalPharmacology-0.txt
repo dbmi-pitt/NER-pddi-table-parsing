@@ -1,0 +1,42 @@
+<table width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Basal Concentrations and Peak Responses of ACTH and Cortisol in Normal Subjects after 1 mcg/kg or 100 mcg of ACTHREL<sup>®</sup>
+</caption>
+<col align="center" valign="top" width="22%"></col>
+<col align="center" valign="top" width="22%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="13%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Lrule Rrule">Time of Day</th>
+<th rowspan="2" stylecode="Rrule">No. of Subjects</th>
+<th colspan="2" stylecode="Rrule Botrule">ACTH Concentration mean (range) pg/mL</th>
+<th colspan="2" stylecode="Rrule Botrule">Cortisol Concentration mean (range) mcg/dL</th>
+</tr>
+<tr>
+<th stylecode="Rrule">Basal</th>
+<th stylecode="Rrule">Peak</th>
+<th stylecode="Rrule">Basal</th>
+<th stylecode="Rrule">Peak</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">a.m.</td>
+<td stylecode="Rrule">143</td>
+<td stylecode="Rrule">28 (16-65)</td>
+<td stylecode="Rrule">68 (39-114)</td>
+<td stylecode="Rrule">11 (8-13)</td>
+<td stylecode="Rrule">21 (17-25)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">p.m.</td>
+<td stylecode="Rrule">70</td>
+<td stylecode="Rrule">9 (8-13)</td>
+<td stylecode="Rrule">30 (25-42)</td>
+<td stylecode="Rrule">4 (2-6)</td>
+<td stylecode="Rrule">16 (15-18)</td>
+</tr>
+</tbody>
+</table>

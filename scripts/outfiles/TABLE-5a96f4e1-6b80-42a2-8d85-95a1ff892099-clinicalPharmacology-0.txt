@@ -1,0 +1,177 @@
+<table id="i1837e725-d949-44a5-86c8-27c5dc341929" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>MEAN (CV%) PK PARAMETER</caption>
+<col align="left" width="20%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="8%"></col>
+<col align="center" width="11%"></col>
+<thead>
+<tr>
+<th stylecode="lrule">
+<br/>
+<br/>
+<content stylecode="underline">DOSE/DOSAGE FORM<br/>(serum, except as indicated)</content>
+</th>
+<th align="left" stylecode="lrule">
+<br/>
+<br/>
+<content stylecode="underline">Subjects</content>
+</th>
+<th align="left" stylecode="lrule">
+<br/>
+<br/>
+<content stylecode="underline">Day No.</content>
+</th>
+<th stylecode="lrule">
+<br/>C<sub>max</sub>
+<br/>
+<content stylecode="underline">(µg/mL)</content>
+</th>
+<th stylecode="lrule">
+<br/>T<sub>max</sub>
+<br/>
+<content stylecode="underline">(hr)</content>
+</th>
+<th stylecode="lrule">
+<br/>C<sub>24</sub>
+<br/>
+<content stylecode="underline">(µg/mL)</content>
+</th>
+<th stylecode="lrule">
+<br/>AUC<br/>
+<content stylecode="underline">(µg∙hr/mL)</content>
+</th>
+<th stylecode="lrule">
+<br/>T<sub>½</sub>
+<br/>
+<content stylecode="underline">(hr)</content>
+</th>
+<th stylecode="lrule rrule">Urinary<br/>Excretion<br/>
+<content stylecode="underline">(% of dose)</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="lrule botrule">500 mg/250 mg capsule</td>
+<td stylecode="lrule botrule">12</td>
+<td stylecode="lrule botrule">Day 1</td>
+<td stylecode="lrule botrule">0.41</td>
+<td stylecode="lrule botrule">2.5</td>
+<td stylecode="lrule botrule">0.05</td>
+<td stylecode="lrule botrule">2.6<footnote id="table1foot1">AUC<sub>0–24;</sub>
+</footnote>
+</td>
+<td stylecode="lrule botrule">–</td>
+<td stylecode="lrule botrule rrule">4.5</td>
+</tr>
+<tr>
+<td stylecode="lrule botrule">  and 250 mg on Days 2–5</td>
+<td stylecode="lrule botrule">12</td>
+<td stylecode="lrule botrule">Day 5</td>
+<td stylecode="lrule botrule">0.24</td>
+<td stylecode="lrule botrule">3.2</td>
+<td stylecode="lrule botrule">0.05</td>
+<td stylecode="lrule botrule">2.1<footnoteref idref="table1foot1"></footnoteref>
+</td>
+<td stylecode="lrule botrule">–</td>
+<td stylecode="lrule botrule rrule">6.5</td>
+</tr>
+<tr>
+<td stylecode="lrule botrule">1200 mg/600 mg tablets</td>
+<td stylecode="lrule botrule">12</td>
+<td stylecode="lrule botrule">Day 1</td>
+<td stylecode="lrule botrule">0.66</td>
+<td stylecode="lrule botrule">2.5</td>
+<td stylecode="lrule botrule">0.074</td>
+<td stylecode="lrule botrule">6.8<footnote>0–last.</footnote>
+</td>
+<td stylecode="lrule botrule">40</td>
+<td stylecode="lrule botrule rrule">–</td>
+</tr>
+<tr>
+<td align="right" stylecode="lrule botrule">%CV</td>
+<td stylecode="lrule botrule">  </td>
+<td stylecode="lrule botrule">  </td>
+<td stylecode="lrule botrule">(62%)</td>
+<td stylecode="lrule botrule">(79%)</td>
+<td stylecode="lrule botrule">(49%)</td>
+<td stylecode="lrule botrule">(64%)</td>
+<td stylecode="lrule botrule">(33%)</td>
+<td stylecode="lrule botrule rrule">  </td>
+</tr>
+<tr>
+<td stylecode="lrule botrule">600 mg tablet/day</td>
+<td stylecode="lrule botrule">7</td>
+<td stylecode="lrule botrule">1</td>
+<td stylecode="lrule botrule">0.33</td>
+<td stylecode="lrule botrule">2.0</td>
+<td stylecode="lrule botrule">0.039</td>
+<td stylecode="lrule botrule">2.4<footnoteref idref="table1foot1"></footnoteref>
+</td>
+<td stylecode="lrule botrule">  </td>
+<td stylecode="lrule botrule rrule">  </td>
+</tr>
+<tr>
+<td align="right" stylecode="lrule botrule">%CV</td>
+<td stylecode="lrule botrule"></td>
+<td stylecode="lrule botrule"></td>
+<td stylecode="lrule botrule">25%</td>
+<td stylecode="lrule botrule">(50%)</td>
+<td stylecode="lrule botrule">(36%)</td>
+<td stylecode="lrule botrule">(19%)</td>
+<td stylecode="lrule botrule"></td>
+<td stylecode="lrule botrule rrule"></td>
+</tr>
+<tr>
+<td stylecode="lrule botrule"></td>
+<td stylecode="lrule botrule">7</td>
+<td stylecode="lrule botrule">22</td>
+<td stylecode="lrule botrule">0.55</td>
+<td stylecode="lrule botrule">2.1</td>
+<td stylecode="lrule botrule">0.14</td>
+<td stylecode="lrule botrule">5.8<footnoteref idref="table1foot1"></footnoteref>
+</td>
+<td stylecode="lrule botrule">84.5</td>
+<td stylecode="lrule botrule rrule">-</td>
+</tr>
+<tr>
+<td align="right" stylecode="lrule botrule">%CV</td>
+<td stylecode="lrule botrule"></td>
+<td stylecode="lrule botrule"></td>
+<td stylecode="lrule botrule">(18%)</td>
+<td stylecode="lrule botrule">(52%)</td>
+<td stylecode="lrule botrule">(26%)</td>
+<td stylecode="lrule botrule">(25%)</td>
+<td stylecode="lrule botrule"></td>
+<td stylecode="lrule botrule rrule">-</td>
+</tr>
+<tr>
+<td stylecode="lrule botrule">600 mg tablet/day (leukocytes)</td>
+<td stylecode="lrule botrule">7</td>
+<td stylecode="lrule botrule">22</td>
+<td stylecode="lrule botrule">252</td>
+<td stylecode="lrule botrule">10.9</td>
+<td stylecode="lrule botrule">146</td>
+<td stylecode="lrule botrule">4763<footnoteref idref="table1foot1"></footnoteref>
+</td>
+<td stylecode="lrule botrule">82.8</td>
+<td stylecode="lrule botrule rrule">-</td>
+</tr>
+<tr>
+<td align="right" stylecode="lrule botrule">%CV</td>
+<td stylecode="lrule botrule"></td>
+<td stylecode="lrule botrule"></td>
+<td stylecode="lrule botrule">(49%)</td>
+<td stylecode="lrule botrule">(28%)</td>
+<td stylecode="lrule botrule">(33%)</td>
+<td stylecode="lrule botrule">(42%)</td>
+<td stylecode="lrule botrule">-</td>
+<td stylecode="lrule botrule rrule">-</td>
+</tr>
+</tbody>
+</table>

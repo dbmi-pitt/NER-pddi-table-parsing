@@ -1,0 +1,102 @@
+<table id="table7" width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7: Effect of Co−Administered  Drugs on Plasma Metformin Systemic Exposures</caption>
+<col align="left" valign="middle" width="22%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">Co-Administered Drug</th>
+<th rowspan="2" stylecode="Rrule">Dose of Co-Administered  Drug<footnote id="t7f1">Single dose unless otherwise noted</footnote>
+</th>
+<th rowspan="2" stylecode="Rrule">Dose of Metformin<footnoteref idref="t7f1"></footnoteref>
+</th>
+<th colspan="2" stylecode="Rrule">Geometric Mean  Ratio<br/>(Ratio  With/Without Co-Administered Drug)<br/>No Effect = 1.00</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">AUC<footnote id="t7f2">AUC = AUC<sub>0–∞</sub>
+</footnote>
+</th>
+<th stylecode="Rrule">C<sub>max</sub>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="5" stylecode="Lrule Rrule">
+<content stylecode="bold">No dose adjustments required for the following:</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Glyburide</td>
+<td align="center" stylecode="Rrule">5 mg</td>
+<td stylecode="Rrule">500 mg<footnote id="t7f3">Metformin hydrochloride extended-release tablets 500 mg</footnote>
+</td>
+<td stylecode="Rrule">0.98<footnote id="t7f4">Ratio of arithmetic means</footnote>
+</td>
+<td stylecode="Rrule">0.99<footnoteref idref="t7f4"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Furosemide</td>
+<td align="center" stylecode="Rrule">40 mg</td>
+<td stylecode="Rrule">850 mg</td>
+<td stylecode="Rrule">1.09<footnoteref idref="t7f4"></footnoteref>
+</td>
+<td stylecode="Rrule">1.22<footnoteref idref="t7f4"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Nifedipine</td>
+<td align="center" stylecode="Rrule">10 mg</td>
+<td stylecode="Rrule">850 mg</td>
+<td stylecode="Rrule">1.16</td>
+<td stylecode="Rrule">1.21</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Propranolol</td>
+<td align="center" stylecode="Rrule">40 mg</td>
+<td stylecode="Rrule">850 mg</td>
+<td stylecode="Rrule">0.90</td>
+<td stylecode="Rrule">0.94</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ibuprofen</td>
+<td align="center" stylecode="Rrule">400 mg</td>
+<td stylecode="Rrule">850 mg</td>
+<td stylecode="Rrule">1.05<footnoteref idref="t7f4"></footnoteref>
+</td>
+<td stylecode="Rrule">1.07<footnoteref idref="t7f4"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="5" stylecode="Lrule Rrule">
+<content stylecode="bold">Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution </content>
+<content stylecode="italics">[see <linkhtml href="#S5">Warnings and Precautions (5)</linkhtml> and <linkhtml href="#S7">Drug Interactions (7)</linkhtml>]</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Cimetidine</td>
+<td align="center" stylecode="Rrule">400 mg</td>
+<td stylecode="Rrule">850 mg</td>
+<td stylecode="Rrule">1.40</td>
+<td stylecode="Rrule">1.61</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="5" stylecode="Lrule Rrule">
+<content stylecode="bold">Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution </content>
+<content stylecode="italics">[see <linkhtml href="#S5">Warnings and Precautions (5)</linkhtml> and <linkhtml href="#S7">Drug Interactions (7)</linkhtml>]</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Topiramate<footnote id="t7f5">Healthy volunteer study at steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours for 7 days. Study conducted to assess pharmacokinetics only</footnote>
+</td>
+<td align="center" stylecode="Rrule">100 mg</td>
+<td stylecode="Rrule">500 mg</td>
+<td stylecode="Rrule">1.25<footnote id="t7f6">Steady state AUC<sub>0–12h</sub>.</footnote>
+</td>
+<td stylecode="Rrule">1.18</td>
+</tr>
+</tbody>
+</table>

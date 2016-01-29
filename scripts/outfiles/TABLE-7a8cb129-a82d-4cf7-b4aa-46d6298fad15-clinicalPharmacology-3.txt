@@ -1,0 +1,103 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4.</caption>
+<tbody>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Microorganism</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">ATCC</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">MIC (mcg/mL)</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Escherichia coli</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>25922</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.016 to 0.12</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Staphylococcus aureus</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>29213</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>1 to 4</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Pseudomonas aeruginosa</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>27853</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>1 to 4</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Haemophilus influenzae</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>49247</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.5 to 2</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Streptococcus pneumoniae</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>49619</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.06 to 0.25</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

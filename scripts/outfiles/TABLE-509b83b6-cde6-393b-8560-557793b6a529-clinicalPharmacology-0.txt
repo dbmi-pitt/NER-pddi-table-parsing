@@ -1,0 +1,102 @@
+<table id="SPLSERV-0cd3e240-9809-80b8-9fc7-933c553ab345" width="873" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="SPLSERV-9bd58c18-6e29-98db-ffd6-f53f2f4adabe"> Table 2: Plasma Pharmacokinetics for Balsalazide and Key Metabolites (5-ASA and N-Ac-5-ASA) with Administration of Balsalazide Following a Fast, a High-Fat Meal, and Drug Contents Sprinkled on Applesauce (Mean ± SD)</caption>
+<col span="1" width="25.8%"></col>
+<col span="1" width="25.2%"></col>
+<col span="1" width="24.5%"></col>
+<col span="1" width="24.5%"></col>
+<tbody>
+<tr id="SPLSERV-2155d97a-3003-9634-5edc-6e2857dedc8c">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule Botrule" valign="top"></td>
+<td align="center" colspan="1" rowspan="1" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">Fasting</content>
+</paragraph>
+<content stylecode="bold">n = 17</content>
+</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">High-Fat Meal</content>
+</paragraph>
+<content stylecode="bold">n = 17</content>
+</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">Sprinkled</content>
+</paragraph>
+<content stylecode="bold">n = 17</content>
+</td>
+</tr>
+<tr id="SPLSERV-656b0c30-3087-381a-bff8-cc94e5c1c35f">
+<td align="left" colspan="1" rowspan="1" valign="top">C<sub>max </sub>(mcg/mL)</td>
+<td align="center" colspan="1" rowspan="1" valign="top"></td>
+<td align="center" colspan="1" rowspan="1" valign="top"></td>
+<td align="center" colspan="1" rowspan="1" valign="top"></td>
+</tr>
+<tr id="SPLSERV-c4dc9752-051a-f982-7bda-1b488652ea22">
+<td align="left" colspan="1" rowspan="1" valign="top">   Balsalazide</td>
+<td align="center" colspan="1" rowspan="1" valign="top">0.51 ± 0.32</td>
+<td align="center" colspan="1" rowspan="1" valign="top">0.45 ± 0.39</td>
+<td align="center" colspan="1" rowspan="1" valign="top">0.21 ± 0.12</td>
+</tr>
+<tr id="SPLSERV-e1cebc02-a1e6-f429-ceeb-4c195e2be0e0">
+<td align="left" colspan="1" rowspan="1" valign="top">   5-ASA</td>
+<td align="center" colspan="1" rowspan="1" valign="top">0.22 ± 0.12</td>
+<td align="center" colspan="1" rowspan="1" valign="top">0.11 ± 0.136</td>
+<td align="center" colspan="1" rowspan="1" valign="top">0.29 ± 0.17</td>
+</tr>
+<tr id="SPLSERV-16c9af47-5d6a-ed31-0ee3-d10bb338773f">
+<td align="left" colspan="1" rowspan="1" valign="top">   N-Ac-5-ASA</td>
+<td align="center" colspan="1" rowspan="1" valign="top">0.88 ± 0.39</td>
+<td align="center" colspan="1" rowspan="1" valign="top">0.64 ± 0.534</td>
+<td align="center" colspan="1" rowspan="1" valign="top">1.04 ± 0.57</td>
+</tr>
+<tr id="SPLSERV-7772882a-5755-58d5-7580-efed672b4b78">
+<td align="left" colspan="1" rowspan="1" valign="top">AUC<sub>last </sub>mcg·hr/mL)</td>
+<td align="center" colspan="1" rowspan="1" valign="top"></td>
+<td align="center" colspan="1" rowspan="1" valign="top"></td>
+<td align="center" colspan="1" rowspan="1" valign="top"></td>
+</tr>
+<tr id="SPLSERV-6124ea6d-d885-dad2-eb00-8c0b80ef693b">
+<td align="left" colspan="1" rowspan="1" valign="top">   Balsalazide</td>
+<td align="center" colspan="1" rowspan="1" valign="top">1.35 ± 0.73</td>
+<td align="center" colspan="1" rowspan="1" valign="top">1.52 ± 1.01</td>
+<td align="center" colspan="1" rowspan="1" valign="top">0.87 ± 0.48</td>
+</tr>
+<tr id="SPLSERV-0ce860e9-9a60-e25e-a964-9e0593214694">
+<td align="left" colspan="1" rowspan="1" valign="top">   5-ASA</td>
+<td align="center" colspan="1" rowspan="1" valign="top">2.59 ± 1.46</td>
+<td align="center" colspan="1" rowspan="1" valign="top">2.10 ± 2.58</td>
+<td align="center" colspan="1" rowspan="1" valign="top">2.99 ± 1.70</td>
+</tr>
+<tr id="SPLSERV-140ae653-bf4f-b376-c498-f8f0d773b82b">
+<td align="left" colspan="1" rowspan="1" valign="top">   N-Ac-5-ASA</td>
+<td align="center" colspan="1" rowspan="1" valign="top">17.8 ± 8.14</td>
+<td align="center" colspan="1" rowspan="1" valign="top">17.7 ± 13.7</td>
+<td align="center" colspan="1" rowspan="1" valign="top">20.0 ± 11.4</td>
+</tr>
+<tr id="SPLSERV-65b105bb-1b65-9d59-c23a-e2ab192c60b5">
+<td align="left" colspan="1" rowspan="1" valign="top">T<sub>max </sub>(h)</td>
+<td align="center" colspan="1" rowspan="1" valign="top"></td>
+<td align="center" colspan="1" rowspan="1" valign="top"></td>
+<td align="center" colspan="1" rowspan="1" valign="top"></td>
+</tr>
+<tr id="SPLSERV-a5659320-d963-169b-99b6-330c3e2deea5">
+<td align="left" colspan="1" rowspan="1" valign="top">   Balsalazide</td>
+<td align="center" colspan="1" rowspan="1" valign="top">0.8 ± 0.85</td>
+<td align="center" colspan="1" rowspan="1" valign="top">1.2 ± 1.11</td>
+<td align="center" colspan="1" rowspan="1" valign="top">1.6 ± 0.44</td>
+</tr>
+<tr id="SPLSERV-d4214423-8f9c-d789-fba7-f9a207c7cc58">
+<td align="left" colspan="1" rowspan="1" valign="top">   5-ASA</td>
+<td align="center" colspan="1" rowspan="1" valign="top">8.2 ± 1.98</td>
+<td align="center" colspan="1" rowspan="1" valign="top">22.0 ± 8.23</td>
+<td align="center" colspan="1" rowspan="1" valign="top">8.7 ± 1.99</td>
+</tr>
+<tr id="SPLSERV-d856c321-16d7-c32f-4796-cf4f31bf67ae">
+<td align="left" colspan="1" rowspan="1" stylecode="Botrule" valign="top">   N-Ac-5-ASA</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Botrule" valign="top">9.9 ± 2.49</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Botrule" valign="top">20.2 ± 8.94</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Botrule" valign="top">10.8 ± 5.39</td>
+</tr>
+</tbody>
+</table>

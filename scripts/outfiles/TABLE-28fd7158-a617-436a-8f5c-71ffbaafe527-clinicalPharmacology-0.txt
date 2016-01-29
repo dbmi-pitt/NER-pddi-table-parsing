@@ -1,0 +1,44 @@
+<table id="id_2a2a6e78-11c2-4acb-9a35-d5363f4172bc" width="873.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="33.6%"></col>
+<col align="center" width="33.2%"></col>
+<col align="center" width="33.2%"></col>
+<thead>
+<tr id="id_19b8da4b-c99f-4f22-9db7-93b9fbe458a0">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top"> </td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Mean Gastric pH</content>
+</td>
+</tr>
+<tr id="id_5cd5bc1b-d231-480a-82d9-0917eff7ac12">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Cimetidine</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Placebo</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_bf808731-d32a-4a71-9c86-a76ea879c00f">
+<td align="left" stylecode="Lrule Toprule" valign="top">1 hour</td>
+<td align="center" stylecode="Toprule" valign="top">3.5</td>
+<td align="center" stylecode="Rrule" valign="top">2.6</td>
+</tr>
+<tr id="id_af99d130-aef6-4a82-8f1e-16be5091d632">
+<td align="left" stylecode="Lrule" valign="top">2 hours</td>
+<td align="center" valign="top">3.1</td>
+<td align="center" stylecode="Rrule" valign="top">1.6</td>
+</tr>
+<tr id="id_f9336acf-352a-4d54-a6ce-03a3d51501d8">
+<td align="left" stylecode="Lrule" valign="top">3 hours</td>
+<td align="center" valign="top">3.8</td>
+<td align="center" stylecode="Rrule" valign="top">1.9</td>
+</tr>
+<tr id="id_5df1830c-d770-40df-90c5-56af10bfebce">
+<td align="left" stylecode="Lrule Botrule" valign="top">4 hours</td>
+<td align="center" stylecode="Botrule" valign="top">6.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.2</td>
+</tr>
+</tbody>
+</table>

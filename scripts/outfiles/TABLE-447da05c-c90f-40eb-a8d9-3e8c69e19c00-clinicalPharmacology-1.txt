@@ -1,0 +1,32 @@
+<table frame="void" width="298" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top"> Microorganism</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top"></td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top"> MIC (µg/mL)</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="italics">E. coli</content>
+</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top">ATCC 25922</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top">1 – 4</td>
+</tr>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="italics">E. faecalis</content>
+</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top">ATCC 29212</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top">&lt;32</td>
+</tr>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="italics">S. aureus</content>
+</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top">ATCC 29213</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top">1 - 4</td>
+</tr>
+</tbody>
+</table>

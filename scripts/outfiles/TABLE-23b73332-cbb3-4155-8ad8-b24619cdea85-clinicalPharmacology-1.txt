@@ -1,0 +1,181 @@
+<table border="single" id="id_d86fbd26-31d9-41be-a885-d76b11282d48" width="610.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="27.0%"></col>
+<col width="17.0%"></col>
+<col width="14.4%"></col>
+<col width="18.0%"></col>
+<col width="12.6%"></col>
+<col width="10.8%"></col>
+<tbody>
+<tr id="id_bf8ebefa-17e6-4a92-93e4-8e26f7c9014c">
+<td align="justify" stylecode="Toprule" valign="top">
+<paragraph>Population</paragraph>(No. of Patients)</td>
+<td align="justify" stylecode="Toprule" valign="top">Dose</td>
+<td align="justify" stylecode="Toprule" valign="top">
+<paragraph>AUC<sub>0-t</sub>
+</paragraph>
+<paragraph>(ng·hr/</paragraph>mL)</td>
+<td align="justify" stylecode="Toprule" valign="top">
+<paragraph>t<sub>1/2</sub>
+</paragraph>(hr)</td>
+<td align="justify" stylecode="Toprule" valign="top">
+<paragraph>V</paragraph>(L/kg)</td>
+<td align="justify" valign="top">
+<paragraph>CI</paragraph>(L/hr/kg)</td>
+</tr>
+<tr id="id_528327c2-953b-45c7-b100-e80e93aacd9e">
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_8ad70dbb-ffd6-4c7d-8cec-062e67de7d42">
+<td align="left" valign="top">
+<paragraph>Renal</paragraph>
+<paragraph>Impairment</paragraph>(n=12)</td>
+<td align="left" valign="top">
+<paragraph>0.02</paragraph>
+<paragraph>mg/kg/4hr</paragraph>IV</td>
+<td align="left" valign="top">
+<paragraph>393±123</paragraph>(t=60 hr)</td>
+<td align="left" valign="top">26.3 ±9.2</td>
+<td align="left" valign="top">
+<paragraph>1.07</paragraph>±0.20</td>
+<td align="left" valign="top">
+<paragraph>0.038</paragraph>±0.014</td>
+</tr>
+<tr id="id_e8ccc374-038c-459e-98b3-cac65ce223e9">
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_22b3b7a1-5f8a-4833-8fe8-8ac212bb1e04">
+<td align="justify" rowspan="2" valign="top">
+<paragraph>Mild Hepatic </paragraph>
+<paragraph>Impairment</paragraph>(n=6)</td>
+<td align="justify" valign="top">
+<paragraph>0.02</paragraph>
+<paragraph>mg/kg/4hr</paragraph>
+<paragraph>IV</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>367±107</paragraph>
+<paragraph>(t=72 hr)</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>60.6±43.8</paragraph>
+<paragraph>Range: 27.8 – 141</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>3.1±1.6</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>0.042</paragraph>
+<paragraph>±0.02</paragraph>
+</td>
+</tr>
+<tr id="id_0db3d95d-253b-4b55-8344-8b823a3bed03">
+<td align="left" valign="top">
+<paragraph>7.7 mg</paragraph>PO</td>
+<td align="left" valign="top">
+<paragraph>488±320</paragraph>(t=72 hr)</td>
+<td align="left" valign="top">
+<paragraph>66.1±44.8</paragraph>Range: 29.5 – 138</td>
+<td align="left" valign="top">3.7±4.7<footnote id="id-913b9b02-3277-496c-873e-a033e03fe42d">corrected for bioavailability</footnote>
+</td>
+<td align="left" valign="top">
+<paragraph>0.034</paragraph>±0.019<footnoteref idref="id-913b9b02-3277-496c-873e-a033e03fe42d"></footnoteref>
+</td>
+</tr>
+<tr id="id_dc65287d-3fc6-440c-bb54-f2231890d644">
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_f61ecab6-57d9-4e10-ac90-4429e9d42b9e">
+<td align="justify" valign="top">
+<paragraph>Severe</paragraph>
+<paragraph>Hepatic</paragraph>
+<paragraph>Impairment</paragraph>
+<paragraph>(n=6, IV)</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>0.02 mg/kg/4hr</paragraph>
+<paragraph>IV (n=2)</paragraph>
+<paragraph>
+<br/>
+</paragraph>
+<paragraph>0.01 mg/kg/8hr</paragraph>
+<paragraph>IV (n=4)</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>762±204</paragraph>
+<paragraph>(t=120 hr)</paragraph>
+<paragraph>
+<br/>
+</paragraph>
+<paragraph>289±117</paragraph>
+<paragraph>(t=144 hr)</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>198±158</paragraph>
+<paragraph>Range:81-436</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>3.9±1.0</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>0.017</paragraph>
+<paragraph>±0.013</paragraph>
+</td>
+</tr>
+<tr id="id_324ec9fd-d7ec-4441-bce6-90f8cd6df441">
+<td align="left" valign="top"></td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_7e8f9aa4-2652-4fa0-b072-560d5890f0aa">
+<td align="left" stylecode="Botrule" valign="top">(n=5, PO)<footnote id="id-a56bfbf1-232e-4fed-b39a-49d68248b141">1 patient did not receive the PO dose</footnote> </td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>8 mg PO</paragraph>
+<paragraph>(n=1)</paragraph>
+<paragraph>
+<br/>
+</paragraph>
+<paragraph>5 mg PO</paragraph>
+<paragraph>(n=4)</paragraph>
+<paragraph>4 mg PO</paragraph>(n=1)</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>658</paragraph>
+<paragraph>(t=120 hr)</paragraph>
+<paragraph>
+<br/>
+</paragraph>533±156 (t=144 hr)</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>119±35</paragraph>Range: 85-178</td>
+<td align="left" stylecode="Botrule" valign="top">3.1±3.4<footnoteref idref="id-913b9b02-3277-496c-873e-a033e03fe42d"></footnoteref>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>0.016</paragraph>±0.011<footnoteref idref="id-913b9b02-3277-496c-873e-a033e03fe42d"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

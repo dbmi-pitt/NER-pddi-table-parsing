@@ -1,0 +1,73 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tfoot>
+<tr>
+<td valign="top">
+<sup>a</sup>AUC<sub>0-12h</sub>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<sup>b</sup>AUC 24h=AUC<sub>0-12</sub> x2 </td>
+</tr>
+<tr>
+<td colspan="6" stylecode="     Botrule     " valign="top">
+<sup>c</sup>AUC 24h=AUC<sub>0-8h</sub> x3 </td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule     " valign="top"></td>
+<td align="center" stylecode="     Botrule          Toprule     " valign="top"></td>
+<td align="center" colspan="4" stylecode="     Botrule          Toprule     " valign="top">
+<content stylecode="bold">Steady-state Pharmacokinetic Parameters</content>
+<br/>
+<content stylecode="bold">Following Multiple Oral and I.V. Doses</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> Parameters </td>
+<td colspan="2" valign="top"> 500 mg </td>
+<td valign="top"> 400 mg </td>
+<td valign="top"> 750 mg </td>
+<td valign="top"> 400 mg </td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td colspan="2" valign="top"> q12h, P.O. </td>
+<td valign="top"> q12h, I.V. </td>
+<td valign="top"> q12h, P.O. </td>
+<td valign="top"> q8h, I.V. </td>
+</tr>
+<tr>
+<td valign="top"> AUG (μg•hr/mL) </td>
+<td valign="top"> 13.7<sup>a</sup>
+</td>
+<td valign="top"></td>
+<td valign="top"> 12.7<sup>a</sup>
+</td>
+<td valign="top"> 31.6<sup>b</sup>
+</td>
+<td valign="top"> 32.9<sup>c</sup>
+</td>
+</tr>
+<tr>
+<td valign="top"> C<sub>max</sub> (μg/mL) </td>
+<td valign="top"> 2.97 </td>
+<td valign="top"></td>
+<td valign="top"> 4.56 </td>
+<td valign="top"> 3.59 </td>
+<td valign="top"> 4.07 </td>
+</tr>
+</tbody>
+</table>

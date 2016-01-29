@@ -1,0 +1,410 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1 Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)</caption>
+<col width="16%"></col>
+<col width="20%"></col>
+<col width="16%"></col>
+<col width="24%"></col>
+<col width="24%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Tissue</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Intravenous Dose (gram)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Number of Samples</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Mean [μg/mL or mcg/(gram)]<footnote id="_RefFN1275669256-1">at 1 hour unless otherwise noted</footnote>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Range [μg/mL or mcg/(gram)]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule "></td>
+<td stylecode="Rrule Lrule Toprule Botrule "></td>
+<td stylecode="Rrule Lrule Toprule Botrule "></td>
+<td stylecode="Rrule Lrule Toprule Botrule "></td>
+<td stylecode="Rrule Lrule Toprule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Endometrium</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>4.2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1.7–10.2</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Myometrium</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>15</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>3.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.4–8.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Ovary</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>2.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.8–4.8</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Cervix</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>5.4–8.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Fallopian tube</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1.7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.3-3.4</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Skin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>22</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>3.3</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.5–12.6</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Interstitial fluid<footnote id="_RefFN1275669599-1">obtained from blister fluid</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>5.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>3.2-8.6</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Skin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>10</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>5.3</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1.3–16.7</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Interstitial fluid<footnoteref idref="_RefFN1275669599-1"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>26.3</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>20.9–37.4</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Colon</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>2.6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>2.5–2.7</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Bile</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>14.6 (3 hours)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>4–25.7</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Gall bladder</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>3.9</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Peritoneal fluid</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>30.2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>7.4–54.6</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Lung</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>4.8 (2 hours)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1.4–8.2</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Bronchial mucosa</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>4.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1.3–11.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Muscle</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>6.1 (2 hours)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>5.3–6.9</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Fascia</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>8.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1.5–20</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Heart valves</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>9.7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>6.4–12.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Myocardium</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>10</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>15.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>5.2–25.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>CSF (inflamed)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>20 mg/kg<footnote id="_RefFN1275669692-1">in pediatric patients of age 5 months to 8 years</footnote>
+</paragraph>
+<paragraph>40 mg/kg<footnote id="_RefFN1275669725-1">in pediatric patients of age 1 month to 15 years</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>8</paragraph>
+<paragraph>5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1.1 (2 hours) </paragraph>
+<paragraph>3.3 (3 hours)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.2-2.8 </paragraph>
+<paragraph>0.9-6.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>CSF (uninflamed)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>0.2 (2 hours)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>0.1–0.3</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

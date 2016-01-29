@@ -1,0 +1,101 @@
+<table id="_RefTABLE2" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2 MIC Interpretive Standards (mcg/mL) </caption>
+<col width="30%"></col>
+<col width="13%"></col>
+<col width="14%"></col>
+<col width="11%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule Botrule Lrule Toprule "></th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Susceptible</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Moderately</content>
+<br/>
+<content stylecode="bold">Susceptible</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Resistant</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="bottom">
+<paragraph>Staphylococci</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 0.12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 0.25</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="italics">N. </content>
+<content stylecode="italics">gonorrhoeae</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 0.12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>0.25 – 2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 4</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="italics">L. </content>
+<content stylecode="italics">monocytogenes</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 4</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="bottom">
+<paragraph>Non-enterococcal streptococci</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 0.12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>0.25 – 2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 4</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>Pneumococci</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>≤ 0.06</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>0.12 – 1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>≥ 2</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

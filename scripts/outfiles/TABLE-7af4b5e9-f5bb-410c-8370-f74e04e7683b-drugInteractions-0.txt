@@ -1,0 +1,190 @@
+<table id="table4" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4           Established and Other Potentially Significant<footnote id="t4fa">This table is not all inclusive.</footnote> Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Trials or Predicted Interaction</caption>
+<col align="left" valign="top" width="27%"></col>
+<col align="left" valign="top" width="23%"></col>
+<col align="left" valign="top" width="50%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Concomitant Drug  Class: Drug Name</th>
+<th align="center" stylecode="Rrule" valign="middle">Effect</th>
+<th align="center" stylecode="Rrule" valign="middle">Clinical Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="italics">HIV antiviral agents</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Protease inhibitor:<br/>  atazanavir</td>
+<td stylecode="Rrule">↓atazanavir<br/>↑ tenofovir</td>
+<td stylecode="Rrule">Coadministration of atazanavir with ATRIPLA is not recommended. Coadministration of atazanavir with either efavirenz or tenofovir DF decreases plasma concentrations of atazanavir. The combined effect of efavirenz plus tenofovir DF on atazanavir plasma concentrations is not known. Also, atazanavir has been shown to increase tenofovir concentrations. There are insufficient data to support dosing recommendations for atazanavir or atazanavir/ritonavir in combination with ATRIPLA.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Protease inhibitor:<br/>  fosamprenavir calcium</td>
+<td stylecode="Rrule">↓ amprenavir</td>
+<td stylecode="Rrule">Fosamprenavir (unboosted):  Appropriate doses of fosamprenavir and ATRIPLA with respect to safety and efficacy have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">Fosamprenavir/ritonavir:  An additional 100 mg/day (300 mg total) of ritonavir is recommended when ATRIPLA is administered with fosamprenavir/ritonavir once daily. No change in the ritonavir dose is required when ATRIPLA is administered with fosamprenavir plus ritonavir twice daily.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Protease inhibitor:<br/>  indinavir</td>
+<td stylecode="Rrule">↓ indinavir</td>
+<td stylecode="Rrule">The optimal dose of indinavir, when given in combination with efavirenz, is not known. Increasing the indinavir dose to 1000 mg every 8 hours does not compensate for the increased indinavir metabolism due to efavirenz.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Protease inhibitor:<br/>  lopinavir/ritonavir</td>
+<td stylecode="Rrule">↓ lopinavir<br/>↑ tenofovir</td>
+<td stylecode="Rrule">Do not use once daily administration of lopinavir/ritonavir. Dose adjustment of lopinavir/ritonavir is recommended when coadministered with efavirenz. Refer to the full prescribing information for lopinavir/ritonavir for guidance on coadministration with efavirenz- or tenofovir-containing regimens, such as ATRIPLA. Patients should be monitored for tenofovir-associated adverse reactions.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Protease inhibitor:<br/>  ritonavir</td>
+<td stylecode="Rrule">↑ ritonavir<br/>↑ efavirenz</td>
+<td stylecode="Rrule">When ritonavir 500 mg every 12 hours was coadministered with efavirenz 600 mg once daily, the combination was associated with a higher frequency of adverse clinical experiences (e.g., dizziness, nausea, paresthesia) and laboratory abnormalities (elevated liver enzymes). Monitoring of liver enzymes is recommended when ATRIPLA is used in combination with ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Protease inhibitor:<br/>  saquinavir</td>
+<td stylecode="Rrule">↓ saquinavir</td>
+<td stylecode="Rrule">Appropriate doses of the combination of efavirenz and saquinavir/ritonavir with respect to safety and efficacy have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">CCR5 co-receptor antagonist:<br/>  maraviroc</td>
+<td stylecode="Rrule">↓ maraviroc</td>
+<td stylecode="Rrule">Efavirenz decreases plasma concentrations of maraviroc. Refer to the full prescribing information for maraviroc for guidance on coadministration with ATRIPLA.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">NRTI:<br/>  didanosine</td>
+<td stylecode="Rrule">↑ didanosine</td>
+<td stylecode="Rrule">Coadministration of ATRIPLA and didanosine should be undertaken with caution and patients receiving this combination should be monitored closely for didanosine-associated adverse reactions including pancreatitis, lactic acidosis, and neuropathy. A dose reduction of didanosine is recommended when coadministered with tenofovir DF. For additional information on coadministration with tenofovir DF-containing products, please refer to the didanosine prescribing information.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">NNRTI:<br/>  Other NNRTIs</td>
+<td stylecode="Rrule">↑ or ↓ efavirenz and/or NNRTI</td>
+<td stylecode="Rrule">Combining two NNRTIs has not been shown to be beneficial. ATRIPLA contains efavirenz and should not be coadministered with other NNRTIs.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Integrase strand transfer inhibitor:<br/>  raltegravir</td>
+<td stylecode="Rrule">↓ raltegravir</td>
+<td stylecode="Rrule">Efavirenz reduces plasma concentrations of raltegravir. The clinical significance of this interaction has not been directly assessed.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="italics">Hepatitis C antiviral agents</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Protease inhibitor:<br/>  boceprevir</td>
+<td stylecode="Rrule">↓ boceprevir</td>
+<td stylecode="Rrule">Plasma trough concentrations of boceprevir were decreased when boceprevir was coadministered with efavirenz, which may result in loss of therapeutic effect. The combination should be avoided.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Protease inhibitor:<br/>  telaprevir</td>
+<td stylecode="Rrule">↓ telaprevir<br/>↓ efavirenz</td>
+<td stylecode="Rrule">Concomitant administration of telaprevir and efavirenz resulted in reduced steady-state exposures to telaprevir and efavirenz.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule Toprule">
+<content stylecode="italics">Other agents</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Anticoagulant:<br/>  warfarin</td>
+<td stylecode="Rrule">↑ or ↓ warfarin</td>
+<td stylecode="Rrule">Plasma concentrations and effects potentially increased or decreased by efavirenz.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Anticonvulsants:<br/>  carbamazepine</td>
+<td stylecode="Rrule">↓ carbamazepine<br/>↓ efavirenz</td>
+<td stylecode="Rrule">There are insufficient data to make a dose recommendation for ATRIPLA. Alternative anticonvulsant treatment should be used.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">  phenytoin<br/>  phenobarbital</td>
+<td stylecode="Rrule">↓ anticonvulsant<br/>↓ efavirenz</td>
+<td stylecode="Rrule">Potential for reduction in anticonvulsant and/or efavirenz plasma levels; periodic monitoring of anticonvulsant plasma levels should be conducted.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Antidepressants:<br/>  bupropion</td>
+<td stylecode="Rrule">↓ buproprion</td>
+<td stylecode="Rrule">The effect of efavirenz on bupropion exposure is thought to be due to the induction of bupropion metabolism. Increases in bupropion dosage should be guided by clinical response, but the maximum recommended dose of bupropion should not be exceeded.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">  sertraline</td>
+<td stylecode="Rrule">↓ sertraline</td>
+<td stylecode="Rrule">Increases in sertraline dose should be guided by clinical response.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Antifungals:<br/>  itraconazole</td>
+<td stylecode="Rrule">↓ itraconazole<br/>↓ hydroxy-itraconazole</td>
+<td stylecode="Rrule">Since no dose recommendation for itraconazole can be made, alternative antifungal treatment should be considered.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">  ketoconazole</td>
+<td stylecode="Rrule">↓ ketoconazole</td>
+<td stylecode="Rrule">Drug interaction trials with ATRIPLA and ketoconazole have not been conducted. Efavirenz has the potential to decrease plasma concentrations of ketoconazole.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">  posaconazole</td>
+<td stylecode="Rrule">↓ posaconazole</td>
+<td stylecode="Rrule">Avoid concomitant use unless the benefit outweighs the risks.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Anti-infective:<br/>  clarithromycin</td>
+<td stylecode="Rrule">↓ clarithromycin<br/>↑ 14-OH metabolite</td>
+<td stylecode="Rrule">Clinical significance unknown. In uninfected volunteers, 46% developed rash while receiving efavirenz and clarithromycin. No dose adjustment of ATRIPLA is recommended when given with clarithromycin. Alternatives to clarithromycin, such as azithromycin, should be considered. Other macrolide antibiotics, such as erythromycin, have not been studied in combination with ATRIPLA.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Antimycobacterial:<br/>  rifabutin</td>
+<td stylecode="Rrule">↓ rifabutin</td>
+<td stylecode="Rrule">Increase daily dose of rifabutin by 50%. Consider doubling the rifabutin dose in regimens where rifabutin is given 2 or 3 times a week.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">  rifampin</td>
+<td stylecode="Rrule">↓ efavirenz</td>
+<td stylecode="Rrule">If ATRIPLA is coadministered with rifampin to patients weighing 50 kg or more, an additional 200 mg/day of efavirenz is recommended.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Calcium channel blockers:<br/>  diltiazem</td>
+<td stylecode="Rrule">↓ diltiazem<br/>↓ desacetyl diltiazem<br/>↓ N-monodes-methyl diltiazem</td>
+<td stylecode="Rrule">Diltiazem dose adjustments should be guided by clinical response (refer to the full prescribing information for diltiazem). No dose adjustment of ATRIPLA is necessary when administered with diltiazem.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">  Others (e.g., felodipine, nicardipine, nifedipine, verapamil)</td>
+<td stylecode="Rrule">↓ calcium channel blocker</td>
+<td stylecode="Rrule">No data are available on the potential interactions of efavirenz with other calcium channel blockers that are substrates of CYP3A. The potential exists for reduction in plasma concentrations of the calcium channel blocker. Dose adjustments should be guided by clinical response (refer to the full prescribing information for the calcium channel blocker).</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">HMG-CoA reductase inhibitors:<br/>  atorvastatin<br/>  pravastatin<br/>  simvastatin</td>
+<td stylecode="Rrule">↓ atorvastatin<br/>↓ pravastatin<br/>↓ simvastatin</td>
+<td stylecode="Rrule">Plasma concentrations of atorvastatin, pravastatin, and simvastatin decreased with efavirenz. Consult the full prescribing information for the HMG-CoA reductase inhibitor for guidance on individualizing the dose.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Hormonal contraceptives:</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Oral:<br/>  ethinyl<br/>  estradiol/norgestimate</td>
+<td stylecode="Rrule">↓ active metabolites of norgestimate</td>
+<td stylecode="Rrule">A reliable method of barrier contraception must be used in addition to hormonal contraceptives. Efavirenz had no effect on ethinyl estradiol concentrations, but progestin levels (norelgestromin and levonorgestrel) were markedly decreased. No effect of ethinyl estradiol/norgestimate on efavirenz plasma concentrations was observed.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Implant:<br/>  etonogestrel</td>
+<td stylecode="Rrule">↓ etonogestrel</td>
+<td stylecode="Rrule">A reliable method of barrier contraception must be used in addition to hormonal contraceptives. The interaction between etonogestrel and efavirenz has not been studied. Decreased exposure of etonogestrel may be expected. There have been postmarketing reports of contraceptive failure with etonogestrel in efavirenz-exposed patients.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Immunosuppressants:<br/>  cyclosporine, tacrolimus, sirolimus, and others metabolized by CYP3A</td>
+<td stylecode="Rrule">↓ immuno-suppressant</td>
+<td stylecode="Rrule">Decreased exposure of the immunosuppressant may be expected due to CYP3A induction by efavirenz. These immunosuppressants are not anticipated to affect exposure of efavirenz. Dose adjustments of the immunosuppressant may be required. Close monitoring of immunosuppressant concentrations for at least 2 weeks (until stable concentrations are reached) is recommended when starting or stopping treatment with ATRIPLA.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Narcotic analgesic:<br/>  methadone</td>
+<td stylecode="Rrule">↓ methadone</td>
+<td stylecode="Rrule">Coadministration of efavirenz in HIV-1 infected individuals with a history of injection drug use resulted in decreased plasma levels of methadone and signs of opiate withdrawal. Methadone dose was increased by a mean of 22% to alleviate withdrawal symptoms. Patients should be monitored for signs of withdrawal and their methadone dose increased as required to alleviate withdrawal symptoms.</td>
+</tr>
+</tbody>
+</table>

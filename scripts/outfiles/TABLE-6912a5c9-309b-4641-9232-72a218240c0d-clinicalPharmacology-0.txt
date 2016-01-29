@@ -1,0 +1,116 @@
+<table id="table14" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 14. Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study</caption>
+<col align="left" valign="middle" width="27%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th stylecode="Rrule">Placebo</th>
+<th stylecode="Rrule">Pioglitazone Tablets, USP 15 mg Once Daily</th>
+<th stylecode="Rrule">Pioglitazone Tablets, USP 30 mg Once Daily</th>
+<th stylecode="Rrule">Pioglitazone Tablets, USP 45 mg Once Daily</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Triglycerides (mg/dL)</content>
+</td>
+<td stylecode="Rrule">N=79</td>
+<td stylecode="Rrule">N=79</td>
+<td stylecode="Rrule">N=84</td>
+<td stylecode="Rrule">N=77</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Baseline (mean)</td>
+<td stylecode="Rrule">263</td>
+<td stylecode="Rrule">284</td>
+<td stylecode="Rrule">261</td>
+<td stylecode="Rrule">260</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Percent change from baseline (adjusted mean<footnote id="table14a">Adjusted for baseline, pooled center, and pooled center by treatment interaction</footnote>)</td>
+<td stylecode="Rrule">4.8%</td>
+<td stylecode="Rrule">-9.0%<footnote id="table14b">p &lt; 0.05 versus placebo</footnote>
+</td>
+<td stylecode="Rrule">-9.6%<footnoteref idref="table14b"></footnoteref>
+</td>
+<td stylecode="Rrule">-9.3%<footnoteref idref="table14b"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">HDL Cholesterol (mg/dL)</content>
+</td>
+<td stylecode="Rrule">N=79</td>
+<td stylecode="Rrule">N=79</td>
+<td stylecode="Rrule">N=83</td>
+<td stylecode="Rrule">N=77</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Baseline (mean)</td>
+<td stylecode="Rrule">42</td>
+<td stylecode="Rrule">40</td>
+<td stylecode="Rrule">41</td>
+<td stylecode="Rrule">41</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Percent change from baseline (adjusted mean<footnoteref idref="table14a"></footnoteref>)</td>
+<td stylecode="Rrule">8.1%</td>
+<td stylecode="Rrule">14.1%<footnoteref idref="table14b"></footnoteref>
+</td>
+<td stylecode="Rrule">12.2%</td>
+<td stylecode="Rrule">19.1%<footnoteref idref="table14b"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">LDL Cholesterol (mg/dL)</content>
+</td>
+<td stylecode="Rrule">N=65</td>
+<td stylecode="Rrule">N=63</td>
+<td stylecode="Rrule">N=74</td>
+<td stylecode="Rrule">N=62</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Baseline (mean)</td>
+<td stylecode="Rrule">139</td>
+<td stylecode="Rrule">132</td>
+<td stylecode="Rrule">136</td>
+<td stylecode="Rrule">127</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Percent change from baseline (adjusted mean<footnoteref idref="table14a"></footnoteref>)</td>
+<td stylecode="Rrule">4.8%</td>
+<td stylecode="Rrule">7.2%</td>
+<td stylecode="Rrule">5.2%</td>
+<td stylecode="Rrule">6.0%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Total Cholesterol (mg/dL)</content>
+</td>
+<td stylecode="Rrule">N=79</td>
+<td stylecode="Rrule">N=79</td>
+<td stylecode="Rrule">N=84</td>
+<td stylecode="Rrule">N=77</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Baseline (mean)</td>
+<td stylecode="Rrule">225</td>
+<td stylecode="Rrule">220</td>
+<td stylecode="Rrule">223</td>
+<td stylecode="Rrule">214</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Percent change from baseline (adjusted mean<footnoteref idref="table14a"></footnoteref>)</td>
+<td stylecode="Rrule">4.4%</td>
+<td stylecode="Rrule">4.6%</td>
+<td stylecode="Rrule">3.3%</td>
+<td stylecode="Rrule">6.4%</td>
+</tr>
+</tbody>
+</table>

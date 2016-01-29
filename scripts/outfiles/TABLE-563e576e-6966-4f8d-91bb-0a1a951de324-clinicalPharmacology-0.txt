@@ -1,0 +1,63 @@
+<table id="inv-b3188723-99ba-4461-b819-d649f4088703" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col id="inv-a21703da-0eef-4349-9e94-7bff71d50c73" width="21.79%"></col>
+<col id="inv-f57207c7-15ce-4220-881d-7363304001a9" width="42.34%"></col>
+<col id="inv-1bf8bd3f-7172-490e-9e21-46fea7db13a0" width="35.85%"></col>
+<tbody id="inv-af036bf8-f92d-40ae-819d-1513f09b015c">
+<tr id="inv-6c9acbee-892c-4fb9-ba0f-9b166b6fce50">
+<td align="center" id="inv-8d198910-c591-4120-9f48-03dd226cc99e" valign="middle">
+<content stylecode="bold">Dose</content>
+</td>
+<td align="center" id="inv-7552711b-e2af-4bc0-aad0-34da52a27082" valign="middle">
+<content stylecode="bold">Maximum </content>
+<content stylecode="bold">Serum Concentration</content>
+</td>
+<td align="center" id="inv-217deb72-2f88-4fb7-93d1-c69edc9c9258" valign="middle">
+<content stylecode="bold">Area Under Curve </content>
+<content stylecode="bold">(AUC)</content>
+</td>
+</tr>
+<tr id="inv-81104dba-69bd-499e-83ec-cd196e9e641a">
+<td align="center" id="inv-f4d24a5c-10c1-4c09-b6ab-d11ec7773516" valign="middle">
+<content stylecode="bold">(mg)</content>
+</td>
+<td align="center" id="inv-8bfde912-3ed8-48c7-8ca4-c7b80d8113cc" valign="middle">
+<content stylecode="bold">(mcg/mL)</content>
+</td>
+<td align="center" id="inv-56037ee5-60b7-497b-9659-d06c0200cba6" valign="middle">
+<content stylecode="bold">(mcg•hr/mL)</content>
+</td>
+</tr>
+<tr id="inv-cf8aeb81-fac5-4445-b266-558b6bedeaba">
+<td align="center" id="inv-4521ecee-3b37-49c7-aa98-28961e5ba109" valign="middle">
+250</td>
+<td align="center" id="inv-a7a72ba3-1494-4763-b22b-3d47e4b67fce" valign="middle">
+1.2</td>
+<td align="center" id="inv-5107b1ab-ae62-49f0-86c7-50bf49ac6470" valign="middle">
+4.8</td>
+</tr>
+<tr id="inv-c07cac0e-fc6a-407e-8970-f03382653bdb">
+<td align="center" id="inv-613d7faf-0a3b-4f7b-a337-0e0355009fd4" valign="middle">
+500</td>
+<td align="center" id="inv-baa644a3-e64d-4f72-93b9-07985c87f156" valign="middle">
+2.4</td>
+<td align="center" id="inv-30e649c3-660b-4f27-982c-65e9aa45fda7" valign="middle">
+11.6</td>
+</tr>
+<tr id="inv-db5e5e96-70e1-4801-85c3-f5ca3ac1fad5">
+<td align="center" id="inv-55a19022-9650-48ed-a07c-3dd402e92728" valign="middle">
+750</td>
+<td align="center" id="inv-0727ccc3-7f9a-4851-af4f-450b6cb409e3" valign="middle">
+4.3</td>
+<td align="center" id="inv-e13d48af-cbf8-4984-b01a-a6db4ffeb4ee" valign="middle">
+20.2</td>
+</tr>
+<tr id="inv-61957fa9-b9df-42c0-b879-ce6ac9a8f9ff">
+<td align="center" id="inv-3cc577fe-de9b-4461-a7d7-48a374154596" valign="middle">
+1000</td>
+<td align="center" id="inv-2aa09baf-8470-470d-b18e-327052757e5e" valign="middle">
+5.4</td>
+<td align="center" id="inv-caf0c54e-ac0b-4dd0-9a8d-768eb36688c2" valign="middle">
+30.8</td>
+</tr>
+</tbody>
+</table>

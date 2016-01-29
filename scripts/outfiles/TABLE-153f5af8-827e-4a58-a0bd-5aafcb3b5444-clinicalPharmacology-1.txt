@@ -1,0 +1,221 @@
+<table id="_RefID8C2D48AB1B514CDAB7B1C8D524350A0F" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6 Drug Interactions: Pharmacokinetic Parameters for Colchicine Tablets, USP in the Presence of the Coadministered Drug</caption>
+<col width="21%"></col>
+<col width="27%"></col>
+<col width="26%"></col>
+<col width="5%"></col>
+<col width="19%"></col>
+<col width="18%"></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Coadministered</content>
+<content stylecode="bold"> Drug</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Dose of </content>
+<content stylecode="bold">Coadministered</content>
+<content stylecode="bold"> Drug (mg)</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Dose of </content>
+<content stylecode="bold">Colchicine</content>
+<content stylecode="bold"> Tablets, USP (mg)</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">N</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">% Change in </content>
+<content stylecode="bold">Colchicine</content>
+<content stylecode="bold"> Concentrations from Baseline</content>
+<br/>
+<content stylecode="bold">(Range: Min - Max)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">AUC<sub>0-t</sub>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Cyclosporine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>100 mg<br/>single-dose</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>0.6 mg<br/>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>23</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>270.0<br/>(62.0 to 606.9)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>259.0<br/>(75.8 to 511.9)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Clarithromycin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>250 mg twice daily,<br/>7 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>0.6 mg<br/>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>23</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>227.2<br/>(65.7 to 591.1)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>281.5<br/>(88.7 to 851.6)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Ketoconazole</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>200 mg twice daily,<br/>5 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>0.6 mg<br/>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>24</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>101.7<br/>(19.6 to 219.0)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>212.2<br/>(76.7 to 419.6)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Ritonavir</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>100 mg twice daily,<br/>5 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>0.6 mg<br/>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>18</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>184.4<br/>(79.2 to 447.4)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>296.0<br/>(53.8 to 924.4)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Verapamil</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>240 mg daily,<br/>5 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>0.6 mg<br/>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>24</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>40.1<br/>(-47.1 to 149.5)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>103.3<br/>(-9.8 to 217.2)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Diltiazem</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>240 mg daily,<br/>7 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>0.6 mg<br/>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>20</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>44.2<br/>(-46.0 to 318.3)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>93.4<br/>(-30.2 to 338.6)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Azithromycin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>500 mg × 1 day, then<br/>250 mg × 4 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>0.6 mg<br/>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>21</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>21.6<br/> (-41.7 to 222.0)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>57.1<br/>(-24.3 to 241.1)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>Grapefruit juice</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>240 mL twice daily,<br/>4 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>0.6 mg<br/>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>21</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>-2.55<br/>(-53.4 to 55.0)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>-2.36<br/>(-46.4 to 62.2)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

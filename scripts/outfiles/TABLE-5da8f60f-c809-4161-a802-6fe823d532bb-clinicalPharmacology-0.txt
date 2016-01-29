@@ -1,0 +1,39 @@
+<table border="1" id="id_947aba21-083c-4c5f-8d9d-c45712a03110" width="473.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_ce94d353-ef21-4688-9a3e-5ede92baa75e">Table 3. Acceptable Quality Control Ranges for Retapamulin</caption>
+<col width="45.9%"></col>
+<col width="18.4%"></col>
+<col width="35.7%"></col>
+<tbody>
+<tr id="id_7951860f-dc54-4f26-a153-ae28d1773beb" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">MIC Range (mcg/mL)</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">Disk Diffusion Zone Diameter (mm)</content>
+</td>
+</tr>
+<tr id="id_ac1e01fa-fdda-4e00-9129-f7d09fc42a5f">
+<td align="left" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 29213</td>
+<td align="left" valign="top">0.06-0.25</td>
+<td align="left" valign="top">NA</td>
+</tr>
+<tr id="id_042473a5-2555-4763-bd71-d13f33cdf55f">
+<td align="left" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 25923</td>
+<td align="left" valign="top">NA</td>
+<td align="left" valign="top">23-30</td>
+</tr>
+<tr id="id_68e1306e-8e46-4714-b3ff-64ac3d12aaf1" stylecode="Botrule">
+<td align="left" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content> ATCC 49619</td>
+<td align="left" valign="top">0.06-0.5<sup>a</sup>
+</td>
+<td align="left" valign="top">13-19<sup>b</sup>
+</td>
+</tr>
+</tbody>
+</table>

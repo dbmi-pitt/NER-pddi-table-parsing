@@ -1,0 +1,42 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Age Range</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Induction Dose</content>
+</content>
+</paragraph>
+<paragraph>Median (range)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Injection Duration</content>
+</content>
+</paragraph>
+<paragraph>Median (range)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>Birth through 16 years</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>2.5 mg/kg</paragraph>
+<paragraph>(1 to 3.6)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>20 sec.</paragraph>
+<paragraph>(6 to 45)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,93 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="30%"></col>
+<col width="22%"></col>
+<col width="22%"></col>
+<col width="27%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>QC Strain</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>Macrodilution</paragraph>
+<paragraph>(MIC in mcg/mL)</paragraph>
+<paragraph>@ 48 hours</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>Microdilution</paragraph>
+<paragraph>(MIC in mcg/mL)</paragraph>
+<paragraph>@ 48 hours</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>Disk Diffusion</paragraph>
+<paragraph>(Zone Diameter in mm)</paragraph>
+<paragraph>@ 24 hours</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Candida parapsilosis </content>ATCC 22019 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 2 to 8 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 1 to 4 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 22 to 33 </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Candida krusei </content>ATCC 6258 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 16 to 64 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 16 to 128 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> ---<sup>*</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Candida albicans </content>ATCC 90028 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> ---<sup>*</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> ---<sup>*</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 28 to 39 </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>
+<content stylecode="italics">Candida tropicalis </content>ATCC 750 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> ---<sup>*</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> ---<sup>*</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 26 to 37 </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,50 @@
+<table id="table1" width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Ciprofloxacin Pharmacokinetics (Mean ± SD) Following Ciprofloxacin Tablets and Ciprofloxacin Extended-Release Tablets Administration</caption>
+<col align="left" valign="top" width="36%"></col>
+<col align="left" valign="top" width="16%"></col>
+<col align="left" valign="top" width="16%"></col>
+<col align="left" valign="top" width="16%"></col>
+<col align="left" valign="top" width="16%"></col>
+<thead>
+<tr>
+<th stylecode="lrule"></th>
+<th stylecode="lrule">C<sub>max</sub>
+<br/>(mg/L)</th>
+<th stylecode="lrule">AUC<sub>0-24h</sub>
+<br/>(mg∙h/L)</th>
+<th stylecode="lrule">T<sub>1/2</sub> (hr)</th>
+<th stylecode="lrule rrule">T<sub>max</sub> (hr) <footnote>median (range)</footnote>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="lrule">Ciprofloxacin extended-release tablets 500 mg QD </td>
+<td stylecode="lrule">1.59 ± 0.43</td>
+<td stylecode="lrule">7.97 ± 1.87</td>
+<td stylecode="lrule">6.6 ± 1.4</td>
+<td stylecode="lrule rrule">1.5 (1.0 – 2.5)</td>
+</tr>
+<tr stylecode="botrule">
+<td stylecode="lrule">Ciprofloxacin tablets 250 mg BID</td>
+<td stylecode="lrule">1.14 ± 0.23</td>
+<td stylecode="lrule">8.25 ± 2.15</td>
+<td stylecode="lrule">4.8 ± 0.6</td>
+<td stylecode="lrule rrule">1.0 (0.5 – 2.5)</td>
+</tr>
+<tr>
+<td stylecode="lrule">Ciprofloxacin extended-release tablets 1000 mg QD</td>
+<td stylecode="lrule">3.11 ± 1.08</td>
+<td stylecode="lrule">16.83 ± 5.65</td>
+<td stylecode="lrule">6.31 ± 0.72</td>
+<td stylecode="lrule rrule">2.0 (1 – 4)</td>
+</tr>
+<tr>
+<td stylecode="lrule">Ciprofloxacin tablets 500 mg BID</td>
+<td stylecode="lrule">2.06 ± 0.41</td>
+<td stylecode="lrule">17.04 ± 4.79</td>
+<td stylecode="lrule">5.66 ± 0.89</td>
+<td stylecode="lrule rrule">2.0 (0.5 – 3.5)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,44 @@
+<table border="single" id="id_e0ea1f82-902f-42e6-b1d8-b62b036e1680" width="444.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<tbody>
+<tr id="id_c92ff1ea-be4f-43d7-9428-07688d31f926">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+</tr>
+<tr id="id_a7bf499f-ae6b-405a-962c-ec8df1ec12d2">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">S. aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">ATCC 29213</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.12 to 0.5</td>
+</tr>
+<tr id="id_c3ed93db-7fd9-4bb8-b261-2d25ee9e0371">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">S. pneumoniae</content>
+<footnote id="id-73146ec6-2ba3-427b-8deb-cb63c7c52f4c">This quality control range is applicable only to ATCC 49619 tested by a microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
+                                                                    <content stylecode="italics">S. pneumoniae</content>
+</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">ATCC 49619</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.03 to 0.12</td>
+</tr>
+<tr id="id_de29b8ad-4dce-40a1-9fa5-27e1ddad1690">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">4Haemophilus influenzae</content>
+<footnote id="id-00191ded-f7e9-4842-9904-efc248e646d1">This quality control range is applicable only to ATCC 49247 tested by a microdilution procedure using HTM .
+                                                                    <content stylecode="italics">H. influenzae</content>
+<sup>1</sup>
+</footnote>
+</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 49247</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4 to 16</td>
+</tr>
+</tbody>
+</table>

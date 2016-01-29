@@ -1,0 +1,23 @@
+<table id="L89fb35a5-e11e-4614-b991-f57d6fedac81" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>Predicted Pharmacokinetic Parameters of Amphotericin B after Administration of Multiple Doses of AMPHOTEC [a]</caption>
+<colgroup>
+<col width="62%"></col>
+<col width="17%"></col>
+<col width="20%"></col>
+</colgroup>
+<thead>
+<tr><td></td><td align="center" colspan="2">AMPHOTEC (mg/kg/day)</td></tr>
+<tr><td>Mean Pharmacokinetic Parameter [b]</td><td align="center">3</td><td align="center">4</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="3">[a] Data obtained using population modeling in 51 bone marrow transplant patients. The modeling assumes amphotericin B pharmacokinetics after administration of AMPHOTEC is best described by a 2-compartment model. Infusion rate = 1 mg/kg/hour.</td></tr>
+<tr><td colspan="3">[b]  Definitions: Vss - Volume of distribution at steady state, CLt - Total plasma clearance, Cmax - Maximum plasma concentration achieved at the end of an infusion, AUCss – Area under the plasma concentration time curve at steady-state.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Vss (L/kg) </td><td align="center">3.8</td><td align="center">4.1</td></tr>
+<tr><td>CLt (L/h/kg) </td><td align="center">0.105</td><td align="center">0.112</td></tr>
+<tr><td>Distribution Half-Life (minutes) </td><td align="center">3.5</td><td align="center">3.5</td></tr>
+<tr><td>Elimination Half-Life (hours) </td><td align="center">27.5</td><td align="center">28.2</td></tr>
+<tr><td>Cmax (μg/mL) </td><td align="center">2.6</td><td align="center">2.9</td></tr>
+<tr><td>AUCss (μg/mL•h)</td><td align="center">29</td><td align="center">36</td></tr>
+</tbody>
+</table>

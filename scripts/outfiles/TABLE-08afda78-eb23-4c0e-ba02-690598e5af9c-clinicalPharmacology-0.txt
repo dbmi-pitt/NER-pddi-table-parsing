@@ -1,0 +1,54 @@
+<table id="t1" width="86%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="bottom" width="29%"></col>
+<col align="center" valign="top" width="71%"></col>
+<thead>
+<tr>
+<th stylecode="Botrule">Tissue or Fluid</th>
+<th stylecode="Botrule" valign="bottom">Ratio of Fluconazole<br/>Tissue (Fluid)/Plasma<br/>Concentration<footnote>Relative to concurrent concentrations in plasma in subjects with normal renal function.</footnote>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">Cerebrospinal fluid<footnote>Independent of degree of meningeal inflammation.</footnote>
+</td>
+<td valign="bottom">       0.5-0.9</td>
+</tr>
+<tr>
+<td valign="top">Saliva</td>
+<td valign="bottom">1</td>
+</tr>
+<tr>
+<td valign="top">Sputum</td>
+<td valign="bottom">1</td>
+</tr>
+<tr>
+<td valign="top">Blister fluid</td>
+<td valign="bottom">1</td>
+</tr>
+<tr>
+<td valign="top">Urine</td>
+<td>10  </td>
+</tr>
+<tr>
+<td valign="top">Normal skin</td>
+<td>10  </td>
+</tr>
+<tr>
+<td valign="top">Nails</td>
+<td valign="bottom">1</td>
+</tr>
+<tr>
+<td valign="top">Blister skin</td>
+<td valign="bottom">2</td>
+</tr>
+<tr>
+<td valign="top">Vaginal tissue</td>
+<td valign="bottom">1</td>
+</tr>
+<tr>
+<td valign="top">Vaginal fluid</td>
+<td>         0.4-0.7</td>
+</tr>
+</tbody>
+</table>

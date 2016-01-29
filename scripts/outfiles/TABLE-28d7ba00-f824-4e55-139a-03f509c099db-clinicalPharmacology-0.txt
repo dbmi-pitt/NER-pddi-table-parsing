@@ -1,0 +1,54 @@
+<table id="Table1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 1. PEDIATRIC INDUCTION OF ANESTHESIA</caption>
+<col width="33%"></col>
+<col width="33%"></col>
+<col width="33%"></col>
+<tbody>
+<tr stylecode="Toprule">
+<td align="center" valign="top">
+<paragraph>
+<content stylecode="bold">Age Range</content>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>
+<content stylecode="bold">Induction Dose</content>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>
+<content stylecode="bold">Injection Duration</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>Median (range)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>Median (range)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<paragraph>Birth through 16 years</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2.5 mg/kg</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>20 sec.</paragraph>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>(1 - 3.6)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(6 - 45)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

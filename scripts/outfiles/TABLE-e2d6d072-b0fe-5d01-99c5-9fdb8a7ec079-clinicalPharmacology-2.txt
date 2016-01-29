@@ -1,0 +1,87 @@
+<table border="single" id="id_9ebb6885-fc74-4cc4-90ff-2c50b96ea970" width="442.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_ad76ace7-c411-4729-a3c8-2dc7a18f57fa">Table 3. Duodenal Ulcer Patient Healing Rates</caption>
+<col width="19.0%"></col>
+<col width="21.9%"></col>
+<col width="19.7%"></col>
+<col width="19.7%"></col>
+<col width="19.7%"></col>
+<tbody>
+<tr id="id_13be2c21-613e-4a3f-8637-2c6a0c7b53c1">
+<td align="left" rowspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Ranitidine<footnote id="id-92055008-edc7-41da-8c34-e07d5250e413">All patients were permitted antacids as needed for relief of pain.</footnote>
+</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Placebo<footnoteref idref="id-92055008-edc7-41da-8c34-e07d5250e413"></footnoteref>
+</content>
+</td>
+</tr>
+<tr id="id_08f6eacd-df4c-4988-9f95-4c4e24c91eb2">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Number</content>
+</paragraph>
+<content stylecode="bold">Entered</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Healed/</content>
+</paragraph>
+<content stylecode="bold">Evaluable</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Number</content>
+</paragraph>
+<content stylecode="bold">Entered</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Healed/</content>
+</paragraph>
+<content stylecode="bold">Evaluable</content>
+</td>
+</tr>
+<tr id="id_dabca039-6ef6-49eb-bb7c-06792323d259">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>Outpatients</paragraph>Week 2</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">69/182</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">31/164</td>
+</tr>
+<tr id="id_6805b7b7-a9cb-4539-8f7a-373d53017e27">
+<td align="left" stylecode="Lrule Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">(38%)<footnote id="id-d655e43d-c507-4e10-b72b-4a8f68502330">
+<content stylecode="italics">P &lt;0.0001.</content>
+</footnote>
+</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">(19%)</td>
+</tr>
+<tr id="id_46294360-30ff-4253-8416-a9995c839308">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">195</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">188</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_fb2c1ffa-eea2-4057-b692-5079234b166d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Week 4</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">137/187</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">76/168</td>
+</tr>
+<tr id="id_c752c35b-3e9b-43fb-b639-319752519714">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">(73%)<footnoteref idref="id-d655e43d-c507-4e10-b72b-4a8f68502330"></footnoteref>
+</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top">(45%)</td>
+</tr>
+</tbody>
+</table>

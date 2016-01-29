@@ -1,0 +1,102 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Study #1 (n = 186, Indeterminate results included)</caption>
+<col align="left" valign="top" width="15%"></col>
+<col align="left" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="left" valign="top" width="10%"></col>
+<thead>
+<tr>
+<th align="center" colspan="7">Histology and CLOtest<footnoteref idref="foot1"></footnoteref>
+</th>
+</tr>
+<tr>
+<th></th>
+<th>
+<content stylecode="italics">H. pylori</content>
+</th>
+<th>Positive</th>
+<th>Negative</th>
+<th>Total</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">
+<content stylecode="bold">Notes: </content>
+<content stylecode="italics">PYtest<footnoteref idref="foot1"></footnoteref> at 10 min. was compared to the gold standard of biopsy results in which histology and CLOtest<footnoteref idref="foot1"></footnoteref> concurred. Patients who did not have both biopsy tests performed, or in whom the tests differed, were excluded from analysis. There was no statistical difference in test accuracy based on gender of patient.</content>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7">
+<content stylecode="bold italics">ppv = positive predictive value (true positive divided by total PYtest<footnoteref idref="foot1"></footnoteref> positive)</content>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" stylecode="Botrule">
+<content stylecode="bold italics">npv = negative predictive value (true negative divided by total PYtest<footnoteref idref="foot1"></footnoteref> negative)</content>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td>PYtest<footnoteref idref="foot1"></footnoteref>
+</td>
+<td>Positive</td>
+<td stylecode="Toprule Lrule">51</td>
+<td stylecode="Toprule Lrule">8</td>
+<td stylecode="Toprule Lrule Rrule">59</td>
+<td>ppv.</td>
+<td>86%</td>
+</tr>
+<tr>
+<td>(DPM</td>
+<td>Indeterminate</td>
+<td stylecode="Toprule Lrule">1</td>
+<td stylecode="Toprule Lrule">8</td>
+<td stylecode="Toprule  Lrule Rrule">9</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10 min.)</td>
+<td>Negative</td>
+<td stylecode="Toprule Lrule">1</td>
+<td stylecode="Toprule Lrule">117</td>
+<td stylecode="Toprule Lrule Rrule">118</td>
+<td>npv.</td>
+<td>99%</td>
+</tr>
+<tr>
+<td>Total</td>
+<td></td>
+<td stylecode="Toprule Lrule">53</td>
+<td stylecode="Toprule Lrule">133</td>
+<td stylecode="Toprule Lrule Rrule">186</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td stylecode="Toprule">sensitivity</td>
+<td stylecode="Toprule">specificity</td>
+<td stylecode="Toprule"></td>
+<td></td>
+<td></td>
+</tr>
+<tr stylecode="Botrule">
+<td></td>
+<td></td>
+<td>96%</td>
+<td>88%</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>

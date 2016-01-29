@@ -1,0 +1,35 @@
+<table width="60%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Steady-State Pharmacokinetics of Verapamil Enantiomers in Healthy Humans</caption>
+<col align="left" valign="middle" width="40%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th colspan="2">Verapamil Dose (mg)</th>
+</tr>
+<tr>
+<th></th>
+<th>Isomer</th>
+<th stylecode="Toprule">180</th>
+<th stylecode="Toprule">240</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Toprule">Mean C<sub>max</sub>
+<br/>(ng/ml)</td>
+<td stylecode="Toprule">R<br/>S</td>
+<td stylecode="Toprule">90.5<br/>21.2</td>
+<td stylecode="Toprule">120<br/>28.7</td>
+</tr>
+<tr>
+<td stylecode="Toprule">AUC (0–24h)<br/>(ng∙hr/ml)</td>
+<td stylecode="Toprule">R<br/>S</td>
+<td stylecode="Toprule">1,223<br/>266</td>
+<td stylecode="Toprule">1,470<br/>322</td>
+</tr>
+</tbody>
+</table>

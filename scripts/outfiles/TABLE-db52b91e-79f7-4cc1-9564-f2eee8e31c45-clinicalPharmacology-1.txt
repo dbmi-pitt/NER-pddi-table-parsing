@@ -1,0 +1,28 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="center" valign="top" width="50%"></col>
+<col align="center" valign="top" width="50%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th stylecode="Lrule Rrule">Pharmacokinetic Parameter<br/>[mean (SD)]</th>
+<th stylecode="Rrule">5-Day Regimen<br/>(12 mg/kg for 5 days)</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule">N</th>
+<th stylecode="Rrule">17</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>max</sub>  (µg/mL)</td>
+<td stylecode="Rrule">0.5 (0.4)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">T<sub>max</sub> (hr)</td>
+<td stylecode="Rrule">2.2 (0.8)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">AUC<sub>0–24</sub>(µg∙hr/mL)</td>
+<td stylecode="Rrule">3.9 (1.9)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,117 @@
+<table border="0" cellpadding="3" id="t5891322" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered
+Drugs</caption>
+<colgroup>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+</colgroup>
+<tfoot>
+<tr>
+<td colspan="6">*Multiple dose (steady state) unless otherwise noted<br/>#Single dose<br/>
+<sup>†</sup>AUC = AUC(INF)
+for single dose treatments and AUC = AUC(TAU) for multiple dose treatments<br/>**AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points<br/>INR = International Normalized Ratio<br/>PT = Prothrombin
+Time<br/>QD = once daily<br/>TID = three times daily</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Toprule Lrule Rrule Botrule">
+<content stylecode="bold">
+<content stylecode="emphasis">Coadministered Drug</content>
+</content>
+</td>
+<td align="center" rowspan="2" stylecode="Toprule Lrule Rrule Botrule">
+<content stylecode="bold">
+<content stylecode="emphasis">Dosing of Coadministered Drug*</content>
+</content>
+</td>
+<td align="center" rowspan="2" stylecode="Toprule Lrule Rrule Botrule">
+<content stylecode="bold">
+<content stylecode="emphasis">Dosing of Linagliptin*</content>
+</content>
+</td>
+<td align="center" colspan="3" stylecode="Toprule Lrule Rrule Botrule">
+<content stylecode="bold">
+<content stylecode="emphasis">Geometric Mean Ratio<br/>(ratio with/without coadministered
+drug)<br/>No effect = 1.0</content>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule Botrule"> </td>
+<td stylecode="Toprule Lrule Rrule Botrule">AUC<sup>†</sup>
+</td>
+<td stylecode="Toprule Lrule Rrule Botrule">Cmax</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Toprule Lrule Rrule Botrule">
+<content stylecode="bold">No dosing
+adjustments required for the following coadministered drugs:</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule Botrule">Metformin</td>
+<td stylecode="Toprule Lrule Rrule Botrule">850 mg TID</td>
+<td stylecode="Toprule Lrule Rrule Botrule">10 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">metformin</td>
+<td stylecode="Toprule Lrule Rrule Botrule">1.01</td>
+<td stylecode="Toprule Lrule Rrule Botrule">0.89</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule Botrule">Glyburide</td>
+<td stylecode="Toprule Lrule Rrule Botrule">1.75 mg<sup>#</sup>
+</td>
+<td stylecode="Toprule Lrule Rrule Botrule">5 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">glyburide</td>
+<td stylecode="Toprule Lrule Rrule Botrule">0.86</td>
+<td stylecode="Toprule Lrule Rrule Botrule">0.86</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule Botrule">Pioglitazone</td>
+<td stylecode="Toprule Lrule Rrule Botrule">45 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">10 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">pioglitazone<br/>metabolite
+M-III<br/>metabolite M-IV</td>
+<td stylecode="Toprule Lrule Rrule Botrule">0.94<br/>0.98<br/>1.04</td>
+<td stylecode="Toprule Lrule Rrule Botrule">0.86<br/>0.96<br/>1.05</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule Botrule">Digoxin</td>
+<td stylecode="Toprule Lrule Rrule Botrule">0.25 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">5 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">digoxin</td>
+<td stylecode="Toprule Lrule Rrule Botrule">1.02</td>
+<td stylecode="Toprule Lrule Rrule Botrule">0.94</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule Botrule">Simvastatin</td>
+<td stylecode="Toprule Lrule Rrule Botrule">40 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">10 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">simvastatin<br/>simvastatin
+acid</td>
+<td stylecode="Toprule Lrule Rrule Botrule">1.34<br/>1.33</td>
+<td stylecode="Toprule Lrule Rrule Botrule">1.10<br/>1.21</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule Botrule">Warfarin</td>
+<td stylecode="Toprule Lrule Rrule Botrule">10 mg<sup>#</sup>
+</td>
+<td stylecode="Toprule Lrule Rrule Botrule">5 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">R-warfarin<br/>S-warfarin<br/>INR<br/>PT</td>
+<td stylecode="Toprule Lrule Rrule Botrule">0.99<br/>1.03<br/>0.93**<br/>1.03**</td>
+<td stylecode="Toprule Lrule Rrule Botrule">1.00<br/>1.01<br/>1.04**<br/>1.15**</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule Botrule">Ethinylestradiol and levonorgestrel</td>
+<td stylecode="Toprule Lrule Rrule Botrule">ethinylestradiol 0.03 mg and<br/>levonorgestrel 0.150 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">5 mg QD</td>
+<td stylecode="Toprule Lrule Rrule Botrule">ethinylestradiol<br/>levonorgestrel</td>
+<td stylecode="Toprule Lrule Rrule Botrule">1.01<br/>1.09</td>
+<td stylecode="Toprule Lrule Rrule Botrule">1.08<br/>1.13</td>
+</tr>
+</tbody>
+</table>

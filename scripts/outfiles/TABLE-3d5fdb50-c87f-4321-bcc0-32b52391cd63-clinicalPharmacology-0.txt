@@ -1,0 +1,100 @@
+<table border="single" id="id_ac85adff-285d-4690-866d-695b155facea" width="445.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="20.0%"></col>
+<col width="20.0%"></col>
+<col width="20.0%"></col>
+<col width="20.0%"></col>
+<col width="20.0%"></col>
+<tbody>
+<tr id="id_c8f3631d-c626-431c-8d6b-7eea2a237ae7">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="bottom">
+<content stylecode="bold">Dose
+                              </content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">AUC<sub>0-∞</sub> (mcg.hr./mL)</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">C<sub>max</sub> (mcg/mL)
+                              </content>
+</td>
+</tr>
+<tr id="id_c68384b9-b89b-4d51-8d63-eb043cd75d08">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">(amoxicillin</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">and</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">clavulanate</content>
+</paragraph>
+<content stylecode="bold">potassium)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">amoxicillin</content>
+</paragraph>
+<content stylecode="bold">(± S.D.)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">clavulanate</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">potassium</content>
+</paragraph>
+<content stylecode="bold">(± S.D.)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">amoxicillin</content>
+</paragraph>
+<content stylecode="bold">(± S.D.)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">clavulanate</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">potassium</content>
+</paragraph>
+<content stylecode="bold">(± S.D.)</content>
+</td>
+</tr>
+<tr id="id_29a96fa5-5869-4918-beef-e779e79b87dc">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<paragraph>400 mg/57 mg</paragraph>
+<paragraph>(5 mL of</paragraph>suspension)</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>17.29 ± 2.28</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>2.34 ± 0.94</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>6.94 ± 1.24</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>1.10 ± 0.42</paragraph>
+</td>
+</tr>
+<tr id="id_06a76d13-f6f6-4d8a-b95c-651610381c56">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<paragraph>400 mg/57 mg</paragraph>
+<paragraph>(one chewable</paragraph>tablet)</td>
+<td align="center" stylecode="Rrule" valign="bottom">
+<paragraph>17.24 ± 2.64</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="bottom">
+<paragraph>2.17 ± 0.73</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="bottom">
+<paragraph>6.67 ± 1.37</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>1.03 ± 0.33</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

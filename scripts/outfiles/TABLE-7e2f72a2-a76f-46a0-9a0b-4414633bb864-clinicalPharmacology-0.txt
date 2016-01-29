@@ -1,0 +1,80 @@
+<table border="1" id="id_b5ce0638-0266-40d5-910d-1787d2f96670" width="431.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_70592988-4e68-48ec-bd27-aa440bf2f35c">Table 1: Mean (CV%)<footnote id="id-8ae23b97-f204-43c7-a213-7b2f01d2537a">Coefficient of variation</footnote> Pharmacokinetic Parameters of Etodolac in Normal Healthy Adults and Various Special Populations</caption>
+<col width="12.8%"></col>
+<col width="11.1%"></col>
+<col width="11.1%"></col>
+<col width="9.5%"></col>
+<col width="11.4%"></col>
+<col width="9.7%"></col>
+<col width="10.2%"></col>
+<col width="12.5%"></col>
+<col width="11.6%"></col>
+<tbody>
+<tr id="id_236501f4-62cb-467e-a573-cdb044a6766f">
+<td align="left" rowspan="2" stylecode="Toprule Botrule Lrule" valign="middle">PK Parameters</td>
+<td align="center" rowspan="2" stylecode="Botrule" valign="middle">Normal Healthy Adults (18 to 65)<footnote id="id-2df7e771-c0b4-486d-a5df-4b07efec10d3">Age Range (years)</footnote> (n = 179)</td>
+<td align="center" rowspan="2" stylecode="Botrule" valign="middle">Healthy Males (18 to 65)   (n = 176)</td>
+<td align="center" rowspan="2" stylecode="Botrule" valign="middle">Healthy Females (27 to 65)   (n = 3)</td>
+<td align="center" rowspan="2" stylecode="Botrule" valign="middle">Elderly (&gt; 65) (70 to 84)</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="middle">Hemodialysis (24 to 65) (n = 9)</td>
+<td align="center" rowspan="2" stylecode="Botrule" valign="middle">Renal Impairment (46 to 73)   (n = 10)</td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="middle">Hepatic Impairment (34 to 60)   (n = 9)</td>
+</tr>
+<tr id="id_07473308-54ef-4c9c-b983-7fa876399efa">
+<td align="center" stylecode="Lrule Botrule" valign="middle">Dialysis On</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Dialysis Off</td>
+</tr>
+<tr id="id_d7bdc29c-9d16-4bc0-ac22-5ff403ab3007">
+<td align="left" stylecode="Lrule Botrule" valign="middle">T<sub>max</sub>, h</td>
+<td align="center" stylecode="Botrule" valign="middle">1.4 (61%)<footnoteref idref="id-8ae23b97-f204-43c7-a213-7b2f01d2537a"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">1.4 (60%)</td>
+<td align="center" stylecode="Botrule" valign="middle">1.7 (60%)</td>
+<td align="center" stylecode="Botrule" valign="middle">1.2 (43%)</td>
+<td align="center" stylecode="Botrule" valign="middle">1.7 (88%)</td>
+<td align="center" stylecode="Botrule" valign="middle">0.9 (67%)</td>
+<td align="center" stylecode="Botrule" valign="middle">2.1 (46%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.1 (15%)</td>
+</tr>
+<tr id="id_f3abc606-3c60-42b2-8ab1-5bbee8a511cf">
+<td align="left" stylecode="Lrule Botrule" valign="middle">Oral Clearance, mL/h/kg (CL/F)</td>
+<td align="center" stylecode="Botrule" valign="middle">49.1 (33%)</td>
+<td align="center" stylecode="Botrule" valign="middle">49.4 (33%)</td>
+<td align="center" stylecode="Botrule" valign="middle">35.7 (28%)</td>
+<td align="center" stylecode="Botrule" valign="middle">45.7 (27%)</td>
+<td align="center" stylecode="Botrule" valign="middle">NA<footnote id="id-aca155b3-2159-4e89-90a4-85658212dffd">NA = not available</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">NA<footnoteref idref="id-aca155b3-2159-4e89-90a4-85658212dffd"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">58.3 (19%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">42.0 (43%)</td>
+</tr>
+<tr id="id_a902f86c-553a-41e3-ac4e-c44789380534">
+<td align="left" stylecode="Lrule Botrule" valign="middle">Apparent Volume of Distribution, mL/kg (Vd/F)</td>
+<td align="center" stylecode="Botrule" valign="middle">393 (29%)</td>
+<td align="center" stylecode="Botrule" valign="middle">394 (29%)</td>
+<td align="center" stylecode="Botrule" valign="middle">300 (8%)</td>
+<td align="center" stylecode="Botrule" valign="middle">414 (38%)</td>
+<td align="center" stylecode="Botrule" valign="middle">NA<footnoteref idref="id-aca155b3-2159-4e89-90a4-85658212dffd"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">NA<footnoteref idref="id-aca155b3-2159-4e89-90a4-85658212dffd"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">NA<footnoteref idref="id-aca155b3-2159-4e89-90a4-85658212dffd"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">NA<footnoteref idref="id-aca155b3-2159-4e89-90a4-85658212dffd"></footnoteref>
+</td>
+</tr>
+<tr id="id_7fcd4b6e-f845-47d6-8812-31ede7aba561">
+<td align="left" stylecode="Lrule Botrule" valign="middle">Terminal Half-Life, h</td>
+<td align="center" stylecode="Botrule" valign="middle">6.4 (22%)</td>
+<td align="center" stylecode="Botrule" valign="middle">6.4 (22%)</td>
+<td align="center" stylecode="Botrule" valign="middle">7.9 (35%)</td>
+<td align="center" stylecode="Botrule" valign="middle">6.5 (24%)</td>
+<td align="center" stylecode="Botrule" valign="middle">5.1 (22%)</td>
+<td align="center" stylecode="Botrule" valign="middle">7.5 (34%)</td>
+<td align="center" stylecode="Botrule" valign="middle">NA<footnoteref idref="id-aca155b3-2159-4e89-90a4-85658212dffd"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">5.7 (24%)</td>
+</tr>
+</tbody>
+</table>

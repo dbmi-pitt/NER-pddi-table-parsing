@@ -1,0 +1,29 @@
+<table id="id_7e3b845a-2479-42ae-ad12-8fada866b1fd" width="438.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="47.7%"></col>
+<col width="52.3%"></col>
+<tbody>
+<tr id="id_a732bb30-8405-43f8-9e51-fd52f48b3ba5" stylecode="Toprule">
+<td align="center" valign="top">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+</tr>
+<tr id="id_f6e52d0d-90b7-4814-8ad7-1915e5542534">
+<td align="center" valign="top">Haemophilus influenzae ATCC 49247<footnote id="id-496cdd14-aaf3-4827-8c76-cdd38b0fc382">These quality control limits are applicable only to tests conducted with H. influenzae ATCC 49247 using Haemophilus Test Medium (HTM)<sup>2</sup>.</footnote>
+</td>
+<td align="center" valign="top">03-21</td>
+</tr>
+<tr id="id_5ef056b6-c6bc-45ab-96cf-81813bdcba69">
+<td align="center" valign="top">Staphylococcus aureus ATCC 25923</td>
+<td align="center" valign="top">21-26</td>
+</tr>
+<tr id="id_58b70b0e-ef16-461e-a5b5-a455e0e6ff83" stylecode="Botrule">
+<td align="center" valign="top">Streptococcus Pneumoniae ATCC 49619<footnote id="id-783184ef-836d-411f-bd0b-dd015496f170">These quality control limits are applicable only to tests conducted with S.pneumoniae ATCC 49619 using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO<sub>2 </sub>
+<sup>2</sup>.</footnote>
+</td>
+<td align="center" valign="top">19-25</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,25 @@
+<table width="60%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4. Systemic Exposure (AUC<sub>0–10h</sub>) comparisons of fixed and weight based regimens</caption>
+<col align="center" valign="middle" width="50%"></col>
+<col align="center" valign="middle" width="50%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Regimen</th>
+<th stylecode="Rrule">Geometric Mean AUC</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Fixed 20 mg (n=30)</td>
+<td stylecode="Rrule">3991.2</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">0.24 mg/kg (n=31)</td>
+<td stylecode="Rrule">2792.7</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Ratio (90% CI)</td>
+<td stylecode="Rrule">1.43 (1.32,1.54)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,37 @@
+<table border="single" id="id_3a82cc7d-2d30-4c9e-b650-18ec65f8a041" width="444.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<tbody>
+<tr id="id_c341d35e-ce67-4faf-85dc-baaf429414f3">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Zone diameter (mm)</content>
+</td>
+</tr>
+<tr id="id_5691d8d9-1c80-45a3-829a-b299ed61ff49">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">S. aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">ATCC 25923</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">26 to 32</td>
+</tr>
+<tr id="id_6475384c-818e-405a-85ff-9e1061a5e780">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">S. pneumoniae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">ATCC 49619</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">25 to 31</td>
+</tr>
+<tr id="id_79133690-1a39-4cbc-8f7c-994727b5d9c8">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 49247</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">11 to 17</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,42 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Susceptibility Test Interpretive Criteria for Penicillin</caption>
+<col align="center" valign="top" width="16%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th stylecode="Lrule Rrule"></th>
+<th align="center" colspan="3" stylecode="Rrule">MIC (mcg/mL)</th>
+<th align="center" colspan="3" stylecode="Rrule">Disk Diffusion (zone diameter in mm)</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule">Pathogen</th>
+<th stylecode="Rrule">Susceptible (S)</th>
+<th stylecode="Rrule">Intermediate (I)</th>
+<th stylecode="Rrule">Resistant (R)</th>
+<th stylecode="Rrule">Susceptible (S)</th>
+<th stylecode="Rrule">Intermediate (I)</th>
+<th stylecode="Rrule">Resistant (R)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus pyogenes</content>
+<footnote>Susceptibility testing of penicillins for treatment of β–hemolytic streptococcal infections need not be performed routinely, because non-susceptible isolates are extremely rare in any β-hemolytic streptococcus and have not been reported in <content stylecode="italics">Streptococcus pyogenes</content>. Any β -hemolytic streptococcal isolate found to be non-susceptible to penicillin should be re-identified, retested, and, if confirmed, submitted to a public health authority.</footnote>
+<sup>,</sup>
+<footnote>The lack of data precludes defining any other interpretive criteria than ‘susceptible’.</footnote>
+</td>
+<td stylecode="Rrule">≤ 0.12</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">≥ 24</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">-</td>
+</tr>
+</tbody>
+</table>

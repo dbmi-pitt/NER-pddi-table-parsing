@@ -1,0 +1,196 @@
+<table id="_Refid_6a5834f2-fc2d-40d3-ac1a-7aa8fefc7" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Pharmacokinetic Parameters (mean ± SD)</caption>
+<col width="16%"></col>
+<col width="9%"></col>
+<col width="12%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="10%"></col>
+<col width="12%"></col>
+<col width="15%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold"> Patient Population </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold"> Dose/ day</content>
+<footnote id="_Refid-566480e1-698b-466b-b606-871aafb07">Total daily dose was divided into two doses administered every 12 hours</footnote>
+<br/>
+<content stylecode="bold">(mg/d) </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold"> Dose/ weight (mg/kg/d) </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">AUC</content>
+<footnote id="_Refid-7107fcc7-af37-4c1d-a5d3-11acbf18c">AUC was measured over one dosing interval</footnote>
+<content stylecode="bold"> (ng•hr/mL) </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+<br/>(ng/mL) </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Trough</content>
+<footnote id="_Refid-6354a1b8-e3fc-4c80-957e-6be54f06a">Trough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous dose</footnote>
+<content stylecode="bold"> (ng/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">CL/F (mL/min)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">CL/F (mL/min/kg)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>De novo renal transplant<footnote id="_Refid-9410cb19-4ac4-4ee0-895c-c59cab84e">Assay: TDx specific monoclonal fluorescence polarization immunoassay</footnote> Week 4 (N = 37) </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>597 ± 174</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>7.95 ± 2.81</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>8772 ± 2089</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1802 ± 428</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>361 ± 129</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>593 ± 204</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>7.8 ± 2.9</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Stable renal transplant<footnoteref idref="_Refid-9410cb19-4ac4-4ee0-895c-c59cab84e"></footnoteref>
+<br/>(N = 55)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>344 ± 122</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>4.10 ± 1.58</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>6035 ± 2194</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1333 ± 469</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>251 ± 116</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>492 ± 140</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>5.9 ± 2.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>De novo liver transplant<footnote id="_Refid-3a8e0783-d3b3-4981-9d37-cad99ce82">Assay: Cyclo-trac specific monoclonal radioimmunoassay</footnote>
+<br/>Week 4 (N = 18)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>458 ± 190</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>6.89 ± 3.68</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>7187 ± 2816</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1555 ± 740</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>268 ± 101</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>577 ± 309</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>8.6 ± 5.7</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>De novo rheumatoid arthritis<footnote id="_Refid-f4f8afd5-06b4-4104-98ca-3eb2f582d">Assay: INCSTAR specific monoclonal radioimmunoassay</footnote>
+<br/>(N = 23)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>182 ± 55.6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.37 ± 0.36</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2641 ± 877</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>728 ± 263</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>96.4 ± 37.7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>613 ± 196</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>8.3 ± 2.8</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>De novo psoriasis<footnoteref idref="_Refid-f4f8afd5-06b4-4104-98ca-3eb2f582d"></footnoteref> Week 4 <br/>(N = 18)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>189 ± 69.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.48 ± 0.65</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2324 ± 1048</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>655 ± 186</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>74.9 ± 46.7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>723 ± 186</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>10.2 ± 3.9</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

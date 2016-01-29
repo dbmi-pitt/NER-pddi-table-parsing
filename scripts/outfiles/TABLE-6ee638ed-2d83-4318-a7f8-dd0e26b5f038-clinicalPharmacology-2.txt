@@ -1,0 +1,22 @@
+<table id="sdfdsg" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td stylecode="Lrule">
+<content stylecode="bold">MIC (mcg/mL) </content>
+</td>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">≤ 16</td>
+<td stylecode="Lrule Rrule">Susceptible (S)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">≥ 64</td>
+<td stylecode="Lrule Rrule">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

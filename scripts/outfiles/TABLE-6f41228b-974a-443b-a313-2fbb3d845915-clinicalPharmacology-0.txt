@@ -1,0 +1,38 @@
+<table border="0" id="id_7f7494b2-dca6-4c57-8453-dee3b8037b40" rules="all" width="918" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="22.1%"></col>
+<col width="41.9%"></col>
+<col width="35.9%"></col>
+<tbody>
+<tr id="id_182a034a-6187-49bf-bd12-d4c8f776c589">
+<td align="center" stylecode="Toprule" valign="bottom">
+<content stylecode="bold">Dose<br/>(mg)</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="bold">Maximum<br/>Serum Concentration<br/>(mcg/mL)</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Area<br/>Under Curve (AUC)<br/>(mcg∙hr/mL)</content>
+</td>
+</tr>
+<tr id="id_823b2a2f-46c6-4e48-b071-f0862dba1b94">
+<td align="center" valign="top">250</td>
+<td align="center" valign="top">1.2</td>
+<td align="center" valign="top">4.8</td>
+</tr>
+<tr id="id_8e0cccba-acc6-4257-b415-ccdaa13a7e40">
+<td align="center" valign="top">500</td>
+<td align="center" valign="top">2.4</td>
+<td align="center" valign="top">11.6</td>
+</tr>
+<tr id="id_635acb6c-9c8d-4f4c-bc14-6cc0f141e62b">
+<td align="center" valign="top">750</td>
+<td align="center" valign="top">4.3</td>
+<td align="center" valign="top">20.2</td>
+</tr>
+<tr id="id_b85bcc0a-a9f4-4dd5-bcb5-39acac61dc4d">
+<td align="center" stylecode="Botrule" valign="top">1000</td>
+<td align="center" stylecode="Botrule" valign="top">5.4</td>
+<td align="center" stylecode="Botrule" valign="top">30.8</td>
+</tr>
+</tbody>
+</table>

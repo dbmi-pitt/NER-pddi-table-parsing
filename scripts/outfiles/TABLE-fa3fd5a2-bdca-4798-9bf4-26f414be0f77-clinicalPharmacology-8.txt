@@ -1,0 +1,44 @@
+<table id="_RefIDB9427F7208F94E20A136F4A6F4324C54" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Susceptibility Test Interpretive Criteria for Streptococcus pyogenes and Streptococcus pneumoniae<footnote id="_RefID1D15E10F9B154A73B0CB925A5132F19F">These zone diameter standards only apply to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO<sub>2</sub>.</footnote>
+</caption>
+<col width="36%"></col>
+<col width="38%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Zone diameter (mm)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥21</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>17 to 20</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≤16</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

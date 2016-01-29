@@ -1,0 +1,159 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 3. Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin</caption>
+<col width="1px"></col>
+<col></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<thead>
+<tr>
+<th align="center" colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> Co-administered drug and dosing regimen</th>
+<th align="center" colspan="3" rowspan="1" stylecode="     Rrule     " valign="top"> Atorvastatin</th>
+</tr>
+<tr>
+<th colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"></th>
+<th> Dose (mg)</th>
+<th colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> Change in AUC<sup>&amp;</sup>
+</th>
+<th colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> Change in Cmax<sup>&amp;</sup>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Cyclosporine 5.2 mg/kg/day, stable dose </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 10 mg QD for 28 days</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 8.7 fold</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑10.7 fold</td>
+</tr>
+<tr>
+<td colspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> 10 mg, SD</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 9.4 fold</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 8.6 fold</td>
+</tr>
+<tr>
+<td colspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Telaprevir 750 mg q8h, 10 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> 20 mg, SD</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 7.88 fold</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 10.6 fold</td>
+</tr>
+<tr>
+<td colspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#, ‡</sup>Saquinavir 400 mg BID/ ritonavir 400mg BID, 15 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> 40 mg QD for 4 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 3.9 fold</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 4.3 fold</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Clarithromycin 500 mg BID, 9 days</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 80 mg QD for 8 days</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 4.4 fold</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 5.4 fold</td>
+</tr>
+<tr>
+<td colspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Darunavir 300 mg BID/ritonavir 100 mg BID, 9 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> 10 mg QD for 4 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 3.4 fold</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 2.25 fold</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Itraconazole 200 mg QD, 4 days </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 40 mg SD</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 3.3 fold</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 20% </td>
+</tr>
+<tr>
+<td colspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> 10 mg QD for 4 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 2.53 fold </td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 2.84 fold </td>
+</tr>
+<tr>
+<td colspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Fosamprenavir 1400 mg BID, 14 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> 10 mg QD for 4 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 2.3 fold </td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 4.04 fold </td>
+</tr>
+<tr>
+<td colspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Nelfinavir 1250 mg BID, 14 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> 10 mg QD for 28 days</td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 74% </td>
+<td colspan="1" stylecode="     Rrule     " valign="top"> ↑ 2.2 fold </td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Grapefruit Juice, 240 mL QD <sup>*</sup>
+</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 40 mg, SD</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 37%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 16%</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> Diltiazem 240 mg QD, 28 days </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 40 mg, SD</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 51%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> No change</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> Erythromycin 500 mg QID, 7 days </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 10 mg, SD</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 33%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 38%</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> Amlodipine 10 mg, single dose </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 80 mg, SD</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 15%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ 12 %</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> Cimetidine 300 mg QID, 2 weeks </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 10 mg QD for 2 weeks</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ Less than 1%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ 11%</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> Colestipol 10 mg BID, 28 weeks </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 40 mg QD for 28 weeks</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> Not determined</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ 26%<sup>**</sup>
+</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> Maalox TC® 30 mL QD, 17 days </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 10 mg QD for 15 days</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ 33%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ 34%</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> Efavirenz 600 mg QD, 14 days </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 10 mg for 3 days</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ 41%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ 1%</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Rifampin 600 mg QD, 7 days (coadministered) <sup>†</sup>
+</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 40 mg SD</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 30%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 2.7 fold</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Rifampin 600 mg QD, 5 days (doses separated) <sup>†</sup>
+</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 40 mg SD</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ 80%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ 40%</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Gemfibrozil 600mg BID, 7 days </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 40mg SD </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 35%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↓ Less than 1%</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="    Lrule          Rrule     " valign="top"> <sup>#</sup>Fenofibrate 160mg QD, 7 days</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> 40mg SD       </td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 3%</td>
+<td colspan="1" rowspan="1" stylecode="     Rrule     " valign="top"> ↑ 2%</td>
+</tr>
+</tbody>
+</table>

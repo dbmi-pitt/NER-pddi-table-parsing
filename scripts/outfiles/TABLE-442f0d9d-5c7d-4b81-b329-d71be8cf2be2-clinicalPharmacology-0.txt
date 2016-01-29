@@ -1,0 +1,50 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2- Binding affinities of somatostatin (SRIF-14) and pasireotide to the five human somatostatin receptor subtypes (SSTR1-5)</caption>
+<col width="150"></col>
+<col width="108"></col>
+<col width="96"></col>
+<col width="96"></col>
+<col width="96"></col>
+<col width="102"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<content stylecode="bold">Compound</content>
+</td>
+<td align="center" stylecode="Toprule ">
+<content stylecode="bold">SSTR1</content>
+</td>
+<td align="center" stylecode="Toprule ">
+<content stylecode="bold">SSTR2</content>
+</td>
+<td align="center" stylecode="Toprule ">
+<content stylecode="bold">SSTR3</content>
+</td>
+<td align="center" stylecode="Toprule ">
+<content stylecode="bold">SSTR4</content>
+</td>
+<td align="center" stylecode="Toprule ">
+<content stylecode="bold">SSTR5</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">Somatostatin (SRIF-14)</td>
+<td align="center" stylecode="Toprule ">0.93±0.12</td>
+<td align="center" stylecode="Toprule ">0.15±0.02</td>
+<td align="center" stylecode="Toprule ">0.56±0.17</td>
+<td align="center" stylecode="Toprule ">1.5±0.4</td>
+<td align="center" stylecode="Toprule ">0.29±0.04</td>
+</tr>
+<tr>
+<td>Pasireotide</td>
+<td align="center">9.3±0.1</td>
+<td align="center">1.0±0.1</td>
+<td align="center">1.5±0.3</td>
+<td align="center">&gt; 100</td>
+<td align="center">0.16±0.01</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Toprule ">Results are the mean±SEM of IC<sub>50</sub> values expressed as nmol/l</td>
+</tr>
+</tbody>
+</table>

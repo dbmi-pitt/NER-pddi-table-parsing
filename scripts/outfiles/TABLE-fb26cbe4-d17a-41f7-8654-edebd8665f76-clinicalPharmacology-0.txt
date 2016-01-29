@@ -1,0 +1,80 @@
+<table id="table4" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: Mean Antisecretory Effects After Single and Multiple Daily Lansoprazole Delayed-Release Capsules Dosing</caption>
+<col align="left" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th colspan="2" stylecode="Lrule Rrule"></th>
+<th colspan="4" stylecode="Rrule">Lansoprazole delayed-release capsules</th>
+</tr>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule" valign="bottom">Parameter</th>
+<th rowspan="2" stylecode="Rrule">Baseline Value</th>
+<th colspan="2" stylecode="Rrule">15 mg</th>
+<th colspan="2" stylecode="Rrule">30 mg</th>
+</tr>
+<tr>
+<th align="center" stylecode="Lrule Rrule">Day 1</th>
+<th stylecode="Rrule">Day 5</th>
+<th stylecode="Rrule">Day 1</th>
+<th stylecode="Rrule">Day 5</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6">NOTE: An intragastric pH of greater than 4 reflects a reduction in gastric acid by 99%.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Mean 24 Hour pH</td>
+<td stylecode="Rrule">2.1</td>
+<td stylecode="Rrule">2.7<footnote id="t4f1">(p&lt;0.05) versus baseline only.</footnote>
+</td>
+<td stylecode="Rrule">4.0<footnoteref idref="t4f1"></footnoteref>
+</td>
+<td stylecode="Rrule">3.6<footnote id="t4f2">(p&lt;0.05) versus baseline and lansoprazole 15 mg.</footnote>
+</td>
+<td stylecode="Rrule">4.9<footnoteref idref="t4f2"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Mean Nighttime pH</td>
+<td stylecode="Rrule">1.9</td>
+<td stylecode="Rrule">2.4</td>
+<td stylecode="Rrule">3.0<footnoteref idref="t4f1"></footnoteref>
+</td>
+<td stylecode="Rrule">2.6</td>
+<td stylecode="Rrule">3.8<footnoteref idref="t4f2"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">% Time Gastric pH&gt;3</td>
+<td stylecode="Rrule">18</td>
+<td stylecode="Rrule">33<footnoteref idref="t4f1"></footnoteref>
+</td>
+<td stylecode="Rrule">59<footnoteref idref="t4f1"></footnoteref>
+</td>
+<td stylecode="Rrule">51<footnoteref idref="t4f2"></footnoteref>
+</td>
+<td stylecode="Rrule">72<footnoteref idref="t4f2"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">% Time Gastric pH&gt;4</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">22<footnoteref idref="t4f1"></footnoteref>
+</td>
+<td stylecode="Rrule">49<footnoteref idref="t4f1"></footnoteref>
+</td>
+<td stylecode="Rrule">41<footnoteref idref="t4f2"></footnoteref>
+</td>
+<td stylecode="Rrule">66<footnoteref idref="t4f2"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

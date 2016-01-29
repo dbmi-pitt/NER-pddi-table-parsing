@@ -1,0 +1,190 @@
+<table id="table3" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3:	Summary of NGMN, NG and EE pharmacokinetic parameters.</caption>
+<col align="left" valign="top" width="16%"></col>
+<col align="left" valign="top" width="9%"></col>
+<col align="left" valign="top" width="9%"></col>
+<col align="left" valign="top" width="17%"></col>
+<col align="left" valign="top" width="17%"></col>
+<col align="left" valign="top" width="16%"></col>
+<col align="left" valign="top" width="16%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">C<sub>max</sub> = peak serum concentration, t<sub>max</sub> = time to reach peak serum concentration, AUC<sub>0–24h</sub> = area under serum concentration vs time curve from 0 to 24 hours, t<sub>1/2</sub> = elimination half-life, NC = not calculated.</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">NGMN and NG: C<sub>max</sub> = ng/mL, AUC<sub>0–24h</sub> = h∙ng/mL</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">EE: C<sub>max</sub> = pg/mL, AUC<sub>0–24h</sub> = h∙pg/mL</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Lrule Rrule">
+<content stylecode="bold">Mean (SD) Pharmacokinetic Parameters of TriNessa During a Three Cycle Study</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Analyte</td>
+<td stylecode="Rrule">Cycle</td>
+<td stylecode="Rrule">Day</td>
+<td stylecode="Rrule">C<sub>max</sub>
+</td>
+<td stylecode="Rrule">t<sub>max</sub> (h)</td>
+<td stylecode="Rrule">AUC<sub>0–24h</sub>
+</td>
+<td stylecode="Rrule">t<sub>1/2</sub> (h)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">NGMN</td>
+<td stylecode="Rrule">3</td>
+<td stylecode="Rrule">7</td>
+<td stylecode="Rrule">1.80 (0.46)</td>
+<td stylecode="Rrule">1.42 (0.73)</td>
+<td stylecode="Rrule">15.0 (3.88)</td>
+<td stylecode="Rrule">NC</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">2.12 (0.56)</td>
+<td stylecode="Rrule">1.21 (0.26)</td>
+<td stylecode="Rrule">16.1 (4.97)</td>
+<td stylecode="Rrule">NC</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">2.66 (0.47)</td>
+<td stylecode="Rrule">1.29 (0.26)</td>
+<td stylecode="Rrule">21.4 (3.46)</td>
+<td stylecode="Rrule">22.3 (6.54)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">NG</td>
+<td stylecode="Rrule">3</td>
+<td stylecode="Rrule">7</td>
+<td stylecode="Rrule">1.94 (0.82)</td>
+<td stylecode="Rrule">3.15 (4.05)</td>
+<td stylecode="Rrule">34.8 (16.5)</td>
+<td stylecode="Rrule">NC</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">3.00 (1.04)</td>
+<td stylecode="Rrule">2.21 (2.03)</td>
+<td stylecode="Rrule">55.2 (23.5)</td>
+<td stylecode="Rrule">NC</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">3.66 (1.15)</td>
+<td stylecode="Rrule">2.58 (2.97)</td>
+<td stylecode="Rrule">69.3 (23.8)</td>
+<td stylecode="Rrule">40.2 (15.4)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">EE</td>
+<td stylecode="Rrule">3</td>
+<td stylecode="Rrule">7</td>
+<td stylecode="Rrule">124 (39.5)</td>
+<td stylecode="Rrule">1.27 (0.26)</td>
+<td stylecode="Rrule">1130 (420)</td>
+<td stylecode="Rrule">NC</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">128 (38.4)</td>
+<td stylecode="Rrule">1.32 (0.25)</td>
+<td stylecode="Rrule">1130 (324)</td>
+<td stylecode="Rrule">NC</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">126 (34.7)</td>
+<td stylecode="Rrule">1.31 (0.56)</td>
+<td stylecode="Rrule">1090 (359)</td>
+<td stylecode="Rrule">15.9 (4.39)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Lrule Rrule">
+<content stylecode="bold">Mean (SD) Pharmacokinetic Parameters of MonoNessa During a Three Cycle Study</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Analyte</td>
+<td stylecode="Rrule">Cycle</td>
+<td stylecode="Rrule">Day</td>
+<td stylecode="Rrule">C<sub>max</sub>
+</td>
+<td stylecode="Rrule">t<sub>max</sub> (h)</td>
+<td stylecode="Rrule">AUC<sub>0–24h</sub>
+</td>
+<td stylecode="Rrule">t<sub>1/2</sub> (h)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">NGMN</td>
+<td stylecode="Rrule">1</td>
+<td stylecode="Rrule">1</td>
+<td stylecode="Rrule">1.78 (0.397)</td>
+<td stylecode="Rrule">1.19 (0.250)</td>
+<td stylecode="Rrule">9.90 (3.25)</td>
+<td stylecode="Rrule">18.4 (5.91)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">3</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">2.19 (0.655)</td>
+<td stylecode="Rrule">1.43 (0.680)</td>
+<td stylecode="Rrule">18.1 (5.53)</td>
+<td stylecode="Rrule">24.9 (9.04)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">NG</td>
+<td stylecode="Rrule">1</td>
+<td stylecode="Rrule">1</td>
+<td stylecode="Rrule">0.649 (0.49)</td>
+<td stylecode="Rrule">1.42 (0.69)</td>
+<td stylecode="Rrule">6.22 (2.46)</td>
+<td stylecode="Rrule">37.8 (14.0)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">3</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">2.65 (1.11)</td>
+<td stylecode="Rrule">1.67 (1.32)</td>
+<td stylecode="Rrule">48.2 (20.5)</td>
+<td stylecode="Rrule">45.0 (20.4)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">EE</td>
+<td stylecode="Rrule">1</td>
+<td stylecode="Rrule">1</td>
+<td stylecode="Rrule">92.2 (24.5)</td>
+<td stylecode="Rrule">1.2 (0.26)</td>
+<td stylecode="Rrule">629 (138)</td>
+<td stylecode="Rrule">10.1 (1.90)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">3</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">147 (41.5)</td>
+<td stylecode="Rrule">1.13 (0.23)</td>
+<td stylecode="Rrule">1210 (294)</td>
+<td stylecode="Rrule">15.0 (2.36)</td>
+</tr>
+</tbody>
+</table>

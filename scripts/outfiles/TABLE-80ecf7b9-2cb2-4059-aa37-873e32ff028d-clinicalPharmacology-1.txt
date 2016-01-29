@@ -1,0 +1,45 @@
+<table id="id_93d68351-c7e7-42b3-be8d-348fdd3936b3" width="426.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_0c53dae9-e8ed-4701-bf85-de9f965dd39f">Predicted Pharmacokinetic Parameters of Amphotericin B after Administration of Multiple Doses of 1 mg/kg Amphotericin B Deoxycholate [a]</caption>
+<col width="75.8%"></col>
+<col width="24.2%"></col>
+<thead>
+<tr id="id_ac122bc9-1625-40dc-a8bc-966b10ee2b58" stylecode="Botrule">
+<td align="left" valign="top">Mean Pharmacokinetic Parameter [b]</td>
+<td align="center" valign="top">Values</td>
+</tr>
+</thead>
+<tfoot id="id_0cf79e68-b49f-4168-a904-0b4fbd3b147f">
+<tr>
+<td align="left" colspan="2" valign="top">[a] Data obtained using population modeling in 15 patients in whom amphotericin B deoxycholate was administered for treatment of aspergillus infection or empiric therapy. The modeling assumes amphotericin B pharmacokinetics after administration of amphotericin B deoxycholate are best described by a 2-compartment model. Infusion rate = 0.25 mg/kg/hour.</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">[b] Definitions: Vss - Volume of distribution at steady state, CLt - Total plasma clearance, Cmax - Maximum plasma concentration achieved at the end of an infusion, AUCss - Area under the plasma concentration time curve at steady-state.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_fc2f3ce2-f040-41ca-881a-e54cbea8a464" stylecode="Toprule">
+<td align="left" valign="top">Vss (L/kg) </td>
+<td align="center" valign="top">1.1</td>
+</tr>
+<tr id="id_1ec46946-34bc-4e1e-90d0-cb2931ee3357">
+<td align="left" valign="top">CLt (L/h/kg) </td>
+<td align="center" valign="top">0.028</td>
+</tr>
+<tr id="id_6a3ca60d-4149-454f-9e5c-ec6003b0593b">
+<td align="left" valign="top">Distribution Half-Life (minutes) </td>
+<td align="center" valign="top">38</td>
+</tr>
+<tr id="id_142d2613-ea6f-408e-8a79-b83191a75b45">
+<td align="left" valign="top">Elimination Half-Life (hours) </td>
+<td align="center" valign="top">39</td>
+</tr>
+<tr id="id_3e39191b-9e60-4210-ab90-f526489e5610">
+<td align="left" valign="top">Cmax (μg/mL) </td>
+<td align="center" valign="top">2.9</td>
+</tr>
+<tr id="id_b5be3739-a0b3-46b6-9da9-5b0393c65e27">
+<td align="left" valign="top">AUCss (μg/mL•h)</td>
+<td align="center" valign="top">36</td>
+</tr>
+</tbody>
+</table>

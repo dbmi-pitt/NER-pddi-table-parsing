@@ -1,0 +1,128 @@
+<table border="single" id="id_9a75e778-2b76-4981-8359-021d2e85da02" width="467" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="37.5%"></col>
+<col width="31.8%"></col>
+<col width="30.7%"></col>
+<tbody>
+<tr id="id_e4ced253-b872-48db-9911-c1c5eb23da10">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top">Drug</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Drug Plasma Concentration</paragraph>
+<paragraph>With Adjunctive</paragraph>Lamotrigine*</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Lamotrigine Plasma</paragraph>
+<paragraph>Concentration With</paragraph>Adjunctive Drugs<sup>†</sup>
+</td>
+</tr>
+<tr id="id_4c970116-5e42-412d-9a63-d5f855f15859">
+<td align="left" stylecode="Lrule Rrule" valign="top">Oral contraceptives (e.g.,</td>
+<td align="center" stylecode="Rrule" valign="top">↔§</td>
+<td align="center" stylecode="Rrule" valign="top">↓</td>
+</tr>
+<tr id="id_fd270a60-4b39-4033-b6df-6e4fa85fb2f9">
+<td align="left" stylecode="Lrule Rrule" valign="top">ethinylestradiol/levonorgestrel)<sup>‡</sup>
+</td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_077e7a7d-200e-4c5d-930c-f7db25b494fd">
+<td align="left" stylecode="Lrule Rrule" valign="top">Bupropion</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+</tr>
+<tr id="id_b55a6ec2-8f55-45c8-a920-1811991a6b41">
+<td align="left" stylecode="Lrule Rrule" valign="top">Carbamazepine (CBZ)</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="italics">↓</content>
+</td>
+</tr>
+<tr id="id_27d70826-c1df-4974-abf4-32eb2cdf77ab">
+<td align="left" stylecode="Lrule Rrule" valign="top">CBZepoxide<sup>ll</sup>
+</td>
+<td align="center" stylecode="Rrule" valign="top">?</td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_bb7dcd1c-7d7d-4d2b-8b86-0a48102b3386">
+<td align="left" stylecode="Lrule Rrule" valign="top">Felbamate</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+</tr>
+<tr id="id_39d76ae5-b695-451f-87e9-4b057b8bb023">
+<td align="left" stylecode="Lrule Rrule" valign="top">Gabapentin</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+</tr>
+<tr id="id_d9b654a9-5e7a-47b9-a920-5f6bada9d0ea">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Levetiracetam</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">↔</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">↔</td>
+</tr>
+<tr id="id_945f0987-fbfb-40ec-b8ce-bcedf65bce3d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Lithium</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">↔</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Not assessed</td>
+</tr>
+<tr id="id_e353dd7e-ea7e-4bbe-8f09-63337f83af33">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Olanzapine</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">↔</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">↔<sup>¶</sup>
+</td>
+</tr>
+<tr id="id_347a1b1e-8f8a-4bb8-af81-020cccc01964">
+<td align="left" stylecode="Lrule Rrule" valign="top">Oxcarbazepine</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+</tr>
+<tr id="id_02705cdc-a5a8-4ace-8627-02769d710958">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<paragraph>10-monohydroxy oxcarbazepine</paragraph>metabolite<sup>#</sup>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_d76b0779-a15f-4dcd-a407-bff1c9a7b568">
+<td align="left" stylecode="Lrule Rrule" valign="top">Phenobarbital/primidone</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="italics">↓</content>
+</td>
+</tr>
+<tr id="id_d832de5d-297e-4e6e-8a72-ce8453c4e6bd">
+<td align="left" stylecode="Lrule Rrule" valign="top">Phenytoin (PHT)</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="italics">↓</content>
+</td>
+</tr>
+<tr id="id_0d7affbd-9bb8-494d-8602-c0f1cf601bf7">
+<td align="left" stylecode="Lrule Rrule" valign="top">Pregabalin</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+</tr>
+<tr id="id_f621a51f-c61b-451d-8a43-1002fa920747">
+<td align="left" stylecode="Lrule Rrule" valign="top">Rifampin</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed</td>
+<td align="center" stylecode="Rrule" valign="top">↓</td>
+</tr>
+<tr id="id_6d252854-4ba2-44de-940c-9136440c4a6c">
+<td align="left" stylecode="Lrule Rrule" valign="top">Topiramate</td>
+<td align="center" stylecode="Rrule" valign="top">↔**</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+</tr>
+<tr id="id_82895f22-4eb9-4d1a-8ede-4bdf753b01c3">
+<td align="left" stylecode="Lrule Rrule" valign="top">Valproate</td>
+<td align="center" stylecode="Rrule" valign="top">↓</td>
+<td align="center" stylecode="Rrule" valign="top">↑</td>
+</tr>
+<tr id="id_0510ef27-2289-45a0-b661-2cdc1e199fbe">
+<td align="left" stylecode="Lrule Rrule" valign="top">Valproate + PHT and/or CBZ</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed</td>
+<td align="center" stylecode="Rrule" valign="top">↔</td>
+</tr>
+<tr id="id_8be8665e-e50d-42b2-9d28-09c614fc726d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Zonisamide</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">↔</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,54 @@
+<table id="Table_4" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4.</caption>
+<col align="center" valign="middle" width="15%"></col>
+<col align="left" valign="middle" width="30%"></col>
+<col align="center" valign="middle" width="30%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule">Week</th>
+<th align="center" stylecode="Lrule">Treatment</th>
+<th stylecode="Lrule">Healing Rate</th>
+<th stylecode="Lrule Rrule">vs. Placebo<br/>p-value<footnote>P-values are one-sided, obtained by Chi-square test, and not adjusted for multiple comparisons.</footnote>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">4</td>
+<td stylecode="Rrule">Niz 300 mg h.s.</td>
+<td stylecode="Rrule">52/153 (34%)</td>
+<td stylecode="Rrule">0.342</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">Niz 150 mg b.i.d.</td>
+<td stylecode="Rrule">65/151 (43%)</td>
+<td stylecode="Rrule">0.022</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">Placebo</td>
+<td stylecode="Rrule">48/151 (32%)</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">8</td>
+<td stylecode="Rrule">Niz 300 mg h.s.</td>
+<td stylecode="Rrule">99/153 (65%)</td>
+<td stylecode="Rrule">0.011</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">Niz 150 mg b.i.d.</td>
+<td stylecode="Rrule">105/151 (70%)</td>
+<td stylecode="Rrule">&lt;0.001</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">Placebo</td>
+<td stylecode="Rrule">78/151 (52%)</td>
+<td stylecode="Rrule"></td>
+</tr>
+</tbody>
+</table>

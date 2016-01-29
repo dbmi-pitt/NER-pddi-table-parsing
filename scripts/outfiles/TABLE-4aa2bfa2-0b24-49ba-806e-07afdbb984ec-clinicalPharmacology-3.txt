@@ -1,0 +1,81 @@
+<table id="table10" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10: Quality Control Ranges for Susceptibility Testing</caption>
+<col align="left" valign="middle" width="28%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="22%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule" valign="top">Microorganism</th>
+<th stylecode="Rrule" valign="top">Microorganism<br/>QC Number</th>
+<th stylecode="Rrule" valign="top">MIC (mcg/mL)</th>
+<th stylecode="Rrule" valign="top">Disk Diffusion<br/>(zone diameter in mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td stylecode="Rrule">ATCC 29212</td>
+<td stylecode="Rrule">0.25 – 2</td>
+<td stylecode="Rrule">--</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td stylecode="Rrule">ATCC 25922</td>
+<td stylecode="Rrule">0.008 – 0.06</td>
+<td stylecode="Rrule">29 – 37</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td stylecode="Rrule">ATCC 35218</td>
+<td stylecode="Rrule">0.015 – 0.06</td>
+<td stylecode="Rrule">--</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td stylecode="Rrule">ATCC 49247</td>
+<td stylecode="Rrule">0.008 – 0.03</td>
+<td stylecode="Rrule">32 – 40</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td stylecode="Rrule">ATCC 27853</td>
+<td stylecode="Rrule">0.5 – 4</td>
+<td stylecode="Rrule">19 – 26</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td stylecode="Rrule">ATCC 29213</td>
+<td stylecode="Rrule">0.06 – 0.5</td>
+<td stylecode="Rrule">--</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td stylecode="Rrule">ATCC 25923</td>
+<td stylecode="Rrule">--</td>
+<td stylecode="Rrule">25 – 30</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td stylecode="Rrule">ATCC 49619</td>
+<td stylecode="Rrule">0.5 – 2</td>
+<td stylecode="Rrule">20 – 25</td>
+</tr>
+</tbody>
+</table>

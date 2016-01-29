@@ -1,0 +1,30 @@
+<table border="single" id="id_e8303da5-ae41-4992-8343-2cec298ea57d" width="469" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="38.5%"></col>
+<col width="61.4%"></col>
+<tbody>
+<tr id="id_c4fa5217-e85a-4325-aaf4-ad8a6d1a7400">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Drug Class</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Specific Drugs</content>
+</td>
+</tr>
+<tr id="id_fbb647d2-7816-477b-a8da-24091dbd776b">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Anticoagulants </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">argatroban, dabigatran, bivalirudin, desirudin, heparin, lepirudin </td>
+</tr>
+<tr id="id_42e0bbfc-7757-495d-9944-d2f892f52887">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Antiplatelet Agents </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">aspirin, cilostazol, clopidogrel, dipyridamole, prasugrel, ticlopidine </td>
+</tr>
+<tr id="id_0d88583f-9329-4e63-beed-363542250805">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Nonsteroidal Anti-Inflammatory Agents </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">celecoxib, diclofenac, diflunisal, fenoprofen, ibuprofen, indomethacin, ketoprofen, ketorolac, mefenamic acid, naproxen, oxaprozin, piroxicam, sulindac </td>
+</tr>
+<tr id="id_6043737f-5ff8-4ff0-b21b-7c29dfa98c48">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Serotonin Reuptake Inhibitors </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">citalopram, desvenlafaxine, duloxetine, escitalopram, fluoxetine, fluvoxamine, milnacipran, paroxetine, sertraline, venlafaxine, vilazodone </td>
+</tr>
+</tbody>
+</table>

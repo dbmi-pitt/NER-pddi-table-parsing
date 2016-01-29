@@ -1,0 +1,66 @@
+<table id="table1" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1:  Pharmacokinetic parameters of Cetrotide<sup>®</sup> following 3 mg single or 0.25 mg  single and multiple (daily for 14 days) subcutaneous (sc) administration.</caption>
+<col align="left" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th stylecode="Rrule">Single dose 3 mg</th>
+<th stylecode="Rrule">Single dose 0.25 mg</th>
+<th stylecode="Rrule">Multiple dose 0.25 mg</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="4">t<sub>max</sub>   Time to reach observed maximum plasma concentration<br/>t<sub>1/2</sub>    Elimination half-life<br/>C<sub>max</sub> Maximum plasma concentration; multiple dose C<sub>ss, max</sub>
+<br/>AUC Area under the curve; single dose AUC<sub>0-inf</sub>, multiple dose AUCt<br/>CL    Total plasma clearance<br/>Vz    Volume of distribution<br/>Geometric mean (95%CI<sub>ln</sub>), </td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">No. of subjects</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">12</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">t<sub>max</sub>
+<footnote id="t1f1">median (min-max)</footnote> [h]</td>
+<td stylecode="Rrule">1.5<br/>(0.5-2)</td>
+<td stylecode="Rrule">1.0<br/>(0.5-1.5)</td>
+<td stylecode="Rrule">1.0<br/>(0.5-2)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">t<sub>1/2</sub>
+<footnoteref idref="t1f1"></footnoteref> [h]</td>
+<td stylecode="Rrule">62.8<br/>(38.2-108)</td>
+<td stylecode="Rrule">5.0<br/>(2.4-48.8)</td>
+<td stylecode="Rrule">20.6<br/>(4.1-179.3)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>max</sub> [ng/ml]</td>
+<td stylecode="Rrule">28.5<br/>(22.5-36.2)</td>
+<td stylecode="Rrule">4.97<br/>(4.17-5.92)</td>
+<td stylecode="Rrule">6.42<br/>(5.18-7.96)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">AUC [ng∙h/ml]</td>
+<td stylecode="Rrule">536<br/>(451-636)</td>
+<td stylecode="Rrule">31.4<br/>(23.4-42.0)</td>
+<td stylecode="Rrule">44.5<br/>(36.7-54.2)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">CL<footnote id="t1f2">arithmetic mean,</footnote> [ml/min∙kg]</td>
+<td stylecode="Rrule">1.28<footnote id="t1f3">Based on iv administration (n=6, separate study 0013)</footnote>
+</td>
+<td colspan="2" rowspan="2" stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Vz<footnoteref idref="t1f2"></footnoteref> [l/kg]</td>
+<td stylecode="Rrule">1.16<footnoteref idref="t1f3"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

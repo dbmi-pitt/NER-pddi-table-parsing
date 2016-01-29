@@ -1,0 +1,127 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th> </th>
+<th align="center"> Number of Subjects</th>
+<th align="center"> Dosing of Coadministered Drug or Grapefruit Juice</th>
+<th> Dosing of Lovastatin</th>
+<th align="center" colspan="2"> AUC Ratio*  (with / without coadministered drug) No Effect = 1.00</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">     </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> Lovastatin</td>
+<td align="center"> Lovastatin acid†</td>
+</tr>
+<tr>
+<td> Gemfibrozil</td>
+<td align="center"> 11</td>
+<td align="center"> 600 mg BID for 3 days</td>
+<td align="center"> 40 mg</td>
+<td> 0.96</td>
+<td> 2.80</td>
+</tr>
+<tr>
+<td> Itraconazole‡</td>
+<td align="center"> 12</td>
+<td align="center"> 200 mg QD for 4 days</td>
+<td align="center"> 40 mg on Day 4</td>
+<td> &gt; 36§</td>
+<td> 22</td>
+</tr>
+<tr>
+<td> </td>
+<td align="center"> 10</td>
+<td align="center"> 100 mg QD for 4 days</td>
+<td> 40 mg on Day 4</td>
+<td> &gt; 14.8§</td>
+<td> 15.4</td>
+</tr>
+<tr>
+<td> Grapefruit Juice¶ (high dose)</td>
+<td align="center"> 10</td>
+<td align="center"> 200 mL of double-strength TID<sup>#</sup>
+</td>
+<td> 80 mg single dose</td>
+<td> 15.3</td>
+<td> 5.0</td>
+</tr>
+<tr>
+<td> Grapefruit Juice¶ (low dose)</td>
+<td align="center"> 16</td>
+<td align="center"> 8 oz (about 250 mL) of single-strength<sup>β </sup>for 4 days</td>
+<td> 40 mg single dose</td>
+<td> 1.94</td>
+<td> 1.57</td>
+</tr>
+<tr>
+<td> Cyclosporine    </td>
+<td align="center"> 16</td>
+<td align="center"> Not described<sup>β</sup>
+</td>
+<td> 10 mg QD for 10 days</td>
+<td> 5- to 8-fold</td>
+<td> ND<sup>à</sup>
+</td>
+</tr>
+<tr>
+<td rowspan="2"> </td>
+<td align="center" rowspan="2"> Number of Subjects</td>
+<td align="center" rowspan="2"> Dosing of Coadministered Drug or Grapefruit Juice</td>
+<td rowspan="2"> Dosing of Lovastatin</td>
+<td colspan="2"> AUC Ratio* (with/without coadministered drug) No Effect = 1.00</td>
+</tr>
+<tr>
+<td colspan="2">  
+<paragraph> Total Lovastatin acid<sup>è</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> Diltiazem</td>
+<td align="center" stylecode="     Botrule     "> 10</td>
+<td align="center" stylecode="     Botrule     "> 120 mg BID for 14 days</td>
+<td stylecode="     Botrule     "> 20 mg</td>
+<td colspan="2" stylecode="     Botrule     "> 3.57<sup>è</sup>
+</td>
+</tr>
+<tr>
+<td colspan="6"> * Results based on a chemical assay.</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2"> † Lovastatin acid refers to the β-hydroxyacid of lovastatin.<br/> ‡ The mean total AUC of lovastatin without itraconazole phase could not be determined accurately. Results could be representative of strong CYP3A4 inhibitors such as ketoconazole, posaconazole, clarithromycin, telithromycin, HIV protease inhibitors, and nefazodone.</td>
+<td colspan="2"> </td>
+</tr>
+<tr>
+<td colspan="2"> </td>
+</tr>
+<tr>
+<td colspan="6"> § Estimated minimum change.</td>
+</tr>
+<tr>
+<td colspan="6"> ¶ The effect of amounts of grapefruit juice between those used in these two studies on lovastatin pharmacokinetics has not been studied.<br/> # Double-strength: one can of frozen concentrate diluted with one can of water. Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose lovastatin and 30 and 90 minutes following single dose lovastatin on Day 3.</td>
+</tr>
+<tr>
+<td colspan="6">Þ Single-strength: one can of frozen concentrate diluted with 3 cans of water. Grapefruit juice was administered with breakfast for 3 days, and lovastatin was administered in the evening on Day 3. </td>
+</tr>
+<tr>
+<td colspan="6">ß Cyclosporine-treated patients with psoriasis or post kidney or heart transplant patients with stable graft function, transplanted at least 9 months prior to study. </td>
+</tr>
+<tr>
+<td colspan="6">à ND = Analyte not determined. </td>
+</tr>
+<tr>
+<td colspan="6">è Lactone converted to acid by hydrolysis prior to analysis. Figure represents total unmetabolized acid and lactone. </td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,441 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="24%"></col>
+<col width="24%"></col>
+<col width="14%"></col>
+<col width="21%"></col>
+<col width="18%"></col>
+<col width="15%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Coadministered Drug </content>
+<br/>
+<content stylecode="bold">or Grapefruit Juice</content>
+</th>
+<th rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Dosing of Coadministered </content>
+<br/>
+<content stylecode="bold">Drug or Grapefruit Juice</content>
+</th>
+<th rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Dosing of </content>
+<br/>
+<content stylecode="bold">Simvastatin</content>
+</th>
+<th colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Geometric Mean Ratio</content>
+<br/>
+<br/>
+<content stylecode="bold">(Ratio</content>
+<footnote id="_RefFN5">Results based on a chemical assay except results with propranolol as indicated.</footnote>
+<content stylecode="bold"> with / without </content>
+<br/>
+<content stylecode="bold">coadministered drug) No Effect = 1.00</content>
+</th>
+</tr>
+<tr>
+<th stylecode="Rrule Lrule Botrule "></th>
+<th stylecode="Rrule Lrule Botrule ">
+<content stylecode="bold">AUC</content>
+</th>
+<th stylecode="Rrule Lrule Botrule ">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="6" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Contraindicated with simvastatin</content>
+<content stylecode="italics"> [see <linkhtml href="#s4">Contraindications (4)</linkhtml> and  <linkhtml href="#s5.1">Warnings and Precautions (5.1)</linkhtml>]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Telithromycin<footnote id="_RefFN6">Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>200 mg QD for 4 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>80 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid<footnote id="_RefFN7">Simvastatin acid refers to the β-hydroxyacid of simvastatin.</footnote>
+<br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>12<br/>8.9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>15<br/>5.3</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Nelfinavir<footnoteref idref="_RefFN6"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1250 mg BID for 14 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>20 mg QD for 28 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Simvastatin acid<footnoteref idref="_RefFN7"></footnoteref>
+<br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<br/>6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<br/>6.2</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Itraconazole<footnoteref idref="_RefFN6"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>200 mg QD for 4 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>80 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid<footnoteref idref="_RefFN7"></footnoteref>
+<br/>simvastatin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>13.1</paragraph>
+<paragraph>13.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Posaconazole</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>100 mg (oral suspension) QD for 13 days<br/>200 mg (oral suspension) QD for 13 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>40 mg<br/>
+<br/>40 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid<br/> simvastatin <br/>simvastatin acid<br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>7.3<br/>10.3<br/>8.5<br/>10.6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>9.2<br/>9.4<br/>9.5<br/>11.4</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Gemfibrozil</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>600 mg BID for 3 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>40 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid<br/> simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.85<br/>1.35</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.18<br/>0.91</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Avoid grapefruit juice with simvastatin</content>
+<content stylecode="italics"> [see <linkhtml href="#s5.1">Warnings and Precautions (5.1)</linkhtml>]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Grapefruit Juice<footnote id="_RefFN8">The effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied.</footnote>
+</paragraph>
+<paragraph>(high dose)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>200 mL of double-strength TID<footnote id="_RefFN9">Double-strength: one can of frozen concentrate diluted with one can of water. Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose simvastatin and 30 and 90 minutes following single dose simvastatin on Day 3.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>60 mg single dose</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid <br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>7<br/>16</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Grapefruit Juice<footnoteref idref="_RefFN8"></footnoteref>
+</paragraph>
+<paragraph>(low dose)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>8 oz (about 237mL) of <br/> single-strength<footnote id="_RefID-93D71354-83AA-422C-9C92-1F60FEBA4">Single-strength: one can of frozen concentrate diluted with 3 cans of water. Grapefruit juice was administered with breakfast for 3 days, and simvastatin was administered in the evening on Day 3.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid <br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.3<br/>1.9</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Avoid taking with &gt;10 mg simvastatin</content>, based on clinical and/or post-marketing experience <content stylecode="italics">[see <linkhtml href="#s5.1">Warnings and Precautions (5.1)</linkhtml>]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Verapamil SR</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>240 mg QD Days 1 to 7 then 240 mg BID on Days 8 to 10</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>80 mg on Day 10</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid <br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.3<br/>2.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.4<br/>2.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Diltiazem</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>120 mg BID for 10 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>80 mg on Day 10</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid <br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.69<br/>3.10</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.69<br/>2.88</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Diltiazem</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>120 mg BID for 14 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>20 mg on Day 14</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>4.6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>3.6</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Dronedarone</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>400 mg BID for 14 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>40 mg QD for 14 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid <br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.96<br/>3.90</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.14<br/> 3.75</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Avoid taking with &gt;20 mg simvastatin</content>, based on clinical and/or post-marketing experience <content stylecode="italics">[see <linkhtml href="#s5.1">Warnings and Precautions (5.1)</linkhtml>]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Amiodarone</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>400 mg QD for 3 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>40 mg on Day 3</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid<br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.75<br/>1.76</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.72<br/>1.79</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Amlodipine</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>10 mg QD x 10 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>80 mg on Day 10</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid<br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.58<br/>1.77</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.56<br/>1.47</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Ranolazine SR</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1000 mg BID for 7 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>80 mg on Day 1 and Days 6 to 9</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid<br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.26<br/>1.86</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.28<br/>1.75</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">No dosing adjustments required for the following:</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Fenofibrate</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>160 mg QD X 14 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>80 mg QD on Days 8 to 14</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simvastatin acid <br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>0.64<br/>0.89</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>0.89<br/>0.83</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Niacin <br/>extended-release<footnote id="_RefFN10">Because Chinese patients have an increased risk for myopathy with simvastatin coadministered with lipid-modifying doses (≥ 1 gram/day niacin) of niacin-containing products, and the risk is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products<content stylecode="italics">
+<linkhtml href="#s5.1"> [see Warnings and Precautions (5.1)</linkhtml> and <linkhtml href="#s7.4">Drug Interactions (7.4)</linkhtml>]</content>.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2 g single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph> simvastatin acid <br/>simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.6<br/>1.4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.84<br/>1.08</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>Propranolol</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>80 mg single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>80 mg single dose</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>total inhibitor</paragraph>
+<paragraph>
+<br/>active inhibitor</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>0.79<br/>
+<br/>0.79</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>↓ from 33.6 to 21.1 ng·eq/mL<br/>↓ from 7.0 to 4.7 ng·eq/mL</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

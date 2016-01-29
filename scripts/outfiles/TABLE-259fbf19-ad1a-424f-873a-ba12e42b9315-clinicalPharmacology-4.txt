@@ -1,0 +1,56 @@
+<table frame="void" width="590" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="left" colspan="5" stylecode="Botrule" valign="top">
+<content stylecode="bold">Table 11: Results of Drug Interaction Studies with Stavudine: Effects of Coadministered Drug on Stavudine Plasma AUC and C</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+<content stylecode="bold"> Values </content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> Drug </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> Stavudine Dosage </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> n<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> AUC of Stavudine<br/>(95% CI) </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> C<sub>max</sub> of Stavudine<br/>(95% CI)</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="5" stylecode="Toprule" valign="top"> ↑ Indicates increase. </td>
+</tr>
+<tr>
+<td align="left" colspan="5" valign="top"> ↔ Indicates no change, or mean increase or decrease of &lt;10%. </td>
+</tr>
+<tr>
+<td align="left" colspan="5" valign="top">
+<sup>a</sup> HIV-1-infected patients. </td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Didanosine, 100 mg q12h for 4 days</td>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">40 mg q12h for 4 days</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">10</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">↔</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">↑ 17%</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Lamivudine, 150 mg single dose</td>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">40 mg single dose</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">18</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">↔<br/>(92.7%-100.6%)</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">↑ 12%<br/>(100.3-126.1%)</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Nelfinavir, 750mg q8h for 56 days</td>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">30-40 mg q12h for 56 days</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">8</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">↔</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">↔</td>
+</tr>
+</tbody>
+</table>

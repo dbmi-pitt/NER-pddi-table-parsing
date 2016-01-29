@@ -1,0 +1,11 @@
+<table frame="void" id="INV-82d14460-f507-472d-ac32-5e23cafb9111" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption id="INV-d5ce5e9d-0082-4896-ac5f-ca5c8b2053b6">For Staphylococcus<sup>††</sup> and Haemophilus species:	</caption>
+<col width="160px"></col>
+<col width="100px"></col>
+<col width="36px"></col>
+<col width="36px"></col>
+<tbody>
+<tr><td align="center" stylecode="Botrule"><content stylecode="underline">MIC (mcg/mL)</content></td><td colspan="2" stylecode="Botrule"><content stylecode="underline">Interpretation</content></td><td stylecode="Botrule">   </td></tr>
+<tr><td align="center" stylecode="Botrule">≤ 4/2 </td><td stylecode="Botrule"> Susceptible </td><td colspan="2" stylecode="Botrule"> (S) </td></tr>
+<tr><td align="center" stylecode="Botrule">≥ 8/4 </td><td stylecode="Botrule"> Resistant </td><td colspan="2" stylecode="Botrule"> (R) </td></tr>
+</tbody>
+</table>

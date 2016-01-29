@@ -1,0 +1,37 @@
+<table border="grid" id="id_a1ffab41-14f7-402a-af54-bc52db12a661" width="357.000" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_a729703c-6d49-4904-90c6-e594c4aa9fd7">Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis (<linkhtml href="#i4i_section_id_b0679cfa-ce97-41d0-ab14-19359a831439">2.6</linkhtml>, <linkhtml href="#i4i_section_id_a501a7be-127e-478c-ac61-bc83a2f4c356">5.1</linkhtml>, <linkhtml href="#i4i_section_id_70e62458-1869-4908-aad8-37e117df2c1e">7.1</linkhtml>, <linkhtml href="#i4i_section_id_0e98d53b-2ec4-40d1-bf26-4f64a4c4ce1b">7.2</linkhtml>, <linkhtml href="#i4i_section_id_483c72ee-ced9-45e7-a836-4ac7ddd23e82">7.3</linkhtml>, <linkhtml href="#i4i_section_id_2c7387f4-cef0-4a94-8c17-626765b2e054">7.4</linkhtml>)</caption>
+<col width="49.3%"></col>
+<col width="50.7%"></col>
+<thead>
+<tr id="id_4f5b456c-ba14-48c5-900a-290ced6ce3a2" stylecode="Botrule">
+<td align="center" valign="top">
+<content stylecode="bold">Interacting Agents</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Prescribing Recommendations</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_0d87e61f-ad89-4d06-9d20-7f2ea30ce1a2" stylecode="Toprule">
+<td align="left" valign="top">Itraconazole, ketoconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, nefazodone</td>
+<td align="left" valign="top">Avoid simvastatin</td>
+</tr>
+<tr id="id_722828b8-ef74-4ab2-a4f8-9a902a0ff781">
+<td align="left" valign="top">Gemfibrozil, cyclosporine, danazol</td>
+<td align="left" valign="top">Do not exceed 10 mg simvastatin daily</td>
+</tr>
+<tr id="id_b590efe1-eddd-46cd-83ac-cc78eed126e3">
+<td align="left" valign="top">Amiodarone, verapamil</td>
+<td align="left" valign="top">Do not exceed 20 mg simvastatin daily</td>
+</tr>
+<tr id="id_b9db24b3-2804-4b44-a71a-cdf6a1132774">
+<td align="left" valign="top">Diltiazem</td>
+<td align="left" valign="top">Do not exceed 40 mg simvastatin daily</td>
+</tr>
+<tr id="id_839f3f87-9aa3-4bda-b9f8-3ef983f6bcfc" stylecode="Botrule">
+<td align="justify" valign="top">Grapefruit juice</td>
+<td align="left" valign="top">Avoid large quantities of grapefruit juice (&gt;1 quart daily)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,165 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="20%"></col>
+<col width="15%"></col>
+<col width="14%"></col>
+<col width="14%"></col>
+<col width="15%"></col>
+<col width="13%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Pharmacokinetic<br/>Parameter  </content>
+</paragraph>
+</td>
+<td colspan="2" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">0.4 mg QD to healthy<br/>volunteers; n=23<br/>(age range 18 to 32 years)  </content>
+</paragraph>
+</td>
+<td colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">0.8 mg QD to healthy volunteers; n=22<br/>(age range 55 to 75 years)  </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top"></td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Light<br/>Breakfast  </paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Fasted  </paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Light<br/>Breakfast  </paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>High-Fat<br/>Breakfast  </paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Fasted  </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>C<sub>min</sub> (ng/mL)</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>4 ± 2.6</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>3.8 ± 2.5</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>12.3 ± 6.7</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>13.5 ± 7.6</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>13.3 ± 13.3</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>C<sub>max</sub> (ng/mL)</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>10.1 ± 4.8</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>17.1 ± 17.1</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>29.8 ± 10.3</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>29.1 ± 11</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>41.6 ± 15.6</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>C<sub>max</sub>/C<sub>min</sub> Ratio</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>3.1 ± 1</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>5.3 ± 2.2</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>2.7 ± 0.7</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>2.5 ± 0.8</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>3.6 ± 1.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>T<sub>max</sub> (hours)</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>6</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>4</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>7</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>6.6</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>T<sub>1/2</sub> (hours)</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>14.9 ± 3.9</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>AUC<sub>τ</sub>  (ng•hr/mL)</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>151 ± 81.5</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>199 ± 94.1</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>440 ± 195</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>449 ± 217</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>557 ± 257</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

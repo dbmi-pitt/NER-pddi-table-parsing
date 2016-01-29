@@ -1,0 +1,94 @@
+<table border="1" id="id_336ec877-7a43-4a94-8d2d-b6817d529740" width="452" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_d7a17fde-2556-4bae-9967-67c3a5a0c900">Table 12: Quality Control for Susceptibility Testing</caption>
+<col width="29.9%"></col>
+<col width="22.6%"></col>
+<col width="20.1%"></col>
+<col width="27.4%"></col>
+<tbody>
+<tr id="id_e59e9d0d-7119-4813-9324-7cd9cbf36b06">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Microorganism QC Number</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Disk Diffusion (zone diameter in mm)</content>
+</td>
+</tr>
+<tr id="id_5e310fc8-d1c7-418c-abaf-0ff54d107dd0">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 29212</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.25 to 2</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">-</td>
+</tr>
+<tr id="id_4438a065-46f4-41cc-b87d-41418295224d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 25922</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.008 to 0.06</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">29 to 37</td>
+</tr>
+<tr id="id_f6b499df-0409-46f8-b566-3531e40a61d9">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+<footnote id="id-7febc7fa-a1ce-4504-80cc-c569d1878c50">Careful maintenance of this organism is required as the strain may lose its plasmid.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 35218</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.015 to 0.06</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">-</td>
+</tr>
+<tr id="id_1c83cf4d-97c1-49d6-92be-af150b96380e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 49247</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.008 to 0.03<footnote id="id-c76964b7-3e44-4d42-85cf-d2d1e41f6535">This quality control range is applicable to only <content stylecode="italics">H. influenzae</content> ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).<sup>1</sup>
+</footnote>
+</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">32 to 40<footnote id="id-77e6647c-2839-4faa-a1ec-52d68d54643c">This quality control range is applicable to only <content stylecode="italics">H. influenzae</content> ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).<sup>2</sup>
+</footnote>
+</td>
+</tr>
+<tr id="id_d0e19f4a-6a1b-4117-a303-f29aedf7eb81">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 27853</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.5 to 4</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">19 to 26</td>
+</tr>
+<tr id="id_2f4b80c9-d38a-4317-9a29-4655c8f264cc">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 29213</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.06 to 0.5</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">-</td>
+</tr>
+<tr id="id_15dd1cac-5950-402e-8b0b-f20740c9b65e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 25923</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">25 to 30</td>
+</tr>
+<tr id="id_203e596e-d1fb-408a-bb77-8dec34d7d27d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 49619</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.5 to 2<footnote id="id-3b67779d-54ee-4643-80e5-540e6b72b1ac">This quality control range is applicable to only <content stylecode="italics">S. pneumoniae</content> ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">20 to 25<footnote id="id-9c4ac7c8-0096-4976-b073-248c6ffde2aa">This quality control range is applicable to only <content stylecode="italics">S. pneumoniae</content> ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO<sub>2</sub>.</footnote>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,71 @@
+<table border="1" id="id_f3547b8a-2472-4ddc-8010-28cf92b9fcce" width="405.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_c2afee16-d778-44fc-a67d-4d26c1c988c6">Table 3. Susceptibility Test Interpretive Criteria for Azithromycin Susceptibility Test Result Interpretive Criteria</caption>
+<col width="23.2%"></col>
+<col width="12.6%"></col>
+<col width="14.6%"></col>
+<col width="12.6%"></col>
+<col width="12.6%"></col>
+<col width="10.4%"></col>
+<col width="14.1%"></col>
+<tbody>
+<tr id="id_3eb2c215-6907-42ce-94da-123685da56ae">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="middle"></td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">Minimum Inhibitory Concentrations (mcg/mL)</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">Disk Diffusion (Zone Diameters in mm)</td>
+</tr>
+<tr id="id_2fc8eeba-b517-4351-bac8-aeae508b8ebf">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">S</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">I</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">R</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">S</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">I</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">R</td>
+</tr>
+<tr id="id_4f086681-d9f3-492b-b873-7d4ce8248c8a">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus influenzae</content>
+<footnote id="id-bff50dfb-8d65-4859-b0db-eea00894e3c1">Insufficient information is available to determine Intermediate or Resistant interpretive criteria. The ability to correlate MIC values and plasma drug levels is difficult as azithromycin concentrates in macrophages and tissues (see <content stylecode="bold">
+<linkhtml href="#i4i_clinical_pharmacology_id_1d228971-3754-45c1-ab8c-83762acd2015">CLINICAL PHARMACOLOGY</linkhtml>
+</content>).</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">--</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">--</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 12</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">--</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">--</content>
+</td>
+</tr>
+<tr id="id_5c4bd0ed-3fd6-4110-b392-194fff0af34e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 18</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14 to 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13</td>
+</tr>
+<tr id="id_b1feb15a-11d6-4670-abc0-9bef48dfcc67">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Streptococci including <content stylecode="italics">S. pneumoniae</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">≤ 0.5</td>
+<td align="center" stylecode="Rrule" valign="middle">1</td>
+<td align="center" stylecode="Rrule" valign="middle">≥ 2</td>
+<td align="center" stylecode="Rrule" valign="middle">≥ 18</td>
+<td align="center" stylecode="Rrule" valign="middle">14 to 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13</td>
+</tr>
+</tbody>
+</table>

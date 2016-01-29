@@ -1,0 +1,44 @@
+<table id="_Refid_6a292aab-68f5-4ebe-8655-ca0f9d580" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>For testing Haemophilus spp.<sup>b</sup>
+</caption>
+<col span="1" width="50%"></col>
+<col span="1" width="50%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">MIC (mcg/mL)</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>≤ 8</paragraph>
+</td>
+<td>
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>16</paragraph>
+</td>
+<td>
+<paragraph>Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>≥ 32</paragraph>
+</td>
+<td>
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

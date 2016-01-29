@@ -1,0 +1,60 @@
+<table id="id_daee1073-8ec8-4a17-ad36-b5bd5437445a" width="430.000" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="26.3%"></col>
+<col width="19.8%"></col>
+<col width="19.8%"></col>
+<col width="17.7%"></col>
+<col width="16.5%"></col>
+<tbody>
+<tr id="id_409c5bbd-7565-445d-812c-ea98bccec083">
+<td align="left" stylecode="Botrule Toprule Rrule" valign="top">
+<content stylecode="bold">Mean (%cv)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">T<sub>max</sub>
+</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">AUC</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">T<sub>1/2</sub>
+</content>
+</td>
+</tr>
+<tr id="id_2a164a0e-ea8a-4e68-84f2-51f4e6f7ca2e">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Dosage Form</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(ng)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(hrs)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(ng*hr/mL)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">(hrs)</content>
+</td>
+</tr>
+<tr id="id_385780b1-7e2f-4d17-a84b-ae023f7cb705">
+<td align="left" stylecode="Botrule Rrule" valign="top">8 mg Tablet</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">5.5 (33%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.74 (34%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">23.7 (28%)</td>
+<td align="center" stylecode="Botrule" valign="top">2.6 (18%)</td>
+</tr>
+<tr id="id_a9b1c5fc-8b49-4b56-b7a1-3fe85f6c65c7">
+<td align="left" stylecode="Botrule Rrule" valign="top">8 mg Oral Solution</td>
+<td align="center" stylecode="Rrule" valign="top">5.7 (31%)</td>
+<td align="center" stylecode="Rrule" valign="top">0.73 (71%)</td>
+<td align="center" stylecode="Rrule" valign="top">24.6 (29%)</td>
+<td align="center" stylecode="Botrule" valign="top">2.8 (20%)</td>
+</tr>
+</tbody>
+</table>

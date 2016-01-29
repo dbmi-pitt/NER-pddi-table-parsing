@@ -1,0 +1,147 @@
+<table border="single" id="id_2b04ece7-6484-43aa-8702-c16415dfa276" width="436.000" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="34.6%"></col>
+<col width="10.6%"></col>
+<col width="10.6%"></col>
+<col width="10.6%"></col>
+<col width="10.8%"></col>
+<col width="10.6%"></col>
+<col width="12.4%"></col>
+<tbody>
+<tr id="id_1390e5e9-22a5-4793-a2cb-93d6506f8175">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top"></td>
+<td align="left" colspan="3" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</td>
+<td align="left" colspan="3" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Disk Diffusion (zone diameter in mm)</content>
+</td>
+</tr>
+<tr id="id_4b4c4020-c3cf-4262-965e-ccad2a99f08b">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">R</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">R</content>
+</td>
+</tr>
+<tr id="id_bf507cb9-b03a-44eb-afe1-90641484d481">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥17</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">14-16</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤13</td>
+</tr>
+<tr id="id_6f3fc670-6086-45f3-aba6-682989a0fe51">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥17</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">14-16</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤13</td>
+</tr>
+<tr id="id_871ac16d-5055-4e2e-99f0-40403b8bf58b">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Methicillin-susceptible <content stylecode="italics">Staphylococcus </content>species</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥17</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">14-16</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤13</td>
+</tr>
+<tr id="id_0815f566-612a-4866-a2f2-db5b23c4f93e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥17</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">14-16</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤13</td>
+</tr>
+<tr id="id_d0b7b3b3-b3c2-4233-94e1-98fe1093f4fa">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤2<sup>*</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">--<sup>†</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">--<sup>†</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥17<sup>‡</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">--<sup> †</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">--<sup> †</sup>
+</td>
+</tr>
+<tr id="id_893cf71a-a638-48dc-ae99-1c923a484386">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus parainfluenzae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤2<sup>*</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">--<sup>†</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">--<sup>†</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥17<sup>‡</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">--<sup> †</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">--<sup> †</sup>
+</td>
+</tr>
+<tr id="id_5cd8e287-3d75-448d-a74a-7540b9c45b39">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤2<sup>§</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4<sup>§</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥8<sup>§</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥17<sup>¶</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">14-16<sup>¶</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤13<sup>¶</sup>
+</td>
+</tr>
+<tr id="id_cddb04c2-5aaf-4313-ba73-8f42a4ff2b95">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pyogenes</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤2</td>
+<td align="center" stylecode="Rrule" valign="top">4</td>
+<td align="center" stylecode="Rrule" valign="top">≥8</td>
+<td align="center" stylecode="Rrule" valign="top">≥17</td>
+<td align="center" stylecode="Rrule" valign="top">14-16</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤13</td>
+</tr>
+</tbody>
+</table>

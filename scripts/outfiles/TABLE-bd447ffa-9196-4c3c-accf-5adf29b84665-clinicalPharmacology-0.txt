@@ -1,0 +1,633 @@
+<table border="single" id="id_f588828e-2067-452f-b939-8d78996a8e2b" width="596.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_abd35d05-ab3e-41de-8d86-2a28c8a70129">Table 14. Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and Patients</caption>
+<col width="10.4%"></col>
+<col width="5.2%"></col>
+<col width="12.1%"></col>
+<col width="16.1%"></col>
+<col width="12.6%"></col>
+<col width="10.6%"></col>
+<col width="9.1%"></col>
+<col width="10.9%"></col>
+<col width="13.1%"></col>
+<tbody>
+<tr id="id_2980fab4-9a3a-468f-a28e-d3fede34e1f4">
+<td align="center" rowspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<paragraph>
+<content stylecode="bold">Population</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">N</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Route</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Dose)</content>
+</paragraph>
+</td>
+<td align="center" colspan="6" stylecode="Botrule Rrule" valign="top">Parameters</td>
+</tr>
+<tr id="id_2c2f4e06-ebb7-47b2-bcdf-50df1045169a">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">C
+              
+      
+       
+              
+      
+       <sub>max</sub>
+</content>
+</paragraph>
+<content stylecode="bold">(ng/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">T
+              
+      
+       
+              
+      
+       <sub>max</sub>
+</content>
+</paragraph>
+<content stylecode="bold">(hr)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">AUC</content>
+</paragraph>
+<content stylecode="bold">(ng•hr/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">t
+              
+      
+       
+              
+      
+       <sub>1/2</sub>
+</content>
+</paragraph>
+<content stylecode="bold">(hr)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">CI</content>
+</paragraph>
+<content stylecode="bold">(L/hr/kg)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">V</content>
+</paragraph>
+<content stylecode="bold">(L/kg)</content>
+</td>
+</tr>
+<tr id="id_9ff52821-2b98-42e1-8503-e4f1a8fd7d14">
+<td align="left" rowspan="2" stylecode="Lrule Botrule Rrule" valign="middle">
+<paragraph>Healthy</paragraph>
+<paragraph>Volunteers</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>8</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>IV</paragraph>
+<paragraph>(0.025 mg/kg/4hr)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<footnote id="id-b6ddd399-ab34-4700-8ef7-989aa4303db0">not applicable</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<footnoteref idref="id-b6ddd399-ab34-4700-8ef7-989aa4303db0"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>598
+             
+     
+      
+             
+     
+      <footnote id="id-a6b2ceb2-bd8b-4891-9aae-8725cd5346a9">AUC
+              0-120</footnote>
+</paragraph>
+<paragraph>± 125</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>34.2</paragraph>
+<paragraph>± 7.7</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.040</paragraph>
+<paragraph>± 0.009</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.91</paragraph>
+<paragraph>± 0.31</paragraph>
+</td>
+</tr>
+<tr id="id_bcc086df-ebee-4676-a109-e882733a4b3e">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">16</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>PO</paragraph>
+<paragraph>(5 mg)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>29.7</paragraph>
+<paragraph>± 7.2</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.6</paragraph>
+<paragraph>± 0.7</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>243
+             
+     
+      
+             
+     
+      <footnote id="id-1731121b-77b6-4a26-954a-74f1befa08ff">AUC
+              0-72</footnote>
+</paragraph>
+<paragraph>± 73</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>34.8</paragraph>± 11.4
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.041
+             
+     
+      
+             
+     
+      <footnote id="id-bb866dcc-c3f8-4ec5-837e-c1e81d282cab">Corrected for individual bioavailability</footnote>
+</paragraph>± 0.008
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.94
+             
+     
+      
+             
+     
+      <footnoteref idref="id-bb866dcc-c3f8-4ec5-837e-c1e81d282cab"></footnoteref>
+</paragraph>± 0.53
+           
+   
+    
+           
+   
+    </td>
+</tr>
+<tr id="id_a1c33642-83ab-4e36-891d-3e09e0abd3f3">
+<td align="left" rowspan="3" stylecode="Lrule Botrule Rrule" valign="middle">
+<paragraph>Kidney</paragraph>
+<paragraph>Transplant</paragraph>
+<paragraph>Patients</paragraph>
+</td>
+<td align="left" rowspan="3" stylecode="Botrule Rrule" valign="middle">
+<paragraph>26</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>IV</paragraph>(0.02 mg/kg/12 hr)
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-b6ddd399-ab34-4700-8ef7-989aa4303db0"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-b6ddd399-ab34-4700-8ef7-989aa4303db0"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>294
+             
+     
+      
+             
+     
+      <footnote id="id-2115f930-ca3d-4379-a8a0-0914cc35dea9">AUC
+              0-inf</footnote>
+</paragraph>
+<paragraph>± 262</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>18.8</paragraph>± 16.7
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.083</paragraph>± 0.050
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.41</paragraph>± 0.66
+           
+   
+    
+           
+   
+    </td>
+</tr>
+<tr id="id_0e899c3c-6785-458e-a572-2709f56dd419">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>PO</paragraph>(0.2 mg/kg/day)
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>19.2</paragraph>± 10.3
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>3.0</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>203
+             
+     
+      
+             
+     
+      <footnoteref idref="id-2115f930-ca3d-4379-a8a0-0914cc35dea9"></footnoteref>
+</paragraph>
+<paragraph>± 42</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnote id="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b">not available</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+</tr>
+<tr id="id_b43732f6-76e0-4330-ab2e-5d72ef35b722">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>PO</paragraph>(0.3 mg/kg/day)
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>24.2</paragraph>
+<paragraph>± 15.8</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.5</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>288
+             
+     
+      
+             
+     
+      <footnoteref idref="id-2115f930-ca3d-4379-a8a0-0914cc35dea9"></footnoteref>
+</paragraph>± 93
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+</tr>
+<tr id="id_32412ccf-6976-4d89-bf52-2e190b700ee0">
+<td align="left" rowspan="2" stylecode="Lrule Botrule Rrule" valign="middle">
+<paragraph>Liver</paragraph>
+<paragraph>Transplant</paragraph>Patients
+           
+   
+    
+           
+   
+    </td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="middle">
+<paragraph>17</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>IV</paragraph>(0.05 mg/kg/12 hr)
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<footnoteref idref="id-b6ddd399-ab34-4700-8ef7-989aa4303db0"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<footnoteref idref="id-b6ddd399-ab34-4700-8ef7-989aa4303db0"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>3300
+             
+     
+      
+             
+     
+      <footnoteref idref="id-2115f930-ca3d-4379-a8a0-0914cc35dea9"></footnoteref>
+</paragraph>
+<paragraph>± 2130</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>11.7</paragraph>± 3.9
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.053</paragraph>
+<paragraph>± 0.017</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.85</paragraph>± 0.30
+           
+   
+    
+           
+   
+    </td>
+</tr>
+<tr id="id_c4ceeb69-c88d-48e0-98f4-d28d930f761a">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>PO</paragraph>(0.3 mg/kg/day)
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>68.5</paragraph>± 30.0
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>2.3</paragraph>± 1.5
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>519
+             
+     
+      
+             
+     
+      <footnoteref idref="id-2115f930-ca3d-4379-a8a0-0914cc35dea9"></footnoteref>
+</paragraph>± 179
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+</tr>
+<tr id="id_b52c4a73-5fbe-490a-86c1-1b619a1ec577">
+<td align="left" rowspan="3" stylecode="Lrule Botrule Rrule" valign="middle">
+<paragraph>Heart</paragraph>
+<paragraph>Transplant Patients</paragraph>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">11</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>IV</paragraph>(0.01 mg/kg/day as a continuous infusion)
+								   
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-b6ddd399-ab34-4700-8ef7-989aa4303db0"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-b6ddd399-ab34-4700-8ef7-989aa4303db0"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+										   954
+             
+     
+      
+             
+     
+      <footnote id="id-390cbbdc-9c6d-470c-80d1-41f3d6b5676b">
+											   AUC
+              0-t</footnote>
+</paragraph>± 334
+								   
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>23.6</paragraph>± 9.22
+								   
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.051</paragraph>± 0.015
+								   
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+</tr>
+<tr id="id_02237127-8095-454a-9a83-8e731f24f4e3">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">11</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>PO </paragraph>(0.075 mg/kg/day)
+            
+    
+     
+            
+    
+     <footnote id="id-febf8d16-c16f-4b3e-b01b-13f05c5b0e21">Determined after the first dose</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+									   14.7 
+            
+    
+     
+            
+    
+     <content stylecode="underline">+</content> 7.79
+								   
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+									   2.1 [0.5-6.0]
+            
+    
+     
+            
+    
+     <footnote id="id-15965981-9ecd-4ba1-885c-ec7e341de98b">Median [range]</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+										   82.7
+             
+     
+      
+             
+     
+      <footnote id="id-a59cee6f-4f73-43c1-8065-cc66e06219ae">
+											   AUC
+              0-12</footnote>
+</paragraph>± 63.2
+								   
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-b6ddd399-ab34-4700-8ef7-989aa4303db0"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+</tr>
+<tr id="id_6c1a9820-77fd-47d2-b84a-69ca9f058310">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">14</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>PO </paragraph>(0.15 mg/kg/day)
+            
+    
+     
+            
+    
+     <footnoteref idref="id-febf8d16-c16f-4b3e-b01b-13f05c5b0e21"></footnoteref>
+</td>
+<td align="center" stylecode="Rrule" valign="top">24.5 ± 13.7</td>
+<td align="center" stylecode="Rrule" valign="top">
+									   1.5 [0.4-4.0]
+            
+    
+     
+            
+    
+     <footnoteref idref="id-15965981-9ecd-4ba1-885c-ec7e341de98b"></footnoteref>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+									   142
+            
+    
+     
+            
+    
+     <footnoteref idref="id-a59cee6f-4f73-43c1-8065-cc66e06219ae"></footnoteref> ± 116
+								   
+           
+   
+    
+           
+   
+    </td>
+<td align="center" stylecode="Rrule" valign="top">
+<footnoteref idref="id-b6ddd399-ab34-4700-8ef7-989aa4303db0"></footnoteref>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<footnoteref idref="id-a1dc5f52-62d7-4def-8ecd-a2a5b1ce809b"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

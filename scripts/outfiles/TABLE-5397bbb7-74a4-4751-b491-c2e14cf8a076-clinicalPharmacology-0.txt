@@ -1,0 +1,84 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Botrule Toprule " valign="top"></th>
+<th align="left" colspan="2" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Omeprazole 20 mg</content>
+</th>
+<th align="left" colspan="2" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Omeprazole 40 mg</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">Parameter</content>
+</th>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">Max</content>
+</th>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">Min</content>
+</th>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">Max</content>
+</th>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">Min</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Toprule Botrule ">
+<paragraph>% Decrease in Basal Acid Output</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule ">
+<paragraph>78* </paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule ">
+<paragraph>58 to 80</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule ">
+<paragraph>94*</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule ">
+<paragraph>80 to 93</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>% Decrease in Peak Acid Output</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>79*</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>50 to 59</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>88*</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>62 to 68</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>% Decrease in 24–hr Intragastric Acidity</paragraph>
+</td>
+<td stylecode="Botrule "></td>
+<td align="center" stylecode="Botrule ">
+<paragraph>80 to 97</paragraph>
+</td>
+<td stylecode="Botrule "></td>
+<td align="center" stylecode="Botrule ">
+<paragraph>92 to 94</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

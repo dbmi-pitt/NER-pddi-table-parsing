@@ -1,0 +1,27 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>Table 1 Single Dose and Steady State Pharmacokinetic Parameters for Oral 7.5 mg and 15 mg Meloxicam (Mean and % CV)<footnote>The parameter values in the Table are from various studies</footnote></caption>
+<col align="left" width="8%"></col>
+<col align="left" width="9%"></col>
+<col align="left" width="8%"></col>
+<col align="left" width="9%"></col>
+<col align="left" width="8%"></col>
+<col align="left" width="9%"></col>
+<col align="left" width="8%"></col>
+<col align="left" width="9%"></col>
+<col align="left" width="8%"></col>
+<col align="left" width="8%"></col>
+<col align="left" width="8%"></col>
+<col align="left" width="8%"></col>
+<thead>
+<tr stylecode="Botrule"><th colspan="2"></th><th align="center" colspan="6">Steady State</th><th align="center" colspan="4">Single Dose</th></tr>
+<tr><th colspan="2">Pharmacokinetic<br/>Parameters<br/>(% CV)</th><th colspan="2" stylecode="Botrule">Healthy<br/>male adults<br/>(Fed)<footnote id="T1f2">not under high fat conditions</footnote></th><th colspan="2" stylecode="Botrule">Elderly<br/>males<br/>(Fed)<footnoteref idref="T1f2"></footnoteref></th><th colspan="2" stylecode="Botrule Rrule">Elderly<br/>females<br/>(Fed)<footnoteref idref="T1f2"></footnoteref></th><th colspan="2" stylecode="Botrule">Renal<br/>failure<br/>(Fasted)</th><th colspan="2" stylecode="Botrule">Hepatic<br/>insufficiency<br/>(Fasted)</th></tr>
+<tr stylecode="Botrule"><th colspan="2"></th><th colspan="2">7.5 mg<footnote>meloxicam tablets</footnote><br/>tablets</th><th colspan="2">15 mg<br/>capsules</th><th colspan="2" stylecode="Rrule">15 mg<br/>capsules</th><th colspan="2">15 mg<br/>capsules</th><th colspan="2">15 mg<br/>capsules</th></tr>
+<tr><th colspan="2">N</th><th colspan="2">18</th><th colspan="2">5</th><th colspan="2" stylecode="Rrule">8</th><th colspan="2">12</th><th colspan="2">12</th></tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule"><td>C<sub>max</sub></td><td>[µg/mL]</td><td>1.05</td><td>(20)</td><td>2.3</td><td>(59)</td><td>3.2</td><td stylecode="Rrule">(24)</td><td>0.59</td><td>(36)</td><td>0.84</td><td>(29)</td></tr>
+<tr stylecode="Botrule"><td>t<sub>max</sub></td><td>[h]</td><td>4.9</td><td>(8)</td><td>5</td><td>(12)</td><td>6</td><td stylecode="Rrule">(27)</td><td>4</td><td>(65)</td><td>10</td><td>(87)</td></tr>
+<tr stylecode="Botrule"><td>t<sub>1/2</sub></td><td>[h]</td><td>20.1</td><td>(29)</td><td>21</td><td>(34)</td><td>24</td><td stylecode="Rrule">(34)</td><td>18</td><td>(46)</td><td>16</td><td>(29)</td></tr>
+<tr stylecode="Botrule"><td>CL/f </td><td>[mL/min]</td><td>8.8</td><td>(29)</td><td>9.9</td><td>(76)</td><td>5.1</td><td stylecode="Rrule">(22)</td><td>19</td><td>(43)</td><td>11</td><td>(44)</td></tr>
+<tr valign="top"><td>V<sub>Z</sub>/f<footnote>V<sub>Z</sub>/f=Dose/(AUC•K<sub>el</sub>)</footnote></td><td>[L]</td><td>14.7</td><td valign="middle">(32)</td><td>15</td><td valign="middle">(42)</td><td>10</td><td stylecode="Rrule">(30)</td><td>26</td><td>(44)</td><td>14</td><td>(29)</td></tr>
+</tbody>
+</table>

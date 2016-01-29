@@ -1,0 +1,394 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 15: Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs </caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" colspan="6" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Coadministered Drug</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>
+<content stylecode="bold">Pioglitazone Dosage Regimen (mg)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>
+<content stylecode="bold">Name and Dose Regimens</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>
+<content stylecode="bold">Change in AUC</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Change in C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg </paragraph>
+<paragraph>(N = 12)</paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Warfarin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5%</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>R-Warfarin</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↓ 3%</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>R-Warfarin</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↓ 2%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>S-Warfarin</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↓ 1%</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>S-Warfarin</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↑ 1%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg </paragraph>
+<paragraph>(N = 12) </paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Digoxin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">  
+
+<paragraph>0.200 mg twice daily (loading dose) then 0.250 mg daily (maintenance dose, 7 days)</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↑ 15%</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↑ 17%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg daily for 21 days </paragraph>
+<paragraph>(N = 35) </paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Oral Contraceptive</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>[Ethinyl Estradiol (EE) 0.035 mg plus Norethindrone (NE) 1 mg] for 21 days</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>EE</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↓ 11%</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>EE</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↓ 13%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>NE</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↑ 3%</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>NE</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↓ 7%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg </paragraph>
+<paragraph>(N = 23)</paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Fexofenadine</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">  
+
+<paragraph>60 mg twice daily for 7 days</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↑ 30%</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↑ 37%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg </paragraph>
+<paragraph>(N = 14)</paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Glipizide</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">  
+
+<paragraph>5 mg daily for 7 days</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↓ 3%</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↓ 8%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg daily for 8 days </paragraph>
+<paragraph>(N = 16)</paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Metformin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">  
+
+<paragraph>1000 mg single dose on Day 8 </paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↓ 3%</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↓ 5%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg </paragraph>
+<paragraph>(N = 21)</paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Midazolam</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">  
+
+<paragraph>7.5 mg single dose on Day 15</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↓ 26%</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↓ 26%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg </paragraph>
+<paragraph>(N = 24)</paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Ranitidine</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">  
+
+<paragraph>150 mg twice daily for 7 days</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↑ 1%</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↓ 1%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg daily for 4 days </paragraph>
+<paragraph>(N = 24)</paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Nifedipine ER</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">  
+
+<paragraph>30 mg daily for 4 days</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↓ 13%</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↓ 17%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg </paragraph>
+<paragraph>(N = 25)</paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Atorvastatin Ca</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">  
+
+<paragraph>80 mg daily for 7 days</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↓ 14%</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↓ 23%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>45 mg </paragraph>
+<paragraph>(N = 22)</paragraph>
+</td>
+<td colspan="5" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>
+<content stylecode="bold">Theophylline</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">  
+
+<paragraph>400 mg twice daily for 7 days</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     ">  
+
+<paragraph>↑ 2%</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     ">  
+
+<paragraph>↑ 5%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

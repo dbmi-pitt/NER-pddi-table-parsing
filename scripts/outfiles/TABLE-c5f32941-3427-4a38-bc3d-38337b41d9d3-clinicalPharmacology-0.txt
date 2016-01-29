@@ -1,0 +1,113 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHI <sup>a</sup>
+</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th align="center" rowspan="2" stylecode="     Botrule         Lrule          Rrule     " valign="top">Event <sup>c</sup>
+</th>
+<th align="center" rowspan="2" stylecode="     Botrule          Rrule     " valign="top">Relative Risk CE/MPA vs. placebo at 5.2 Years<br/>(95% CI <sup>*</sup>)</th>
+<th align="center" stylecode="     Botrule          Rrule     " valign="top">Placebo<br/>n = 8102</th>
+<th align="center" stylecode="     Botrule          Rrule     " valign="top">CE/MPA<br/>n = 8506</th>
+</tr>
+<tr>
+<th align="center" colspan="2" stylecode="     Botrule          Rrule     " valign="top">Absolute Risk per 10,000 Person-years</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> CHD events<br/>  <content stylecode="bold">
+<content stylecode="italics">Non-fatal MI<br/>  CHD death</content>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 1.29 (1.02-1.63)<br/>
+<content stylecode="bold">
+<content stylecode="italics">1.32 (1.02-1.72) <br/>1.18 (0.70-1.97)</content>
+</content>
+</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 30<br/>
+<content stylecode="bold">
+<content stylecode="italics">23 <br/>6</content>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 37<br/>
+<content stylecode="bold">
+<content stylecode="italics">30 <br/>7</content>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Invasive breast cancer <sup>b</sup>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 1.26 (1.00-1.59)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 30</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 38</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Stroke</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 1.41 (1.07-1.85)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 21</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 29</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Pulmonary embolism<br/>Colorectal cancer</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 2.13 (1.39-3.25) <br/>0.63 (0.43-0.92)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 8 <br/>16</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 16 <br/>10</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Endometrial cancer</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.83 (0.47-1.47)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 6</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 5</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Hip fracture</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.66 (0.45-0.98)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 15</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 10</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Death due to causes other than the events above</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.92 (0.74-1.14)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 40</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 37</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Global Index<sup> c</sup>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 1.15 (1.03-1.28)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 151</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 170</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" colspan="2" stylecode="     Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Deep vein thrombosis <sup>d</sup>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 2.07 (1.49-2.87)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 13</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 26</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Vertebral fractures<sup> d</sup>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.66 (0.44-0.98)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 15</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 9</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Other osteoporotic fractures<sup> d</sup>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.77 (0.69-0.86)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 170</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 131</td>
+</tr>
+</tbody>
+</table>

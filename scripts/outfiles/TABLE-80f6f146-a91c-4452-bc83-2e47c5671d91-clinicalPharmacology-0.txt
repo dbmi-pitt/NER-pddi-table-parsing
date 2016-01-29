@@ -1,0 +1,26 @@
+<table id="vbgtr" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr stylecode="First Last">
+<td stylecode="Lrule">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+<td stylecode="Lrule Rrule">
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule First">
+<td stylecode="Lrule">≤ 8</td>
+<td stylecode="Lrule Rrule">Susceptible (S)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">16</td>
+<td stylecode="Lrule Rrule">Intermediate (I)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">≥ 32</td>
+<td stylecode="Lrule Rrule">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

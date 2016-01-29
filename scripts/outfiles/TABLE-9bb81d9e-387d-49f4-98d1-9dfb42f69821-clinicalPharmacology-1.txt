@@ -1,0 +1,161 @@
+<table border="1" cellpadding="2" cellspacing="0" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td> </td>
+<td>
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL) </content>
+</td>
+<td>
+<content stylecode="bold">Disk Diffusion </content>
+<content stylecode="bold">(zone diameter in mm) </content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Pathogen </content>
+</td>
+<td>
+<content stylecode="bold">S </content>
+</td>
+<td>
+<content stylecode="bold">I </content>
+</td>
+<td>
+<content stylecode="bold">R </content>
+</td>
+<td>
+<content stylecode="bold">S </content>
+</td>
+<td>
+<content stylecode="bold">I </content>
+</td>
+<td>
+<content stylecode="bold">R </content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td>≤2 </td>
+<td>4 </td>
+<td>≥8 </td>
+<td>≥17 </td>
+<td>14 to 16 </td>
+<td>≤13 </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td>≤2 </td>
+<td>4 </td>
+<td>≥8 </td>
+<td>≥17 </td>
+<td>14 to 16 </td>
+<td>≤13 </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus species</content>
+</td>
+<td>≤2 </td>
+<td>4 </td>
+<td>≥8 </td>
+<td>≥17 </td>
+<td>14 to 16 </td>
+<td>≤13 </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td>≤2 </td>
+<td>4 </td>
+<td>≥8 </td>
+<td>≥17 </td>
+<td>14 to 16 </td>
+<td>≤13 </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td>≤2
+</td>
+<td>-† </td>
+<td>-</td>
+<td>≥17 </td>
+<td>- </td>
+<td>-</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Haemophilus parainfluenzae</content>
+</td>
+<td>≤2<sup></sup>
+</td>
+<td>- </td>
+<td>-<sup></sup>
+</td>
+<td>≥17
+<sup></sup>
+</td>
+<td>-<sup></sup>
+</td>
+<td>- </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td>≤2<sup> </sup>
+</td>
+<td>4</td>
+<td>≥8</td>
+<td>≥17
+<sup> </sup>
+</td>
+<td>14 to 16
+</td>
+<td>≤13
+<sup></sup>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Streptococcus pyogenes</content>
+</td>
+<td>≤2 </td>
+<td>4 </td>
+<td>≥8 </td>
+<td>≥17 </td>
+<td>14 to 16 </td>
+<td>≤13 </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Yersinia pestis<sup>4</sup>
+</content>
+</td>
+<td>≤0.25</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Bacillus anthracis<sup>4</sup>
+</content>
+</td>
+<td>≤0.25</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>

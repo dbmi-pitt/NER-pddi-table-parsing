@@ -1,0 +1,33 @@
+<table id="id_55b7cb92-ddc6-4e38-a782-c4276076695a" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="center" width="50%"></col>
+<col align="center" width="50%"></col>
+<tbody>
+<tr id="id_81355e91-653b-4be5-a2d7-df053fb3742b" stylecode="Toprule">
+<td align="left" colspan="2" stylecode="Lrule Botrule Rrule" valign="top">For testing <content stylecode="italics">Enterobacteriaceae, Enterococcus faecalis</content>, methicillin-susceptible <content stylecode="italics">Staphylococcus</content> species, penicillin-susceptible <content stylecode="italics">Streptococcus pneumoniae</content>, <content stylecode="italics">Streptococcus pyogenes</content>, and <content stylecode="italics">Pseudomonas aeruginosa</content>
+<footnote id="id-ad048196-4c8c-447b-8725-d4721d161235">These zone diameter standards are applicable only to tests performed for streptococci using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO<sub>2</sub>.</footnote>:</td>
+</tr>
+<tr id="id_5999e15b-94b6-4f5e-92c3-cd4126de0a27">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="underline">
+<content stylecode="bold">Zone Diameter (mm</content>
+</content>)</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="underline">
+<content stylecode="bold">Interpretation</content>
+</content>
+</td>
+</tr>
+<tr id="id_85db7767-9d17-4117-bf5c-7c02778fa8f0">
+<td align="left" stylecode="Lrule Rrule" valign="top">≥ 21</td>
+<td align="left" stylecode="Rrule" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_b3202d62-c87d-4964-a41b-4c83de7e3bbb">
+<td align="left" stylecode="Lrule Rrule" valign="top">16–20</td>
+<td align="left" stylecode="Rrule" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_0fb54c79-828f-4cc4-8bb0-57973ae85b6c" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">≤ 15</td>
+<td align="left" stylecode="Rrule" valign="top">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

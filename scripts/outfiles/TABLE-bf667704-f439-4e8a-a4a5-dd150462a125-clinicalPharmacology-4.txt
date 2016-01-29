@@ -1,0 +1,33 @@
+<table frame="void" id="INV-248e9477-1708-4cf5-b39f-d01bed178c82" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><col align="left" width="212px"></col>
+<col align="left" width="212px"></col>
+<col align="left" width="212px"></col>
+<tfoot>
+<tr><td colspan="3"><paragraph id="INV-79252b7a-1d4c-4647-bc1e-29a73454a37d" stylecode="footnote">a. Interpretative criteria applicable only to tests performed by disk diffusion method using a 30-mcg tetracycline class disk and using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>2,3</sup></paragraph><paragraph id="INV-c73061ae-909e-4757-97be-92ff32562848" stylecode="footnote">b. Interpretative criteria applicable only to tests performed by disk diffusion method using a 30-mcg tetracycline class disk and using GC agar base with 1% defined growth supplement. <sup>2,3</sup></paragraph><paragraph id="INV-7ff6eaed-7276-425c-b705-ec3a01a03d11" stylecode="footnote">c. Interpretative criteria applicable only to tests performed by disk diffusion method using a 30-mcg tetracycline class disk and using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO <sub>2</sub>.<sup>2,3</sup></paragraph></td></tr>
+</tfoot>
+<tbody valign="top">
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"><content stylecode="bold">Zone Diameter (mm)</content></td><td align="center" stylecode="Botrule" valign="middle"><content stylecode="bold">Interpretation</content></td></tr>
+<tr valign="top"><td align="center" stylecode="Botrule Rrule" valign="middle"> Tetracycline </td><td align="center" stylecode="Botrule Rrule" valign="middle"> Doxycycline </td><td align="center" stylecode="Botrule" valign="middle"></td></tr>
+<tr valign="top"><td align="center" stylecode="Botrule Rrule" valign="middle">≥19 </td><td align="center" stylecode="Botrule Rrule" valign="middle">≥16 </td><td align="center" stylecode="Botrule" valign="middle"> Susceptible (S) </td></tr>
+<tr valign="top"><td align="center" stylecode="Botrule Rrule" valign="middle"> 15-18 </td><td align="center" stylecode="Botrule Rrule" valign="middle"> 13-15 </td><td align="center" stylecode="Botrule" valign="middle"> Intermediate (I) </td></tr>
+<tr valign="top"><td align="center" stylecode="Botrule Rrule" valign="middle">≤14 </td><td align="center" stylecode="Botrule Rrule" valign="middle">≤12 </td><td align="center" stylecode="Botrule" valign="middle"> Resistant (R) </td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"> When testing <content stylecode="italics">Haemophilus spp.<sup>a</sup></content></td><td align="left" stylecode="Botrule" valign="middle"></td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"><content stylecode="bold">Zone Diameter (mm) </content></td><td align="center" stylecode="Botrule" valign="middle"><content stylecode="bold">Interpretation</content></td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"> tetracycline </td><td align="left" stylecode="Botrule" valign="middle"></td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">≥29 </td><td align="center" stylecode="Botrule" valign="middle"> Susceptible (S) </td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"> 26-28 </td><td align="center" stylecode="Botrule" valign="middle"> Intermediate (I) </td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">≤25 </td><td align="center" stylecode="Botrule" valign="middle"> Resistant (R) </td></tr>
+<tr valign="top"><td align="left" colspan="2" stylecode="Botrule Rrule" valign="middle"> When testing <content stylecode="italics">Neisseria gonorrhoeae<sup>b</sup></content></td><td align="left" stylecode="Botrule" valign="middle"></td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"><content stylecode="bold">Zone Diameter (mm) </content></td><td align="center" stylecode="Botrule" valign="middle"><content stylecode="bold">Interpretation</content></td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"> tetracycline </td><td align="left" stylecode="Botrule" valign="middle"></td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">≥38 </td><td align="center" stylecode="Botrule" valign="middle"> Susceptible (S) </td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"> 31-37 </td><td align="center" stylecode="Botrule" valign="middle"> Intermediate (I) </td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">≤30 </td><td align="center" stylecode="Botrule" valign="middle"> Resistant (R) </td></tr>
+<tr valign="top"><td align="left" colspan="3" stylecode="Botrule Rrule" valign="middle"> Zone diameters ≤19 mm may indicate Hyperlink plasmid-mediated tetracycline-resistant <content stylecode="italics">Neisseria gonorrhoeae </content>(TRNG) isolate. These TRNG strains should be confirmed by the dilution test (MIC ≥16 mcg/mL). </td></tr>
+<tr valign="top"><td align="left" colspan="2" stylecode="Botrule Rrule" valign="middle"> When testing <content stylecode="italics">Streptococcus pneumoniae </content><sup>c</sup></td><td align="left" stylecode="Botrule" valign="middle"></td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"><content stylecode="bold">Zone Diameter (mm) </content></td><td align="center" stylecode="Botrule" valign="middle"><content stylecode="bold">Interpretation</content></td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"> tetracycline </td><td align="left" stylecode="Botrule" valign="middle"></td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">≥23 </td><td align="center" stylecode="Botrule" valign="middle"> Susceptible (S) </td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle"> 19-22 </td><td align="center" stylecode="Botrule" valign="middle"> Intermediate (I) </td></tr>
+<tr valign="top"><td align="center" colspan="2" stylecode="Rrule" valign="middle">≤18 </td><td align="center" valign="middle"> Resistant (R) </td></tr>
+</tbody>
+</table>

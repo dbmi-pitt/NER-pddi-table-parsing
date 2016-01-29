@@ -1,0 +1,114 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Pharmacokinetics in Normal Adult Volunteers</caption>
+<col width="18%"></col>
+<col width="7%"></col>
+<col width="21%"></col>
+<col width="26%"></col>
+<col width="27%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="emphasis">
+<content stylecode="bold">Age-group (years)</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="emphasis">
+<content stylecode="bold">n</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="emphasis">
+<content stylecode="bold">Peak Plasma</content>
+</content>
+<br/>
+<content stylecode="emphasis">
+<content stylecode="bold">Concentration</content>
+<br/>
+</content>
+<content stylecode="emphasis">
+<content stylecode="bold">(ng/mL)</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="emphasis">
+<content stylecode="bold">Mean Elimination</content>
+</content>
+<br/>
+<content stylecode="emphasis">
+<content stylecode="bold">Half-life (h)</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="emphasis">
+<content stylecode="bold">Plasma Clearance</content>
+</content>
+<br/>
+<content stylecode="emphasis">
+<content stylecode="bold">(L/h/kg)</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="bottom">
+<paragraph>19-40</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>11</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>102</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>3.5</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="middle">
+<paragraph>0.381</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="bottom">
+<paragraph>61-74</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>106</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>4.7</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="middle">
+<paragraph>0.319</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="bottom">
+<paragraph>≥75</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>11</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>170</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>5.5</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="middle">
+<paragraph>0.262</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

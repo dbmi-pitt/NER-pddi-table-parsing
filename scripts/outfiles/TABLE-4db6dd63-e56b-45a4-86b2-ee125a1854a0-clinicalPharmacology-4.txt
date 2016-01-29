@@ -1,0 +1,144 @@
+<table cellpadding="0.4pt" cellspacing="0pt" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="25%"></col>
+<col width="18%"></col>
+<col width="19%"></col>
+<col width="38%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Coadministered Drug</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Ganciclovir Dosage</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">N</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Ganciclovir Pharmacokinetic (PK) Parameter</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Zidovudine 100 mg </paragraph>
+<paragraph>every 4 hours </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>1000 mg every 8 hours</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>AUC ↓ 17 ± 25% <br/>(range: -52% to 23%)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Probenecid 500 mg every 6 hours </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>1000 mg every 8 hours</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>10</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>AUC ↑ 53 ± 91% <br/>(range: -14% to 299%) <br/>Ganciclovir renal clearance ↓ 22 ± 20% <br/>(range: -54% to -4%)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Mycophenolate </paragraph>
+<paragraph>Mofetil (MMF) </paragraph>
+<paragraph>1.5 g single dose </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>IV ganciclovir 5 mg/kg single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>No effect on ganciclovir PK parameters observed(patients with normal renal function)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Didanosine 200 mg </paragraph>
+<paragraph>every 12 hours </paragraph>
+<paragraph>administered </paragraph>
+<paragraph>2 hours before ganciclovir </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>1000 mg every 8 hours</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>AUC ↓ 21 ± 17% <br/>(range: -44% to 5%)</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Didanosine 200 mg every 12 hours simultaneously administered with </paragraph>
+<paragraph>ganciclovir </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>1000 mg every 8 hours</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>No effect on ganciclovir PK parameters observed</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>IV ganciclovir 5 mg/kg twice daily</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>11</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>No effect on ganciclovir PK parameters observed</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>IV ganciclovir 5 mg/kg once daily</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>11</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>No effect on ganciclovir PK parameters observed</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>Trimethoprim </paragraph>
+<paragraph>200 mg once daily </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>1000 mg every 8 hours</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>Ganciclovir renal clearance ↓ 16.3% <br/>Half-life ↑15%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,89 @@
+<table id="id_9cc3a2b7-2498-4f14-b062-15907db76687" width="440.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="13.9%"></col>
+<col width="13.9%"></col>
+<col width="13.9%"></col>
+<col width="13.9%"></col>
+<col width="13.9%"></col>
+<col width="15.7%"></col>
+<col width="15.0%"></col>
+<tbody>
+<tr id="id_3addd7e2-7d58-4a69-9c82-53af424b7977" stylecode="Toprule">
+<td align="center" colspan="7" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">Ethinyl Estradio</content>l</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_596a0d27-b3e1-4d1a-90cc-15a1f0b5a89f">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">Day</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Dose</paragraph>mg</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>C<sub>max</sub>
+</paragraph>pg/mL</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>T<sub>max</sub>
+</paragraph>h</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>t<sub>1/2</sub>
+</paragraph>h</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">AUC<sub>0–24</sub> pg/mL•hr</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>CL/F</paragraph>L/h</td>
+</tr>
+<tr id="id_281caf02-9aec-44c9-b9b6-8a263282dfa2">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.02</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">51.9 (15.4)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.9 (1.2)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16.5 (4.8)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">566 (173)<footnote id="id-27b2eec6-89fe-4cd0-b06a-aa340d500a5c">n = 16</footnote> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">25.7 (9.1)</td>
+</tr>
+<tr id="id_5fbaea72-6a2c-467e-b166-048a550747cc">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.02</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">62.2 (25.9)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2 (0.8)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">23.9 (25.5)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">597 (127)<footnoteref idref="id-27b2eec6-89fe-4cd0-b06a-aa340d500a5c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">35.1 (8.2)</td>
+</tr>
+<tr id="id_daf58291-444d-48f0-a2ea-bc0b0b7598bb">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">24</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.01</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">24.6 (10.8)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.4 (1)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">18.8 (10.3)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">246 (65)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">43.6 (12.2)</td>
+</tr>
+<tr id="id_0d33c00b-1b50-4c8f-95ff-67d66e7388cf">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">28</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.01</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">35.3 (27.5)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.1 (1.3)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">18.9 (8.3)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">312 (62)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">33.2 (6.6)</td>
+</tr>
+<tr id="id_b1ec1a3e-0160-4dd1-94b2-0d06a5b08ca5">
+<td align="left" colspan="7" stylecode="Lrule Botrule Rrule" valign="top">C<sub>max</sub> – measured peak concentration</td>
+</tr>
+<tr id="id_95c0b405-1945-4964-845a-5e5d449a1ab5">
+<td align="left" colspan="7" stylecode="Lrule Botrule Rrule" valign="top">T<sub>max</sub> – observed time of peak concentration</td>
+</tr>
+<tr id="id_b355a29c-35e7-4efd-8e8d-63875a124206">
+<td align="left" colspan="7" stylecode="Lrule Botrule Rrule" valign="top">t<sub>1/2</sub> – elimination half-life, calculated by 0.693/K<sub>elim</sub>
+</td>
+</tr>
+<tr id="id_6103a39e-1940-4242-b06f-e20dbf71f7f0">
+<td align="left" colspan="7" stylecode="Lrule Botrule Rrule" valign="top">AUC<sub>0–24</sub> – area under the concentration-time curve calculated by the linear trapezoidal rule (Time 0 to 24 hours)</td>
+</tr>
+<tr id="id_8f03c3cf-da97-47b8-bd25-8ed7f776d006" stylecode="Botrule">
+<td align="left" colspan="7" stylecode="Lrule Rrule" valign="top">CL/F – apparent clearance</td>
+</tr>
+</tbody>
+</table>

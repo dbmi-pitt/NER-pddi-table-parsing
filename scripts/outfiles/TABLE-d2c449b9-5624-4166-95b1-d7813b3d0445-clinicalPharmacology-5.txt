@@ -1,0 +1,36 @@
+<table border="single" frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td valign="top">  <content stylecode="bold"> Microorganism</content>
+</td>
+<td valign="top">   </td>
+<td align="center" valign="top">   <content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">   <content stylecode="italics">Escherichia coli</content>
+</td>
+<td valign="top">   ATCC 25922</td>
+<td align="center" valign="top">   23-29</td>
+</tr>
+<tr>
+<td valign="top">   <content stylecode="italics">Neisseria gonorrhoeae</content>
+<footnote id="FOOT_731">Interpretative criteria applicable only to tests performed by disk diffusion method using GC agar base with 1% defined growth supplement and incubated in 5% CO<sub>2</sub>
+<linkhtml href="#LINK_00f87138-f22b-a9be-fe3e-032f260fed1b">(2)</linkhtml>.</footnote>
+</td>
+<td valign="top">   ATCC 49226</td>
+<td align="center" valign="top">   33-41</td>
+</tr>
+<tr>
+<td valign="top">   <content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td valign="top">   ATCC 25923</td>
+<td align="center" valign="top">   23-29</td>
+</tr>
+</tbody>
+</table>

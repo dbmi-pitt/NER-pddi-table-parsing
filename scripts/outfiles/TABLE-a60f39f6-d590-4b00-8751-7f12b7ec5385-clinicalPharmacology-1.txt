@@ -1,0 +1,80 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="39%"></col>
+<col width="38%"></col>
+<tbody>
+<tr stylecode="Toprule">
+<td align="center" valign="bottom">
+<paragraph>
+<content stylecode="bold">Parameter</content>
+</paragraph>
+</td>
+<td align="center" valign="bottom">
+<paragraph>
+<content stylecode="bold">Children age</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">5-6 years</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Mean (% Coefficient of Variation)</content>
+</paragraph>
+</td>
+<td align="center" valign="bottom">
+<paragraph>
+<content stylecode="bold">Children age</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">7-11 years</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Mean (% Coefficient of Variation)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" valign="bottom">
+<paragraph>C<sub>max </sub>(ng/mL)</paragraph>
+</td>
+<td align="center" valign="bottom">
+<paragraph>756 (39%)</paragraph>
+</td>
+<td align="center" valign="bottom">
+<paragraph>601 (45%)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" valign="bottom">
+<paragraph>AUC (ng•h/mL)</paragraph>
+</td>
+<td align="center" valign="bottom">
+<paragraph>2458 (34%)</paragraph>
+</td>
+<td align="center" valign="bottom">
+<paragraph>2027 (38%)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" valign="bottom">
+<paragraph>t<sub>max</sub> (h)</paragraph>
+</td>
+<td align="center" valign="bottom">
+<paragraph>2.1 (61%)</paragraph>
+</td>
+<td align="center" valign="bottom">
+<paragraph>2.5 (55%)</paragraph>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" valign="bottom">
+<paragraph>CL/f (L/h)</paragraph>
+</td>
+<td align="center" valign="bottom">
+<paragraph>9.2 (37%)</paragraph>
+</td>
+<td align="center" valign="bottom">
+<paragraph>11.4 (42%)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

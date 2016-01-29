@@ -1,0 +1,44 @@
+<table frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="114px"></col>
+<col align="left" width="47px"></col>
+<col align="left" width="47px"></col>
+<col align="left" width="47px"></col>
+<col align="left" width="47px"></col>
+<col align="left" width="47px"></col>
+<col align="left" width="47px"></col>
+<col align="left" width="47px"></col>
+<col align="left" width="47px"></col>
+<col align="left" width="47px"></col>
+<col align="left" width="47px"></col>
+<col align="left" width="47px"></col>
+<tbody valign="top">
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">Time (hr): </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"> 0.5 </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"> 1.0 </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"> 1.5 </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"> 2.0 </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"> 3.0 </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"> 4.0 </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"> 8.0 </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"> 12.0 </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"> 24.0 </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"> 48.0 </td>
+<td align="left" stylecode="Botrule" valign="middle"> 72.0 </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Rrule" valign="middle"> Conc:(mcg/mL) </td>
+<td align="left" stylecode="Rrule" valign="middle"> 1.02 </td>
+<td align="left" stylecode="Rrule" valign="middle"> 2.26 </td>
+<td align="left" stylecode="Rrule" valign="middle"> 2.67 </td>
+<td align="left" stylecode="Rrule" valign="middle"> 3.01 </td>
+<td align="left" stylecode="Rrule" valign="middle"> 3.16 </td>
+<td align="left" stylecode="Rrule" valign="middle"> 3.03 </td>
+<td align="left" stylecode="Rrule" valign="middle"> 2.03 </td>
+<td align="left" stylecode="Rrule" valign="middle"> 1.62 </td>
+<td align="left" stylecode="Rrule" valign="middle"> 0.95 </td>
+<td align="left" stylecode="Rrule" valign="middle"> 0.37 </td>
+<td align="left" valign="middle"> 0.15 </td>
+</tr>
+</tbody>
+</table>

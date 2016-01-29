@@ -1,0 +1,58 @@
+<table id="id_24da7a08-bf05-4c22-81c2-a80fca59c700" width="867.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_25e8479f-922e-4787-b263-41b811b3fc5d">Table 1. Susceptibility Interpretive Criteria for Nitrofurantoin</caption>
+<col width="17.8%"></col>
+<col width="13.3%"></col>
+<col width="14.5%"></col>
+<col width="13.3%"></col>
+<col width="12.7%"></col>
+<col width="12.0%"></col>
+<col width="16.5%"></col>
+<tbody>
+<tr id="id_8451c194-ed1c-4995-ab63-010aaa854e4e">
+<td align="left" rowspan="2" stylecode="Toprule Botrule" valign="middle">Pathogen</td>
+<td align="center" colspan="6" valign="top">Susceptibility Interpretive Criteria</td>
+</tr>
+<tr id="id_f4f70b79-270f-493f-bc62-e785a5883ee2">
+<td align="center" colspan="3" stylecode="Botrule" valign="top">Minimum Inhibitory<br/>Concentrations<br/>(mcg/mL)</td>
+<td align="center" colspan="3" stylecode="Botrule" valign="top">Disk Diffusion<br/>(zone diameter in mm)</td>
+</tr>
+<tr id="id_e76f6b98-0927-4b38-9362-727c80522495">
+<td align="left" valign="middle"></td>
+<td align="center" valign="top">S</td>
+<td align="center" valign="top">I</td>
+<td align="center" valign="top">R</td>
+<td align="center" valign="top">S</td>
+<td align="center" valign="top">I</td>
+<td align="center" valign="top">R</td>
+</tr>
+<tr id="id_daf88bcc-d84a-41fd-9ddf-40fca5980f36">
+<td align="left" valign="middle">Enterobacteriaceae</td>
+<td align="center" valign="top">≤32</td>
+<td align="center" valign="top">64</td>
+<td align="center" valign="top">≥128</td>
+<td align="center" valign="top">≥17</td>
+<td align="center" valign="top">15 to 16</td>
+<td align="center" valign="top">≤14</td>
+</tr>
+<tr id="id_32c00883-cc3f-4197-bed0-e77ea469e962">
+<td align="left" valign="middle">
+<content stylecode="italics">Staphylococcus </content>spp.</td>
+<td align="center" valign="top">≤32</td>
+<td align="center" valign="top">64</td>
+<td align="center" valign="top">≥128</td>
+<td align="center" valign="top">≥17</td>
+<td align="center" valign="top">15 to 16</td>
+<td align="center" valign="top">≤14</td>
+</tr>
+<tr id="id_365506de-28b5-4872-ac4d-d824a69de377">
+<td align="left" stylecode="Botrule" valign="middle">
+<content stylecode="italics">Enterococcus </content>spp.</td>
+<td align="center" stylecode="Botrule" valign="top">≤32</td>
+<td align="center" stylecode="Botrule" valign="top">64</td>
+<td align="center" stylecode="Botrule" valign="top">≥128</td>
+<td align="center" stylecode="Botrule" valign="top">≥17</td>
+<td align="center" stylecode="Botrule" valign="top">15 to 16</td>
+<td align="center" stylecode="Botrule" valign="top">≤14</td>
+</tr>
+</tbody>
+</table>

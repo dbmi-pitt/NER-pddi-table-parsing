@@ -1,0 +1,34 @@
+<table id="id_3883b4e1-a451-4d1c-9f96-79bab08a865f" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="center" width="50%"></col>
+<col align="center" width="50%"></col>
+<tbody>
+<tr id="id_5cc9edae-f206-462c-8441-8547d5523e10" stylecode="Toprule">
+<td align="left" colspan="2" stylecode="Lrule Botrule Rrule" valign="top">For testing <content stylecode="italics">Enterobacteriaceae, Enterococcus faecalis</content>, methicillin-susceptible <content stylecode="italics">Staphylococcus</content> species, penicillin-susceptible <content stylecode="italics">Streptococcus pneumoniae</content>, <content stylecode="italics">Streptococcus pyogenes</content>, and <content stylecode="italics">Pseudomonas aeruginosa</content>
+<footnote id="id-ba3a538d-5447-4603-8938-1f401c66fb3f">These interpretive standards are applicable only to broth microdilution susceptibility tests with streptococci using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood.</footnote>:</td>
+</tr>
+<tr id="id_0b93beab-99d9-463c-9d9e-2e7e24efccf0">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="underline">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="underline">
+<content stylecode="bold">Interpretation</content>
+</content>
+</td>
+</tr>
+<tr id="id_6c4d0740-8b47-4df2-b084-7388ffa994be">
+<td align="left" stylecode="Lrule Rrule" valign="top">≤ 1</td>
+<td align="left" stylecode="Rrule" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_3d459cc3-d0f4-4260-a518-2d644a37294f">
+<td align="left" stylecode="Lrule Rrule" valign="top">2</td>
+<td align="left" stylecode="Rrule" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_a7773a7b-04ff-45ec-997e-1fc91aa975ec" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">≥ 4</td>
+<td align="left" stylecode="Rrule" valign="top">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,125 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="17%"></col>
+<col width="20%"></col>
+<col width="19%"></col>
+<col width="43%"></col>
+<tbody>
+<tr>
+<td colspan="4" stylecode="Toprule ">
+<paragraph>
+<content stylecode="bold">Digoxin concentrations increased greater than 50% </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td></td>
+<td align="center">
+<paragraph>     Digoxin Serum     <br/>Concentration<br/>Increase</paragraph>
+</td>
+<td align="center">
+<paragraph>     Digoxin AUC     <br/>Increase</paragraph>
+</td>
+<td align="center">
+<paragraph>
+<content stylecode="bold">Recommendations</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Quinidine</paragraph>
+</td>
+<td align="center">
+<paragraph>NA</paragraph>
+</td>
+<td align="center">
+<paragraph>54-83%</paragraph>
+</td>
+<td rowspan="2">
+<paragraph>Measure serum digoxin concentrations before     <br/>initiating concomitant drugs. Reduce digoxin<br/>concentrations by decreasing dose by<br/>approximately 30-50% or by modifying the<br/>dosing frequency and continue monitoring.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Ritonavir</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>NA</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>86%</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4" stylecode="Toprule ">
+<paragraph>
+<content stylecode="bold">Digoxin concentrations increased less than 50%</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Amiodarone</paragraph>
+</td>
+<td align="center">
+<paragraph>17%</paragraph>
+</td>
+<td align="center">
+<paragraph>40%</paragraph>
+</td>
+<td rowspan="5">
+<paragraph>Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15-30% or by modifying the dosing frequency and continue monitoring.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Propafenone</paragraph>
+</td>
+<td align="center">
+<paragraph>28%</paragraph>
+</td>
+<td align="center">
+<paragraph>29%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Quinine </paragraph>
+</td>
+<td align="center">
+<paragraph>NA</paragraph>
+</td>
+<td align="center">
+<paragraph>34-38%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Spironolactone     </paragraph>
+</td>
+<td align="center">
+<paragraph>NA</paragraph>
+</td>
+<td align="center">
+<paragraph>44%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Verapamil</paragraph>
+</td>
+<td align="center">
+<paragraph>NA</paragraph>
+</td>
+<td align="center">
+<paragraph>24%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule "></td>
+<td stylecode="Botrule "></td>
+<td stylecode="Botrule "></td>
+<td stylecode="Botrule "></td>
+</tr>
+</tbody>
+</table>

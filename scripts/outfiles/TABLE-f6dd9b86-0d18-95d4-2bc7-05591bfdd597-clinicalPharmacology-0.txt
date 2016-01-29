@@ -1,0 +1,97 @@
+<table border="0" cellpadding="1" cellspacing="1" id="T_2" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2 Effect of Coadministered Drugs on Systemic Exposure
+of Linagliptin</caption>
+<colgroup>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="20%"></col>
+<col width="20%"></col>
+<col width="20%"></col>
+</colgroup>
+<tfoot>
+<tr>
+<td colspan="5" stylecode="Toprule">*Multiple dose (steady state) unless
+otherwise noted <br/>
+<sup>#</sup> Single dose <br/>†AUC = AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU)
+for multiple-dose treatments<br/>QD = once daily <br/>BID = twice daily<br/>TID = three times daily</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Toprule Lrule">
+<content stylecode="bold">Coadministered
+Drug </content>
+</td>
+<td align="center" rowspan="2" stylecode="Toprule Lrule">
+<content stylecode="bold">Dosing of
+Coadministered Drug*</content>
+</td>
+<td align="center" rowspan="2" stylecode="Toprule Lrule">
+<content stylecode="bold">Dosing of
+Linagliptin* </content>
+</td>
+<td align="center" colspan="2" rowspan="1" stylecode="Toprule Lrule Rrule">
+<content stylecode="bold">Geometric Mean Ratio <br/>(ratio with/without coadministered
+drug)<br/>No effect=1.0 </content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">AUC<sup>†</sup>
+</td>
+<td stylecode="Toprule Lrule Rrule">C<sub>max</sub>
+</td>
+</tr>
+<tr>
+<td colspan="5" stylecode="Toprule Lrule Rrule">
+<content stylecode="bold">No dosing adjustments
+required for linagliptin when given with the following coadministered
+drugs:</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">Metformin </td>
+<td stylecode="Toprule Lrule">850 mg TID</td>
+<td stylecode="Toprule Lrule">10 mg QD</td>
+<td stylecode="Toprule Lrule"> 1.20</td>
+<td rowspan="1" stylecode="Toprule Lrule Rrule">1.03</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">Glyburide </td>
+<td stylecode="Toprule Lrule">1.75 mg<sup>#</sup>
+</td>
+<td stylecode="Toprule Lrule">5 mg QD</td>
+<td stylecode="Toprule Lrule">1.02</td>
+<td stylecode="Toprule Lrule Rrule">1.01</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">Pioglitazone</td>
+<td stylecode="Toprule Lrule">45 mg QD</td>
+<td stylecode="Toprule Lrule">10 mg QD</td>
+<td stylecode="Toprule Lrule">1.13</td>
+<td stylecode="Toprule Lrule Rrule">1.07</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">Ritonavir</td>
+<td stylecode="Toprule Lrule">200 mg BID</td>
+<td stylecode="Toprule Lrule">5 mg<sup>#</sup>
+</td>
+<td stylecode="Toprule Lrule">2.01</td>
+<td stylecode="Toprule Lrule Rrule">2.96</td>
+</tr>
+<tr>
+<td colspan="5" stylecode="Toprule Lrule Rrule">
+<content stylecode="bold">The efficacy of JENTADUETO
+may be reduced when administered in combination with strong inducers
+of CYP3A4 or P-gp (e.g., rifampin).  Use of alternative treatments
+is strongly recommended <content stylecode="italics">[see Drug Interactions <linkhtml href="#Section_7.2">(7.2)</linkhtml>]</content>
+</content>.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">Rifampin</td>
+<td stylecode="Toprule Lrule">600 mg QD</td>
+<td stylecode="Toprule Lrule">5 mg QD</td>
+<td stylecode="Toprule Lrule">0.60 </td>
+<td stylecode="Toprule Lrule Rrule">0.56</td>
+</tr>
+</tbody>
+</table>

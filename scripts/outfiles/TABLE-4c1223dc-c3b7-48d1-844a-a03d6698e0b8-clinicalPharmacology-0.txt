@@ -1,0 +1,67 @@
+<table frame="void" id="ID_6F343550-EE0F-4C90-B251-4B64DB7E788E" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="ID_42039B3F-99DC-41AC-9EA8-F658E7C1DD0C">Table 1 Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6-16 Following Multiple Dosing</caption>
+<colgroup>
+<col width="154*"></col>
+<col width="80*"></col>
+<col width="68*"></col>
+<col width="86*"></col>
+<col width="74*"></col>
+</colgroup>
+<thead>
+<tr id="ID_8669F24F-402D-4613-AB0B-48A5D637EDF3">
+<td align="left" stylecode="LRule RRule" valign="top"></td>
+<td align="center" colspan="2" stylecode="RRule" valign="top">Adults given 50 mg once daily for 7 days<br/>N=12</td>
+<td align="center" colspan="2" stylecode="RRule" valign="top">Age 6-16 given 0.7 mg/kg once daily for 7 days<br/>N=25</td>
+</tr>
+</thead>
+<tbody>
+<tr id="ID_244DE004-BBB6-4773-AF61-DD8D39312720" stylecode="BotRule">
+<td align="left" stylecode="LRule RRule" valign="top"></td>
+<td align="left" stylecode="RRule" valign="top">Parent</td>
+<td align="left" stylecode="RRule" valign="top">Active Metabolite</td>
+<td align="left" stylecode="RRule" valign="top">Parent</td>
+<td align="left" stylecode="RRule" valign="top">Active Metabolite</td>
+</tr>
+<tr id="ID_2C99D09E-2281-4CD8-B339-2E697B4D5DB7" stylecode="BotRule">
+<td align="left" stylecode="LRule RRule" valign="top">AUC<sub>0-24</sub>
+<sup>a</sup>(ng·h/mL)<sup></sup>
+</td>
+<td align="left" stylecode="RRule" valign="top">442 ± 173</td>
+<td align="left" stylecode="RRule" valign="top">1685 ± 452</td>
+<td align="left" stylecode="RRule" valign="top">368 ± 169</td>
+<td align="left" stylecode="RRule" valign="top">1866 ± 1076</td>
+</tr>
+<tr id="ID_9D2DA444-4C27-480F-9DDE-562DC77D3FBB" stylecode="BotRule">
+<td align="left" stylecode="LRule RRule" valign="top">C<sub>MAX</sub> (ng/mL)<sup>a</sup>
+</td>
+<td align="left" stylecode="RRule" valign="top">224 ± 82</td>
+<td align="left" stylecode="RRule" valign="top">212 ± 73</td>
+<td align="left" stylecode="RRule" valign="top">141 ± 88</td>
+<td align="left" stylecode="RRule" valign="top">222 ± 127</td>
+</tr>
+<tr id="ID_2FDB8AB5-1DE1-4B36-8337-C8A8358F2198" stylecode="BotRule">
+<td align="left" stylecode="LRule RRule" valign="top">T<sub>1/2</sub> (h)<sup>b</sup>
+</td>
+<td align="left" stylecode="RRule" valign="top">2.1 ± 0.70</td>
+<td align="left" stylecode="RRule" valign="top">7.4 ± 2.4</td>
+<td align="left" stylecode="RRule" valign="top">2.3 ± 0.8</td>
+<td align="left" stylecode="RRule" valign="top">5.6 ± 1.2</td>
+</tr>
+<tr id="ID_26F32653-DFA0-42DC-AB28-D1EBE4509547" stylecode="BotRule">
+<td align="left" stylecode="LRule RRule" valign="top">T<sub>PEAK</sub> (h)<sup>c</sup>
+</td>
+<td align="left" stylecode="RRule" valign="top">0.9</td>
+<td align="left" stylecode="RRule" valign="top">3.5</td>
+<td align="left" stylecode="RRule" valign="top">2.0</td>
+<td align="left" stylecode="RRule" valign="top">4.1</td>
+</tr>
+<tr id="ID_A74014EA-D9FD-40B2-A593-30480388DC50">
+<td align="left" stylecode="LRule RRule" valign="top">CL<sub>REN</sub> (mL/min)<sup>a</sup>
+</td>
+<td align="left" stylecode="RRule" valign="top">56 ± 23</td>
+<td align="left" stylecode="RRule" valign="top">20 ± 3</td>
+<td align="left" stylecode="RRule" valign="top">53 ± 33</td>
+<td align="left" stylecode="RRule" valign="top">17 ± 8</td>
+</tr>
+</tbody>
+</table>

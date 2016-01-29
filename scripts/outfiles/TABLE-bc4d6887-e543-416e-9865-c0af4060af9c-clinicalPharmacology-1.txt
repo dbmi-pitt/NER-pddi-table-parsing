@@ -1,0 +1,41 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th align="center" colspan="8" stylecode="     Botrule     ">PLASMA CONCENTRATIONS AFTER 2 GRAM IV<footnote id="FOOT_2185">Injected over 3 minutes</footnote> DOSE<br/>Mean Plasma Concentration (mcg/mL)</th>
+</tr>
+<tr>
+<th align="center" colspan="8">Time After Injection</th>
+</tr>
+<tr>
+<th align="center">Route</th>
+<th align="center">5 min</th>
+<th align="center">10 min</th>
+<th align="center">1h</th>
+<th align="center">3h</th>
+<th align="center">5h</th>
+<th align="center">9h</th>
+<th align="center">12h</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"> IV</td>
+<td align="center"> 237</td>
+<td align="center"> 223</td>
+<td align="center"> 135</td>
+<td align="center"> 74</td>
+<td align="center"> 48</td>
+<td align="center"> 22</td>
+<td align="center"> 12<footnote id="FOOT_2186">Concentrations estimated from regression line</footnote>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,47 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">  Microorganism </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">  Zone Diameter Ranges (mm) </td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">  * Mueller-Hinton agar should be checked for excessive levels of thymidine or thymine. To determine whether Mueller-Hinton medium has sufficiently low levels of thymidine and thymine, an <content stylecode="italics">Enterococcus faecalis</content> (ATCC 29212 or ATCC 33186) may be tested with sulfamethoxazole/trimethoprim disks. A zone of inhibition ≥20 mm that is essentially free of fine colonies indicates a sufficiently low level of thymidine and thymine. </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <sup>g.</sup> This quality control range is applicable only to <content stylecode="italics">Haemophilus influanzae</content> ATCC 49247 tested by disk diffusion procedure using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>5</sup>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <sup>h.</sup> This quality control range is applicable only to tests performed by disk diffusion using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood when incubated in 5% CO<sub>2</sub>.<sup>5</sup>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="italics">Escherichia coli</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ATCC 25922</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 23 to 29</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="italics">Haemophilus influenzae</content>
+<sup>g</sup>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ATCC 49247</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 24 to 32</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="italics">Streptococcus pneumoniae</content>
+<sup>h</sup>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ATCC 49619</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 20 to 28</td>
+</tr>
+</tbody>
+</table>

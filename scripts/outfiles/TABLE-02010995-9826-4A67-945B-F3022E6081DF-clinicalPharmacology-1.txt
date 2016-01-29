@@ -1,0 +1,22 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><col align="left" width="20%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<tbody>
+<tr stylecode="Botrule"><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td colspan="3" stylecode="Lrule">Disk Diffusion</td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule"></td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td colspan="3" stylecode="Lrule">Zone diameter (mm)</td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule"></td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule">Organisms</td><td stylecode="Lrule"></td><td stylecode="Lrule">Suscept.</td><td stylecode="Lrule"></td><td stylecode="Lrule">Intermed.</td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule">Resist.</td></tr>
+<tr stylecode="Botrule"><td stylecode="Toprule Lrule"><content stylecode="italics">Enterobacter</content></td><td stylecode="Toprule Lrule"></td><td stylecode="Toprule Lrule">≥23</td><td stylecode="Toprule Lrule"></td><td stylecode="Toprule Lrule">18–22</td><td stylecode="Toprule Lrule"></td><td stylecode="Toprule Lrule Rrule">≤17</td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule"><content stylecode="italics">Pseudomonas</content>
+ sp.</td><td stylecode="Lrule"></td><td stylecode="Lrule">≥17</td><td stylecode="Lrule"></td><td stylecode="Lrule">14–16</td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule">≤13</td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td colspan="3" stylecode="Lrule">Dilution</td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule"></td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td colspan="3" stylecode="Lrule">MIC (µg/ml)</td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule"></td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule" valign="bottom">Organisms</td><td stylecode="Lrule"></td><td stylecode="Lrule" valign="bottom">Suscept.</td><td stylecode="Lrule"></td><td stylecode="Lrule" valign="bottom">Moderately Suscept.</td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule" valign="bottom">Resist.</td></tr>
+<tr stylecode="Botrule"><td stylecode="Toprule Lrule"><content stylecode="italics">Enterobacter</content></td><td stylecode="Lrule"></td><td stylecode="Lrule">≤16</td><td stylecode="Lrule"></td><td stylecode="Lrule">32</td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule">≥64</td></tr>
+<tr><td stylecode="Lrule"><content stylecode="italics">Pseudomonas</content>
+ sp.</td><td stylecode="Lrule"></td><td stylecode="Lrule">≤128</td><td stylecode="Lrule"></td><td stylecode="Lrule">—</td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule">≥156</td></tr>
+</tbody>
+</table>

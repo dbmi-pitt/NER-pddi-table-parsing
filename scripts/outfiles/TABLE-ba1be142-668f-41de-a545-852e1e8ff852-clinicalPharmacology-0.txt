@@ -1,0 +1,70 @@
+<table id="id_eca49eac-ae49-4daa-a96b-3c490a241bd0" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_5c83ae6a-f5a3-45a1-8a97-d59b5a69f440" stylecode="Botrule">
+<td align="center" stylecode="Rrule" valign="top"> Population/<br/>Dosage Regimen<sup>a</sup>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> Parent Drug/<br/>Metabolite</td>
+<td align="center" stylecode="Rrule" valign="top"> PeakConc.<br/>(ng/mL)</td>
+<td align="center" stylecode="Rrule" valign="top"> Time to <br/>Peak (hrs)</td>
+<td align="center" stylecode="Rrule" valign="top"> Clearence/F<sup>b</sup>
+<br/>(mL/min/Kg)</td>
+<td align="center" valign="top"> t<sub>1/2</sub> (hrs)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_4502238f-b428-478e-a7bc-ba0a6cc9ee21" stylecode="Toprule">
+<td align="left" stylecode="Botrule Toprule Rrule" valign="top">Healthy Adults,<br/>100 mg qid, MD p.o.</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Tramadol<br/>M1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">592 (30)<br/>110 (29)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.3 (61)<br/>2.4 (46)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">5.90 (25)<br/>c</td>
+<td align="center" stylecode="Botrule" valign="top">6.7 (15)<br/>7.0 (14)</td>
+</tr>
+<tr id="id_42a495da-8085-4a02-a085-b71692f9acb6">
+<td align="left" stylecode="Botrule Rrule" valign="top">Healthy Adults,<br/>100 mg SD p.o.</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Tramadol<br/>M1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">308 (25)<br/>55.0 (36)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.6 (63)<br/>3.0 (51)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">8.50 (31)<br/>c</td>
+<td align="center" stylecode="Botrule" valign="top">5.6 (20)<br/>6.7 (16)</td>
+</tr>
+<tr id="id_2df21d02-a14b-426d-9a4d-f43007855aa4">
+<td align="left" stylecode="Botrule Rrule" valign="top">Geriatric, (&gt;75 yrs)<br/>50 mg SD p.o.</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Tramadol<br/>M1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">208 (31)<br/>d</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.1 (19)<br/>d</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">6.89 (25)<br/>c</td>
+<td align="center" stylecode="Botrule" valign="top">7.0 (23)<br/>d</td>
+</tr>
+<tr id="id_406ae947-17fa-4e16-a946-91477c272bed">
+<td align="left" stylecode="Botrule Rrule" valign="top">Hepatic Impaired,<br/>50 mg SD p.o.</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Tramadol<br/>M1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">217 (11)<br/>19.4 (12)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.9 (16)<br/>9.8 (20)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4.23 (56)<br/>c</td>
+<td align="center" stylecode="Botrule" valign="top">13.3 (11)<br/>18.5 (15)</td>
+</tr>
+<tr id="id_193b6b61-ae71-45de-9fa0-1f20e3966bf1">
+<td align="left" stylecode="Botrule Rrule" valign="top">Renal Impaired,<br/>CL<sub>cr</sub>10-30 mL/min<br/>100 mg SD i.v</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Tramadol<br/>M1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">c<br/>c</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">c<br/>c</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4.23 (54)<br/>c</td>
+<td align="center" stylecode="Botrule" valign="top">10.6 (31)<br/>11.5 (40)</td>
+</tr>
+<tr id="id_1ebadd85-25e6-4f6f-b2df-8423d3042f58" stylecode="Botrule">
+<td align="left" stylecode="Rrule" valign="top">Renal Impaired,<br/>CL<sub>cr</sub>&lt;5mL/min<br/>100 mg SD i.v</td>
+<td align="center" stylecode="Rrule" valign="top">Tramadol<br/>M1</td>
+<td align="center" stylecode="Rrule" valign="top">c<br/>c</td>
+<td align="center" stylecode="Rrule" valign="top">c<br/>c</td>
+<td align="center" stylecode="Rrule" valign="top">3.73 (17)<br/>c</td>
+<td align="center" valign="top">11.0 (29)<br/>16.9 (18)</td>
+</tr>
+</tbody>
+</table>

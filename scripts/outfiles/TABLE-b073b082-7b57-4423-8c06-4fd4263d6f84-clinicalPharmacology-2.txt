@@ -1,0 +1,46 @@
+<table id="table12" width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 12: Arithmetic Mean (%CV) of PK Parameters in Serial PK-Evaluable Patients Following Dosing of Posaconazole Injection (300 mg)<footnote>300 mg dose administered over 90 minutes once a day following BID dosing on Day 1</footnote>
+</caption>
+<col align="left" valign="middle" width="12%"></col>
+<col align="left" valign="middle" width="8%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Day</th>
+<th stylecode="Rrule">N</th>
+<th>C<sub>max</sub>
+<br/>(ng/mL)</th>
+<th stylecode="Lrule">T<sub>max</sub>
+<footnote>Median (minimum-maximum)</footnote>
+<br/>(hr)</th>
+<th stylecode="Lrule">AUC<sub>0-24</sub>
+<br/>(ng*hr/mL)</th>
+<th stylecode="Lrule">Cav<br/>(ng/mL)</th>
+<th stylecode="Lrule Rrule">C<sub>min</sub>
+<br/>(ng/mL)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">AUC<sub>0-24 </sub>= area under the concentration-time curve over the dosing interval (i.e. 24 hours); Cav= time-averaged concentrations (i.e., AUC<sub>0-24h</sub>/24hr);</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">C<sub>min</sub> = POS trough level immediately before a subject received the dose of POS on the day specified in the protocol; C<sub>max</sub> = observed maximum plasma concentration; CV = coefficient of variation, expressed as a percent (%); Day = study day on treatment; T<sub>max</sub> = time of observed maximum plasma concentration.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule">10/14</td>
+<td stylecode="Rrule">49</td>
+<td stylecode="Rrule">3280 (74)</td>
+<td stylecode="Rrule">1.5 (0.98-4.0)</td>
+<td stylecode="Rrule">36100 (35)</td>
+<td stylecode="Rrule">1500 (35)</td>
+<td stylecode="Rrule">1090 (44)</td>
+</tr>
+</tbody>
+</table>

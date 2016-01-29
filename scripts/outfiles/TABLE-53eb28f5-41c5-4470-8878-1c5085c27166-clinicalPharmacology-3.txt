@@ -1,0 +1,24 @@
+<table id="id_8d725b52-f876-45e9-9979-b25bf1834c53" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="44.2%"></col>
+<col width="55.8%"></col>
+<tbody>
+<tr id="id_bece3e61-c6d3-4fb0-8fab-4ce4b6505eb5" stylecode="Toprule">
+<td align="center" valign="top"> <content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td align="center" valign="top"> <content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr id="id_bcc73429-bbf7-4fd6-8ee8-6925e5c8b7bc">
+<td align="center" valign="top"> ≤4</td>
+<td align="center" valign="top"> Susceptible</td>
+</tr>
+<tr id="id_3d7da3f6-f5ba-4d0b-ae2d-6d0b8d3f83ed">
+<td align="center" valign="top"> 8</td>
+<td align="center" valign="top"> Intermediate</td>
+</tr>
+<tr id="id_af320df9-af7b-40ac-9075-4084ea2f96b9" stylecode="Botrule">
+<td align="center" valign="top"> ≥16</td>
+<td align="center" valign="top"> Resistant</td>
+</tr>
+</tbody>
+</table>

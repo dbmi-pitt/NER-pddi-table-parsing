@@ -1,0 +1,145 @@
+<table id="t2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2: Incidence of Primary Endpoint Events</caption>
+<col align="left" width="17.452%"></col>
+<col align="left" width="12.189%"></col>
+<col align="left" width="10.514%"></col>
+<col align="left" width="12.864%"></col>
+<col align="left" width="9.076%"></col>
+<col align="left" width="14.202%"></col>
+<col align="left" width="11.239%"></col>
+<col align="left" width="12.464%"></col>
+<tbody>
+<tr>
+<td align="left" stylecode="Toprule Botrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Toprule Botrule" valign="top">Losartan potassium</td>
+<td align="center" colspan="2" stylecode="Toprule Botrule" valign="top">Atenolol</td>
+<td align="center" stylecode="Toprule Botrule" valign="top">Risk Reduction <footnote id="FN1">Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy</footnote>
+</td>
+<td align="center" stylecode="Toprule Botrule" valign="top">95% CI</td>
+<td align="center" stylecode="Toprule Botrule" valign="top">p-Value</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top">N (%)</td>
+<td align="center" stylecode="Botrule" valign="top">Rate <footnote id="FN2">Rate per 1000 patient-years of follow-up</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">N (%)</td>
+<td align="center" stylecode="Botrule" valign="top">Rate<footnoteref idref="FN2"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="bottom">Primary Composite Endpoint </td>
+<td align="center" stylecode="Botrule" valign="bottom">508 (11)</td>
+<td align="center" stylecode="Botrule" valign="bottom">23.8</td>
+<td align="center" stylecode="Botrule" valign="bottom">588 (13)</td>
+<td align="center" stylecode="Botrule" valign="bottom">27.9</td>
+<td align="center" stylecode="Botrule" valign="bottom">13%</td>
+<td align="center" stylecode="Botrule" valign="bottom">2% to 23%</td>
+<td align="center" stylecode="Botrule" valign="bottom">0.021</td>
+</tr>
+<tr>
+<td align="left" colspan="4" stylecode="Botrule" valign="bottom">Components of Primary Composite Endpoint (as a first event)</td>
+<td align="center" colspan="4" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr>
+<td align="left" valign="top">Stroke (nonfatal<footnote id="FN3"> First report of an event, in some cases the patient died subsequently to the event reported</footnote>)
+													</td>
+<td align="center" valign="top">209 (5)</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">286 (6)</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr>
+<td align="left" valign="middle">Myocardial infarction (nonfatal<footnoteref idref="FN3"></footnoteref>)
+													</td>
+<td align="center" valign="middle">174 (4)</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="middle">168 (4)</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="middle">Cardiovascular mortality</td>
+<td align="center" stylecode="Botrule" valign="middle">125 (3)</td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="middle">134 (3)</td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top"></td>
+</tr>
+<tr>
+<td align="left" colspan="4" stylecode="Botrule" valign="bottom">Secondary Endpoints (any time in study)</td>
+<td align="center" colspan="4" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr>
+<td align="left" valign="middle">Stroke (fatal/nonfatal)</td>
+<td align="center" valign="middle">232 (5)</td>
+<td align="center" valign="middle">10.8</td>
+<td align="center" valign="middle">309 (7)</td>
+<td align="center" valign="middle">14.5</td>
+<td align="center" valign="middle">25%</td>
+<td align="center" valign="middle">11% to 37%</td>
+<td align="center" valign="middle">0.001</td>
+</tr>
+<tr>
+<td align="left" valign="top">Myocardial infarction (fatal/nonfatal)</td>
+<td align="center" valign="top">198 (4)</td>
+<td align="center" valign="top">9.2</td>
+<td align="center" valign="top">188 (4)</td>
+<td align="center" valign="top">8.7</td>
+<td align="center" valign="top">-7%</td>
+<td align="center" valign="top">-13% to 12%</td>
+<td align="center" valign="top">0.491</td>
+</tr>
+<tr>
+<td align="left" valign="top">Cardiovascular mortality</td>
+<td align="center" valign="top">204 (4)</td>
+<td align="center" valign="top">9.2</td>
+<td align="center" valign="top">234 (5)</td>
+<td align="center" valign="top">10.6</td>
+<td align="center" valign="top">11%</td>
+<td align="center" valign="top">-7% to 27%</td>
+<td align="center" valign="top">0.206</td>
+</tr>
+<tr>
+<td align="left" valign="middle">Due to CHD</td>
+<td align="center" valign="top">125 (3)</td>
+<td align="center" valign="top">5.6</td>
+<td align="center" valign="top">124 (3)</td>
+<td align="center" valign="top">5.6</td>
+<td align="center" valign="top">-3%</td>
+<td align="center" valign="top">-32% to 20%</td>
+<td align="center" valign="top">0.839</td>
+</tr>
+<tr>
+<td align="left" valign="top">Due to Stroke</td>
+<td align="center" valign="top">40 (1)</td>
+<td align="center" valign="top">1.8</td>
+<td align="center" valign="top">62 (1)</td>
+<td align="center" valign="top">2.8</td>
+<td align="center" valign="top">35%</td>
+<td align="center" valign="top">4% to 67%</td>
+<td align="center" valign="top">0.032</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="middle">Other <footnote id="other"> Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease</footnote>
+</td>
+<td align="center" valign="top">39 (1)</td>
+<td align="center" valign="top">1.8</td>
+<td align="center" valign="top">48 (1)</td>
+<td align="center" valign="top">2.2</td>
+<td align="center" valign="top">16%</td>
+<td align="center" valign="top">-28% to 45%</td>
+<td align="center" valign="top">0.411</td>
+</tr>
+</tbody>
+</table>

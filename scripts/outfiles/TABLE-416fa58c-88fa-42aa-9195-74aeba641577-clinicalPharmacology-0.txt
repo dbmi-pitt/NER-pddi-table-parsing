@@ -1,0 +1,61 @@
+<table border="1" id="id_f6730bd1-50fb-431d-9bfc-f35d19b296ee" width="365" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="18.4%"></col>
+<col width="14.2%"></col>
+<col width="22.2%"></col>
+<col width="19.7%"></col>
+<col width="25.5%"></col>
+<tbody>
+<tr id="id_962969ce-5cd2-45a9-a82f-deba67683fb2">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">Dose and regimen</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">AUC<sub>0-24</sub> (mcg•hr/mL)</td>
+<td align="center" colspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="middle">C<sub>max</sub> (mcg/mL)</td>
+</tr>
+<tr id="id_144b8767-2630-47ac-b0ac-78f7ac2e4427">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">amoxicillin/clavulanate potassium</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>amoxicillin</paragraph>
+<paragraph>(± S.D.)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>clavulanate potassium</paragraph>
+<paragraph>(± S.D.)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>amoxicillin</paragraph>
+<paragraph>(± S.D.)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">
+<paragraph>clavulanate potassium</paragraph>
+<paragraph>(± S.D.)</paragraph>
+</td>
+</tr>
+<tr id="id_3f66dd6f-2967-4ff4-b9cc-7bc5befff8da">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">250/125 mg q8h</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">26.7 ± 4.56</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">12.6 ± 3.25</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.3 ± 1.12</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">1.5 ± 0.70</td>
+</tr>
+<tr id="id_16605aa2-bd1d-487d-9a00-8012e2e063b6">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">500/125 mg q12h</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">33.4 ± 6.76</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8.6 ± 1.95</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6.5 ± 1.41</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">1.8 ± 0.61</td>
+</tr>
+<tr id="id_f6622ba8-fb05-422d-8263-fbe4b9d76430">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">500/125 mg q8h</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">53.4 ± 8.87</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">15.7 ± 3.86</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">7.2 ± 2.26</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">2.4 ± 0.83</td>
+</tr>
+<tr id="id_072c3aea-991d-44f5-92c6-43e546027c3c">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">875/125 mg q12h</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">53.5 ± 12.31</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">10.2 ± 3.04</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">11.6 ± 2.78</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.2 ± 0.99</td>
+</tr>
+</tbody>
+</table>

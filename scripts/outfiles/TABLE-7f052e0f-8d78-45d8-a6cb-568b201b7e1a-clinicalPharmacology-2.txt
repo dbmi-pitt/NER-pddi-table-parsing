@@ -1,0 +1,105 @@
+<table id="_Refid_b77f67bf-5b9c-44d3-a179-e14cedc8e" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults</caption>
+<col width="31%"></col>
+<col width="25%"></col>
+<col width="29%"></col>
+<col width="30%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Single or Repeated Oral Dosing /Parameter</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Children</content>
+<footnote id="_Refid-179ce0ac-46dd-4cb3-aaff-0ba315069">Note: *  =plasma concentration adjusted to an oral dose of 1 mg/kg. </footnote>
+<content stylecode="bold"> ≤ 20 kg          2 to 5 years</content>
+<br/>
+<content stylecode="bold">10 mg</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Children</content>
+<footnoteref idref="_Refid-179ce0ac-46dd-4cb3-aaff-0ba315069"></footnoteref>
+<content stylecode="bold">   &gt; 20 kg      6 to 16 years   20 mg </content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Adults</content>
+<footnote id="_Refid-80179446-2464-4796-b9de-4033c244c">Data from a single and repeated dose studies</footnote>
+<content stylecode="bold">        (mean 76 kg) 23 to 29 years (n=12)</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Single Dosing</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>C<sub>max</sub>
+<footnote id="_Refid-4ba1bb84-2bf2-4696-9dcd-e4a64ab20">Data from a single and repeated dose study  </footnote>      (ng/mL)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>288     (n=10)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>495 (n=49)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>668</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>AUC<footnoteref idref="_Refid-4ba1bb84-2bf2-4696-9dcd-e4a64ab20"></footnoteref>             (ng h/mL)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>511       (n=7)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1140 (n=32)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1220</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Repeated Dosing</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>C<sub>max</sub>
+<footnoteref idref="_Refid-4ba1bb84-2bf2-4696-9dcd-e4a64ab20"></footnoteref>      (ng/mL)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>539           (n=4)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>851 (n=32)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1458</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>AUC<footnoteref idref="_Refid-4ba1bb84-2bf2-4696-9dcd-e4a64ab20"></footnoteref>             (ng h/mL)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>1179     (n=2)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>2276 (n=23)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>3352</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

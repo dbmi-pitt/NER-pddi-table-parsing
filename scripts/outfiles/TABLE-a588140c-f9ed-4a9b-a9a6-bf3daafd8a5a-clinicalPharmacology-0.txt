@@ -1,0 +1,71 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="232"></col>
+<col width="232"></col>
+<col width="232"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule "></td>
+<td align="center" stylecode="Toprule ">
+<content stylecode="bold">Number of</content>
+<br/>
+<content stylecode="bold">Responding Patients</content>
+<br/>
+<content stylecode="bold">(response rate)</content>
+</td>
+<td align="center" stylecode="Toprule ">
+<content stylecode="bold">Median Response</content>
+<br/>
+<content stylecode="bold">Duration in Months</content>
+<br/>
+<content stylecode="bold">(range)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">
+<content stylecode="bold">Metastatic RCC</content>
+</td>
+<td align="center" stylecode="Toprule "></td>
+<td align="center" stylecode="Toprule "></td>
+</tr>
+<tr>
+<td stylecode="Toprule ">CR’s</td>
+<td align="center" stylecode="Toprule ">17 (7%)</td>
+<td align="center" stylecode="Toprule ">80+* (7 to 131+)</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">PR’s</td>
+<td align="center" stylecode="Toprule ">20 (8%)</td>
+<td align="center" stylecode="Toprule ">20 (3 to 126+)</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">PR’s + CR’s</td>
+<td align="center" stylecode="Toprule ">37 (15%)</td>
+<td align="center" stylecode="Toprule ">54 (3 to 131+)</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">
+<content stylecode="bold">Metastatic Melanoma</content>
+</td>
+<td align="center" stylecode="Toprule "></td>
+<td align="center" stylecode="Toprule "></td>
+</tr>
+<tr>
+<td stylecode="Toprule ">CR’s</td>
+<td align="center" stylecode="Toprule ">17 (6%)</td>
+<td align="center" stylecode="Toprule ">59+* (3 to 122+)</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">PR’s</td>
+<td align="center" stylecode="Toprule ">26 (10%)</td>
+<td align="center" stylecode="Toprule ">6 (1 to 111+)</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">PR’s + CR’s</td>
+<td align="center" stylecode="Toprule ">43 (16%)</td>
+<td align="center" stylecode="Toprule ">9 (1 to 122+)</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule ">(+) sign means ongoing<br/>* Median duration not yet observed; a conservative value is presented which represents the minimum median duration of response.</td>
+</tr>
+</tbody>
+</table>

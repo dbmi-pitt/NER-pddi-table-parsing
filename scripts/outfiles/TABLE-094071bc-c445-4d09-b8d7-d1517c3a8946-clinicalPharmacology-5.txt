@@ -1,0 +1,39 @@
+<table id="id_b67bdc1c-c512-4ee2-be2d-efb2e3dac113" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="40.0%"></col>
+<col align="center" width="20.0%"></col>
+<col align="center" width="40.0%"></col>
+<thead>
+<tr id="id_b40a75c3-983f-46aa-9aaf-9ca41eec978c" stylecode="Botrule">
+<td align="left" stylecode="Rrule" valign="top">Microorganism</td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="left" valign="top">Zone Diameter Ranges (mm)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_d873a266-d546-4a31-acc1-852900cd34e5" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="left" stylecode="Toprule" valign="top">ATCC 25922</td>
+<td align="left" valign="top">23–29</td>
+</tr>
+<tr id="id_f2fb4d95-0d0a-4ff3-b446-4fed805a30b8">
+<td align="left" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+<footnote id="id-0c112364-23cf-457f-a817-4eaf7a3e65f4">This quality control range is applicable only to <content stylecode="italics">Haemophilus influenzae</content> ATCC 49247 tested by a disk diffusion procedure using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>5</sup>
+</footnote>
+</td>
+<td align="left" valign="top">ATCC 49247</td>
+<td align="left" valign="top">24–32</td>
+</tr>
+<tr id="id_9d7e87ca-cbc1-46c2-b957-72d01927de99" stylecode="Botrule">
+<td align="left" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<footnote id="id-78fd919a-e97a-4c1a-8de9-f840046f1374">This quality control range is applicable only to tests performed by disk diffusion using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood when incubated in 5% CO<sub>2</sub>.<sup>5</sup>
+</footnote>
+</td>
+<td align="left" valign="top">ATCC 49619</td>
+<td align="left" valign="top">20–28</td>
+</tr>
+</tbody>
+</table>

@@ -140,7 +140,7 @@ def classify():
 
     dir = os.path.dirname(__file__)
 
-    db = os.path.join(dir, "Categories.txt")  # relative path
+    db = os.path.join(dir, "output/Categories.txt")  # relative path
     data = open(db, "rb")
 
     # Generate the dictionary headerClassification = { header : category }
@@ -162,7 +162,7 @@ def classify():
 
     # Absolute path of the directory where the program resides
     dir = os.path.dirname(__file__)
-    input = open(os.path.join(dir, "output.txt"), "r")
+    input = open(os.path.join(dir, "output/output.txt"), "r")
     htmlParse = input.read().decode("utf-8")
 
     soup = BeautifulSoup(htmlParse, "html.parser")
@@ -190,7 +190,7 @@ def classify():
     dict = convertToStructureDict(tableStructure)
     
     # Write the final dictionary to the file 'table_structures.txt'
-    file = open(os.path.join(dir, "table_structures.txt"), "w")
+    file = open(os.path.join(dir, "output/table_structures.txt"), "w")
     file.write(str(dict))
     file.close
     

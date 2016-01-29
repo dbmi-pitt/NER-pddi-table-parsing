@@ -1,0 +1,65 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Pharmacokinetic Parameters for Diclofenac</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td valign="top"> <content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">PK Parameter</content>
+</td>
+<th align="center" colspan="2" valign="top">
+<content stylecode="bold">Normal Healthy Adults </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(18-48 yrs.)</content>
+</th>
+</tr>
+<tr>
+<td valign="top"> </td>
+<td align="center" valign="top"> <content stylecode="bold">Mean</content>
+</td>
+<td align="center" valign="top"> <content stylecode="bold">Coefficient of</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">Variation (%)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"> Absolute <br/>Bioavailability (%)<br/>[N = 7]</td>
+<td align="center" valign="top"> <br/>55</td>
+<td align="center" valign="top"> <br/>40</td>
+</tr>
+<tr>
+<td valign="top"> Tmax (hr)<br/>[N = 12]</td>
+<td align="center" valign="top"> <br/>5.3</td>
+<td align="center" valign="top"> <br/>28</td>
+</tr>
+<tr>
+<td valign="top"> Oral Clearance (CL/F; mL/min) <br/>[N = 12]</td>
+<td align="center" valign="top"> <br/>895</td>
+<td align="center" valign="top"> <br/>56</td>
+</tr>
+<tr>
+<td valign="top"> Renal Clearance<br/>(% unchanged drug in urine)<br/>[N = 7]</td>
+<td align="center" valign="top"> <br/>&lt;1</td>
+<td align="center" valign="top"> <br/>--</td>
+</tr>
+<tr>
+<td valign="top"> Apparent Volume of<br/>Distribution (V/F; L/kg)<br/>[N = 56]</td>
+<td align="center" valign="top"> <br/>1.4</td>
+<td align="center" valign="top"> <br/>58</td>
+</tr>
+<tr>
+<td valign="top"> Terminal Half-life (hr)<br/>[N = 56]</td>
+<td align="center" valign="top"> <br/>2.3</td>
+<td align="center" valign="top"> <br/>48</td>
+</tr>
+</tbody>
+</table>

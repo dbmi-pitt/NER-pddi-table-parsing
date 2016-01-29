@@ -1,0 +1,38 @@
+<table border="1" cellpadding="0" cellspacing="0" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Microorganisms</content>
+</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">MIC</content>
+<content stylecode="bold"> Ranges</content>
+<content stylecode="bold">(µg/mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<sup>a</sup> ATCC 49619</paragraph>
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>b</sup> ATCC 49766</paragraph>
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>b</sup> ATCC 49247</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>0.016-0.12</paragraph>
+<paragraph>0.004-0.016</paragraph>
+<paragraph>0.06-0.25</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

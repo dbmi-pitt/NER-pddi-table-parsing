@@ -1,0 +1,35 @@
+<table id="ID83" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="36%"></col>
+<col width="64%"></col>
+<tbody>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Interacting </content>
+<content stylecode="bold">Drug </content>
+<br/>
+</td>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Interaction </content>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Antacids, sucralfate, multivitamins, and other products containing multivalent cations <br/>
+</td>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Moxifloxacin absorption is decreased. Administer moxifloxacin hydrochloride tablet at least 4 hours before or 8 hours after these products. (2.2, 7.1, 12.3, 17.2) <br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Warfarin <br/>
+</td>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Anticoagulant effect of warfarin may be enhanced. Monitor prothrombin time/INR, watch for bleeding. (6.4, 7.2, 12.3) <br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Class IA and Class III antiarrhythmics: <br/>
+</td>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Proarrhythmic effect may be enhanced. Avoid concomitant use. (5.3, 7.4) <br/>
+</td>
+</tr>
+</tbody>
+</table>

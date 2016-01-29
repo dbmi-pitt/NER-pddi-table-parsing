@@ -1,0 +1,177 @@
+<table id="t6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6: Mean (CV%) Piperacillin and Tazobactam PK Parameters
+</caption>
+<col align="left" width="14.571%"></col>
+<col align="left" width="14.571%"></col>
+<col align="left" width="14.571%"></col>
+<col align="left" width="14.571%"></col>
+<col align="left" width="14.571%"></col>
+<col align="left" width="14.571%"></col>
+<col align="left" width="12.571%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">
+<sup>a</sup> Piperacillin and tazobactam were given in combination, infused over 30 minutes.
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">
+<sup>b</sup> Numbers in parentheses are coefficients of variation (CV%).
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" colspan="7" stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">Piperacillin</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="bottom">Piperacillin/<br/>Tazobactam<br/>Dose<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">C<sub>max</sub>
+<br/>mcg/mL
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">AUC<sup>b</sup>
+<br/>mcg•h/mL
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">CL<br/>mL/min
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">V<br/>
+<br/>L
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">T<sub>1/2</sub>
+<br/>
+<br/>h
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">CL<sub>R</sub> mL/min
+</td>
+</tr>
+<tr>
+<td align="left" valign="bottom">2.25 g
+</td>
+<td align="center" valign="top">134
+</td>
+<td align="center" valign="top">131 (14)
+</td>
+<td align="center" valign="top">257
+</td>
+<td align="center" valign="top">17.4
+</td>
+<td align="center" valign="top">0.79
+</td>
+<td align="center" valign="top">--
+</td>
+</tr>
+<tr>
+<td align="left" valign="bottom">3.375 g
+</td>
+<td align="center" valign="top">242
+</td>
+<td align="center" valign="top">242 (10)
+</td>
+<td align="center" valign="top">207
+</td>
+<td align="center" valign="top">15.1
+</td>
+<td align="center" valign="top">0.84
+</td>
+<td align="center" valign="top">140
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="bottom">4.5 g
+</td>
+<td align="center" stylecode="Botrule" valign="top">298
+</td>
+<td align="center" stylecode="Botrule" valign="top">322 (16)
+</td>
+<td align="center" stylecode="Botrule" valign="top">210
+</td>
+<td align="center" stylecode="Botrule" valign="top">15.4
+</td>
+<td align="center" stylecode="Botrule" valign="top">0.84
+</td>
+<td align="center" stylecode="Botrule" valign="top">--
+</td>
+</tr>
+<tr>
+<td align="center" colspan="7" stylecode="Botrule" valign="top">
+<content stylecode="bold">Tazobactam</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="bottom">Piperacillin/<br/>Tazobactam<br/>Dose<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">C<sub>max</sub>
+<br/>mcg/mL
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">AUC<sup>b</sup>
+<br/>mcg•h/mL
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">CL<br/>mL/min
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">V<br/>
+<br/>L
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">T<sub>1/2</sub>
+<br/>
+<br/>h
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">CL<sub>R</sub> mL/min
+</td>
+</tr>
+<tr>
+<td align="left" valign="bottom">2.25 g
+</td>
+<td align="center" valign="top">15
+</td>
+<td align="center" valign="top">16 (21)
+</td>
+<td align="center" valign="top">258
+</td>
+<td align="center" valign="top">17
+</td>
+<td align="center" valign="top">0.77
+</td>
+<td align="center" valign="top">--
+</td>
+</tr>
+<tr>
+<td align="left" valign="bottom">3.375 g
+</td>
+<td align="center" valign="top">24
+</td>
+<td align="center" valign="top">25 (8)
+</td>
+<td align="center" valign="top">251
+</td>
+<td align="center" valign="top">14.8
+</td>
+<td align="center" valign="top">0.68
+</td>
+<td align="center" valign="top">166
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="bottom">4.5 g
+</td>
+<td align="center" stylecode="Botrule" valign="top">34
+</td>
+<td align="center" stylecode="Botrule" valign="top">39.8 (15)
+</td>
+<td align="center" stylecode="Botrule" valign="top">206
+</td>
+<td align="center" stylecode="Botrule" valign="top">14.7
+</td>
+<td align="center" stylecode="Botrule" valign="top">0.82
+</td>
+<td align="center" stylecode="Botrule" valign="top">--
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,63 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<content stylecode="underline">
+<content stylecode="emphasis">
+<content stylecode="bold">Microorganism</content>
+</content>
+</content>
+</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<content stylecode="underline">
+<content stylecode="emphasis">
+<content stylecode="bold">ATCC #</content>
+</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<content stylecode="underline">
+<content stylecode="emphasis">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Staphylococcus aureus</content>
+</content>
+</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>25923</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>17-21</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Streptococcus pneumoniae*</content>
+</content>
+</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>49619</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>20-27</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

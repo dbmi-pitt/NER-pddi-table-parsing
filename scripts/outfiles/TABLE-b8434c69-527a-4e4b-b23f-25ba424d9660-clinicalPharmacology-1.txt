@@ -1,0 +1,81 @@
+<table id="_RefID0EHOAC" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Acceptable Quality Control Ranges for Nitrofurantoin</caption>
+<col width="33%"></col>
+<col width="33%"></col>
+<col width="33%"></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">QC Strain</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Acceptable Quality Control Ranges</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory Concentration (µg/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Disk Diffusion (zone diameter in mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Escherichia coli ATCC 25922</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>4 – 16</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>20 – 25</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Enterococcus faecalis ATCC 29212</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>4 – 16</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>NA<footnote id="_Ref351978202">
+<sup>Not applicable</sup>
+</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Staphylococcus aureus ATCC 29213</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>8 – 32</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>NA<footnoteref idref="_Ref351978202"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>Staphylococcus aureus ATCC 25923</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>NA<sup>a</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>18 – 22</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

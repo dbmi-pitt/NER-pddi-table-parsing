@@ -1,0 +1,50 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>
+TABLE 6 MIC VALUES FOR STANDARD CLARITHROMYCIN AND AMOXICILLIN POWDERS
+</caption>
+<col align="left" width="33%"></col>
+<col align="left" width="33%"></col>
+<col align="left" width="33%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="3">
+<sup>a</sup> These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods.
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Toprule" valign="bottom">
+<td align="center" stylecode="Botrule">
+Microorganism
+</td>
+<td align="center" stylecode="Botrule">
+Antimicrobial Agent
+</td>
+<td align="center" stylecode="Botrule">
+MIC (μg/mL) <sup>a</sup>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">H. pylori</content> ATCC 43504
+</td>
+<td stylecode="Lrule Rrule">
+Clarithromycin
+</td>
+<td stylecode="Lrule Rrule">
+0.015 - 0.12 μg/mL
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">H. pylori</content> ATCC 43504
+</td>
+<td stylecode="Botrule Lrule Rrule">
+Amoxicillin
+</td>
+<td stylecode="Botrule Lrule Rrule">
+0.015 - 0.12 μg/mL
+</td>
+</tr>
+</tbody>
+</table>

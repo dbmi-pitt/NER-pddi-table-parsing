@@ -1,0 +1,35 @@
+<table id="id_d82114eb-a2da-4c79-8966-25082b4a658b" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_73c99494-3b22-45fd-8a72-5fe6f8ae5987">Table 7</caption>
+<col align="center" width="50%"></col>
+<col align="center" width="50%"></col>
+<thead>
+<tr id="id_8ab00e99-18ad-4552-9e9b-6c994e28404f" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Clarithromycin MIC<br/> (mcg/mL)<footnote id="id-81e9f545-3cdb-4681-b0f1-f0cef5ab60a0">These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">Interpretation</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_42824e72-1dc8-467b-9637-12b6ae76b895" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">≤0.25</td>
+<td align="left" stylecode="Rrule" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_bc7c1073-68c0-4f68-b13d-d045506ec610">
+<td align="left" stylecode="Lrule Rrule" valign="top">0.5-1.0</td>
+<td align="left" stylecode="Rrule" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_efcc55b6-5d6a-4e56-9ef3-dfbbbbbad9dd">
+<td align="left" stylecode="Lrule Rrule" valign="top">≥2.0</td>
+<td align="left" stylecode="Rrule" valign="top">Resistant (R)</td>
+</tr>
+<tr id="id_7114be68-7ad0-4090-b739-4100c9777f5d">
+<td align="left" stylecode="Lrule Rrule" valign="top">Amoxicillin MIC <br/> (mcg/mL)<footnoteref idref="id-81e9f545-3cdb-4681-b0f1-f0cef5ab60a0"></footnoteref>,<footnote id="id-1623c500-75ad-46a3-9f7c-7ba650809600">There were not enough organisms with MICs greater than 0.25 mcg/mL to determine a resistance breakpoint.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">Interpretation</td>
+</tr>
+<tr id="id_d827a4ea-385b-4120-9e72-98538f82442a" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">≤0.25</td>
+<td align="left" stylecode="Rrule" valign="top">Susceptible (S)</td>
+</tr>
+</tbody>
+</table>

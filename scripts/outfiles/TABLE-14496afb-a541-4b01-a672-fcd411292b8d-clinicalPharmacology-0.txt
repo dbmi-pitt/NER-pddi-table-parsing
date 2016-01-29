@@ -1,0 +1,118 @@
+<table width="700px" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Pharmacokinetic Parameters at Steady State Day 5 (Mean of 24 Subjects) </caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Parameter <br/> (units)
+</td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>Naproxen 500 mg<br/>Q12h/5 days<br/>(1000 mg)</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">Naproxen sodium extended-<br/>release 2 x 500 mg tablets <br/>(1000 mg) Q24h/5 days</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Mean
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> SD
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Range
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Mean
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> SD
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Range
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">AUC 0-24 <br/>(mcgxh/mL)
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1446
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 168
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1167 - 1858
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1448
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 145
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1173 - 1774
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">C<sub>max</sub>
+<br/>(mcg/mL)
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 95
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 13
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 71 - 117
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 94
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 13
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 74 - 127
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">C<sub>avg</sub>
+<br/>(mcg/mL)
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 60
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 49 - 77
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 60
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 6
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 49 - 74
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">C<sub>min</sub>
+<br/>(mcg/mL)
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 36
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 9
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 13 - 51
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 33
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 23 - 48
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">T<sub>max </sub>
+<br/>(hrs)
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 3
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1 - 4
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 2
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 2-10
+</td>
+</tr>
+</tbody>
+</table>

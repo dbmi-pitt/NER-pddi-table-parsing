@@ -1,0 +1,279 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1—Efficacy Results From Two Phase 3 MYOBLOC Studies</caption>
+<col align="right" valign="top" width="31%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="15%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule"></th>
+<th colspan="3" stylecode="Rrule">STUDY 301</th>
+<th colspan="2">STUDY 302</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">Assessments<footnote>95% Cl are for the differences between the active and placebo groups. The <content stylecode="italics">P </content>values are for the comparison of active dose and placebo. For TWSTRS-Total and TWSTRS-subscale scores, <content stylecode="italics">P </content>values are from ANCOVA for each variable with center and treatment in the model and the baseline value of the variable included as a covariate. For the Patient Global and Physician Global Assessments, <content stylecode="italics">P </content>values are from ANOVA for each variable with center and treatment in the model. </footnote>
+</th>
+<th>Placebo<br/>n = 36</th>
+<th>5,000 Units<br/>n = 36</th>
+<th stylecode="Rrule">10,000 Units<br/>n = 37</th>
+<th>Placebo<br/>n = 38</th>
+<th>10,000 Units<br/>n = 39</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" stylecode="Rrule">
+<content stylecode="bold">TWSTRS Total</content>
+</td>
+<td></td>
+<td></td>
+<td stylecode="Rrule"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Mean at Baseline</td>
+<td stylecode="Lrule">43.6</td>
+<td>46.4</td>
+<td>46.9</td>
+<td stylecode="Lrule">51.2</td>
+<td>52.8</td>
+</tr>
+<tr>
+<td>Change from Baseline</td>
+<td stylecode="Lrule">-4.3</td>
+<td>-9.3</td>
+<td>-11.7</td>
+<td stylecode="Lrule">-2.0</td>
+<td>-11.1</td>
+</tr>
+<tr>
+<td>95% Confidence Interval</td>
+<td stylecode="Lrule"></td>
+<td>(-8.9, -1.2)</td>
+<td>(-11.1, -3.3)</td>
+<td stylecode="Lrule"></td>
+<td>(-12.2, -5.2)</td>
+</tr>
+<tr>
+<td stylecode="Botrule">
+<content stylecode="italics">P</content> value</td>
+<td stylecode="Lrule Botrule"></td>
+<td stylecode="Botrule">0.012</td>
+<td stylecode="Botrule">0.0004</td>
+<td stylecode="Lrule Botrule"></td>
+<td stylecode="Botrule">0.0001</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="bold">Patient Global</content>
+</td>
+<td stylecode="Lrule"></td>
+<td></td>
+<td></td>
+<td stylecode="Lrule"></td>
+<td></td>
+</tr>
+<tr>
+<td>Mean at Week Four</td>
+<td stylecode="Lrule">43.6</td>
+<td>60.6</td>
+<td>64.6</td>
+<td stylecode="Lrule">39.5</td>
+<td>60.2</td>
+</tr>
+<tr>
+<td>95% Confidence Interval</td>
+<td stylecode="Lrule"></td>
+<td>(7.0, 26.9)</td>
+<td>(11.3, 31.1)</td>
+<td stylecode="Lrule"></td>
+<td>(11.2, 29.1)</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<content stylecode="italics">P</content> value</td>
+<td stylecode="Lrule"></td>
+<td>0.001</td>
+<td>0.0001</td>
+<td stylecode="Lrule"></td>
+<td>0.0001</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="bold">Physician Global</content>
+</td>
+<td stylecode="Lrule"></td>
+<td></td>
+<td></td>
+<td stylecode="Lrule"></td>
+<td></td>
+</tr>
+<tr>
+<td>Mean at Week Four</td>
+<td stylecode="Lrule">52.0</td>
+<td>65.3</td>
+<td>64.2</td>
+<td stylecode="Lrule">47.9</td>
+<td>60.6</td>
+</tr>
+<tr>
+<td>95% Confidence Interval</td>
+<td stylecode="Lrule"></td>
+<td>(5.5, 21.3)</td>
+<td>(3.9, 19.7)</td>
+<td stylecode="Lrule"></td>
+<td>(7.4, 18.1)</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<content stylecode="italics">P</content> value</td>
+<td stylecode="Lrule"></td>
+<td>0.001</td>
+<td>0.004</td>
+<td stylecode="Lrule"></td>
+<td>0.0001</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left">
+<content stylecode="bold">TWSTRS-Subscales</content>
+</td>
+<td stylecode="Lrule"></td>
+<td></td>
+<td></td>
+<td stylecode="Lrule"></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">– Severity</content>
+</td>
+<td stylecode="Lrule"></td>
+<td></td>
+<td></td>
+<td stylecode="Lrule"></td>
+<td></td>
+</tr>
+<tr>
+<td>Mean at Baseline</td>
+<td stylecode="Lrule">18.4</td>
+<td>20.2</td>
+<td>20.2</td>
+<td stylecode="Lrule">22.1</td>
+<td>22.6</td>
+</tr>
+<tr>
+<td>Change from Baseline</td>
+<td stylecode="Lrule">-2.3</td>
+<td>-3.2</td>
+<td>-4.8</td>
+<td stylecode="Lrule">-1.2</td>
+<td>-3.7</td>
+</tr>
+<tr>
+<td>95% Confidence Interval</td>
+<td stylecode="Lrule"></td>
+<td>(-2.5, 0.6)</td>
+<td>(-4.0, -1.0)</td>
+<td stylecode="Lrule"></td>
+<td>(-3.9, -1.0)</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<content stylecode="italics">P</content> value</td>
+<td stylecode="Lrule"></td>
+<td>0.22</td>
+<td>0.002</td>
+<td stylecode="Lrule"></td>
+<td>0.001</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">– Pain</content>
+</td>
+<td stylecode="Lrule"></td>
+<td></td>
+<td></td>
+<td stylecode="Lrule"></td>
+<td></td>
+</tr>
+<tr>
+<td>Mean at Baseline</td>
+<td stylecode="Lrule">10.9</td>
+<td>11.8</td>
+<td>12.4</td>
+<td stylecode="Lrule">12.2</td>
+<td>11.9</td>
+</tr>
+<tr>
+<td>Change from Baseline</td>
+<td stylecode="Lrule">-0.5</td>
+<td>-3.6</td>
+<td>-4.2</td>
+<td stylecode="Lrule">-0.2</td>
+<td>-3.6</td>
+</tr>
+<tr>
+<td>95% Confidence Interval</td>
+<td stylecode="Lrule"></td>
+<td>(-4.7, -1.1)</td>
+<td>(-5.1, -1.4)</td>
+<td stylecode="Lrule"></td>
+<td>(-5.0, -2.1)</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<content stylecode="italics">P</content> value</td>
+<td stylecode="Lrule"></td>
+<td>0.002</td>
+<td>0.0008</td>
+<td stylecode="Lrule"></td>
+<td>0.0001</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">– Disability</content>
+</td>
+<td stylecode="Lrule"></td>
+<td></td>
+<td></td>
+<td stylecode="Lrule"></td>
+<td></td>
+</tr>
+<tr>
+<td>Mean at Baseline</td>
+<td stylecode="Lrule">14.3</td>
+<td>14.4</td>
+<td>14.4</td>
+<td stylecode="Lrule">16.9</td>
+<td>18.3</td>
+</tr>
+<tr>
+<td>Change from Baseline</td>
+<td stylecode="Lrule">-1.6</td>
+<td>-2.5</td>
+<td>-2.7</td>
+<td stylecode="Lrule">0.8</td>
+<td>-3.8</td>
+</tr>
+<tr>
+<td>95% Confidence Interval</td>
+<td stylecode="Lrule"></td>
+<td>(-2.7, 0.7)</td>
+<td>(-2.8, 0.6)</td>
+<td stylecode="Lrule"></td>
+<td>(-4.1, -1.0)</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">P</content> value</td>
+<td stylecode="Lrule"></td>
+<td>0.26</td>
+<td>0.19</td>
+<td stylecode="Lrule"></td>
+<td>0.002</td>
+</tr>
+</tbody>
+</table>

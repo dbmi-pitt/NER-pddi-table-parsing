@@ -1,0 +1,152 @@
+<table id="id_26f9a423-30bb-41a9-a393-29a7396dd218" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_add95ba6-bf7f-495e-814f-e36a6a2acf32">Study 2</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_48dec80a-8db4-4d39-81ab-b59f5c52bfae" stylecode="Botrule">
+<td align="center" colspan="7" valign="top">
+<content stylecode="bold">MRS Total Score</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_9257edb6-79ca-4005-bc57-ec4e60fc1778" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="bold">Group</content>
+</td>
+<td align="left" stylecode="Toprule" valign="top"> </td>
+<td align="left" stylecode="Toprule" valign="top"> Baseline <footnoteref idref="id-f7f66860-7c40-49ad-b581-4e1c1bd4fe17"></footnoteref>
+</td>
+<td align="left" stylecode="Toprule" valign="top"> </td>
+<td align="left" stylecode="Toprule" valign="top"> BL to Day 21<footnote id="id-f7603c4d-f74f-400d-bd55-9fb5c77f39b5">Change from baseline to Day 21 (LOCF)</footnote>
+</td>
+<td align="left" stylecode="Toprule" valign="top"> </td>
+<td align="left" valign="top"> Difference<footnote id="id-d229b1e7-84b2-42c8-b676-82ce3ac8c204">Difference in change from baseline to Day 21 endpoint (LOCF) between divalproex sodium and placebo and lithium and placebo</footnote>
+</td>
+</tr>
+<tr id="id_75a923aa-0f0c-43fd-9913-8d17c32e570a">
+<td align="left" valign="top">Placebo</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">38.9</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">- 4.4</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top"> </td>
+</tr>
+<tr id="id_3a395d16-3646-45fc-9a2f-99e60be9337c">
+<td align="left" valign="top">Lithium</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">37.9</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">- 10.5</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">6.1</td>
+</tr>
+<tr id="id_760ee40b-aeec-4d23-9473-7149a7f0d308">
+<td align="left" valign="top">Divalproex sodium</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">38.1</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">- 9.5</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">5.1</td>
+</tr>
+<tr id="id_6b9f20b0-8835-4d2a-903b-7b0ef89396dd">
+<td align="center" colspan="7" valign="top">
+<content stylecode="bold">MSS Total Score</content>
+</td>
+</tr>
+<tr id="id_3f66d9e8-8d76-424b-bc8e-f5e5908f042d">
+<td align="left" valign="top">
+<content stylecode="bold">Group</content>
+</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top"> Baseline <footnoteref idref="id-f7f66860-7c40-49ad-b581-4e1c1bd4fe17"></footnoteref>
+</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top"> BL to Day 21 <footnoteref idref="id-f7603c4d-f74f-400d-bd55-9fb5c77f39b5"></footnoteref>
+</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top"> Difference <footnoteref idref="id-d229b1e7-84b2-42c8-b676-82ce3ac8c204"></footnoteref>
+</td>
+</tr>
+<tr id="id_ede9e699-232c-49f0-98b7-e00b68fe99ec">
+<td align="left" valign="top">Placebo</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">18.9</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">- 2.5</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top"> </td>
+</tr>
+<tr id="id_9fe870e9-8b1a-444d-bd64-a24bfbf82ed0">
+<td align="left" valign="top">Lithium</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">18.5</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">- 6.2</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">3.7</td>
+</tr>
+<tr id="id_c16dfdeb-fe56-4f76-8214-d75ecc68f668">
+<td align="left" valign="top">Divalproex sodium</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">18.9</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">- 6</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">3.5</td>
+</tr>
+<tr id="id_f0fe41c7-059c-4c2f-9ee1-c6b5b518f95c">
+<td align="center" colspan="7" valign="top">
+<content stylecode="bold">BIS Total Score</content>
+</td>
+</tr>
+<tr id="id_431bd37e-fd2e-4f58-ba98-cc788c0630a2">
+<td align="left" valign="top">
+<content stylecode="bold">Group</content>
+</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top"> Baseline <footnoteref idref="id-f7f66860-7c40-49ad-b581-4e1c1bd4fe17"></footnoteref>
+</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top"> BL to Day 21 <footnoteref idref="id-f7603c4d-f74f-400d-bd55-9fb5c77f39b5"></footnoteref>
+</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top"> Difference <footnoteref idref="id-d229b1e7-84b2-42c8-b676-82ce3ac8c204"></footnoteref>
+</td>
+</tr>
+<tr id="id_ffe9b04e-3150-4ec7-aa60-a80130495af5">
+<td align="left" valign="top">Placebo</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">16.4</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">- 1.4</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top"> </td>
+</tr>
+<tr id="id_bcf5d52c-8479-47f0-9f03-a9f0cbb91739">
+<td align="left" valign="top">Lithium</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">16</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">- 3.8</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">2.4</td>
+</tr>
+<tr id="id_60072f63-ce9a-4c87-8655-c1d43ab9e960" stylecode="Botrule">
+<td align="left" valign="top">Divalproex sodium</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">15.7</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">- 3.2</td>
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">1.8</td>
+</tr>
+</tbody>
+</table>

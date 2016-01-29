@@ -1,0 +1,111 @@
+<table id="Table_1" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1</caption>
+<col align="left" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="4">SD:      Standard deviation of the mean</td>
+</tr>
+<tr>
+<td align="left" colspan="4">AUC:  Area under the curve </td>
+</tr>
+<tr>
+<td align="left" colspan="4">C<sub>max</sub>:   Peak concentration </td>
+</tr>
+<tr>
+<td align="left" colspan="4">t<sub>max</sub>:    Time to peak concentration</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" colspan="4" stylecode="Lrule Rrule">
+<content stylecode="bold">MISOPROSTOL ACID Mean (SD)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule" valign="bottom">
+<content stylecode="bold">Treatment (n=36)</content>
+</td>
+<td stylecode="Toprule Lrule" valign="bottom">
+<content stylecode="bold">C<sub>max</sub> (pg/mL)</content>
+</td>
+<td stylecode="Toprule Lrule" valign="bottom">
+<content stylecode="bold">t<sub>max</sub> (hr)</content>
+</td>
+<td stylecode="Toprule Lrule Rrule">
+<content stylecode="bold">AUC (0–4h)<br/>(pg∙hr/mL)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">ARTHROTEC 50</td>
+<td stylecode="Toprule Lrule">441 (137)</td>
+<td stylecode="Toprule Lrule">0.30 (0.13)</td>
+<td stylecode="Toprule Lrule Rrule">266 (95)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">Cytotec<sup>®</sup>
+</td>
+<td stylecode="Toprule Lrule">478 (201)</td>
+<td stylecode="Toprule Lrule">0.30 (0.10)</td>
+<td stylecode="Toprule Lrule Rrule">295 (143)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">ARTHROTEC 75</td>
+<td stylecode="Toprule Lrule">304 (110)</td>
+<td stylecode="Toprule Lrule">0.26 (0.09)</td>
+<td stylecode="Toprule Lrule Rrule">177 (49)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">Cytotec</td>
+<td stylecode="Toprule Lrule">290 (130)</td>
+<td stylecode="Toprule Lrule">0.35 (0.12)</td>
+<td stylecode="Toprule Lrule Rrule">176 (58)</td>
+</tr>
+<tr>
+<td align="center" colspan="4" stylecode="Toprule Lrule Rrule">
+<content stylecode="bold">DICLOFENAC Mean (SD)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule" valign="bottom">
+<content stylecode="bold">Treatment (n=36)</content>
+</td>
+<td stylecode="Toprule Lrule" valign="bottom">
+<content stylecode="bold">C<sub>max</sub> (ng/mL)</content>
+</td>
+<td stylecode="Toprule Lrule" valign="bottom">
+<content stylecode="bold">t<sub>max</sub> (hr)</content>
+</td>
+<td stylecode="Toprule Lrule Rrule">
+<content stylecode="bold">AUC (0–12h)<br/>(ng∙hr/mL)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">ARTHROTEC 50</td>
+<td stylecode="Toprule Lrule">1207 (364)</td>
+<td stylecode="Toprule Lrule">2.4 (1.0)</td>
+<td stylecode="Toprule Lrule Rrule">1380 (272)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">Voltaren<sup>®</sup>
+</td>
+<td stylecode="Toprule Lrule">1298 (441)</td>
+<td stylecode="Toprule Lrule">2.4 (1.0)</td>
+<td stylecode="Toprule Lrule Rrule">1357 (290)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">ARTHROTEC 75</td>
+<td stylecode="Toprule Lrule">2025 (2005)</td>
+<td stylecode="Toprule Lrule">2.0 (1.4)</td>
+<td stylecode="Toprule Lrule Rrule">2773 (1347)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule">Voltaren</td>
+<td stylecode="Toprule Lrule">2367 (1318)</td>
+<td stylecode="Toprule Lrule">1.9 (0.7)</td>
+<td stylecode="Toprule Lrule Rrule">2609 (1185)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,245 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="38%"></col>
+<col width="6%"></col>
+<col width="27%"></col>
+<col width="27%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="23" stylecode="Botrule" valign="top">a. Interpretative criteria applicable only to tests performed by disk diffusion method using a 30-mcg tetracycline class disk and using <content stylecode="italics">Haemophilus</content> Test Medium (HTM) and incubated with 5% CO<sub>2</sub>.<sup>2,3</sup>
+<br/>b. Interpretative criteria applicable only to tests performed by disk diffusion method using a 30-mcg tetracycline class disk and using GC agar base with 1% defined growth supplement and incubated with 5% CO<sub>2</sub>. <sup>2,3</sup>
+<br/>c. Interpretative criteria applicable only to tests performed by disk diffusion method using a 30-mcg tetracycline class disk and using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated with 5% CO<sub>2</sub>.<sup>2,3</sup>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Toprule">
+<td align="center" colspan="3" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">Zone Diameter (mm)             </content>
+</content>
+</paragraph>
+</td>
+<td valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">Interpretation  </content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" valign="middle">
+<paragraph>
+<content stylecode="underline">Tetracycline </content>
+</paragraph>
+</td>
+<td align="center" valign="middle">
+<paragraph>
+<content stylecode="underline">Doxycycline </content>
+</paragraph>
+</td>
+<td valign="middle"></td>
+</tr>
+<tr>
+<td align="center" colspan="2" valign="middle">
+<paragraph> ≥15</paragraph>
+</td>
+<td align="center" valign="middle">
+<paragraph> ≥14</paragraph>
+</td>
+<td valign="middle">
+<paragraph>Susceptible (S) </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" valign="middle">
+<paragraph> 12-14</paragraph>
+</td>
+<td align="center" valign="middle">
+<paragraph> 11-13</paragraph>
+</td>
+<td valign="middle">
+<paragraph>Intermediate (I) </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<paragraph>          ≤11 </paragraph>
+</td>
+<td align="center" colspan="2" valign="middle">
+<paragraph>          ≤10 </paragraph>
+</td>
+<td valign="middle">
+<paragraph>Resistant (R) </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> When testing <content stylecode="italics">Haemophilus spp.</content>
+<sup>a</sup>
+</paragraph>
+</td>
+<td valign="middle"></td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">Zone Diameter (mm)              </content>
+</content>
+</paragraph>
+</td>
+<td valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">Interpretation             </content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> tetracycline </paragraph>
+</td>
+<td valign="middle"></td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> ≥29 </paragraph>
+</td>
+<td valign="middle">
+<paragraph>Susceptible (S) </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> 26-28 </paragraph>
+</td>
+<td valign="middle">
+<paragraph>Intermediate (I) </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> ≤25 </paragraph>
+</td>
+<td valign="middle">
+<paragraph>Resistant (R) </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph>When testing <content stylecode="italics">Neisseria gonorrhoeae</content>
+<sup>b</sup>
+</paragraph>
+</td>
+<td valign="middle"></td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">Zone Diameter (mm)              </content>
+</content>
+</paragraph>
+</td>
+<td valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">Interpretation             </content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> tetracycline </paragraph>
+</td>
+<td valign="middle"></td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> ≥38 </paragraph>
+</td>
+<td valign="middle">
+<paragraph>Susceptible (S) </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> 31-37 </paragraph>
+</td>
+<td valign="middle">
+<paragraph>Intermediate (I) </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> ≤30 </paragraph>
+</td>
+<td valign="middle">
+<paragraph>Resistant (R) </paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="middle">
+<paragraph>Gonococci with 30 mcg tetracycline disk zone diameters &lt;19 mm usually indicate a plasmid-mediated tetracycline-resistant <content stylecode="italics">N</content>. <content stylecode="italics">gonorrhoeae</content> (TRNG) isolate. These strains should be confirmed by the dilution test (MIC ≥16 mcg/mL).</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph>When testing <content stylecode="italics">Streptococcus pneumoniae</content>
+<sup>c</sup>
+</paragraph>
+</td>
+<td valign="middle"></td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">Zone Diameter (mm)              </content>
+</content>
+</paragraph>
+</td>
+<td valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">Interpretation             </content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> tetracycline </paragraph>
+</td>
+<td valign="middle"></td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> ≥23 </paragraph>
+</td>
+<td valign="middle">
+<paragraph>Susceptible (S) </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="middle">
+<paragraph> 19-22 </paragraph>
+</td>
+<td valign="middle">
+<paragraph>Intermediate (I) </paragraph>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" colspan="3" valign="middle">
+<paragraph> ≤18 </paragraph>
+</td>
+<td valign="middle">
+<paragraph>Resistant (R) </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

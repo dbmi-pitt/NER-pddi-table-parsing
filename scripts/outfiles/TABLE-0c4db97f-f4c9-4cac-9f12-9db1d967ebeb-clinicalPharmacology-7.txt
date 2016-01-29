@@ -1,0 +1,56 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tfoot>
+<tr>
+<td align="justify" colspan="3">
+<sup>c    </sup>ATCC is a registered trademark of the American Type Culture Collection.<br/>
+<sup>d</sup>  This quality control range is applicable only to <content stylecode="italics">S.</content>
+<content stylecode="italics">pneumoniae</content> ATCC 49619 tested by a microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.<br/>
+<sup>e</sup>   This quality control range is applicable only to <content stylecode="italics">H.</content>
+<content stylecode="italics">influenzae</content> ATCC 49247 tested by a microdilution procedure using HTM<sup>1</sup>.<br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="2" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">QC Strain</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">MIC (mcg/mL)</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">S. aureus<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC<sup>®</sup> 29213<sup>c</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.12 to 0.5<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">S. pneumoniae</content>
+<sup>d</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 49619<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.03 to 0.12<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>e</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 49247<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4 to 16<br/>
+</td>
+</tr>
+</tbody>
+</table>

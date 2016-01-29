@@ -1,0 +1,50 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="40%"></col>
+<col width="21%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="2" stylecode="Botrule" valign="top">*Bioavailability decreases with increasing dose.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Toprule">
+<td align="center" colspan="2" stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">Table 1. Acyclovir Pharmacokinetic Characteristics (Range) </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center">
+<paragraph>Parameter  </paragraph>
+</td>
+<td align="center">
+<paragraph>Range</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Plasma protein binding</paragraph>
+</td>
+<td align="center">
+<paragraph>9% to 33%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Plasma elimination half-life</paragraph>
+</td>
+<td align="center">
+<paragraph>2.5 to 3.3 h</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Average oral bioavailability</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>10% to 20%*</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

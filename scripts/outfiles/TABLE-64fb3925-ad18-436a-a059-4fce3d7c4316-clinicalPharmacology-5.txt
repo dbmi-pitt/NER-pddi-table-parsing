@@ -1,0 +1,50 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tfoot>
+<tr>
+<td colspan="3" valign="top">
+<paragraph>
+<sup>c</sup>ATCC is a registered trademark of the American Type Culture Collection.<br/>
+<sup>d</sup> This quality control range is applicable only to <content stylecode="italics">S. pneumoniae</content> ATCC 49619 tested by a microdilution procedure using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.<br/>
+<sup>e</sup> This quality control range is applicable only to H. influenzae ATCC 49247 tested by a microdilution procedure using HTM<sup>1</sup>.</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">QC Strain</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">MIC <content stylecode="bold">(mcg/mL)</content>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="italics">S. aureus</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ATCC<sup>®</sup> 29213<sup>c</sup>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 0.12 to 0.5</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="italics">S. pneumoniae</content>
+<sup>d</sup>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ATCC 49619</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 0.03 to 0.12</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>e</sup>
+</td>
+<td align="justify" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ATCC 49247</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 4 to 16</td>
+</tr>
+</tbody>
+</table>

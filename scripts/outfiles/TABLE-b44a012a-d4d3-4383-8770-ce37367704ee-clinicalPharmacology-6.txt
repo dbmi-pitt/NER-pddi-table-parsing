@@ -1,0 +1,66 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="15%"></col>
+<col width="16%"></col>
+<col width="18%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="2" stylecode="Toprule ">
+<paragraph> <content stylecode="underline">Microorganism</content>
+</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph> <content stylecode="underline">MIC (mcg /mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> <content stylecode="italics">E. coli</content>
+</paragraph>
+</td>
+<td>
+<paragraph> ATCC 25922</paragraph>
+</td>
+<td>
+<paragraph> 2 to 8</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> <content stylecode="italics">E. faecalis</content>
+</paragraph>
+</td>
+<td>
+<paragraph> ATCC 29212</paragraph>
+</td>
+<td>
+<paragraph> 0.5 to 2</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> <content stylecode="italics">H. influenzae</content>
+</paragraph>
+</td>
+<td>
+<paragraph> ATCC 49247<sup>d</sup>
+</paragraph>
+</td>
+<td>
+<paragraph> 2 to 8</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph> <content stylecode="italics">S. aureus</content>
+</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph> ATCC 29213</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph> 0.25 to 1</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

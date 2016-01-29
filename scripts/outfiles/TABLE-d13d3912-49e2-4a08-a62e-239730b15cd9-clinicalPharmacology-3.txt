@@ -1,0 +1,34 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4. Acceptable Quality Control Ranges for Amoxicillin/Clavulanate Potassium</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th stylecode="     Toprule         Lrule     " valign="bottom"> Quality Control Organism</th>
+<th align="center" stylecode="     Toprule         Lrule     " valign="top"> Minimum Inhibitory <br/>Concentration Range<br/>(mcg/mL)</th>
+<th align="center" stylecode="     Toprule         Lrule          Rrule     " valign="top"> Disk Diffusion<br/>(Zone Diameter<br/>Range in mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="    Lrule     " valign="top"> <content stylecode="italics">Escherichia coli </content>ATCC<sup>®</sup>
+<footnote id="FOOT_6343">ATCC is a trademark of the American Type Culture
+                                             Collection.</footnote> 35218
+                                          <footnote id="FOOT_6344">When using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).</footnote>
+<br/>(H. influenzae quality control)</td>
+<td align="center" stylecode="    Lrule     " valign="top"> 4/2 to 16/8</td>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> 17 to 22</td>
+</tr>
+<tr>
+<td stylecode="    Lrule     " valign="top"> <content stylecode="italics">Haemophilus influenzae</content> ATCC 49247</td>
+<td align="center" stylecode="    Lrule     " valign="top"> 2/1 to 16/8</td>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> 15 to 23</td>
+</tr>
+<tr>
+<td stylecode="    Lrule     " valign="top"> <content stylecode="italics">Streptococcus pneumoniae</content> ATCC 49619</td>
+<td align="center" stylecode="    Lrule     " valign="top"> 0.03/0.016 to 0.12/0.06</td>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> NA</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,353 @@
+<table id="_RefID330" width="98%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5 Susceptibility Test Interpretive Criteria for Ceftriaxone</caption>
+<col width="31%"></col>
+<col width="12%"></col>
+<col width="12%"></col>
+<col width="11%"></col>
+<col width="12%"></col>
+<col width="12%"></col>
+<col width="11%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Pathogen</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Disk Diffusion Zone Diameters (mm)</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle"></td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">(S) Susceptible</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">(I) Intermediate</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">(R) Resistant</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">(S) Susceptible</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">(I) Intermediate</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">(R) Resistant</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Enterobacteriaceae </content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≤ 1<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>2<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≥4<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≥ 23<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>20 to 22<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≤19<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Haemophilus </content>influenzae<sup>a</sup> <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≤2<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≥26<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Neisseria </content>gonorrhoeae<sup>a</sup> <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≤ 0.25<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≥ 35<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Neisseria meningitidis<sup>a </sup>
+</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≤ 0.12<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≥ 34<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae </content>
+<sup>b</sup> meningitis isolates <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≤ 0.5<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>1<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≥ 2<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae </content>
+<sup>b</sup> non-meningitis isolates <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≤1<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>2<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≥4<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Streptococcus </content>species beta-hemolytic group<sup>a</sup> <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≤0.5<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≥ 24<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Viridans group streptococci <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≤ 1<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>2<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≥ 4<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≥27<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>25 to 26<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>≤24<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>Anaerobic bacteria <br/>(agar method) <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>≤16<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>32<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>≥64<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

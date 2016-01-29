@@ -1,0 +1,190 @@
+<table cellpadding="0pt" width="531pt" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Effects of Other Drugs on MOVANTIK</caption>
+<col width="28%"></col>
+<col width="31%"></col>
+<col width="41%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Concomitant Agent</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Mechanism of Action</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Toprule ">
+<list listtype="unordered">
+<item>
+<caption> </caption>
+<content stylecode="bold">Clinical Recommendation</content>
+</item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">CYP3A4 Inhibitors</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="middle"></td>
+<td stylecode="Rrule Botrule " valign="middle"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin)</item>
+</list>
+</td>
+<td rowspan="2" stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Increase plasma naloxegol concentrations and may increase the risk of adverse reactions [<content stylecode="italics">see  <content stylecode="underline">
+<linkhtml href="#ID_76e45eb5-2f61-4e5b-bf51-ad0cec747417">Clinical Pharmacology (12.3)</linkhtml>
+</content>
+</content>]<content stylecode="italics">.  </content>
+</item>
+</list>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Use with strong CYP3A4 inhibitors is contraindicated [<content stylecode="italics">see <content stylecode="underline">
+<linkhtml href="#ID_98d39d2c-8599-4be5-bdda-d1bc1024ef65">Contraindications (4)</linkhtml>
+</content>
+</content>].</item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Moderate CYP3A4 inhibitors (e.g., diltiazem, erythromycin, verapamil)</item>
+</list>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Avoid use with moderate CYP3A4 inhibitors; if unavoidable, decrease the dosage of MOVANTIK to 12.5 mg once daily and monitor for adverse reactions [<content stylecode="italics">see  <content stylecode="underline">
+<linkhtml href="#ID_68ec23c1-5804-40db-9d5a-56d2fde6ea22">Dosage and Administration (2.4)</linkhtml>
+</content>
+</content>].</item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Weak CYP3A4 inhibitors (e.g., quinidine, cimetidine)</item>
+</list>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Clinically significant increases in naloxegol concentrations are not expected.  </item>
+</list>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>No dosage adjustments are necessary. </item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Grapefruit or grapefruit juice<footnote id="_Ref399216725">The effect of grapefruit juice varies widely among brands and is concentration-, dose-, and preparation dependent. Studies have shown that it can be classified as a “strong CYP3A inhibitor” when a certain preparation was used (e.g., high dose, double strength) or as a “moderate CYP3A inhibitor” when another preparation was used (e.g., low dose, single strength).</footnote>
+</item>
+</list>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Can increase plasma naloxegol concentrations. </item>
+</list>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Avoid consumption of grapefruit or grapefruit juice during treatment with MOVANTIK [<content stylecode="italics">see  <content stylecode="underline">
+<linkhtml href="#ID_ef7a0a8b-8692-416e-8d6d-f21a4578afc2">Dosage and Administration (2.1)</linkhtml>
+</content>
+</content>].</item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption> </caption>
+<content stylecode="bold">CYP3A4 Inducers</content>
+</item>
+</list>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="middle"></td>
+<td stylecode="Rrule Lrule Botrule " valign="middle"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Strong CYP3A4 inducers (e.g., rifampin, carbamazepine, St. John’s Wort)</item>
+</list>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Significantly decrease plasma naloxegol concentrations and may decrease the efficacy of MOVANTIK [<content stylecode="italics">see  <content stylecode="underline">
+<linkhtml href="#ID_76e45eb5-2f61-4e5b-bf51-ad0cec747417">Clinical Pharmacology (12.3)</linkhtml>
+</content>
+</content>].    </item>
+</list>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Use with strong CYP3A4 inducers is not recommended<content stylecode="italics">.</content>
+</item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Other Drug Interactions</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="middle"></td>
+<td stylecode="Rrule Lrule Botrule " valign="middle"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Other opioid antagonists</item>
+</list>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Potential for additive effect of opioid receptor antagonism and increased risk of opioid withdrawal.</item>
+</list>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<list listtype="unordered">
+<item>
+<caption>•</caption>Avoid use of MOVANTIK<content stylecode="bold"></content>with another opioid antagonist.</item>
+</list>
+</td>
+</tr>
+</tbody>
+</table>

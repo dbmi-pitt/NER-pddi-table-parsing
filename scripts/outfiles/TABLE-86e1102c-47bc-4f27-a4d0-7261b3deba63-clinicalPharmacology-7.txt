@@ -1,0 +1,47 @@
+<table border="1" frame="border" id="inv-795036f0-7ffb-4d69-8e21-0dfb99de5adf" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-ebfd6d5c-c707-49cb-b96a-9cc4fd060106">Interpretive Criteria for Bulkholderia mallei, Bulkholderia pseudomallei and Yersinia pestis</caption>
+<col width="166px"></col>
+<col width="124px"></col>
+<col width="166px"></col>
+<col width="166px"></col>
+<thead valign="bottom">
+<tr valign="bottom">
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom">Microorganism</td>
+<td stylecode="Botrule Rrule Toprule" valign="bottom"></td>
+<td stylecode="Botrule Rrule Toprule" valign="bottom">MIC Interpretive Data (mcg/mL)</td>
+<td stylecode="Botrule Rrule Toprule" valign="bottom"></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Rrule"></td>
+<td align="center" stylecode="Botrule Rrule">Susceptible (S)</td>
+<td align="center" stylecode="Botrule Rrule">Intermediate (I)</td>
+<td align="center" stylecode="Botrule Rrule">Resistant (R)</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Bulkholderia mallei</content>
+</td>
+<td align="center" stylecode="Botrule Rrule"></td>
+<td align="center" stylecode="Botrule Rrule"></td>
+<td align="center" stylecode="Botrule Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Bulkholderia pseudomallei</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">≤4</td>
+<td align="center" stylecode="Botrule Rrule">8</td>
+<td align="center" stylecode="Botrule Rrule">≥8</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Yersinia pestis</content>
+</td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+</tr>
+</tbody>
+</table>

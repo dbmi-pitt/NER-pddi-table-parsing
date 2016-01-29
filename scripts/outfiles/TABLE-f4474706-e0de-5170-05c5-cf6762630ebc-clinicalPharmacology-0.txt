@@ -1,0 +1,127 @@
+<table frame="void" width="590" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple dose study in patients with cancer pain.</caption>
+<thead>
+<tr>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">Regimen/</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="bold">AUC#,+</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+<content stylecode="bold">+</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="bold">T</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>min</sub>
+</content>
+<content stylecode="bold">+</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="bold">Fluctuation*</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="bold">Dosage Form</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">(ng.h/mL)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">(ng/mL)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">(h)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">(ng/mL)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" stylecode="Toprule" valign="top"># For single dose AUC = AUC<sub>0-48h</sub>, for multiple dose AUC = AUC<sub>0-24h</sub> at steady state</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top">+ For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top">* Steady-state fluctuation in plasma concentrations = C<sub>max</sub>- C<sub>min</sub>/C<sub>min</sub>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top">^ Not applicable</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Toprule" valign="top">Single Dose (n=24)</td>
+<td align="center" stylecode="Toprule" valign="top"></td>
+<td align="center" stylecode="Toprule" valign="top"></td>
+<td align="center" stylecode="Toprule" valign="top"></td>
+<td align="center" stylecode="Toprule" valign="top"></td>
+<td align="center" stylecode="Toprule" valign="top"></td>
+</tr>
+<tr>
+<td align="left" valign="top">KADIAN<sup>®</sup> Capsule</td>
+<td align="center" valign="top">271.0 (19.4)</td>
+<td align="center" valign="top">15.6 (24.4)</td>
+<td align="center" valign="top">8.6 (41.1)</td>
+<td align="center" valign="top">na^</td>
+<td align="center" valign="top">na</td>
+</tr>
+<tr>
+<td align="left" valign="top">Extended-Release Tablet</td>
+<td align="center" valign="top">304.3 (19.1)</td>
+<td align="center" valign="top">30.5 (32.1)</td>
+<td align="center" valign="top">2.5 (52.6)</td>
+<td align="center" valign="top">na</td>
+<td align="center" valign="top">na</td>
+</tr>
+<tr>
+<td align="left" valign="top">Morphine Solution</td>
+<td align="center" valign="top">362.4 (42.6)</td>
+<td align="center" valign="top">64.4 (38.2)</td>
+<td align="center" valign="top">0.9 (55.8)</td>
+<td align="center" valign="top">na</td>
+<td align="center" valign="top">na</td>
+</tr>
+<tr>
+<td align="left" valign="top">Multiple Dose (n=24)</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr>
+<td align="left" valign="top">KADIAN<sup>®</sup> Capsule q24h</td>
+<td align="center" valign="top">500.9 (38.6)</td>
+<td align="center" valign="top">37.3 (37.7)</td>
+<td align="center" valign="top">10.3 (32.2)</td>
+<td align="center" valign="top">9.9 (52.3)</td>
+<td align="center" valign="top">3.0 (45.5)</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="top">Extended-Release Tablet q12h</td>
+<td align="center" stylecode="Botrule" valign="top">457.3 (40.2)</td>
+<td align="center" stylecode="Botrule" valign="top">36.9 (42.0)</td>
+<td align="center" stylecode="Botrule" valign="top">4.4 (53.0)</td>
+<td align="center" stylecode="Botrule" valign="top">7.6 (60.3)</td>
+<td align="center" stylecode="Botrule" valign="top">4.1 (51.5)</td>
+</tr>
+</tbody>
+</table>

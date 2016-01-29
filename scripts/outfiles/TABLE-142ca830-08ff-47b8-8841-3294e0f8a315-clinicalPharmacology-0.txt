@@ -1,0 +1,101 @@
+<table frame="box" id="table_2" rules="all" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col width="11*"></col>
+<col width="18*"></col>
+<col width="11*"></col>
+<col width="11*"></col>
+<col width="12*"></col>
+<col width="13*"></col>
+</colgroup>
+<tbody>
+<tr>
+<td align="center" colspan="6">
+<content stylecode="bold">Table 2. Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration</content>
+</td>
+</tr>
+<tr>
+<td>Co-AdministeredDrug</td>
+<td>Dosage Regimen of Co-Administered Drug</td>
+<td colspan="2">Dosage Regimen of Fenofibrate</td>
+<td colspan="2">Changes in Fenofibric Acid Exposure</td>
+</tr>
+<tr>
+<td colspan="4"> </td>
+<td>AUC</td>
+<td>C
+                                                <sub>max</sub>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6">
+<content stylecode="italics">Lipid-lowering agents</content>
+</td>
+</tr>
+<tr>
+<td>Atorvastatin</td>
+<td>20 mg once daily for 10 days</td>
+<td colspan="2">Fenofibrate 160 mg once daily for 10 days
+                                                <sup>1</sup>
+</td>
+<td>↓2%</td>
+<td>↓4%</td>
+</tr>
+<tr>
+<td>Pravastatin</td>
+<td>40 mg as a single dose</td>
+<td colspan="2">Fenofibrate 3 x 67 mg as a single dose
+                                                <sup>2</sup>
+</td>
+<td>↓1%</td>
+<td>↓2%</td>
+</tr>
+<tr>
+<td>Fluvastatin</td>
+<td>40 mg as a single dose</td>
+<td colspan="2">Fenofibrate 160 mg as a single dose
+                                                <sup>1</sup>
+</td>
+<td>↓2%</td>
+<td>↓10%</td>
+</tr>
+<tr>
+<td colspan="6">
+<content stylecode="italics">Anti-diabetic agents</content>
+</td>
+</tr>
+<tr>
+<td>Glimepiride</td>
+<td>1 mg as a single dose</td>
+<td colspan="2">Fenofibrate 145 mg once daily for 10 days
+                                                <sup>1</sup>
+</td>
+<td>↑1%</td>
+<td>↓1%</td>
+</tr>
+<tr>
+<td>Metformin</td>
+<td>850 mg three times daily for 10 days</td>
+<td colspan="2">Fenofibrate 54 mg three times daily for 10 days
+                                                <sup>1</sup>
+</td>
+<td>↓9%</td>
+<td>↓6%</td>
+</tr>
+<tr>
+<td>Rosiglitazone</td>
+<td>8 mg once daily for 5 days</td>
+<td colspan="2">Fenofibrate 145 mg once daily for 14 days
+                                                <sup>1</sup>
+</td>
+<td>↑10%</td>
+<td>↑3%</td>
+</tr>
+<tr>
+<td colspan="6">Fenofibrate tablets for oral use Fenofibrate oral micronized capsule
+                                                <sup>1</sup>
+<br/>
+<sup>2</sup>
+</td>
+</tr>
+</tbody>
+</table>

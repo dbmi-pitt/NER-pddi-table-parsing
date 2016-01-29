@@ -1,0 +1,288 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table I. Mean and range of total body clearance and half-life of theophylline         related to age and altered physiological states.<sup>¶</sup>
+</caption>
+<colgroup>
+<col></col>
+<col></col>
+<col></col>
+</colgroup>
+<thead stylecode="Lrule Rrule Toprule Botrule">
+<tr>
+<th stylecode="Lrule Rrule Toprule Botrule">
+<content stylecode="bold">
+<content stylecode="emphasis">Population characteristics</content>
+</content>
+</th>
+<th align="center" stylecode="Lrule Rrule Toprule Botrule">
+<content stylecode="bold">
+<content stylecode="emphasis">Total body clearance*</content>
+</content>
+<br/>
+<content stylecode="bold">
+<content stylecode="emphasis">mean (range)<sup>††</sup>
+</content>
+</content>
+<br/>
+<content stylecode="bold">
+<content stylecode="emphasis">(mL/kg/min)</content>
+</content>
+<br/>
+</th>
+<th align="center" stylecode="Lrule Rrule Toprule Botrule">
+<content stylecode="bold">
+<content stylecode="emphasis">Half-life</content>
+</content>
+<br/>
+<content stylecode="bold">
+<content stylecode="emphasis">mean (range)<sup>††</sup>
+</content>
+</content>
+<br/>
+<content stylecode="bold">
+<content stylecode="emphasis">(hr)</content>
+</content>
+<br/>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="3">
+<paragraph>
+<sup>¶</sup> For various North American patient populations            from literature reports. Different rates of elimination and consequent dosage            requirements have been observed among other peoples.</paragraph>
+<paragraph>
+<sup>*</sup>  Clearance represents the volume of blood completely            cleared of theophylline by the liver in one minute. Values listed were generally            determined at serum theophylline concentrations &lt; 20 mcg/mL; clearance may            decrease and half-life may increase at higher serum concentrations due to non-linear            pharmacokinetics.</paragraph>
+<paragraph>
+<sup>††</sup>  Reported range or estimated range            (mean ±2 SD) where actual range not reported.</paragraph>
+<paragraph>
+<sup>†</sup> NR = not reported or not reported in a            comparable format.</paragraph>
+<paragraph>** Median</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td colspan="3" stylecode="Lrule Rrule Toprule Botrule">
+<content stylecode="bold">
+<content stylecode="emphasis">Age</content>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Premature neonates</paragraph>
+<paragraph>postnatal age 3-15 days</paragraph>
+<paragraph>postnatal age 25-57 days</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.29 (0.09-0.49)</paragraph>
+<paragraph>0.64 (0.04-1.2)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>30 (17-43)</paragraph>
+<paragraph>20 (9.4-30.6)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Term infants</paragraph>
+<paragraph>postnatal age 1-2 days</paragraph>
+<paragraph>postnatal age 3-30 weeks</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>NR<sup>†</sup>
+</paragraph>
+<paragraph>NR<sup>†</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>25.7 (25-26.5)</paragraph>
+<paragraph>11 (6-29)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Pediatric patients</paragraph>
+<paragraph>1-4 years</paragraph>
+<paragraph>4-12 years</paragraph>
+<paragraph>13-15 years</paragraph>
+<paragraph>16-17 years</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>1.7 (0.5-2.9)</paragraph>
+<paragraph>1.6 (0.8-2.4)</paragraph>
+<paragraph>0.9 (0.48-1.3)</paragraph>
+<paragraph>1.4 (0.2-2.6)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>3.4 (1.2-5.6)</paragraph>
+<paragraph>NR<sup>†</sup>
+</paragraph>
+<paragraph>NR<sup>†</sup>
+</paragraph>
+<paragraph>3.7 (1.5-5.9)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Adults (16-60 years)</paragraph>
+<paragraph>otherwise healthy</paragraph>
+<paragraph>nonsmoking asthmatics</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.65 (0.27-1.03)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>8.7 (6.1-12.8)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Elderly (&gt;60 years)</paragraph>
+<paragraph>nonsmokers with normal cardiac,</paragraph>
+<paragraph>liver, and renal function</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.41 (0.21-0.61)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>9.8 (1.6-18)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<br/>
+</td>
+<td stylecode="Lrule Rrule Toprule Botrule"></td>
+<td stylecode="Lrule Rrule Toprule Botrule"></td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Lrule Rrule Toprule Botrule">
+<content stylecode="bold">
+<content stylecode="emphasis">Concurrent illness or altered physiological state</content>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Acute pulmonary edema</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.33** (0.07-2.45)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>19** (3.1-8.2)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>COPD- &gt;60 years, stable</paragraph>
+<paragraph>nonsmoker &gt;1 year</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.54 (0.44-0.64)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>11 (9.4-12.6)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>COPD with cor pulmonale</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.48 (0.08-0.88)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>NR<sup>†</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Cystic fibrosis (14-28 years)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>1.25 (0.31-2.2)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>6.0 (1.8-10.2)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Fever associated with acute viral respiratory</paragraph>
+<paragraph>illness (pediatric patients 9-15 years)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>NR<sup>†</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>7.0 (1.0-13)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Liver disease- cirrhosis</paragraph>
+<paragraph>acute hepatitis</paragraph>
+<paragraph>cholestasis</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.31** (0.1-0.7)</paragraph>
+<paragraph>0.35 (0.25-0.45)</paragraph>
+<paragraph>0.65 (0.25-1.45)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>32** (10-56)</paragraph>
+<paragraph>19.2 (16.6-21.8)</paragraph>
+<paragraph>14.4 (5.7-31.8)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Pregnancy- 1st trimester</paragraph>
+<paragraph>2nd trimester</paragraph>
+<paragraph>3rd trimester</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>NR<sup>†</sup>
+</paragraph>
+<paragraph>NR<sup>†</sup>
+</paragraph>
+<paragraph>NR<sup>†</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>8.5 (3.1-13.9)</paragraph>
+<paragraph>8.8 (3.8-13.8)</paragraph>
+<paragraph>13.0 (8.4-17.6)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Sepsis with multi-organ failure</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.47 (0.19-1.9)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>18.8 (6.3-24.1)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Thyroid disease- hypothyroid</paragraph>
+<paragraph>hyperthyroid</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.38 (0.13-0.57)</paragraph>
+<paragraph>0.8 (0.68-0.97)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>11.6 (8.2-25)</paragraph>
+<paragraph>4.5 (3.7-5.6)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,29 @@
+<table border="single" id="id_cf4f6e6d-e23b-4bf8-8d88-daf84fe7599b" width="444.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_f9e652a1-b987-4c1e-9293-06334a48683e">Concentration (after 250 mg q12h)</caption>
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<tbody>
+<tr id="id_664e696f-e6ad-4e1b-bcd7-089fc874b246">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="bottom">
+<content stylecode="bold">Tissue Type</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Tissue (mcg/g)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Serum (mcg/mL)</content>
+</td>
+</tr>
+<tr id="id_cef7ce1b-7c03-4c8a-ad71-299d791f0343">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">Tonsil</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">1.6</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">0.8</td>
+</tr>
+<tr id="id_61b844f5-8e5d-4287-b9e5-a3305f392b8b">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">Lung</td>
+<td align="center" stylecode="Rrule" valign="bottom">8.8</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">1.7</td>
+</tr>
+</tbody>
+</table>

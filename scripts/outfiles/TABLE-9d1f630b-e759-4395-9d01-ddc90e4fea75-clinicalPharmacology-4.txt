@@ -1,0 +1,259 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5. Susceptibility Test Interpretive Criteria for Ceftriaxone.</caption>
+<col width="24%"></col>
+<col width="13%"></col>
+<col width="14%"></col>
+<col width="11%"></col>
+<col width="13%"></col>
+<col width="14%"></col>
+<col width="11%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">Pathogen</th>
+<th colspan="3" stylecode="Rrule Botrule Lrule Toprule ">Minimum Inhibitory Concentrations (mcg/ml)</th>
+<th colspan="3" stylecode="Rrule Botrule Lrule Toprule ">Disk Diffusion Zone Diameters (mm)</th>
+</tr>
+<tr>
+<th stylecode="Rrule Lrule Toprule Botrule ">(S)<br/>Susceptible</th>
+<th stylecode="Rrule Lrule Toprule Botrule ">(I)<br/>Intermediate</th>
+<th stylecode="Rrule Lrule Toprule Botrule ">(R)<br/>Resistant</th>
+<th stylecode="Rrule Lrule Toprule Botrule ">(S)<br/>Susceptible</th>
+<th stylecode="Rrule Lrule Toprule Botrule ">(I)<br/>Intermediate</th>
+<th stylecode="Rrule Lrule Toprule Botrule ">(R)<br/>Resistant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="italics">Enterobacteriaceae</content>
+<footnote id="_Ref416177989">Susceptibility interpretive criteria for <content stylecode="italics">Enterobacteriaceae</content> are based on a dose of 1 gram IV q 24h. For isolates with intermediate susceptibility, use a dose of 2 grams IV q 24h in patients with normal renal function.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 23</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>20 to 22</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤19</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="italics">Haemophilus</content>
+<content stylecode="italics">
+<br/>influenzae</content>
+<footnote id="_Ref416178004">For <content stylecode="italics">Haemophilus </content>
+<content stylecode="italics">influenzae</content>, susceptibility interpretive criteria are based on a dose of 2 grams IV every 24 hours in patients with normal renal function.</footnote>,<footnote id="_Ref416178015">The current absence of data on resistant isolates precludes defining any category other than ‘Susceptible’. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥26</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+<footnoteref idref="_Ref416178015"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 0.25</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 35</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="italics">Neisseria meningitidis</content>
+<footnoteref idref="_Ref416178015"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 0.12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 34</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="italics">Streptococcus<br/>pneumoniae</content>
+<footnote id="_Ref416178060">Disc diffusion interpretive criteria for ceftriaxone discs against <content stylecode="italics">Streptococcus </content>
+<content stylecode="italics">pneumoniae</content> are not available, however, isolates of pneumococci with oxacillin zone diameters of <content stylecode="underline">&gt;</content>20 mm are susceptible (MIC ≤ 0.06 mcg/mL) to penicillin and can be considered susceptible to ceftriaxone. <content stylecode="italics">Streptococcus </content>
+<content stylecode="italics">pneumoniae</content> isolates should not be reported as penicillin (ceftriaxone) resistant or intermediate based solely on an oxacillin zone diameter of ≤ 19 mm. The ceftriaxone MIC should be determined for those isolates with oxacillin zone diameters ≤ 19 mm.</footnote> meningitis isolates</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="italics">Streptococcus<br/>
+</content>
+<content stylecode="italics">pneumoniae</content>
+<footnoteref idref="_Ref416178060"></footnoteref> non-meningitis isolates</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="italics">Streptococcus</content> species beta-hemolytic group<footnoteref idref="_Ref416178015"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 24</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Viridans group streptococci</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤ 1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥ 4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≥27</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>25 to 26</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>≤24</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>Anaerobic bacteria (agar method)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>≤ 1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>≥ 4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>-</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

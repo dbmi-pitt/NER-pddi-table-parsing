@@ -1,0 +1,97 @@
+<table border="1" frame="border" id="t2" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="G3928e5c7-71a6-4f6c-b8a0-876831c6e4bb">TABLE 2 SUSCEPTIBILITY INTERPRETIVE CRITERIA FOR PIPERACILLIN/TAZOBACTAM </caption>
+<colgroup>
+<col width="136px"></col>
+<col width="52px"></col>
+<col width="68px"></col>
+<col width="80px"></col>
+<col width="72px"></col>
+<col width="76px"></col>
+<col width="76px"></col>
+</colgroup>
+<thead valign="bottom">
+<tr valign="bottom">
+<th valign="bottom"> </th>
+<th align="center" colspan="6" valign="middle">Susceptibility Test Result Interpretive Criteria</th>
+</tr>
+<tr valign="bottom">
+<th valign="bottom"> </th>
+<th align="center" colspan="3" valign="bottom">Minimal Inhibitory Concentration <br/>(MIC in μg/mL) </th>
+<th align="center" colspan="3" valign="bottom">Disk Diffusion <br/>(Zone<br/>Diameter in mm) </th>
+</tr>
+<tr valign="bottom">
+<th valign="bottom">Pathogen </th>
+<th align="center" valign="bottom">S </th>
+<th align="center" valign="bottom">I </th>
+<th align="center" valign="bottom">R </th>
+<th align="center" valign="bottom">S </th>
+<th align="center" valign="bottom">I </th>
+<th align="center" valign="bottom">R </th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="7">a These interpretive criteria for <content stylecode="italics">Haemophilus influenzae</content> are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td>
+<content stylecode="italics">Enterobacteriaceae</content> and <content stylecode="italics">Acinetobacter baumanii</content>
+</td>
+<td align="center">≤ 16 </td>
+<td align="center">32 - 64 </td>
+<td align="center">≥ 128 </td>
+<td align="center">≥ 21 </td>
+<td align="center">18 - 20 </td>
+<td align="center">≤ 17 </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>a</sup>
+<br/>
+</td>
+<td align="center">≤ 1 </td>
+<td align="center">- </td>
+<td align="center">≥ 2 </td>
+<td align="center">≥ 21 </td>
+<td align="center">- </td>
+<td align="center">- </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+<br/>
+</td>
+<td align="center">≤ 64 </td>
+<td align="center">- </td>
+<td align="center">≥ 128 </td>
+<td align="center">≥ 18 </td>
+<td align="center">- </td>
+<td align="center">≤ 17 </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>
+</td>
+<td align="center">≤ 8 </td>
+<td align="center">- </td>
+<td align="center">≥ 16 </td>
+<td align="center">≥ 18 </td>
+<td align="center">- </td>
+<td align="center">≤ 17 </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Bacteroides fragilis</content> group </td>
+<td align="center">≤ 32 </td>
+<td align="center">64 </td>
+<td align="center">≥ 128 </td>
+<td align="center">- </td>
+<td align="center">- </td>
+<td align="center">- </td>
+</tr>
+</tbody>
+</table>

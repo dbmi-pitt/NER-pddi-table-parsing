@@ -1,0 +1,105 @@
+<table border="single" id="id_a34bd207-44ee-496a-8fdc-7cbb5fc3eed1" width="620" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_53821473-07cf-4c7f-88c0-cafd00a4ef67">Table 1: Susceptibility Interpretive Criteria for Imipenem</caption>
+<col width="54.4%"></col>
+<col width="8.9%"></col>
+<col width="11.2%"></col>
+<col width="6.1%"></col>
+<col width="5.9%"></col>
+<col width="7.6%"></col>
+<col width="5.9%"></col>
+<tbody>
+<tr id="id_f66fd543-cc8b-4f85-86c1-8c724b89c7b2" stylecode="Toprule">
+<td align="left" stylecode="Botrule" valign="top">Pathogen </td>
+<td align="center" colspan="3" stylecode="Botrule" valign="top">
+<paragraph>Minimum Inhibitory Concentrations </paragraph>MIC (mcg/mL) </td>
+<td align="center" colspan="3" stylecode="Botrule" valign="top">
+<paragraph>Disk Diffusion </paragraph>Zone Diameter (mm) </td>
+</tr>
+<tr id="id_a663c302-4b4a-44ef-8ba0-c5f2599a46e8">
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top">S</td>
+<td align="center" stylecode="Botrule" valign="top">I</td>
+<td align="center" stylecode="Botrule" valign="top">R</td>
+<td align="center" stylecode="Botrule" valign="top">S</td>
+<td align="center" stylecode="Botrule" valign="top">I</td>
+<td align="center" stylecode="Botrule" valign="top">R</td>
+</tr>
+<tr id="id_a9ad8df2-d37e-450f-938d-43b77bef0f68">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Enterobacteriaceae </content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule" valign="top">2</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 4</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 23</td>
+<td align="center" stylecode="Botrule" valign="top">20-22</td>
+<td align="center" stylecode="Botrule" valign="top">≤ 19</td>
+</tr>
+<tr id="id_5311f69a-285b-4340-8afa-5c458fea686b">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Pseudomonas aeruginosa </content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">≤ 2</td>
+<td align="center" stylecode="Botrule" valign="top">4</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 8</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 19</td>
+<td align="center" stylecode="Botrule" valign="top">16-18</td>
+<td align="center" stylecode="Botrule" valign="top">≤ 15</td>
+</tr>
+<tr id="id_02981c1b-5749-44bc-a408-72c9e1641b34">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Acinetobacter </content>spp. </td>
+<td align="center" stylecode="Botrule" valign="top">≤ 4</td>
+<td align="center" stylecode="Botrule" valign="top">8</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 16</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 16</td>
+<td align="center" stylecode="Botrule" valign="top">14-15</td>
+<td align="center" stylecode="Botrule" valign="top">≤ 13</td>
+</tr>
+<tr id="id_c806e8dc-5049-49af-8244-76135c93c621">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Staphylococcus </content>spp.<footnote id="id-37592ee6-0e35-4bcb-8bd6-0b5e24626d9c">For oxacillin-susceptible <content stylecode="italics">S. aureus</content> and coagulase negative staphylococci results for carbapenems, including imipenem, if tested, should be reported according to the results generated using routine interpretive criteria. For oxacillin-resistant <content stylecode="italics">S. aureus</content> and coagulase negative staphylococci, other beta lactam agents, including carbapenems, may appear active <content stylecode="italics">in vitro </content>but are not effective clinically. Results for beta lactam agents other than cephalosporins with anti-MRSA activity should be reported as resistant or should not be reported.</footnote> </td>
+<td align="center" stylecode="Botrule" valign="top">≤ 4</td>
+<td align="center" stylecode="Botrule" valign="top">8</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 16</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 16</td>
+<td align="center" stylecode="Botrule" valign="top">14-15</td>
+<td align="center" stylecode="Botrule" valign="top">≤ 13</td>
+</tr>
+<tr id="id_f5031452-9aea-462c-86c1-53d8686a22f1">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae </content>and <content stylecode="italics">H. parainfluenzae<linkhtml href="\ic-publicpublicDepartmentsRegulatory AffairsDrug ListingsCustomer Drug ListingsAPP Pharmaceuticals Drug ListingsAPP Imipenem and Cilastatin     90-577Imipenem_spl_v348fc0ab5-44c1-49bf-9d44-2401791a8f31.xml"></linkhtml>
+</content>
+<footnote id="id-4432c3cb-df2e-4c43-8dc0-d65409acbd95">For some organism/antimicrobial combinations, the absence or rare occurrence of resistant strains precludes defining any results categories other than “susceptible”. For strains yielding results suggestive of a “non-susceptible” category, organism identification and antimicrobial susceptibility test results should be confirmed. </footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">≤ 4</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 16</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+<tr id="id_a653bbad-f8e2-49f9-aef6-e2bf31900145">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae<linkhtml href="\ic-publicpublicDepartmentsRegulatory AffairsDrug ListingsCustomer Drug ListingsAPP Pharmaceuticals Drug ListingsAPP Imipenem and Cilastatin     90-577Imipenem_spl_v348fc0ab5-44c1-49bf-9d44-2401791a8f31.xml"></linkhtml>
+</content>
+<footnote id="id-1941cdc7-d811-48e1-83b9-1b00666d0bff">For non-meningitis <content stylecode="italics">S. pneumoniae</content> isolates, penicillin MICs ≤ 0.06 mcg/mL (or oxacillin zones ≥ 20 mm) indicate susceptibility to imipenem.</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">≤ 0.12</td>
+<td align="center" stylecode="Botrule" valign="top">0.25-0.5</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 1</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+<tr id="id_9ead05a5-4a6c-42a0-a7da-a42965075b50">
+<td align="left" stylecode="Botrule" valign="top">Anaerobes </td>
+<td align="center" stylecode="Rrule" valign="top">≤ 4</td>
+<td align="center" stylecode="Rrule" valign="top">8</td>
+<td align="center" stylecode="Rrule" valign="top">≥ 16</td>
+<td align="center" stylecode="Rrule" valign="top">-</td>
+<td align="center" stylecode="Rrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+</tbody>
+</table>

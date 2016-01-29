@@ -1,0 +1,41 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2: In Vitro Susceptibility Test Quality Control Ranges for Oxacillin 
+			</caption>
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Organism (ATCC #)</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Oxacillin MIC</content>
+<br/>
+<content stylecode="bold">Range (mcg/mL)</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Cefoxitin Disk Diffusion Range (mm)</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">     Staphylococcus aureus </content>(29213)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.12 - 0.5<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not applicable<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">     Staphylococcus aureus </content>(25923)<content stylecode="italics"></content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not applicable<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">23 - 29<br/>
+</td>
+</tr>
+</tbody>
+</table>

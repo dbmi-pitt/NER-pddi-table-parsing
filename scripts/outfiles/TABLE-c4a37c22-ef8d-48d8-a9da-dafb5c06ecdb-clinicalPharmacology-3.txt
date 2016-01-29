@@ -1,0 +1,63 @@
+<table border="single" id="id_45263c05-e160-421e-b1ab-e66c8c47c2ca" width="447.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="55.7%"></col>
+<col width="16.3%"></col>
+<col width="13.6%"></col>
+<col width="14.3%"></col>
+<tbody>
+<tr id="id_489bb791-40fe-4232-a398-60ef5be879f5">
+<td align="justify" stylecode="Lrule Toprule" valign="top">Subject Group</td>
+<td align="center" stylecode="Toprule" valign="top">
+<paragraph>Elimination</paragraph>
+<paragraph>Half-Life</paragraph>(hr)</td>
+<td align="center" stylecode="Toprule" valign="top">
+<paragraph>Plasma</paragraph>
+<paragraph>Clearance</paragraph>(L/hr)</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>Volume of</paragraph>
+<paragraph>Distribution</paragraph>(L)</td>
+</tr>
+<tr id="id_9967e0f5-1122-4d67-b603-80d39df112b6">
+<td align="justify" stylecode="Lrule" valign="top">Healthy Subjects</td>
+<td align="center" valign="top">5.8-8.7</td>
+<td align="center" valign="top">0.58-1.45</td>
+<td align="center" stylecode="Rrule" valign="top">5.8-13.5</td>
+</tr>
+<tr id="id_1eaa288b-087f-4566-afaa-fcd2cf083419">
+<td align="justify" stylecode="Lrule" valign="top">
+<paragraph>Elderly Subjects (mean age, 70.5 yr)</paragraph>Patients With Renal Impairment</td>
+<td align="center" valign="top">8.9</td>
+<td align="center" valign="top">0.83</td>
+<td align="center" stylecode="Rrule" valign="top">10.7</td>
+</tr>
+<tr id="id_6f250ced-3e96-4b1e-974c-d1637f60c66f">
+<td align="justify" stylecode="Lrule" valign="top">Hemodialysis Patients (0-5 mL/min)*</td>
+<td align="center" valign="top">14.7</td>
+<td align="center" valign="top">0.65</td>
+<td align="center" stylecode="Rrule" valign="top">13.7</td>
+</tr>
+<tr id="id_6ac66d0b-12c4-421e-ac1f-cc67757be707">
+<td align="justify" stylecode="Lrule" valign="top">Severe (5-15 mL/min)</td>
+<td align="center" valign="top">15.7</td>
+<td align="center" valign="top">0.56</td>
+<td align="center" stylecode="Rrule" valign="top">12.5</td>
+</tr>
+<tr id="id_bafd9776-a0c2-435f-b852-1635212654c1">
+<td align="justify" stylecode="Lrule" valign="top">Moderate (16-30 mL/min)</td>
+<td align="center" valign="top">11.4</td>
+<td align="center" valign="top">0.72</td>
+<td align="center" stylecode="Rrule" valign="top">11.8</td>
+</tr>
+<tr id="id_18df3ac3-c030-4e33-ab4d-ddc9cdfd0fc3">
+<td align="justify" stylecode="Lrule" valign="top">Mild (31-60 mL/min)</td>
+<td align="center" valign="top">12.4</td>
+<td align="center" valign="top">0.70</td>
+<td align="center" stylecode="Rrule" valign="top">13.3</td>
+</tr>
+<tr id="id_9a1b870a-a548-4861-be7f-bd5a5af83554">
+<td align="justify" stylecode="Lrule Botrule" valign="top">Patients With Liver Disease</td>
+<td align="center" stylecode="Botrule" valign="top">8.8</td>
+<td align="center" stylecode="Botrule" valign="top">1.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">13.6</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,204 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1"></col>
+<col span="1"></col>
+<col span="1"></col>
+<col span="1"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Digoxin concentrations increased greater than 50%</content>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>Digoxin Serum   <br/>Concentration Increase</td>
+<td>Digoxin AUC   <br/>Increase</td>
+<td>
+<content stylecode="bold">Recommendations</content>
+</td>
+</tr>
+<tr>
+<td>Amiodarone</td>
+<td>70%</td>
+<td>NA</td>
+<td>Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30-50% or by modifying the dosing frequency and continue monitoring. </td>
+</tr>
+<tr>
+<td>Captopril </td>
+<td>58%</td>
+<td>39%</td>
+</tr>
+<tr>
+<td>Clarithromycin</td>
+<td>NA</td>
+<td>70%</td>
+</tr>
+<tr>
+<td>Dronedarone</td>
+<td>NA</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Gentamicin</td>
+<td>129 to 212%</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Erythromycin</td>
+<td>100%</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Itraconazole</td>
+<td>80%</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Nitrendipine</td>
+<td>57%</td>
+<td>15%</td>
+</tr>
+<tr>
+<td>Propafenone</td>
+<td>NA</td>
+<td>60 to 270%</td>
+<td> </td>
+</tr>
+<tr>
+<td>Quinidine</td>
+<td>100%</td>
+<td>NA</td>
+<td> </td>
+</tr>
+<tr>
+<td>Ranolazine</td>
+<td>50%</td>
+<td>NA</td>
+<td> </td>
+</tr>
+<tr>
+<td>Ritonavir</td>
+<td>NA</td>
+<td>86%</td>
+<td> </td>
+</tr>
+<tr>
+<td>Tetracycline</td>
+<td>100%</td>
+<td>NA</td>
+<td> </td>
+</tr>
+<tr>
+<td>Verapamil</td>
+<td>50 to 75%</td>
+<td>NA</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Digoxin concentrations increased less than 50%</content>
+</td>
+</tr>
+<tr>
+<td>Atorvastatin</td>
+<td>22%</td>
+<td>15%</td>
+<td>Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15-30% or by modifying the dosing frequency and continue monitoring.</td>
+</tr>
+<tr>
+<td>Carvedilol</td>
+<td>16%</td>
+<td>14%</td>
+</tr>
+<tr>
+<td>Diltiazem</td>
+<td>20%</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Indomethacin</td>
+<td>40%</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Nefazodone</td>
+<td>27%</td>
+<td>15%</td>
+</tr>
+<tr>
+<td>Nifedipine</td>
+<td>45%</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Propantheline</td>
+<td>24%</td>
+<td>24%</td>
+</tr>
+<tr>
+<td>Quinine</td>
+<td>NA</td>
+<td>33%</td>
+</tr>
+<tr>
+<td>Saquinavir</td>
+<td>27%</td>
+<td>49%</td>
+<td> </td>
+</tr>
+<tr>
+<td>Spironolactone     </td>
+<td>25%</td>
+<td>NA</td>
+<td> </td>
+</tr>
+<tr>
+<td>Telmisartan</td>
+<td>20 to 49%</td>
+<td>NA</td>
+<td> </td>
+</tr>
+<tr>
+<td>Tolvaptan</td>
+<td>30%</td>
+<td>NA</td>
+<td> </td>
+</tr>
+<tr>
+<td>Trimethoprim</td>
+<td>22 to 28%</td>
+<td>NA</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Digoxin concentrations increased, but magnitude is unclear</content>
+</td>
+</tr>
+<tr>
+<td>Alprazolam, azithromycin, cyclosporine, diclofenac, <br/>diphenoxylate, epoprostenol, esomeprazole, ibuprofen, <br/>ketoconazole, lansoprazole, metformin, omeprazole, <br/>rabeprazole, </td>
+<td>Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Digoxin concentrations decreased</content>
+</td>
+</tr>
+<tr>
+<td>Acarbose, activated charcoal, albuterol, antacids, certain <br/>cancer chemotherapy or radiation therapy, cholestyramine, <br/>colestipol, extenatide, kaolin-pectin, meals high in bran, <br/>metoclopramide, miglitol, neomycin, penicillamine, <br/>phenytoin, rifampin, St. John’s Wort, sucralfate, <br/>sulfasalazine</td>
+<td>Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20-40% as necessary.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">No significant Digoxin exposure changes</content>
+</td>
+</tr>
+<tr>
+<td>Please refer to section 12 for a complete list of drugs which     <br/>were studied but reported no significant changes on digoxin exposure.</td>
+<td>No additional actions are required.     </td>
+</tr>
+<tr>
+<td> NA – Not available/reported</td>
+</tr>
+</tbody>
+</table>

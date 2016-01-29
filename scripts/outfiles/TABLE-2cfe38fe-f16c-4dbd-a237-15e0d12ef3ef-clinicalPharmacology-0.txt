@@ -1,0 +1,170 @@
+<table border="0" id="id_8df62ea4-6c89-4b6d-88ab-f0cddb0fc1da" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="22.7%"></col>
+<col width="8.6%"></col>
+<col width="10.6%"></col>
+<col width="14%"></col>
+<col width="10.3%"></col>
+<col width="12.9%"></col>
+<col width="20.9%"></col>
+<tbody>
+<tr id="id_9c267d5b-99ec-47e0-8e56-ef0080b77dff">
+<td align="left" stylecode="Botrule Toprule Rrule" valign="middle"> </td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Symptom Score <br/>(Range 0-27)</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Peak Flow Rate <br/>(mL/sec)</content>
+</td>
+</tr>
+<tr id="id_6d10a947-e627-4d39-a433-3d7ea9a01b9f">
+<td align="left" stylecode="Botrule Rrule" valign="middle"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">N</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Mean Baseline</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">Mean Change</content>
+</paragraph>
+<content stylecode="bold">(%)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">N</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Mean Baseline</content>
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">Mean Change</content>
+</paragraph>
+<content stylecode="bold">(%)</content>
+</td>
+</tr>
+<tr id="id_dbd08b8d-5d71-4134-8ddf-afd40df04c55">
+<td align="left" colspan="7" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Study 1 (10 mg)</content>
+<footnote id="id-bbf414f4-47fb-4b3c-8d0b-c1345a7fa596">Highest dose 10mg shown.</footnote>
+</td>
+</tr>
+<tr id="id_a48b5a1e-87d4-45ba-a098-bbe0be7b58b4">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Titration to fixed dose (12 wks)</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule" valign="middle"></td>
+</tr>
+<tr id="id_2a62fd27-6b1b-4c79-89c1-bfbf65bb8738">
+<td align="left" stylecode="Botrule Rrule" valign="middle">    Placebo</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">55</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">9.7</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>-2.3</paragraph> (24)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">54</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">10.1</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<paragraph>+1.0</paragraph> (10)</td>
+</tr>
+<tr id="id_176ad61b-fe23-42d9-a3e8-98de1e3df79b">
+<td align="left" stylecode="Botrule Rrule" valign="middle">    Terazosin</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">54</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">10.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>-4.5</paragraph> (45)<footnote id="id-3dad9bda-1e5c-466a-af7d-a9e9e69a12a7">Significantly (p ≤.05) more improvement than placebo.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">52</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8.8</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<paragraph>+3.0</paragraph> (34)<footnoteref idref="id-3dad9bda-1e5c-466a-af7d-a9e9e69a12a7"></footnoteref>
+</td>
+</tr>
+<tr id="id_0ad6ba97-b186-49a9-bb85-7c0c18388fbf">
+<td align="left" colspan="7" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Study 2 (2, 5, 10, 20 mg)</content>
+<footnote id="id-42451969-1b80-4805-b5fe-dbbb394e29f7">23% of patients on 10mg, 41% of patients on 20 mg.</footnote>
+</td>
+</tr>
+<tr id="id_a5dc4369-d164-4c6c-9882-ac6d89aa13ce">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Titration to response (24 wks)</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule" valign="middle"></td>
+</tr>
+<tr id="id_242bb81f-0038-442b-87b3-3ec4a5dbd27a">
+<td align="left" stylecode="Botrule Rrule" valign="middle">    Placebo</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">89</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">12.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>-3.8</paragraph> (30)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">88</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8.8</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<paragraph>+1.4</paragraph> (16)</td>
+</tr>
+<tr id="id_8702cbb1-5f3f-40a9-83d9-1f1658789855">
+<td align="left" stylecode="Botrule Rrule" valign="middle">    Terazosin</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">85</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">12.2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>-5.3</paragraph> (43)<footnoteref idref="id-3dad9bda-1e5c-466a-af7d-a9e9e69a12a7"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">84</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8.4</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<paragraph>+2.9</paragraph> (35)<footnoteref idref="id-3dad9bda-1e5c-466a-af7d-a9e9e69a12a7"></footnoteref>
+</td>
+</tr>
+<tr id="id_af0c5324-d3b8-4f3f-abd9-86ee3c1cf5ce">
+<td align="left" colspan="7" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Study 3 (1, 2, 5, 10 mg)</content>
+<footnote id="id-8e3433b1-480e-4de0-abcf-a7facab81467">67% of patients on 10mg.</footnote>
+</td>
+</tr>
+<tr id="id_166bcf2b-865a-4903-b0db-94c2939dcc75">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Titration to response (24 wks)</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule" valign="middle"></td>
+</tr>
+<tr id="id_bee5b171-44b3-481b-82b7-2a87f96a4cda">
+<td align="left" stylecode="Botrule Rrule" valign="middle">    Placebo</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">74</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">10.4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>-1.1</paragraph> (11)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">74</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8.8</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<paragraph>+1.2</paragraph> (14)</td>
+</tr>
+<tr id="id_1a9dbfaf-9747-4be0-90a4-6c7a9692e60d">
+<td align="left" stylecode="Botrule Rrule" valign="middle">    Terazosin</td>
+<td align="center" stylecode="Rrule" valign="middle">73</td>
+<td align="center" stylecode="Rrule" valign="middle">10.9</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>-4.6</paragraph> (42)<footnoteref idref="id-3dad9bda-1e5c-466a-af7d-a9e9e69a12a7"></footnoteref>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">73</td>
+<td align="center" stylecode="Rrule" valign="middle">8.6</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<paragraph>+2.6</paragraph> (30)<footnoteref idref="id-3dad9bda-1e5c-466a-af7d-a9e9e69a12a7"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

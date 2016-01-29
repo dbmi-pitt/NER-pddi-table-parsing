@@ -1,0 +1,47 @@
+<table id="id_df10904c-c8d8-4477-a689-e32240c8e6e4" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_b120c872-fd92-47b5-9ab9-b67f62a08f2f">Table 3. Mean QT and QTc changes in msec (95% CI) from baseline at T<sub>max</sub> (relative to placebo) with different methodologies to correct for effect of heart rate.</caption>
+<col align="left" width="20%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+<thead>
+<tr id="id_6f258c8e-0a69-49c0-851d-71610648c84e" stylecode="Botrule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">Drug/Dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">QT</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Fridericia method</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Population-specific method</td>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Subject-specific method</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_3b9eea37-95ed-4bac-ac14-6b73250f72d0" stylecode="Toprule">
+<td align="left" stylecode="Lrule" valign="top">
+<content stylecode="bold">Alfuzosin<br/>10 mg</content>
+</td>
+<td align="left" stylecode="Toprule" valign="top">-5.8<br/>(-10.2, -1.4)</td>
+<td align="left" stylecode="Toprule" valign="top">4.9<br/>(0.9, 8.8)</td>
+<td align="left" stylecode="Toprule" valign="top">1.8<br/>(-1.4, 5.0)</td>
+<td align="left" stylecode="Rrule" valign="top">1.8<br/>(-1.3, 5.0)</td>
+</tr>
+<tr id="id_17973d8f-259b-4693-b097-68b573a73c52">
+<td align="left" stylecode="Lrule" valign="top">
+<content stylecode="bold">Alfuzosin<br/>40 mg</content>
+</td>
+<td align="left" valign="top">-4.2<br/>(-8.5, 0.2)</td>
+<td align="left" valign="top">7.7<br/>(1.9, 13.5)</td>
+<td align="left" valign="top">4.2<br/>(-0.6, 9.0)</td>
+<td align="left" stylecode="Rrule" valign="top">4.3<br/>(-0.5, 9.2)</td>
+</tr>
+<tr id="id_77d74486-a86e-46dd-abd9-dff66f596223" stylecode="Botrule">
+<td align="left" stylecode="Lrule" valign="top">
+<content stylecode="bold">Moxifloxacin<br/>
+<footnote id="id-baeefa48-bb9e-4522-be21-797d1675106d">Active control</footnote> 400 mg</content>
+</td>
+<td align="left" valign="top">6.9<br/>(2.3, 11.5)</td>
+<td align="left" valign="top">12.7<br/>(8.6, 16.8)</td>
+<td align="left" valign="top">11.0<br/>(7.0, 15.0)</td>
+<td align="left" stylecode="Rrule" valign="top">11.1<br/>(7.2, 15.0)</td>
+</tr>
+</tbody>
+</table>

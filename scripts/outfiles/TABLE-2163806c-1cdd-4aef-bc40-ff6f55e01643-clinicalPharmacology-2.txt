@@ -1,0 +1,76 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>AZITHROMYCIN CONCENTRATIONS FOLLOWING A 500 mg DOSE (TWO 250 mg CAPSULES) IN ADULTS<footnote>Azithromycin tissue concentrations were originally determined using 250 mg capsules.</footnote>
+</caption>
+<col align="left" width="20%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule" valign="top">TISSUE OR FLUID</th>
+<th stylecode="Lrule" valign="top"> TIME AFTER DOSE (h)</th>
+<th stylecode="Lrule">TISSUE OR FLUID CONCENTRATION<br/>(µg/g or µg/mL)</th>
+<th stylecode="Lrule" valign="top">CORRESPONDING PLASMA OR SERUM LEVEL (µg/mL)</th>
+<th stylecode="Lrule Rrule" valign="top">
+<content stylecode="underline">TISSUE (FLUID)</content>
+<br/> PLASMA (SERUM) RATIO</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">SKIN</td>
+<td stylecode="Lrule">72–96</td>
+<td stylecode="Lrule">0.4</td>
+<td stylecode="Lrule">0.012</td>
+<td stylecode="Lrule Rrule">35</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">LUNG</td>
+<td stylecode="Lrule">72–96</td>
+<td stylecode="Lrule">4.0</td>
+<td stylecode="Lrule">0.012</td>
+<td stylecode="Lrule Rrule">&gt;100</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">SPUTUM<footnote>Sample was obtained 2–4 hours after the first dose.</footnote>
+</td>
+<td stylecode="Lrule">2–4</td>
+<td stylecode="Lrule">1.0</td>
+<td stylecode="Lrule">0.64</td>
+<td stylecode="Lrule Rrule">      2</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">SPUTUM<footnote>Sample was obtained 10–12 hours after the first dose.</footnote>
+</td>
+<td stylecode="Lrule">10–12</td>
+<td stylecode="Lrule">2.9</td>
+<td stylecode="Lrule">0.1</td>
+<td stylecode="Lrule Rrule">    30</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">TONSIL<footnote id="Footnote2">Dosing regimen of two doses of 250 mg each, separated by 12 hours.</footnote>
+</td>
+<td stylecode="Lrule">9–18</td>
+<td stylecode="Lrule">4.5</td>
+<td stylecode="Lrule">0.03</td>
+<td stylecode="Lrule Rrule">&gt;100</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">TONSIL<footnoteref idref="Footnote2"></footnoteref>
+</td>
+<td stylecode="Lrule">180</td>
+<td stylecode="Lrule">0.9</td>
+<td stylecode="Lrule">0.006</td>
+<td stylecode="Lrule Rrule">&gt;100</td>
+</tr>
+<tr>
+<td stylecode="Lrule">CERVIX<footnote>Sample was obtained 19 hours after a single 500 mg dose.</footnote>
+</td>
+<td stylecode="Lrule">19</td>
+<td stylecode="Lrule">2.8</td>
+<td stylecode="Lrule">0.04</td>
+<td stylecode="Lrule Rrule">    70</td>
+</tr>
+</tbody>
+</table>

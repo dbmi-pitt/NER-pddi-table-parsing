@@ -1,0 +1,46 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td align="center" valign="top">           </td>
+<td align="right" valign="top"> Zone </td>
+<td valign="top"> Diameter</td>
+<td valign="top"> (mm)</td>
+<td align="center" valign="top">           </td>
+<td align="center" colspan="2" valign="top"> Interpretation</td>
+<td align="center" valign="top">           </td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" valign="top"> </td>
+<td align="center" colspan="3" valign="top"> <content stylecode="underline">&gt;</content>15</td>
+<td align="center" valign="top"> </td>
+<td align="right" valign="top"> (S)</td>
+<td valign="top"> Susceptible</td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr>
+<td align="center" valign="top"> </td>
+<td align="center" colspan="3" valign="top"> 13-14</td>
+<td align="center" valign="top"> </td>
+<td align="right" valign="top"> (I) </td>
+<td valign="top"> Intermediate</td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr>
+<td align="center" valign="top"> </td>
+<td align="center" colspan="3" valign="top"> <content stylecode="underline">&lt;</content>12</td>
+<td align="center" valign="top"> </td>
+<td align="right" valign="top"> (R)</td>
+<td valign="top"> Resistant</td>
+<td align="center" valign="top"> </td>
+</tr>
+</tbody>
+</table>

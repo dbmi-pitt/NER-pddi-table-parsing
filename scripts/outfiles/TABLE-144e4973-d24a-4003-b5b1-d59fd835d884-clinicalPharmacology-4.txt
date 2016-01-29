@@ -1,0 +1,51 @@
+<table id="id_1bbade50-a42b-42b3-b13f-81121805ced7" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_cf87c291-0453-4d47-9c7c-95d0ae9ab405">For testing Streptococcus spp. including Streptococcus pneumoniae<sup>a</sup>
+</caption>
+<col width="44%"></col>
+<col width="56%"></col>
+<tfoot id="id_955dfcb5-0e9b-43ae-9665-303d6c134ba8">
+<tr>
+<td align="left" colspan="2" stylecode="Lrule Botrule" valign="top">
+<paragraph>a These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller- Hinton broth with 2-5% lysed horse blood.<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_5eb99e2d-0db5-4077-8384-3ff9195bff7d">
+<td align="center" stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">MIC </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mcg</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">mL</content>
+<content stylecode="bold">)</content>
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr id="id_89b44e33-7558-46d9-93fa-ddd64051bcba">
+<td align="center" valign="top">≤ 0.25<br/>
+</td>
+<td align="center" valign="top">Susceptible (S)<br/>
+</td>
+</tr>
+<tr id="id_3c0d6453-c2db-4ac9-a328-7755cc1d1a4c">
+<td align="center" valign="top">0.5<br/>
+</td>
+<td align="center" valign="top">Intermediate (I)<br/>
+</td>
+</tr>
+<tr id="id_709cefad-89ae-4f07-af43-f4e20eb3639f">
+<td align="center" stylecode="Botrule" valign="top">≥ 1.0<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">Resistant (R)<br/>
+</td>
+</tr>
+</tbody>
+</table>

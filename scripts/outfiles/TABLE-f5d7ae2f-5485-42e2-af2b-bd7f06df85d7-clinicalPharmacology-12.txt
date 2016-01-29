@@ -1,0 +1,26 @@
+<table id="id_0aa1b5df-fb1c-4177-9ed0-35af21fc6e04" width="432" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<tbody>
+<tr id="id_7f781a92-b44a-418c-becc-f3f82a54a84a" stylecode="Toprule">
+<td align="center" valign="top">Zone diameter (mm)</td>
+<td align="center" valign="top">Interpretation</td>
+</tr>
+<tr id="id_1f63b87b-a93d-4d50-9900-63bf8fc02546">
+<td align="center" valign="top">
+<content stylecode="underline">&gt;</content> 27</td>
+<td align="center" valign="top">(S) Susceptible</td>
+</tr>
+<tr id="id_52a8f8df-ae25-44cb-9c58-5308c5f07855">
+<td align="center" valign="top">25-26</td>
+<td align="center" valign="top">(I) Intermediate</td>
+</tr>
+<tr id="id_555bd54c-3183-4b9d-9c5e-46a919175972" stylecode="Botrule">
+<td align="center" valign="top">
+<content stylecode="underline">&lt;</content> 24</td>
+<td align="center" valign="top">
+<paragraph>(R) Resistant</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

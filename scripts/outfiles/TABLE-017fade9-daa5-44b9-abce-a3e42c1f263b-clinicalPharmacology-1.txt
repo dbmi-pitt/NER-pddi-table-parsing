@@ -1,0 +1,28 @@
+<table id="id_b717778e-7c57-4e91-b415-6564ff69e0fd" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_5f95fd76-93c8-4a81-877c-9948f71f8795">Table 2. Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of Digoxin</caption>
+<col align="left" width="34%"></col>
+<col align="center" width="33%"></col>
+<col align="center" width="33%"></col>
+<thead>
+<tr id="id_3d212555-d240-414e-a0a8-ac90dd2b76d7" stylecode="Botrule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">Product</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Time to Onset of Effect<footnote id="id-f287c110-d483-4db5-bcc6-803dbcadd933">Documented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes.</footnote>
+</td>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Time to Peak Effect<footnoteref idref="id-f287c110-d483-4db5-bcc6-803dbcadd933"></footnoteref>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_b7bd0d8b-662c-4933-9944-37947284aa00" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Digoxin Tablets</td>
+<td align="left" stylecode="Rrule" valign="top">0.5 to 2 hours</td>
+<td align="left" stylecode="Rrule" valign="top">2 to 6 hours</td>
+</tr>
+<tr id="id_1880c8c6-7346-4915-96b0-3595b1ff3c88" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Digoxin Injection/IV</td>
+<td align="left" stylecode="Rrule" valign="top">5 to 30 minutes<footnote id="id-69f78e8e-f9b7-45fe-b359-f537914e279b">Depending upon rate of infusion.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">1 to 4 hours</td>
+</tr>
+</tbody>
+</table>

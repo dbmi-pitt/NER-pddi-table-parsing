@@ -1,0 +1,55 @@
+<table id="t1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients</caption>
+<col align="left" width="29.300%"></col>
+<col align="left" width="21.780%"></col>
+<col align="left" width="17.780%"></col>
+<col align="left" width="10.760%"></col>
+<col align="left" width="20.380%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="5" stylecode="Toprule Rrule Lrule" valign="top">
+<paragraph stylecode="footnote">
+<sup>1</sup> 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism;</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="5" stylecode="Botrule Rrule Lrule" valign="top">
+<paragraph stylecode="footnote">
+<sup>2</sup> Includes TBG, TBPA, and TBA</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Toprule Lrule Rrule" valign="top">Hormone</td>
+<td align="center" stylecode="Toprule Rrule" valign="top">Ratio in <br/>Thyroglobulin</td>
+<td align="center" stylecode="Toprule Rrule" valign="top">Biologic <br/>Potency</td>
+<td align="center" stylecode="Toprule Rrule" valign="top">t<sub>1/2</sub>
+<br/>(days)</td>
+<td align="center" stylecode="Toprule Rrule" valign="top">Protein <br/>Binding (%)<sup>2</sup>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">Levothyroxine (T<sub>4</sub>)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">10 - 20</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6-7<sup>1</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">99.96</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">Liothyronine (T<sub>3</sub>)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">99.5</td>
+</tr>
+</tbody>
+</table>

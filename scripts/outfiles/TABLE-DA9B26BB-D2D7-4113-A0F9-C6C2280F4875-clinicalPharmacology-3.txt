@@ -1,0 +1,9 @@
+<table width="50%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><col align="center"></col>
+<col align="center"></col>
+<thead>
+<tr><th><content stylecode="underline">MIC (µg/mL)</content></th><th><content stylecode="underline">Interpretation<footnote>The current absence of data on resistant strains precludes defining any results other than "Susceptible". Strains yielding MIC results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing.</footnote></content></th></tr>
+</thead>
+<tbody>
+<tr><td>≤1.0</td><td>Susceptible (S)</td></tr>
+</tbody>
+</table>

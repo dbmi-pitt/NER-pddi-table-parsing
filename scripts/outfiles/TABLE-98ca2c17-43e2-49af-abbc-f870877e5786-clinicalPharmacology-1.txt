@@ -1,0 +1,24 @@
+<table id="table2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>Table 2: Cardiovascular Dose Response During Opioid/Nitrous Oxide/Oxygen Anesthesia</caption>
+<col align="left" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="16%"></col>
+<col align="center" valign="bottom" width="16%"></col>
+<col align="center" valign="bottom" width="16%"></col>
+<col align="center" valign="bottom" width="16%"></col>
+<col align="center" valign="bottom" width="16%"></col>
+<thead>
+<tr><th colspan="2" rowspan="3" stylecode="Lrule">Initial Dose of Mivacurium<footnote>Doses administered over 5 to 15 seconds.</footnote><br/>  (mg/kg)</th><th colspan="4" stylecode="Rrule Botrule">% of Patients With ≥30% Change</th></tr>
+<tr stylecode="Botrule"><th align="center" colspan="2">MAP</th><th colspan="2" stylecode="Rrule">HR</th></tr>
+<tr><th align="center">Dec</th><th>Inc</th><th>Dec</th><th stylecode="Rrule">Inc</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="6" stylecode="Lrule Rrule"><content stylecode="bold">Adults</content></td></tr>
+<tr><td stylecode="Lrule">0.07 to 0.10</td><td>[n=49]</td><td>  0%</td><td>2%</td><td>0%</td><td stylecode="Rrule">  0%</td></tr>
+<tr><td stylecode="Lrule">0.15</td><td>[n=53]</td><td>  4%</td><td>4%</td><td>4%</td><td stylecode="Rrule">  2%</td></tr>
+<tr><td stylecode="Lrule">0.20<footnote id="t2ft2">Rapid administration not recommended due to possibility of decreased blood pressure. Administer 0.20 mg/kg over 30 seconds; administer 0.25 mg/kg as divided dose (0.15 mg/kg followed 30 seconds later by 0.10 mg/kg). (See <linkhtml href="#DA">DOSAGE AND ADMINISTRATION</linkhtml>).</footnote></td><td>[n=53]</td><td>30%</td><td>0%</td><td>0%</td><td stylecode="Rrule">  8%</td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule">0.25<footnoteref idref="t2ft2"></footnoteref></td><td>[n=44]</td><td>39%</td><td>2%</td><td>0%</td><td stylecode="Rrule">14%</td></tr>
+<tr><td colspan="6" stylecode="Lrule Rrule"><content stylecode="bold">Children 2 to 12 years</content></td></tr>
+<tr><td stylecode="Lrule">0.11 to 0.12</td><td>[n=17]</td><td>  0%</td><td>6%</td><td>0%</td><td stylecode="Rrule">0%</td></tr>
+<tr><td stylecode="Lrule">0.20</td><td>[n=17]</td><td>  0%</td><td>0%</td><td>0%</td><td stylecode="Rrule">0%</td></tr>
+<tr><td stylecode="Lrule">0.25</td><td>[n=8]  </td><td>13%</td><td>0%</td><td>0%</td><td stylecode="Rrule">0%</td></tr>
+</tbody>
+</table>

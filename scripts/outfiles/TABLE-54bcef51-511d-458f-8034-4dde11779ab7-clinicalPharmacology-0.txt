@@ -1,0 +1,161 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 3. Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th align="center" stylecode="    Lrule          Rrule     " valign="top"> Co-administered drug and dosing regimen</th>
+<th align="center" colspan="3" stylecode="     Rrule     " valign="top"> Atorvastatin</th>
+</tr>
+<tr>
+<th stylecode="    Lrule          Rrule     " valign="top"></th>
+<th stylecode="     Rrule     " valign="top"> Dose (mg)</th>
+<th stylecode="     Rrule     " valign="top"> Change  in AUC<footnote id="FOOT_4957">Data given as x-fold change represent a simple ratio between co-administration and atorvastatin alone (i.e., 1-fold = no change). Data given as % change represent % difference relative to atorvastatin alone (i.e., 0% = no change).</footnote>
+</th>
+<th stylecode="     Rrule     " valign="top"> Change in Cmax<footnoteref idref="FOOT_4957"></footnoteref>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnote id="FOOT_4958">See<linkhtml href="#LINK_142e9d6f-4c3f-4365-996a-856ef8789eff"> Sections 5.1 </linkhtml>and<linkhtml href="#LINK_c97f62b8-488d-4abb-8217-d1256e740c45"> 7 </linkhtml>for clinical significance.</footnote>Cyclosporine 5.2 mg/kg/day, stable dose</td>
+<td stylecode="     Rrule     " valign="top"> 10 mg QD for 28 days</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 8.7 fold</td>
+<td stylecode="     Rrule     " valign="top"> ↑10.7 fold</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days</td>
+<td stylecode="     Rrule     " valign="top"> 10 mg, SD</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 9.4 fold</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 8.6 fold</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Telaprevir 750 mg q8h, 10 days</td>
+<td stylecode="     Rrule     " valign="top"> 20 mg, SD</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 7.88 fold</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 10.6 fold</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>
+<sup>,</sup>
+<footnote id="FOOT_4959">The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used.</footnote>Saquinavir 400 mg BID/ritonavir 400 mg BID, 15 days</td>
+<td stylecode="     Rrule     " valign="top"> 40 mg QD for 4 days</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 3.9 fold</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 4.3 fold</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Clarithromycin 500 mg BID, 9 days</td>
+<td stylecode="     Rrule     " valign="top"> 80 mg QD for 8 days</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 4.4 fold</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 5.4 fold</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Darunavir 300 mg BID/ritonavir 100 mg BID, 9 days</td>
+<td stylecode="     Rrule     " valign="top"> 10 mg QD for 4 days</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 3.4 fold</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 2.25 fold</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Itraconazole 200 mg QD, 4 days</td>
+<td stylecode="     Rrule     " valign="top"> 40 mg SD</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 3.3 fold</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 20% </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days</td>
+<td stylecode="     Rrule     " valign="top"> 10 mg QD for 4 days</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 2.53 fold</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 2.84 fold</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Fosamprenavir 1400 mg BID, 14 days</td>
+<td stylecode="     Rrule     " valign="top"> 10 mg QD for 4 days</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 2.3 fold</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 4.04 fold</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Nelfinavir 1250 mg BID, 14 days</td>
+<td stylecode="     Rrule     " valign="top"> 10 mg QD for 28 days</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 74%</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 2.2 fold</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Grapefruit Juice, 240 mL QD <footnote id="FOOT_4960">Greater increases in AUC (up to 2.5 fold) and/or Cmax (up to 71%) have been reported with excessive grapefruit consumption (≥ 750 mL – 1.2 liters per day).</footnote>
+</td>
+<td stylecode="     Rrule     " valign="top"> 40 mg, SD</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 37%</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 16%</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Diltiazem 240 mg QD, 28 days</td>
+<td stylecode="     Rrule     " valign="top"> 40 mg, SD</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 51%</td>
+<td stylecode="     Rrule     " valign="top"> No change</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Erythromycin 500 mg QID, 7 days</td>
+<td stylecode="     Rrule     " valign="top"> 10 mg, SD</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 33%</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 38%</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Amlodipine 10 mg, single dose</td>
+<td stylecode="     Rrule     " valign="top"> 80 mg, SD</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 15%</td>
+<td stylecode="     Rrule     " valign="top"> ↓ 12 %</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Cimetidine 300 mg QD, 4 weeks</td>
+<td stylecode="     Rrule     " valign="top"> 10 mg QD for 2 weeks</td>
+<td stylecode="     Rrule     " valign="top"> ↓ Less than 1%</td>
+<td stylecode="     Rrule     " valign="top"> ↓ 11%</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Colestipol 10 mg BID, 28 weeks</td>
+<td stylecode="     Rrule     " valign="top"> 40 mg QD for 28 weeks</td>
+<td stylecode="     Rrule     " valign="top"> Not determined</td>
+<td stylecode="     Rrule     " valign="top"> ↓ 26%<footnote id="FOOT_4961">Single sample taken 8–16 h post dose.</footnote>
+</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Maalox TC® 30 mL QD, 17 days</td>
+<td stylecode="     Rrule     " valign="top"> 10 mg QD for 15 days</td>
+<td stylecode="     Rrule     " valign="top"> ↓ 33%</td>
+<td stylecode="     Rrule     " valign="top"> ↓ 34%</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Efavirenz 600 mg QD, 14 days</td>
+<td stylecode="     Rrule     " valign="top"> 10 mg for 3 days</td>
+<td stylecode="     Rrule     " valign="top"> ↓ 41%</td>
+<td stylecode="     Rrule     " valign="top"> ↓ 1%</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Rifampin 600 mg QD, 7 days (co-administered) <footnote id="FOOT_4962">Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.</footnote>
+</td>
+<td stylecode="     Rrule     " valign="top"> 40 mg SD</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 30%</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 2.7 fold</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Rifampin 600 mg QD, 5 days (doses separated) <footnoteref idref="FOOT_4962"></footnoteref>
+</td>
+<td stylecode="     Rrule     " valign="top"> 40 mg SD</td>
+<td stylecode="     Rrule     " valign="top"> ↓ 80%</td>
+<td stylecode="     Rrule     " valign="top"> ↓ 40%</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Gemfibrozil 600mg BID, 7 days</td>
+<td stylecode="     Rrule     " valign="top"> 40mg SD </td>
+<td stylecode="     Rrule     " valign="top"> ↑ 35%</td>
+<td stylecode="     Rrule     " valign="top"> ↓ Less than 1%</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <footnoteref idref="FOOT_4958"></footnoteref>Fenofibrate 160mg QD, 7 days</td>
+<td stylecode="     Rrule     " valign="top"> 40mg SD</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 3%</td>
+<td stylecode="     Rrule     " valign="top"> ↑ 2%</td>
+</tr>
+</tbody>
+</table>

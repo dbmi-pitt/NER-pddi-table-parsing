@@ -1,0 +1,41 @@
+<table id="t6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6 Clinically Important Drug Interactions</caption>
+<colgroup>
+<col width="163"></col>
+<col width="155"></col>
+<col width="152"></col>
+</colgroup>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Concomitant Drug Name or Drug Class</content>
+</td>
+<td stylecode="Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Clinical Rationale</content>
+</td>
+<td stylecode="Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Clinical Recommendation</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule" valign="top">Tricyclic antidepressants</td>
+<td stylecode="Lrule Rrule Toprule" valign="top">Increase blood pressure and may counteract clonidine’s hypotensive effects</td>
+<td stylecode="Lrule Rrule Toprule" valign="top">Monitor blood pressure and adjust as needed</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule" valign="top">Antihypertensive drugs</td>
+<td stylecode="Lrule Rrule Toprule" valign="top">Potentiate clonidine’s hypotensive effects</td>
+<td stylecode="Lrule Rrule Toprule" valign="top">Monitor blood pressure and adjust as needed</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule" valign="top">CNS depressants</td>
+<td stylecode="Lrule Rrule Toprule" valign="top">Potentiate sedating effects</td>
+<td stylecode="Lrule Rrule Toprule" valign="top">Avoid use</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule" valign="top">Drugs that affect sinus node function or AV node conduction (e.g., digitalis, calcium channel blockers, beta blockers)</td>
+<td stylecode="Lrule Rrule Toprule" valign="top">Potentiate bradycardia and risk of AV block</td>
+<td stylecode="Lrule Rrule Toprule" valign="top">Avoid use</td>
+</tr>
+</tbody>
+</table>

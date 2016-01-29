@@ -1,0 +1,73 @@
+<table id="table4" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 4 AUC ACIDITY (MMOL∙HR/L) ACIPHEX VERSUS PLACEBO ON DAY 7 OF ONCE DAILY DOSING (MEAN±SD)</caption>
+<col align="left" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th align="center" colspan="4" stylecode="Rrule">Treatment</th>
+</tr>
+<tr>
+<th align="center" stylecode="Lrule Rrule">AUC interval<br/>(hrs)</th>
+<th stylecode="Rrule Toprule">10 mg RBP<br/>(N=24)</th>
+<th stylecode="Rrule Toprule">20 mg RBP<br/>(N=24)</th>
+<th stylecode="Rrule Toprule">40 mg RBP<br/>(N=24)</th>
+<th stylecode="Rrule Toprule">Placebo<br/>(N=24)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">08:00 – 13:00</td>
+<td stylecode="Rrule">19.6±21.5<footnote id="tb4ft">(p&lt;0.001 versus placebo)</footnote>
+</td>
+<td stylecode="Rrule">12.9±23<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">7.6±14.7<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">91.1±39.7</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">13:00 – 19:00</td>
+<td stylecode="Rrule">5.6±9.7<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">8.3±29.8<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">1.3±5.2<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">95.5±48.7</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">19:00 – 22:00</td>
+<td stylecode="Rrule">0.1±0.1<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">0.1±0.06<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">0.0±0.02<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">11.9±12.5</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">22:00 – 08:00</td>
+<td stylecode="Rrule">129.2±84<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">109.6±67.2<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">76.9±58.4<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">479.9±165</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">AUC 0-24 hours</td>
+<td stylecode="Rrule">155.5±90.6<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">130.9±81<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">85.8±64.3<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">678.5±216</td>
+</tr>
+</tbody>
+</table>

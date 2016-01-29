@@ -1,0 +1,184 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="17%"></col>
+<col span="1" width="44%"></col>
+<col span="1" width="5%"></col>
+<col span="1" width="13%"></col>
+<col span="1" width="5%"></col>
+<col span="1" width="14%"></col>
+<col span="1" width="5%"></col>
+<col span="1" width="13%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>Weight</paragraph>
+</td>
+<td>
+<paragraph>Recommended Dosage Regimen</paragraph>
+</td>
+<td>
+<paragraph>C<sub>max</sub>
+</paragraph>
+</td>
+<td>
+<paragraph>AUC<sub>24</sub>
+</paragraph>
+</td>
+<td>
+<paragraph>C<sub>min</sub>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>n</paragraph>
+</td>
+<td>
+<paragraph>(mcg/mL)</paragraph>
+</td>
+<td>
+<paragraph>n</paragraph>
+</td>
+<td>
+<paragraph>(mcg•hr/mL)</paragraph>
+</td>
+<td>
+<paragraph>n</paragraph>
+</td>
+<td>
+<paragraph>(mcg/mL)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>&lt;11 kg</paragraph>
+</td>
+<td>
+<paragraph>LEXIVA 45 mg/kg plus</paragraph>
+<paragraph>Ritonavir 7 mg/kg b.i.d</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>6.00</paragraph>
+<paragraph>(3.88, 9.29)</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>57.3</paragraph>
+<paragraph>(34.1, 96.2)</paragraph>
+</td>
+<td>
+<paragraph>27</paragraph>
+</td>
+<td>
+<paragraph>1.65</paragraph>
+<paragraph>(1.22, 2.24)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>11 kg - &lt;15 kg</paragraph>
+</td>
+<td>
+<paragraph>LEXIVA 30 mg/kg plus</paragraph>
+<paragraph>Ritonavir 3 mg/kg b.i.d</paragraph>
+</td>
+<td>
+<paragraph>Not studied<sup>a</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>15 kg - &lt;20 kg</paragraph>
+</td>
+<td>
+<paragraph>LEXIVA 23 mg/kg plus</paragraph>
+<paragraph>Ritonavir 3 mg/kg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>5</paragraph>
+</td>
+<td>
+<paragraph>9.54</paragraph>
+<paragraph>(4.63, 19.7)</paragraph>
+</td>
+<td>
+<paragraph>5</paragraph>
+</td>
+<td>
+<paragraph>121</paragraph>
+<paragraph>(54.2, 269)</paragraph>
+</td>
+<td>
+<paragraph>9</paragraph>
+</td>
+<td>
+<paragraph>3.56</paragraph>
+<paragraph>(2.33, 5.43)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>&gt;20 kg - &lt;39 kg</paragraph>
+</td>
+<td>
+<paragraph>LEXIVA 18 mg/kg plus</paragraph>
+<paragraph>Ritonavir 3 mg/kg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>13</paragraph>
+</td>
+<td>
+<paragraph>6.24</paragraph>
+<paragraph>(5.01, 7.77)</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>97.9</paragraph>
+<paragraph>(77.0, 124)</paragraph>
+</td>
+<td>
+<paragraph>23</paragraph>
+</td>
+<td>
+<paragraph>2.54</paragraph>
+<paragraph>(2.11, 3.06)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>≥39 kg</paragraph>
+</td>
+<td>
+<paragraph>LEXIVA 700 mg plus Ritonavir 100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>15</paragraph>
+</td>
+<td>
+<paragraph>5.03</paragraph>
+<paragraph>(4.04, 6.26)</paragraph>
+</td>
+<td>
+<paragraph>15</paragraph>
+</td>
+<td>
+<paragraph>72.3</paragraph>
+<paragraph>(59.6, 87.6)</paragraph>
+</td>
+<td>
+<paragraph>42</paragraph>
+</td>
+<td>
+<paragraph>1.98</paragraph>
+<paragraph>(1.72, 2.29)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

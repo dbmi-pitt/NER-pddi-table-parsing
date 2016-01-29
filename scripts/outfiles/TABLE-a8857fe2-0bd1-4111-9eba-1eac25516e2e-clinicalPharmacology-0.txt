@@ -1,0 +1,38 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Plasma Pharmacokinetic Summary</caption>
+<col align="left" valign="middle" width="30%"></col>
+<col align="center" valign="middle" width="30%"></col>
+<col align="center" valign="middle" width="40%"></col>
+<thead>
+<tr>
+<th>PK Parameter</th>
+<th>Fluorouracil Cream 0.5%<br/>n=1</th>
+<th>Efudex (Mean ± SD)<br/>n=6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</td>
+<td>0.77 ng/mL</td>
+<td>11.49 ± 8.24 ng/mL</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">T<sub>max</sub>
+</content>
+</td>
+<td>1.00 hr</td>
+<td>1.03 ± 0.028 hr</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">AUC (0–24)</content>
+</td>
+<td>2.80 ng∙hr/mL</td>
+<td>22.39  ± 7.89 ng∙hr/mL</td>
+</tr>
+</tbody>
+</table>

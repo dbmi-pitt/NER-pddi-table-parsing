@@ -1,0 +1,36 @@
+<table border="single" id="id_065e2c5d-8228-4c79-b270-630fa95bfa6f" width="443" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_ec359ce1-3cf8-4b1a-b084-548df818c43a">Table 6:  Predicted Drug Interactions with Didanosine </caption>
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<tfoot id="id_687a13f0-ef0f-48d2-9d1a-324a54021cd6">
+<tr>
+<td align="left" colspan="3" stylecode="Botrule" valign="top">↑ Indicates increase.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_5a1c9a4d-2fdf-43e6-9574-05891ed1f2bc">
+<td align="center" stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">Drug or Drug Class</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Effect</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Clinical Comment</content>
+</td>
+</tr>
+<tr id="id_6fa75f84-210b-4dc6-9cb4-082248284a7f">
+<td align="left" valign="top">Drugs that may cause pancreatic toxicity</td>
+<td align="center" valign="top">↑risk of pancreatitis</td>
+<td align="center" valign="top">Use only with extreme caution.<footnote id="id-64f22304-b641-4b3a-acf0-68baf2ae402b">Only if other drugs are not available and if clearly indicated. If treatment with life-sustaining drugs that cause pancreatic toxicity is required, suspension of didanosine is recommended [<content stylecode="italics">see Warnings and Precautions (<linkhtml href="#i4i_section_id_50f1d673-9b4b-4b01-a7f9-663f43b7ff60">5.1</linkhtml>)</content>]. </footnote>
+</td>
+</tr>
+<tr id="id_a7f27486-5f89-4c1f-92b5-c22971c5f01c">
+<td align="left" stylecode="Botrule" valign="top">Neurotoxic drugs</td>
+<td align="center" stylecode="Botrule" valign="top">↑risk of neuropathy</td>
+<td align="center" stylecode="Botrule" valign="top">Use with caution.<footnote id="id-4284b615-7839-4097-bcf4-c82f9a32cca2">[<content stylecode="italics">See Warnings and Precautions (<linkhtml href="#i4i_section_id_d6743381-ba80-4bf1-ad6e-27a329741240">5.5</linkhtml>).</content>]</footnote>
+</td>
+</tr>
+</tbody>
+</table>

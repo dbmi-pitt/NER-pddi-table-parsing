@@ -1,0 +1,53 @@
+<table id="ia0a1967e-001e-4bc9-874a-4d861936fdf9" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="28%"></col>
+<col width="42%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Susceptibility Test Interpretive Criteria for <content stylecode="italics">Staphylococcus </content>
+</content>
+<content stylecode="bold">
+<content stylecode="italics">aureus</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">MIC (mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>≤ 2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>≥ 8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

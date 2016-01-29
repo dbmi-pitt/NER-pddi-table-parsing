@@ -1,0 +1,65 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td> TISSUE OR FLUID</td>
+<td> TIME AFTER<br/>DOSE (h)</td>
+<td> TISSUE OR FLUID<br/>CONCENTRATION<br/>(mcg/g or mcg/mL)</td>
+<td> CORRESPONDING<br/>PLASMA OR SERUM LEVEL (mcg/mL)</td>
+<td> TISSUE (FLUID)<br/>PLASMA (SERUM) RATIO</td>
+</tr>
+<tr>
+<td> SKIN</td>
+<td> 72-96</td>
+<td> 0.4</td>
+<td> 0.012</td>
+<td> 35</td>
+</tr>
+<tr>
+<td> LUNG</td>
+<td> 72-96</td>
+<td> 4</td>
+<td> 0.012</td>
+<td> &gt;100</td>
+</tr>
+<tr>
+<td> SPUTUM*</td>
+<td> 2-4</td>
+<td> 1</td>
+<td> 0.64</td>
+<td> 2</td>
+</tr>
+<tr>
+<td> SPUTUM**</td>
+<td> 10-12</td>
+<td> 2.9</td>
+<td> 0.1</td>
+<td> 30</td>
+</tr>
+<tr>
+<td> TONSIL***</td>
+<td> 9-18</td>
+<td> 4.5</td>
+<td> 0.03</td>
+<td> &gt;100</td>
+</tr>
+<tr>
+<td> TONSIL***</td>
+<td> 180</td>
+<td> 0.9</td>
+<td> 0.006</td>
+<td> &gt;100</td>
+</tr>
+<tr>
+<td> CERVIX****</td>
+<td> 19</td>
+<td> 2.8</td>
+<td> 0.04</td>
+<td> 70</td>
+</tr>
+</tbody>
+</table>

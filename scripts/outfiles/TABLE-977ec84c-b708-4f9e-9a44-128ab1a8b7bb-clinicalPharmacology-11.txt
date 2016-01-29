@@ -1,0 +1,62 @@
+<table width="50%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th stylecode="     Botrule     ">Microorganism</th>
+<th align="center"></th>
+<th align="center" stylecode="     Botrule     ">MIC (mcg/mL)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> <content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td align="center"> ATCC 29212</td>
+<td align="center"> 8-32</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center"> ATCC 25922</td>
+<td align="center"> 0.5-2</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Haemophilus influenzae</content>
+<footnote id="FOOT_1534">Range applicable only to tests performed by broth microdilution method using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>1,3</sup>
+</footnote>
+</td>
+<td align="center"> ATCC 49247</td>
+<td align="center"> 4-32</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Neisseria gonorrhoeae</content>
+<footnote id="FOOT_1535">Range applicable only to tests performed by agar dilution method using GC agar base with 1% defined growth supplement.<sup>1,3</sup>
+</footnote>
+</td>
+<td align="center"> ATCC 49226</td>
+<td align="center"> 0.25-1</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center"> ATCC 27853</td>
+<td align="center"> 8-32</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center"> ATCC 29213</td>
+<td align="center"> 0.12-1</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Streptococcus pneumoniae</content>
+<footnote id="FOOT_1536">Range applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.<sup>1,3</sup>
+</footnote>
+</td>
+<td align="center"> ATCC 49619</td>
+<td align="center"> 0.12-0.5</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,66 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="29%"></col>
+<col width="14%"></col>
+<col width="14%"></col>
+<tbody>
+<tr>
+<td stylecode="Lrule Toprule " valign="top">
+<paragraph> </paragraph>
+</td>
+<td stylecode="Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">MORNING</content>
+</paragraph>
+</td>
+<td stylecode="Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">EVENING</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule " valign="top">
+<paragraph>AUC (0-24 hrs) (mcg hr/mL)</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>236.0 ± 76.7</paragraph>
+</td>
+<td valign="top">
+<paragraph>256.0 ± 80.4</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule " valign="top">
+<paragraph>C<sub>max</sub> (mcg/mL)</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>14.5 ± 4.1</paragraph>
+</td>
+<td valign="top">
+<paragraph>16.3 ± 4.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule " valign="top">
+<paragraph>C<sub>min</sub> (mcg/mL)</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>5.5 ± 2.9</paragraph>
+</td>
+<td valign="top">
+<paragraph>5.0 ± 2.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>T<sub>max</sub> (hours)</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>8.1 ± 3.7</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>10.1 ± 4.1</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

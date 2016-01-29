@@ -1,0 +1,60 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="73%"></col>
+<col width="27%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Interacting Agents </content>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Prescribing Recommendations </content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Itraconazole, ketoconazole, posaconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, nefazodone, gemfibrozil, cyclosporine, danazol <br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Contraindicated with simvastatin<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Amiodarone, verapamil, diltiazem<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Do not exceed 10 mg simvastatin daily <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Amlodipine, ranolazine<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Do not exceed 20 mg simvastatin daily <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>Grapefruit juice <br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>Avoid large quantities of grapefruit juice (&gt;1 quart daily) <br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

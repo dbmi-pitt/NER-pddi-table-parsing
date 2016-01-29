@@ -1,0 +1,44 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Cimetidine Inhibition of Stimulated Gastric Acid Secretion</caption>
+<col width="27.2%"></col>
+<col width="22.2%"></col>
+<col width="26.3%"></col>
+<col width="24.3%"></col>
+<tbody>
+<tr>
+<td stylecode="     Toprule     " valign="top"> <content stylecode="bold">Stimulant</content>
+</td>
+<td stylecode="     Toprule     " valign="top"> <content stylecode="bold">Stimulant </content>
+<content stylecode="bold">Dose</content>
+</td>
+<td stylecode="     Toprule     " valign="top"> <content stylecode="bold">Cimetidine</content>
+</td>
+<td stylecode="     Toprule     " valign="top"> <content stylecode="bold">% Inhibition</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> Betazole</td>
+<td valign="top"> 1.5 mg/kg (sc)</td>
+<td valign="top"> 300 mg (po)</td>
+<td valign="top"> 85% at 2 ½ hours</td>
+</tr>
+<tr>
+<td valign="top"> Pentagastrin</td>
+<td valign="top"> 6 mcg/kg/hr (iv)</td>
+<td valign="top"> 100 mg/hr (iv)</td>
+<td valign="top"> 60% at 1 hour</td>
+</tr>
+<tr>
+<td valign="top"> Caffeine</td>
+<td valign="top"> 5 mg/kg/hr (iv)</td>
+<td valign="top"> 300 mg (po)</td>
+<td valign="top"> 100% at 1 hour</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="top"> Insulin</td>
+<td stylecode="     Botrule     " valign="top"> 0.03 units/kg/hr (iv)</td>
+<td stylecode="     Botrule     " valign="top"> 100 mg/hr (iv)</td>
+<td stylecode="     Botrule     " valign="top"> 82% at 1 hour</td>
+</tr>
+</tbody>
+</table>

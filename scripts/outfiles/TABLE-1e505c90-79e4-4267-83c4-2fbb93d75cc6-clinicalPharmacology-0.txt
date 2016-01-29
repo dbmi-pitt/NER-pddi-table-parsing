@@ -1,0 +1,49 @@
+<table border="1" id="id_dee62352-51c6-45a2-a24a-e29ef3fb9aaf" width="435.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="49.0%"></col>
+<col width="29.4%"></col>
+<col width="21.6%"></col>
+<tbody>
+<tr id="id_bdd070f4-1677-4ca9-80c0-1a55af6bcaba">
+<td align="left" rowspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="top">Pharmacokinetic Parameters (Mean)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Total n = 12</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr id="id_4527ad1e-a887-4d91-83a0-d724fa226ac9">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="underline">Day</content>
+<content stylecode="underline">1</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="underline">Day</content>
+<content stylecode="underline">5</content>
+</td>
+</tr>
+<tr id="id_fd19e1cd-0acb-4b9a-b1bb-fa9d41b6ecc6">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">C<sub>m</sub>
+<sub>ax </sub>(mcg/mL)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.41</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.24</td>
+</tr>
+<tr id="id_0d9873f1-a61b-4ec0-b205-8cb6062d883d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">T<sub>max</sub> (h)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.2</td>
+</tr>
+<tr id="id_a21c2166-baae-46bd-a191-e9570936342d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">AUC<sub>0-24</sub> (mcg•h/mL)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.6</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.1</td>
+</tr>
+<tr id="id_b0f259ec-cbfb-4359-97d6-ba9f85564e49">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">C<sub>m</sub>
+<sub>in </sub>(mcg/mL)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.05</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.05</td>
+</tr>
+<tr id="id_cf444c86-d65b-4446-ba0f-1e1a579bb8fc">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Urinary Excret. (% dose)</td>
+<td align="center" stylecode="Rrule" valign="middle">4.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6.5</td>
+</tr>
+</tbody>
+</table>

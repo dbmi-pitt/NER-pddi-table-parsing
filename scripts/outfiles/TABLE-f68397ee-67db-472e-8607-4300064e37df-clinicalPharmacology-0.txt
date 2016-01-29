@@ -1,0 +1,43 @@
+<table border="0" cellpadding="0" cellspacing="0" width="border-collapse: collapse" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Susceptibility Test Interpretive Criteria for Metronidazole against Anaerobes*<sup>†</sup>
+</caption>
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">MIC (mcg/mL)</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">≤ 8<content stylecode="bold">
+<content stylecode="underline"></content>
+</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Susceptible (S)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">16<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Intermediate (I)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">≥ 32<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Resistant (R)<br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Lrule Rrule" valign="top">
+<sup>*</sup>Agar dilution method is recommended for all anaerobes <br/>
+<sup>†</sup>Broth dilution method is recommended for testing of <content stylecode="italics">Bacteroides fragilis </content>group only; for this group, MIC values by agar and broth dilution methods are considered equivalent  <br/>
+</td>
+</tr>
+</tbody>
+</table>

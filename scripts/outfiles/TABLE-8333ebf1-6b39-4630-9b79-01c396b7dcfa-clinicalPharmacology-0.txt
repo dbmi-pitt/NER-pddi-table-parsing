@@ -1,0 +1,204 @@
+<table border="1" id="id_2d44c95b-11b4-4231-8ee1-b0600aef1e8e" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_54978b94-ddef-4d8d-b9d9-a92a8bb45967">TABLE 3. Effect of Co-Administered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_134b0c6e-93d9-41db-b941-3ffc7bd48f27" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="bold">Co-Administered Drug or Grapefruit Juice </content>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">Dosing of Co-Administered Drug or Grapefruit Juice </content>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">Dosing of Simvastatin </content>
+</td>
+<td align="left" colspan="3" valign="top">
+<content stylecode="bold">Geometric Mean Ratio </content>
+<content stylecode="bold">(Ratio<footnote id="id-a5986f2e-19ee-4d4a-89a8-794e538385fb">Results based on a chemical assay except results with propranolol as indicated.</footnote>
+</content>
+<content stylecode="bold"> with / without </content>
+<content stylecode="bold">co-administered drug) </content>
+<content stylecode="bold">No Effect = 1.00</content>
+</td>
+</tr>
+<tr id="id_34a1fadd-9610-4e65-a645-afe609f482c3">
+<td align="left" valign="top">
+<content stylecode="bold"></content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold"></content>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top">
+<content stylecode="bold">AUC</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">Cmax</content>
+</td>
+</tr>
+<tr id="id_3e832b0c-d5d9-45d0-98f4-abbba56c848f">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">Contraindicated with simvastatin </content>[see <content stylecode="bold">Contraindication (4)</content>
+<content stylecode="bold">Warnings and Precautions (5.1)</content>]</td>
+</tr>
+<tr id="id_7055b658-78be-4084-8a17-5040ad9c2e16">
+<td align="left" valign="top">Telithromycin<footnote id="id-cd57d3ab-1470-4aca-a73c-f95299dc3243">Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone.</footnote>
+</td>
+<td align="left" valign="top">200 mg QD for 4 days</td>
+<td align="left" valign="top">80 mg</td>
+<td align="left" valign="top">simvastatin acid<footnote id="id-48a0a038-24ea-4a98-aac9-9d5ce0959a8a">Simvastatin acid refers to the β-hydroxyacid of simvastatin.</footnote> simvastatin</td>
+<td align="left" valign="top">128.9</td>
+<td align="left" valign="top">155.3</td>
+</tr>
+<tr id="id_88a09302-5d69-440f-8006-0d980231dbbe">
+<td align="left" valign="top">Nelfinavir<footnoteref idref="id-cd57d3ab-1470-4aca-a73c-f95299dc3243"></footnoteref>
+</td>
+<td align="left" valign="top">1250 mg BID for 14 days</td>
+<td align="left" valign="top">20 mg QD for 28 days</td>
+<td align="left" valign="top">simvastatin acid<footnoteref idref="id-48a0a038-24ea-4a98-aac9-9d5ce0959a8a"></footnoteref> simvastatin</td>
+<td align="left" valign="bottom">6</td>
+<td align="left" valign="bottom">6.2</td>
+</tr>
+<tr id="id_0d991718-e536-4e71-984c-8aa45a173c75">
+<td align="left" valign="top">Itraconazole<footnoteref idref="id-cd57d3ab-1470-4aca-a73c-f95299dc3243"></footnoteref>
+</td>
+<td align="left" valign="top">200 mg QD for 4 days</td>
+<td align="left" valign="top">80 mg</td>
+<td align="left" valign="top">simvastatin acid<footnoteref idref="id-48a0a038-24ea-4a98-aac9-9d5ce0959a8a"></footnoteref>  simvastatin</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top">13.113.1</td>
+</tr>
+<tr id="id_92167500-1ae7-4313-80f4-98631d81511c">
+<td align="left" valign="top">Posaconazole</td>
+<td align="left" valign="top">100 mg (oral suspension) QD for 13 days 200 mg (oral suspension) QD for 13 days </td>
+<td align="left" valign="top">40 mg   40 mg</td>
+<td align="left" valign="top">simvastatin acid simvastatin  simvastatin acid simvastatin</td>
+<td align="left" valign="top">7.310.3  8.510.6 </td>
+<td align="left" valign="top">9.29.4  9.511.4 </td>
+</tr>
+<tr id="id_c0db5dcd-9df3-43e4-8e9e-4d062e3bf560">
+<td align="left" valign="top">Gemfibrozil</td>
+<td align="left" valign="top">600 mg BID for 3 days</td>
+<td align="left" valign="top">40 mg</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">2.851.35</td>
+<td align="left" valign="top">2.180.91</td>
+</tr>
+<tr id="id_728f2a1f-3140-4f0b-958e-4692899f4131">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">Avoid &gt;1 quart of grapefruit juice with simvastatin </content>[see <content stylecode="bold">Warnings and Precautions (5.1)</content>]</td>
+</tr>
+<tr id="id_0ab19c11-2ecf-45e5-bf0e-31812b855312">
+<td align="left" valign="top">Grapefruit Juice<footnote id="id-2eba6672-6be1-4454-953b-3ccb6f49bb39">The effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied.</footnote> (high dose)</td>
+<td align="left" valign="top">200 mL of double-strength TID<footnote id="id-8472c362-4714-49e6-9e40-cd4129e98267">Double-strength: one can of frozen concentrate diluted with one can of water. Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose simvastatin and 30 and 90 minutes following single dose simvastatin on Day 3.</footnote>
+</td>
+<td align="left" valign="top">60 mg single dose</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">716</td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_ad721c6a-70fb-4891-9118-a999df3ab1e2">
+<td align="left" valign="top">Grapefruit Juice<footnoteref idref="id-2eba6672-6be1-4454-953b-3ccb6f49bb39"></footnoteref> (low dose)</td>
+<td align="left" valign="top">8 oz (about 237mL) of single-strength<footnote id="id-d0ee045e-024b-460b-8925-207fb11cfc14">Single-strength: one can of frozen concentrate diluted with 3 cans of water. Grapefruit juice was administered with breakfast for 3 days, and simvastatin was administered in the evening on Day 3.  </footnote>
+</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">1.31.9</td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_e8d3b81f-ab06-4cd0-bca0-824d85f242f3">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">Avoid taking with &gt;10 mg simvastatin</content>, based on clinical and/or post-marketing experience [see <content stylecode="bold">Warnings and Precautions (5.1)</content>]</td>
+</tr>
+<tr id="id_d15220b5-7802-4b99-971e-fc3945a2c67f">
+<td align="left" valign="top">Verapamil SR</td>
+<td align="left" valign="top">240 mg QD Days 1-7 then 240 mg BID on Days 8-10</td>
+<td align="left" valign="top">80 mg on Day 10</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">2.32.5</td>
+<td align="left" valign="top">2.42.1</td>
+</tr>
+<tr id="id_d613024c-5fa8-446f-9b66-8ec363a31aff">
+<td align="left" valign="top">Diltiazem</td>
+<td align="left" valign="top">120 mg BID for 10 days</td>
+<td align="left" valign="top">80 mg on Day 10</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">2.693.10</td>
+<td align="left" valign="top">2.692.88</td>
+</tr>
+<tr id="id_a4a18cd3-fe7d-4b31-a825-19b8e94c6de1">
+<td align="left" valign="top">Diltiazem</td>
+<td align="left" valign="top">120 mg BID for 14 days</td>
+<td align="left" valign="top">20 mg on Day 14</td>
+<td align="left" valign="top">simvastatin</td>
+<td align="left" valign="top">4.6 </td>
+<td align="left" valign="top">3.6 </td>
+</tr>
+<tr id="id_3b983764-1e4c-408c-999a-b01e42d074a6">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">Avoid taking with &gt;20 mg simvastatin</content>, based on clinical and/or post-marketing experience [see <content stylecode="bold">Warnings and Precautions (5.1)</content>]</td>
+</tr>
+<tr id="id_fc07d3b4-25c8-480f-92bc-e1e420e54e8e">
+<td align="left" valign="top">Amiodarone</td>
+<td align="left" valign="top">400 mg BID for 3 days</td>
+<td align="left" valign="top">40 mg on Day 3</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">1.751.76</td>
+<td align="left" valign="top">1.721.79</td>
+</tr>
+<tr id="id_47b84546-80be-4030-bd27-b4e7e263e710">
+<td align="left" valign="top">Amlodipine</td>
+<td align="left" valign="top">10 mg QD x 10 days</td>
+<td align="left" valign="top">80 mg on Day 10</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">1.581.77</td>
+<td align="left" valign="top">1.561.47</td>
+</tr>
+<tr id="id_662ae2f3-e524-4a28-bd02-6107db537dc0">
+<td align="left" valign="top">Ranolazine SR</td>
+<td align="left" valign="top">1000 mg BID for 7 days</td>
+<td align="left" valign="top">80 mg on Day 1 and Day 6-9</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">2.261.86</td>
+<td align="left" valign="top">2.281.75</td>
+</tr>
+<tr id="id_9fea96fa-952b-4723-bc36-f3b786c22d54">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">No dosing adjustments required for the following:</content>
+</td>
+</tr>
+<tr id="id_e24f02be-eae0-47db-b479-9d76de7fbb43">
+<td align="left" valign="top">Fenofibrate</td>
+<td align="left" valign="top">160 mg QD X 14 days</td>
+<td align="left" valign="top">80 mg QD on Days 8-14</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">0.640.89</td>
+<td align="left" valign="top">0.890.83</td>
+</tr>
+<tr id="id_b66249e4-e537-42e9-8367-7bdae876b40d">
+<td align="left" valign="top">Niacin extended-release<footnote id="id-9de3aa53-7722-4ae4-99d7-224229b87c6f">Because Chinese patients have an increased risk for myopathy with simvastatin coadministered with lipid-modifying doses (≥ 1 gram/day niacin) of niacin-containing products, and the risk is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products [see <content stylecode="bold">
+<linkhtml href="#i4i_section_id_71585cc2-cdaa-4679-8f02-e5bbf2333c19">Warnings and Precautions</linkhtml>
+<linkhtml href="#i4i_section_id_71585cc2-cdaa-4679-8f02-e5bbf2333c19">(5.1</linkhtml>) and <linkhtml href="#i4i_section_id_3983a135-665d-482d-b56e-bbe32beb80a1">Drug Interactions (7.4</linkhtml>)</content>].</footnote>
+</td>
+<td align="left" valign="top">2 g single dose</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">simvastatin acid simvastatin</td>
+<td align="left" valign="top">1.61.4</td>
+<td align="left" valign="top">1.841.08</td>
+</tr>
+<tr id="id_7f3f57de-7ffa-42ab-9241-f090ebbda704" stylecode="Botrule">
+<td align="left" valign="top">Propranolol</td>
+<td align="left" valign="top">80 mg single dose</td>
+<td align="left" valign="top">80 mg single dose</td>
+<td align="left" valign="top">total inhibitor  active inhibitor</td>
+<td align="left" valign="top">0.79  0.79</td>
+<td align="left" valign="top">↓ from 33.6 to 21.1 ng·eq/ml  ↓from 7.0 to 4.7 ng·eq/mL</td>
+</tr>
+</tbody>
+</table>

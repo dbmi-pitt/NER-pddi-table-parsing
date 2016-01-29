@@ -1,0 +1,301 @@
+<table cellpadding="0pt" cellspacing="0pt" id="_RefID0ECLAG" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4. Susceptibility Test Interpretive Criteria for Amoxicillin  </caption>
+<col width="20%"></col>
+<col width="13%"></col>
+<col width="15%"></col>
+<col width="12%"></col>
+<col width="13%"></col>
+<col width="15%"></col>
+<col width="12%"></col>
+<thead>
+<tr>
+<th align="left" rowspan="2" stylecode="Rrule Lrule Toprule " valign="top"></th>
+<th align="center" colspan="3" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">Minimum Inhibitory Concentration (mcg/mL)</content>
+</th>
+<th align="center" colspan="3" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">Disk Diffusion</content>
+<br/>
+<content stylecode="bold">(zone diameter in mm)</content>
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Susceptible</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Intermediate</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Resistant</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Susceptible</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Intermediate</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Resistant</content>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="9" stylecode="Botrule" valign="top">
+<content stylecode="italics">* S. pneumoniae</content> should be tested using a 1 mcg oxacillin disk. Isolates with oxacillin zone sizes of ≥ 20 mm are susceptible to amoxicillin. An amoxicillin MIC should be determined on isolates of <content stylecode="italics">S. pneumoniae</content> with oxacillin zone sizes of ≤19 mm.<br/>** A positive beta lactamase test indicates resistance to amoxicillin. Isolates that are resistant to penicillin by MIC testing are also expected to be resistant to amoxicillin. <br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="italics"> Enterococcus </content>spp.<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>≤ 8<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>≥ 16<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>≥ 17<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>≤ 16<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics"> Staphylococcus</content> spp.<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤ 0.25<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph> <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥ 0.5<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥ 29<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph> <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤ 28<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph> Streptococci, viridians group (alpha-hemolytic streptococci)<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤ 0.25<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.5 to 4<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥ 8<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph> β-hemolytic streptococci<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤ 0.25<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥ 24<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics"> Streptococcus pneumoniae</content>(non-meningitis isolates)*<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤ 2<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>4<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥ 8<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics"> Enterobacteriaceae</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤ 8<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>16<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥ 32<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥ 17<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>14 to 16<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤ 13<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics"> Haemophilus influenzae</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤ 1<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥ 4<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥ 22<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>19 to 21<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤ 18<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>
+<content stylecode="italics"> Neisseria gonorrhoeae**</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

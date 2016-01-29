@@ -1,0 +1,102 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Mean Change (Δ) from Baseline at Last Measurement</caption>
+<col align="left" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="5%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="5%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="9%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="7%"></col>
+<col align="center" valign="middle" width="9%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th align="center" colspan="6" stylecode="Lrule Rrule">Breast Cancer Patients Receiving Chemotherapy</th>
+<th colspan="5" stylecode="Rrule">Breast Cancer Receiving Hormonal Therapy</th>
+</tr>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule"></th>
+<th colspan="2" stylecode="Rrule">Pamidronate Disodium (PD)</th>
+<th colspan="2" stylecode="Rrule">Placebo (P)</th>
+<th stylecode="Rrule">PD vs P</th>
+<th colspan="2" stylecode="Rrule">Pamidronate Disodium (PD)</th>
+<th colspan="2" stylecode="Rrule">Placebo (P)</th>
+<th stylecode="Rrule">PD vs P</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">N</th>
+<th stylecode="Rrule"> Mean Δ</th>
+<th stylecode="Rrule">N</th>
+<th stylecode="Rrule">Mean Δ</th>
+<th stylecode="Rrule"> P- value<footnoteref idref="table5a"></footnoteref>
+</th>
+<th stylecode="Rrule">N</th>
+<th stylecode="Rrule">Mean Δ</th>
+<th stylecode="Rrule">N</th>
+<th stylecode="Rrule">Mean Δ</th>
+<th stylecode="Rrule">P-value<footnote id="table5a">The statistical significance of analyses of these secondary endpoints of pain, quality of life, and performance status in all three trials may be overestimated since numerous analyses were performed.</footnote>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="11">Decreases in pain, analgesic scores and ECOG PS, and increases in Spitzer QOL indicate an improvement from baseline.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Pain Score</td>
+<td stylecode="Rrule">175</td>
+<td stylecode="Rrule">+0.93</td>
+<td stylecode="Rrule">183</td>
+<td stylecode="Rrule">+1.69</td>
+<td stylecode="Rrule">.050</td>
+<td stylecode="Rrule">173</td>
+<td stylecode="Rrule">+0.50</td>
+<td stylecode="Rrule">179</td>
+<td stylecode="Rrule">+1.60</td>
+<td stylecode="Rrule">.007</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Analgesic Score</td>
+<td stylecode="Rrule">175</td>
+<td stylecode="Rrule">+0.74</td>
+<td stylecode="Rrule">183</td>
+<td stylecode="Rrule">+1.55</td>
+<td stylecode="Rrule">.009</td>
+<td stylecode="Rrule">173</td>
+<td stylecode="Rrule">+0.90</td>
+<td stylecode="Rrule">179</td>
+<td stylecode="Rrule">+2.28</td>
+<td stylecode="Rrule">&lt;.001</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">ECOG PS</td>
+<td stylecode="Rrule">178</td>
+<td stylecode="Rrule">+0.81</td>
+<td stylecode="Rrule">186</td>
+<td stylecode="Rrule">+1.19</td>
+<td stylecode="Rrule">.002</td>
+<td stylecode="Rrule">175</td>
+<td stylecode="Rrule">+0.95</td>
+<td stylecode="Rrule">182</td>
+<td stylecode="Rrule">+0.90</td>
+<td stylecode="Rrule">.773</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Spitzer QOL</td>
+<td stylecode="Rrule">177</td>
+<td stylecode="Rrule">-1.76</td>
+<td stylecode="Rrule">185</td>
+<td stylecode="Rrule">-2.21</td>
+<td stylecode="Rrule">.103</td>
+<td stylecode="Rrule">173</td>
+<td stylecode="Rrule">-1.86</td>
+<td stylecode="Rrule">181</td>
+<td stylecode="Rrule">-2.05</td>
+<td stylecode="Rrule">.409</td>
+</tr>
+</tbody>
+</table>

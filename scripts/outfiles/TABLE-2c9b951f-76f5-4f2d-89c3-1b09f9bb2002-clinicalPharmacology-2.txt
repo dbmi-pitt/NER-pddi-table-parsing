@@ -1,0 +1,28 @@
+<table border="0" cellpadding="0" cellspacing="0" id="i9605174b-fc62-4dd3-8b45-e0299fa6eb66" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">   <content stylecode="underline">Zone Diameter (mm)</content>    <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">   <content stylecode="underline">Interpretation</content>    <br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">≥18 <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Susceptible (S)    <br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">15-17 <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Intermediate (I)    <br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule" valign="top">≤14 <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Resistant (R)    <br/>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,37 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>H. influenzae<sup>c</sup>
+</caption>
+<col span="1" width="46.5%"></col>
+<col span="1" width="53.5%"></col>
+<tbody>
+<tr>
+<td> <content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+<td> <content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td> ≤ 1</td>
+<td> Susceptible (S)</td>
+</tr>
+<tr>
+<td> 2</td>
+<td> Intermediate (I)</td>
+</tr>
+<tr>
+<td> ≥ 4</td>
+<td> Resistant (R)</td>
+</tr>
+<tr>
+<td> <paragraph>a. Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.</paragraph>
+</td>
+</tr>
+<tr>
+<td> b. These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.</td>
+</tr>
+<tr>
+<td> c. These interpretive standards are applicable only to broth microdilution test with <content stylecode="italics">H. influenzae</content> using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>1</sup>
+</td>
+</tr>
+</tbody>
+</table>

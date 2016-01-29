@@ -1,0 +1,125 @@
+<table id="t1" width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHI<footnote>adapted from JAMA, 2002; 288:321-333</footnote>
+</caption>
+<col align="left" valign="middle" width="30%"></col>
+<col align="left" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="22%"></col>
+<col align="center" valign="middle" width="23%"></col>
+<thead>
+<tr>
+<th align="center" rowspan="2" stylecode="Lrule Rrule">Event<footnote id="ft1.1">a subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes</footnote>
+</th>
+<th align="center" rowspan="2" stylecode="Rrule">Relative Risk<br/>CE/MPA vs placebo at<br/>5.2 Years (95% CI<footnote>nominal confidence intervals unadjusted for multiple looks and multiple comparisons</footnote>)</th>
+<th stylecode="Rrule Botrule">Placebo<br/>n = 8102</th>
+<th stylecode="Rrule Botrule">CE/MPA<br/>n = 8506</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" colspan="2" stylecode="Rrule">Absolute Risk per 10,000 Person-years</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">CHD events</td>
+<td stylecode="Rrule">1.29 (1.02-1.63)</td>
+<td stylecode="Rrule">30</td>
+<td stylecode="Rrule">37</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">  <content stylecode="italics">Non-fatal MI</content>
+</td>
+<td stylecode="Rrule">
+<content stylecode="italics">1.32 (1.02-1.72)</content>
+</td>
+<td stylecode="Rrule">
+<content stylecode="italics">23</content>
+</td>
+<td stylecode="Rrule">
+<content stylecode="italics">30</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">  <content stylecode="italics">CHD death</content>
+</td>
+<td stylecode="Rrule">
+<content stylecode="italics">1.18 (0.70-1.97)</content>
+</td>
+<td stylecode="Rrule">
+<content stylecode="italics">6</content>
+</td>
+<td stylecode="Rrule">
+<content stylecode="italics">7</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Invasive breast cancer<footnote>includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer</footnote>
+</td>
+<td stylecode="Rrule">1.26 (1.00-1.59)</td>
+<td stylecode="Rrule">30</td>
+<td stylecode="Rrule">38</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Stroke</td>
+<td stylecode="Rrule">1.41 (1.07-1.85)</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">29</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Pulmonary embolism</td>
+<td stylecode="Rrule">2.13 (1.39-3.25)</td>
+<td stylecode="Rrule">8</td>
+<td stylecode="Rrule">16</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Colorectal cancer</td>
+<td stylecode="Rrule">0.63 (0.43-0.92)</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">10</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Endometrial cancer</td>
+<td stylecode="Rrule">0.83 (0.47-1.47)</td>
+<td stylecode="Rrule">6</td>
+<td stylecode="Rrule">5</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Hip fracture</td>
+<td stylecode="Rrule">0.66 (0.45-0.98)</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">10</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Death due to causes other than the events above</td>
+<td stylecode="Rrule">0.92 (0.74-1.14)</td>
+<td stylecode="Rrule">40</td>
+<td stylecode="Rrule">37</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Global Index<footnoteref idref="ft1.1"></footnoteref>
+</td>
+<td stylecode="Rrule">1.15 (1.03-1.28)</td>
+<td stylecode="Rrule">151</td>
+<td stylecode="Rrule">170</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Deep vein thrombosis<footnote id="ft1.2">not included in Global Index</footnote>
+</td>
+<td stylecode="Rrule">2.07 (1.49-2.87)</td>
+<td stylecode="Rrule">13</td>
+<td stylecode="Rrule">26</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Vertebral fractures<footnoteref idref="ft1.2"></footnoteref>
+</td>
+<td stylecode="Rrule">0.66 (0.44-0.98)</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">9</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Other osteoporotic fractures<footnoteref idref="ft1.2"></footnoteref>
+</td>
+<td stylecode="Rrule">0.77 (0.69-0.86)</td>
+<td stylecode="Rrule">170</td>
+<td stylecode="Rrule">131</td>
+</tr>
+</tbody>
+</table>

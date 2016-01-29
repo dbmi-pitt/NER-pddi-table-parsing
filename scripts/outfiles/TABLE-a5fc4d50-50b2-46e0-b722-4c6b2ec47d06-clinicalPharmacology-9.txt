@@ -1,0 +1,43 @@
+<table frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td valign="top"> <content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" colspan="2" valign="top"> <content stylecode="underline">Zone Diameter Range (mm)</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> </td>
+<td align="center" valign="top"> Tetracycline </td>
+<td align="center" valign="top"> Minocycline</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="italics">Escherichia coli</content> ATCC 25922</td>
+<td align="center" valign="top"> 18 to 25</td>
+<td align="center" valign="top"> 19 to 25</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="italics">Staphylococcus aureus</content> ATCC 29213</td>
+<td align="center" valign="top"> 24 to 30</td>
+<td align="center" valign="top"> 25 to 30</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="italics">Haemophilus influenzae</content> ATCC 49247</td>
+<td align="center" valign="top"> 14 to 22</td>
+<td align="center" valign="top"> –</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="italics">Neisseria gonorrhoeae</content> ATCC 49226</td>
+<td align="center" valign="top"> 30 to 42</td>
+<td align="center" valign="top"> –</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="italics">Streptococcus pneumoniae</content> ATCC 49619</td>
+<td align="center" valign="top"> 27 to 31</td>
+<td align="center" valign="top"> –</td>
+</tr>
+</tbody>
+</table>

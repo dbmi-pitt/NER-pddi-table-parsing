@@ -1,0 +1,40 @@
+<table border="none" id="id_624e05ad-6f92-40cf-9f6d-01d63e16820b" width="432.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="66.7%"></col>
+<col width="33.3%"></col>
+<tbody>
+<tr id="id_10b222f1-f497-4df6-bef3-5ab82f9043ba">
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">MIC Range (mcg/mL)</content>
+<sup>h</sup>
+</td>
+</tr>
+<tr id="id_cfc5fcec-60fd-4c9e-8165-67dee7364408">
+<td align="left" valign="top">
+<content stylecode="italics">E. coli</content> ATCC 25922</td>
+<td align="center" valign="top">2 to 8</td>
+</tr>
+<tr id="id_a1a3ba43-cec6-4745-a71a-c47a9676d64e">
+<td align="left" valign="top">
+<content stylecode="italics">E. coli</content> ATCC 35218</td>
+<td align="center" valign="top">4 to 16</td>
+</tr>
+<tr id="id_9437ff30-c23a-4df3-b0bd-c9eee6991128">
+<td align="left" valign="top">
+<content stylecode="italics">H. influenzae</content> ATCC 49247</td>
+<td align="center" valign="top">2 to 16</td>
+</tr>
+<tr id="id_6f00c573-41fd-4c57-8da0-53d8f22b45ce">
+<td align="left" valign="top">
+<content stylecode="italics">S. aureus</content> ATCC 29213</td>
+<td align="center" valign="top">0.12 to 0.5</td>
+</tr>
+<tr id="id_7c4b75d8-1753-417c-b358-9a7f00f7f487">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">S. pneumoniae</content> ATCC 49619</td>
+<td align="center" stylecode="Botrule" valign="top">0.03 to 0.12</td>
+</tr>
+</tbody>
+</table>

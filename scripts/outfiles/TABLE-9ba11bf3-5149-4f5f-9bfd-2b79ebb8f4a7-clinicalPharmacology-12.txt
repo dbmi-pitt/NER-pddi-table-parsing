@@ -1,0 +1,31 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="31%"></col>
+<col width="16%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Amoxicillin MIC (mcg/mL)</content>
+<footnote id="_RefID66E664539CA84982BF0627A546EE6843">These are tentative breakpoints for the agar dilution methodology, and should not be used to interpret results obtained using alternative methods.</footnote>
+<content stylecode="bold">
+<sup>,</sup>
+</content>
+<footnote id="_RefID20600B643765483BBEC050AA69FA0952">There were not enough organisms with MICs &gt; 0.25 mcg/mL to determine a resistance breakpoint.</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>&lt; 0.25</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,172 @@
+<table border="single" id="id_22265361-a79d-4959-a672-b97dd946c44c" width="872.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_b9809dcb-d675-435b-947d-0d1b94955e03">Table 9. Effect of Coadministered Drugs on Zidovudine AUC<footnote id="id-3f43bc37-9a07-4ebd-9413-13f6a7f08775">This table is not all inclusive.</footnote>
+</caption>
+<col width="17.9%"></col>
+<col width="16.6%"></col>
+<col width="15.6%"></col>
+<col width="16.6%"></col>
+<col width="16.6%"></col>
+<col width="16.6%"></col>
+<tbody>
+<tr id="id_c6e770a3-d80d-4ec1-8a44-6e04b1285bd8">
+<td align="left" colspan="6" stylecode="Botrule" valign="top">
+<content stylecode="bold">Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS.</content>
+</td>
+</tr>
+<tr id="id_79043772-fb2b-4711-820f-f347723c4948">
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="bottom">Coadministered Drug and Dose</td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="bottom">Zidovudine <br/>Dose</td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="bottom">n</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="top">Zidovudine Concentrations</td>
+<td align="center" rowspan="2" stylecode="Botrule" valign="top">Concentration of Coadministered Drug</td>
+</tr>
+<tr id="id_fb15bc8a-170f-4a66-8b97-4158b7e5d460">
+<td align="center" stylecode="Botrule Rrule" valign="bottom">AUC</td>
+<td align="center" stylecode="Botrule" valign="bottom">Variability</td>
+</tr>
+<tr id="id_4cd0dc8a-619a-4542-8d8a-a0d27b9161d0">
+<td align="left" stylecode="Botrule Rrule" valign="top">Atovaquone <br/>750 mg q 12 hr with food</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">200 mg q 8 hr</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">14</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↑AUC</paragraph>
+
+31%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Range </paragraph>
+
+23% to 78%<footnote id="id-67934bf6-7df4-4a9f-9f77-752c9684e727">Estimated range of percent difference. </footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">↔</content>
+</td>
+</tr>
+<tr id="id_40c888d7-ab5d-4f1e-b3ed-0dd1fdc2a93a">
+<td align="left" stylecode="Botrule Rrule" valign="top">Clarithromycin <br/>500 mg twice daily</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">100 mg q 4 hr <br/>x 7 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↓AUC</paragraph>
+
+12%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Range </paragraph>
+
+↓34% to ↑14%</td>
+<td align="center" stylecode="Botrule" valign="top">Not Reported</td>
+</tr>
+<tr id="id_48343fee-8b33-4e73-9442-45b98bd6548a">
+<td align="left" stylecode="Botrule Rrule" valign="top">Fluconazole <br/>400 mg daily</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">200 mg q 8 hr</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">12</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↑AUC</paragraph>
+
+74%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">95% CI: <br/>54% to 98%</td>
+<td align="center" stylecode="Botrule" valign="top">Not Reported</td>
+</tr>
+<tr id="id_5d74bb60-419b-4230-b707-132de1fc23f5">
+<td align="left" stylecode="Botrule Rrule" valign="top">Lamivudine <br/>300 mg q 12 hr</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">single 200 mg</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">12</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↑AUC</paragraph>
+
+13%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">90% CI: <br/>2% to 27%</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">↔</content>
+</td>
+</tr>
+<tr id="id_7636a714-64a4-42ce-b8c7-380447254f4a">
+<td align="left" stylecode="Botrule Rrule" valign="top">Methadone <br/>30 mg to 90 mg daily</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">200 mg q 4 hr</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">9</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↑AUC</paragraph>
+
+43%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Range <br/>16% to 64%<footnoteref idref="id-67934bf6-7df4-4a9f-9f77-752c9684e727"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">↔</content>
+</td>
+</tr>
+<tr id="id_b2fe7aeb-1d68-454b-961b-291ba13d402b">
+<td align="left" stylecode="Botrule Rrule" valign="top">Nelfinavir <br/>750 mg q 8 hr x <br/>7 to 10 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">single 200 mg</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">11</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↓AUC</paragraph>
+
+35%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Range </paragraph>
+
+28% to 41%</td>
+<td align="center" stylecode="Botrule" valign="top">↔</td>
+</tr>
+<tr id="id_6c341388-82ac-4e88-b353-4ae593cb6f17">
+<td align="left" stylecode="Botrule Rrule" valign="top">Probenecid <br/>500 mg q 6 hr x <br/>2 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2 mg/kg q 8 hr x 3 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↑AUC </paragraph>
+
+106%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Range </paragraph>
+
+100% to 170%<footnoteref idref="id-67934bf6-7df4-4a9f-9f77-752c9684e727"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">Not Assessed</td>
+</tr>
+<tr id="id_6d0748d2-cff4-418d-80c6-e5290453ca19">
+<td align="left" stylecode="Botrule Rrule" valign="top">Rifampin <br/>600 mg daily x <br/>14 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">200 mg q 8 hr x 14 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↓AUC </paragraph>
+
+47%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>90% CI: </paragraph>
+
+41% to 53%</td>
+<td align="center" stylecode="Botrule" valign="top">Not Assessed</td>
+</tr>
+<tr id="id_a1f160aa-a1ed-4081-95dc-9df4908bd1db">
+<td align="left" stylecode="Botrule Rrule" valign="top">Ritonavir <br/>300 mg q 6 hr x <br/>4 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">200 mg q 8 hr x 4 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">9</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↓AUC </paragraph>
+
+25%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>95% CI: </paragraph>
+
+15% to 34%</td>
+<td align="center" stylecode="Botrule" valign="top">↔</td>
+</tr>
+<tr id="id_dcc4aa5d-22d2-4262-8495-b3fa37e58c4c">
+<td align="left" stylecode="Botrule Rrule" valign="top">Valproic acid <br/>250 mg or 500 mg q 8 hr x 4 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">100 mg q 8 hr x 4 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">6</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↑AUC </paragraph>
+
+80%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>Range </paragraph>
+
+64% to 130%<footnoteref idref="id-67934bf6-7df4-4a9f-9f77-752c9684e727"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">Not Assessed</td>
+</tr>
+<tr id="id_6db945de-94c0-49c0-983d-82a5fbca299e">
+<td align="left" colspan="6" stylecode="Lrule Botrule" valign="top">↑ = Increase; ↓ = Decrease; ↔ = no significant change; AUC = area under the concentration vs. time curve; <br/>CI = confidence interval. </td>
+</tr>
+</tbody>
+</table>

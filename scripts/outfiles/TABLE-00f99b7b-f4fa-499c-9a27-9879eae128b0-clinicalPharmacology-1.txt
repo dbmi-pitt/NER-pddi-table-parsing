@@ -1,0 +1,56 @@
+<table id="_Refid_e3de2b0d-4c1f-4f7f-bcf4-4e41948c3" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>When testing either Haemophilus influenzae<footnote id="_Refid-c560f7e9-7028-4b23-9771-74785b6d6">These interpretative standards are applicable only to broth microdilution susceptibility tests with <content stylecode="italics">Haemophilus influenzae</content> using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>4</sup>
+</footnote> or Streptococcus pneumoniae <footnote id="_Refid-9306c6b5-6174-40e2-ac70-227c59c45">These interpretative standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2% to 5% lysed horse blood.<sup>4</sup>
+</footnote>:</caption>
+<col width="2%"></col>
+<col width="16%"></col>
+<col width="17%"></col>
+<tbody>
+<tr>
+<td colspan="3" stylecode="Toprule " valign="top">
+<paragraph> </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">MIC (µg/mL)</content>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Interpretation</content>
+<footnoteref idref="_Refid-9306c6b5-6174-40e2-ac70-227c59c45"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td valign="top">
+<paragraph>≤ 0.5/9.5</paragraph>
+</td>
+<td valign="top">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td valign="top">
+<paragraph>1/19 – 2/38</paragraph>
+</td>
+<td valign="top">
+<paragraph>Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top">
+<paragraph>≥ 4/76</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

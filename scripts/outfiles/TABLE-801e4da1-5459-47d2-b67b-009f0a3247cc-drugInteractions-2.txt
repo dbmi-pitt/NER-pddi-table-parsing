@@ -1,0 +1,24 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="25%"></col>
+<thead>
+<tr>
+<th colspan="4" stylecode="Lrule Rrule">Specific Drugs Reported</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="4">also: other medications affecting blood elements which may modify hemostasis<br/>  dietary deficiencies<br/>  prolonged hot weather<br/>  unreliable PT/INR determinations<br/>†Increased and decreased PT/INR responses have been reported.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule">acetaminophen<br/>alcohol†<br/>allopurinol<br/>aminosalicylic acid<br/>amiodarone HCl<br/>argatroban<br/>aspirin<br/>atenolol<br/>atorvastatin†<br/>azithromycin<br/>bivalirudin<br/>capecitabine<br/>cefamandole<br/>cefazolin<br/>cefoperazone<br/>cefotetan<br/>cefoxitin<br/>ceftriaxone<br/>celecoxib<br/>cerivastatin<br/>chenodiol<br/>chloramphenicol<br/>chloral hydrate†<br/>chlorpropamide<br/>cholestyramine†<br/>cimetidine<br/>ciprofloxacin<br/>cisapride<br/>clarithromycin<br/>clofibrate<br/>cyclophosphamide†<br/>danazol<br/>dextran<br/>dextrothyroxine<br/>diazoxide</td>
+<td stylecode="Rrule">diclofenac<br/>dicumarol<br/>diflunisal<br/>disulfiram<br/>doxycycline<br/>erythromycin<br/>esomeprazole<br/>ethacrynic acid<br/>ezetimibe<br/>fenofibrate<br/>fenoprofen<br/>fluconazole<br/>fluorouracil<br/>fluoxetine<br/>flutamide<br/>fluvastatin<br/>fluvoxamine<br/>gefitinib<br/>gemifibrozil<br/>glucagon<br/>halothane<br/>heparin<br/>ibuprofen<br/>ifosfamide<br/>indomethacin<br/>influenza virus vaccine<br/>itraconazole<br/>ketoprofen<br/>ketorolac<br/>lansoprazole<br/>lepirudin<br/>levamisole<br/>levofloxacin<br/>levothyroxine<br/>liothyronine</td>
+<td stylecode="Rrule">lovastatin<br/>mefenamic acid<br/>methimazole†<br/>methyldopa<br/>methylphenidate<br/>methylsalicylate<br/>  ointment (topical)<br/>metronidazole<br/>miconazole<br/>  (intravaginal, oral,<br/>    systemic)<br/>moricizine<br/>  hydrochloride†<br/>nalidixic acid<br/>naproxen<br/>neomycin<br/>norfloxacin<br/>ofloxacin<br/>olsalazine<br/>omeprazole<br/>oxandrolone<br/>oxaprozin<br/>oxymetholone<br/>pantoprazole<br/>paroxetine<br/>penicillin G,<br/>  intravenous<br/>pentoxifylline<br/>phenylbutazone<br/>phenytoin†<br/>piperacillin<br/>piroxicam<br/>pravastatin†<br/>prednisone†<br/>propafenone</td>
+<td stylecode="Rrule">propoxyphene<br/>propranolol<br/>propylthiouracil†<br/>quinidine<br/>quinine<br/>rabeprazole<br/>ranitidine†<br/>rofecoxib<br/>sertraline<br/>simvastatin<br/>stanozolol<br/>streptokinase<br/>sulfamethizole<br/>sulfamethoxazole<br/>sulfinpyrazone<br/>sulfisoxazole<br/>sulindac<br/>tamoxifen<br/>tetracycline<br/>thyroid<br/>ticarcillin<br/>ticlopidine<br/>tissue plasminogen<br/>  activator (t-PA)<br/>tolbutamide<br/>tramadol<br/>trimethoprim/<br/>  sulfamethoxazole<br/>urokinase<br/>valdecoxib<br/>valproate<br/>vitamin E<br/>warfarin overdose<br/>zafirlukast<br/>zileuton</td>
+</tr>
+</tbody>
+</table>

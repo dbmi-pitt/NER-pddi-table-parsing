@@ -1,0 +1,61 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Response to Desmopressin Acetate and Placebo at Two Weeks of Treatment Mean (SE) Number of Wet Nights/2 Weeks</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td colspan="2" valign="top"> </td>
+<td align="center" valign="top"> <paragraph>
+<content stylecode="bold">Placebo</content>
+</paragraph>
+<content stylecode="bold">(n=85)</content>
+</td>
+<td align="center" valign="top"> <paragraph>
+<content stylecode="bold">0.2 mg/day</content>
+</paragraph>
+<content stylecode="bold">(n=79)</content>
+</td>
+<td align="center" valign="top"> <paragraph>
+<content stylecode="bold">0.4 mg/day</content>
+</paragraph>
+<content stylecode="bold">(n=82)</content>
+</td>
+<td align="center" valign="top"> <paragraph>
+<content stylecode="bold">0.6 mg/day</content>
+</paragraph>
+<content stylecode="bold">(n=83)</content>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top"> Baseline </td>
+<td align="center" valign="top"> 10 (0.3)</td>
+<td align="center" valign="top"> 11 (0.3)</td>
+<td align="center" valign="top"> 10 (0.3)</td>
+<td align="center" valign="top"> 10(0.3)</td>
+</tr>
+<tr>
+<td colspan="2" valign="top"> Reduction from Baseline </td>
+<td align="center" valign="top"> 1 (0.3)</td>
+<td align="center" valign="top"> 3 (0.4)</td>
+<td align="center" valign="top"> 3 (0.4)</td>
+<td align="center" valign="top"> 4 (0.4)</td>
+</tr>
+<tr>
+<td colspan="2" valign="top"> Percent Reduction from Baseline </td>
+<td align="center" valign="top"> <br/>10%</td>
+<td align="center" valign="top"> <br/>27%</td>
+<td align="center" valign="top"> <br/>30%</td>
+<td align="center" valign="top"> <br/>40%</td>
+</tr>
+<tr>
+<td colspan="2" valign="top"> p-value vs. placebo </td>
+<td align="center" valign="top"> ─</td>
+<td align="center" valign="top"> &lt;0.05</td>
+<td align="center" valign="top"> &lt;0.05</td>
+<td align="center" valign="top"> &lt;0.05</td>
+</tr>
+</tbody>
+</table>

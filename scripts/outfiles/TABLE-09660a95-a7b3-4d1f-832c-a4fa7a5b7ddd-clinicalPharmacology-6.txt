@@ -1,0 +1,24 @@
+<table border="1" id="id_0f9c90e4-cd1c-4127-843f-3d3b0cf4f843" width="194" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_61bc2a13-6675-448a-a0ac-96acc0a2d30a">H. influenzae
+                                 </caption>
+<col width="49.5%"></col>
+<col width="50.5%"></col>
+<tbody>
+<tr id="id_792d30e0-904b-431a-b81b-702971e1c0f0">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">MIC (mcg/mL)</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Interpretation</td>
+</tr>
+<tr id="id_25c453a9-e15e-4387-90b9-6a096093a499">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≤ 1</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Susceptible (S)</td>
+</tr>
+<tr id="id_19d1794b-54a1-47f7-b3b3-e07332716886">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">2</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Intermediate (I)</td>
+</tr>
+<tr id="id_29ec655c-07bb-4233-918e-d0f7a47d9e05">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≥ 4</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

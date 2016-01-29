@@ -1,0 +1,156 @@
+<table id="table4" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4	Established and Other Potentially Significant<footnote id="ft1">This table is not all inclusive.</footnote> Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction</caption>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="50%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Lrule Rrule" valign="middle">Concomitant Drug Class: Drug Name</th>
+<th align="center" stylecode="Rrule" valign="middle">Effect on Concentration<footnote>↑ = Increase, ↓ = Decrease, ↔ = No change</footnote>
+</th>
+<th align="center" stylecode="Rrule" valign="middle">Clinical Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td align="left" colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">Antiretroviral Agents: Protease Inhibitors (PIs) <footnote>Protease inhibitors were coadministered with ritonavir.</footnote>
+</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atazanavir<footnote id="tb4ft">Indicates that a drug-drug interaction trial was conducted.</footnote>
+</td>
+<td stylecode="Rrule">↔ atazanavir<br/>↑ elvitegravir</td>
+<td stylecode="Rrule">There are no data available to make dosing recommendations for coadministration with doses of atazanavir/ritonavir other than 300/100 mg once daily. Please refer to Section 2 for dosage adjustments.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Lopinavir/ritonavir<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">↔ lopinavir<br/>↑ elvitegravir</td>
+<td stylecode="Rrule">There are no data available to make dosing recommendations for coadministration with doses of lopinavir/ritonavir other than 400/100 mg twice daily.  Please refer to Section 2 for dosage adjustments.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Other Protease Inhibitors (with or without ritonavir)</td>
+<td stylecode="Rrule">Effect is unknown</td>
+<td stylecode="Rrule">There are no data available to make dosing recommendations for coadministration with protease inhibitors other than atazanavir, lopinavir/ritonavir, darunavir, fosamprenavir, and tipranavir. </td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">Antiretroviral Agents: Nucleoside Reverse Transcriptase Inhibitors (NRTIs)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Didanosine<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">↔ didanosine<br/>↔ elvitegravir</td>
+<td stylecode="Rrule">As didanosine is administered on an empty stomach, administer didanosine at least 1 hour before or 2 hours after VITEKTA (which is administered with food). </td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">Antiretroviral Agents: Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Efavirenz</td>
+<td stylecode="Rrule">↓ elvitegravir</td>
+<td stylecode="Rrule">Coadministration of VITEKTA with efavirenz is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Nevirapine</td>
+<td stylecode="Rrule">↓ elvitegravir</td>
+<td stylecode="Rrule">Coadministration of VITEKTA with nevirapine is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">Other Agents:</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Acid Reducing Agents:</content>
+<br/>antacids<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">↓ elvitegravir</td>
+<td stylecode="Rrule">Separate VITEKTA and antacid administration by at least 2 hours.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anticonvulsants:</content>
+<br/>carbamazepine<br/>oxcarbazepine <br/>phenobarbital<br/>phenytoin</td>
+<td stylecode="Rrule">↓ elvitegravir</td>
+<td stylecode="Rrule">Coadministration of VITEKTA with phenobarbital, phenytoin, carbamazepine, or oxcarbazepine is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antifungals:</content>
+<br/>ketoconazole<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule">↑ elvitegravir<br/>↑ ketoconazole</td>
+<td stylecode="Rrule">No dose adjustment of VITEKTA is required when coadministered with ketoconazole.<br/>When ketoconazole is used concomitantly with VITEKTA in combination with protease inhibitors/ritonavir; the maximum daily dose of ketoconazole should not exceed 200 mg per day. Consult the prescribing information of coadministered protease inhibitors for any additional dosing recommendation for ketoconazole. </td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antimycobacterials:</content>
+<br/>rifampin<br/>rifapentine</td>
+<td stylecode="Rrule">↓ elvitegravir</td>
+<td stylecode="Rrule">Coadministration of VITEKTA with rifampin or rifapentine is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">rifabutin<footnoteref idref="tb4ft"></footnoteref>
+</td>
+<td stylecode="Rrule Toprule">↑  rifabutin<br/>↑ 25-<content stylecode="italics">O</content>-desacetylrifabutin<br/>↓ elvitegravir</td>
+<td stylecode="Rrule Toprule">When rifabutin is used concomitantly with VITEKTA in combination with a protease inhibitor/ritonavir, dose reduction of rifabutin by at least 75% of the usual dose of 300 mg/day (eg, 150 mg every other day or 3 times per week) is recommended. Increased monitoring for rifabutin-associated adverse events is warranted. Consult the prescribing information of coadministered protease inhibitors for any additional dosing recommendation for rifabutin.<br/>No dose adjustment of VITEKTA is required when coadministered with the reduced dose of rifabutin. </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Systemic Corticosteroids:</content>
+<br/>dexamethasone</td>
+<td stylecode="Rrule">↓ elvitegravir</td>
+<td stylecode="Rrule">Alternative corticosteroids should be considered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Endothelin Receptor Antagonists:</content>
+<br/>bosentan</td>
+<td stylecode="Rrule">↑ bosentan<br/>↓ elvitegravir</td>
+<td stylecode="Rrule">
+<content stylecode="underline">Coadministration of bosentan in patients on VITEKTA:</content>
+<br/>In patients who have been receiving VITEKTA for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability.  <br/>
+<content stylecode="underline">Coadministration of VITEKTA in patients on bosentan:</content>
+<br/>Discontinue use of bosentan at least 36 hours prior to initiation of VITEKTA. After at least 10 days following the initiation of VITEKTA, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">HCV Protease Inhibitors:</content>
+<br/>boceprevir</td>
+<td stylecode="Rrule">↓ boceprevir<br/>↑ or ↓ HIV protease inhibitors</td>
+<td stylecode="Rrule">Coadministration of VITEKTA with boceprevir is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Herbal Products:</content>
+<br/>St. John's wort <content stylecode="italics">(Hypericum perforatum)</content>
+</td>
+<td stylecode="Rrule">↓ elvitegravir</td>
+<td stylecode="Rrule">Coadministration of VITEKTA with St. John's wort is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Hormonal Contraceptives:</content>
+<br/>norgestimate/ethinyl estradiol</td>
+<td stylecode="Rrule">↑ norgestimate<br/>↓ ethinyl estradiol<br/>↔ elvitegravir</td>
+<td stylecode="Rrule">Alternative methods of non-hormonal contraception are recommended. </td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Narcotic Analgesics:</content>
+<br/>buprenorphine/<br/>naloxone<footnoteref idref="ft1"></footnoteref>
+<br/>
+<br/>methadone</td>
+<td stylecode="Rrule">↑ buprenorphine<br/>↑ norbuprenorphine<br/>↓ naloxone<br/>
+<br/>↓ methadone </td>
+<td stylecode="Rrule">No dose adjustment of buprenorphine/naloxone is required upon coadministration with VITEKTA. Patients should be closely monitored for sedation and cognitive effects.<br/>Dosage of methadone may need to be increased when coadministered with VITEKTA</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,81 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Acceptable Quality Control Ranges for Clindamycin to be Used in Validation of Susceptibility Test Results</caption>
+<col width="276.00px"></col>
+<col width="192.00px"></col>
+<col width="168.00px"></col>
+<tbody>
+<tr>
+<td> </td>
+<td align="center" colspan="2"> <content stylecode="bold">Acceptable Quality Control Ranges</content>
+</td>
+</tr>
+<tr>
+<td align="center"> <content stylecode="bold">QC Strain</content>
+</td>
+<td align="center"> <content stylecode="bold">Minimum Inhibitory Concentration Range</content>
+<content stylecode="bold">(mcg/mL)</content>
+</td>
+<td align="center"> <content stylecode="bold">Disk Diffusion Range</content>
+<content stylecode="bold">(Zone Diameters in mm)</content>
+</td>
+</tr>
+<tr>
+<td> <content stylecode="bold">
+<content stylecode="italics">When Testing Aerobic Pathogens</content>
+</content>
+</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Staphylococcus aureus </content>ATCC 29213</td>
+<td align="center"> 
+0.06 to 0.25</td>
+<td align="center"> 
+NA</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Staphylococcus aureus</content> ATCC 25923</td>
+<td align="center"> 
+NA</td>
+<td align="center"> 
+24 to 30</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Streptococcus pneumoniae</content> ATCC 49619</td>
+<td align="center"> 
+0.03 to 0.12</td>
+<td align="center"> 
+19 to 25</td>
+</tr>
+<tr>
+<td> <content stylecode="bold">
+<content stylecode="italics">When Testing Anaerobes</content>
+</content>
+</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Bacteroides fragilis </content>ATCC 25285</td>
+<td align="center"> 
+0.5 to 2</td>
+<td align="center"> 
+NA</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Bacteroides thetaiotaomicron</content> ATCC 29741</td>
+<td align="center"> 
+2 to 8</td>
+<td align="center"> 
+NA</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Eubacterium lentum</content> ATCC 43055</td>
+<td align="center"> 
+0.06 to 0.25</td>
+<td align="center"> 
+NA</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,102 @@
+<table id="id_4e64269a-de6b-43e4-b4dd-3862df84807a" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="52%"></col>
+<col width="23%"></col>
+<col width="25%"></col>
+<tbody>
+<tr id="id_9eb5176e-0b12-480f-b9cf-d42c34145e30" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="underline">Microorganism</content>
+<br/>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="underline">ATCC </content>
+<content stylecode="underline">
+<sup>®</sup>#</content>
+<br/>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">MIC </content>
+<content stylecode="underline">(</content>
+<content stylecode="underline">mcg</content>
+<content stylecode="underline">/</content>
+<content stylecode="underline">mL</content>
+<content stylecode="underline">)</content>
+<br/>
+</td>
+</tr>
+<tr id="id_8f4ab507-0a45-43ab-846e-38ed974c578c">
+<td align="left" valign="top">
+<content stylecode="italics">Escherichia </content>
+<content stylecode="italics">coli</content>
+<br/>
+</td>
+<td align="center" valign="top">25922<br/>
+</td>
+<td align="center" valign="top">0.03-0.12<br/>
+</td>
+</tr>
+<tr id="id_d4ffec3f-ae11-49e7-95ec-340de36c67f8">
+<td align="left" valign="top">
+<content stylecode="italics">Staphylococcus </content>
+<content stylecode="italics">aureus</content>
+<br/>
+</td>
+<td align="center" valign="top">29213<br/>
+</td>
+<td align="center" valign="top">1-8*<br/>
+</td>
+</tr>
+<tr id="id_1ebf2ab4-2827-4b5b-bf23-b6d94ea9dc16">
+<td align="left" valign="top">
+<content stylecode="italics">Pseudomonas </content>
+<content stylecode="italics">aeruginosa</content>
+<content stylecode="italics">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">27853<br/>
+</td>
+<td align="center" valign="top">8-32<br/>
+</td>
+</tr>
+<tr id="id_e57e2f48-c1df-485b-a154-f52773033ef1">
+<td align="left" valign="top">
+<content stylecode="italics">Haemophilus </content>
+<content stylecode="italics">influenzae</content>
+<content stylecode="italics">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">49247<br/>
+</td>
+<td align="center" valign="top">0.06-0.25<br/>
+</td>
+</tr>
+<tr id="id_513f78a0-5109-4138-8740-27e7695ca3c9">
+<td align="left" valign="top">
+<content stylecode="italics">Neisseria </content>
+<content stylecode="italics">gonorrhoeae</content>
+<content stylecode="italics">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">49226<br/>
+</td>
+<td align="center" valign="top">0.004-0.015<br/>
+</td>
+</tr>
+<tr id="id_d611bd2f-eca4-4d9e-930c-b9c542f17768" stylecode="Botrule">
+<td align="left" valign="top">
+<content stylecode="italics">Streptococcus </content>
+<content stylecode="italics">pneumoniae</content>
+<content stylecode="italics">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">49619<br/>
+</td>
+<td align="center" valign="top">0.03-0.12<br/>
+</td>
+</tr>
+</tbody>
+</table>

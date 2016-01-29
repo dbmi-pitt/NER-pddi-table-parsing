@@ -1,0 +1,91 @@
+<table id="id_fd873ade-94df-4d9c-9336-f8b27cd8cff0" width="540.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="43.0%"></col>
+<col width="14.3%"></col>
+<col width="12.8%"></col>
+<col width="14.3%"></col>
+<col width="15.7%"></col>
+<tbody>
+<tr id="id_740ab3d5-3ca0-4e19-afc2-da816bd90d21">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">Percent of Patients</td>
+<td align="left" colspan="3" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_9f8b4911-f065-4124-871d-2448add7dcf8">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Alendronate<br/>Sodium<br/>(n=1022)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Placebo<br/>(n=1005)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Absolute Reduction in Fracture Incidence</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Relative Reduction in Fracture Risk %</td>
+</tr>
+<tr id="id_26829004-c671-4fb5-91a9-4121c0353286">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Patients with:</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_516250a5-254b-4f3f-9235-7820724a4dc1">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Vertebral fractures (diagnosed by X-ray)<footnote id="id-353e9f4d-5ddc-40e5-8b3e-b5d1377a3358">Number evaluable for vertebral fractures: Alendronate sodium, n=984; placebo, n=966</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_3fccf39b-ff7a-4c96-8312-18321428b580">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">≥ 1 new vertebral fracture</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">7.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">15.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">7.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">47<footnote id="id-44ff40af-d41d-4b14-af1a-175681f2569b">p&lt;0.001</footnote>
+</td>
+</tr>
+<tr id="id_8a77e07a-a49f-442f-8976-2466157ffefd">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">≥ 2 new vertebral fractures</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4.4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">90<footnoteref idref="id-44ff40af-d41d-4b14-af1a-175681f2569b"></footnoteref>
+</td>
+</tr>
+<tr id="id_1111180c-a44d-462e-a2e8-6053fd37c084">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Clinical (symptomatic) fractures</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_c1db3519-91f1-4a55-bd0d-6b9a95a0d7b4">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Any clinical (symptomatic) fracture</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">13.8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">18.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4.3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">26<footnote id="id-f83d34d2-f3a9-46ac-8949-445a2797a201">p=0.007</footnote>
+</td>
+</tr>
+<tr id="id_6cfbc18a-b472-4a54-a51e-8ff57759328c">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">≥ 1 clinical (symptomatic) vertebral fracture</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">5.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.7</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">54<footnote id="id-f19b02b6-2240-4cda-9cd4-eaa77204d644">p&lt;0.01</footnote>
+</td>
+</tr>
+<tr id="id_d9222e42-b53c-4eef-896a-b789112ce594">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Hip fracture</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">51<footnote id="id-625695ae-b141-451a-9145-b8ca78d2df4d">p&lt;0.05</footnote>
+</td>
+</tr>
+<tr id="id_4dbeaa0d-4dc5-40a2-bca5-c4d8c9d9d8b3">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Wrist (forearm) fracture</td>
+<td align="center" stylecode="Rrule" valign="top">2.2</td>
+<td align="center" stylecode="Rrule" valign="top">4.1</td>
+<td align="center" stylecode="Rrule" valign="top">1.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">48<footnoteref idref="id-625695ae-b141-451a-9145-b8ca78d2df4d"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

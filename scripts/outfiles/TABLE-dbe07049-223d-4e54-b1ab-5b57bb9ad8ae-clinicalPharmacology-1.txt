@@ -1,0 +1,222 @@
+<table border="0" cellpadding="0" cellspacing="0" width="599" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Drug</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Drug Plasma Concentration with Adjunctive Lamotrigine<sup>a</sup>
+</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Lamotrigine Plasma Concentration with Adjunctive Drugs<sup>b</sup>
+</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Oral contraceptives (e.g., ethinylestradiol /levonorgestrel)<sup>c</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<sup>d</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Aripiprazole<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<sup>e</sup>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Atazanavir/ritonavir <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<sup> f</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Bupropion<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Carbamazepine <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Carbamazepine epoxide<sup> g</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">?<br/>
+</td>
+<td stylecode="Rrule" valign="top"> <br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Felbamate<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Gabapentin<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Levetiracetam<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Lithium<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Lopinavir/ritonavir<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<sup>e</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Olanzapine<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<sup> e</sup>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Oxcarbazepine<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">10-Monohydroxy oxcarbazepine metabolite<sup>h </sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td stylecode="Rrule" valign="top"> <br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Phenobarbital/primidone<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Phenytoin <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Pregabalin<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Rifampin<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Risperidone <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">9-Hydroxyrisperidone<sup>i </sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Topiramate<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<sup>j</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Valproate<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Valproate + phenytoin and/or carbamazepine <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Zonisamide<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not assessed<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+</tbody>
+</table>

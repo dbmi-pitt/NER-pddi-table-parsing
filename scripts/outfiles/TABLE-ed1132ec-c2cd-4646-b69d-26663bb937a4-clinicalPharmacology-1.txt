@@ -1,0 +1,67 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="14%"></col>
+<col width="14%"></col>
+<col width="6%"></col>
+<col width="23%"></col>
+<col width="23%"></col>
+<col width="20%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Age-group </paragraph>
+<paragraph>(years) </paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Mean</paragraph>
+<paragraph>Weight</paragraph>
+<paragraph>(kg)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>n</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Peak Plasma</paragraph>
+<paragraph>Concentration</paragraph>
+<paragraph>(ng/mL)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Time of</paragraph>
+<paragraph>Peak Plasma</paragraph>
+<paragraph>Concentration</paragraph>
+<paragraph>(h)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Mean</paragraph>
+<paragraph>Elimination</paragraph>
+<paragraph>Half-life</paragraph>
+<paragraph>(h)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>18-43  M</paragraph>
+<paragraph>F</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>84.1</paragraph>
+<paragraph>71.8</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>8</paragraph>
+<paragraph>8</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>125.8</paragraph>
+<paragraph>194.4</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>1.9</paragraph>
+<paragraph>1.6</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>4.7</paragraph>
+<paragraph>5.8</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

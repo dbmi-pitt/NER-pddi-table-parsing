@@ -1,0 +1,342 @@
+<table id="ID86" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="26%"></col>
+<col width="19%"></col>
+<col width="6%"></col>
+<col width="13%"></col>
+<col width="17%"></col>
+<col width="19%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="6" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Drugs </content>
+<content stylecode="bold">That </content>
+<content stylecode="bold">May </content>
+<content stylecode="bold">Alter </content>
+<content stylecode="bold">Lamivudine </content>
+<content stylecode="bold">Blood </content>
+<content stylecode="bold">Concentrations</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Coadministered </content>
+<content stylecode="bold">Drug </content>
+<content stylecode="bold">and </content>
+<content stylecode="bold">Dose</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Lamivudine </content>
+<content stylecode="bold">Dose</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">n</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="2" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Lamivudine</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">Concentrations</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Concentration </content>
+<content stylecode="bold">of </content>
+<content stylecode="bold">Coadministered </content>
+<content stylecode="bold">Drug</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule" valign="top">
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="justify" stylecode=" Lrule Rrule Botrule" valign="top">
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="justify" stylecode=" Lrule Rrule Botrule" valign="top">
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">AUC</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Variability</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="justify" stylecode=" Lrule Rrule Botrule" valign="top">
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Nelfinavir <br/>750 mg q 8 hr x 7 to 10 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">single 150 mg<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">11<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↑AUC 10%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">95% CI:<br/>1% to 20%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↔<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Trimethoprim 160 mg/<br/>Sulfamethoxazole 800 mg daily x 5 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">single 300 mg<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">14<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↑AUC 43%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">90% CI:<br/>32% to 55%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↔<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="6" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Drugs </content>
+<content stylecode="bold">That </content>
+<content stylecode="bold">May </content>
+<content stylecode="bold">Alter </content>
+<content stylecode="bold">Zidovudine </content>
+<content stylecode="bold">Blood </content>
+<content stylecode="bold">Concentrations</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Coadministered </content>
+<content stylecode="bold">Drug </content>
+<content stylecode="bold">and </content>
+<content stylecode="bold">Dose</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Zidovudine </content>
+<content stylecode="bold">Dose</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">n</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="2" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Zidovudine</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">Concentrations</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Concentration </content>
+<content stylecode="bold">of </content>
+<content stylecode="bold">Coadministered </content>
+<content stylecode="bold">Drug</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">AUC</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Variability</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Atovaquone<br/>750 mg q 12 hr <br/>with food<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">200 mg q 8 hr<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">14<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↑AUC 31%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Range<br/>23% to 78%<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↔<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Clarithromycin 500 mg twice daily<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">100 mg q 4 hr x 7 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">4<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↓AUC 12%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Range ↓34% to ↑14%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Not Reported<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Fluconazole<br/>400 mg daily<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">200 mg q 8 hr<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">12<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↑AUC 74%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">95% CI:<br/>54% to 98%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Not Reported<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Methadone<br/>30 to 90 mg daily<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">200 mg q 4 hr<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">9<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↑AUC 43%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Range<br/>16% to 64%<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↔<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Nelfinavir<br/>750 mg q 8 hr x 7 to 10 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">single 200 mg<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">11<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↓AUC 35%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Range<br/>28% to 41%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↔<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Probenecid <br/>500 mg q 6 hr x 2 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">2 mg/kg q 8 hr x 3 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">3<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↑AUC 106%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Range<br/>100% to 170%<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Not Assessed<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Rifampin<br/>600 mg daily x<br/>14 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">200 mg q 8 hr<br/>X 14 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">8<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↓AUC<br/>47%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">90% CI:<br/>41% to 53%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Not Assessed<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Ritonavir<br/>300 mg q 6 hr x 4 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">200 mg q 8 hr x 4 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">9<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↓AUC 25%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">95% CI:<br/>15% to 34%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↔<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Valproic acid <br/>250 mg or 500 mg q 8 hr x 4 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">100 mg q 8 hr x 4 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">6<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">↑AUC 80%<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Range<br/>64% to 130%<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Not Assessed<br/>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,89 @@
+<table id="t5" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5: Susceptibility Test Interpretive Criteria for SIVEXTRO</caption>
+<col align="left" valign="middle" width="34%"></col>
+<col align="center" valign="middle" width="11%"></col>
+<col align="center" valign="middle" width="11%"></col>
+<col align="center" valign="middle" width="11%"></col>
+<col align="center" valign="middle" width="11%"></col>
+<col align="center" valign="middle" width="11%"></col>
+<col align="center" valign="middle" width="11%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Lrule Rrule">Pathogen</th>
+<th colspan="3" stylecode="Rrule Botrule">Minimum Inhibitory Concentrations (mcg/mL)</th>
+<th colspan="3" stylecode="Rrule Botrule">Disk Diffusion Zone Diameter (mm)</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Rrule">S</th>
+<th stylecode="Rrule">I</th>
+<th stylecode="Rrule">R</th>
+<th stylecode="Rrule">S</th>
+<th stylecode="Rrule">I</th>
+<th stylecode="Rrule">R</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">S=susceptible, I=intermediate, R=resistant</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Staphylococcus aureus<br/>
+</content>(methicillin-resistant and methicillin-susceptible isolates)</td>
+<td stylecode="Rrule">≤0.5</td>
+<td stylecode="Rrule">1</td>
+<td stylecode="Rrule">≥2</td>
+<td stylecode="Rrule">≥19</td>
+<td stylecode="Rrule">16 - 18</td>
+<td stylecode="Rrule">≤15</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus pyogenes</content>
+</td>
+<td stylecode="Rrule">≤0.5</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">≥18</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus agalactiae</content>
+</td>
+<td stylecode="Rrule">≤0.5</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">≥18</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcu</content>
+<content stylecode="italics">s anginosus</content> Group<footnote>Includes <content stylecode="italics">S. anginosus</content>,<content stylecode="italics"> S. intermedius</content>,<content stylecode="italics"> S. constellatus</content>
+</footnote>
+</td>
+<td stylecode="Rrule">≤0.25</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">≥17</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td stylecode="Rrule">≤0.5</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">≥19</td>
+<td stylecode="Rrule">-</td>
+<td stylecode="Rrule">-</td>
+</tr>
+</tbody>
+</table>

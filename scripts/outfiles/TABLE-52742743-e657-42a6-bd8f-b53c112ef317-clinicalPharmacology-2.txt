@@ -1,0 +1,74 @@
+<table frame="void" id="i913c9be4-b505-4747-82a3-96c0e339d9e0" width="638" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="left" colspan="2" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="bold">For testing either </content>
+<content stylecode="bold italics">Enterobacteriaceae</content>
+<content stylecode="bold"> or </content>
+<content stylecode="bold italics">Haemophilus influenzae</content>
+<content stylecode="bold">
+<sup>e</sup>
+</content>
+<content stylecode="bold">:</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">≥16</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">Susceptible (S)</td>
+</tr>
+<tr>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">11-15</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">Intermediate (I)</td>
+</tr>
+<tr>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">≤10</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">Resistant (R)</td>
+</tr>
+<tr>
+<td align="left" colspan="2" stylecode="BotruleLruleRruleToprule" valign="top">e. These zone diameter standards are applicable only for disk diffusion testing with <content stylecode="italics">Haemophilus influenzae</content> and <content stylecode="italics">Haemophilus </content>Test Medium (HTM)<sup>5</sup>.</td>
+</tr>
+<tr>
+<td align="left" colspan="2" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="bold">When testing </content>
+<content stylecode="bold italics">Streptococcus pneumoniae</content>
+<content stylecode="bold">
+<sup>f</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">≥19</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">Susceptible (S)</td>
+</tr>
+<tr>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">16-18</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">Intermediate (I)</td>
+</tr>
+<tr>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">≤15</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">Resistant (R)</td>
+</tr>
+<tr>
+<td align="left" colspan="2" stylecode="BotruleLruleRruleToprule" valign="top">f. These zone diameter interpretive standards are applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood when incubated at 5% CO<sub>2</sub>
+<sup>5</sup>.</td>
+</tr>
+</tbody>
+</table>

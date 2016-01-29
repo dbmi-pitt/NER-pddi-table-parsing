@@ -1,0 +1,36 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Mean Gastric pH</caption>
+<col width="33.7%"></col>
+<col width="34.7%"></col>
+<col width="31.6%"></col>
+<tbody>
+<tr>
+<td stylecode="     Toprule     " valign="top"> <br/>
+</td>
+<td stylecode="     Toprule     " valign="top"> <content stylecode="bold">Cimetidine</content>
+</td>
+<td stylecode="     Toprule     " valign="top"> <content stylecode="bold">Placebo</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> 1 hour</td>
+<td valign="top"> 3.5</td>
+<td valign="top"> 2.6</td>
+</tr>
+<tr>
+<td valign="top"> 2 hours</td>
+<td valign="top"> 3.1</td>
+<td valign="top"> 1.6</td>
+</tr>
+<tr>
+<td valign="top"> 3 hours</td>
+<td valign="top"> 3.8</td>
+<td valign="top"> 1.9</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="top"> 4 hours</td>
+<td stylecode="     Botrule     " valign="top"> 6.1</td>
+<td stylecode="     Botrule     " valign="top"> 2.2</td>
+</tr>
+</tbody>
+</table>

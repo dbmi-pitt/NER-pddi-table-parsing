@@ -1,0 +1,44 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Susceptibility Test Interpretive Criteria for Streptococcus pyogenes and Streptococcus pneumoniae<sup>1</sup>
+</caption>
+<col width="17%"></col>
+<col width="17%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">MIC (mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>≤ 0.25</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>≥ 1.0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

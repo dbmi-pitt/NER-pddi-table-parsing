@@ -1,0 +1,67 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="underline">
+<content stylecode="emphasis">Method</content>
+</content>
+</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="underline">
+<content stylecode="emphasis">Microorganism</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="underline">
+<content stylecode="emphasis">ATCC<sup>®</sup>#</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="underline">
+<content stylecode="emphasis">MIC (mcg/mL)</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>Agar</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Bacteroides fragilis</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>25285</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>32 to 128</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Bacteroides thetaiotaomicron</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>29741</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>64 to 256</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

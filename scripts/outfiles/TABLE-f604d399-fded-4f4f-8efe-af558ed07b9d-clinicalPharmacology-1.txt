@@ -1,0 +1,22 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle"> <content stylecode="underline">
+<content stylecode="emphasis">MIC (mcg/mL)</content>
+</content>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<content stylecode="underline">
+<content stylecode="emphasis">Interpretation</content>
+</content> </td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle"> ≤1</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">  Susceptible (S)</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Lrule Rrule Toprule Botrule"> <sup>a</sup>  Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood<sup>1</sup>.<br/>
+</td>
+</tr>
+</tbody>
+</table>

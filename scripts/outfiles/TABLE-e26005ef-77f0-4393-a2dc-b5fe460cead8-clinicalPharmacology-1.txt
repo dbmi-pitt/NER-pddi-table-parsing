@@ -1,0 +1,21 @@
+<table id="T2" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>Study 2</caption>
+<thead>
+<tr><td align="center" colspan="7"><content stylecode="bold">MRS Total Score</content></td></tr>
+</thead>
+<tbody>
+<tr><td><content stylecode="bold">Group</content></td><td> </td><td><content stylecode="bold">Baseline</content><footnote id="footNote4">Mean score at baseline</footnote></td><td> </td><td><content stylecode="bold">BL to Day 21</content><footnote id="footNote5">Change from baseline to Day 21 (LOCF)</footnote></td><td> </td><td><content stylecode="bold">Difference</content><footnote id="footNote6">Difference in change from baseline to Day 21 endpoint (LOCF) between divalproex sodium and placebo and lithium and placebo</footnote></td></tr>
+<tr><td>Placebo</td><td> </td><td>38.9</td><td> </td><td>- 4.4</td><td> </td><td> </td></tr>
+<tr><td>Lithium</td><td> </td><td>37.9</td><td> </td><td>- 10.5</td><td> </td><td>6.1</td></tr>
+<tr><td>Divalproex sodium</td><td> </td><td>38.1</td><td> </td><td>- 9.5</td><td> </td><td>5.1</td></tr>
+<tr><td align="center" colspan="7"><content stylecode="bold">MSS Total Score</content></td></tr>
+<tr><td><content stylecode="bold">Group</content></td><td> </td><td><content stylecode="bold"> Baseline<footnoteref idref="footNote4"></footnoteref></content></td><td> </td><td><content stylecode="bold"> BL to Day 21<footnoteref idref="footNote5"></footnoteref></content></td><td> </td><td><content stylecode="bold"> Difference<footnoteref idref="footNote6"></footnoteref></content></td></tr>
+<tr><td>Placebo</td><td> </td><td>18.9</td><td> </td><td>- 2.5</td><td> </td><td> </td></tr>
+<tr><td>Lithium</td><td> </td><td>18.5</td><td> </td><td>- 6.2</td><td> </td><td>3.7</td></tr>
+<tr><td>Divalproex sodium</td><td> </td><td>18.9</td><td> </td><td>- 6</td><td> </td><td>3.5</td></tr>
+<tr><td align="center" colspan="7"><content stylecode="bold">BIS Total Score</content></td></tr>
+<tr><td><content stylecode="bold">Group</content></td><td> </td><td><content stylecode="bold"> Baseline<footnoteref idref="footNote4"></footnoteref></content></td><td> </td><td><content stylecode="bold"> BL to Day 21<footnoteref idref="footNote5"></footnoteref></content></td><td> </td><td><content stylecode="bold"> Difference<footnoteref idref="footNote6"></footnoteref></content></td></tr>
+<tr><td>Placebo</td><td> </td><td>16.4</td><td> </td><td>- 1.4</td><td> </td><td> </td></tr>
+<tr><td>Lithium</td><td> </td><td>16</td><td> </td><td>- 3.8</td><td> </td><td>2.4</td></tr>
+<tr><td>Divalproex sodium</td><td> </td><td>15.7</td><td> </td><td>- 3.2</td><td> </td><td>1.8</td></tr>
+</tbody>
+</table>

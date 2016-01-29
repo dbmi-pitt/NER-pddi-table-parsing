@@ -1,0 +1,54 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table I Reduction in CHD Rates (events per 1000 patients) by Baseline Lipids<sup>1</sup> in the Helsinki Heart Study, Years 0–5<sup>2</sup>
+</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th align="center" stylecode="    Lrule     "></th>
+<th>All Patients</th>
+<th align="center" colspan="3" stylecode="     Botrule         Lrule     " valign="top">LDL-C&gt;175;<br/>HDL-C&gt;46.4</th>
+<th align="center" colspan="3" stylecode="     Botrule         Lrule     " valign="top">LDL-C&gt;175;<br/>TG&gt;177</th>
+<th align="center" colspan="3" stylecode="     Botrule         Lrule          Rrule     ">LDL-C&gt;175;<br/>TG&gt;200;<br/>HDL-C&lt;35</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" stylecode="    Lrule     ">   </td>
+<td align="center" stylecode="     Botrule         Lrule     ">   P</td>
+<td align="center" stylecode="     Botrule     ">   L</td>
+<td align="center" stylecode="     Botrule     ">   Dif<content stylecode="bold">
+<sup>3</sup>
+</content>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     ">   P</td>
+<td align="center" stylecode="     Botrule     ">   L</td>
+<td align="center" stylecode="     Botrule          Rrule     ">   Dif</td>
+<td align="center" stylecode="     Botrule         Lrule     ">   P</td>
+<td align="center" stylecode="     Botrule     ">   L</td>
+<td align="center" stylecode="     Botrule     ">   Dif</td>
+<td align="center" stylecode="     Botrule         Lrule     ">   P</td>
+<td align="center" stylecode="     Botrule     ">   L</td>
+<td align="center" stylecode="     Botrule          Rrule     ">   Dif</td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     ">   Incidence of<br/>Events<sup>4</sup>
+</td>
+<td align="center" stylecode="    Lrule     " valign="bottom">   41</td>
+<td align="center" valign="bottom">   27</td>
+<td align="center" valign="bottom">   14</td>
+<td align="center" stylecode="    Lrule     " valign="bottom">   32</td>
+<td align="center" valign="bottom">   29</td>
+<td align="center" valign="bottom">   3</td>
+<td align="center" stylecode="    Lrule     " valign="bottom">   71</td>
+<td align="center" valign="bottom">   44</td>
+<td align="center" valign="bottom">   27</td>
+<td align="center" stylecode="    Lrule     " valign="bottom">   149</td>
+<td align="center" valign="bottom">   64</td>
+<td align="center" stylecode="     Rrule     " valign="bottom">   85</td>
+</tr>
+</tbody>
+</table>

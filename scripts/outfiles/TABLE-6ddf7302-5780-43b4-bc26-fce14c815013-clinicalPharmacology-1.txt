@@ -1,0 +1,39 @@
+<table xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Parameter (units)</content>
+</td>
+<td>
+<content stylecode="bold">Amoxicillin(n=24)</content>
+</td>
+<td>
+<content stylecode="bold">Clavulanate</content>
+<content stylecode="bold">(n=23)</content>
+</td>
+</tr>
+<tr>
+<td>AUC(0‑τ) (mcg•hr/mL)</td>
+<td>57.8 (15.6)</td>
+<td>3.18 (1.37)</td>
+</tr>
+<tr>
+<td>Cmax (mcg/mL)</td>
+<td>11.0 (3.34)</td>
+<td>1.17 (0.67)</td>
+</tr>
+<tr>
+<td>Tmax (hours)<sup>a</sup>
+</td>
+<td>2.0 (1.0 ‑ 5.0)</td>
+<td>2.0 (1.0 ‑ 4.0)</td>
+</tr>
+<tr>
+<td>T. (hours)</td>
+<td>3.32 (2.21)<sup>b</sup>
+</td>
+<td>0.94 (0.13)<sup>c</sup>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,64 @@
+<table id="TBL03" stylecode="Noautorules" width="700" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3: Susceptibility Interpretive Criteria for ORBACTIV<sup>a</sup>
+</caption>
+<col align="left" width="52%"></col>
+<col align="center" width="16%"></col>
+<col align="center" width="16%"></col>
+<col align="center" width="16%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="4">
+<paragraph>Abbreviations: MIC, minimum inhibitory concentration; S, Susceptible; I, intermediate; R, Resistant</paragraph>
+<paragraph>
+<sup>a</sup> As determined by broth microdilution with 0.002% polysorbate-80 during oritavancin dissolution and dilution and in the final assay.</paragraph>
+<paragraph>
+<sup>b</sup> The current absence of resistant isolates precludes defining any results other than "Susceptible". Isolates yielding test results other than "Susceptible" should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing.</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr valign="middle">
+<td align="center" rowspan="2" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Minimum Inhibitory Concentration<br/>(MIC, mcg/mL)</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="center" stylecode="Botrule Lrule Rrule">
+<content stylecode="bold">S</content>
+</td>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="bold">I<sup>b</sup>
+</content>
+</td>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="bold">R<sup>b</sup>
+</content>
+</td>
+</tr>
+<tr valign="middle">
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Staphylococcus aureus</content> (including methicillin-<br/>resistant isolates)</td>
+<td stylecode="Botrule Lrule Rrule">≤0.12</td>
+<td stylecode="Botrule Lrule Rrule">-</td>
+<td stylecode="Botrule Lrule Rrule">-</td>
+</tr>
+<tr valign="middle">
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Streptococcus pyogenes, Streptococcus agalactiae,<br/>Streptococcus dysgalactiae, Streptococcus<br/>anginosus, Streptococcus constellatus, and<br/>Streptococcus intermedius.</content>
+</td>
+<td stylecode="Botrule Lrule Rrule">≤0.25</td>
+<td stylecode="Botrule Lrule Rrule">-</td>
+<td stylecode="Botrule Lrule Rrule">-</td>
+</tr>
+<tr valign="middle">
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Enterococcus faecalis</content> (vancomycin-susceptible<br/>isolates only)</td>
+<td stylecode="Botrule Lrule Rrule">≤0.12</td>
+<td stylecode="Botrule Lrule Rrule">-</td>
+<td stylecode="Botrule Lrule Rrule">-</td>
+</tr>
+</tbody>
+</table>

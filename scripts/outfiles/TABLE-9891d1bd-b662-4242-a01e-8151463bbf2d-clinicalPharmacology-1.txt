@@ -1,0 +1,81 @@
+<table id="id_102f798e-c4ce-4e81-af59-e343dc6ba35f" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_f9dc2985-3045-4426-a5d3-9f09ff780345">Table 2. Acceptable Quality Control Ranges for Clindamycin to be Used in Validation of Susceptibility Test Results</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_fe51b7bf-3b6a-4d27-9f8e-ee2f83e90aed" stylecode="Toprule">
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">QC Strain</content>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Botrule" valign="middle">
+<content stylecode="bold">Acceptable Quality Control Ranges</content>
+</td>
+</tr>
+<tr id="id_f08d9916-3741-45bb-8de1-ab2c3ec4f94d" stylecode="Botrule">
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Minimal Inhibitory<br/>Concentration <br/>(MIC in mcg/mL)</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="bold">Disk Diffusion <br/>(Zone Diameters <br/>in mm)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_e191513a-0865-4054-9601-8d2fed2416d1" stylecode="Toprule">
+<td align="left" valign="middle">
+<content stylecode="bold">
+<content stylecode="italics">When Testing<br/>Aerobic Pathogens</content>
+</content>
+</td>
+<td align="center" stylecode="Toprule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_8ce7a8e9-7f31-4c1c-89d4-3cec7a6a74ba">
+<td align="left" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 29213</td>
+<td align="center" valign="top"> 0.06−0.25 </td>
+<td align="center" valign="top"> NA </td>
+</tr>
+<tr id="id_5c10c7c7-9fcd-4ea8-a02d-18e65946c2b1">
+<td align="left" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 25923</td>
+<td align="center" valign="top"> NA </td>
+<td align="center" valign="top"> 24−30 </td>
+</tr>
+<tr id="id_1e452b1f-49d8-41bb-87e8-dfa4967eeb1f">
+<td align="left" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<br/>ATCC 49619<footnote id="id-c14e6e97-1e23-4109-ba97-b4f98e272de1">This organism may be used for validation of susceptibility test results when testing <content stylecode="italics">Streptococcus</content> spp. other than <content stylecode="italics">S. pneumoniae.</content>
+</footnote>
+</td>
+<td align="center" valign="top">0.03−0.12 <footnote id="id-d0908dac-a62a-4eec-9734-47cd62f84f8a">This quality control range for <content stylecode="italics">S. pneumoniae</content> is applicable only to tests performed by broth microdilution using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood inoculated with a direct colony suspension and incubated in ambient air at 35°C for 20 to 24 hours.</footnote>
+</td>
+<td align="center" valign="top">19−25 <footnote id="id-952d25ac-64bb-43f2-ac38-ab1e41252ecc">This quality control zone diameter range is applicable only to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood inoculated with a direct colony suspension and incubated in 5% CO<sub>2</sub> at 35°C for 20 to 24 hours.</footnote>
+</td>
+</tr>
+<tr id="id_2df88803-5eba-4ff9-872a-e10633e0ae2a">
+<td align="left" valign="middle">
+<content stylecode="italics">Bacteroides fragilis</content>
+<br/>ATCC 25285</td>
+<td align="center" valign="top">0.5 – 2</td>
+<td align="center" valign="top">NA</td>
+</tr>
+<tr id="id_fc97c673-b671-4b0a-a1fd-708a810d60c2">
+<td align="left" valign="middle">
+<content stylecode="italics">Bacteroides <br/>thetaiotaomicron </content>
+<br/>ATCC 29741</td>
+<td align="center" valign="top">2 – 8</td>
+<td align="center" valign="top">NA</td>
+</tr>
+<tr id="id_62550c38-eff1-49a5-b77e-e2d05e8b9653" stylecode="Botrule">
+<td align="left" valign="middle">
+<content stylecode="italics">Eubacterium lentum</content>
+<br/>ATCC 43055</td>
+<td align="center" valign="top">0.06 – 0.25</td>
+<td align="center" valign="top">NA</td>
+</tr>
+</tbody>
+</table>

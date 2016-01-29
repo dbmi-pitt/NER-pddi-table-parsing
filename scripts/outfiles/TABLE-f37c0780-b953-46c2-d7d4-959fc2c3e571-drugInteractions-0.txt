@@ -1,0 +1,35 @@
+<table border="1" cellpadding="3" cellspacing="0" width="633" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td valign="top">
+<content stylecode="bold">Name of the Concomitant Drug</content>
+</td>
+<td valign="top">
+<content stylecode="bold">Change in the Concentration of Ganciclovir or Concomitant Drug</content>
+</td>
+<td valign="top">
+<content stylecode="bold">Clinical Comment</content>
+</td>
+</tr>
+<tr>
+<td valign="top">Zidovudine </td>
+<td valign="top">↓ Ganciclovir <br/>↑ Zidovudine </td>
+<td valign="top">Zidovudine and valganciclovir  each have the potential to cause neutropenia and anemia </td>
+</tr>
+<tr>
+<td valign="top">Probenecid </td>
+<td valign="top">↑ Ganciclovir </td>
+<td valign="top">Patients taking probenecid and valganciclovir  should be monitored for evidence of ganciclovir toxicity </td>
+</tr>
+<tr>
+<td valign="top">Mycophenolate Mofetil (MMF) </td>
+<td valign="top">↔ Ganciclovir (in patients with normal renal function) <br/>↔ MMF (in patients with normal renal function) </td>
+<td valign="top">Patients with renal impairment should be monitored carefully as levels of MMF metabolites and ganciclovir may increase </td>
+</tr>
+<tr>
+<td valign="top">Didanosine </td>
+<td valign="top">↓ Ganciclovir <br/>↑ Didanosine </td>
+<td valign="top">Patients should be closely monitored for didanosine toxicity </td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,85 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule"></td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Caffeine Citrate</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Placebo</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">p-value</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Number of patients evaluated<sup>1</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>45</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>37</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>% of patients with zero apnea events on day 2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>26.7</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>8.1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.03</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Apnea rate on day 2 (per 24h)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>4.9</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>7.2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.134</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>% of patients with 50% reduction in apnea events from baseline on day 2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>76</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>57</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.07</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

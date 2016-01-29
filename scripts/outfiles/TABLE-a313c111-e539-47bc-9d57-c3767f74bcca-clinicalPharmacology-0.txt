@@ -1,0 +1,49 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2: Mean Changes in Electrocardiogram Intervals<sup>a</sup>
+</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" colspan="5"> Total Daily Dose (mg)</td>
+</tr>
+<tr>
+<td> Interval</td>
+<td align="center">337.5 mg<br/> msec       %</td>
+<td align="center"> 450 mg<br/>msec       %</td>
+<td align="center"> 675 mg<br/>msec       %</td>
+<td align="center"> 900 mg<br/>msec       %</td>
+</tr>
+<tr>
+<td> RR</td>
+<td align="center"> -14.5       -1.8</td>
+<td align="center"> 30.6        3.8</td>
+<td align="center"> 31.5        3.9</td>
+<td align="center"> 41.7        5.1</td>
+</tr>
+<tr>
+<td> PR</td>
+<td align="center"> 3.6          2.1</td>
+<td align="center"> 19.1        11.6</td>
+<td align="center"> 28.9        17.8</td>
+<td align="center"> 35.6        21.9</td>
+</tr>
+<tr>
+<td> QRS</td>
+<td align="center"> 5.6          6.4</td>
+<td align="center"> 5.5          6.1</td>
+<td align="center"> 7.7          8.4</td>
+<td align="center"> 15.6        17.3</td>
+</tr>
+<tr>
+<td> QTc</td>
+<td align="center"> 2.7          0.7</td>
+<td align="center"> -7.5         -1.8</td>
+<td align="center"> 5.0          1.2</td>
+<td align="center"> 14.7        3.7</td>
+</tr>
+</tbody>
+</table>

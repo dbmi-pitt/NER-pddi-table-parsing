@@ -1,0 +1,140 @@
+<table stylecode="Noautorules" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="top" width="30%"></col>
+<col align="left" valign="top" width="70%"></col>
+<tbody>
+<tr>
+<td colspan="2">
+<content stylecode="bold">For Gram-Positive Aerobes</content>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="italics">Enterococcus</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≥ 17</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>≤ 16</td>
+<td>Resistant (R)</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="italics">Staphylococcus<footnote id="t4f1">Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.</footnote>
+</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≥ 29</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>≤ 28</td>
+<td>Resistant (R)</td>
+</tr>
+<tr>
+<td colspan="2">β-hemolytic streptococci</td>
+</tr>
+<tr>
+<td>
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≥ 26</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>19 to 25</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr>
+<td>≤ 18</td>
+<td>Resistant (R)</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">NOTE:</content> For streptococci (other than β-hemolytic streptococci and <content stylecode="italics">S. pneumoniae</content>), an ampicillin MIC should be determined.</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="italics">S. pneumoniae<br/>S. pneumoniae</content> should be tested using a 1 mcg oxacillin disk. Isolates with oxacillin zone sizes of ≥ 20 mm are susceptible to amoxicillin. An amoxicillin MIC should be determined on isolates of <content stylecode="italics">S. pneumoniae</content> with oxacillin zone sizes of ≤ 19 mm.</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">For Gram-Negative Aerobes</content>
+</td>
+</tr>
+<tr>
+<td colspan="2">Enterobacteriaceae</td>
+</tr>
+<tr>
+<td>
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≥ 17</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>14 to 16</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr>
+<td>≤ 13</td>
+<td>Resistant (R)</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="italics">H. influenzae<footnote id="t4f2">These interpretive standards are applicable only to disk diffusion susceptibility tests with <content stylecode="italics">H. influenzae</content> using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>2</sup>
+</footnote>
+</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≥ 22</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>19 to 21</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr>
+<td>≤ 18</td>
+<td>Resistant (R)</td>
+</tr>
+</tbody>
+</table>

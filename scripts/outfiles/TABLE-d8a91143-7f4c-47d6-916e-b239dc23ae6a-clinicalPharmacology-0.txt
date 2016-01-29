@@ -1,0 +1,64 @@
+<table id="id_ba943a12-3b22-4537-972b-227c4c465987" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_9fdc1b8c-9ff2-4b75-ac62-2558127216ed">Table 1 Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6-16 Following Multiple Dosing</caption>
+<col width="154*"></col>
+<col width="80*"></col>
+<col width="68*"></col>
+<col width="86*"></col>
+<col width="74*"></col>
+<thead>
+<tr id="id_ce1c471c-63f6-4b8f-a82b-d69e23f154b7" stylecode="Botrule">
+<td align="left" valign="top"></td>
+<td align="center" colspan="2" valign="top">Adults given 50 mg once daily for 7 days<br/>N=12</td>
+<td align="center" colspan="2" valign="top">Age 6-16 given 0.7 mg/kg once daily for 7 days<br/>N=25</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_201ce9c2-3776-48f8-ba31-25f8275f5291" stylecode="Toprule">
+<td align="left" valign="top"></td>
+<td align="left" stylecode="Toprule" valign="top">Parent</td>
+<td align="left" stylecode="Toprule" valign="top">Active Metabolite</td>
+<td align="left" stylecode="Toprule" valign="top">Parent</td>
+<td align="left" valign="top">Active Metabolite</td>
+</tr>
+<tr id="id_169c854d-f9e0-42d6-85fa-52121129912d">
+<td align="left" valign="top">AUC<sub>0-24</sub>
+<footnote id="id-03e1ba18-194e-4f31-b2bb-e037a0124682"> Mean ± standard deviation</footnote>(ng•h/mL)</td>
+<td align="left" valign="top">442 ± 173</td>
+<td align="left" valign="top">1685 ± 452</td>
+<td align="left" valign="top">368 ± 169</td>
+<td align="left" valign="top">1866 ± 1076</td>
+</tr>
+<tr id="id_59f105f3-e8d2-442c-838c-bd3ffe6c6822">
+<td align="left" valign="top">C<sub>MAX</sub> (ng/mL)<footnoteref idref="id-03e1ba18-194e-4f31-b2bb-e037a0124682"></footnoteref>
+</td>
+<td align="left" valign="top">224 ± 82</td>
+<td align="left" valign="top">212 ± 73</td>
+<td align="left" valign="top">141 ± 88</td>
+<td align="left" valign="top">222 ± 127</td>
+</tr>
+<tr id="id_d669d684-e950-439d-8f1e-804b19570770">
+<td align="left" valign="top">T<sub>1/2</sub> (h)<footnote id="id-a138efc6-8979-4276-b359-ff4629240a34">Harmonic mean and standard deviation</footnote>
+</td>
+<td align="left" valign="top">2.1 ± 0.70</td>
+<td align="left" valign="top">7.4 ± 2.4</td>
+<td align="left" valign="top">2.3 ± 0.8</td>
+<td align="left" valign="top">5.6 ± 1.2</td>
+</tr>
+<tr id="id_f9b28150-f351-41d1-a7b8-208b8090e476">
+<td align="left" valign="top">T<sub>PEAK</sub> (h)<footnote id="id-d6f015ad-6631-4ad2-8953-028ca8e5a14b">Median</footnote>
+</td>
+<td align="left" valign="top">0.9</td>
+<td align="left" valign="top">3.5</td>
+<td align="left" valign="top">2.0</td>
+<td align="left" valign="top">4.1</td>
+</tr>
+<tr id="id_189ae2ee-4988-4534-97f3-e2996cdbc3d0" stylecode="Botrule">
+<td align="left" valign="top">CL<sub>REN</sub> (mL/min)<footnoteref idref="id-03e1ba18-194e-4f31-b2bb-e037a0124682"></footnoteref>
+</td>
+<td align="left" valign="top">56 ± 23</td>
+<td align="left" valign="top">20 ± 3</td>
+<td align="left" valign="top">53 ± 33</td>
+<td align="left" valign="top">17 ± 8</td>
+</tr>
+</tbody>
+</table>

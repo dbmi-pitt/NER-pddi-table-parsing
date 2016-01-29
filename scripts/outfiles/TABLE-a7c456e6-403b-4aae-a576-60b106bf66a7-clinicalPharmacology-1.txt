@@ -1,0 +1,76 @@
+<table id="id_eb14c044-4aae-4174-bc57-5103e0cda3df" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_68af6815-ff3d-4153-a2f4-9d4a8618df8f">TABLE B RANGE OF PHARMACOKINETIC PARAMETERS OF INTRAVENOUS FENTANYL IN PATIENTS </caption>
+<col align="left" width="37.475%"></col>
+<col align="left" width="16.225%"></col>
+<col align="left" width="29.475%"></col>
+<col align="left" width="16.825%"></col>
+<tfoot id="id_c9fb2e2c-de81-4e2e-8031-cc8a88081a1f">
+<tr>
+<td align="left" colspan="4" stylecode="Rrule" valign="top">
+<paragraph>
+<sup>*</sup>Estimated </paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="4" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">NOTE:</content> Information on volume of distribution and half-life not available for renally impaired patients. </paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_9e5de227-2137-4471-8f80-5ea0e0c3e7e2">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Clearance</content>
+<br/>
+<content stylecode="bold">(L/hr)</content>
+<br/>
+<content stylecode="bold">Range</content>
+<br/>
+<content stylecode="bold">[70 kg]</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Volume of Distribution</content>
+<br/>
+<content stylecode="bold">V</content>
+<sub>SS</sub>
+<br/>
+<content stylecode="bold">(L/kg)</content>
+<br/>
+<content stylecode="bold">Range</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Half-Life</content>
+<br/>
+<content stylecode="bold">t</content>
+<sub>1/2</sub>
+<br/>
+<content stylecode="bold">(hr)</content>
+<br/>
+<content stylecode="bold">Range</content>
+</td>
+</tr>
+<tr id="id_6b7ab734-77c0-4c0e-b372-cce4e9d31d2b">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Surgical Patients </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">27 – 75 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3 – 8 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3 – 12 </td>
+</tr>
+<tr id="id_a1fbeaa1-ad42-48e2-8b4c-a0ae1bd767d8">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Hepatically Impaired Patients </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3 – 80<sup>*</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.8 – 8<sup>*</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4 – 12<sup>*</sup>
+</td>
+</tr>
+<tr id="id_0503a979-eb6d-405c-9ed7-09da0a6554ff">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Renally Impaired Patients </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">30 – 78 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">– </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">– </td>
+</tr>
+</tbody>
+</table>

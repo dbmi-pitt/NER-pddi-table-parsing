@@ -1,0 +1,48 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Summary of Multiple-Dose Pharmacokinetic Parameters of Dronabinol in Healthy Volunteers (n=34; 20 to 45 years) under Fasted Conditions</caption>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th colspan="4" stylecode="Lrule Rrule">Mean (SD) PK Parameter Values</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule">BID<br/>
+</th>
+<th stylecode="Rrule">Cmax<br/>
+</th>
+<th stylecode="Rrule">Median Tmax<br/>
+</th>
+<th stylecode="Rrule">AUC(0 to 12)<br/>
+</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule">Dose</th>
+<th stylecode="Rrule">ng/mL</th>
+<th stylecode="Rrule">(range), hr</th>
+<th stylecode="Rrule">ng∙hr/mL</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">2.5 mg</td>
+<td stylecode="Rrule">1.32 (0.62)</td>
+<td stylecode="Rrule">1 (0.5 to 4)</td>
+<td stylecode="Rrule">2.88 (1.57)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">5 mg</td>
+<td stylecode="Rrule">2.96 (1.81)</td>
+<td stylecode="Rrule">2.5 (0.5 to 4)</td>
+<td stylecode="Rrule">6.16 (1.85)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">10 mg</td>
+<td stylecode="Rrule">7.88 (4.54)</td>
+<td stylecode="Rrule">1.5 (0.5 to 3.5)</td>
+<td stylecode="Rrule">15.2 (5.52)</td>
+</tr>
+</tbody>
+</table>

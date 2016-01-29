@@ -1,0 +1,86 @@
+<table width="70%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Susceptibility Interpretive Criteria for Clindamycin</caption>
+<col span="1" width="1px"></col>
+<col span="1" width="1px"></col>
+<col span="1" width="1px"></col>
+<col span="1" width="1px"></col>
+<col span="1" width="1px"></col>
+<col span="1" width="1px"></col>
+<col span="1" width="1px"></col>
+<tbody>
+<tr>
+<td>  </td>
+<td>
+<content stylecode="bold">Susceptibility Interpretive Criteria</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Pathogen </content>
+</td>
+<td>
+<content stylecode="bold">Minimal Inhibitory Concentrations<br/>(MIC in mcg/mL)</content>
+</td>
+<td>
+<content stylecode="bold"> Disk Diffusion<br/>(Zone Diameters in mm)</content>
+</td>
+</tr>
+<tr>
+<td>   </td>
+<td>
+<content stylecode="bold">S</content>
+</td>
+<td>
+<content stylecode="bold">I</content>
+</td>
+<td>
+<content stylecode="bold">R</content>
+</td>
+<td>
+<content stylecode="bold">S</content>
+</td>
+<td>
+<content stylecode="bold">I</content>
+</td>
+<td>
+<content stylecode="bold">R</content>
+</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Staphylococcus</content> spp.</td>
+<td>≤0.5</td>
+<td>1–2</td>
+<td>≥4</td>
+<td>≥21</td>
+<td>15–20</td>
+<td>≤14</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Streptococcus pneumoniae</content> and other <content stylecode="italics">Streptococcus</content> spp.</td>
+<td>≤0.25</td>
+<td>0.5</td>
+<td>≥1</td>
+<td>≥19</td>
+<td>16–18</td>
+<td>≤15</td>
+</tr>
+<tr>
+<td> Anaerobic Bacteria</td>
+<td>≤2</td>
+<td>4</td>
+<td>≥8</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr>
+<td> NA=not applicable</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>

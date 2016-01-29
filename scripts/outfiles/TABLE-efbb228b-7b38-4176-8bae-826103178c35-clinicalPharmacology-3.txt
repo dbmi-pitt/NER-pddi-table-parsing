@@ -1,0 +1,316 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="12%"></col>
+<col width="13%"></col>
+<col width="11%"></col>
+<col width="11%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="11%"></col>
+<col width="11%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="9" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Hemodynamic Effects of Desflurane During Controlled Ventilation</content>
+<br/>
+<content stylecode="bold">12 Male Volunteers, Ages 16-26</content>
+<br/>
+<content stylecode="bold">Mean ± SD (Range)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule "></td>
+<td stylecode="Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td align="center" colspan="2" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Heart Rate (beats/min)</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Mean Arterial Pressure </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(mm Hg)</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Cardiac Index (L/min/m<sup>2</sup>)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Total MAC Equivalent</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">End-Tidal % Des/O<sub>2</sub>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">End-Tidal % Des/N<sub>2</sub>O</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">O<sub>2</sub>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">N<sub>2</sub>O</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">O<sub>2</sub>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">N<sub>2</sub>O</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">O<sub>2</sub>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">N<sub>2</sub>O</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule ">
+<paragraph>0</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>0% / 21%</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>0% / 0%</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>69 ± 4</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>70 ± 6</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>85 ± 9</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>85 ± 9</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>3.7 ± 0.4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule ">
+<paragraph>3.7 ± 0.4</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(63 - 76)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(62 - 85)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(74 - 102)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(74 - 102)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(3.0 - 4.2)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>(3.0 - 4.2)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule ">
+<paragraph>0.8</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>6% / 94%</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>3% / 60%</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>73 ± 5</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>77 ± 8</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>61 ± 5<footnote id="_RefIDB9480FD9145D4687850D2D4BC62CAD44">Differences were statistically significant (p &lt; 0.05) compared to awake values, Newman-Keul’s method of multiple comparison.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>69 ± 5<footnoteref idref="_RefIDB9480FD9145D4687850D2D4BC62CAD44"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>3.2 ± 0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule ">
+<paragraph>3.3 ± 0.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(67 - 80)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(67 - 97)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(55 - 70)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(62 - 80)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(2.6 - 4.0)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>(2.6 - 4.1)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule ">
+<paragraph>1.2</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>9% / 91%</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>6% / 60%</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>80 ± 5<footnoteref idref="_RefIDB9480FD9145D4687850D2D4BC62CAD44"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>77 ± 7</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>59 ± 8<footnoteref idref="_RefIDB9480FD9145D4687850D2D4BC62CAD44"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>63 ± 8<footnoteref idref="_RefIDB9480FD9145D4687850D2D4BC62CAD44"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>3.4 ± 0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule ">
+<paragraph>3.1 ± 0.4<footnoteref idref="_RefIDB9480FD9145D4687850D2D4BC62CAD44"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(72 - 84)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(67 - 90)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(44 - 71)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(47 - 74)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>(2.6 - 4.1)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>(2.6 - 3.8)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule ">
+<paragraph>1.7</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>12% / 88%</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>9% / 60%</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>94 ± 14<footnoteref idref="_RefIDB9480FD9145D4687850D2D4BC62CAD44"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>79 ± 9</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>51 ± 12<footnoteref idref="_RefIDB9480FD9145D4687850D2D4BC62CAD44"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>59 ± 6<footnoteref idref="_RefIDB9480FD9145D4687850D2D4BC62CAD44"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule ">
+<paragraph>3.5 ± 0.9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule ">
+<paragraph>3.0 ± 0.4<footnoteref idref="_RefIDB9480FD9145D4687850D2D4BC62CAD44"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule "></td>
+<td stylecode="Botrule Lrule "></td>
+<td stylecode="Botrule Lrule "></td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>(78 - 109)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>(61 - 91)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>(31 - 66)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>(46 - 68)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>(1.7 - 4.7)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>(2.4 - 3.6)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

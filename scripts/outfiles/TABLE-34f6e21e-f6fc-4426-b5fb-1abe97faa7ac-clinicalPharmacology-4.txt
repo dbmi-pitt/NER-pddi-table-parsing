@@ -1,0 +1,60 @@
+<table id="id_64546016-9d52-45ac-9ed2-5a9f0bafd798" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_356b2ae6-4803-4009-bcc7-cd59ba05aaae">
+<td align="center" stylecode="Toprule" valign="top">
+<paragraph>Clarithromycin MIC (mcg/mL) <footnote id="id-c48e5d0d-9847-421b-9231-bc19eebb5b95">These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.</footnote>
+</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Interpretation</paragraph>
+</td>
+</tr>
+<tr id="id_0b4634a0-741f-4816-a3fd-9742aa28ec5b">
+<td align="center" valign="top">
+<paragraph>≤ 0.25</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr id="id_7baae791-1b93-413f-85e0-0baff6ec8f94">
+<td align="center" valign="top">
+<paragraph>0.5</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr id="id_6b2c29d1-bba1-4222-8a0d-94aabb1751cd">
+<td align="center" valign="top">
+<paragraph>&gt; 1.0</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+<tr id="id_a9425db7-9b9f-45b0-ae67-1ce83b89b7bc">
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_c1e9b980-7ddb-4424-b740-ffb2464f93ea">
+<td align="center" valign="top">
+<paragraph>Amoxicillin MIC (mcg/mL) <footnoteref idref="id-c48e5d0d-9847-421b-9231-bc19eebb5b95"></footnoteref>,<footnote id="id-b9c285c9-91fb-40eb-bddb-900540fa1657">There were not enough organisms with MICs &gt; 0.25 mcg/mL to determine a resistance breakpoint.</footnote>
+</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Interpretation</paragraph>
+</td>
+</tr>
+<tr id="id_6a7b55b5-6650-42a4-b42f-df6116e36dfa">
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>≤ 0.25</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,27 @@
+<table border="1" id="id_959bc612-f1dd-4a8c-ba78-540b89fb8b43" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_4b84f112-19b5-4504-b1e1-cf4a57268983">
+<td align="left" stylecode="Toprule Rrule" valign="top">Microorganism</td>
+<td align="left" valign="top">MIC ( µg/mL)</td>
+</tr>
+<tr id="id_cc0ba15c-6276-417f-a926-56a490ab9f90">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Escherichia coli</content> ATCC 25922</td>
+<td align="left" valign="top">≤0.5/9.5</td>
+</tr>
+<tr id="id_98228a1a-232f-4e4d-99fa-7bd0006fb677">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>c</sup> ATCC 49247</td>
+<td align="left" valign="top">0.03/0.59-0.25/4.75</td>
+</tr>
+<tr id="id_0038a084-f8f3-4b29-9e87-97eb6a4abfb7">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<sup>d</sup> ATCC 49619</td>
+<td align="left" stylecode="Botrule" valign="top">0.12/2.4-1/19</td>
+</tr>
+</tbody>
+</table>

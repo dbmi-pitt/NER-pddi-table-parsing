@@ -1,0 +1,25 @@
+<table border="1" frame="border" id="inv-d3e4bf20-a814-4b2d-be81-a839510fdb88" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-83da370e-47a3-4511-9bec-67b4cc82c926">Agar Dilution Interpretive Criteria for Anaerobes</caption>
+<col width="323px"></col>
+<col width="300px"></col>
+<thead valign="bottom">
+<tr valign="bottom">
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom">MIC (mcg.mL)</td>
+<td stylecode="Botrule Rrule Toprule" valign="bottom">Interpretation</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Rrule">≤4</td>
+<td stylecode="Botrule Rrule">Susceptible (S)</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">8</td>
+<td stylecode="Botrule Rrule">Intermediate (I)</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">≥16</td>
+<td stylecode="Botrule Rrule">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

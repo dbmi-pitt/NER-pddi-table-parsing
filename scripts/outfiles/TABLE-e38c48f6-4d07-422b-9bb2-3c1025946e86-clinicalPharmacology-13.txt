@@ -1,0 +1,55 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="256px"></col>
+<col width="99px"></col>
+<col width="278px"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="underline">ATCC</content>
+<content stylecode="underline">
+<sup>®</sup>
+</content>
+<content stylecode="underline"> #</content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="underline">Zone Diameter Ranges (mm)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Escherichia coli </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 25922</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 29-35</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Staphylococcus aureus </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 25923</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 22-28</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Pseudomonas aeruginosa </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 27853</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 17-23</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Haemophilus influenzae </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 49247</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 31-39</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Neisseria gonorrhoeae </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 49226</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 39-51</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Streptococcus pneumoniae </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 49619</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 30-35</td>
+</tr>
+</tbody>
+</table>

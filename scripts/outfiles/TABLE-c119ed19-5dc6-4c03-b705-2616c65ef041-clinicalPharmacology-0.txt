@@ -1,0 +1,80 @@
+<table id="id_7d0e31f4-c8d6-4022-baf0-fd93b76c6b7c" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_192e9b03-780e-40fa-92de-10aff9f9de1a">Table 4: Mean Antisecretory Effects After Single and Multiple Daily Lansoprazole Dosing</caption>
+<col align="left" width="20%"></col>
+<col align="center" width="16%"></col>
+<col align="center" width="16%"></col>
+<col align="center" width="16%"></col>
+<col align="center" width="16%"></col>
+<col align="center" width="16%"></col>
+<thead>
+<tr id="id_fc26bf44-4349-4912-8c54-f45b337c8ad4" stylecode="Toprule">
+<td align="left" colspan="2" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="left" colspan="4" stylecode="Lrule Botrule Rrule" valign="top">Lansoprazole</td>
+</tr>
+<tr id="id_64481e84-46fd-4dfc-b5e6-28769be99ae1">
+<td align="left" rowspan="2" stylecode="Lrule Botrule Rrule" valign="top">Parameter</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">Baseline Value</td>
+<td align="left" colspan="2" stylecode="Botrule Rrule" valign="top">15 mg</td>
+<td align="left" colspan="2" stylecode="Lrule Botrule Rrule" valign="top">30 mg</td>
+</tr>
+<tr id="id_aa9f39be-96a9-46c6-9be0-7cd9332eb320" stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">Day 1</td>
+<td align="left" stylecode="Rrule" valign="top">Day 5</td>
+<td align="left" stylecode="Rrule" valign="top">Day 1</td>
+<td align="left" stylecode="Rrule" valign="top">Day 5</td>
+</tr>
+</thead>
+<tfoot id="id_31a82720-6f07-4b4d-b5a5-d9f9f8a4d23c">
+<tr>
+<td align="left" colspan="6" stylecode="Lrule Rrule" valign="top">NOTE: An intragastric pH of greater than 4 reflects a reduction in gastric acid by 99%.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_e5c54b5b-c888-4d5d-96ae-9d5b57c82cce" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Mean 24-Hour pH</td>
+<td align="left" stylecode="Rrule" valign="top">2.1</td>
+<td align="left" stylecode="Rrule" valign="top">2.7<footnote id="id-c5b613f9-0ba1-4b50-877d-b622a2405831">(p&lt;0.05) versus baseline only.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">4<footnoteref idref="id-c5b613f9-0ba1-4b50-877d-b622a2405831"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">3.6<footnote id="id-309407ac-1f89-4ff0-a176-34c07bd18d05">(p&lt;0.05) versus baseline and lansoprazole 15 mg.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">4.9<footnoteref idref="id-309407ac-1f89-4ff0-a176-34c07bd18d05"></footnoteref>
+</td>
+</tr>
+<tr id="id_ae0b0d2e-c4b0-4c46-83c0-b61b910c56cc">
+<td align="left" stylecode="Lrule Rrule" valign="top">Mean Nighttime pH</td>
+<td align="left" stylecode="Rrule" valign="top">1.9</td>
+<td align="left" stylecode="Rrule" valign="top">2.4</td>
+<td align="left" stylecode="Rrule" valign="top">3<footnoteref idref="id-c5b613f9-0ba1-4b50-877d-b622a2405831"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">2.6</td>
+<td align="left" stylecode="Rrule" valign="top">3.8<footnoteref idref="id-309407ac-1f89-4ff0-a176-34c07bd18d05"></footnoteref>
+</td>
+</tr>
+<tr id="id_1d9c3d3a-9b80-46d1-bf15-5072251c6d1f">
+<td align="left" stylecode="Lrule Rrule" valign="top">% Time Gastric pH&gt;3</td>
+<td align="left" stylecode="Rrule" valign="top">18</td>
+<td align="left" stylecode="Rrule" valign="top">33<footnoteref idref="id-c5b613f9-0ba1-4b50-877d-b622a2405831"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">59<footnoteref idref="id-c5b613f9-0ba1-4b50-877d-b622a2405831"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">51<footnoteref idref="id-309407ac-1f89-4ff0-a176-34c07bd18d05"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">72<footnoteref idref="id-309407ac-1f89-4ff0-a176-34c07bd18d05"></footnoteref>
+</td>
+</tr>
+<tr id="id_29f43143-192d-4e8e-94d7-f6a64476c7b2">
+<td align="left" stylecode="Lrule Rrule" valign="top">% Time Gastric pH&gt;4</td>
+<td align="left" stylecode="Rrule" valign="top">12</td>
+<td align="left" stylecode="Rrule" valign="top">22<footnoteref idref="id-c5b613f9-0ba1-4b50-877d-b622a2405831"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">49<footnoteref idref="id-c5b613f9-0ba1-4b50-877d-b622a2405831"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">41<footnoteref idref="id-309407ac-1f89-4ff0-a176-34c07bd18d05"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">66<footnoteref idref="id-309407ac-1f89-4ff0-a176-34c07bd18d05"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

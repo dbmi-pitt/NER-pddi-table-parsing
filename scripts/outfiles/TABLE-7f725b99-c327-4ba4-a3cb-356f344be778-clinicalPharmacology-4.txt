@@ -1,0 +1,53 @@
+<table width="65%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>RECOMMENDED RANGES FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING</caption>
+<col align="center" valign="top" width="50%"></col>
+<col align="center" valign="top" width="50%"></col>
+<tbody>
+<tr stylecode="Toprule">
+<th align="left" colspan="2">For <content stylecode="italics">Staphylococcus</content>
+<footnote>Staphylococci which are resistant to methicillin/oxacillin must be considered as resistant to amoxicillin/clavulanic acid.</footnote> species and <content stylecode="italics">H. influenzae</content>
+<footnote>A broth microdilution method should be used for testing <content stylecode="italics">H. influenzae.</content> Beta-lactamase-negative, ampicillin-resistant strains must be considered resistant to amoxicillin/clavulanic acid.</footnote>:</th>
+</tr>
+<tr>
+<td>
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≥20</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>≤19</td>
+<td>Resistant (R)</td>
+</tr>
+<tr>
+<th align="left" colspan="2">For Other Organisms Except <content stylecode="italics">S. pneumoniae</content>
+<footnote>Susceptibility of <content stylecode="italics">S. pneumoniae</content> should be determined using a 1-mcg oxacillin disk. Isolates with oxacillin zone sizes of ≥20 mm are susceptible to amoxicillin/clavulanic acid. An amoxicillin/clavulanic acid MIC should be determined on isolates of <content stylecode="italics">S. pneumoniae</content> with oxacillin zone sizes of ≤19 mm.</footnote> and N. <content stylecode="italics">gonorrhoeae</content>
+<footnote>A broth microdilution method should be used for testing <content stylecode="italics">N.gonorrhoeae</content> and interpreted according to penicillin breakpoints.</footnote>:</th>
+</tr>
+<tr>
+<td>
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≥18</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>14 to 17</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr stylecode="Botrule">
+<td>≤13</td>
+<td>Resistant (R)</td>
+</tr>
+</tbody>
+</table>

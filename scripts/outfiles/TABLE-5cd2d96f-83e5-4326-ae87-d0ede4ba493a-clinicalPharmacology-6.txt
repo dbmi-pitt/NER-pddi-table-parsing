@@ -1,0 +1,59 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="35%"></col>
+<col width="20%"></col>
+<col width="20%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Rrule"> QC Strain</td>
+<td align="center" stylecode="Botrule Lrule Rrule">
+<paragraph>Minimum Inhibitory  Concentration <br/>(mcg/mL) </paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Rrule"> Disc Diffusion  Zone Diameters  <br/>(mm)</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule"> <content stylecode="italics">Escherichia coli</content> ATCC<sup>®</sup> 25922</td>
+<td align="center" stylecode="Botrule Lrule Rrule"> 0.03 – 0.12</td>
+<td align="center" stylecode="Botrule Lrule Rrule">29 – 35</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule"> <content stylecode="italics">Staphylococcus aureus</content> ATCC<sup>®</sup> 25923</td>
+<td align="center" stylecode="Botrule Lrule Rrule">-</td>
+<td align="center" stylecode="Botrule Lrule Rrule">22 – 28</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule"> <content stylecode="italics">Staphylococcus aureus</content> ATCC<sup>®</sup> 29213</td>
+<td align="center" stylecode="Botrule Lrule Rrule">1 – 8</td>
+<td align="center" stylecode="Botrule Lrule Rrule"> -</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule"> <content stylecode="italics">Haemophilus influenzae</content> ATCC<sup>®</sup> 49247</td>
+<td align="center" stylecode="Botrule Lrule Rrule">0.06 – 0.25</td>
+<td align="center" stylecode="Botrule Lrule Rrule"> 31 – 39</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule"> <content stylecode="italics">Neisseria gonorrhoeae</content> ATCC<sup>®</sup> 49226</td>
+<td align="center" stylecode="Botrule Lrule Rrule"> 0.004 – 0.015</td>
+<td align="center" stylecode="Botrule Lrule Rrule"> 39 – 51</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule"> <content stylecode="italics">Pseudomonas aeruginosa</content> ATCC<sup>®</sup> 27853</td>
+<td align="center" stylecode="Botrule Lrule Rrule">8 – 64</td>
+<td align="center" stylecode="Botrule Lrule Rrule">17 – 23</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule"> <content stylecode="italics">Streptococcus pneumoniae</content> ATCC<sup>®</sup> 49619</td>
+<td align="center" stylecode="Botrule Lrule Rrule">0.03 – 0.12</td>
+<td align="center" stylecode="Botrule Lrule Rrule"> 30 – 35</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule"> <content stylecode="italics">Bacteroides fragilis</content> ATCC<sup>®</sup> 25285 (agar method)</td>
+<td align="center" stylecode="Botrule Lrule Rrule"> 32 – 128</td>
+<td align="center" stylecode="Botrule Lrule Rrule">-</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule"> <content stylecode="italics">Bacteroides thetaiotaomicron</content> ATCC<sup>®</sup> 29741 (agar method)</td>
+<td align="center" stylecode="Botrule Lrule Rrule"> 64 – 256</td>
+<td align="center" stylecode="Botrule Lrule Rrule">-</td>
+</tr>
+</tbody>
+</table>

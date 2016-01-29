@@ -1,0 +1,23 @@
+<table id="i3e450276-5d99-410d-889d-11871c868d73" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="15%"></col>
+<tbody>
+<tr stylecode="toprule">
+<td></td>
+<td>MIC (µg/mL)</td>
+<td></td>
+<td>Interpretation</td>
+<td></td>
+</tr>
+<tr stylecode="botrule">
+<td></td>
+<td stylecode="toprule">≤2</td>
+<td></td>
+<td stylecode="toprule">(S) Susceptible</td>
+<td></td>
+</tr>
+</tbody>
+</table>

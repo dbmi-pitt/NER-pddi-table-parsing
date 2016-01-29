@@ -1,0 +1,205 @@
+<table id="_RefID0ELIAI" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs</caption>
+<col width="32%"></col>
+<col width="24%"></col>
+<col width="22%"></col>
+<col width="22%"></col>
+<thead>
+<tr>
+<th align="left" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Coadministered Drug</content>
+<br/>
+<content stylecode="bold">(Dose Regimen)*</content>
+</th>
+<th align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Dapagliflozin</content>
+<br/>
+<content stylecode="bold">(Dose Regimen)*</content>
+</th>
+<th align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Effect on Coadministered Drug Exposure</content>
+<br/>
+<content stylecode="bold">(% Change [90% CI])</content>
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">AUC<sup>†</sup>
+</content>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="4" stylecode="Botrule" valign="top">*  Single dose unless otherwise noted.<br/>
+<sup>†</sup>  AUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses.<br/>↔ = no change (geometric mean ratio of test:reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test:reference was lower than 0.80 or higher than 1.25).</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td colspan="4" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">No dosing adjustments required for the following:</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Oral Antidiabetic Agents</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Metformin (1000 mg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>20 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Pioglitazone (45 mg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>50 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓7%<br/>[↓25%, ↑15%]</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Sitagliptin (100 mg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>20 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Glimepiride (4 mg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>20 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑13%<br/>[0%, ↑29%]</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Other Medications</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Hydrochlorothiazide (25 mg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>50 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Bumetanide (1 mg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>10 mg once daily<br/>for 7 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑13%<br/>[↓2%, ↑31%]</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑13%<br/>[↓1%, ↑30%]</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Valsartan (320 mg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>20 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓6%<br/>[↓24%, ↑16%]</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑5%<br/>[↓15%, ↑29%]</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Simvastatin (40 mg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>20 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑19%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Digoxin (0.25 mg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>20 mg loading dose<br/>then 10 mg once daily<br/>for 7 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>  Warfarin (25 mg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>20 mg loading dose<br/>then 10 mg once daily<br/>for 7 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>↔</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

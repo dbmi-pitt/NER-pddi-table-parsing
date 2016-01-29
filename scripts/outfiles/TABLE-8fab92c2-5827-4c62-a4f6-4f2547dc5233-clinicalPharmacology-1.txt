@@ -1,0 +1,54 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Mean (SD) Serum Norethindrone Concentrations (pg/mL) at Steady-State</caption>
+<col width="124"></col>
+<col width="163"></col>
+<col width="124"></col>
+<col width="108"></col>
+<col width="104"></col>
+<tbody>
+<tr>
+<td align="center">
+<content stylecode="bold">System Size</content>
+</td>
+<td align="center">
+<content stylecode="bold">Dose Estradiol/NETA</content>
+<content stylecode="bold">
+<br/>(mg per day)</content>
+</td>
+<td align="center">
+<content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+</td>
+<td align="center">
+<content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>min</sub>
+</content>
+</td>
+<td align="center">
+<content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>avg</sub>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Toprule ">9 cm<sup>2</sup>
+</td>
+<td align="center" stylecode="Toprule ">0.05/0.14</td>
+<td align="center" stylecode="Toprule ">617 (341)</td>
+<td align="center" stylecode="Toprule ">386 (137)</td>
+<td align="center" stylecode="Toprule ">489 (244)</td>
+</tr>
+<tr>
+<td align="center" stylecode="Toprule ">16 cm<sup>2</sup>
+</td>
+<td align="center" stylecode="Toprule ">0.05/0.25</td>
+<td align="center" stylecode="Toprule ">1060 (543)</td>
+<td align="center" stylecode="Toprule ">686 (306)</td>
+<td align="center" stylecode="Toprule ">840 (414)</td>
+</tr>
+</tbody>
+</table>

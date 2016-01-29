@@ -1,0 +1,68 @@
+<table border="single" id="id_10f69023-475f-46ed-8bb4-5812030766ec" width="443" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="33.4%"></col>
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<tbody>
+<tr>
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Dose</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">200 mg</content>
+</paragraph>
+<content stylecode="bold">(2.8 mg/kg) in Adults</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">10 mg/kg in Febrile</content>
+</paragraph>
+<content stylecode="bold">Children</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Formulation</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Suspension</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Suspension</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Number of Patients</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">24</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">18</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">AUCinf (μg•h/mL)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>64</paragraph>(27%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>155</paragraph>(24%)</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Cmax (μg/mL)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>19</paragraph>(22%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>55</paragraph>(23%)</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Tmax (h)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.79</paragraph>(69%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.97</paragraph>(57%)</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">CI/F (mL/h/kg)</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>45.6</paragraph>(22%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>68.6</paragraph>(22%)</td>
+</tr>
+</tbody>
+</table>

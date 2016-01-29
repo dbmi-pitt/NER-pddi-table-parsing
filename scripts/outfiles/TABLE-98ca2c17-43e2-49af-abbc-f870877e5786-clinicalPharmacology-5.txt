@@ -1,0 +1,23 @@
+<table id="table6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>Table 6: Pharmacokinetic and Pharmacodynamic Parameters<footnote>Values shown are mean (range).</footnote> of Mivacurium in ASA Physical Status I-II Patients and In Patients with Mild or Moderate Cirrhosis During Opioid/Nitrous Oxide/Oxygen Anesthesia</caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<thead>
+<tr><th rowspan="2" stylecode="Lrule" valign="bottom">Parameter</th><th rowspan="2" valign="bottom">Isomer</th><th rowspan="2" valign="bottom">Normal Hepatic Function (n=10)</th><th colspan="2" stylecode="Rrule Botrule">Degree of Hepatic Failure</th></tr>
+<tr><th align="center">Mild Cirrhosis (n=5)</th><th stylecode="Rrule">Moderate Cirrhosis (n=6)</th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="3" stylecode="Lrule Botrule">Plasma Clearance<br/>(mL/min/kg)</td><td><content stylecode="italics">trans-trans</content> isomer</td><td>66 (34 - 99)</td><td>43 (22 - 64)</td><td stylecode="Rrule">31 (11 - 66)</td></tr>
+<tr><td align="center"><content stylecode="italics">cis-trans</content> isomer</td><td>124<footnote id="t6ft3">n=9</footnote> (57 - 218)</td><td>73 (34 - 111)</td><td stylecode="Rrule">52 (18 - 128)</td></tr>
+<tr stylecode="Botrule"><td align="center"><content stylecode="italics">cis-cis</content> isomer</td><td>8.6 (4.5 - 13.3)</td><td>8.6 (4.5 - 16.7)</td><td stylecode="Rrule">5.6 (3.5 - 9.7)</td></tr>
+<tr><td rowspan="3" stylecode="Lrule Botrule">Volume of Distribution<footnote>Volume of distribution during the terminal elimination phase.</footnote><br/>(mL/kg)</td><td><content stylecode="italics">trans-trans</content> isomer</td><td>204<footnoteref idref="t6ft3"></footnoteref> (94 - 269)</td><td>221 (118 - 457)</td><td stylecode="Rrule">191 (74 - 273)</td></tr>
+<tr><td align="center"><content stylecode="italics">cis-trans</content> isomer</td><td>201<footnoteref idref="t6ft3"></footnoteref> (89 - 411)</td><td>152 (102 - 256)</td><td stylecode="Rrule">111 (56 - 164)</td></tr>
+<tr stylecode="Botrule"><td align="center"><content stylecode="italics">cis-cis</content> isomer<footnote id="t6ft4">Not available.</footnote></td><td>-</td><td>-</td><td stylecode="Rrule">-</td></tr>
+<tr><td rowspan="3" stylecode="Lrule Botrule">Half-life<br/>(min)</td><td><content stylecode="italics">trans-trans</content> isomer</td><td>2.4<footnoteref idref="t6ft3"></footnoteref> (1.3 - 3.9)</td><td>3.7 (1.7 - 5.1)</td><td stylecode="Rrule">5.3 (1.7 - 8.5)</td></tr>
+<tr><td align="center"><content stylecode="italics">cis-trans</content> isomer</td><td>1.2<footnoteref idref="t6ft3"></footnoteref> (0.6 - 2.1)</td><td>1.6 (1.0 - 2.1)</td><td stylecode="Rrule">1.9 (0.9 - 3.0)</td></tr>
+<tr stylecode="Botrule"><td align="center"><content stylecode="italics">cis-cis</content> isomer<footnoteref idref="t6ft4"></footnoteref></td><td>-</td><td>-</td><td stylecode="Rrule">-</td></tr>
+<tr><td colspan="2" stylecode="Lrule">25% to 75% Recovery Index (min)</td><td>7.3 (4.7 - 9.6)</td><td>9.5 (5.7 - 12.3)</td><td stylecode="Rrule">16.4 (6.3 - 26.2)</td></tr>
+</tbody>
+</table>

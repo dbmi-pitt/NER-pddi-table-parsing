@@ -1,0 +1,117 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3.Pharmacokinetic parameters of buprenorphine, norbuprenorphine, and naloxone after the sublingual administration of buprenorphine and naloxone sublingual tablet</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Dose</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Analyte</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Mean</content>
+<br/> <content stylecode="bold">SD</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+<br/> <content stylecode="bold">(ng/mL)</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">T</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+<br/> <content stylecode="bold">(h)</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">AUC</content>
+<content stylecode="bold">
+<sub>inf</sub>
+</content>
+<br/> <content stylecode="bold">(h•ng/mL)</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">t</content>
+<content stylecode="bold">
+<sub>1/2 </sub>
+</content>
+<br/> <content stylecode="bold">(h)</content>
+</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="7" valign="top">  *Naloxone C<sub>max</sub> expressed as pg/mL. Naloxone AUC<sub>inf</sub> expressed as h•pg/mL </td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td rowspan="5" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 2 mg/0.5 mg</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Buprenorphine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Mean<br/> SD</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 0.947<br/> 0.374</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.72<br/> 0.60</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 8.654<br/> 2.854</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 33.41<br/> 13.01</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Norbuprenorphine</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Mean<br/> SD</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 0.312<br/> 0.140</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 2.26<br/> 2.03</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 14.52<br/> 5.776</td>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="top"> 56.09</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> 31.14</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Naloxone*</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Mean<br/> SD</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 54.1<br/> 23.0</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 0.77<br/> 0.26</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 137.3<br/> 43.10</td>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="top"> 5.00</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> 5.52</td>
+</tr>
+<tr>
+<td rowspan="6" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 8 mg/2 mg</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Buprenorphine</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Mean<br/> SD</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 3.37<br/> 1.80</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.53<br/> 0.66</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 30.45<br/> 13.03</td>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="top"> 32.82</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> 9.81</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Norbuprenorphine</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Mean<br/> SD</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.40<br/> 1.08</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 2.17<br/> 2.63</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 54.91<br/> 36.01</td>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="top"> 41.96</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> 17.92</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Naloxone*</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Mean<br/> SD</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 193<br/> 91.2</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 0.81<br/> 0.19</td>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 480.8<br/> 201.0</td>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="top"> 6.25</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> 3.14</td>
+</tr>
+</tbody>
+</table>

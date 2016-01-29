@@ -1,0 +1,28 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="36%"></col>
+<col width="22%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="underline">Microorganism</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="underline">Zone Diameter (mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>
+<content stylecode="italics">Staphylococcus </content>
+<content stylecode="italics">aureus</content>ATCC 25923</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>21-26</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

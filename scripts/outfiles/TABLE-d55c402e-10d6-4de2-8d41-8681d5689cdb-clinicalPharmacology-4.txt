@@ -1,0 +1,73 @@
+<table border="single" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5. Combined Metformin/Insulin vs Placebo/Insulin Summary of Mean Changes from Baseline in HbA<sub>1c</sub> and Daily Insulin Dose</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  
+<paragraph>
+<content stylecode="bold">Metformin/</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Insulin</content>
+</paragraph>
+<content stylecode="bold">(n = 26)</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  
+<paragraph>
+<content stylecode="bold">Placebo/</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Insulin</content>
+</paragraph>
+<content stylecode="bold">(n = 28)</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  
+<paragraph>
+<content stylecode="bold">Treatment</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Difference</content>
+</paragraph>
+<content stylecode="bold">Mean ± SE</content>
+</td>
+</tr>
+<tr>
+<td align="justify" colspan="4" stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> <content stylecode="bold">Hemoglobin A<sub>1c</sub> (%)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="bottom"> Baseline</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> 8.95</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> 9.32</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Change at FINAL VISIT</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> -2.10</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> -1.56</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> -0.54 ± 0.43<footnote id="FOOT_1907">Statistically significant using analysis of covariance with baseline as covariate (p=0.04). Not significant using analysis of variance (values shown in table)</footnote>
+</td>
+</tr>
+<tr>
+<td align="justify" colspan="4" stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> <content stylecode="bold">Insulin Dose (U/day)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="bottom"> Baseline</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> 93.12</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> 94.64</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Change at FINAL VISIT</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> -0.15</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> 15.93</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> -16.08 ± 7.77<footnote id="FOOT_1908">Statistically significant for insulin (p=0.04)</footnote>
+</td>
+</tr>
+</tbody>
+</table>

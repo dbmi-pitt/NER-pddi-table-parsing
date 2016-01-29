@@ -1,0 +1,34 @@
+<table id="id_ee1f1ea9-eb35-4da6-9550-00786a0f4c1f" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_7db61619-c4b8-4592-bf96-c6ffec9408d7">
+<td align="center" stylecode="Toprule" valign="top"> <paragraph>
+<content stylecode="underline">MIC (mcg/mL)</content>
+</paragraph>
+</td>
+<td align="left" valign="top"> <paragraph>
+<content stylecode="underline">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_e6c0b7a8-1e74-4243-bc7d-8c716e836658">
+<td align="center" valign="top"> <paragraph>≤ 1</paragraph>
+</td>
+<td align="left" valign="top"> <paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr id="id_8884e2b5-604c-439b-bb77-4db5049b79e7">
+<td align="center" valign="top"> <paragraph>2</paragraph>
+</td>
+<td align="left" valign="top"> <paragraph>Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr id="id_dbcf089e-0250-49be-9d8f-2a473292c41e">
+<td align="center" stylecode="Botrule" valign="top"> <paragraph>≥ 4</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top"> <paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

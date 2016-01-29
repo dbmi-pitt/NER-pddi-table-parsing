@@ -1,0 +1,54 @@
+<table width="477.2pt" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="76%"></col>
+<col width="24%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">           Adult Pharmacokinetic Data</content>
+</th>
+<th align="left" stylecode="Botrule " valign="top"></th>
+</tr>
+<tr>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">Parameter</content>
+</th>
+<th align="left" stylecode="Toprule Botrule " valign="top">
+<content stylecode="bold">Value</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Vd (L/kg)</paragraph>
+</td>
+<td stylecode="Toprule Botrule " valign="top">
+<paragraph>~ 3.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Plasma Protein Binding</paragraph>
+</td>
+<td stylecode="Toprule Botrule " valign="top">
+<paragraph>~ 30%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>t<sub>1/2</sub> (hr)</paragraph>
+</td>
+<td stylecode="Toprule Botrule " valign="top">
+<paragraph>5-6</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Toprule " valign="top">
+<paragraph>Oral Bioavailability</paragraph>
+</td>
+<td stylecode="Botrule Toprule " valign="top">
+<paragraph>80%±15.5%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

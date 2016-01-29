@@ -1,0 +1,171 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="32%"></col>
+<col width="14%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<tbody>
+<tr>
+<td colspan="4" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<list listtype="unordered">
+<item>
+<caption> </caption>
+<content stylecode="bold">Table 16. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure</content>
+</item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Coadministered Drug and<br/>Dosage Regimen</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Pioglitazone</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Dose<br/>Regimen<br/>(mg)*</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Change<br/>in AUC<sup>†</sup>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Change<br/>in C<sub>max</sub>
+</content>
+<sup>†</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Gemfibrozil 600 mg<br/>twice daily for 2 days<br/>(N = 12)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>15 mg<br/>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↑3.2-fold<sup>‡</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↑6%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Ketoconazole 200 mg<br/>twice daily for 7 days<br/>(N = 28)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↑34%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↑14%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Rifampin 600 mg<br/>daily for 5 days<br/>(N = 10)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>30 mg<br/>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↓54%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↓5%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Fexofenadine 60 mg<br/>twice daily for 7 days<br/>(N = 23)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↑1% </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>0% </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Ranitidine 150 mg<br/>twice daily for 4 days<br/>(N = 23)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↓13%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↓16%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Nifedipine ER 30 mg<br/>daily for 7 days<br/>(N = 23)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↑5%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↑4%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Atorvastatin Ca 80 mg<br/>daily for 7 days<br/>(N = 24)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↓24%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↓31%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Theophylline 400 mg<br/>twice daily for 7 days<br/>(N = 22)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↓4%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>↓2%</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="bottom">
+<paragraph>*Daily for 7 days unless otherwise noted<br/>†Mean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively.<br/>‡The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil <content stylecode="italics">[see Dosage and Administration (</content>
+<content stylecode="italics">
+<linkhtml href="#ID_170492ec-1b69-4bd8-8b6f-b88da058979f">2.3</linkhtml>) and Drug Interactions (<linkhtml href="#ID_38b9fb3a-f04f-4d67-a5f6-378b253c9039">7.1</linkhtml>)]</content>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

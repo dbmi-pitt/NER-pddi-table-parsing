@@ -1,0 +1,28 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="300px"></col>
+<col width="200px"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">
+<content stylecode="underline">Organism</content>
+</content>
+</td>
+<td>
+<content stylecode="bold">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus aureus </content>ATCC 29213</td>
+<td>0.5-2</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Escherichia coli </content>ATCC 25922</td>
+<td>2-8</td>
+</tr>
+</tbody>
+</table>

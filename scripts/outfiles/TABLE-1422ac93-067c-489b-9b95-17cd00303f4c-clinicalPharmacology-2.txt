@@ -1,0 +1,173 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Susceptibility Test Interpretive Criteria for Ampicillin </caption>
+<col width="1px"></col>
+<col width="11%"></col>
+<col width="12%"></col>
+<col width="12%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="11%"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>
+<content stylecode="bold">Minimum Inhibitory Concentrations</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>
+<content stylecode="bold">Disk Diffusion</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(zone diameters in mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph>
+<content stylecode="bold">
+<content stylecode="underline">Pathogen</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph>
+<content stylecode="italics">Enterobacteriaceae</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≤8</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>16</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≥32</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≥17</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>14-16</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≤13</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph>
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>a</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≤1</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≥4</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≥22</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>19-21</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≤18</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph>
+<content stylecode="italics">Enterococcus</content>
+<sup>b </sup>spp.</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≤8</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≥16</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≥17</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≤16</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph>
+<content stylecode="italics">Neisseria meningitidis</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≤0.12</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>0.25-1</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≥2</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph>Viridans group streptococci</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≤0.25</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>0.5-4</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≥8</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph>
+<content stylecode="italics">Streptococcus pyogenes<sup>c</sup>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≤0.25</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>≥24</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <paragraph>S = Susceptible; I = Intermediate; R = Resistant</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

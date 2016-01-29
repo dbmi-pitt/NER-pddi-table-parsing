@@ -1,0 +1,47 @@
+<table id="ID246" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="47%"></col>
+<col span="1" width="53%"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="underline">MIC </content>
+<content stylecode="underline">(</content>
+<content stylecode="underline">mcg</content>
+<content stylecode="underline">/</content>
+<content stylecode="underline">mL</content>
+<content stylecode="underline">)</content>
+<br/>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>≤0.5<br/>
+</td>
+<td>(S) Susceptible<br/>
+</td>
+</tr>
+<tr>
+<td>1<br/>
+</td>
+<td>(I) Intermediate<br/>
+</td>
+</tr>
+<tr>
+<td>≥2<br/>
+</td>
+<td>(R) Resistant<br/>
+</td>
+</tr>
+</tbody>
+</table>

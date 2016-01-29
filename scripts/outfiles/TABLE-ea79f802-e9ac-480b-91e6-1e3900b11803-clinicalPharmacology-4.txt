@@ -1,0 +1,110 @@
+<table id="id_574805f9-3171-447d-a829-334b78900590" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_ec9f01dc-c59b-4c07-b0fb-bae414bf7bc8">Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes<footnote id="id-f802dc3c-de78-47ca-8fe3-416aede1e337">Includes only patients with pretreatment and post-treatment clarithromycin susceptibility test results</footnote> for Triple Therapy - (Esomeprazole magnesium 40 mg once daily/amoxicillin 1000 mg twice daily/clarithromycin 500 mg twice daily for 10 days)</caption>
+<col width="99*"></col>
+<col width="99*"></col>
+<col width="99*"></col>
+<col width="99*"></col>
+<col width="99*"></col>
+<col width="104*"></col>
+<col width="97*"></col>
+<tbody>
+<tr id="id_0ad3f356-5733-4cff-9ae3-666fb0da87c4" stylecode="Toprule">
+<td align="center" valign="top">
+<paragraph>Clarithromycin Pretreatment Results</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Toprule" valign="top">
+<paragraph>
+<content stylecode="italics">H. pylori</content> negative (Eradicated)</paragraph>
+</td>
+<td align="center" colspan="4" valign="top">
+<paragraph>
+<content stylecode="italics">H. pylori</content> positive</paragraph>
+<paragraph>(Not Eradicated)</paragraph>
+<paragraph>Post-treatment susceptibility results</paragraph>
+</td>
+</tr>
+<tr id="id_64644d34-1b0e-4ef5-aca8-c8b09cc77cfc">
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="justify" valign="top">
+<paragraph>S <footnote id="id-fade1bdd-6486-4b9a-af56-e85046cc0942">Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg/mL, Resistant (R) MIC ≥ 1.0 mcg/mL </footnote>
+</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>I<footnoteref idref="id-fade1bdd-6486-4b9a-af56-e85046cc0942"></footnoteref>
+</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>R <footnoteref idref="id-fade1bdd-6486-4b9a-af56-e85046cc0942"></footnoteref>
+</paragraph>
+</td>
+<td align="justify" valign="top">
+<paragraph>No MIC</paragraph>
+</td>
+</tr>
+<tr id="id_fe913509-6584-46de-9e91-c337c44c8326">
+<td align="justify" valign="top">
+<paragraph>Susceptible<footnoteref idref="id-fade1bdd-6486-4b9a-af56-e85046cc0942"></footnoteref> 182</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>162</paragraph>
+</td>
+<td align="left" valign="top"></td>
+<td align="center" valign="top">
+<paragraph>4</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>0</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>14</paragraph>
+</td>
+</tr>
+<tr id="id_fbf809eb-8c58-448e-a5a3-1f9ded6112e3">
+<td align="justify" valign="top">
+<paragraph>Intermediate<footnoteref idref="id-fade1bdd-6486-4b9a-af56-e85046cc0942"></footnoteref> 1</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1</paragraph>
+</td>
+<td align="left" valign="top"></td>
+<td align="center" valign="top">
+<paragraph>0</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>0</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>0</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>0</paragraph>
+</td>
+</tr>
+<tr id="id_2424bcb9-f6f6-4b8f-a6d6-ec39348dc1c5" stylecode="Botrule">
+<td align="justify" valign="top">
+<paragraph>Resistant<footnoteref idref="id-fade1bdd-6486-4b9a-af56-e85046cc0942"></footnoteref> 29</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>13</paragraph>
+</td>
+<td align="left" valign="top"></td>
+<td align="center" valign="top">
+<paragraph>1</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>0</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>13</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

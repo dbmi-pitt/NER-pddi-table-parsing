@@ -1,0 +1,75 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: iPTH Summary Data for Patients Receiving Doxercalciferol Injection</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> iPTH Level</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Study C<br/>(n = 28) </content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> Study D<br/>(n = 42)</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Combined Protocols<br/>(n = 70)</content> </td>
+</tr>
+<tr>
+<td colspan="4" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Baseline (Mean of Weeks -2, -1 and 0)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Mean (SE)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">698 (60) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 762 (65)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">736 (46) </td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Median</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 562</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 648</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 634</td>
+</tr>
+<tr>
+<td colspan="4" stylecode="     Botrule          Toprule         Lrule          Rrule     "> On-treatment (Week 12<footnote id="FOOT_5690">Values were carried forward for the two patients on study for 10 weeks</footnote>)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Mean (SE)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 406 (63)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 426 (60)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 418 (43)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Median</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 311</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 292</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 292</td>
+</tr>
+<tr>
+<td colspan="4" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Change from Baseline<footnote id="FOOT_5691">
+<paragraph>Treatment iPTH minus baseline iPTH</paragraph>
+</footnote> </td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Mean (SE)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> -292 (55)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> -336 (41)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> -318 (33)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Median</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> -274</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> -315</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> -304</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> P-value<footnote id="FOOT_5692">Wilcoxon one-sample test</footnote> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.004</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.001</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> &lt; 0.001</td>
+</tr>
+</tbody>
+</table>

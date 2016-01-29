@@ -1,0 +1,38 @@
+<table border="1" id="table_13" rules="all" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_a3af7e19-53fe-4188-a51f-aeec2212c2cc">Table 13. HIV-1 RNA Response at Week 48 by Baseline Lopinavir Susceptibility<sup>1</sup>
+</caption>
+<col width="4277*"></col>
+<col width="4505*"></col>
+<col width="4238*"></col>
+<tbody>
+<tr id="id_a145c8fc-fbfa-4b3a-ab61-4b5f2fc8ea7e">
+<td align="left" stylecode="Lrule Toprule" valign="top">
+<content stylecode="bold">Lopinavir susceptibility<sup>2</sup> at baseline</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="bold">HIV-1 RNA &lt;400 copies/mL (%)</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">HIV-1 RNA &lt;50 copies/mL (%)</content>
+</td>
+</tr>
+<tr id="id_a32a99f2-1c2d-480b-8329-ebf121c3bd88">
+<td align="left" stylecode="Lrule" valign="top">&lt; 10 fold </td>
+<td align="center" valign="top">25/27 (93%)</td>
+<td align="center" stylecode="Rrule" valign="top">22/27 (81%)</td>
+</tr>
+<tr id="id_9412d196-3f74-4e1b-ac04-16b38afcff5b">
+<td align="left" stylecode="Lrule" valign="top">&gt; 10 and &lt; 40 fold</td>
+<td align="center" valign="top">11/15 (73%)</td>
+<td align="center" stylecode="Rrule" valign="top">9/15 (60%)</td>
+</tr>
+<tr id="id_fbd3f3ae-c316-4339-a991-4ce5065d3998">
+<td align="left" stylecode="Lrule" valign="top">≥ 40 fold</td>
+<td align="center" valign="top">2/8 (25%)</td>
+<td align="center" stylecode="Rrule" valign="top">2/8 (25%)</td>
+</tr>
+<tr id="id_d4f3a350-0565-4c5b-b24c-db0913831c0b">
+<td align="left" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">1   Lopinavir susceptibility was determined by recombinant phenotypic technology performed by Virologic.<br/>2   Fold change in susceptibility from wild type.</td>
+</tr>
+</tbody>
+</table>

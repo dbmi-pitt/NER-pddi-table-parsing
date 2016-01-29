@@ -1,0 +1,114 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Subgroup Analyses of Mortality and Hospitalization During the First 2 Years Following Randomization</caption>
+<col align="left" valign="bottom" width="16%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="17%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="17%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Lrule Rrule"></th>
+<th rowspan="2" stylecode="Rrule">n</th>
+<th colspan="3" stylecode="Rrule Botrule">Risk of All-Cause Mortality or All-Cause Hospitalization<footnote id="t3ft1">Number of patients with an event during the first 2 years per 1,000 randomized patients.</footnote>
+</th>
+<th colspan="3" stylecode="Rrule Botrule">Risk of HF-Related Mortality or HF-Related Hospitalization<footnoteref idref="t3ft1"></footnoteref>
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">Placebo</th>
+<th stylecode="Rrule">Digoxin</th>
+<th stylecode="Rrule">Relative risk<footnote id="t3ft2">Relative risk (95% confidence interval).</footnote>
+</th>
+<th stylecode="Rrule">Placebo</th>
+<th stylecode="Rrule">Digoxin</th>
+<th stylecode="Rrule">Relative risk<footnoteref idref="t3ft2"></footnoteref>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">All patients<br/>(EF ≤0.45)</td>
+<td stylecode="Rrule">6,801</td>
+<td stylecode="Rrule">604</td>
+<td stylecode="Rrule">593</td>
+<td stylecode="Rrule">0.94<br/>(0.88 to 1.00)</td>
+<td stylecode="Rrule">294</td>
+<td stylecode="Rrule">217</td>
+<td stylecode="Rrule">0.69<br/>(0.63 to 0.76)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">NYHA I/II</td>
+<td stylecode="Rrule">4,571</td>
+<td stylecode="Rrule">549</td>
+<td stylecode="Rrule">541</td>
+<td stylecode="Rrule">0.96<br/>(0.89 to 1.04)</td>
+<td stylecode="Rrule">242</td>
+<td stylecode="Rrule">178</td>
+<td stylecode="Rrule">0.70 <br/>(0.62 to 0.80)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">EF 0.25 to 0.45</td>
+<td stylecode="Rrule">4,543</td>
+<td stylecode="Rrule">568</td>
+<td stylecode="Rrule">571</td>
+<td stylecode="Rrule">0.99<br/>(0.91 to 1.07)</td>
+<td stylecode="Rrule">244</td>
+<td stylecode="Rrule">190</td>
+<td stylecode="Rrule">0.74 <br/>(0.66 to 0.84)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">CTR ≤0.55</td>
+<td stylecode="Rrule">4,455</td>
+<td stylecode="Rrule">561</td>
+<td stylecode="Rrule">563</td>
+<td stylecode="Rrule">0.98<br/>(0.91 to 1.06)</td>
+<td stylecode="Rrule">239</td>
+<td stylecode="Rrule">180</td>
+<td stylecode="Rrule">0.71<br/>(0.63 to 0.81)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">NYHA III/IV</td>
+<td stylecode="Rrule">2,224</td>
+<td stylecode="Rrule">719</td>
+<td stylecode="Rrule">696</td>
+<td stylecode="Rrule">0.88<br/>(0.80 to 0.97)</td>
+<td stylecode="Rrule">402</td>
+<td stylecode="Rrule">295</td>
+<td stylecode="Rrule">0.65 <br/>(0.57 to 0.75)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">EF &lt;0.25</td>
+<td stylecode="Rrule">2,258</td>
+<td stylecode="Rrule">677</td>
+<td stylecode="Rrule">637</td>
+<td stylecode="Rrule">0.84<br/>(0.76 to 0.93)</td>
+<td stylecode="Rrule">394</td>
+<td stylecode="Rrule">270</td>
+<td stylecode="Rrule">0.61 <br/>(0.53 to 0.71)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">CTR &gt;0.55</td>
+<td stylecode="Rrule">2,346</td>
+<td stylecode="Rrule">687</td>
+<td stylecode="Rrule">650</td>
+<td stylecode="Rrule">0.85<br/>(0.77 to 0.94)</td>
+<td stylecode="Rrule">398</td>
+<td stylecode="Rrule">287</td>
+<td stylecode="Rrule">0.65 <br/>(0.57 to 0.75)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">EF &gt;0.45<footnote>DIG Ancillary Study.</footnote>
+</td>
+<td stylecode="Rrule">987</td>
+<td stylecode="Rrule">571</td>
+<td stylecode="Rrule">585</td>
+<td stylecode="Rrule">1.04<br/>(0.88 to 1.23)</td>
+<td stylecode="Rrule">179</td>
+<td stylecode="Rrule">136</td>
+<td stylecode="Rrule">0.72 <br/>(0.53 to 0.99)</td>
+</tr>
+</tbody>
+</table>

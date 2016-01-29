@@ -1,0 +1,141 @@
+<table id="table6" width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6: Effect of Canagliflozin on  Systemic Exposure of Co-Administered Drugs</caption>
+<col align="left" valign="middle" width="19%"></col>
+<col align="left" valign="middle" width="19%"></col>
+<col align="left" valign="middle" width="18%"></col>
+<col align="left" valign="middle" width="18%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th align="center" rowspan="2" stylecode="Lrule Rrule">Co-Administered  Drug</th>
+<th align="center" rowspan="2" stylecode="Rrule">Dose of Co-Administered  Drug<footnote id="t6f1">Single dose unless otherwise noted</footnote>
+</th>
+<th align="center" rowspan="2" stylecode="Rrule">Dose of  Canagliflozin<footnoteref idref="t6f1"></footnoteref>
+</th>
+<th align="center" colspan="3" stylecode="Rrule">Geometric Mean  Ratio<br/>(Ratio With/Without Co-Administered  Drug)<br/>No Effect =  1.0</th>
+</tr>
+<tr>
+<th stylecode="Rrule"></th>
+<th align="center" stylecode="Rrule">AUC<footnote id="t6f2">AUC<sub>inf</sub> for drugs given as a single dose and AUC<sub>24h</sub> for drugs given as multiple doses</footnote>
+<br/>(90% CI)</th>
+<th align="center" stylecode="Rrule">C<sub>max</sub>
+<br/>(90% CI)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" valign="top">QD = once daily; BID = twice daily; INR = International Normalized Ratio</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">
+<content stylecode="italics">See <linkhtml href="#S7.2">Drug Interactions (7.2)</linkhtml>
+</content> for the clinical relevance of the following:</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Digoxin</td>
+<td stylecode="Rrule">0.5 mg QD first day followed by 0.25 mg QD for 6 days</td>
+<td stylecode="Rrule">300 mg QD for 7 days</td>
+<td stylecode="Rrule">digoxin</td>
+<td align="center" stylecode="Rrule">1.20<br/>(1.12; 1.28)</td>
+<td align="center" stylecode="Rrule">1.36<br/>(1.21; 1.53)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">No dose adjustments of co-administered drug required for the following:</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Acetaminophen</td>
+<td stylecode="Rrule">1,000 mg</td>
+<td stylecode="Rrule">300 mg BID for 25 days</td>
+<td stylecode="Rrule">acetaminophen</td>
+<td align="center" stylecode="Rrule">1.06<footnote id="t6f3">AUC<sub>0–12h</sub>
+</footnote>
+<br/>(0.98; 1.14)</td>
+<td align="center" stylecode="Rrule">1.00<br/>(0.92; 1.09)</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule">Ethinyl estradiol and levonorgestrel</td>
+<td rowspan="2" stylecode="Rrule">0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel</td>
+<td rowspan="2" stylecode="Rrule">200 mg QD for 6 days</td>
+<td stylecode="Rrule">ethinyl estradiol</td>
+<td align="center" stylecode="Rrule">1.07<br/>(0.99; 1.15)</td>
+<td align="center" stylecode="Rrule">1.22<br/>(1.10; 1.35)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">levonorgestrel</td>
+<td align="center" stylecode="Rrule">1.06<br/>(1.00; 1.13)</td>
+<td align="center" stylecode="Rrule">1.22<br/>(1.11; 1.35)</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="3" stylecode="Lrule Rrule">Glyburide</td>
+<td rowspan="3" stylecode="Rrule">1.25 mg</td>
+<td rowspan="3" stylecode="Rrule">200 mg QD for 6 days</td>
+<td stylecode="Rrule">glyburide</td>
+<td align="center" stylecode="Rrule">1.02<br/>(0.98; 1.07)</td>
+<td align="center" stylecode="Rrule">0.93<br/>(0.85; 1.01)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">3-cis-hydroxy-glyburide</td>
+<td align="center" stylecode="Rrule">1.01<br/>(0.96; 1.07)</td>
+<td align="center" stylecode="Rrule">0.99<br/>(0.91; 1.08)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">4-trans-hydroxy-glyburide</td>
+<td align="center" stylecode="Rrule">1.03<br/>(0.97; 1.09)</td>
+<td align="center" stylecode="Rrule">0.96<br/>(0.88; 1.04)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Hydrochlorothiazide</td>
+<td stylecode="Rrule">25 mg QD for 35 days</td>
+<td stylecode="Rrule">300 mg QD for 7 days</td>
+<td stylecode="Rrule">Hydrochloro-thiazide</td>
+<td align="center" stylecode="Rrule">0.99<br/>(0.95; 1.04)</td>
+<td align="center" stylecode="Rrule">0.94<br/>(0.87; 1.01)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Metformin</td>
+<td stylecode="Rrule">2,000 mg</td>
+<td stylecode="Rrule">300 mg QD for 8 days</td>
+<td stylecode="Rrule">metformin</td>
+<td align="center" stylecode="Rrule">1.20<br/>(1.08; 1.34)</td>
+<td align="center" stylecode="Rrule">1.06<br/>(0.93; 1.20)</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule">Simvastatin</td>
+<td rowspan="2" stylecode="Rrule">40 mg</td>
+<td rowspan="2" stylecode="Rrule">300 mg QD for 7 days</td>
+<td stylecode="Rrule">simvastatin</td>
+<td align="center" stylecode="Rrule">1.12<br/>(0.94; 1.33)</td>
+<td align="center" stylecode="Rrule">1.09<br/>(0.91; 1.31)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">simvastatin acid</td>
+<td align="center" stylecode="Rrule">1.18<br/>(1.03; 1.35)</td>
+<td align="center" stylecode="Rrule">1.26<br/>(1.10; 1.45)</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="3" stylecode="Lrule Rrule">Warfarin</td>
+<td rowspan="3" stylecode="Rrule">30 mg</td>
+<td rowspan="3" stylecode="Rrule">300 mg QD for 12 days</td>
+<td stylecode="Rrule">(R)-warfarin</td>
+<td align="center" stylecode="Rrule">1.01<br/>(0.96; 1.06)</td>
+<td align="center" stylecode="Rrule">1.03<br/>(0.94; 1.13)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">(S)-warfarin</td>
+<td align="center" stylecode="Rrule">1.06<br/>(1.00; 1.12)</td>
+<td align="center" stylecode="Rrule">1.01<br/>(0.90; 1.13)</td>
+</tr>
+<tr>
+<td stylecode="Rrule">INR</td>
+<td align="center" stylecode="Rrule">1.00<br/>(0.98; 1.03)</td>
+<td align="center" stylecode="Rrule">1.05<br/>(0.99; 1.12)</td>
+</tr>
+</tbody>
+</table>

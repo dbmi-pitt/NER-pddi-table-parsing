@@ -1,0 +1,67 @@
+<table frame="void" width="602" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td align="center" colspan="5" valign="middle">
+<content stylecode="bold">TABLE 1. Controlled PHN Studies: Duration, Dosages, and Number of Patients </content>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Study </content>
+</td>
+<td align="center" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Study</content>
+</td>
+<td align="center" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Gabapentin (mg/day)</content>
+<content stylecode="bold">
+<sub>a</sub>
+</content>
+</td>
+<td align="center" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Patients Receiving</content>
+</td>
+<td align="center" stylecode="Lrule" valign="middle">
+<content stylecode="bold">Patients Receiving</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Duration </content>
+</td>
+<td align="center" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Target Dose</content>
+</td>
+<td align="center" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Gabapentin</content>
+</td>
+<td align="center" stylecode="Lrule" valign="middle">
+<content stylecode="bold">Placebo</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule" valign="middle">1</td>
+<td align="center" stylecode="Rrule" valign="middle">8 weeks</td>
+<td align="center" stylecode="Lrule Rrule" valign="middle">3600</td>
+<td align="center" stylecode="Lrule Rrule" valign="middle">113</td>
+<td align="center" stylecode="Lrule Rrule" valign="middle">116</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule" valign="middle">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">7 weeks</td>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">1800, 2400</td>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">223</td>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">111</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Toprule" valign="top"> </td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top"> </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="middle">Total</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="middle">336</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="middle">227</td>
+</tr>
+<tr>
+<td align="left" colspan="5" stylecode="Toprule" valign="middle">a Given in 3 divided doses (TID)</td>
+</tr>
+</tbody>
+</table>

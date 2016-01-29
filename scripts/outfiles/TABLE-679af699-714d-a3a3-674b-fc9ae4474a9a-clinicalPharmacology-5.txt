@@ -1,0 +1,78 @@
+<table frame="void" id="INV-3295fba7-fc19-4b08-b154-3308ab26de7d" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="208px"></col>
+<col width="208px"></col>
+<col width="208px"></col>
+<tbody>
+<tr>
+<td align="center" colspan="3" stylecode="Botrule">
+<content stylecode="bold">Table 2. Acceptable Quality Control Ranges for Azithromycin</content>
+<content stylecode="bold"> </content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">QC Strain</content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">Disk Diffusion</content>
+<content stylecode="bold">(zone diameters in mm)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule">   </td>
+<td stylecode="Botrule">   </td>
+<td stylecode="Botrule">   </td>
+</tr>
+<tr>
+<td stylecode="Botrule">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="center" stylecode="Botrule">   </td>
+<td stylecode="Botrule">   </td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule"> ATCC 49247 </td>
+<td align="center" stylecode="Botrule"> 1 – 4 </td>
+<td align="center" stylecode="Botrule"> 13-21 </td>
+</tr>
+<tr>
+<td stylecode="Botrule">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule">   </td>
+<td align="center" stylecode="Botrule">   </td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule"> ATCC 29213 </td>
+<td align="center" stylecode="Botrule"> 0.5-2 </td>
+<td align="center" stylecode="Botrule">   </td>
+</tr>
+<tr>
+<td stylecode="Botrule">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule">   </td>
+<td align="center" stylecode="Botrule">   </td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule"> ATCC 25923 </td>
+<td align="center" stylecode="Botrule">   </td>
+<td align="center" stylecode="Botrule"> 21-26 </td>
+</tr>
+<tr>
+<td stylecode="Botrule">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" stylecode="Botrule">   </td>
+<td align="center" stylecode="Botrule">   </td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule"> ATCC 49619 </td>
+<td align="center" stylecode="Botrule"> 0.06-0.25 </td>
+<td align="center" stylecode="Botrule"> 19-25 </td>
+</tr>
+</tbody>
+</table>

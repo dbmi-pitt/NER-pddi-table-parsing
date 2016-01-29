@@ -1,0 +1,273 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="40%"></col>
+<col span="1" width="17%"></col>
+<col span="1" width="17%"></col>
+<col span="1" width="15%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Coadministered drug and dosing regimen</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Rosuvastatin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<paragraph>
+<content stylecode="bold">Dose (mg)</content>
+<linkhtml href="#footnote-1">*</linkhtml>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Change in AUC</content>
+<linkhtml href="#footnote-2">†</linkhtml>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Change in C<sub>max</sub>
+</content>
+<linkhtml href="#footnote-3">‡</linkhtml>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Cyclosporine – stable dose required (75 mg – 200 mg BID)</paragraph>
+</td>
+<td>
+<paragraph>10 mg QD for 10 days</paragraph>
+</td>
+<td>
+<paragraph>↑ 7.1-fold†</paragraph>
+</td>
+<td> ↑11-fold<sup>†</sup>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Atazanavir/ritonavir combination 300 mg/100 mg QD for 8 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 3.1-fold<sup>†</sup>
+</paragraph>
+</td>
+<td> ↑ 7-fold<sup>†</sup>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Lopinavir/ritonavir combination 400 mg/100 mg BID for 17 days</paragraph>
+</td>
+<td>
+<paragraph>20 mg QD for 7 days</paragraph>
+</td>
+<td>
+<paragraph>↑ 2.1-fold<sup>†</sup>
+</paragraph>
+</td>
+<td> ↑ 5-fold<sup>†</sup>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Gemfibrozil 600 mg BID for 7 days</paragraph>
+</td>
+<td>
+<paragraph>80 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 1.9-fold<sup>†</sup>
+</paragraph>
+</td>
+<td> ↑ 2.2-fold<sup>†</sup>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Eltrombopag 75 mg QD, 5 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 1.6-fold</paragraph>
+</td>
+<td> ↑ 2-fold </td>
+</tr>
+<tr>
+<td>
+<paragraph>Darunavir 600 mg/ritonavir 100 mg BID, 7 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg QD for 7 days<br/>
+</paragraph>
+</td>
+<td>
+<paragraph>↑ 1.5-fold</paragraph>
+</td>
+<td>
+<paragraph>↑ 2.4-fold </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Tipranavir/ritonavir combination 500 mg/200mg BID for 11 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 26%</paragraph>
+</td>
+<td>
+<paragraph>↑ 2.2-fold</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Dronedarone 400 mg BID</paragraph>
+</td>
+<td>
+<paragraph>10 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 1.4-fold   </paragraph>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<paragraph>Itraconazole 200 mg QD, 5 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg or 80 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 39% </paragraph>
+<paragraph>↑ 28%</paragraph>
+</td>
+<td> ↑ 36%  ↑ 15%</td>
+</tr>
+<tr>
+<td>
+<paragraph>Ezetimibe 10 mg QD, 14 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg QD for 14 days</paragraph>
+</td>
+<td> ↑ 1.2-fold</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<paragraph>Fosamprenavir/ritonavir 700 mg/100 mg BID for 7 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 8%</paragraph>
+</td>
+<td> ↑ 45%</td>
+</tr>
+<tr>
+<td>
+<paragraph>Fenofibrate 67 mg TID for 7 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg</paragraph>
+</td>
+<td>
+<paragraph>↔</paragraph>
+</td>
+<td>
+<paragraph>↑21%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Rifampicin 450 mg QD, 7 days</paragraph>
+</td>
+<td>
+<paragraph>20 mg</paragraph>
+</td>
+<td>
+<paragraph>↔</paragraph>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<paragraph>Aluminum &amp; magnesium hydroxide combination antacid</paragraph>
+<paragraph>Administered simultaneously<br/>Administered 2 hours apart</paragraph>
+</td>
+<td>
+<paragraph>40 mg<br/>40 mg</paragraph>
+</td>
+<td>
+<paragraph>↓ 54%<sup>†</sup>
+<br/>↓ 22%</paragraph>
+</td>
+<td> ↓ 50%<sup>†</sup>
+<br/>↓ 16%</td>
+</tr>
+<tr>
+<td>
+<paragraph>Ketoconazole 200 mg BID for 7 days</paragraph>
+</td>
+<td>
+<paragraph>80 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 2%</paragraph>
+</td>
+<td>
+<paragraph>↓   5%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Fluconazole 200 mg QD for 11 days</paragraph>
+</td>
+<td>
+<paragraph>80 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 14%</paragraph>
+</td>
+<td>
+<paragraph>↑   9%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Erythromycin 500 mg QID for 7 days</paragraph>
+</td>
+<td>
+<paragraph>80 mg</paragraph>
+</td>
+<td>
+<paragraph>↓ 20%</paragraph>
+</td>
+<td>
+<paragraph>↓ 31%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>

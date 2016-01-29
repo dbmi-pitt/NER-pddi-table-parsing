@@ -1,0 +1,95 @@
+<table id="_RefID0EOJAE" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV Doses  </caption>
+<col width="24%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="18%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Parameters </content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">500 mg </content>
+<br/>
+<content stylecode="bold">q12h, P.O. </content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">400 mg </content>
+<br/>
+<content stylecode="bold">q12h, IV </content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">750 mg </content>
+<br/>
+<content stylecode="bold">q12h, P.O. </content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">400 mg </content>
+<br/>
+<content stylecode="bold">q8h, IV </content>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="8" stylecode="Botrule" valign="top">
+<sup>a</sup>AUC <sub>0-12h</sub>
+<br/>
+<sup>b</sup>AUC 24h=AUC<sub>0-12h</sub> x 2 <br/>
+<sup>c</sup>AUC 24h=AUC<sub>0-8h </sub>x 3<br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph> AUC (mcg•hr/mL) <br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>13.7<sup>a</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>12.7<sup>a</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>31.6<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>32.9<sup>c</sup>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph> C<sub>max</sub> (mcg/mL)<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>2.97<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>4.56<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>3.59<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>4.07<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

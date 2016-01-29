@@ -1,0 +1,41 @@
+<table id="id_230f1fd5-caa0-4189-92b9-4ee13e8264c0" width="495.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="33.3%"></col>
+<col align="left" width="33.3%"></col>
+<col align="left" width="33.3%"></col>
+<tbody>
+<tr id="id_3dd98f4a-f50e-45b3-bf1d-8c0a6e25927e">
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="underline">Microorganism</content>
+</content>
+</td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" valign="top">
+<content stylecode="bold">
+<content stylecode="underline">Zone Diameter (mm)</content>
+</content>
+</td>
+</tr>
+<tr id="id_c26a17b2-bfd3-4976-a274-dbf2bad24a33">
+<td align="left" valign="top">
+<content stylecode="italics">S. aureus</content>
+</td>
+<td align="left" valign="top">ATCC 25923</td>
+<td align="left" valign="top">26 - 34</td>
+</tr>
+<tr id="id_767e7f4b-e33a-494b-9fa1-6e58ee07743c">
+<td align="left" valign="top">
+<content stylecode="italics">E. coli</content>
+</td>
+<td align="left" valign="top">ATCC 25922</td>
+<td align="left" valign="top">8 - 10</td>
+</tr>
+<tr id="id_c3e0d120-ba34-44b9-b9c6-2230d82a2149">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">H. influenzae</content>
+</td>
+<td align="left" stylecode="Botrule" valign="top">ATCC 49247</td>
+<td align="left" stylecode="Botrule" valign="top">22 - 30</td>
+</tr>
+</tbody>
+</table>

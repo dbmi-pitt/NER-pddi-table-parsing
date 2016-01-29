@@ -1,0 +1,29 @@
+<table id="id_b511b6c8-74a0-424e-8b8f-47a78bb9efde" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_9c286340-efc7-4329-bf67-dc8686976e37">Table 8. Acceptable Quality Control Ranges for Azithromycin</caption>
+<col align="left" width="33%"></col>
+<col align="center" width="34%"></col>
+<col align="center" width="33%"></col>
+<thead>
+<tr id="id_209dcdff-6f44-47bc-8cbd-a9881646d501" stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">QC Strain</td>
+<td align="left" stylecode="Rrule" valign="top">Minimum Inhibitory Concentrations (µg/mL)</td>
+<td align="left" stylecode="Rrule" valign="top">Disk Diffusion<br/>(zone diameters in mm)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_1035ebb3-811a-486d-a6aa-0caf417c4a2b" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+<br/>  ATCC 49247</td>
+<td align="left" stylecode="Rrule" valign="top">1.0–4.0</td>
+<td align="left" stylecode="Rrule" valign="top">13–21</td>
+</tr>
+<tr id="id_3e4b3e79-aa49-4185-8864-c3c6f5665c31" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<br/>  ATCC 49619</td>
+<td align="left" stylecode="Rrule" valign="top">0.06–0.25</td>
+<td align="left" stylecode="Rrule" valign="top">19–25</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,109 @@
+<table id="t7" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 7 Foscarnet Pharmacokinetic Characteristics*
+</caption>
+<col align="left" width="42.800%"></col>
+<col align="left" width="28.600%"></col>
+<col align="left" width="28.600%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">*Values expressed as mean S.D. (number of subjects studied) for each parameter
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">†50 mg/kg Q8h for 28 days, samples taken 3 hrs after end of 1 hr infusion (Astra Report 815-04 AC025-1)
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">‡90 mg/kg Q12hr for 28 days, samples taken 1hr after end of 2 hr infusion (Hengge et al., 1993)
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Parameter</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">60 mg/kg Q8h</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">90 mg/kg Q12h</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">C</content>
+<sub>max
+</sub>
+<content stylecode="bold">at steady-state (μM)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">589 ± 192 (24)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">623 ± 132 (19)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">C</content>
+<sub>trough
+</sub>
+<content stylecode="bold">at steady-state (μM)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">114 ± 91 (24)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">63 ± 57 (17)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Volume of distribution (L/kg)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.41 ± 0.13 (12)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.52 ± 0.20 (18)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Plasma half-life (hr)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4.0 ± 2.0 (24)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3.3 ± 1.4 (18)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Systemic clearance (L/hr)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">6.2 ± 2.1 (24)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">7.1 ± 2.7 (18)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Renal clearance (L/hr)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">5.6 ± 1.9 (5)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">6.4 ± 2.5 (13)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">CSF: plasma ratio</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.69 ± 0.19 (9) †
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.66 ± 0.11(5) ‡
+</td>
+</tr>
+</tbody>
+</table>

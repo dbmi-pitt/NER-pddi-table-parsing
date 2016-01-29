@@ -1,0 +1,124 @@
+<table id="table_2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col width="18%"></col>
+<col width="10%"></col>
+<col width="12%"></col>
+<col width="14%"></col>
+<col width="14%"></col>
+<col width="14%"></col>
+<col width="15%"></col>
+</colgroup>
+<tbody>
+<tr valign="bottom">
+<td align="center" colspan="7" stylecode="Toprule Botrule">
+<content stylecode="bold">Pediatric Pharmacokinetic Parameters (mean±SD)</content>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<content stylecode="bold">Patient Population</content>
+</td>
+<td align="center">
+<content stylecode="bold">Dose/day</content>
+<br/>
+<content stylecode="bold">(mg/d)</content>
+</td>
+<td align="center">
+<content stylecode="bold">Dose/weight </content>
+<br/>
+<content stylecode="bold">(mg/kg/d)</content>
+</td>
+<td align="center">
+<content stylecode="bold">AUC<sup>1</sup>
+</content>
+<br/>
+<content stylecode="bold">(ng·hr/mL)</content>
+</td>
+<td align="center">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+<br/>
+<content stylecode="bold">(ng/mL)</content>
+</td>
+<td align="center">
+<content stylecode="bold">CL/F</content>
+<br/>
+<content stylecode="bold">(mL/min)</content>
+</td>
+<td align="center">
+<content stylecode="bold">CL/F</content>
+<br/>
+<content stylecode="bold">(mL/min/kg)</content>
+</td>
+</tr>
+<tr>
+<td colspan="7">
+<content stylecode="bold">Stable liver transplant<sup>2</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td>Age 2-8, Dosed TID (N=9)</td>
+<td align="center">101±25</td>
+<td align="center">5.95±1.32</td>
+<td align="center">2163±801</td>
+<td align="center">629±219</td>
+<td align="center">285±94</td>
+<td align="center">16.6±4.3</td>
+</tr>
+<tr>
+<td>Age 8-15, Dosed BID (N=8)</td>
+<td align="center">188±55</td>
+<td align="center">4.96±2.09</td>
+<td align="center">4272±1462</td>
+<td align="center">975±281</td>
+<td align="center">378±80</td>
+<td align="center">10.2±4.0</td>
+</tr>
+<tr>
+<td colspan="7">
+<content stylecode="bold">Stable liver transplant<sup>3</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td>Age 3, Dosed BID (N=1)</td>
+<td align="center">120</td>
+<td align="center">8.33</td>
+<td align="center">5832</td>
+<td align="center">1050</td>
+<td align="center">171</td>
+<td align="center">11.9</td>
+</tr>
+<tr>
+<td>Age 8-15, Dosed BID (N=5)</td>
+<td align="center">158±55</td>
+<td align="center">5.51±1.91</td>
+<td align="center">4452±2475</td>
+<td align="center">1013±635</td>
+<td align="center">328±121</td>
+<td align="center">11.0±1.9</td>
+</tr>
+<tr>
+<td colspan="7">
+<content stylecode="bold">Stable renal transplant<sup>3</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td>Age 7-15, Dosed BID (N=5)</td>
+<td align="center">328±83</td>
+<td align="center">7.37±4.11</td>
+<td align="center">6922±1988</td>
+<td align="center">1827±487</td>
+<td align="center">418±143</td>
+<td align="center">8.7±2.9</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Toprule">
+<sup>1</sup>AUC was measured over one dosing interval<br/>
+<sup>2</sup>Assay:  Cyclo-trac specific monoclonal radioimmunoassay<br/>
+<sup>3</sup>Assay:  TDx specific monoclonal fluorescence polarization immunoassay</td>
+</tr>
+</tbody>
+</table>

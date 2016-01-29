@@ -1,0 +1,49 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1 Controlled PHN Studies: Duration, Dosages, and Number of Patients</caption>
+<colgroup>
+<col width="19%"></col>
+<col width="17%"></col>
+<col width="23%"></col>
+<col width="21%"></col>
+<col width="20%"></col>
+</colgroup>
+<thead>
+<tr stylecode="First Last">
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Study </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Study Duration</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Gabapentin (mg/day)a <br/>Target Dose </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Patients Receiving <br/>Gabapentin</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Patients Receiving <br/>Placebo</td>
+</tr>
+</thead>
+<tfoot>
+<tr stylecode="First Last">
+<td align="left">
+<paragraph stylecode="Footnote">aGiven in 3 divided doses (TID)</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">1 </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">8 weeks </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">3600 </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">113 </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">116 </td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">2 </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">7 weeks </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">1800, 2400 </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">223 </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">111 </td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top"></td>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top"></td>
+<td align="right" stylecode="Botrule Lrule Rrule Toprule" valign="top">Total </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">336 </td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">227 </td>
+</tr>
+</tbody>
+</table>

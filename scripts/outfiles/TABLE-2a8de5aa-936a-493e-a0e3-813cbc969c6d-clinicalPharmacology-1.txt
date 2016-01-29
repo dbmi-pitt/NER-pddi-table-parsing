@@ -1,0 +1,46 @@
+<table id="id_97f36b32-43d1-4c08-b577-8e98c714cc6c" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_7e79aa49-5a0a-4073-bb57-2430e28467d7">TABLE 4. Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs</caption>
+<col align="left" width="22%"></col>
+<col align="left" width="34%"></col>
+<col align="left" width="22%"></col>
+<col align="left" width="22%"></col>
+<thead>
+<tr id="id_17803fd9-4b0b-42ce-81b7-7f23bcc67b28" stylecode="Toprule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">Atorvastatin</td>
+<td align="center" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">Co-administered drug and dosing regimen</td>
+</tr>
+<tr id="id_fd787da6-4d23-4edc-bdf4-91fafc7d9e07" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top">Drug/Dose (mg)</td>
+<td align="left" stylecode="Rrule" valign="top">Change in AUC</td>
+<td align="left" stylecode="Rrule" valign="top">Change in Cmax</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_64320918-62aa-4a4c-b16c-6ccebb1a09a4" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">80 mg QD for 15 days</td>
+<td align="left" stylecode="Rrule" valign="top">Antipyrine, 600 mg SD</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 3%</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 11%</td>
+</tr>
+<tr id="id_fb0db6c5-d8cf-43bd-90b0-70d44b354025">
+<td align="left" stylecode="Lrule Rrule" valign="top">80 mg QD for 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnote id="id-3ac25e41-2015-4dff-91b5-809d047c7136">See<linkhtml href="#i4i_interactions_id_a15a9033-b8f0-4b1b-895a-e8c1f51b4b4d"> Section 7 </linkhtml>for clinical significance.</footnote> Digoxin 0.25 mg QD, 20 days</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 15%</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 20 %</td>
+</tr>
+<tr id="id_2cc097a5-ce21-4187-829d-f359c38c779a">
+<td align="left" stylecode="Lrule Rrule" valign="top">40 mg QD for 22 days</td>
+<td align="left" stylecode="Rrule" valign="top">Oral contraceptive QD, 2 months</td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_5e9c5dcf-261b-4568-a067-147d379d28e9" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top">- norethindrone 1mg<br/>- ethinyl estradiol 35µg</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 28%<br/>↑ 19%</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 23%<br/>↑ 30%</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,29 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Interpretive criteria for Enterobacteriaceae, and Staphylococcus spp. </caption>
+<col width="1px"></col>
+<col width="1px"></col>
+<thead>
+<tr>
+<th stylecode="     Botrule          Toprule     " valign="top">
+<content stylecode="bold">MIC <br/>(mcg/mL)</content>
+</th>
+<th stylecode="     Botrule          Toprule          Rrule     " valign="top">
+<content stylecode="bold">Interpretation</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule     ">≤ 8</td>
+<td stylecode="     Botrule          Toprule          Rrule     ">Susceptible (S)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     ">16</td>
+<td stylecode="     Botrule          Toprule          Rrule     ">Intermediate (I)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     ">≥ 32</td>
+<td stylecode="     Botrule          Toprule          Rrule     ">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

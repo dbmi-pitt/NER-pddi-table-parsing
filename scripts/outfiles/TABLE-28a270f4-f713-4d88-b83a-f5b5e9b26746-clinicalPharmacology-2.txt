@@ -1,0 +1,26 @@
+<table id="table2" width="65%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col align="center" valign="top" width="60%"></col>
+<col align="center" valign="top" width="40%"></col>
+</colgroup>
+<thead>
+<tr>
+<th>Microorganism</th>
+<th>MIC (µg/mL)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">S. aureus ATCC<footnote>ATCC is a registered trademark of the American Type Culture Collection</footnote> 29213</td>
+<td align="center">0.25-1</td>
+</tr>
+<tr>
+<td align="center">E. faecalis ATCC 29212</td>
+<td align="center">1-4</td>
+</tr>
+<tr>
+<td align="center">S. pneumoniae ATCC 49619</td>
+<td align="center">0.03-0.12</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,371 @@
+<table id="table6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of INTELENCE<sup>®</sup>
+</caption>
+<col align="left" valign="top" width="17%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule" valign="bottom">Co-administered Drug</th>
+<th rowspan="2" stylecode="Rrule" valign="bottom">Dose/Schedule of Co-administered Drug</th>
+<th rowspan="2" stylecode="Rrule" valign="bottom">N</th>
+<th rowspan="2" stylecode="Rrule" valign="bottom">Exposure</th>
+<th colspan="3" stylecode="Rrule" valign="bottom">Mean Ratio of<br/>
+<content stylecode="underline">Co-administered Drug</content>
+<br/>Pharmacokinetic Parameters<br/>90% CI; No effect = 1.00</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule botrule" valign="bottom">C<sub>max</sub>
+</th>
+<th stylecode="Rrule botrule" valign="bottom">AUC</th>
+<th stylecode="Rrule botrule" valign="bottom">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">CI = Confidence Interval; N = number of subjects with data; N.A. = not available; ↑ = increase; ↓ = decrease; ↔ = no change; q.d. = once daily ; b.i.d. = twice daily; q.a.m. = once daily in the morning</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td align="left" colspan="7" stylecode="Lrule Rrule">
+<content stylecode="bold">Co-Administration With Protease Inhibitors (PIs)</content>
+</td>
+</tr>
+</tbody>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atazanavir</td>
+<td stylecode="Rrule">400 mg q.d.</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.97<br/> (0.73-1.29)</td>
+<td stylecode="Rrule">0.83<br/> (0.63-1.09)</td>
+<td stylecode="Rrule">0.53<br/> (0.38-0.73)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atazanavir/<br/> ritonavir</td>
+<td stylecode="Rrule">300/100 mg q.d.</td>
+<td stylecode="Rrule">13</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.97<br/> (0.89-1.05)</td>
+<td stylecode="Rrule">0.86<br/> (0.79-0.93)</td>
+<td stylecode="Rrule">0.62<br/> (0.55-0.71)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Darunavir/<br/> ritonavir</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.11<br/> (1.01-1.22)</td>
+<td stylecode="Rrule">1.15<br/> (1.05-1.26)</td>
+<td stylecode="Rrule">1.02<br/> (0.90-1.17)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Fosamprenavir/<br/> ritonavir</td>
+<td stylecode="Rrule">700/100 mg b.i.d.</td>
+<td stylecode="Rrule">8</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.62<br/> (1.47-1.79)</td>
+<td stylecode="Rrule">1.69<br/> (1.53-1.86)</td>
+<td stylecode="Rrule">1.77<br/> (1.39-2.25)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Lopinavir/<br/> ritonavir 														<br/>(tablet)</td>
+<td stylecode="Rrule">400/100 mg b.i.d.</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">0.89<br/>(0.82-0.96)</td>
+<td stylecode="Rrule">0.87<br/>(0.83-0.92)</td>
+<td stylecode="Rrule">0.80<br/>(0.73-0.88)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Saquinavir/<br/> ritonavir</td>
+<td stylecode="Rrule">1000/100 mg b.i.d.</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.00<br/> (0.70-1.42)</td>
+<td stylecode="Rrule">0.95<br/> (0.64-1.42)</td>
+<td stylecode="Rrule">0.80<br/> (0.46-1.38)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Tipranavir/<br/> ritonavir</td>
+<td stylecode="Rrule">500/200 mg b.i.d.</td>
+<td stylecode="Rrule">19</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.14<br/> (1.02-1.27)</td>
+<td stylecode="Rrule">1.18<br/> (1.03-1.36)</td>
+<td stylecode="Rrule">1.24<br/> (0.96-1.59)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Lrule Rrule">
+<content stylecode="bold">Co-Administration With Nucleoside Reverse Transcriptase Inhibitors (NRTIs)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Didanosine</td>
+<td stylecode="Rrule">400 mg q.d.</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">0.91<br/> (0.58-1.42)</td>
+<td stylecode="Rrule">0.99<br/> (0.79-1.25)</td>
+<td stylecode="Rrule">N.A.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Tenofovir disoproxil fumarate</td>
+<td stylecode="Rrule">300 mg q.d.</td>
+<td stylecode="Rrule">19</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.15<br/> (1.04-1.27)</td>
+<td stylecode="Rrule">1.15<br/> (1.09-1.21)</td>
+<td stylecode="Rrule">1.19<br/> (1.13-1.26)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Lrule Rrule">
+<content stylecode="bold">Co-Administration With CCR5 Antagonists</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Maraviroc</td>
+<td stylecode="Rrule">300 mg b.i.d.</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.40<br/>(0.28-0.57)</td>
+<td stylecode="Rrule">0.47<br/>(0.38-0.58)</td>
+<td stylecode="Rrule">0.61<br/>(0.53-0.71)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Maraviroc (when co-administered with darunavir/ritonavir)<footnote>compared to maraviroc 150 mg b.i.d.</footnote>
+</td>
+<td stylecode="Rrule">150/600/100 mg b.i.d.</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.77<br/>(1.20-2.60)</td>
+<td stylecode="Rrule">3.10<br/>(2.57-3.74)</td>
+<td stylecode="Rrule">5.27<br/>(4.51-6.15)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Lrule Rrule">
+<content stylecode="bold">Co-Administration With Integrase Strand Transfer Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Raltegravir</td>
+<td stylecode="Rrule">400 mg b.i.d.</td>
+<td stylecode="Rrule">19</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.89<br/> (0.68-1.15)</td>
+<td stylecode="Rrule">0.90<br/> (0.68-1.18)</td>
+<td stylecode="Rrule">0.66<br/> (0.34-1.26)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Lrule Rrule">
+<content stylecode="bold">Co-Administration With Other Drugs</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Atorvastatin</td>
+<td stylecode="Rrule">40 mg q.d.</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">1.04<br/> (0.84-1.30)</td>
+<td stylecode="Rrule">0.63<br/> (0.58-0.68)</td>
+<td stylecode="Rrule">N.A.</td>
+</tr>
+<tr>
+<td stylecode="lrule rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">2-hydroxy-atorvastatin</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.76<br/> (1.60-1.94)</td>
+<td stylecode="Rrule">1.27<br/> (1.19-1.36)</td>
+<td stylecode="Rrule">N.A.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Clarithromycin</td>
+<td stylecode="Rrule">500 mg b.i.d.</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.66<br/> (0.57-0.77)</td>
+<td stylecode="Rrule">0.61<br/> (0.53-0.69)</td>
+<td stylecode="Rrule">0.47<br/> (0.38-0.57)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">14-hydroxy-clarithromycin</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.33<br/> (1.13-1.56)</td>
+<td stylecode="Rrule">1.21<br/> (1.05-1.39)</td>
+<td stylecode="Rrule">1.05<br/> (0.90-1.22)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Digoxin</td>
+<td stylecode="Rrule">0.5 mg single dose</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.19<br/>(0.96-1.49)</td>
+<td stylecode="Rrule">1.18<br/>(0.90-1.56)</td>
+<td stylecode="Rrule">N.A.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Ethinylestradiol</td>
+<td stylecode="Rrule">0.035 mg q.d.</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.33<br/> (1.21-1.46)</td>
+<td stylecode="Rrule">1.22<br/> (1.13-1.31)</td>
+<td stylecode="Rrule">1.09<br/> (1.01-1.18)</td>
+</tr>
+<tr>
+<td stylecode="lrule rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Norethindrone</td>
+<td stylecode="Rrule">1 mg q.d.</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.05<br/> (0.98-1.12)</td>
+<td stylecode="Rrule">0.95<br/> (0.90-0.99)</td>
+<td stylecode="Rrule">0.78<br/> (0.68-0.90)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Fluconazole</td>
+<td stylecode="Rrule">200 mg q.a.m.</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">0.92<br/>(0.85-1.00)</td>
+<td stylecode="Rrule">0.94<br/>(0.88-1.01)</td>
+<td stylecode="Rrule">0.91<br/>(0.84-0.98)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">R(-) Methadone</td>
+<td stylecode="Rrule">Individual dose regimen ranging from 60 to 130 mg/day</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.02<br/> (0.96-1.09)</td>
+<td stylecode="Rrule">1.06<br/> (0.99-1.13)</td>
+<td stylecode="Rrule">1.10<br/> (1.02-1.19)</td>
+</tr>
+<tr>
+<td stylecode="lrule rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">S(+) Methadone</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">0.89<br/> (0.83-0.97)</td>
+<td stylecode="Rrule">0.89<br/> (0.82-0.96)</td>
+<td stylecode="Rrule"> 0.89<br/> (0.81-0.98)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Paroxetine</td>
+<td stylecode="Rrule">20 mg q.d.</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.06<br/> (0.95-1.20)</td>
+<td stylecode="Rrule">1.03<br/> (0.90-1.18)</td>
+<td stylecode="Rrule">0.87<br/> (0.75-1.02)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Rifabutin</td>
+<td stylecode="Rrule">300 mg q.d.</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.90<br/> (0.78-1.03)</td>
+<td stylecode="Rrule">0.83<br/> (0.75-0.94)</td>
+<td stylecode="Rrule">0.76<br/> (0.66-0.87)</td>
+</tr>
+<tr>
+<td stylecode="lrule rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">25-<content stylecode="italics">O</content>-desacetylrifabutin</td>
+<td stylecode="Rrule">300 mg q.d.</td>
+<td stylecode="Rrule">12<br/>
+</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.85<br/> (0.72-1.00)</td>
+<td stylecode="Rrule">0.83<br/> (0.74-0.92)</td>
+<td stylecode="Rrule">0.78<br/> (0.70-0.87)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Sildenafil</td>
+<td stylecode="Rrule">50 mg single dose</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.55<br/> (0.40-0.75)</td>
+<td stylecode="Rrule">0.43<br/> (0.36-0.51)</td>
+<td stylecode="Rrule">N.A.</td>
+</tr>
+<tr>
+<td stylecode="lrule rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">N-desmethyl-sildenafil</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.75<br/> (0.59-0.96)</td>
+<td stylecode="Rrule">0.59<br/> (0.52-0.68)</td>
+<td stylecode="Rrule">N.A.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Voriconazole</td>
+<td stylecode="Rrule">200 mg b.i.d.</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">0.95<br/>(0.75-1.21)</td>
+<td stylecode="Rrule">1.14<br/>(0.88-1.47)</td>
+<td stylecode="Rrule">1.23<br/>(0.87-1.75)</td>
+</tr>
+</tbody>
+</table>

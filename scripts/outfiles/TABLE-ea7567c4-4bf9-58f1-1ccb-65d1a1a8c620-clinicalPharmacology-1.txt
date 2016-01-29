@@ -1,0 +1,67 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col align="left"></col>
+<col align="left"></col>
+<col align="left"></col>
+</colgroup>
+<tbody>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">              Age                                                   Range            </content>
+</content>
+</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">              Maintenance                                                   Dosage            </content>
+</content>
+<content stylecode="underline">
+<content stylecode="emphasis">                  (mcg/kg/min)                </content>
+</content>
+</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">              Duration                                                               </content>
+</content>(minutes)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>2 months to 2 years</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>199 (82 to 394)</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>65 (12 to 282)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>2 to 12 years</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>188 (12 to 1041)</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>69 (23 to 374)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>&gt;12 through 16 years</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>161 (84 to 359)</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>69 (26 to 251)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

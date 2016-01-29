@@ -1,0 +1,120 @@
+<table id="table2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2 Effect of Saquinavir on the Pharmacokinetics of Coadministered Drugs</caption>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="20%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">Coadministered Drug</th>
+<th align="center" rowspan="2" stylecode="Rrule">Saquinavir soft gel capsules or saquinavir soft gel capsules/ ritonavir<br/>Dose</th>
+<th rowspan="2" stylecode="Rrule">N</th>
+<th colspan="2" stylecode="Rrule">% Change for Coadministered Drug</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">AUC (95% CI)</th>
+<th align="center" stylecode="Rrule">C<sub>max</sub> (95% CI)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="5">↑      Denotes an average increase in exposure by the percentage indicated.<br/>↓      Denotes an average decrease in exposure by the percentage indicated.<br/>↔    Denotes no statistically significant change in exposure was observed.<br/>P      Patient<br/>V     Healthy Volunteers<br/>M    Methadone-dependent, HIV negative patients<br/>NA  Not Available</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule">Clarithromycin 500 mg bid × 7 days</td>
+<td stylecode="Rrule">1200 mg tid × 7 days</td>
+<td stylecode="Rrule">12V</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">  Clarithromycin</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↑45% (17-81%)</td>
+<td stylecode="Rrule">↑39% (10-76%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">  14-OH clarithromycin metabolite</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓24% (5-40%)</td>
+<td stylecode="Rrule">↓34% (14-50%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule">Enfuvirtide 90 mg SC q12h (bid) for 7 days</td>
+<td stylecode="Rrule Toprule">1000/100 mg bid</td>
+<td stylecode="Rrule Toprule Botrule">12P</td>
+<td stylecode="Rrule Toprule">↔</td>
+<td stylecode="Rrule Toprule Botrule">↔</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule">Rifabutin 300 mg qd</td>
+<td stylecode="Rrule Toprule">1200 mg tid</td>
+<td stylecode="Rrule Botrule">14P</td>
+<td stylecode="Rrule Toprule">↑44%</td>
+<td stylecode="Rrule Botrule">↑45%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule Toprule">Sildenafil 100-mg single dose</td>
+<td stylecode="Rrule Toprule">1200 mg tid × 8 days</td>
+<td stylecode="Rrule">27V</td>
+<td stylecode="Rrule Toprule">↑210% (150-300%)</td>
+<td stylecode="Rrule">↑140% (80-230%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Efavirenz 600 mg qd</td>
+<td stylecode="Rrule">1200 mg tid</td>
+<td stylecode="Rrule">13V</td>
+<td stylecode="Rrule">↓12%</td>
+<td stylecode="Rrule">↓13%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td align="center" stylecode="Rrule">
+<content stylecode="bold">Invirase or Invirase/ritonavir Dose</content>
+</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Digoxin 0.5 mg single dose</td>
+<td stylecode="Rrule">1000/100 mg bid × 16 days</td>
+<td stylecode="Rrule">16V</td>
+<td stylecode="Rrule">↑49% (32-69%)<footnote id="table2f1">90% Confidence Interval</footnote>
+</td>
+<td stylecode="Rrule">↑27% (5-54%)<footnoteref idref="table2f1"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">R-Methadone 60-120 mg qd</td>
+<td stylecode="Rrule">1000/100 mg bid × 14 days</td>
+<td stylecode="Rrule">12M</td>
+<td stylecode="Rrule">↓19% (9-29%)<footnoteref idref="table2f1"></footnoteref>
+</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ketoconazole 200 mg/day</td>
+<td stylecode="Rrule">1000/100 mg bid</td>
+<td stylecode="Rrule">12V</td>
+<td stylecode="Rrule">↑168% (146-193%)<footnoteref idref="table2f1"></footnoteref>
+</td>
+<td stylecode="Rrule">↑45% (32-59%)<footnoteref idref="table2f1"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Midazolam 7.5 mg oral single dose</td>
+<td stylecode="Rrule">1000/100 mg bid</td>
+<td stylecode="Rrule">16V</td>
+<td stylecode="Rrule">↑1144% (975-1339%)<footnoteref idref="table2f1"></footnoteref>
+</td>
+<td stylecode="Rrule">↑327% (264 -402%)<footnoteref idref="table2f1"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

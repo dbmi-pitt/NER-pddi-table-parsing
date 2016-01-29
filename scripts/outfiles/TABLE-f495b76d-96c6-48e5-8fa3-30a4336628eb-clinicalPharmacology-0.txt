@@ -1,0 +1,66 @@
+<table id="id_e725bba1-b189-4e6d-aacc-95c9f989efb3" width="872.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_72a877bf-736b-4bb4-b888-70519a81be54">TABLE I CREATININE CLEARANCE CHANGES BY WHITE CELL CYSTINE DEPLETION</caption>
+<col align="left" width="20.8%"></col>
+<col align="center" width="17.5%"></col>
+<col align="center" width="19.6%"></col>
+<col align="center" width="20.5%"></col>
+<col align="center" width="21.6%"></col>
+<thead>
+<tr id="id_8b7ca836-1c95-418b-b25a-5484665d1bb3">
+<td align="left" stylecode="Toprule" valign="top"> </td>
+<td align="center" colspan="2" stylecode="Toprule" valign="top">
+<content stylecode="bold">Age<br/>(years)</content>
+</td>
+<td align="center" colspan="2" valign="top">
+<content stylecode="bold">Creatinine Clearance<br/>(ml/min/1.73m<sup>2</sup>)</content>
+</td>
+</tr>
+<tr id="id_4575428c-9d5d-4d0a-a9bf-5a0ea1598459">
+<td align="left" stylecode="Botrule" valign="top"> </td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="underline">
+<content stylecode="bold">Initial</content>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="underline">
+<content stylecode="bold">Final</content>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">
+<content stylecode="underline">Initial</content>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="underline">
+<content stylecode="bold">Final</content>
+</content>
+</td>
+</tr>
+</thead>
+<tfoot id="id_10720e3d-ed84-497d-b78c-b704fd9b95b3">
+<tr>
+<td align="left" colspan="5" stylecode="Lrule Botrule" valign="top">(95% confidence limits on difference between final creatinine clearances, 6.1 and 35.5 ml/min/1.73m<sup>2</sup>, despite older mean age of good depletion group.)</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_e8ebc6a0-3ead-40a2-92c6-11947556718a">
+<td align="left" stylecode="Toprule" valign="top">Poor Depletion<footnote id="idaguwrd">Median leukocyte cystine levels were over 3 nmol/½ cystine/mg protein or were not measured at least 2 times per year. Patients did receive cysteamine for at least 1 year.</footnote>
+<br/>(n = 18)</td>
+<td align="center" stylecode="Toprule" valign="top">4.2 ± 1.8</td>
+<td align="center" stylecode="Toprule" valign="top">6.5 ± 0.5</td>
+<td align="center" stylecode="Toprule" valign="top">33.6 ± 17.0</td>
+<td align="center" valign="top">29.7 ± 5.4</td>
+</tr>
+<tr id="id_4c85389c-f3c9-47a1-be7d-fd3516a7afb9">
+<td align="left" valign="top">Good Depletion<footnote id="idawuwrd">Median leukocyte cystine levels were less than 1 nmol/½ cystine/mg protein and received cysteamine for at least 1 year.</footnote>
+<br/> (n = 19)</td>
+<td align="center" valign="top">
+<br/> 3.3 ± 2.2</td>
+<td align="center" valign="top">7.2 ± 0.7</td>
+<td align="center" valign="top">44.3 ± 15.0</td>
+<td align="center" valign="top">50.5 ± 5.1</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,80 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" colspan="5" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">Table 2<br/>
+</content>
+<content stylecode="bold">The Influence of Age, Liver and Kidney Function, on the Clearance<br/>
+</content>
+<content stylecode="bold">a</content>
+<content stylecode="bold">nd Terminal Half-Life of Ketorolac Tromethamine (IM<footnote id="FOOT_3500">estimated from 30 mg single IM doses of ketorolac tromethamine</footnote>
+</content>
+<content stylecode="bold"> and Oral<footnote id="FOOT_3501">estimated from 10 mg single oral doses of ketorolac tromethamine</footnote>
+</content>
+<content stylecode="bold">) in Adult Populations)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Total Clearance [in L/h/kg]<footnote id="FOOT_3502">Liters/hour/kilogram</footnote>
+</content>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Terminal Half-life [in hours]</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Type Of Subjects</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">IM Mean (range)</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">ORAL Mean (range)</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">IM Mean (range)</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">ORAL Mean (range)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Normal Subjects IM (n=54) mean age=32, range=18-60 Oral (n=77) mean age=32, range=20-60</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.023<br/>(0.010-0.046)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.025<br/>(0.013-0.050)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">5.3<br/>(3.5-9.2)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">5.3<br/>(2.4-9.0)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Healthy Elderly Subjects IM (n=13), Oral (n=12) mean age=72, range=65-78</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.019<br/>(0.013-0.034)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.024<br/>(0.018-0.034)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7.0<br/>(4.7-8.6)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">6.1<br/>(4.3-7.6)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Patients with Hepatic Dysfunction IM and Oral (n=7) mean age=51, range=43-64</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.029<br/>(0.013-0.066)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.033<br/>(0.019-0.051)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5.4<br/>(2.2-6.9)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">4.5<br/>(1.6 – 7.6)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Patients with Renal Impairment IM (n=25), Oral (n=9) serum creatinine=1.9-5.0 mg/dL, mean age (IM)=54, range=35-71 mean age (Oral)=57, range=39-70</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.015<br/>(0.005-0.043)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.016<br/>(0.007-0.052)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 10.3<br/>(5.9-19.2)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">10.8<br/>(3.4-18.9)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Renal Dialysis Patients IM and Oral (n=9) mean age=40, range=27-63</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.016<br/>(0.003-0.036)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> --</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 13.6<br/>(8.0-39.1)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> --</td>
+</tr>
+</tbody>
+</table>

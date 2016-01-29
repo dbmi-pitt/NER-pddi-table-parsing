@@ -1,0 +1,68 @@
+<table id="table4" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: Mean (%CV) Steady State Pharmacokinetic Parameters of Anidulafungin Following IV Administration of Anidulafungin Once Daily for 10 Days in Healthy Adult Subjects</caption>
+<col align="left" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">
+<br/>PK Parameter<footnote>Parameters were obtained from separate studies</footnote>
+</th>
+<th colspan="3" stylecode="Rrule">Anidulafungin IV Dosing Regimen (LD/MD, mg)<footnote>LD/MD: loading dose/maintenance dose once daily</footnote>
+</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Rrule">70/35<footnote>Data were collected on Day 7</footnote>
+<sup>,</sup>
+<footnote id="t4fd">Safety and efficacy of these doses has not been established</footnote>
+<br/>(N=6)</th>
+<th stylecode="Rrule">200/100<br/>(N=10)</th>
+<th stylecode="Rrule">260/130<footnoteref idref="t4fd"></footnoteref>
+<sup>,</sup>
+<footnote>See <linkhtml href="#s10">OVERDOSAGE</linkhtml>
+</footnote>
+<br/>(N=10)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="4" valign="top">C<sub>max, ss</sub> = the steady state peak concentration</td>
+</tr>
+<tr>
+<td align="left" colspan="4" valign="top">AUC<sub>ss</sub> = the steady state area under concentration vs. time curve</td>
+</tr>
+<tr>
+<td align="left" colspan="4" valign="top">CL = clearance</td>
+</tr>
+<tr>
+<td align="left" colspan="4" valign="top">t<sub>1/2</sub> = the terminal elimination half-life</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>max, ss</sub> [mg/L]</td>
+<td stylecode="Rrule">3.55 (13.2)</td>
+<td stylecode="Rrule">8.6 (16.2)</td>
+<td stylecode="Rrule">10.9 (11.7)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">AUC<sub>ss</sub> [mg∙h/L]</td>
+<td stylecode="Rrule">42.3 (14.5)</td>
+<td stylecode="Rrule">111.8 (24.9)</td>
+<td stylecode="Rrule">168.9 (10.8)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">CL [L/h]</td>
+<td stylecode="Rrule">0.84 (13.5)</td>
+<td stylecode="Rrule">0.94 (24.0)</td>
+<td stylecode="Rrule">0.78 (11.3)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">t<sub>1/2 </sub>[h]</td>
+<td stylecode="Rrule">43.2 (17.7)</td>
+<td stylecode="Rrule">52.0 (11.7)</td>
+<td stylecode="Rrule">50.3 (9.7)</td>
+</tr>
+</tbody>
+</table>

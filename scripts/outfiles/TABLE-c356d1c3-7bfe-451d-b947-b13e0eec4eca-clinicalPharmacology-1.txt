@@ -1,0 +1,50 @@
+<table id="id_d11dad56-1e71-467e-8cd2-388c350b0c0f" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_1a9d3a3c-98b3-4713-b1ad-0472f9971001">RECOMMENDED RANGES FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING</caption>
+<col align="center" width="50.0%"></col>
+<col align="center" width="50.0%"></col>
+<tbody>
+<tr id="id_f53a9260-e95b-4ece-b8fe-a430483767ad" stylecode="Toprule">
+<td align="left" colspan="2" stylecode="Lrule Botrule Rrule" valign="top">For Gram-Negative Enteric Aerobes:</td>
+</tr>
+<tr id="id_6178a461-dfe4-4dd7-821e-cc14235b512e">
+<td align="left" stylecode="Lrule" valign="top">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr id="id_e851d59a-1bce-4787-b83b-e8c6edc9cff7">
+<td align="left" stylecode="Lrule" valign="top">≤8/4</td>
+<td align="left" stylecode="Rrule" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_b2bae59e-5f2c-4f92-ba52-d3e880221c92">
+<td align="left" stylecode="Lrule" valign="top">16/8</td>
+<td align="left" stylecode="Rrule" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_c6d26306-53be-41f3-9021-8cf23e11f03e">
+<td align="left" stylecode="Lrule" valign="top">≥32/16</td>
+<td align="left" stylecode="Rrule" valign="top">Resistant (R)</td>
+</tr>
+<tr id="id_f6f3f2bf-b4eb-44b4-b29f-38327e6babdb">
+<td align="left" colspan="2" stylecode="Lrule Botrule Rrule" valign="top">For <content stylecode="italics">Staphylococcus</content>
+<footnote id="idab1nsc">Staphylococci which are susceptible to amoxicillin/clavulanic acid but resistant to methicillin/oxacillin must be considered as resistant.</footnote> and <content stylecode="italics">Haemophilus</content> species:</td>
+</tr>
+<tr id="id_ea1f1d15-6a9b-4081-b153-b90ff33f1b15">
+<td align="left" stylecode="Lrule" valign="top">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr id="id_3de881fc-dc96-4886-9a8b-75ce966898ad">
+<td align="left" stylecode="Lrule" valign="top">≤4/2</td>
+<td align="left" stylecode="Rrule" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_598b234b-5b34-4275-a306-1ff30d9bbccd" stylecode="Botrule">
+<td align="left" stylecode="Lrule" valign="top">≥8/4</td>
+<td align="left" stylecode="Rrule" valign="top">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

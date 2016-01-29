@@ -1,0 +1,63 @@
+<table border="1" frame="border" id="SPLSERV-db49ed0c-4219-2713-2302-e3cfcd1c9a8b" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="252px"></col>
+<col width="148px"></col>
+<col width="156px"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="bold">
+<content stylecode="underline">Microorganism</content>
+</content>
+</td>
+<td stylecode="Botrule Rrule"> </td>
+<td stylecode="Botrule Rrule">
+<content stylecode="bold">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td stylecode="Botrule Rrule">ATCC 25922 </td>
+<td stylecode="Botrule Rrule">0.5-2 </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td stylecode="Botrule Rrule">ATCC 29212 </td>
+<td stylecode="Botrule Rrule">8-32 </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td stylecode="Botrule Rrule">ATCC 29213 </td>
+<td stylecode="Botrule Rrule">0.25-1 </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td stylecode="Botrule Rrule">ATCC 49247 </td>
+<td stylecode="Botrule Rrule">4-32 </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td stylecode="Botrule Rrule">ATCC 49619 </td>
+<td stylecode="Botrule Rrule">0.12-0.5 </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+</td>
+<td stylecode="Botrule Rrule">
+<content stylecode="italics"></content>ATCC 49226 </td>
+<td stylecode="Botrule Rrule">0.25-1 </td>
+</tr>
+</tbody>
+</table>

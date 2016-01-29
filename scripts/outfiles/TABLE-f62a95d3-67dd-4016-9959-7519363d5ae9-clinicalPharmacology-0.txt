@@ -1,0 +1,169 @@
+<table frame="void" width="960" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption> Table 1:  Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple-dose study in patients with cancer pain.</caption>
+<thead>
+<tr>
+<td align="left" valign="middle"></td>
+<td align="center" valign="middle">
+<content stylecode="bold">AUC#,+</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+<content stylecode="bold">+</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="bold">T</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>min</sub>
+</content>
+<content stylecode="bold">+</content>
+</td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="bold">Regimen/Dosage Form</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="bold">(ng.h/mL)</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="bold">(ng/mL)</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="bold">(h)</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="bold">(ng/mL)</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="bold">Fluctuation*</content>
+</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" valign="top"> # For single dose AUC = AUC<sub>0-48h</sub>, for multiple dose AUC = AUC<sub>0-24h</sub> at steady state </td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top"> + For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours </td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top"> * Steady-state fluctuation in plasma concentrations = C<sub>max</sub>-C<sub>min</sub>/C<sub>min</sub>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top"> ^ Not applicable </td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" valign="top">
+<content stylecode="bold">Single Dose (n=24)</content>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr>
+<td align="left" valign="top">KADIAN Capsule</td>
+<td align="center" valign="top">271.0</td>
+<td align="center" valign="top">15.6</td>
+<td align="center" valign="top">8.6</td>
+<td align="center" valign="top">na^</td>
+<td align="center" valign="top">na</td>
+</tr>
+<tr>
+<td align="left" valign="top"></td>
+<td align="center" valign="top">(19.4)</td>
+<td align="center" valign="top">(24.4)</td>
+<td align="center" valign="top">(41.1)</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr>
+<td align="left" valign="top">Extended-Release Tablet</td>
+<td align="center" valign="top">304.3</td>
+<td align="center" valign="top">30.5</td>
+<td align="center" valign="top">2.5</td>
+<td align="center" valign="top">na</td>
+<td align="center" valign="top">na</td>
+</tr>
+<tr>
+<td align="left" valign="top"></td>
+<td align="center" valign="top">(19.1)</td>
+<td align="center" valign="top">(32.1)</td>
+<td align="center" valign="top">(52.6)</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr>
+<td align="left" valign="top">Morphine Solution</td>
+<td align="center" valign="top">362.4</td>
+<td align="center" valign="top">64.4</td>
+<td align="center" valign="top">0.9</td>
+<td align="center" valign="top">na</td>
+<td align="center" valign="top">na</td>
+</tr>
+<tr>
+<td align="left" valign="top"></td>
+<td align="center" valign="top">(42.6)</td>
+<td align="center" valign="top">(38.2)</td>
+<td align="center" valign="top">(55.8)</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<content stylecode="bold">Multiple Dose (n=24)</content>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr>
+<td align="left" valign="top">KADIAN Capsule Once Daily</td>
+<td align="center" valign="top">500.9</td>
+<td align="center" valign="top">37.3</td>
+<td align="center" valign="top">10.3</td>
+<td align="center" valign="top">9.9</td>
+<td align="center" valign="top">3.0</td>
+</tr>
+<tr>
+<td align="left" valign="top"></td>
+<td align="center" valign="top">(38.6)</td>
+<td align="center" valign="top">(37.7)</td>
+<td align="center" valign="top">(32.2)</td>
+<td align="center" valign="top">(52.3)</td>
+<td align="center" valign="top">(45.5)</td>
+</tr>
+<tr>
+<td align="left" valign="top">Extended-Release Tablet Twice Daily</td>
+<td align="center" valign="top">457.3</td>
+<td align="center" valign="top">36.9</td>
+<td align="center" valign="top">4.4</td>
+<td align="center" valign="top">7.6</td>
+<td align="center" valign="top">4.1</td>
+</tr>
+<tr>
+<td align="left" valign="top"></td>
+<td align="center" valign="top">(40.2)</td>
+<td align="center" valign="top">(42.0)</td>
+<td align="center" valign="top">(53.0)</td>
+<td align="center" valign="top">(60.3)</td>
+<td align="center" valign="top">(51.5)</td>
+</tr>
+</tbody>
+</table>

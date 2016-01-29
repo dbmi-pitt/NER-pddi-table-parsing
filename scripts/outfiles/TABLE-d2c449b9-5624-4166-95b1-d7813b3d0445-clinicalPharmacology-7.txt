@@ -1,0 +1,30 @@
+<table border="single" frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Using either an Agar Dilution Method<footnote id="FOOT_732">Range applicable only to tests performed using either Brucella blood or Wilkins-Chalgren agar.</footnote> or Using a Broth<footnote id="FOOT_733">Range applicable only to tests performed in the broth formulation of Wilkins-Chalgren agar <linkhtml href="#LINK_00f87138-f22b-a9be-fe3e-032f260fed1b">(3)</linkhtml>
+</footnote> Microdilution Method:</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td valign="top">  <content stylecode="bold"> Microorganism</content>
+</td>
+<td valign="top">   </td>
+<td valign="top">  <content stylecode="bold"> MIC (mcg/mL)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">   <content stylecode="italics">Bacteroides fragilis</content>
+</td>
+<td valign="top">   ATCC 25285</td>
+<td valign="top">   4-16</td>
+</tr>
+<tr>
+<td valign="top">   <content stylecode="italics">Bacteroides thetaiotaomicron</content>
+</td>
+<td valign="top">   ATCC 29741</td>
+<td valign="top">   8-32</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,518 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="28%"></col>
+<col span="1" width="6%"></col>
+<col span="1" width="1%"></col>
+<col span="1" width="15%"></col>
+<col span="1" width="15%"></col>
+<col span="1" width="1%"></col>
+<col span="1" width="17%"></col>
+<col span="1" width="18%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Coadministered Drug</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">and Dose</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">N</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Dose of SELZENTRY</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Ratio (90% CI) of Maraviroc Pharmacokinetic Parameters With/Without Coadministered Drug</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(No Effect = 1.00)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>C<sub>min</sub>
+</paragraph>
+</td>
+<td>
+<paragraph>AUC<sub>tau</sub>
+</paragraph>
+</td>
+<td>
+<paragraph>C<sub>max</sub>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">CYP3A and/or P-gp Inhibitors</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Ketoconazole</paragraph>
+<paragraph>400 mg q.d.</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>3.75</paragraph>
+<paragraph>(3.01, 4.69)</paragraph>
+</td>
+<td>
+<paragraph>5.00</paragraph>
+<paragraph>(3.98, 6.29)</paragraph>
+</td>
+<td>
+<paragraph>3.38</paragraph>
+<paragraph>(2.38, 4.78)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Ritonavir</paragraph>
+<paragraph>100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>8</paragraph>
+</td>
+<td>
+<paragraph>100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>4.55</paragraph>
+<paragraph>(3.37, 6.13)</paragraph>
+</td>
+<td>
+<paragraph>2.61</paragraph>
+<paragraph>(1.92, 3.56)</paragraph>
+</td>
+<td>
+<paragraph>1.28</paragraph>
+<paragraph>(0.79, 2.09)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Saquinavir (soft gel capsules) /ritonavir</paragraph>
+<paragraph>1,000 mg/100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>11</paragraph>
+</td>
+<td>
+<paragraph>100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>11.3</paragraph>
+<paragraph>(8.96, 14.1)</paragraph>
+</td>
+<td>
+<paragraph>9.77</paragraph>
+<paragraph>(7.87, 12.14)</paragraph>
+</td>
+<td>
+<paragraph>4.78</paragraph>
+<paragraph>(3.41, 6.71)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Lopinavir/ritonavir</paragraph>
+<paragraph>400 mg/100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>11</paragraph>
+</td>
+<td>
+<paragraph>300 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>9.24</paragraph>
+<paragraph>(7.98, 10.7)</paragraph>
+</td>
+<td>
+<paragraph>3.95</paragraph>
+<paragraph>(3.43, 4.56)</paragraph>
+</td>
+<td>
+<paragraph>1.97</paragraph>
+<paragraph>(1.66, 2.34)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Atazanavir</paragraph>
+<paragraph>400 mg q.d.</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>300 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>4.19</paragraph>
+<paragraph>(3.65, 4.80)</paragraph>
+</td>
+<td>
+<paragraph>3.57</paragraph>
+<paragraph>(3.30, 3.87)</paragraph>
+</td>
+<td>
+<paragraph>2.09</paragraph>
+<paragraph>(1.72, 2.55)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Atazanavir/ritonavir</paragraph>
+<paragraph>300 mg/100 mg q.d.</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>300 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>6.67</paragraph>
+<paragraph>(5.78, 7.70)</paragraph>
+</td>
+<td>
+<paragraph>4.88</paragraph>
+<paragraph>(4.40, 5.41)</paragraph>
+</td>
+<td>
+<paragraph>2.67</paragraph>
+<paragraph>(2.32, 3.08)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Darunavir/ritonavir</paragraph>
+<paragraph>600 mg/100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>150 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>8.00</paragraph>
+<paragraph>(6.35, 10.1)</paragraph>
+</td>
+<td>
+<paragraph>4.05</paragraph>
+<paragraph>2.94, 5.59</paragraph>
+</td>
+<td>
+<paragraph>2.29</paragraph>
+<paragraph>(1.46, 3.59)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">CYP3A and/or P-gp Inducers</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Efavirenz </paragraph>
+<paragraph>600 mg q.d.</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>0.55</paragraph>
+<paragraph>(0.43, 0.72)</paragraph>
+</td>
+<td>
+<paragraph>0.552</paragraph>
+<paragraph>(0.492, 0.620)</paragraph>
+</td>
+<td>
+<paragraph>0.486</paragraph>
+<paragraph>(0.377, 0.626)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Efavirenz</paragraph>
+<paragraph>600 mg q.d.</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>200 mg b.i.d.</paragraph>
+<paragraph>(+ efavirenz):</paragraph>
+<paragraph>100 mg b.i.d. (alone)</paragraph>
+</td>
+<td>
+<paragraph>1.09</paragraph>
+<paragraph>(0.89, 1.35)</paragraph>
+</td>
+<td>
+<paragraph>1.15</paragraph>
+<paragraph>(0.98, 1.35)</paragraph>
+</td>
+<td>
+<paragraph>1.16</paragraph>
+<paragraph>(0.87, 1.55)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Rifampicin</paragraph>
+<paragraph>600 mg q.d.</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>0.22</paragraph>
+<paragraph>(0.17, 0.28)</paragraph>
+</td>
+<td>
+<paragraph>0.368</paragraph>
+<paragraph>(0.328, 0.413)</paragraph>
+</td>
+<td>
+<paragraph>0.335</paragraph>
+<paragraph>(0.260, 0.431)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Rifampicin</paragraph>
+<paragraph>600 mg q.d.</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>200 mg b.i.d.</paragraph>
+<paragraph>(+ rifampicin):</paragraph>
+<paragraph>100 mg b.i.d. (alone)</paragraph>
+</td>
+<td>
+<paragraph>0.66</paragraph>
+<paragraph>(0.54, 0.82)</paragraph>
+</td>
+<td>
+<paragraph>1.04</paragraph>
+<paragraph>(0.89, 1.22)</paragraph>
+</td>
+<td>
+<paragraph>0.97</paragraph>
+<paragraph>(0.72, 1.29)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Etravirine</paragraph>
+<paragraph>200 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>14</paragraph>
+</td>
+<td>
+<paragraph>300 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>0.609</paragraph>
+<paragraph>(0.525, 0.707)</paragraph>
+</td>
+<td>
+<paragraph>0.468</paragraph>
+<paragraph>(0.381, 0.576)</paragraph>
+</td>
+<td>
+<paragraph>0.400</paragraph>
+<paragraph>(0.282, 0.566)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Nevirapine<sup>a</sup>
+</paragraph>
+<paragraph>200 mg b.i.d. <br/>(+ lamivudine 150 mg b.i.d., tenofovir 300 mg q.d.)</paragraph>
+</td>
+<td>
+<paragraph>8</paragraph>
+</td>
+<td>
+<paragraph>300 mg </paragraph>
+<paragraph>single dose</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>1.01</paragraph>
+<paragraph>(0.65, 1.55)</paragraph>
+</td>
+<td>
+<paragraph>1.54</paragraph>
+<paragraph>(0.94, 2.51)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">CYP3A and/or P-gp Inhibitors and Inducers</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Lopinavir/ritonavir + efavirenz </paragraph>
+<paragraph>400 mg/100 mg b.i.d. + 600 mg q.d.</paragraph>
+</td>
+<td>
+<paragraph>11 </paragraph>
+</td>
+<td>
+<paragraph>300 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>6.29</paragraph>
+<paragraph>(4.72, 8.39)</paragraph>
+</td>
+<td>
+<paragraph>2.53</paragraph>
+<paragraph>(2.24, 2.87)</paragraph>
+</td>
+<td>
+<paragraph>1.25</paragraph>
+<paragraph>(1.01, 1.55)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Saquinavir(soft gel capsules) /ritonavir + efavirenz 1,000 mg/100 mg b.i.d. + 600 mg q.d.</paragraph>
+</td>
+<td>
+<paragraph>11</paragraph>
+</td>
+<td>
+<paragraph>100 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>8.42</paragraph>
+<paragraph>(6.46, 10.97)</paragraph>
+</td>
+<td>
+<paragraph>5.00</paragraph>
+<paragraph>(4.26, 5.87)</paragraph>
+</td>
+<td>
+<paragraph>2.26</paragraph>
+<paragraph>(1.64, 3.11)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Darunavir/ritonavir + etravirine </paragraph>
+<paragraph>600 mg/100 mg b.i.d. + 200 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>10</paragraph>
+</td>
+<td>
+<paragraph>150 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>5.27</paragraph>
+<paragraph>(4.51, 6.15)</paragraph>
+</td>
+<td>
+<paragraph>3.10</paragraph>
+<paragraph>(2.57, 3.74)</paragraph>
+</td>
+<td>
+<paragraph>1.77</paragraph>
+<paragraph>(1.20, 2.60)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Tipranavir/ritonavir</paragraph>
+<paragraph>500 mg/200 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>150 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>1.80</paragraph>
+<paragraph>(1.55, 2.09)</paragraph>
+</td>
+<td>
+<paragraph>1.02</paragraph>
+<paragraph>(0.850, 1.23)</paragraph>
+</td>
+<td>
+<paragraph>0.86</paragraph>
+<paragraph>(0.61, 1.21)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Other</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Raltegravir </paragraph>
+<paragraph>400 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>17</paragraph>
+</td>
+<td>
+<paragraph>300 mg b.i.d.</paragraph>
+</td>
+<td>
+<paragraph>0.90</paragraph>
+<paragraph>(0.85, 0.96)</paragraph>
+</td>
+<td>
+<paragraph>0.86</paragraph>
+<paragraph>(0.80, 0.92)</paragraph>
+</td>
+<td>
+<paragraph>0.79</paragraph>
+<paragraph>(0.67, 0.94)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

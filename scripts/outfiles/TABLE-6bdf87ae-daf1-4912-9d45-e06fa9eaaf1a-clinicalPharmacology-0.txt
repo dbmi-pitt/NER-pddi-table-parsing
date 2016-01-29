@@ -1,0 +1,63 @@
+<table id="table1" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Susceptibility interpretive Criteria for Nitrofurantoin</caption>
+<col align="left" valign="top" width="34%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">Pathogen</th>
+<th colspan="3" stylecode="Rrule">Minimum Inhibitory Concentrations (mcg /ml)</th>
+<th colspan="3" stylecode="Rrule">Disk Diffusion Zone Diameter ( mm)</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">S</th>
+<th stylecode="Rrule">I</th>
+<th stylecode="Rrule">R</th>
+<th stylecode="Rrule">S</th>
+<th stylecode="Rrule">I</th>
+<th stylecode="Rrule">R</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">S= susceptible, I= intermediate, R= resistant</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td stylecode="Rrule">≤32</td>
+<td stylecode="Rrule">64</td>
+<td stylecode="Rrule">≥128</td>
+<td stylecode="Rrule">≥17</td>
+<td stylecode="Rrule">15-16</td>
+<td stylecode="Rrule">≤14</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Staphylococcus</content>aureus</td>
+<td stylecode="Rrule">≤32</td>
+<td stylecode="Rrule">64</td>
+<td stylecode="Rrule">≥128</td>
+<td stylecode="Rrule">≥17</td>
+<td stylecode="Rrule">15-16</td>
+<td stylecode="Rrule">≤14</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Enterococcus</content> species</td>
+<td stylecode="Rrule">≤32</td>
+<td stylecode="Rrule">64</td>
+<td stylecode="Rrule">≥128</td>
+<td stylecode="Rrule">≥17</td>
+<td stylecode="Rrule">15-16</td>
+<td stylecode="Rrule">≤14</td>
+</tr>
+</tbody>
+</table>

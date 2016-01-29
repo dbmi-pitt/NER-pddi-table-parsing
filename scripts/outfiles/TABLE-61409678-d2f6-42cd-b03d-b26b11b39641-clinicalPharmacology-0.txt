@@ -1,0 +1,500 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Co-administered Drug </content>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">
+<content stylecode="bold">Dose of Co-administered Drug </content>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">
+<content stylecode="bold">Dose Regimen of Nevirapine </content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">n</content>
+<br/>
+</td>
+<td colspan="4" stylecode="Rrule" valign="top">
+<content stylecode="bold">% Change of Co-administered Drug Pharmacokinetic Parameters (90% CI)</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="4" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Antiretrovirals</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">AUC</content>
+<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">C<sub>min</sub>
+</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule" valign="top">Atazanavir/Ritonavir<sup>a, d</sup>
+<br/>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule" valign="top">300/100 mg QD day      4-13, then 400/100 mg QD day    14-23<br/>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule" valign="top">200 mg BID day 1-23. Subjects were treated with nevirapine prior to trial entry<br/>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule" valign="top">23<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="underline">A</content>
+<content stylecode="underline">tazanavir 300/100 mg</content> <br/>↓42<br/>(↓52 to ↓29)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">
+<content stylecode="underline">A</content>
+<content stylecode="underline">tazanavir 300/100 mg</content> <br/>↓28<br/>(↓40 to ↓14)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="underline">A</content>
+<content stylecode="underline">tazanavir 300/100 mg</content> <br/>↓72<br/>(↓80 to ↓60)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">
+<content stylecode="underline">A</content>
+<content stylecode="underline">tazanavir 400/100 mg</content> <br/>↓19<br/>(↓35 to ↑2)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">
+<content stylecode="underline">A</content>
+<content stylecode="underline">tazanavir 400/100 mg</content> <br/>↑2<br/>(↓15 to ↑24)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="underline">A</content>
+<content stylecode="underline">tazanavir 400/100 mg</content> <br/>↓59<br/>(↓73 to ↓40)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Darunavir/Ritonavir<sup>e</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">400/100 mg BID<br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg BID<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑24<br/>(↓3 to  ↑57)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↑40<br/>(↑14 to  ↑73)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑2<br/>(↓21 to  ↑32)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Didanosine <br/>
+</td>
+<td stylecode="Rrule" valign="top">100-150 mg BID <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">18<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">§<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Efavirenz<sup>a</sup>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">600 mg QD<br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>400 mg QD x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓28<br/>(↓34 to ↓14)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↓12<br/>(↓23 to ↑1)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓32<br/>(↓35 to  ↓19)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Fosamprenavir<br/>
+</td>
+<td stylecode="Rrule" valign="top">1400 mg BID<br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg BID. Subjects were treated with nevirapine prior to trail entry<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓33<br/>(↓45 to ↓20)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↓25<br/>(↓37 to ↓10)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓35<br/>(↓50 to ↓15)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Fosamprenavir/Ritonavir<br/>
+</td>
+<td stylecode="Rrule" valign="top">700/100 mg BID<br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg BID. Subjects were treated with nevirapine prior to trail entry<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓11<br/>(↓23 to ↑3)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓19<br/>(↓32 to ↓4)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Indinavir<sup>a</sup>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">800 mg q8H <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">19<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓31<br/>(↓39 to ↓22)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↓15<br/>(↓24 to ↓4)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓44<br/>(↓53 to ↓33)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Lopinavir<sup>a,b</sup>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">300/75 mg/m<sup>2</sup> (lopinavir/ ritonavir) <sup>b</sup>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">7 mg/kg or<br/>4 mg/kg QD x 2 weeks; BID x 1 week<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">12,15<sup>c</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓22<br/>(↓44 to ↑9)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↓14<br/>(↓36 to ↑16)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓55<br/>(↓75 to ↓19)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Lopinavir<sup>a</sup>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">400/100 mg BID (lopinavir/ ritonavir) <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID &gt; <br/>1 year<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">22, 19<sup>c</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓27<br/>(↓47 to ↓2)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↓19<br/>(↓38 to ↑5)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓51<br/>(↓72 to ↓26)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Maraviroc<sup>f</sup>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">300 mg SD<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg BID<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑1<br/>(↓35 to ↑55)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↑54<br/>(↓6 to ↑151)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule" valign="top">Nelfinavir<sup>a </sup>
+<br/> <br/> <br/> <br/>Nelfinavir-M8 metabolite<br/>
+</td>
+<td rowspan="2" stylecode="Rrule" valign="top">750 mg TID <br/>
+</td>
+<td rowspan="2" stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x<br/>14 days<br/> <br/> <br/> <br/>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule" valign="top">23<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓32<br/>(↓50 to ↑5)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">↓62<br/>(↓70 to ↓53)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↓59<br/>(↓68 to ↓48)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>↓66<br/>(↓74 to ↓55)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> <br/>Ritonavir<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>600 mg BID<br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">18<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Stavudine <br/>
+</td>
+<td stylecode="Rrule" valign="top">30-40 mg BID <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days;<br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">22<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">§<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Zalcitabine<br/>
+</td>
+<td stylecode="Rrule" valign="top">0.125-0.25 mg TID<br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days;<br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">6<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">§<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Zidovudine <br/>
+</td>
+<td stylecode="Rrule" valign="top">100-200 mg TID <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">11<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓28<br/>(↓40 to ↓4)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↓30<br/>(↓51 to ↑14)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">§<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="4" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Other Medications</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">AUC</content>
+<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">C<sub>min</sub>
+</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule" valign="top">Clarithromycin<sup>a</sup>
+<br/> <br/> <br/> <br/>Metabolite <br/>14-OH clarithromycin<br/>
+</td>
+<td rowspan="2" stylecode="Rrule" valign="top">500 mg BID <br/>
+</td>
+<td rowspan="2" stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x <br/>14 days<br/>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule" valign="top">15<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓31<br/>(↓38 to ↓24)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↓23<br/>(↓31 to ↓14)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓56<br/>(↓70 to ↓36)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">↑42<br/>(↑16 to ↑73)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↑47<br/>(↑21 to ↑80)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule" valign="top">Ethinyl estradiol<sup>a</sup>
+<br/> <br/>and <br/> <br/> <br/>Norethindrone<sup>a</sup>
+<br/>
+</td>
+<td rowspan="2" stylecode="Rrule" valign="top">0.035 mg<br/> (as Ortho-Novum<sup>®</sup> 1/35) <br/> <br/>1 mg <br/>(as Ortho-Novum<sup>® </sup>1/35)<br/>
+</td>
+<td rowspan="2" stylecode="Rrule" valign="top">200 mg QD x 14 days;<br/> 200 mg BID x <br/>14 days<br/>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule" valign="top">10<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓20<br/>(↓33 to ↓3)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">§<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">↓19<br/>(↓30 to ↓7)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓16<br/>(↓27 to ↓3)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">§<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Depomedroxy-progesterone acetate <br/>
+</td>
+<td stylecode="Rrule" valign="top">150 mg every <br/>3 months <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">32<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Fluconazole <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">19<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Ketoconazole<sup>a</sup>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">400 mg QD <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">21<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓72<br/>(↓80 to ↓60)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓44<br/>(↓58 to ↓27)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">§<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Methadone<sup>a </sup>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">Individual Subject Dosing <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID ≥ 7 days<br/> <br/> <br/> <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">9<br/>
+</td>
+<td align="justify" colspan="4" stylecode="Rrule" valign="top">In a controlled pharmacokinetic trail with 9 subjects receiving chronic methadone to whom steady-state nevirapine therapy was added, the clearance of methadone was increased by 3-fold, resulting in symptoms of withdrawal, requiring dose adjustments in 10 mg segments, in 7 of the 9 subjects. Methadone did not have any effect on nevirapine clearance.<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule" valign="top">Rifabutin<sup>a</sup>
+<br/> <br/> <br/> <br/>Metabolite <br/>25-O-desacetyl-<br/>rifabutin<br/>
+</td>
+<td rowspan="2" stylecode="Rrule" valign="top">150 or   300 mg QD <br/>
+</td>
+<td rowspan="2" stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule" valign="top">19<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑17<br/>(↓2 to ↑40)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑28<br/>(↑9 to ↑51)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">&lt;=&gt;<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">↑24<br/>(↓16 to ↑84)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑29<br/>(↓2 to ↑68)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">↑22<br/>(↓14 to ↑74)<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Rifampin<sup>a </sup>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">600 mg QD <br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg QD x 14 days; <br/>200 mg BID x<br/>14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑11<br/>(↓4 to ↑28)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">  &lt;=&gt;<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">§<br/>
+</td>
+</tr>
+</tbody>
+</table>

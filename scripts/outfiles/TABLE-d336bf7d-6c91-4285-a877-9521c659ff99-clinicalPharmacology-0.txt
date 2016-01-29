@@ -1,0 +1,42 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients</caption>
+<col span="1"></col>
+<col span="1"></col>
+<col span="1"></col>
+<col span="1"></col>
+<col span="1"></col>
+<tbody>
+<tr>
+<td> Hormone</td>
+<td> Ratio in <br/>Thyroglobulin</td>
+<td> Biologic <br/>Potency</td>
+<td> t<sub>1/2</sub>
+<br/>(days)</td>
+<td> Protein <br/>Binding (%)<sup>2</sup>
+</td>
+</tr>
+<tr>
+<td> Levothyroxine (T<sub>4</sub>)</td>
+<td> 10 - 20</td>
+<td> 1</td>
+<td> 6-7<sup>1</sup>
+</td>
+<td> 99.96</td>
+</tr>
+<tr>
+<td> Liothyronine (T<sub>3</sub>)</td>
+<td> 1</td>
+<td> 4</td>
+<td> ≤ 2</td>
+<td> 99.5</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<sup>1</sup> 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism;</paragraph>
+<paragraph>
+<sup>2</sup> Includes TBG, TBPA, and TBA</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

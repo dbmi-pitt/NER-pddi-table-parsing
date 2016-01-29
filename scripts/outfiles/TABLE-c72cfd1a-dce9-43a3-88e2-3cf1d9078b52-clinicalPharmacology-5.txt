@@ -1,0 +1,62 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"></td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">Metformin HCl</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">Placebo</content>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">p-Value</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">FPG (mg/dL)</content>
+<content stylecode="bold">
+<br/>
+</content>Baseline<br/>Change at FINAL VISIT</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">(n=37)</content>
+<content stylecode="bold">
+<br/>
+</content>162.4<br/>-42.9</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">(n=36)</content>
+<content stylecode="bold">
+<br/>
+</content>192.3<br/>21.4</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<br/>
+<br/>&lt;0.001</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">Body Weight (lbs)</content>
+<content stylecode="bold">
+<br/>
+</content>Baseline<br/>Change at FINAL VISIT</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">(n=39)</content>
+<content stylecode="bold">
+<br/>
+</content>205.3<br/>-3.3</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<content stylecode="bold">(n=38)</content>
+<content stylecode="bold">
+<br/>
+</content>189.0<br/>-2.0</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<br/>
+<br/>NS**</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,22 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col width="59%"></col>
+<col width="41%"></col>
+</colgroup>
+<thead>
+<tr stylecode="First Last">
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Microorganism</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">MIC (mcg /mL)</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">E. coli ATCC 25922</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">4-16</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">S. aureus ATCC 29213</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">0.12-0.5</td>
+</tr>
+</tbody>
+</table>

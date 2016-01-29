@@ -1,0 +1,187 @@
+<table id="table10" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adults</caption>
+<col align="left" valign="top" width="16%"></col>
+<col align="center" valign="top" width="16%"></col>
+<col align="center" valign="top" width="16%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th align="center" rowspan="2" stylecode="Lrule Rrule" valign="bottom">Coadministered Drug</th>
+<th rowspan="2" stylecode="Rrule" valign="bottom">Coadministered Drug Dose/Schedule</th>
+<th rowspan="2" stylecode="Rrule" valign="bottom">Raltegravir<br/>Dose/Schedule</th>
+<th colspan="4" stylecode="Rrule">Ratio (90% Confidence Interval) of Raltegravir Pharmacokinetic Parameters with/without Coadministered Drug;<br/>No Effect = 1.00</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">n</th>
+<th stylecode="Rrule">C<sub>max</sub>
+</th>
+<th stylecode="Rrule">AUC</th>
+<th stylecode="Rrule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td rowspan="7" stylecode="Lrule Rrule">aluminum and magnesium hydroxide antacid</td>
+<td stylecode="Rrule">20 mL single dose given with raltegravir</td>
+<td rowspan="7" stylecode="Rrule">400 mg twice daily</td>
+<td stylecode="Rrule">25</td>
+<td stylecode="Rrule">0.56<br/>(0.42, 0.73)</td>
+<td stylecode="Rrule">0.51<br/>(0.40, 0.65)</td>
+<td stylecode="Rrule">0.37<br/>(0.29, 0.48)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule">20 mL single dose given 2 hours before raltegravir</td>
+<td stylecode="Rrule">23</td>
+<td stylecode="Rrule">0.49<br/>(0.33, 0.71)</td>
+<td stylecode="Rrule">0.49<br/>(0.35, 0.67)</td>
+<td stylecode="Rrule">0.44<br/>(0.34, 0.55)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule">20 mL single dose given 2 hours after raltegravir</td>
+<td stylecode="Rrule">23</td>
+<td stylecode="Rrule">0.78<br/>(0.53, 1.13)</td>
+<td stylecode="Rrule">0.70<br/>(0.50, 0.96)</td>
+<td stylecode="Rrule">0.43<br/>(0.34, 0.55)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule">20 mL single dose given 4 hours before raltegravir</td>
+<td stylecode="Rrule">17</td>
+<td stylecode="Rrule">0.78<br/>(0.55, 1.10)</td>
+<td stylecode="Rrule">0.81<br/>(0.63, 1.05)</td>
+<td stylecode="Rrule">0.40<br/>(0.31, 0.52)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule">20 mL single dose given 4 hours after raltegravir</td>
+<td stylecode="Rrule">18</td>
+<td stylecode="Rrule">0.70<br/>(0.48, 1.04)</td>
+<td stylecode="Rrule">0.68<br/>(0.50, 0.92)</td>
+<td stylecode="Rrule">0.38<br/>(0.30, 0.49)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule">20 mL single dose given 6 hours before raltegravir</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">0.90<br/>(0.58, 1.40)</td>
+<td stylecode="Rrule">0.87<br/>(0.64, 1.18)</td>
+<td stylecode="Rrule">0.50<br/>(0.39, 0.65)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule">20 mL single dose given 6 hours after raltegravir</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">0.90 <br/>(0.58, 1.41)</td>
+<td stylecode="Rrule">0.89<br/>(0.64, 1.22)</td>
+<td stylecode="Rrule">0.51<br/>(0.40, 0.64)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">atazanavir</td>
+<td stylecode="Rrule">400 mg daily</td>
+<td stylecode="Rrule">100 mg single dose</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">1.53 (1.11, 2.12)</td>
+<td stylecode="Rrule">1.72 (1.47, 2.02)</td>
+<td stylecode="Rrule">1.95 (1.30, 2.92)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">atazanavir/ritonavir</td>
+<td stylecode="Rrule">300 mg/100 mg daily</td>
+<td stylecode="Rrule">400 mg twice daily</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">1.24 (0.87, 1.77)</td>
+<td stylecode="Rrule">1.41 (1.12, 1.78)</td>
+<td stylecode="Rrule">1.77 (1.39, 2.25)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">boceprevir</td>
+<td stylecode="Rrule">800 mg three times daily</td>
+<td stylecode="Rrule">400 mg single dose</td>
+<td stylecode="Rrule">22</td>
+<td stylecode="Rrule">1.11<br/>(0.91-1.36)</td>
+<td stylecode="Rrule">1.04<br/>(0.88-1.22)</td>
+<td stylecode="Rrule">0.75<br/>(0.45-1.23)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">calcium carbonate antacid</td>
+<td stylecode="Rrule">3000 mg single dose given with raltegravir</td>
+<td stylecode="Rrule">400 mg twice daily</td>
+<td stylecode="Rrule">24</td>
+<td stylecode="Rrule">0.48<br/>(0.36, 0.63)</td>
+<td stylecode="Rrule">0.45<br/>(0.35, 0.57)</td>
+<td stylecode="Rrule">0.68<br/>(0.53, 0.87)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">efavirenz</td>
+<td stylecode="Rrule">600 mg daily</td>
+<td stylecode="Rrule">400 mg single dose</td>
+<td stylecode="Rrule">9</td>
+<td stylecode="Rrule">0.64 (0.41, 0.98)</td>
+<td stylecode="Rrule">0.64 (0.52, 0.80)</td>
+<td stylecode="Rrule">0.79 (0.49, 1.28)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">etravirine</td>
+<td stylecode="Rrule">200 mg twice daily</td>
+<td stylecode="Rrule">400 mg twice daily</td>
+<td stylecode="Rrule">19</td>
+<td stylecode="Rrule">0.89 (0.68, 1.15)</td>
+<td stylecode="Rrule">0.90 (0.68, 1.18)</td>
+<td stylecode="Rrule">0.66 (0.34, 1.26)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">omeprazole</td>
+<td stylecode="Rrule">20 mg daily</td>
+<td stylecode="Rrule">400 mg single dose</td>
+<td stylecode="Rrule">14<br/>(10 for AUC)</td>
+<td stylecode="Rrule">4.15<br/>(2.82, 6.10)</td>
+<td stylecode="Rrule">3.12<br/>(2.13, 4.56)</td>
+<td stylecode="Rrule">1.46<br/>(1.10, 1.93)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">rifampin</td>
+<td stylecode="Rrule">600 mg daily</td>
+<td stylecode="Rrule">400 mg single dose</td>
+<td stylecode="Rrule">9</td>
+<td stylecode="Rrule">0.62 (0.37, 1.04)</td>
+<td stylecode="Rrule">0.60 (0.39, 0.91)</td>
+<td stylecode="Rrule">0.39 (0.30, 0.51)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">rifampin</td>
+<td stylecode="Rrule">600 mg daily</td>
+<td stylecode="Rrule">400 mg twice daily when administered alone; 800 mg twice daily when administered with rifampin</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">1.62<br/>(1.12, 2.33)</td>
+<td stylecode="Rrule">1.27<br/>(0.94, 1.71)</td>
+<td stylecode="Rrule">0.47<br/>(0.36, 0.61)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">ritonavir</td>
+<td stylecode="Rrule">100 mg twice daily</td>
+<td stylecode="Rrule">400 mg single dose</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">0.76 (0.55, 1.04)</td>
+<td stylecode="Rrule">0.84 (0.70, 1.01)</td>
+<td stylecode="Rrule">0.99 (0.70, 1.40)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">tenofovir</td>
+<td stylecode="Rrule">300 mg daily</td>
+<td stylecode="Rrule">400 mg twice daily</td>
+<td stylecode="Rrule">9</td>
+<td stylecode="Rrule">1.64 (1.16, 2.32)</td>
+<td stylecode="Rrule">1.49 (1.15, 1.94)</td>
+<td stylecode="Rrule">1.03 (0.73, 1.45)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">tipranavir/ritonavir</td>
+<td stylecode="Rrule">500 mg/200 mg twice daily</td>
+<td stylecode="Rrule">400 mg twice daily</td>
+<td stylecode="Rrule">15<br/>(14 for C<sub>min</sub>)</td>
+<td stylecode="Rrule">0.82 (0.46, 1.46)</td>
+<td stylecode="Rrule">0.76 (0.49, 1.19)</td>
+<td stylecode="Rrule">0.45 (0.31, 0.66)</td>
+</tr>
+</tbody>
+</table>

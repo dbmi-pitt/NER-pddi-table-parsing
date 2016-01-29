@@ -1,0 +1,52 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col width="38%"></col>
+<col width="35%"></col>
+<col width="27%"></col>
+</colgroup>
+<tbody>
+<tr>
+<td align="justify" stylecode="Botrule Toprule" valign="top">AED <br/>Co-administered</td>
+<td align="justify" stylecode="Botrule Toprule" valign="top">AED <br/>Concentration</td>
+<td align="justify" stylecode="Botrule Toprule" valign="top">Topiramate <br/>Concentration</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Toprule" valign="top">Phenytoin </td>
+<td align="justify" stylecode="Toprule" valign="top">NC or 25% increasea</td>
+<td align="justify" stylecode="Toprule" valign="top">48% decrease </td>
+</tr>
+<tr>
+<td align="justify" valign="top">Carbamazepine (CBZ) <br/>CBZ epoxideb</td>
+<td align="justify" valign="top">NC <br/>NC </td>
+<td align="justify" valign="top">40% decrease <br/>NE </td>
+</tr>
+<tr>
+<td align="justify" valign="top">Valproic acid </td>
+<td align="justify" valign="top">11% decrease </td>
+<td align="justify" valign="top">14% decrease </td>
+</tr>
+<tr>
+<td align="justify" valign="top">Phenobarbital </td>
+<td align="justify" valign="top">NC </td>
+<td align="justify" valign="top">NE </td>
+</tr>
+<tr>
+<td align="justify" valign="top">Primidone </td>
+<td align="justify" valign="top">NC </td>
+<td align="justify" valign="top">NE </td>
+</tr>
+<tr>
+<td align="justify" valign="top">Lamotrigine </td>
+<td align="justify" valign="top">NC at TPM doses up </td>
+<td align="justify" valign="top">13% decrease </td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule" valign="top"></td>
+<td align="justify" stylecode="Botrule" valign="top">to 400 mg/day </td>
+<td align="justify" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Toprule" valign="top">a = Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. <br/>b = Is not administered but is an active metabolite of carbamazepine. <br/>NC = Less than 10% change in plasma concentration. <br/>AED = Antiepileptic drug. <br/>NE = Not Evaluated. <br/>TPM = Topiramate </td>
+</tr>
+</tbody>
+</table>

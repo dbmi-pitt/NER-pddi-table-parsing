@@ -1,0 +1,206 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10. Effect of Coadministered Drugs on Zidovudine AUC<sup>a</sup>
+</caption>
+<tfoot>
+<tr>
+<td colspan="6">↑ = Increase; ↓ = Decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = confidence interval. <br/>
+<sup>a </sup>This table is not all inclusive.<br/>
+<sup>b </sup>Estimated range of percent difference.<br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td align="justify" colspan="6" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS.</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" rowspan="2" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Coadministered Drug</content>
+<br/>
+<content stylecode="bold">and Dose</content>
+<br/>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">Zidovudine</content>
+<br/>
+<content stylecode="bold">Oral Dose</content>
+<br/>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">n</content>
+<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">Zidovudine</content>
+<br/>
+<content stylecode="bold">Concentrations</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Concentration of</content>
+<br/>
+<content stylecode="bold">Coadministered</content>
+<br/>
+<content stylecode="bold">Drug</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">AUC<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Variability<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Atovaquone 750 mg every 12 h with food <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg every 8 h<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC 31%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range:<br/>23% to 78%<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Clarithromycin 500 mg twice daily <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">100 mg every 4 h x 7 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓AUC 12%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range:<br/>↓34% to ↑14%<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not Reported<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Fluconazole 400 mg daily <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg every 8 h<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">12<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC 74%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">95% CI:<br/>54% to 98%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not Reported<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Lamivudine 300 mg every 12 h <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">single 200 mg<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">12<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC 13%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">90% CI:<br/>2% to 27%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Methadone 30 to 90 mg daily <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg every 4 h<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">9<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC 43%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range:<br/>16% to 64%<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Nelfinavir 750 mg every 8 h x 7 to 10 days <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">single 200 mg<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">11<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓AUC 35%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range:<br/>28% to 41%<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Probenecid 500 mg every 6 h x 2 days <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">2 mg/kg every 8 h x 3 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">3<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC 106%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range:<br/>100% to 170%<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not Assessed<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Rifampin 600 mg daily x 14 days <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg q 8 h x 14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓AUC 47%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">90% CI:<br/>41% to 53%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not Assessed<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Ritonavir 300 mg every 6 h x 4 days <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg every 8 h x 4 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">9<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓AUC 25%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">95% CI:<br/>15% to 34%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top"> Valproic acid 250 mg or 500 mg every 8 h x 4 days <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">100 mg every 8 h x 4 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">6<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC 80%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range:<br/>64% to 130%<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not Assessed<br/>
+</td>
+</tr>
+</tbody>
+</table>

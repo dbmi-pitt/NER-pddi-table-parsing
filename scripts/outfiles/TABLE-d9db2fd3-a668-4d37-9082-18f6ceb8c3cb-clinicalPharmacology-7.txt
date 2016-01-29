@@ -1,0 +1,38 @@
+<table id="i39841a34-b1cc-4868-8fc6-9fb124fad2bc" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>For testing Streptococcus spp. including Streptococcus pneumoniae<sup>e</sup>
+</caption>
+<col width="50.65%"></col>
+<col width="25.97%"></col>
+<col width="23.37%"></col>
+<tfoot>
+<tr>
+<td colspan="3" valign="top"> <paragraph>
+<sup>e</sup> These zone diameter standards only apply to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO<sub>2</sub>.</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="    Lrule     " valign="top"> <content stylecode="bold">Zone diameter (mm)</content>
+</td>
+<td stylecode="     Botrule          Toprule     " valign="top"> <content stylecode="bold">Interpretation</content>
+</td>
+<td stylecode="     Botrule          Toprule          Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule     " valign="top"> ≥ 21</td>
+<td valign="top"> Susceptible</td>
+<td stylecode="     Rrule     " valign="top"> (S)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule     " valign="top"> 17 to 20</td>
+<td valign="top"> Intermediate</td>
+<td stylecode="     Rrule     " valign="top"> (I)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="top"> ≤ 16</td>
+<td stylecode="     Botrule     " valign="top"> Resistant</td>
+<td stylecode="     Botrule          Rrule     " valign="top"> (R)</td>
+</tr>
+</tbody>
+</table>

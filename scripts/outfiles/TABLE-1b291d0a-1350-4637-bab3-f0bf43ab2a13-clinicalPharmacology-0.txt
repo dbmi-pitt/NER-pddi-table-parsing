@@ -1,0 +1,50 @@
+<table id="id_dcb56153-c612-44ea-bc8c-79856f9a4b6d" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_bdd30bcc-e331-4348-b2e3-0d82d8533497">Table 1. Pharmacokinetic Parameters for Diclofenac</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_da30d073-3a36-43ed-9ba1-bfe7798a4afa" stylecode="Toprule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Lrule Botrule Rrule" valign="top">Normal Healthy Adults (20-48 yrs.)</td>
+</tr>
+<tr id="id_f3ccae76-9b22-48b2-ac9a-b97ed7d4c1a7" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">PK Parameter</td>
+<td align="center" stylecode="Rrule" valign="top">Mean</td>
+<td align="center" stylecode="Rrule" valign="top"> Coefficient of Mean<br/>Variation (%)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_97cbc502-73b5-4e38-9ac9-61054f727fc5" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Absolute Bioavailability (%) <br/>[N = 7]<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> 55 </td>
+<td align="center" stylecode="Rrule" valign="top"> 40 </td>
+</tr>
+<tr id="id_04bf9427-196d-40e3-8916-38d79beed4e0">
+<td align="left" stylecode="Lrule Rrule" valign="top"> T<sub>max </sub>(hr) [N = 56] </td>
+<td align="center" stylecode="Rrule" valign="top"> 2.3 </td>
+<td align="center" stylecode="Rrule" valign="top"> 69 </td>
+</tr>
+<tr id="id_b2ec5652-93bb-4928-a615-be8b3e2465ef">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Oral Clearance <br/>(CL/F; mL/min) [N = 56] </td>
+<td align="center" stylecode="Rrule" valign="top"> 582 </td>
+<td align="center" stylecode="Rrule" valign="top"> 23 </td>
+</tr>
+<tr id="id_9c2e47d7-8011-4aa8-b777-21e0f2f45543">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Renal Clearance <br/>(% unchanged drug in <br/>urine) [N = 7] </td>
+<td align="center" stylecode="Rrule" valign="top"> &lt;1 </td>
+<td align="center" stylecode="Rrule" valign="top"> – </td>
+</tr>
+<tr id="id_511ab9fc-1d04-4fac-ab46-cdc9390016e2">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Apparent Volume of <br/>Distribution (V/F; L/kg) <br/>[N = 56] </td>
+<td align="center" stylecode="Rrule" valign="top"> 1.4 </td>
+<td align="center" stylecode="Rrule" valign="top"> 58 </td>
+</tr>
+<tr id="id_bcc3b79f-e8af-413e-a000-01c3f62fe10a" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Terminal Half-life (hr) <br/>[N = 56] </td>
+<td align="center" stylecode="Rrule" valign="top"> 2.3 </td>
+<td align="center" stylecode="Rrule" valign="top"> 48 </td>
+</tr>
+</tbody>
+</table>

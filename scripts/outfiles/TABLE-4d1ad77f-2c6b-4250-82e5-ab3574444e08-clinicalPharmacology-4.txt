@@ -1,0 +1,228 @@
+<table id="t6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6. Susceptibility Test Interpretive Criteria for Ceftriaxone.
+</caption>
+<col align="left" width="23.961%"></col>
+<col align="left" width="13.173%"></col>
+<col align="left" width="13.973%"></col>
+<col align="left" width="10.973%"></col>
+<col align="left" width="12.973%"></col>
+<col align="left" width="13.973%"></col>
+<col align="left" width="10.973%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">Susceptibility of staphylococci to ceftriaxone may be deduced from testing only penicillin and either cefoxitin or oxacillin.
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">
+<sup>a</sup> The current absence of data on resistant isolates precludes defining any category other than ‘Susceptible’. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing.
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">
+<sup>b</sup> Disc diffusion interpretive criteria for ceftriaxone discs against <content stylecode="italics">Streptococcus pneumoniae</content> are not available, however, isolates of pneumococci with oxacillin zone diameters of
+≥ 20 mm are susceptible (MIC ≤ 0.06 mcg/mL) to penicillin and can be considered susceptible to ceftriaxone. <content stylecode="italics">Streptococcus pneumoniae</content> isolates should not be reported as penicillin (ceftriaxone) resistant or intermediate based solely on an oxacillin zone diameter of ≤ 19 mm. The ceftriaxone MIC should be determined for those isolates with oxacillin zone diameters ≤ 19 mm.
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" rowspan="2" stylecode="Toprule Botrule Lrule Rrule" valign="middle">Pathogen
+</td>
+<td align="center" colspan="3" stylecode="Toprule Botrule Rrule" valign="middle">Minimum Inhibitory<br/>Concentrations<br/>(mcg/mL)
+</td>
+<td align="center" colspan="3" stylecode="Toprule Botrule Rrule" valign="middle">Disk Diffusion Zone<br/>Diameters<br/>(mm)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Rrule" valign="top">(S)<br/>Susceptible
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">(I)<br/>Intermediate
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">(R) Resistant
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">(S) Susceptible
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">(I) Intermediate
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">(R) Resistant
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 1
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 4
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 23
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">20 to 22
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 19
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus</content>
+<br/>
+<content stylecode="italics">   influenzae</content>
+<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 26
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 0.25
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 35
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Neisseria meningitidis</content>
+<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 0.12
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 34
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus</content>
+<br/>
+<content stylecode="italics">   pneumoniae
+</content>
+<sup>b</sup>
+<br/>
+<content stylecode="italics">   </content>meningitis isolates
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 0.5
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus</content>
+<br/>
+<content stylecode="italics">   pneumoniae
+</content>
+<sup>b</sup>
+<br/>
+<content stylecode="italics">   </content>non-meningitis isolates
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 1
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥4
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus</content> species<br/>
+<content stylecode="italics">   </content>beta-hemolytic group<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 0.5
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 24
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">Viridans group streptococci
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 1
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 4
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 27
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">25 to 26
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 24
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">Anaerobic bacteria<br/>
+<content stylecode="italics">   </content> (agar method)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 16
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">32
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 64
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+</tr>
+</tbody>
+</table>

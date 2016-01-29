@@ -1,0 +1,162 @@
+<table id="t10" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_429d3094-8832-4ff0-860d-463da03a2722">Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir</caption>
+<col align="left" width="21%"></col>
+<col align="center" width="21%"></col>
+<col align="center" width="NaN%"></col>
+<col align="center" width="18%"></col>
+<col align="center" width="18%"></col>
+<col align="center" width="18%"></col>
+<thead>
+<tr id="id_81d96fd4-c4e4-4dec-b44c-4a9b0f22b2de" stylecode="Toprule">
+<td align="left" rowspan="2" stylecode="Lrule Botrule Rrule" valign="top">Coadministered Drug</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">Dose of Coadministered Drug (mg)</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">N</td>
+<td align="left" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">% Change of Coadministered Drug Pharmacokinetic Parameters<footnote id="idah4vpd">Increase = ↑; Decrease = ↓; No Effect = ⇔; NA = Not Applicable</footnote>
+<br/>(90% CI)</td>
+</tr>
+<tr id="id_4021cb83-2a6b-49cd-861a-5d9c66756c5a" stylecode="Botrule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">C<sub>max</sub>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">AUC</td>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">C<sub>min</sub>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_631d677c-efa3-44a4-b5f1-2c4532c8383c" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Abacavir</td>
+<td align="left" stylecode="Rrule" valign="top">300 once</td>
+<td align="left" stylecode="Rrule" valign="top">8</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 12<br/>(↓ 1 to ↑ 26)</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">NA</td>
+</tr>
+<tr id="id_c88c7a45-34cb-4fac-ada8-2502b00fe668">
+<td align="left" stylecode="Lrule Rrule" valign="top">Atazanavir<footnote id="ft10.1">Reyataz Prescribing Information</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">400 once daily × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">34</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 21<br/>(↓ 27 to ↓ 14)</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 25<br/>(↓ 30 to ↓ 19)</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 40<br/>(↓ 48 to ↓ 32)</td>
+</tr>
+<tr id="id_6ffb78b1-347e-480d-98d8-beabe634574c">
+<td align="left" stylecode="Lrule Rrule" valign="top">Atazanavir<footnoteref idref="ft10.1"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">Atazanavir/Ritonavir<br/>300/100 once daily<br/>× 42 days</td>
+<td align="left" stylecode="Rrule" valign="top">10</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 28<br/>(↓ 50 to ↑ 5)</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 25<footnote id="ft10.2">In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and C<sub>min</sub> values of atazanavir that were 2.3 and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone.</footnote>
+<br/>(↓ 42 to ↓ 3)</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 23<footnoteref idref="ft10.2"></footnoteref>
+<br/>(↓ 46 to ↑ 10)</td>
+</tr>
+<tr id="id_7d93c91a-ce7b-4594-b22f-671c426d9efc">
+<td align="left" stylecode="Lrule Rrule" valign="top">Efavirenz</td>
+<td align="left" stylecode="Rrule" valign="top">600 once daily × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">30</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_3efa8290-8f13-4a20-b8b4-2ad670818024">
+<td align="left" stylecode="Lrule Rrule" valign="top">Emtricitabine</td>
+<td align="left" stylecode="Rrule" valign="top">200 once daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">17</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 20<br/>(↑ 12 to ↑ 29)</td>
+</tr>
+<tr id="id_2ac5d23c-d4e8-47f0-a44a-50aceb75fafb">
+<td align="left" stylecode="Lrule Rrule" valign="top">Indinavir</td>
+<td align="left" stylecode="Rrule" valign="top">800 three times daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">12</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 11<br/>(↓ 30 to ↑ 12)</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_ce954e2f-d7ff-48f9-bb70-60b66d1e6b5d">
+<td align="left" stylecode="Lrule Rrule" valign="top">Entecavir</td>
+<td align="left" stylecode="Rrule" valign="top">1 mg once daily × 10 days</td>
+<td align="left" stylecode="Rrule" valign="top">28</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 13<br/>(↑ 11 to ↑ 15)</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_21d4fb7c-f644-4eb9-a428-3c42eb00543e">
+<td align="left" stylecode="Lrule Rrule" valign="top">Lamivudine</td>
+<td align="left" stylecode="Rrule" valign="top">150 twice daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">15</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 24<br/>(↓ 34 to ↓ 12)</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_445feb79-1553-4d5e-abac-c5c13c321030">
+<td align="left" stylecode="Lrule Rrule" valign="top">Lopinavir<br/>Ritonavir</td>
+<td align="left" stylecode="Rrule" valign="top">Lopinavir/Ritonavir 400/100 twice daily × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">24</td>
+<td align="left" stylecode="Rrule" valign="top">⇔<br/>⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔<br/>⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔<br/>⇔</td>
+</tr>
+<tr id="id_2008d30e-cd7c-480c-bd8b-1a2325e8e86d">
+<td align="left" stylecode="Lrule Rrule" valign="top">Methadone<footnote id="ida2ikxh">R-(active), S- and total methadone exposures were equivalent when dosed alone or with VIREAD.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">40–110 once daily<br/>× 14 days<footnote id="idaejkxh">Individual subjects were maintained on their stable methadone dose. No pharmacodynamic alterations (opiate toxicity or withdrawal signs or symptoms) were reported.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">13</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_5a90b996-7b9e-461a-8f2f-ce396b7cb014">
+<td align="left" stylecode="Lrule Rrule" valign="top">Nelfinavir<br/>M8 metabolite</td>
+<td align="left" stylecode="Rrule" valign="top">1250 twice daily × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">29</td>
+<td align="left" stylecode="Rrule" valign="top">⇔<br/>⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔<br/>⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔<br/>⇔</td>
+</tr>
+<tr id="id_d218ecbf-6547-4b03-a13d-5ecb9a23e087">
+<td align="left" stylecode="Lrule Rrule" valign="top">Oral Contraceptives<footnote id="idaclkxh">Ethinyl estradiol and 17-deacetyl norgestimate (pharmacologically active metabolite) exposures were equivalent when dosed alone or with VIREAD.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">Ethinyl Estradiol/<br/>Norgestimate (Ortho-Tricyclen)<br/>Once daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">20</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_43274cd0-0a53-45f9-8a8c-8cc9988911ad">
+<td align="left" stylecode="Lrule Rrule" valign="top">Ribavirin</td>
+<td align="left" stylecode="Rrule" valign="top">600 once</td>
+<td align="left" stylecode="Rrule" valign="top">22</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">NA</td>
+</tr>
+<tr id="id_11931efa-e8a7-46cb-b16f-03edb7edf9ef">
+<td align="left" stylecode="Lrule Rrule" valign="top">Saquinavir</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">Saquinavir/Ritonavir 1000/100 twice daily × 14 days</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">32</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 22<br/>(↑ 6 to ↑41)</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 29<footnote id="ft10.3">Increases in AUC and C<sub>min</sub> are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered.</footnote>
+<br/>(↑ 12 to ↑ 48)</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 47<footnoteref idref="ft10.3"></footnoteref>
+<br/>(↑ 23 to ↑ 76)</td>
+</tr>
+<tr id="id_1f6d7954-1e64-43db-bb55-2cd4819c6c7d">
+<td align="left" stylecode="Lrule Rrule" valign="top">Ritonavir</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 23<br/>(↑ 3 to ↑ 46)</td>
+</tr>
+<tr id="id_3ed5de28-568b-4427-922f-61a7a1bf28ec" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Tacrolimus</td>
+<td align="left" stylecode="Rrule" valign="top">0.05 mg/kg twice daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">21</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+</tbody>
+</table>

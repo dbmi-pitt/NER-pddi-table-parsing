@@ -1,0 +1,105 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3 Incidence of Primary Endpoint Events</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>
+</td>
+<td align="center" colspan="2" stylecode="     Toprule         Lrule     "> Incidence</td>
+<td align="center" stylecode="     Toprule         Lrule     "> Risk Reduction</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 95% C.I.</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> p-Value</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Toprule         Lrule     "> <br/>
+</td>
+<td align="center" stylecode="     Toprule         Lrule     "> Losartan</td>
+<td align="center" stylecode="     Toprule         Lrule     "> Placebo</td>
+<td align="center" stylecode="     Toprule         Lrule     "> </td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule     "> <br/> Primary Composite<br/> Endpoint</td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>43.5%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>47.1%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>16.1%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>2.3% to 27.9%</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <br/>0.022</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="     Toprule         Lrule          Rrule     ">  Doubling of Serum Creatinine, ESRD and Death Occurring as a First Event</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule     "> Doubling of Serum<br/> Creatinine</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 21.6%</td>
+<td align="center" stylecode="     Toprule         Lrule     ">
+<paragraph> 26.0%</paragraph>
+</td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>
+</td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule     "> ESRD </td>
+<td align="center" stylecode="     Toprule         Lrule     "> 8.5%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 8.5%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>
+</td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule     "> Death</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 13.4%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 12.6%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>
+</td>
+<td align="center" stylecode="     Toprule         Lrule     "> <br/>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <br/>
+</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="     Toprule         Lrule          Rrule     ">  Overall Incidence of Doubling of Serum Creatinine, ESRD and Death</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule     "> Doubling of Serum<br/> Creatinine</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 21.6%</td>
+<td align="center" stylecode="     Toprule         Lrule     ">26.0%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 25.3%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 7.8% to 39.4%</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 0.006</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule     "> ESRD</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 19.6%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 25.5%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 28.6%</td>
+<td align="center" stylecode="     Toprule         Lrule     "> 11.5% to 42.4%</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 0.002</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule     "> Death</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     ">21.0%</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     "> 20.3%</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     "> -1.7%</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     "> -26.9% to 18.6%</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.884</td>
+</tr>
+</tbody>
+</table>

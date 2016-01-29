@@ -1,0 +1,67 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 5 Comparison of Principal Efficacy Findings at 1 Year</caption>
+<col width="295"></col>
+<col width="144"></col>
+<col width="150"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule Lrule Rrule "></td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Amifostine for Injection</content>
+<content stylecode="bold"> +RT</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">RT</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Locoregional Control Rate</content>
+<footnote id="Tablefootnote4">1 year rates estimated using Kaplan-Meier method<br/>
+</footnote>
+</td>
+<td align="center" stylecode="Toprule Lrule ">76.1%</td>
+<td align="center" stylecode="Toprule Rrule ">75.0%</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule ">   Hazard Ratio<footnote id="Tablefootnote5">Hazard ratio &gt;1.0 is in favor of the Amifostine for Injection + RT arm</footnote> </td>
+<td align="center" colspan="2" stylecode="Lrule Rrule ">1.013</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule ">   95% Confidence Interval</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule ">(0.671, 1.530)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Disease-Free Survival Rate</content>
+<footnoteref idref="Tablefootnote4"></footnoteref>
+</td>
+<td align="center" stylecode="Toprule Lrule ">74.6%</td>
+<td align="center" stylecode="Toprule Rrule ">70.4%</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule ">   Hazard Ratio<footnoteref idref="Tablefootnote5"></footnoteref> </td>
+<td align="center" colspan="2" stylecode="Lrule Rrule ">1.035</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule ">   95% Confidence Interval</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule ">(0.702, 1.528)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Overall Survival Rate</content>
+<footnoteref idref="Tablefootnote4"></footnoteref>
+</td>
+<td align="center" stylecode="Toprule Lrule ">89.4%</td>
+<td align="center" stylecode="Toprule Rrule ">82.4%</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule ">   Hazard Ratio<footnoteref idref="Tablefootnote5"></footnoteref> </td>
+<td align="center" colspan="2" stylecode="Lrule Rrule ">1.585</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule ">   95% Confidence Interval</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule ">(0.961, 2.613)</td>
+</tr>
+</tbody>
+</table>

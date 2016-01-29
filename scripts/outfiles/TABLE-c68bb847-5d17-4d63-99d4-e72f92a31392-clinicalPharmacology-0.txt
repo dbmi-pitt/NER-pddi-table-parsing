@@ -1,0 +1,93 @@
+<table border="1" id="inv-b408776e-54ab-4fb9-bfba-4631010bde45" width="434" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23.5%"></col>
+<col width="23.5%"></col>
+<col width="25.6%"></col>
+<col width="27.4%"></col>
+<tbody>
+<tr id="id_2e131abd-0218-49f6-bb7b-6b9a7d20a198">
+<td align="left" rowspan="3" stylecode="Botrule Toprule Rrule Lrule" valign="top">   </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Volunteers</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Patients With Type 2 Diabetes</content>
+</td>
+</tr>
+<tr id="id_8af36249-af13-4d40-87c8-51c358f1925b">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top"> Single Dose </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> Single Dose (Day 1) </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> Multiple Dose (Day 10) </td>
+</tr>
+<tr id="id_d2b3b90d-6c99-4f17-9bff-965892f86715">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Mean </content>
+<content stylecode="bold">±</content>
+<content stylecode="bold"> SD</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Mean </content>
+<content stylecode="bold">±</content>
+<content stylecode="bold"> SD</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Mean </content>
+<content stylecode="bold">±</content>
+<content stylecode="bold"> SD</content>
+</td>
+</tr>
+<tr id="id_6acb3fdb-240d-411a-8a71-0a843786af8e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> C<sub>max</sub> (ng/mL) </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">   </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">   </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">   </td>
+</tr>
+<tr id="id_388b9753-db0d-44b0-9950-78d53a2ce24e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> 1 mg </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 103 ± 34 (12) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> — </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> — </td>
+</tr>
+<tr id="id_3eb11383-4c7d-4451-9640-09266df2b2ac">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> 2 mg </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 177 ± 44 (12) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> — </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> — </td>
+</tr>
+<tr id="id_bc2e302e-cae1-4374-b2f7-6eed18024529">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> 4 mg </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 308 ± 69 (12) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 352 ± 222 (12) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 309 ± 134 (12) </td>
+</tr>
+<tr id="id_921b2cec-bf58-47fb-b594-2a2eb03e6acc">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> 8 mg </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 551 ± 152 (12) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 591 ± 232 (14) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 578 ± 265 (11) </td>
+</tr>
+<tr id="id_984e87ce-2769-48b6-bb17-964289c68c3f">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> T<sub>max</sub> (h) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 2.4 ± 0.8 (48) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 2.5 ± 1.2 (26) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 2.8 ± 2.2 (23) </td>
+</tr>
+<tr id="id_e45cc506-4a12-4554-95c2-137c9f820549">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> CL/f (mL/min) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 52.1 ± 16.0 (48) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 48.5 ± 29.3 (26) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 52.7 ± 40.3 (23) </td>
+</tr>
+<tr id="id_36239f61-4031-44d3-a7b2-8abfc53a6ff9">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> Vd/f (L) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 21.8 ± 13.9 (48) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 19.8 ± 12.7 (26) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 37.1 ± 18.2 (23) </td>
+</tr>
+<tr id="id_5fe6b81e-bf0e-47ec-b569-870f14da1f95">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> T<sub>1/2</sub> (h) </td>
+<td align="center" stylecode="Rrule" valign="top"> 5.3 ± 4.1 (48) </td>
+<td align="center" stylecode="Rrule" valign="top"> 5.0 ± 2.5 (26) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 9.2 ± 3.6 (23) </td>
+</tr>
+</tbody>
+</table>

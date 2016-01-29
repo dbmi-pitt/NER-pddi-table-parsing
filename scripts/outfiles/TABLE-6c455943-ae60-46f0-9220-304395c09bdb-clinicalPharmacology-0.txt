@@ -1,0 +1,42 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td>  </td>
+<td align="center">  <content stylecode="bold">Accumulation<br/>Factor:<br/>AUC (0–24 hr,<br/>day 15)/AUC<br/>(0–24 hr, day 1)</content>
+</td>
+<td align="center" valign="bottom">  <content stylecode="bold">Mean Peak<br/>Serum<br/>Concentration</content>
+</td>
+<td align="center" valign="bottom">  <content stylecode="bold">Mean (SD)<br/>Post Steady-<br/>State Half-Life</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     " valign="top"> <paragraph>7-α-(thiomethyl)<br/>spirolactone (TMS)</paragraph>
+</td>
+<td align="center" stylecode="     Toprule     " valign="top">  1.25</td>
+<td stylecode="     Toprule     " valign="top"> 391 ng/mL<br/>at 3.2 hr</td>
+<td stylecode="     Toprule     " valign="top"> 13.8 hr (6.4)<br/>(terminal) </td>
+</tr>
+<tr>
+<td valign="top"> 6-β-hydroxy-7-α-<br/>(thiomethyl)<br/>spirolactone (HTMS)</td>
+<td align="center" valign="top">  1.50</td>
+<td valign="top"> 125 ng/mL<br/>at 5.1 hr</td>
+<td valign="top"> 15.0 hr (4.0)<br/>(terminal)</td>
+</tr>
+<tr>
+<td valign="top"> Canrenone (C)</td>
+<td align="center" valign="top">  1.41</td>
+<td valign="top"> 181 ng/mL<br/>at 4.3 hr</td>
+<td valign="top"> 16.5 hr (6.3)<br/>(terminal)</td>
+</tr>
+<tr>
+<td valign="top"> Spironolactone</td>
+<td align="center" valign="top">  1.30</td>
+<td valign="top"> 80 ng/mL<br/>at 2.6 hr</td>
+<td> Approximately<br/>1.4 hr (0.5)<br/>(β half-life)</td>
+</tr>
+</tbody>
+</table>

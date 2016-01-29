@@ -1,0 +1,23 @@
+<table frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><tfoot>
+<tr><td align="left" colspan="6" valign="top">a  SD = Single dose, MD = Multiple dose, p.o. = Oral administration,</td></tr>
+<tr><td align="left" colspan="6" valign="top">i.v. = Intravenous administration, q.i.d.= Four times daily</td></tr>
+<tr><td align="left" colspan="6" valign="top">b  F represents the oral bioavailability of tramadol</td></tr>
+<tr><td align="left" colspan="6" valign="top">c  Not applicable</td></tr>
+<tr><td align="left" colspan="6" valign="top">d  Not measured</td></tr>
+</tfoot>
+<tbody>
+<tr><td align="center" valign="top">Population/ Dosage Regimen<sup>a</sup></td><td align="center" valign="top">Parent Drug/Metabolite</td><td align="center" valign="top">Peak Conc.(ng/mL)</td><td align="center" valign="top">Time toPeak (hrs)</td><td align="center" valign="top">Clearance/F<sup>b</sup>(mL/min/Kg)</td><td align="center" valign="top">t<sub>1/2 </sub> (hrs)</td></tr>
+<tr><td align="center" rowspan="2" valign="top">Healthy Adults,100 mg qid,MD p.o.</td><td align="center" valign="middle">Tramadol</td><td align="center" valign="middle">592 (30)</td><td align="center" valign="middle">2.3 (61)</td><td align="center" valign="middle">5.90 (25)</td><td align="center" valign="middle">6.7 (15)</td></tr>
+<tr><td align="center" valign="middle">M1</td><td align="center" valign="middle">110 (29)</td><td align="center" valign="middle">2.4 (46)</td><td align="center" valign="middle">c</td><td align="center" valign="middle">7.0 (14)</td></tr>
+<tr><td align="center" rowspan="2" valign="top">Healthy Adults,100 mgSD p.o.</td><td align="center" valign="middle">Tramadol</td><td align="center" valign="middle">308 (25)</td><td align="center" valign="middle">1.6 (63)</td><td align="center" valign="middle">8.50 (31)</td><td align="center" valign="middle">5.6 (20)</td></tr>
+<tr><td align="center" valign="middle">M1</td><td align="center" valign="middle">55.0 (36)</td><td align="center" valign="middle">3.0 (51)</td><td align="center" valign="middle">c</td><td align="center" valign="middle">6.7 (16)</td></tr>
+<tr><td align="center" rowspan="2" valign="top">Geriatric(&gt;75 yrs)50 mg SD p.o.</td><td align="center" valign="middle">Tramadol</td><td align="center" valign="middle">208 (31)</td><td align="center" valign="middle">2.1 (19)</td><td align="center" valign="middle">6.89 (25)</td><td align="center" valign="middle">7.0 (23)</td></tr>
+<tr><td align="center" valign="middle">M1</td><td align="center" valign="middle">d</td><td align="center" valign="middle">d</td><td align="center" valign="middle">c</td><td align="center" valign="middle">d</td></tr>
+<tr><td align="center" rowspan="2" valign="top">Hepatic Impaired,50 mgSD p.o.</td><td align="center" valign="middle">Tramadol</td><td align="center" valign="middle">217 (11)</td><td align="center" valign="middle">1.9 (16)</td><td align="center" valign="middle">4.23 (56)</td><td align="center" valign="middle">13.3 (11)</td></tr>
+<tr><td align="center" valign="middle">M1</td><td align="center" valign="middle">19.4 (12)</td><td align="center" valign="middle">9.8 (20)</td><td align="center" valign="middle">c</td><td align="center" valign="middle">18.5 (15)</td></tr>
+<tr><td align="center" rowspan="2" valign="top">Renal Impaired,CL<sub>cr </sub>10-30 mL/min100 mg SD i.v.</td><td align="center" valign="middle">Tramadol</td><td align="center" valign="middle">c</td><td align="center" valign="middle">c</td><td align="center" valign="middle">4.23 (54)</td><td align="center" valign="middle">10.6 (31)</td></tr>
+<tr><td align="center" valign="middle">M1</td><td align="center" valign="middle">c</td><td align="center" valign="middle">c</td><td align="center" valign="middle">c</td><td align="center" valign="middle">11.5 (40)</td></tr>
+<tr><td align="center" rowspan="2" valign="top">Renal Impaired,CL<sub>cr</sub> &lt;5 mL/min100 mg SD i.v.</td><td align="center" valign="middle">Tramadol</td><td align="center" valign="middle">c</td><td align="center" valign="middle">c</td><td align="center" valign="middle">3.73 (17)</td><td align="center" valign="middle">11.0 (29)</td></tr>
+<tr><td align="center" valign="middle">M1</td><td align="center" valign="middle">c</td><td align="center" valign="middle">c</td><td align="center" valign="middle">c</td><td align="center" valign="middle">16.9 (18)</td></tr>
+</tbody>
+</table>

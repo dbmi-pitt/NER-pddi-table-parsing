@@ -1,0 +1,38 @@
+<table border="1" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td>Clarithromycin MIC (mcg/mL)<content stylecode="italics">
+<sup>a</sup>
+</content>
+</td>
+<td>Interpretation</td>
+</tr>
+<tr>
+<td>≤ 0.25</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>0.5</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr>
+<td>&gt; 1.0</td>
+<td>Resistant (R)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Amoxicillin MIC (mcg/mL)<content stylecode="italics">
+<sup>a,b</sup>
+</content>
+</td>
+<td>Interpretation</td>
+</tr>
+<tr>
+<td>≤ 0.25</td>
+<td>Susceptible (S)</td>
+</tr>
+</tbody>
+</table>

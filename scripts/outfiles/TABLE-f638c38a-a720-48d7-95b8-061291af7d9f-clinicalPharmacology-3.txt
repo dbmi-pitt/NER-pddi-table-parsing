@@ -1,0 +1,80 @@
+<table id="id_beda4e73-31cd-49b7-adc3-c8e4db899bc5" width="309.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="41.7%"></col>
+<col width="29.1%"></col>
+<col width="29.1%"></col>
+<tbody>
+<tr id="id_a3658b6a-9838-4aee-a9f9-83b525e64ecc">
+<td align="left" stylecode="Toprule Botrule Lrule" valign="top">
+<paragraph>
+<content stylecode="bold">Pharmacokinetic</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Parameter</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">[mean (SD)]</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">3-Day Regimen</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(20 mg/kg x 3 days)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">5-Day Regimen</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(12 mg/kg x 5 days)</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_2571b0b1-6f4c-4326-968b-5624cf071c8f">
+<td align="left" stylecode="Lrule" valign="top">
+<paragraph>n</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>11</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>17</paragraph>
+</td>
+</tr>
+<tr id="id_00b5b02f-2bc8-4954-bebe-72b389273fb4">
+<td align="left" stylecode="Lrule" valign="top">
+<paragraph>C<sub>max</sub> (mcg/mL)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1.1 (0.4)</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>0.5 (0.4)</paragraph>
+</td>
+</tr>
+<tr id="id_1bd989f9-ec67-401c-8f5e-e839a9b8a8ab">
+<td align="left" stylecode="Lrule" valign="top">
+<paragraph>T<sub>max</sub> (hr)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2.7 (1.9)</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>2.2 (0.8)</paragraph>
+</td>
+</tr>
+<tr id="id_0eacce15-58ab-44e4-a3dc-2935d2153232">
+<td align="left" stylecode="Lrule Botrule" valign="top">
+<paragraph>AUC<sub>0-24</sub> (mcg•hr/mL)</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>7.9 (2.9)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>3.9 (1.9)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

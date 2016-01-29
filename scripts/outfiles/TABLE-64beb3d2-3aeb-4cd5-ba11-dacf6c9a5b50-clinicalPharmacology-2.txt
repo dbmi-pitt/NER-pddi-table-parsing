@@ -1,0 +1,99 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6: Effect of Metformin on Systemic Exposure of Coadministered Drugs</caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="left" valign="top" width="20%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Coadministered Drug</th>
+<th stylecode="Rrule">Dose of Coadministered Drug<footnote id="t6f1">All doses administered as single dose unless otherwise specified</footnote>
+</th>
+<th stylecode="Rrule">Dose of Metformin<footnoteref idref="t6f1"></footnoteref>
+</th>
+<th align="center" colspan="3" stylecode="Rrule Botrule">Geometric Mean Ratio<br/>(ratio with/without metformin)<br/>No Effect = 1.00</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode=" Toprule">
+<td stylecode="Botrule Lrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Rrule Botrule Toprule">
+<content stylecode="bold">AUC</content>
+<footnote>AUC is reported as AUC<sub>0-∞</sub> unless otherwise specified</footnote>
+</td>
+<td stylecode="Rrule Botrule Toprule">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">No dosing adjustments required for the following:</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Cimetidine</td>
+<td stylecode="Rrule">400 mg</td>
+<td stylecode="Rrule">850 mg</td>
+<td stylecode="Rrule">Cimetidine</td>
+<td stylecode="Rrule">0.95<footnote id="t6f2">AUC<sub>0-24hr</sub>
+</footnote>
+</td>
+<td stylecode="Rrule">1.01</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Glyburide</td>
+<td stylecode="Rrule">5 mg</td>
+<td stylecode="Rrule">500 mg<footnote>GLUMETZA (metformin hydrochloride extended-release tablets) 500 mg</footnote>
+</td>
+<td stylecode="Rrule">Glyburide</td>
+<td stylecode="Rrule">0.78<footnote id="t6f3">Ratio of arithmetic means, p value of difference &lt;0.05</footnote>
+</td>
+<td stylecode="Rrule">0.63<footnoteref idref="t6f3"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Furosemide</td>
+<td stylecode="Rrule">40 mg</td>
+<td stylecode="Rrule">850 mg</td>
+<td stylecode="Rrule">Furosemide</td>
+<td stylecode="Rrule">0.87<footnoteref idref="t6f3"></footnoteref>
+</td>
+<td stylecode="Rrule">0.69<footnoteref idref="t6f3"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Nifedipine</td>
+<td stylecode="Rrule">10 mg</td>
+<td stylecode="Rrule">850 mg</td>
+<td stylecode="Rrule">Nifedipine</td>
+<td stylecode="Rrule">1.10<footnoteref idref="t6f2"></footnoteref>
+</td>
+<td stylecode="Rrule">1.08</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Propranolol</td>
+<td stylecode="Rrule">40 mg</td>
+<td stylecode="Rrule">850 mg</td>
+<td stylecode="Rrule">Propranolol</td>
+<td stylecode="Rrule">1.01<footnoteref idref="t6f2"></footnoteref>
+</td>
+<td stylecode="Rrule">0.94</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Ibuprofen</td>
+<td stylecode="Rrule">400 mg</td>
+<td stylecode="Rrule">850 mg</td>
+<td stylecode="Rrule">Ibuprofen</td>
+<td stylecode="Rrule">0.97<footnote id="t6f6">Ratio of arithmetic means</footnote>
+</td>
+<td stylecode="Rrule">1.01<footnoteref idref="t6f6"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

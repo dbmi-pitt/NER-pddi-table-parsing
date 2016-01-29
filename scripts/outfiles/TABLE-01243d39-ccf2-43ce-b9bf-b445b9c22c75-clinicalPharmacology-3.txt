@@ -1,0 +1,63 @@
+<table id="table8" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8	Drug Interactions:  Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir Disoproxil Fumarate<linkhtml href="#footnote-5">*</linkhtml>
+<sup>,</sup>
+<linkhtml href="#footnote-6">†</linkhtml>
+</caption>
+<col align="left" span="1" valign="middle" width="20%"></col>
+<col align="center" span="1" valign="middle" width="20%"></col>
+<col align="center" span="1" valign="middle" width="10%"></col>
+<col align="center" span="1" valign="middle" width="16%"></col>
+<col align="center" span="1" valign="middle" width="17%"></col>
+<col align="center" span="1" valign="middle" width="17%"></col>
+<tbody>
+<tr>
+<th colspan="1">Coadministered Drug</th>
+<th colspan="1">Dose of Coadministered Drug (mg)</th>
+<th colspan="1">N</th>
+<th colspan="3">Mean % Change of Coadministered Drug Pharmacokinetic Parameters<linkhtml href="#footnote-7">‡</linkhtml>
+<br/>(90% CI)</th>
+</tr>
+<tr>
+<th colspan="1">C<sub>max</sub>
+</th>
+<th colspan="1">AUC</th>
+<th colspan="1">C<sub>min</sub>
+</th>
+</tr>
+<tr>
+<td>Atazanavir<linkhtml href="#footnote-8">§</linkhtml>
+</td>
+<td>400 once daily × 14 days</td>
+<td>34</td>
+<td>↓ 21<br/>(↓ 27 to ↓ 14)</td>
+<td>↓ 25<br/>(↓ 30 to ↓ 19)</td>
+<td>↓ 40<br/>(↓ 48 to ↓ 32)</td>
+</tr>
+<tr>
+<td></td>
+<td>Atazanavir/ritonavir 300/100 once daily × 42 days</td>
+<td>10</td>
+<td>↓ 28<br/>(↓ 50 to ↑ 5)</td>
+<td>↓ 25<linkhtml href="#footnote-9">¶</linkhtml>
+<br/>(↓ 42 to ↓ 3)</td>
+<td>↓ 23<footnoteref idref="t8f1"></footnoteref>
+<br/>(↓ 46 to ↑ 10)</td>
+</tr>
+<tr>
+<td>Lopinavir</td>
+<td>Lopinavir/ritonavir 400/100 twice daily × 14 days</td>
+<td>24</td>
+<td>↔</td>
+<td>↔</td>
+<td>↔</td>
+</tr>
+<tr>
+<td>Ritonavir</td>
+<td>Lopinavir/ritonavir 400/100 twice daily × 14 days</td>
+<td>24</td>
+<td>↔</td>
+<td>↔</td>
+<td>↔</td>
+</tr>
+</tbody>
+</table>

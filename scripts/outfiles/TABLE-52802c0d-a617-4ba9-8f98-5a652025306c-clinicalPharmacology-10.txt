@@ -1,0 +1,30 @@
+<table id="id_20725ec9-39d0-44ad-b8b3-90d43515f483" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50%"></col>
+<col width="50%"></col>
+<tbody>
+<tr id="id_aa2c0117-ab4d-4f07-8ef2-7e36044daca2" stylecode="Toprule">
+<td align="center" valign="top">
+<content stylecode="underline">Zone </content>
+<content stylecode="underline">Diameter </content>
+<content stylecode="underline">(</content>
+<content stylecode="underline">mm</content>
+<content stylecode="underline">)</content>
+<content stylecode="underline">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">Interpretation</content>
+<content stylecode="underline">
+<br/>
+</content>
+</td>
+</tr>
+<tr id="id_cff58312-d5d2-4a0c-96e8-aa6ec0eb5738" stylecode="Botrule">
+<td align="center" valign="top">≥26<br/>
+</td>
+<td align="center" valign="top">(S) Susceptible<br/>
+</td>
+</tr>
+</tbody>
+</table>

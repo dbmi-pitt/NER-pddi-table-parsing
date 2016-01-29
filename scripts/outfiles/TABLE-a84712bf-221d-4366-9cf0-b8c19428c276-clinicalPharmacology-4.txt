@@ -1,0 +1,41 @@
+<table border="0" id="id_0ace9aa6-a1da-4174-8554-27bf878fcd5b" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<thead>
+<tr id="id_69b7398a-c8fd-4f72-9b0a-ebb5f43c7519" stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">Microorganism</td>
+<td align="center" stylecode="Rrule" valign="top">  MIC Range (mcg/mL)  </td>
+</tr>
+</thead>
+<tfoot id="id_b66ea22b-088f-46fd-8e6f-ace1c2bbc3f6">
+<tr>
+<td align="left" colspan="2" stylecode="Lrule Rrule" valign="top">
+<sup>c </sup>This quality control range is applicable only to <content stylecode="italics">H. influenzae </content>ATCC 49766 tested by a broth microdilution procedure using HTM.<br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_5e631ea8-94bd-4679-a4eb-c9e9f179bf7e" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">  Escherichia coli </content>ATCC 25922<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.12-0.5<br/>
+</td>
+</tr>
+<tr id="id_b6b2a831-e07a-4f55-a7b2-03716fbd9a27">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">  Haemophilus influenzae </content>ATCC 49766<sup>c  </sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.12-0.5<br/>
+</td>
+</tr>
+<tr id="id_7d8d3af5-aef1-41b6-929f-b9413abb7c76">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">  Staphylococcus aureus </content>ATCC 29213<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.12-0.5<br/>
+</td>
+</tr>
+</tbody>
+</table>

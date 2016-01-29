@@ -1,0 +1,41 @@
+<table border="1" id="id_7bfa0423-7405-4cdf-a40a-6450cd13b4f8" width="442.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23.1%"></col>
+<col width="9.5%"></col>
+<col width="13.3%"></col>
+<col width="21.3%"></col>
+<col width="32.8%"></col>
+<tbody>
+<tr id="id_ad2a2051-66ed-403a-9d3b-e04bcf3c6bed">
+<td align="left" rowspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="middle">Pharmacokinetic Parameter [mean (SD)]</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">3 Day Regimen</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">5 Day Regimen</td>
+</tr>
+<tr id="id_8ba0efd0-0a89-47e5-846e-fb5320a6966d">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">Day 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Day 3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Day 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Day 5</td>
+</tr>
+<tr id="id_35140f6d-cda4-4fbc-8d5e-0be0a745386b">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">C<sub>m</sub>
+<sub>ax </sub> (serum, mcg/mL)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.44 (0.22)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.54 (0.25)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.43 (0.20)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.24 (0.06)</td>
+</tr>
+<tr id="id_7b1ee079-44ba-4c1a-b9b4-c8c7c2700e54">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Serum AUC<sub>0-∞</sub> (mcg•hr/mL)</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">17.4 (6.2)<footnote id="id-52515298-42d4-44d6-8f96-ad22add993d9">Total AUC for the entire 3 day and 5 day regimens</footnote>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">14.9 (3.1)<footnoteref idref="id-52515298-42d4-44d6-8f96-ad22add993d9"></footnoteref>
+</td>
+</tr>
+<tr id="id_5fa79be6-0291-4125-898a-3539f7e9bc68">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Serum T<sub>½</sub>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="middle">71.8 hr</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">68.9 hr</td>
+</tr>
+</tbody>
+</table>

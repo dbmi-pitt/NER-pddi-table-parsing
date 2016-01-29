@@ -1,0 +1,139 @@
+<table id="t15" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 15. Pharmacokinetic In Renal and Hepatic Impaired Patients
+</caption>
+<col align="left" width="21.333%"></col>
+<col align="left" width="17.967%"></col>
+<col align="left" width="15.500%"></col>
+<col align="left" width="19.800%"></col>
+<col align="left" width="11.117%"></col>
+<col align="left" width="14.283%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Toprule Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">Population</content>
+<br/>
+<content stylecode="bold">(No. of Patients)</content>
+</th>
+<th align="left" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">Dose</content>
+</th>
+<th align="left" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">AUC</content>
+<content stylecode="bold">
+<sub>0-t</sub>
+</content>
+<br/>
+<content stylecode="bold">(ng·hr/ mL)</content>
+</th>
+<th align="left" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">t</content>
+<content stylecode="bold">
+<sub>1/2</sub>
+</content>
+<br/>
+<content stylecode="bold">(hr)</content>
+</th>
+<th align="left" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">V</content>
+<br/>
+<content stylecode="bold">(L/kg)</content>
+</th>
+<th align="left" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">CI</content>
+<br/>
+<content stylecode="bold">(L/hr/kg)</content>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" valign="top">
+<paragraph stylecode="footnote">
+<sup>a)</sup> corrected for bioavailability
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top">
+<paragraph stylecode="footnote">
+<sup>b)</sup> 1 patient did not receive the PO dose
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Renal<br/>Impairment<br/>(n=12)
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">0.02<br/>mg/kg/4hr<br/>IV
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">393±123<br/>(t=60 hr)
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">26.3 ±9.2
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">1.07 ±0.20
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">0.038 ±0.014
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" stylecode="Botrule Lrule Rrule" valign="middle">Mild Hepatic<br/>Impairment<br/>(n=6)
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">0.02<br/>mg/kg/4hr<br/>IV
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">367±107<br/>(t=72 hr)
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">60.6±43.8<br/>Range: 27.8 to  141
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">3.1±1.6
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">0.042 ±0.02
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Rrule" valign="middle">7.7 mg<br/>PO
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">488±320<br/>(t=72 hr)
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">66.1±44.8<br/>Range: 29.5 to 138
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">3.7±4.7<sup>a</sup>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">0.034 ±0.019 <sup>a</sup>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Severe<br/>Hepatic<br/>Impairment<br/>(n=6, IV)
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">0.02 mg/kg/4hr<br/>IV (n=2)<br/>
+<br/>0.01 mg/kg/8hr<br/>IV (n=4)
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">762±204<br/>(t=120 hr)<br/>
+<br/>289±117<br/>(t=144 hr)<br/>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">198±158<br/>Range:81 to 436
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">3.9±1.0
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">0.017 ±0.013
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">(n=5, PO)<sup>b</sup>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">8 mg PO<br/>(n=1)<br/>
+<br/>5 mg PO<br/>(n=4)<br/>4 mg PO<br/>(n=1)
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">658<br/>(t=120 hr)<br/>
+<br/>533±156<br/>(t=144 hr)<br/>
+<br/>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">119±35<br/>Range: 85 to 178<br/>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">3.1±3.4 <sup>a</sup>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">0.016 ±0.011 <sup>a</sup>
+</td>
+</tr>
+</tbody>
+</table>

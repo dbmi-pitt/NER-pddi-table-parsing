@@ -1,0 +1,31 @@
+<table border="0" frame="box" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td colspan="2" stylecode="     Toprule     "> When testing <content stylecode="italics">Streptococcus pneumoniae:</content>
+<footnote id="FOOT_1219">These zone diameter interpretative standards are applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood when incubated in 5% CO<sub>2</sub>.<sup>5</sup>
+</footnote>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule     "> Zone Diameter (mm)</td>
+<td stylecode="     Botrule     "> Interpretation</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"> ≥19</td>
+<td> Susceptible (S)</td>
+</tr>
+<tr>
+<td align="center"> 16–18</td>
+<td> Intermediate (I)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule     "> ≤15</td>
+<td stylecode="     Botrule     "> Resistant (R)</td>
+</tr>
+</tbody>
+</table>

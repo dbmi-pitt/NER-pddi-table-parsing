@@ -1,0 +1,16 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="174px"></col>
+<col width="174px"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> ≤ 2</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> (S) Susceptible</td>
+</tr>
+</tbody>
+</table>

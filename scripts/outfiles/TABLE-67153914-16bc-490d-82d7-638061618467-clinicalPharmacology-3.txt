@@ -1,0 +1,62 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Subject Group</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Elimination Half-Life (hr)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Plasma Clearance (L/hr)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Volume of Distribution (L)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Healthy Subjects<footnote id="FOOT_5012">Dose ranged from 0.15 to 3 g;</footnote> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5.8 – 8.7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.58 – 1.45</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5.8 – 13.5</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Elderly Subjects (mean age, 70.5 yr)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 8.9</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.83</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 10.7</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Patients with Renal Impairment</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">    Hemodialysis Patients (0-5 mL/min)<footnote id="FOOT_5013">Creatinine clearance.</footnote> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">14.7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.65</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 13.7</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">    Severe (5-15 mL/min)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 15.7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.56</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 12.5</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">    Moderate (16-30 mL/min)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 11.4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.72</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 11.8</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">    Mild (31-60 mL/min)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 12.4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.70</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 13.3</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Patients with Liver Disease</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 8.8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.1</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 13.6</td>
+</tr>
+</tbody>
+</table>

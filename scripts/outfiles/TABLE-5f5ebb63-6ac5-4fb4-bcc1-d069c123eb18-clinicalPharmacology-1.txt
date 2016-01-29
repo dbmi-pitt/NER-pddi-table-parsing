@@ -1,0 +1,163 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td align="left" rowspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Pathogen </content>
+</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Disk Diffusion Zone Diameters</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">(mm)</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">(S) Susceptible</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">(I) Intermediate</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">(R) Resistant</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">(S) Susceptible</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">(I) Intermediate</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">(R) Resistant</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>Enterobacteriaceae </paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>≤ 4</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>≥ 16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>≥ 21</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>18 to 20</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>≤ 17</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Haemophilus</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">  influenzae<sup>a</sup>
+</content>
+</content> </paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>≤ 2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>—</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>—</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>≥ 26</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>—</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Pseudomonas</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">  aeruginosa </content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>≤ 8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>≥ 32</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>≥ 22</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>16 to 21</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>≤ 15</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

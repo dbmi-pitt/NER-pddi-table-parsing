@@ -1,0 +1,12 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><col align="center" width="20%"></col>
+<col align="center" width="30%"></col>
+<col align="center" width="50%"></col>
+<thead>
+<tr><th stylecode="Botrule" valign="bottom">Dose (mg)</th><th stylecode="Botrule">Mean Peak Plasma<br/>Concentration<br/>(µg/mL)</th><th stylecode="Botrule">Area Under Curve<br/>(AUC)<br/>(µg∙h/mL)</th></tr>
+</thead>
+<tbody>
+<tr><td>100</td><td>0.8</td><td>5.6</td></tr>
+<tr><td>200</td><td>1.4</td><td>10.9</td></tr>
+<tr><td>400</td><td>3.2</td><td>26.1</td></tr>
+</tbody>
+</table>

@@ -1,0 +1,29 @@
+<table id="id_d005386a-4c4e-44cb-937f-1ca18db02b81" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="60.0%"></col>
+<col align="center" width="40.0%"></col>
+<tbody>
+<tr id="id_d3b853f4-e5c9-4bcb-a1f3-1262cc4a8a63" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+</tr>
+<tr id="id_8a07b68f-4f54-40b4-ab47-1ffb5af12f9c">
+<td align="left" valign="top">
+<content stylecode="italics">Escherichia coli</content> ATCC 25922</td>
+<td align="left" valign="top">19 to 25 mm</td>
+</tr>
+<tr id="id_63b76ec9-b44d-4f26-8b67-9efe7bd79646">
+<td align="left" valign="top">
+<content stylecode="italics">Escherichia coli</content> ATCC 35218</td>
+<td align="left" valign="top">18 to 22 mm</td>
+</tr>
+<tr id="id_514f196f-f7f4-4ae5-bd57-e368ab5ecf5a" stylecode="Botrule">
+<td align="left" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 25923</td>
+<td align="left" valign="top">28 to 36 mm</td>
+</tr>
+</tbody>
+</table>

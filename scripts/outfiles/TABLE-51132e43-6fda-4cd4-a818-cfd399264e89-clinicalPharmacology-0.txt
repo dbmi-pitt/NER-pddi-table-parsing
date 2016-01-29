@@ -1,0 +1,96 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Study 1</caption>
+<col width="156px"></col>
+<col width="156px"></col>
+<col width="156px"></col>
+<col width="156px"></col>
+<tbody>
+<tr>
+<td colspan="4" stylecode="     Botrule         Lrule          Rrule     "> <content stylecode="bold">YMRS Total Score</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">Group</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">Baseline</content>
+<footnote id="FOOT_5855">Mean score at baseline</footnote>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">BL to Wk 3</content>
+<footnote id="FOOT_5856">Change from baseline to Week 3 (LOCF)</footnote>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Difference</content>
+<footnote id="FOOT_5857">Difference in change from baseline to Week 3 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo</footnote>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> Placebo</td>
+<td align="center" stylecode="     Botrule     "> 28.8</td>
+<td align="center" stylecode="     Botrule     "> +0.2</td>
+<td align="center" stylecode="     Botrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> Divalproex sodium delayed-release tablets</td>
+<td align="center" stylecode="     Botrule     "> 28.5</td>
+<td align="center" stylecode="     Botrule     "> -9.5</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 9.7</td>
+</tr>
+<tr>
+<td align="center" colspan="4" stylecode="     Botrule         Lrule          Rrule     "> <content stylecode="bold">BPRS-A Total Score</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">Group</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">Baseline</content>
+<footnoteref idref="FOOT_5855"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">BL to Wk 3</content>
+<footnoteref idref="FOOT_5856"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Difference</content>
+<footnoteref idref="FOOT_5857"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> Placebo</td>
+<td align="center" stylecode="     Botrule     "> 76.2</td>
+<td align="center" stylecode="     Botrule     "> +1.8</td>
+<td align="center" stylecode="     Botrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> Divalproex sodium delayed-release tablets</td>
+<td align="center" stylecode="     Botrule     "> 76.4</td>
+<td align="center" stylecode="     Botrule     "> -17.0</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 18.8</td>
+</tr>
+<tr>
+<td align="center" colspan="4" stylecode="     Botrule         Lrule          Rrule     "> <content stylecode="bold">GAS Score</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">Group</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">Baseline</content>
+<footnoteref idref="FOOT_5855"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">BL to Wk 3</content>
+<footnoteref idref="FOOT_5856"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Difference</content>
+<footnoteref idref="FOOT_5857"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> Placebo</td>
+<td align="center" stylecode="     Botrule     "> 31.8</td>
+<td align="center" stylecode="     Botrule     "> 0.0</td>
+<td align="center" stylecode="     Botrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> Divalproex sodium delayed-release tablets</td>
+<td align="center" stylecode="     Botrule     "> 30.3</td>
+<td align="center" stylecode="     Botrule     "> +18.1</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 18.1</td>
+</tr>
+</tbody>
+</table>

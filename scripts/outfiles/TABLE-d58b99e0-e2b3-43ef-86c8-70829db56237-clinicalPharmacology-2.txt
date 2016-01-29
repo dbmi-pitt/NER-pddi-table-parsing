@@ -1,0 +1,186 @@
+<table id="i316da504-0f20-40c1-8045-ed28c0229364" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="22%"></col>
+<col width="12%"></col>
+<col width="13%"></col>
+<col width="15%"></col>
+<col width="15%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Botrule Lrule Toprule "></td>
+<td align="center" colspan="2" stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Incidence</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Risk</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Reduction</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">95%</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold"> CI</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">p-Value</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Losartan</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Placebo</content>
+</paragraph>
+</td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Rrule Lrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Primary Composite Endpoint</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>43.5%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>47.1%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>16.1%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>2.3% to 27.9%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.022</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Rrule Lrule Botrule ">
+<paragraph>Doubling of Serum Creatinine, ESRD and Death Occurring as a First Event</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>Doubling of Serum Creatinine</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>21.6%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>26%</paragraph>
+</td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Rrule Lrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>ESRD</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>8.5%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>8.5%</paragraph>
+</td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Rrule Lrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Death</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>13.4%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>12.6%</paragraph>
+</td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Rrule Lrule Botrule "></td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Rrule Lrule Botrule ">
+<paragraph>Overall Incidence of Doubling of Serum Creatinine, ESRD and Death</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Doubling of Serum Creatinine</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>21.6%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>26%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>25.3%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>7.8% to 39.4%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.006</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>ESRD</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>19.6%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>25.5%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>28.6%</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>11.5% to 42.4%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.002</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>Death</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>21%</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>20.3%</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>-1.7%</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>-26.9% to 18.6%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>0.884</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

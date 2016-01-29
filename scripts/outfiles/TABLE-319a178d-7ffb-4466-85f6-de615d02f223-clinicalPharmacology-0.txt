@@ -1,0 +1,154 @@
+<table id="_Reft2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2:    Effects of Coadministered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration</caption>
+<col width="23%"></col>
+<col width="23%"></col>
+<col width="23%"></col>
+<col width="14%"></col>
+<col width="17%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Coadministered Drug</content>
+</th>
+<th align="left" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">Dosage Regimen of Coadministered Drug</content>
+</th>
+<th align="left" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">Dosage Regimen of Fenofibrate</content>
+</th>
+<th align="left" colspan="2" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">Changes in Fenofibric Acid Exposure</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top"></th>
+<th align="left" stylecode="Rrule Botrule " valign="top"></th>
+<th align="left" stylecode="Rrule Botrule " valign="top"></th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">AUC</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="italics">Lipid-lowering agents</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Atorvastatin</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>20 mg once daily for 10 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Fenofibrate 160 mg<footnote id="_Refft2.1">Fenofibrate oral tablet</footnote> once daily for 10 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓2%</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓4%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Pravastatin</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>40 mg as a single dose</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Fenofibrate 3 × 67 mg<footnote id="_RefID0EQFAG">Fenofibrate oral micronized capsule</footnote> as a single dose</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓1%</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓2%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Fluvastatin</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>40 mg as a single dose</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Fenofibrate 160 mg<footnoteref idref="_Refft2.1"></footnoteref> as a single dose</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓2%</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓10%</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="5" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Anti-diabetic agents</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Glimepiride</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1 mg as a single dose</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Fenofibrate 145 mg<footnoteref idref="_Refft2.1"></footnoteref> once daily for 10 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↑1%</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓1%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Metformin</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>850 mg three times daily for 10 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Fenofibrate 54 mg<footnoteref idref="_Refft2.1"></footnoteref> three times daily for 10 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓9%</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↓6%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>Rosiglitazone</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>8 mg once daily for<br/>5 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>Fenofibrate 145 mg<footnoteref idref="_Refft2.1"></footnoteref> once daily for 14 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↑10%</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>↑3%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

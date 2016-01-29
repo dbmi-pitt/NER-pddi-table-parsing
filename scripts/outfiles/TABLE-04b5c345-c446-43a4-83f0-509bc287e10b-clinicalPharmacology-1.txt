@@ -1,0 +1,361 @@
+<table id="table9" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9:	Effect of Coadministered Drug on Efavirenz Plasma C<sub>max</sub>,
+AUC, and C<sub>min</sub>
+</caption>
+<col width="14%"></col>
+<col width="16%"></col>
+<col width="16%"></col>
+<col width="9%"></col>
+<col width="15%"></col>
+<col width="15%"></col>
+<col width="15%"></col>
+<thead>
+<tr>
+<th colspan="4" stylecode="Toprule"> </th>
+<th align="center" colspan="3" stylecode="Toprule Botrule" valign="bottom">
+<content stylecode="bold">Efavirenz<br/>(mean % change)</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Botrule" valign="bottom">
+<content stylecode="bold">Coadministered Drug</content>
+</th>
+<th align="center" stylecode="Botrule" valign="bottom">
+<content stylecode="bold">Dose</content>
+</th>
+<th align="center" stylecode="Botrule" valign="bottom">
+<content stylecode="bold">Efavirenz Dose</content>
+</th>
+<th align="center" stylecode="Botrule" valign="bottom">
+<content stylecode="bold">Number of Subjects</content>
+</th>
+<th align="center" stylecode="Botrule" valign="bottom">
+<content stylecode="bold">C<sub>max</sub>
+<br/>(90% CI)</content>
+</th>
+<th align="center" stylecode="Botrule" valign="bottom">
+<content stylecode="bold">AUC<br/>(90% CI)</content>
+</th>
+<th align="center" stylecode="Botrule" valign="bottom">
+<content stylecode="bold">C<sub>min</sub>
+<br/>(90% CI)</content>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">↑ Indicates increase    ↓ Indicates decrease   ↔  Indicates no change or a mean increase or decrease of &lt;10%.</td>
+</tr>
+<tr>
+<td colspan="7">
+<sup>a</sup>  Parallel-group design; n for
+efavirenz + lopinavir/ritonavir, n for efavirenz alone.</td>
+</tr>
+<tr>
+<td colspan="7">
+<sup>b</sup>  95% CI.</td>
+</tr>
+<tr>
+<td colspan="7">
+<sup>c</sup>  Soft Gelatin Capsule.</td>
+</tr>
+<tr>
+<td colspan="7">
+<sup>d</sup>  Tenofovir disoproxil fumarate.</td>
+</tr>
+<tr>
+<td colspan="7">
+<sup>e</sup>  90% CI not available.</td>
+</tr>
+<tr>
+<td colspan="7">
+<sup>f</sup>  Relative to steady-state administration
+of efavirenz (600 mg once daily for 9 days).</td>
+</tr>
+<tr>
+<td align="left" colspan="7">NA = not available.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1">Indinavir</td>
+<td align="left" colspan="1" rowspan="1">800 mg q8h x 14 days</td>
+<td align="left" colspan="1" rowspan="1">200 mg qd x 14 days</td>
+<td align="center" colspan="1" rowspan="1">11</td>
+<td align="center" colspan="1" rowspan="1">↔</td>
+<td align="center" colspan="1" rowspan="1">↔</td>
+<td align="center" colspan="1" rowspan="1">↔</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Lopinavir/<br/>   ritonavir</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">400/100 mg q12h x
+9 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 9 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">11,12<sup>a</sup>
+</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 16%<br/>(↓ 38-↑ 15%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 16%<br/>(↓ 42-↑ 20%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Nelfinavir</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">750 mg q8h x 7 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 7 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">10</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 12%<br/>(↓ 32-↑ 13%)<sup>b</sup>
+</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 12%<br/>(↓ 35-↑ 18%)<sup>b</sup>
+</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 21%<br/>(↓ 53-↑ 33%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Ritonavir</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">500 mg q12h x 8 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 10 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">9</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 14%<br/>(4-26%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 21%<br/>(10-34%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 25%<br/>(7-46%)<sup>b</sup>
+</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Saquinavir<br/>   SGC<sup>c</sup>
+</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">1200 mg q8h x 10 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 10 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">13</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 13%<br/>(5-20%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 12%<br/>(4-19%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 14%<br/>(2-24%)<sup>b</sup>
+</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Tenofovir<sup>d</sup>
+</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">300 mg qd</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 14 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">30</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Boceprevir</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">800 mg tid x 6 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 16 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">NA</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 11%<br/>(2-20%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 20%<br/>(15-26%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">NA</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Telaprevir</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">750 mg q8h x 10 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 20 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">21</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 16%<br/>(7-24%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 7%<br/>(2-13%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 2%<br/>(↓ 6-↑ 2%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="2" stylecode="Toprule">Telaprevir, coadministered with tenofovir disoproxil fumarate (TDF)</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">1125 mg q8h x 7 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg efavirenz/300 mg TDF qd x 7 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">15</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 24%<br/>(15-32%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 18%<br/>(10-26%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 10%<br/>(↓ 19-↑ 1%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">1500 mg q12h x 7 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg efavirenz/300 mg TDF qd x 7 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">16</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 20%<br/>(14-26%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 15%<br/>(9-21%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 11%<br/>(4-18%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Azithromycin</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg single dose</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">400 mg qd x 7 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">14</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Clarithromycin</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">500 mg q12h x 7 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">400 mg qd x 7 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">12</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 11%<br/>(3-19%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Fluconazole</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">200 mg x<br/>7 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">400 mg qd x 7 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">10</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 16%<br/>(6-26%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 22%<br/>(5-41%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Itraconazole</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">200 mg q12h x 14 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 28 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">16</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Rifabutin</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">300 mg qd x 14 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 14 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">11</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 12%<br/>(↓ 24-↑ 1%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Rifampin</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg x<br/>7 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 7 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">12</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 20%<br/>(11-28%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 26%<br/>(15-36%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 32%<br/>(15-46%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Voriconazole</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">400 mg po q12h<br/>x
+1 day, then 200 mg po q12h<br/>x 8 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">400 mg qd x 9 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">NA</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 38%<sup>e</sup>
+</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 44%<sup>e</sup>
+</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">NA</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">   </td>
+<td align="left" colspan="1" rowspan="1" valign="top">300 mg po q12h days
+2-7</td>
+<td align="left" colspan="1" rowspan="1" valign="top">300 mg qd x 7 days</td>
+<td align="center" colspan="1" rowspan="1" valign="top">NA</td>
+<td align="center" colspan="1" rowspan="1" valign="top">↓ 14%<sup>f</sup>
+<br/>(7-21%)</td>
+<td align="center" colspan="1" rowspan="1" valign="top">↔<sup>f</sup>
+</td>
+<td align="center" colspan="1" rowspan="1" valign="top">NA</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">   </td>
+<td align="left" colspan="1" rowspan="1" valign="top">400 mg po q12h days
+2-7</td>
+<td align="left" colspan="1" rowspan="1" valign="top">300 mg qd x 7 days</td>
+<td align="center" colspan="1" rowspan="1" valign="top">NA</td>
+<td align="center" colspan="1" rowspan="1" valign="top">↔<sup>f</sup>
+</td>
+<td align="center" colspan="1" rowspan="1" valign="top">↑ 17%<sup>f</sup>
+<br/>(6-29%)</td>
+<td align="center" colspan="1" rowspan="1" valign="top">NA</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Atorvastatin</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">10 mg qd x<br/>4 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 15 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">14</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Pravastatin</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">40 mg qd x<br/>4 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 15 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">11</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Simvastatin</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">40 mg qd x<br/>4 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 15 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">14</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 12%<br/>(↓ 28-↑ 8%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 12%<br/>(↓ 25-↑ 3%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Aluminum hydroxide
+400 mg, magnesium hydroxide 400 mg, plus simethicone 40 mg</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">30 mL single dose</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">400 mg single dose</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">17</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">NA</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Carbamazepine</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">200 mg qd x 3 days,
+200 mg<br/>bid x 3 days, then 400 mg qd x 15 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 35 days	</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">14</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 21%<br/>(15-26%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 36%<br/>(32-40%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↓ 47%<br/>(41-53%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Cetirizine</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">10 mg single dose</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 10 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">11</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Diltiazem</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">240 mg x<br/>14 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 28 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">12</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 16%<br/>(6-26%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 11%<br/>(5-18%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↑ 13%<br/>(1-26%)</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Famotidine</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">40 mg single dose</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">400 mg single dose</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">17</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">NA</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">Paroxetine</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">20 mg qd x 14 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule">600 mg qd x 14 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">12</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule">↔</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule Botrule">Sertraline</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule Botrule">50 mg qd x
+14 days</td>
+<td align="left" colspan="1" rowspan="1" stylecode="Toprule Botrule">600 mg qd x 14 days</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule Botrule">13</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule Botrule">↑ 11%<br/>(6-16%)</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule Botrule">↔</td>
+<td align="center" colspan="1" rowspan="1" stylecode="Toprule Botrule">↔</td>
+</tr>
+</tbody>
+</table>

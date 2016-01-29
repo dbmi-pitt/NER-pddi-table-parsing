@@ -1,0 +1,36 @@
+<table border="1" frame="border" id="t4" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Monotherapy Study Median Incidence of CPS per 8 Weeks</caption>
+<col width="156px"></col>
+<col width="156px"></col>
+<col width="156px"></col>
+<col width="156px"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule">
+<content stylecode="bold">Treatment</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Number of Patients</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Baseline Incidence</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Randomized Phase Incidence</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule" valign="middle">High dose divalproex sodium delayed-release tablets</td>
+<td align="center" stylecode="Botrule" valign="middle">131</td>
+<td align="center" stylecode="Botrule" valign="middle">13.2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">10.7
+                                       </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule">Low dose divalproex sodium delayed-release tablets</td>
+<td align="center" stylecode="Botrule" valign="middle">134</td>
+<td align="center" stylecode="Botrule" valign="middle">14.2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">13.8</td>
+</tr>
+</tbody>
+</table>

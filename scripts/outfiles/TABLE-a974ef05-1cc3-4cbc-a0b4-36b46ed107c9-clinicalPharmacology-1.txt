@@ -1,0 +1,36 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Steady-state Pharmacokinetic Parameters Following Multiple Oral and I.V. Doses</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Toprule     " valign="top"> Parameters</td>
+<td stylecode="     Toprule     " valign="top"> 500 mg<br/>q12h, P.O.</td>
+<td stylecode="     Toprule     " valign="top"> 400 mg<br/>q12h, I.V.</td>
+<td stylecode="     Toprule     " valign="top"> 750 mg<br/>q12h, P.O.</td>
+<td valign="top"> 400 mg<br/>q8h, I.V.</td>
+</tr>
+<tr>
+<td valign="top"> AUC (mcg·hr/mL)</td>
+<td valign="top"> 13.7<footnote id="FOOT_3075">AUC<sub>0-12h</sub>
+</footnote>
+</td>
+<td valign="top"> 12.7<sup>*</sup>
+</td>
+<td valign="top"> 31.6<footnote id="FOOT_3076">AUC 24h=AUC<sub>0-12h</sub> x2</footnote>
+</td>
+<td valign="top"> 32.9<footnote id="FOOT_3077">AUC 24h=AUC<sub>0-8h</sub> x3</footnote>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="top"> C<sub>max</sub>(mcg/mL)</td>
+<td stylecode="     Botrule     " valign="top"> 2.97</td>
+<td stylecode="     Botrule     " valign="top"> 4.56</td>
+<td stylecode="     Botrule     " valign="top"> 3.59</td>
+<td stylecode="     Botrule     " valign="top"> 4.07</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,47 @@
+<table border="single" id="id_f8c76847-368b-4dda-8da4-ca6de948d44d" width="681" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_0dcfa4da-0518-4938-80fc-e1fd19558b2d">Table 5: Mean QT and QTc changes in msec (90% CI) from baseline relative to placebo at 1 hour post-dose with different methodologies to correct for the effect of heart rate</caption>
+<col width="26.6%"></col>
+<col width="22.6%"></col>
+<col width="25.0%"></col>
+<col width="25.8%"></col>
+<tbody>
+<tr id="id_f78c291a-abfb-4c70-9f83-5663d1af9fb1">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Drug/Dose</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">QT Uncorrected<br/>(msec) </content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Fridericia QT<br/>Correction (msec) </content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Individual QT<br/>Correction (msec) </content>
+</td>
+</tr>
+<tr id="id_c3ad13dd-c783-4011-9261-680dd0cdb672">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Vardenafil 10 mg</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-2 (-4, 0) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">8 (6, 9) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4 (3, 6) </td>
+</tr>
+<tr id="id_ef486481-9268-470e-a7db-206137832444">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Vardenafil 80 mg</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-2 (-4, 0) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">10 (8, 11) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">6 (4, 7) </td>
+</tr>
+<tr id="id_dbefbc68-d01b-468f-ba9f-5211326dd402">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Moxifloxacin* 400 mg</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top">3 (1, 5) </td>
+<td align="center" stylecode="Rrule" valign="top"> 8 (6, 9)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">7 (5, 8) </td>
+</tr>
+</tbody>
+</table>

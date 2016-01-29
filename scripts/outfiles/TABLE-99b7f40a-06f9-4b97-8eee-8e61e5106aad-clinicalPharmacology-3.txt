@@ -1,0 +1,117 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="33%"></col>
+<col width="33%"></col>
+<col width="33%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Quality Control Organism</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory Concentration (mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Disk Diffusion (Zone Diameter in mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Enterococcus faecalis</content> ATCC<sup>®</sup>129212</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>0.25/0.12 to 1/0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>N/A</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Escherichia coli</content>
+<br/>ATCC<sup>®</sup> 25922 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2/1 to 8/4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>18 to 24</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Escherichia coli</content>
+<br/>ATCC<sup>®</sup> 352181,2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>4/2 to 16/8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>17 to 22</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Haemophilusinfluenzae</content>
+</paragraph>
+<paragraph>ATCC 49247 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2/1 to 16/8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>15 to 23</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus</content>
+</paragraph>
+<paragraph>ATCC<sup>®</sup> 25923</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>N/A</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>28 to 36</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus </content>
+</paragraph>
+<paragraph>ATCC<sup>®</sup> 29213 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>0.12/0.06 to 0.5/0.25</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>N/A</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>
+<content stylecode="italics">Streptococcus </content>pneumonia </paragraph>
+<paragraph>ATCC 49619 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>0.03/0.015 to 0.12/0.06</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>N/A</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

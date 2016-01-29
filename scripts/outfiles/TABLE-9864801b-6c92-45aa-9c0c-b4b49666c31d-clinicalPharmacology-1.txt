@@ -1,0 +1,136 @@
+<table frame="void" id="id_020c24f9-20b5-45b6-982b-5267af89bd43" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col id="inv-416e406c-40d9-4d04-be0b-c899ee305396" width="156.00px"></col>
+<col id="inv-98692105-4a3c-4d5f-aa46-d4ac820691f7" width="152.00px"></col>
+<col id="inv-5422b752-1965-4f9f-b69f-c63e3c26dcf5" width="156.00px"></col>
+<col id="inv-74cacccb-b0ea-4c4a-8ab6-05af95cc8247" width="156.00px"></col>
+<tbody id="inv-81e0c52b-874e-45d9-b938-118567f6ee5c">
+<tr id="id_df618bf9-87d8-4b18-9e97-5c66148dcd08">
+<td id="inv-ea8b44e8-a010-42fb-9714-a08e1669eae4">
+<content stylecode="bold">Interacting Drug</content>
+</td>
+<td id="inv-bc18d641-5953-446c-88b2-81e113c7be07">
+<content stylecode="bold">Adult Doses Studied</content>
+</td>
+<td align="center" id="inv-99321651-391a-4ad9-abbb-4803b58b7a7d">
+<content stylecode="bold">% Increase in</content>
+<content stylecode="bold">C</content>
+<sub>max</sub>
+<content stylecode="bold">of</content>
+<content stylecode="bold">Oral Midazolam</content>
+</td>
+<td align="center" id="inv-e9c9ea38-8007-418b-bff4-282612dc22f0">
+<content stylecode="bold">% Increase in AUC of Oral Midazolam</content>
+</td>
+</tr>
+<tr id="id_1d1a0ffb-ba06-4019-8765-a250520f10f0">
+<td id="inv-8c86615f-5054-4bcd-ba92-3b1c561b74cd">
+Cimetidine</td>
+<td id="inv-59a51f45-ef7b-4cbf-87af-b0994eba5030">
+800-1200 mg up toqid in divided doses</td>
+<td align="center" id="inv-e049e006-0107-474a-a8fc-83ba9ae48537">
+6-138</td>
+<td align="center" id="inv-e4349e4b-1ca0-4486-852f-e02af4581d3f">
+10-102</td>
+</tr>
+<tr id="id_04ab014a-43fa-4eab-b024-068bb4743140">
+<td id="inv-118b8f08-b2a9-417a-b1d4-1be21a5ebb77">
+Diltiazem</td>
+<td id="inv-9be20c9a-d0ff-4fee-913e-205123b5a31d">
+60 mg tid</td>
+<td align="center" id="inv-4b79fa86-8ffd-499f-9b1f-8bf61eb1f3ab">
+105</td>
+<td align="center" id="inv-6dd762ef-d8e7-4cec-83f2-94575e8c0dc5">
+275</td>
+</tr>
+<tr id="id_8e2842dd-3a4f-4d97-87c9-e705fe49d254">
+<td id="inv-8c56ec7a-eceb-4620-bc1f-52a2d6dd1e16">
+Erythromycin</td>
+<td id="inv-c4fd19ef-63e9-44db-853c-eef36837781c">
+500 mg tid</td>
+<td align="center" id="inv-35138071-b9bb-424e-8b9c-ef00b6e1a30f">
+170-171</td>
+<td align="center" id="inv-fa33f808-f099-49e0-ae9f-dbc18706b22c">
+281-341</td>
+</tr>
+<tr id="id_4cd1d255-4ba8-4079-8907-f4ccef559c46">
+<td id="inv-6d06c2be-aa9b-4ab3-851a-fec9b30ca31e">
+Fluconazole</td>
+<td id="inv-13cd47f5-e60a-49a2-aa49-2b5411e877a2">
+200 mg qd</td>
+<td align="center" id="inv-c0263f10-97d0-404b-8652-4f5b9e13aaff">
+150</td>
+<td align="center" id="inv-3b2070f4-fd4c-4ccf-bbb5-de1ee6e1c3c6">
+250</td>
+</tr>
+<tr id="id_ed479eeb-51bd-4408-b7d0-01d000037b55">
+<td id="inv-fb86f3e5-dae9-4b55-be49-bea0273915b5">
+Grapefruit Juice</td>
+<td id="inv-27f9b0df-566f-403e-9775-ceefa73b8ec6">
+200 mL</td>
+<td align="center" id="inv-099ec1dd-8068-4894-9443-48ae63f0f816">
+56</td>
+<td align="center" id="inv-034b70ca-f96c-41ac-8808-a40bae484d1b">
+52</td>
+</tr>
+<tr id="id_4f101a28-9503-4eb0-913f-db992267f1cd">
+<td id="inv-18d83b22-e528-4f22-a99c-6d0cd117b065">
+Itraconazole</td>
+<td id="inv-9dff60e2-f130-4bae-9ca3-cf019cfe360d">
+100-200 mg qd</td>
+<td align="center" id="inv-c6c17755-a0d2-409b-be68-3c66bd5e77b8">
+80-240</td>
+<td align="center" id="inv-224bcf04-affc-4871-9eb4-b7477523ff98">
+240-980</td>
+</tr>
+<tr id="id_204c1c0d-9caf-4760-94c4-54e62e0bb1f2">
+<td id="inv-244c4a17-3b4f-4be5-a410-e18d8cd597cf">
+Ketoconazole</td>
+<td id="inv-f9b30ecf-e252-403b-a938-6564c8e3fd9c">
+400 mg qd</td>
+<td align="center" id="inv-dce1721c-18b4-4954-9e18-605840411c9d">
+309</td>
+<td align="center" id="inv-4e37aff4-8a25-4118-8e2e-db13b2165558">
+1490</td>
+</tr>
+<tr id="id_9ac5c978-eefb-4a05-a427-9c9705a31273">
+<td id="inv-f5845aeb-2ffa-491d-8a79-1163e6d51ed4">
+Ranitidine</td>
+<td id="inv-5fa46c12-fc29-4fa6-be5b-c093f1836ea8">
+150 mg bid or tid; 300 mg qd</td>
+<td align="center" id="inv-6b2c40f1-0add-44f7-8ed8-aec0d46a223c">
+15-67</td>
+<td align="center" id="inv-93e0deba-0049-4757-95f5-e7e05f17a346">
+9-66</td>
+</tr>
+<tr id="id_a98b436c-d36a-4ecf-99fb-34de037cb219">
+<td id="inv-dac98bfe-38e3-43b4-bd8e-011b8e2018d3">
+Roxithromycin</td>
+<td id="inv-67868b18-d08b-45ad-aad0-ec164ac38f60">
+300 mg qd</td>
+<td align="center" id="inv-d013982a-eeb0-4f23-9846-2b7808236ca7">
+37</td>
+<td align="center" id="inv-e989f787-8927-4039-a927-a4f447b3a84b">
+47</td>
+</tr>
+<tr id="id_b0522a2b-361f-4ea1-a4b5-a8d65c2c2f5a">
+<td id="inv-117656de-f34b-4518-b0dd-b7123828c58d">
+Saquinavir</td>
+<td id="inv-2da8a02e-6059-4b0c-90a1-7669ce2b9362">
+1200 mg tid</td>
+<td align="center" id="inv-b50026c0-a668-4885-801f-6682c6f5c969">
+235</td>
+<td align="center" id="inv-1d8947f5-8ca4-4326-af78-2019a0c65055">
+514</td>
+</tr>
+<tr id="id_9cc0fd7e-d057-4ba1-9d82-70e7b009f156">
+<td id="inv-7ca0b196-bfdb-4ab8-a525-3934e7965cc2">
+Verapamil</td>
+<td id="inv-7f7d1864-335b-4096-b991-34a4219a525d">
+80 mg tid</td>
+<td align="center" id="inv-51dac027-7de2-4055-a95e-99e41c1d8870">
+97</td>
+<td align="center" id="inv-eb494a9a-d038-45d1-bbfa-ae6178cc6d8d">
+192</td>
+</tr>
+</tbody>
+</table>

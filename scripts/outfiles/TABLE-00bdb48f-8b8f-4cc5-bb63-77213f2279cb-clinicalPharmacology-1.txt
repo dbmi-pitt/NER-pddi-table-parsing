@@ -1,0 +1,77 @@
+<table id="id_0dabf7cf-1ae9-4fa9-90a8-0a201518014f" rules="all" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="29.407%"></col>
+<col align="left" width="22.056%"></col>
+<col align="left" width="19.855%"></col>
+<col align="left" width="28.682%"></col>
+<thead>
+<tr id="id_9b80263f-7398-41b3-badb-37b01c74dedf" stylecode="Toprule">
+<td align="center" stylecode="Botrule Rrule" valign="bottom"></td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Ramipril</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Placebo</content>
+</td>
+<td align="center" stylecode="Lrule Botrule" valign="bottom">
+<content stylecode="bold">Relative</content>
+</td>
+</tr>
+<tr id="id_5dc77d03-f3ae-4ae0-877b-d661411da9fd">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Outcome</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(N=1808)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(N=1769)</content>
+</td>
+<td align="center" stylecode="Lrule Botrule" valign="top">
+<content stylecode="bold">Risk Reduction</content>
+</td>
+</tr>
+<tr id="id_5ac2db2a-0e9c-4292-9a73-2684fac7e4e1" stylecode="Botrule">
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">no. (%)</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">(95% CI)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_ea5cb41e-3523-4fc4-b885-2866fc77ea68" stylecode="Toprule">
+<td align="left" colspan="4" valign="top">
+<content stylecode="bold">Combined End-point</content>
+</td>
+</tr>
+<tr id="id_df39778c-3b57-4a88-a3fe-43001bcd899c">
+<td align="left" valign="top">(MI, stroke, or death from CV cause) </td>
+<td align="center" valign="top">277 (15.3%) </td>
+<td align="center" valign="top">351 (19.8%) </td>
+<td align="center" valign="top">0.25 (0.12–0.36), P=0.0004 </td>
+</tr>
+<tr id="id_d97023ce-f5a8-429d-b775-8b64d5f7cb64">
+<td align="left" colspan="4" valign="top">
+<content stylecode="bold">Component End-point</content>
+</td>
+</tr>
+<tr id="id_18225d7b-b15b-4150-b436-03cbd641d780">
+<td align="left" valign="top">Death from Cardiovascular Causes </td>
+<td align="center" valign="top">112 (6.2%) </td>
+<td align="center" valign="top">172 (9.7%) </td>
+<td align="center" valign="top">0.37 (0.21–0.51), P=0.0001 </td>
+</tr>
+<tr id="id_ab1f1c3e-b37c-4c03-8ce7-ff0808c451e2">
+<td align="left" valign="top">Myocardial infarction </td>
+<td align="center" valign="top">185 (10.2%) </td>
+<td align="center" valign="top">229 (12.9%) </td>
+<td align="center" valign="top">0.22 (0.06–0.36), P=0.01 </td>
+</tr>
+<tr id="id_419f1e13-cbb3-4726-b19a-fd04d284a974" stylecode="Botrule">
+<td align="left" valign="top">Stroke </td>
+<td align="center" valign="top">76 (4.2%) </td>
+<td align="center" valign="top">108 (6.1%) </td>
+<td align="center" valign="top">0.33 (0.10–0.50), P=0.007 </td>
+</tr>
+</tbody>
+</table>

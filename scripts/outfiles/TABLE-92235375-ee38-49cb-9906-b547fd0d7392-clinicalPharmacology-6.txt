@@ -1,0 +1,74 @@
+<table id="id_0d92d680-743c-4a82-aab0-df781e2b8737" width="432.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_6b51a638-ee59-4202-bf48-1ad60a546433">Table 1. Susceptibility Interpretive Criteria for Azithromycin</caption>
+<col align="left" width="27.8%"></col>
+<col align="center" width="12.0%"></col>
+<col align="center" width="12.0%"></col>
+<col align="center" width="12.0%"></col>
+<col align="center" width="12.0%"></col>
+<col align="center" width="12.0%"></col>
+<col align="center" width="12.0%"></col>
+<thead>
+<tr id="id_2e3ba099-4144-46c4-8347-768e70c91fdd" stylecode="Toprule">
+<td align="center" colspan="7" stylecode="Botrule" valign="top">Susceptibility Test Result Interpretive Criteria</td>
+</tr>
+<tr id="id_f5ef8300-9b11-4c90-9ad2-80fa9ebd8ad6">
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" colspan="3" stylecode="Botrule Rrule" valign="bottom">Minimum Inhibitory Concentrations (µg/mL)</td>
+<td align="left" colspan="3" stylecode="Botrule" valign="bottom">Disk Diffusion<br/>(zone diameters in mm)</td>
+</tr>
+<tr id="id_fd011d5d-7a0b-4a1e-b8b8-a54fb24359f8">
+<td align="center" stylecode="Botrule Rrule" valign="top">Pathogen</td>
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr id="id_e1c77fbd-b62d-4004-9fce-a01d753d73fb" stylecode="Botrule">
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top">S</td>
+<td align="left" stylecode="Rrule" valign="top">I</td>
+<td align="left" stylecode="Rrule" valign="top">R<footnote id="id-a30f6a92-e7cc-402f-9a16-bf4f68d53045">The current absence of data on resistant strains precludes defining any category other than "susceptible." If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">S</td>
+<td align="left" stylecode="Rrule" valign="top">I</td>
+<td align="left" valign="top">R<footnoteref idref="id-a30f6a92-e7cc-402f-9a16-bf4f68d53045"></footnoteref>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_849f9719-2c65-46ef-a8eb-b125ab9bfe94" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="italics">Haemophilus</content> spp.</td>
+<td align="left" stylecode="Toprule" valign="top">≤ 4</td>
+<td align="left" stylecode="Toprule" valign="top">--</td>
+<td align="left" stylecode="Toprule" valign="top">--</td>
+<td align="left" stylecode="Toprule" valign="top">≥ 12</td>
+<td align="left" stylecode="Toprule" valign="top">--</td>
+<td align="left" valign="top">--</td>
+</tr>
+<tr id="id_ef82c06d-feab-4fb0-bc0a-d180ddfea010">
+<td align="left" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="left" valign="top">≤ 2</td>
+<td align="left" valign="top">4</td>
+<td align="left" valign="top">≥ 8</td>
+<td align="left" valign="top">≥ 18</td>
+<td align="left" valign="top">14–17</td>
+<td align="left" valign="top">≤ 13</td>
+</tr>
+<tr id="id_be643e25-57d2-4cc5-98c0-358327625ba0" stylecode="Botrule">
+<td align="left" valign="top">Streptococci including <content stylecode="italics">S. pneumoniae</content>
+<footnote id="id-b7e6573e-a643-46d9-b071-37507b3714c7">Susceptibility of streptococci including <content stylecode="italics">S. pneumoniae</content> to azithromycin and other macrolides can be predicted by testing erythromycin.</footnote>
+</td>
+<td align="left" valign="top">≤ 0.5</td>
+<td align="left" valign="top">1</td>
+<td align="left" valign="top">≥ 2</td>
+<td align="left" valign="top">≥ 18</td>
+<td align="left" valign="top">14–17</td>
+<td align="left" valign="top">≤ 13</td>
+</tr>
+</tbody>
+</table>

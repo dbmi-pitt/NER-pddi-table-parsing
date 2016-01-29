@@ -1,0 +1,86 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Concentration of Ampicillin and Sulbactam for Injection in Various Body Tissues and Fluids</caption>
+<col width="27%"></col>
+<col width="24%"></col>
+<col width="24%"></col>
+<thead>
+<tr stylecode="Toprule">
+<th stylecode="Botrule ">
+<content stylecode="bold">Fluid or Tissue</content>
+</th>
+<th stylecode="Botrule ">
+<content stylecode="bold">Dose</content>
+<br/>
+<content stylecode="bold">(grams)</content>
+<br/>
+<content stylecode="bold">Ampicillin/</content>
+<content stylecode="bold">Sulbactam</content>
+</th>
+<th stylecode="Botrule ">
+<content stylecode="bold">Concentration</content>
+<br/>
+<content stylecode="bold">(mcg/mL or mcg/g)</content>
+<br/>
+<content stylecode="bold">Ampicillin/</content>
+<content stylecode="bold">Sulbactam</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom">
+<paragraph>Peritoneal Fluid</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>0.5/0.5 IV</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>7/14</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<paragraph>Blister Fluid (Cantharides)</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>0.5/0.5 IV</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>8/20</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<paragraph>Tissue Fluid</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>1/0.5 IV</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>8/4</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<paragraph>Intestinal Mucosa</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>0.5/0.5 IV</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>11/18</paragraph>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td valign="bottom">
+<paragraph>Appendix</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>2/1 IV</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>3/40</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

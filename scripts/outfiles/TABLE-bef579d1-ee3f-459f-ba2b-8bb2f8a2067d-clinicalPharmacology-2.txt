@@ -1,0 +1,43 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3 In vitro Susceptibility Interpretive Criteria for Clarithromycin and Amoxicillin</caption>
+<col align="center" valign="top" width="50%"></col>
+<col align="center" valign="top" width="50%"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="underline">Clarithromycin MIC (μg/mL)<footnote id="t3">These are breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.</footnote>
+</content>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≤ 0.25</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>0.5</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr stylecode="Botrule">
+<td>≥ 1.0</td>
+<td>Resistant (R)</td>
+</tr>
+<tr>
+<td>
+<content stylecode="underline">Amoxicillin MIC (μg/mL)</content>
+<footnoteref idref="t3"></footnoteref>
+<sup>,</sup>
+<footnote>There were not enough organisms with MICs &gt; 0.25 μg/mL to determine a resistance breakpoint.</footnote>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≤ 0.25</td>
+<td>Susceptible (S)</td>
+</tr>
+</tbody>
+</table>

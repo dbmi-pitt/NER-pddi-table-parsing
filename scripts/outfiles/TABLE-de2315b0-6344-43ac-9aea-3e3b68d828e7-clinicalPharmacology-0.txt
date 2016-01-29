@@ -1,0 +1,107 @@
+<table id="table5" stylecode="Noautorules" width="750" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5. Pharmacokinetic Parameters of ENVARSUS XR by Study Day in Healthy Subjects and Kidney Transplant Patients Under Fasted Conditions</caption>
+<col width="20%"></col>
+<col width="14%"></col>
+<col width="10%"></col>
+<col width="14%"></col>
+<col width="14%"></col>
+<col width="14%"></col>
+<col width="14%"></col>
+<tfoot>
+<tr>
+<td colspan="7">a) Healthy ault subjects (administered mg/day dose); Adult <content stylecode="italics">de novo</content> kidney transplant patients (group average of administered mg/day dose); Adult kidney ≥ 6 months post-transplant (group average of administered mg/day dose of ENVARSUS XR, following conversion to 67% to 80% of the daily tacrolimus immediate-release capsules dose)<br/>
+										b)	Day of ENVARSUS XR dosing and PK profiling<br/>
+										c)	Arithmetic means ± S.D.<br/>
+										d)	Median [range]<br/>
+										e)	“<content stylecode="italics">De novo</content>” refers to immunosuppression starting at the time of transplantation<br/>
+										f)	Starting ENVARSUS XR dose = 0.14 mg/kg/day<br/>
+										g) Starting ENVARSUS XR dose = 0.17 mg/kg/day. In <content stylecode="italics">de novo</content> kidney transplant patients who received  ENVARSUS XR starting dose of 0.17 mg/kg/day achieved higher than recommended target tacrolimus trough concentrations, as high as 57 ng/mL during the first 1 to 2 weeks post-transplant
+										h)	Tacrolimus trough concentration before the next dose<br/>
+										i)	After 7 days of stable dosing with ENVARSUS XR<br/>
+										j)	AUC<sub>0-24</sub> –to- C<sub>24</sub> correlation coefficient (r) at steady state was 0.80 or higher</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Lrule Toprule Rrule">
+<content stylecode="bold">Population</content>
+</td>
+<td align="center" rowspan="2" stylecode="Lrule Toprule Rrule">
+<content stylecode="bold">ENVARSUS<br/>XR Dose<sup>a</sup>
+</content>
+</td>
+<td align="center" rowspan="2" stylecode="Lrule Toprule Rrule">
+<content stylecode="bold">Day<sup>b</sup>
+</content>
+</td>
+<td align="center" colspan="4" stylecode="Lrule Botrule Rrule Toprule">
+<content stylecode="bold">Pharmacokinetic Parameters of ENVARSUS XR</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">
+<content stylecode="bold">C<sub>max</sub>
+<sup>c</sup>
+<br/>(ng/mL)</content>
+</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">
+<content stylecode="bold">T<sub>max</sub>
+<sup>d</sup>
+<br/>(hr)</content>
+</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">
+<content stylecode="bold">AUC<sub>24</sub>
+<sup>c</sup>
+<br/>(ng•hr/mL)</content>
+</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">
+<content stylecode="bold">C<sub>24</sub>
+<sup>h</sup>
+<br/>(ng/mL)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Toprule Rrule Botrule">Healthy Subjects<br/>(n=19)</td>
+<td stylecode="Lrule Toprule Rrule Botrule">2 mg<br/>2 mg</td>
+<td stylecode="Lrule Toprule Rrule Botrule">Day 1<br/>Day 10</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">11.9 ± 3.8<br/>8.3 ± 2.9</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">14.0 [6 - 28]<br/>8.0 [1.0-12.0]</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">50 ± 14<br/>140 ± 50</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">1.8 ± 0.6<br/>4.6 ± 1.7</td>
+</tr>
+<tr>
+<td stylecode="Lrule Toprule Rrule Botrule">Adult Kidney<br/>
+<content stylecode="italics">De novo</content>
+<sup>e</sup> (n=21)</td>
+<td stylecode="Lrule Toprule Rrule Botrule">11.8 mg <sup>f</sup>
+<br/>10 mg <br/>9.5 mg</td>
+<td stylecode="Lrule Toprule Rrule Botrule">Day 1<br/>Day 7<br/>Day 14</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">11.8 ± 7.2<br/>25.1 ± 16.3<br/>27.1 ± 13.4</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">8.0 [4-24]<br/>6.0 [2-12]<br/>4.0 [1-8]</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">138 ± 80<br/>335 ± 129<br/>371 ± 104</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">5.2 ± 2.7<br/>9.9 ± 4.4<br/>11.4 ± 4.1<sup>j</sup>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Toprule Rrule Botrule">Adult Kidney<br/>
+<content stylecode="italics">De novo</content> (n=10)</td>
+<td stylecode="Lrule Toprule Rrule Botrule">15.5 mg <sup>g</sup>
+<br/>11.4 mg <br/>11.1 mg</td>
+<td stylecode="Lrule Toprule Rrule Botrule">Day 1<br/>Day 14<br/>Day 28</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">33.6 ± 21.8<br/>31.1 ± 14.6<br/>35.9± 18.7</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">6.0 [4-24]<br/>4.0 [1-18]<br/>4.0 [1-14]</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">377 ± 257<br/>376 ± 140<br/>396 ± 150</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">11.0 ± 6.1<br/>9.1 ± 3.0<br/>10.5 ± 3.2</td>
+</tr>
+<tr>
+<td stylecode="Lrule Toprule Rrule Botrule">Adult Kidney <br/>(≥ 6 months post-<br/>transplant) (n=47)</td>
+<td stylecode="Lrule Toprule Rrule Botrule">5.3 mg</td>
+<td stylecode="Lrule Toprule Rrule Botrule">Day 7<sup>i</sup>
+</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">13.5 ± 4.8</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">6.0 [1 - 16]</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">216 ± 63</td>
+<td align="center" stylecode="Lrule Toprule Rrule Botrule">7.0 ± 2.3</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,61 @@
+<table id="id_f26cb0ec-c63b-42f2-b19e-ea7cd1eedbc9" rules="none" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_d52004db-a95e-4ca1-99b5-07071164111a" stylecode="Toprule">
+<td align="left" valign="top">
+<paragraph>Clarithromycin MIC (mcg/mL)<footnote id="id-402d5cee-63a6-46fe-a34c-e57083a02760">These are breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.</footnote>
+</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Interpretation</paragraph>
+</td>
+</tr>
+<tr id="id_644e0b7d-71ae-46ab-babf-961d49ab1f0e">
+<td align="left" valign="top">
+<paragraph>≤ 0.25</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr id="id_5755c75b-3991-4176-9f18-7eeeded42f06">
+<td align="left" valign="top">
+<paragraph>0.5 </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr id="id_94b30b16-420c-44d9-b840-75f97abc83c8">
+<td align="left" valign="top">
+<paragraph>≥1.0</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+<tr id="id_01b94a3d-26b3-42b8-9aa8-dd77655db3f8">
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_8cc049aa-8918-438e-a0f5-76b148376a17">
+<td align="left" valign="top">
+<paragraph>Amoxicillin MIC (mcg/mL)<footnoteref idref="id-402d5cee-63a6-46fe-a34c-e57083a02760"></footnoteref>
+<footnote id="id-6a70ab90-10d5-424c-bf9e-27a1223fc770">There were not enough organisms with MICs &gt; 0.25 mcg/mL to determine a resistance breakpoint.</footnote>
+</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Interpretation</paragraph>
+</td>
+</tr>
+<tr id="id_60fbf0c0-b4ab-40a2-afc1-5da2c883e0af" stylecode="Botrule">
+<td align="left" valign="top">
+<paragraph>≤ 0.25 </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

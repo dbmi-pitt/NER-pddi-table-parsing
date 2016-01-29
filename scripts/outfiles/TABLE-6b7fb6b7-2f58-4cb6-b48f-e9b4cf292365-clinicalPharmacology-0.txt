@@ -1,0 +1,53 @@
+<table id="id_3bf830f7-7498-4f5c-88fd-18ab46327360" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_3e14f564-cd07-4b80-8dff-7ec60bdb5d93">Table 1. Pharmacokinetic Parameters for Diclofenac</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_adb90412-bf37-45f9-8b7a-7fd592eae5f8" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="bold">PK Parameter</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">Normal Healthy Adults (20-48 yrs.)</td>
+</tr>
+<tr id="id_67d33d57-1e4e-43b0-ab3c-a235d598c2b5" stylecode="Botrule">
+<td align="left" valign="top"></td>
+<td align="center" valign="top">Mean</td>
+<td align="center" valign="top">
+<content stylecode="bold">Coefficient of Variation (%)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_15aed757-ae32-4b9a-b94a-a90992533a23" stylecode="Toprule">
+<td align="left" valign="top">Absolute  Bioavailability (%) [N = 7]</td>
+<td align="center" stylecode="Toprule" valign="top">55</td>
+<td align="center" valign="top">40</td>
+</tr>
+<tr id="id_9d4cc570-82ed-4e69-af6b-a1d54ca0b245">
+<td align="left" valign="top">Tmax (hr) [N = 56]</td>
+<td align="center" valign="top">2.3</td>
+<td align="center" valign="top">69</td>
+</tr>
+<tr id="id_48632680-1986-4a92-ab54-6261e60ae701">
+<td align="left" valign="top">Oral Clearance (CL/F; mL/min) [N = 56]</td>
+<td align="center" valign="top">582</td>
+<td align="center" valign="top">23</td>
+</tr>
+<tr id="id_dbacf5a9-2656-44ae-be39-b6dee69ca843">
+<td align="left" valign="top">Renal Clearance (% unchanged drug in urine) [N = 7]</td>
+<td align="center" valign="top">&lt;1</td>
+<td align="center" valign="top">--</td>
+</tr>
+<tr id="id_b033d37d-f41b-4d72-b36a-fd413fd3a7d1">
+<td align="left" valign="top">Apparent Volume of Distribution (V/F; L/kg) [N = 56]</td>
+<td align="center" valign="top">1.4</td>
+<td align="center" valign="top">58</td>
+</tr>
+<tr id="id_33be8b56-55fa-41da-8c4f-1d7198482e09" stylecode="Botrule">
+<td align="left" valign="top">Terminal Half-life (hr)[N = 56]</td>
+<td align="center" valign="top">2.3</td>
+<td align="center" valign="top">48</td>
+</tr>
+</tbody>
+</table>

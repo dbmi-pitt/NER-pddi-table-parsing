@@ -1,0 +1,177 @@
+<table id="id_a8bd6eea-044c-44d0-a50f-fe075e5c7c14" width="429.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_3301980a-9fbf-4861-970f-0bf8cc084929">Table 1. Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Azithromycin </caption>
+<col align="left" width="10.0%"></col>
+<col align="left" width="17.9%"></col>
+<col align="left" width="17.9%"></col>
+<col align="center" width="6.1%"></col>
+<col align="center" width="24.0%"></col>
+<col align="center" width="24.0%"></col>
+<thead>
+<tr id="id_38700597-1325-4dbe-9aa1-5c8756886e6c" stylecode="Toprule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">Co-administered Drug</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Dose of Co-administered Drug</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Dose of Azithromycin</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">n</td>
+<td align="left" colspan="2" stylecode="Botrule Rrule" valign="top">Ratio (with/without azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00</td>
+</tr>
+<tr id="id_f5487cf7-b290-4f29-ad77-1f09bf222bcd" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top">Mean C<sub>max</sub>
+</td>
+<td align="left" stylecode="Rrule" valign="top">Mean AUC</td>
+</tr>
+</thead>
+<tfoot id="id_7544b409-b82d-451b-bdf8-e688f60b720a">
+<tr>
+<td align="left" colspan="6" stylecode="Lrule Rrule" valign="top">NA - Not Available</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Lrule Rrule" valign="top">Mean rifabutin concentrations one-half day after the last dose of rifabutin were 60 ng/mL when co-administered with azithromycin and 71 ng/mL when co-administered with placebo.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_2fa505e0-6928-4781-acac-cee23b087de3" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Atorvastatin</td>
+<td align="left" stylecode="Rrule" valign="top">10 mg/day × 8 days</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg/day PO on days 6–8</td>
+<td align="left" stylecode="Rrule" valign="top">12</td>
+<td align="left" stylecode="Rrule" valign="top">0.83<br/>(0.63 to 1.08)</td>
+<td align="left" stylecode="Rrule" valign="top">1.01<br/>(0.81 to 1.25)</td>
+</tr>
+<tr id="id_61a573a1-cc6b-4378-9cd6-003c3d24210a">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Carbamazepine</td>
+<td align="left" stylecode="Rrule" valign="top">200 mg/day × 2 days, then 200 mg BID × 18 days</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg/day PO for days 16–18</td>
+<td align="left" stylecode="Rrule" valign="top">7</td>
+<td align="left" stylecode="Rrule" valign="top">0.97<br/> (0.88 to 1.06)</td>
+<td align="left" stylecode="Rrule" valign="top">0.96<br/> (0.88 to 1.06)</td>
+</tr>
+<tr id="id_b7c63a24-1921-4d5b-a13d-159e77fc80fe">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Cetirizine</td>
+<td align="left" stylecode="Rrule" valign="top">20 mg/day × 11 days</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg PO on day 7, then 250 mg/day on days 8–11</td>
+<td align="left" stylecode="Rrule" valign="top">14</td>
+<td align="left" stylecode="Rrule" valign="top">1.03<br/> (0.93 to 1.14)</td>
+<td align="left" stylecode="Rrule" valign="top">1.02<br/> (0.92 to 1.13)</td>
+</tr>
+<tr id="id_89ccf2b2-52a9-49a0-945f-41a7d4e821e4">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Didanosine</td>
+<td align="left" stylecode="Rrule" valign="top">200 mg PO BID  × 21 days</td>
+<td align="left" stylecode="Rrule" valign="top">1,200 mg/day PO on days 8–21</td>
+<td align="left" stylecode="Rrule" valign="top">6</td>
+<td align="left" stylecode="Rrule" valign="top">1.44<br/> (0.85 to 2.43)</td>
+<td align="left" stylecode="Rrule" valign="top">1.14<br/> (0.83 to 1.57)</td>
+</tr>
+<tr id="id_a266da9b-de3d-4608-9e16-431c3fd93841">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Efavirenz</td>
+<td align="left" stylecode="Rrule" valign="top">400 mg/day × 7 days </td>
+<td align="left" stylecode="Rrule" valign="top">600 mg PO on day 7</td>
+<td align="left" stylecode="Rrule" valign="top">14</td>
+<td align="left" stylecode="Rrule" valign="top">1.04<footnote id="id-27e67f2d-c210-4c42-8092-6a8de808db42">- 90% Confidence interval not reported</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">0.95<footnoteref idref="id-27e67f2d-c210-4c42-8092-6a8de808db42"></footnoteref>
+</td>
+</tr>
+<tr id="id_ae49f3f9-52d6-4f32-b113-59087fb48b1e">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Fluconazole</td>
+<td align="left" stylecode="Rrule" valign="top">200 mg PO single dose </td>
+<td align="left" stylecode="Rrule" valign="top">1,200 mg PO single dose</td>
+<td align="left" stylecode="Rrule" valign="top">18</td>
+<td align="left" stylecode="Rrule" valign="top">1.04<br/> (0.98 to 1.11)</td>
+<td align="left" stylecode="Rrule" valign="top">1.01<br/> (0.97 to 1.05)</td>
+</tr>
+<tr id="id_25df5b5b-328f-4110-9c38-e5a7a75dc2ef">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Indinavir</td>
+<td align="left" stylecode="Rrule" valign="top">800 mg TID × 5 days</td>
+<td align="left" stylecode="Rrule" valign="top">1,200 mg PO on day 5</td>
+<td align="left" stylecode="Rrule" valign="top">18</td>
+<td align="left" stylecode="Rrule" valign="top">0.96<br/> (0.86 to 1.08)</td>
+<td align="left" stylecode="Rrule" valign="top">0.90<br/> (0.81 to 1.00)</td>
+</tr>
+<tr id="id_9c595f94-54a9-4382-8791-3d86966918da">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Midazolam</td>
+<td align="left" stylecode="Rrule" valign="top">15 mg PO on day 3</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg/day PO × 3 days</td>
+<td align="left" stylecode="Rrule" valign="top">12</td>
+<td align="left" stylecode="Rrule" valign="top">1.27<br/> (0.89 to 1.81)</td>
+<td align="left" stylecode="Rrule" valign="top">1.26<br/> (1.01 to 1.56)</td>
+</tr>
+<tr id="id_dba04018-ca8c-4000-ab17-baae7d82f61d">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Nelfinavir</td>
+<td align="left" stylecode="Rrule" valign="top">750 mg TID × 11 days</td>
+<td align="left" stylecode="Rrule" valign="top">1,200 mg PO on day 9</td>
+<td align="left" stylecode="Rrule" valign="top">14</td>
+<td align="left" stylecode="Rrule" valign="top">0.90<br/> (0.81 to 1.01)</td>
+<td align="left" stylecode="Rrule" valign="top">0.85<br/> (0.78 to 0.93)</td>
+</tr>
+<tr id="id_aa4178c7-a8b7-432d-a8f7-c3a9036601e9">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Rifabutin</td>
+<td align="left" stylecode="Rrule" valign="top">300 mg/day × 10 days</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg PO on day 1, then 250 mg/day on days 2–10</td>
+<td align="left" stylecode="Rrule" valign="top">6</td>
+<td align="left" stylecode="Rrule" valign="top">See footnote below</td>
+<td align="left" stylecode="Rrule" valign="top">NA</td>
+</tr>
+<tr id="id_4b3814a7-5d7e-42a4-bf5a-1c690b8d66df">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Sildenafil</td>
+<td align="left" stylecode="Rrule" valign="top">100 mg on days 1 and 4</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg/day PO × 3 days</td>
+<td align="left" stylecode="Rrule" valign="top">12</td>
+<td align="left" stylecode="Rrule" valign="top">1.16<br/> (0.86 to 1.57)</td>
+<td align="left" stylecode="Rrule" valign="top">0.92<br/> (0.75 to 1.12)</td>
+</tr>
+<tr id="id_39dfe5e4-5215-440f-bd1c-82ad50e2b90a">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Theophylline</td>
+<td align="left" stylecode="Rrule" valign="top">4 mg/kg IV on days 1, 11, 25</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg PO on day 7, 250 mg/day on days 8–11</td>
+<td align="left" stylecode="Rrule" valign="top">10</td>
+<td align="left" stylecode="Rrule" valign="top">1.19<br/> (1.02 to 1.40)</td>
+<td align="left" stylecode="Rrule" valign="top">1.02<br/> (0.86 to 1.22)</td>
+</tr>
+<tr id="id_fcf4e146-08e9-4eaa-8f89-a0f215cd1ceb">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Theophylline</td>
+<td align="left" stylecode="Rrule" valign="top">300 mg PO BID ×<br/> 15 days</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg PO on day 6, then 250 mg/day on days 7–10</td>
+<td align="left" stylecode="Rrule" valign="top">8</td>
+<td align="left" stylecode="Rrule" valign="top">1.09<br/> (0.92 to 1.29)</td>
+<td align="left" stylecode="Rrule" valign="top">1.08<br/> (0.89 to 1.31)</td>
+</tr>
+<tr id="id_bd625d5f-29b6-4682-844a-71e581ead644">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Triazolam</td>
+<td align="left" stylecode="Rrule" valign="top">0.125 mg on day 2</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg PO on day 1, then 250 mg/day on day 2</td>
+<td align="left" stylecode="Rrule" valign="top">12</td>
+<td align="left" stylecode="Rrule" valign="top">1.06<footnoteref idref="id-27e67f2d-c210-4c42-8092-6a8de808db42"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">1.02<footnoteref idref="id-27e67f2d-c210-4c42-8092-6a8de808db42"></footnoteref>
+</td>
+</tr>
+<tr id="id_fdaa1d0b-b519-4a72-8352-d8444b0d4c22">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Trimethoprim/Sulfamethoxazole</td>
+<td align="left" stylecode="Rrule" valign="top">160 mg/800 mg/day PO × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">1,200 mg PO on day 7</td>
+<td align="left" stylecode="Rrule" valign="top">12</td>
+<td align="left" stylecode="Rrule" valign="top">0.85<br/> (0.75 to 0.97)/<br/> 0.90<br/> (0.78 to 1.03)</td>
+<td align="left" stylecode="Rrule" valign="top">0.87<br/> (0.80 to 0.95/<br/> 0.96<br/> (0.88 to 1.03)</td>
+</tr>
+<tr id="id_f0cbe018-f61f-4e12-a04e-420922a176e9">
+<td align="left" stylecode="Lrule Rrule" valign="top">Zidovudine</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg/day PO × 21 days</td>
+<td align="left" stylecode="Rrule" valign="top">600 mg/day PO × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">5</td>
+<td align="left" stylecode="Rrule" valign="top">1.12<br/> (0.42 to 3.02)</td>
+<td align="left" stylecode="Rrule" valign="top">0.94<br/> (0.52 to 1.70)</td>
+</tr>
+<tr id="id_5d1fd940-5aa0-4fee-8eff-f8cf58770647">
+<td align="left" stylecode="Lrule Rrule" valign="top"> Zidovudine</td>
+<td align="left" stylecode="Rrule" valign="top">500 mg/day PO × 21 days</td>
+<td align="left" stylecode="Rrule" valign="top">1,200 mg/day PO × 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">4</td>
+<td align="left" stylecode="Rrule" valign="top">1.31<br/> (0.43 to 3.97)</td>
+<td align="left" stylecode="Rrule" valign="top">1.30<br/> (0.69 to 2.43)</td>
+</tr>
+</tbody>
+</table>

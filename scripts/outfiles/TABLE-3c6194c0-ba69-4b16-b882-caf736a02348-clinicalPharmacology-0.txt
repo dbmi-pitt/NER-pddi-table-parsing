@@ -1,0 +1,41 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5  Mean Pharmacokinetic Parameters of Penciclovir in Healthy Adult Subjects*</caption>
+<col width="95"></col>
+<col width="246"></col>
+<col width="242"></col>
+<col width="132"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule " valign="bottom">Dose</td>
+<td align="center" stylecode="Toprule " valign="bottom">AUC (0-inf)<sup>†</sup> (mcg hr/mL)</td>
+<td align="center" stylecode="Toprule " valign="bottom">C<sub>max</sub>
+<sup>‡</sup> (mcg/mL)</td>
+<td align="center" stylecode="Toprule " valign="bottom">t<sub>max</sub>
+<sup>§</sup> (h)</td>
+</tr>
+<tr>
+<td align="center" stylecode="Toprule ">125 mg</td>
+<td align="center" stylecode="Toprule " valign="bottom">2.24</td>
+<td align="center" stylecode="Toprule " valign="bottom">0.8</td>
+<td align="center" stylecode="Toprule " valign="bottom">0.9</td>
+</tr>
+<tr>
+<td align="center">250 mg</td>
+<td align="center" valign="bottom">4.48</td>
+<td align="center" valign="bottom">1.6</td>
+<td align="center" valign="bottom">0.9</td>
+</tr>
+<tr>
+<td align="center">500 mg</td>
+<td align="center" valign="bottom">8.95</td>
+<td align="center" valign="bottom">3.3</td>
+<td align="center" valign="bottom">0.9</td>
+</tr>
+<tr>
+<td align="center">1000 mg</td>
+<td align="center" valign="bottom">17.9</td>
+<td align="center" valign="bottom">6.6</td>
+<td align="center" valign="bottom">0.9</td>
+</tr>
+</tbody>
+</table>

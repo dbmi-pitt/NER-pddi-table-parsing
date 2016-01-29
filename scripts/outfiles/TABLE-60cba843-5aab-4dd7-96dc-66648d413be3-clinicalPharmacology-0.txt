@@ -1,0 +1,40 @@
+<table id="table3" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Pharmacokinetic Parameters in Patients 7.7 to 27 Years of Age</caption>
+<col align="left" valign="middle" width="34%"></col>
+<col align="center" valign="middle" width="33%"></col>
+<col align="center" valign="middle" width="33%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Lrule Rrule" valign="bottom">Pharmacokinetic Parameter</th>
+<th stylecode="Rrule" valign="bottom">Week 1<br/>Mean (SD)</th>
+<th stylecode="Rrule" valign="bottom">Week 27<br/>Mean (SD)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">    C<sub>max</sub> (mcg/mL)</td>
+<td stylecode="Rrule">1.5 (0.6)</td>
+<td stylecode="Rrule">1.1 (0.3)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">    AUC (min•mcg/mL)</td>
+<td stylecode="Rrule">206 (87)</td>
+<td stylecode="Rrule">169 (55)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">    t<sub>1/2</sub> (min)</td>
+<td stylecode="Rrule">44 (19)</td>
+<td stylecode="Rrule">48 (21)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">    CL (mL/min/kg)</td>
+<td stylecode="Rrule">3.0 (1.2)</td>
+<td stylecode="Rrule">3.4 (1.0)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">    V<sub>ss</sub> (mL/kg)</td>
+<td stylecode="Rrule">213 (82)</td>
+<td stylecode="Rrule">254 (87)</td>
+</tr>
+</tbody>
+</table>

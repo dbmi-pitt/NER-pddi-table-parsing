@@ -1,0 +1,28 @@
+<table id="i5efebdcc-f83f-4008-80c4-ffed77507132" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8</caption>
+<col align="center" valign="top" width="34%"></col>
+<col align="center" valign="top" width="33%"></col>
+<col align="center" valign="top" width="33%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Microorganism</th>
+<th stylecode="Rrule">Antimicrobial Agent</th>
+<th stylecode="Rrule">MIC (mcg/mL)<footnote>These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods.</footnote>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">H. pylori</content> ATCC 43504</td>
+<td stylecode="Rrule">Clarithromycin</td>
+<td stylecode="Rrule">0.015-0.12</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">H. pylori</content> ATCC 43504</td>
+<td stylecode="Rrule">Amoxicillin</td>
+<td stylecode="Rrule">0.015-0.12</td>
+</tr>
+</tbody>
+</table>

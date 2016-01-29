@@ -1,0 +1,183 @@
+<table id="ID120" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Susceptibility Test Interpretive Criteria for Cefuroxime Axetil</caption>
+<col width="26%"></col>
+<col width="12%"></col>
+<col width="14%"></col>
+<col width="11%"></col>
+<col width="12%"></col>
+<col width="14%"></col>
+<col width="11%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Pathogen</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="3" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Minimum </content>
+<content stylecode="bold">Inhibitory </content>
+<content stylecode="bold">Concentrations </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mcg</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">mL</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="3" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Disk </content>
+<content stylecode="bold">Diffusion </content>
+<content stylecode="bold">Zone </content>
+<content stylecode="bold">Diameters </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mm</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">(</content>
+<content stylecode="bold">S</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">Susceptible</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">(</content>
+<content stylecode="bold">I</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">Intermediate</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">(</content>
+<content stylecode="bold">R</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">Resistant</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">(</content>
+<content stylecode="bold">S</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">Susceptible</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">(</content>
+<content stylecode="bold">I</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">Intermediate</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">(</content>
+<content stylecode="bold">R</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">Resistant</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Enterobacteriaceae<footnote id="ID120_1">For Enterobacteriaceae, Haemophilus spp., and Moraxella catarrhalis, susceptibility interpretive criteria are based on a dose of 500 mg every 12 hours in patients with normal renal function.</footnote>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≤4<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">8 to 16<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≥32<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≥23<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">15 to 22<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≤14<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Haemophilus </content>
+<content stylecode="italics">spp</content>.<footnoteref idref="ID120_1"></footnoteref>
+<sup>,</sup>
+<footnote id="ID120_3">Haemophilus spp. includes only isolates of H. influenzae and H. parainfluenzae.</footnote>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≤4<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">8<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≥16<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≥20<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">17 to 19<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≤16<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Moraxella </content>catarrhalis<footnoteref idref="ID120_1"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≤4<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">8<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≥16<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Streptococcus </content>
+<content stylecode="italics">pneumoniae </content>
+<content stylecode="italics">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≤1<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">2<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≥4<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-<br/>
+</td>
+</tr>
+</tbody>
+</table>

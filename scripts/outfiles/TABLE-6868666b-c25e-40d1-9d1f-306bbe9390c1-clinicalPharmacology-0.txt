@@ -1,0 +1,85 @@
+<table width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5: Effect of Co−Administered  Drugs on Systemic Exposures of Canagliflozin</caption>
+<col align="left" valign="middle" width="22%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">Co-Administered Drug</th>
+<th rowspan="2" stylecode="Rrule">Dose of Co-Administered  Drug<footnote id="t5f1">Single dose unless otherwise noted</footnote>
+</th>
+<th rowspan="2" stylecode="Rrule">Dose of  Canagliflozin<footnoteref idref="t5f1"></footnoteref>
+</th>
+<th colspan="3" stylecode="Rrule">Geometric Mean  Ratio <br/>(Ratio  With/Without Co-Administered Drug)<br/>No Effect = 1.0</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">AUC<footnote id="t5f2">AUC<sub>inf</sub> for drugs given as a single dose and AUC<sub>24h</sub> for drugs given as multiple doses</footnote>
+<br/>(90% CI)</th>
+<th stylecode="Rrule">C<sub>max</sub>
+<br/>(90% CI)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="5" valign="top">QD = once daily; BID = twice daily</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="5" stylecode="Lrule Rrule">
+<content stylecode="bold italics">See <linkhtml href="#S7.2">Drug Interactions  (7.2)</linkhtml>
+</content>
+<content stylecode="bold"> for the clinical relevance of the  following:</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifampin</td>
+<td stylecode="Rrule">600 mg QD for 8 days</td>
+<td stylecode="Rrule">300 mg</td>
+<td stylecode="Rrule">0.49<br/>(0.44; 0.54)</td>
+<td stylecode="Rrule">0.72<br/>(0.61; 0.84)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="5" stylecode="Lrule Rrule">
+<content stylecode="bold">No dose adjustments of canagliflozin required for the  following:</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Cyclosporine</td>
+<td stylecode="Rrule">400 mg</td>
+<td stylecode="Rrule">300 mg QD for 8 days</td>
+<td stylecode="Rrule">1.23<br/>(1.19; 1.27)</td>
+<td stylecode="Rrule">1.01<br/>(0.91; 1.11)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ethinyl estradiol and levonorgestrel</td>
+<td stylecode="Rrule">0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel</td>
+<td stylecode="Rrule">200 mg QD for 6 days</td>
+<td stylecode="Rrule">0.91<br/>(0.88; 0.94)</td>
+<td stylecode="Rrule">0.92<br/>(0.84; 0.99)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Hydrochlorothiazide</td>
+<td stylecode="Rrule">25 mg QD for 35 days</td>
+<td stylecode="Rrule">300 mg QD for 7 days</td>
+<td stylecode="Rrule">1.12<br/>(1.08; 1.17)</td>
+<td stylecode="Rrule">1.15<br/>(1.06; 1.25)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Metformin</td>
+<td stylecode="Rrule">2,000 mg</td>
+<td stylecode="Rrule">300 mg QD for 8 days</td>
+<td stylecode="Rrule">1.10<br/>(1.05; 1.15)</td>
+<td stylecode="Rrule">1.05<br/>(0.96; 1.16)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Probenecid</td>
+<td stylecode="Rrule">500 mg BID for 3 days</td>
+<td stylecode="Rrule">300 mg QD for 17 days</td>
+<td stylecode="Rrule">1.21<br/>(1.16; 1.25)</td>
+<td stylecode="Rrule">1.13<br/>(1.00; 1.28)</td>
+</tr>
+</tbody>
+</table>

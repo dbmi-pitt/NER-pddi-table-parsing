@@ -1,0 +1,125 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9: Results of Drug Interaction Studies with Didanosine Delayed-Release Capsules: Effects of Coadministered Drug on Didanosine Plasma AUC and C<sub>max </sub>Values 
+			</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th align="center" rowspan="2" stylecode="Lrule Rrule Toprule">
+<br/>Drug</th>
+<th align="center" rowspan="2" stylecode="Lrule Rrule Toprule">Didanosine Dosage </th>
+<th align="center" rowspan="2" stylecode="Lrule Rrule Toprule">
+<br/>      n       </th>
+<th align="center" colspan="2" stylecode="Lrule Rrule Toprule">% Change of Didanosine <br/>Pharmacokinetic Parameters<sup>a</sup>
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="Lrule Rrule Toprule">AUC of<br/>Didanosine<br/>(90% CI)</th>
+<th align="center" stylecode="Lrule Rrule Toprule">C<sub>max</sub> of<br/>Didanosine<br/>(90% CI)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="5">↑ Indicates increase.<br/>↓ Indicates decrease.<br/>↔ Indicates no change, or mean increase or decrease of less than 10%.<br/>
+<sup>a</sup> The 90% confidence intervals for the percent change in the pharmacokinetic parameter are displayed.<br/>
+<sup>b</sup> All studies conducted in healthy volunteers at least 60 kg with creatinine clearance of at least 60 mL/min.<br/>
+<sup>c</sup> Tenofovir disoproxil fumarate.<br/>
+<sup>d </sup>373 kcalories, 8.2 grams fat.<br/>
+<sup>e </sup>Compared with didanosine delayed-release capsules 250 mg administered alone under fasting conditions.<br/>
+<sup>f</sup> Compared with didanosine delayed-release capsules 400 mg administered alone under fasting conditions.<br/>
+<sup>g</sup> Comparisons are made to historical controls (n=148, pooled from 5 studies) conducted in healthy subjects. The number of subjects evaluated for AUC and C<sub>max</sub> is 15 and 16, respectively.<br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">   tenofovir,</content>
+<sup>b,c</sup> 300 mg<br/>      once daily with a light meal<sup>d</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">400 mg single dose<br/>fasting 2 hours<br/>before tenofovir<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">26<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑ 48%<br/>(31, 67%)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑ 48%<br/>(25, 76%)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">   tenofovir,</content>
+<sup>b,c</sup> 300 mg<br/>      once daily with a light meal<sup>d</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">400 mg single dose<br/>with tenofovir and a<br/>light meal<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">25<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑ 60%<br/>(44, 79%)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑ 64%<br/>(41, 89%)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">   tenofovir,</content>
+<sup>b,c</sup> 300 mg<br/>      once daily with a light meal<sup>d</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg single dose<br/>with tenofovir and<br/>a light meal<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">33<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑ 16%<br/>(6, 27%)<sup>e</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓ 12%<br/>(-25, 3%)<sup>e</sup>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule" valign="top"> <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">250 mg single dose<br/>with tenofovir and a<br/>light meal<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">33<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>(-13, 5%)<sup>f</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓ 20%<br/>(-32, -7%)<sup>f</sup>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">325 mg single dose<br/>with tenofovir and a<br/>light meal<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">33<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑ 13%<br/>(3, 24%)<sup>f</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓ 11%<br/>(-24, 4%)<sup>f</sup>
+<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">   methadone,</content> chronic<br/>      maintenance dose<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">400 mg single dose<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">15, 16<sup>g</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓ 17%<br/>(-29, -2%)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓ 16%<br/>(-33, 4%)<br/>
+</td>
+</tr>
+</tbody>
+</table>

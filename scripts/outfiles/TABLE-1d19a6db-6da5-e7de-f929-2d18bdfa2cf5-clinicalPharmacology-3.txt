@@ -1,0 +1,29 @@
+<table width="60%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>For
+testing Neisseria gonorrhoeae:<footnote>These interpretive standards are applicable
+only to agar dilution tests using GC agar base and 1% defined growth supplement
+incubated in 5% CO<sub>2</sub>.</footnote>
+</caption>
+<col align="left" width="30%"></col>
+<col align="left" width="30%"></col>
+<thead>
+<tr>
+<th>MIC (µg/mL)</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>≤ 0.25</td>
+<td>Susceptible (S) </td>
+</tr>
+<tr>
+<td>0.5–1</td>
+<td>Intermediate (I) </td>
+</tr>
+<tr>
+<td>≥ 2</td>
+<td>Resistant (R) </td>
+</tr>
+</tbody>
+</table>

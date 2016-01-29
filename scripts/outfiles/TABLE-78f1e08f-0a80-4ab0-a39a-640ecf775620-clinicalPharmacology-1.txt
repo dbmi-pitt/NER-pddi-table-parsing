@@ -1,0 +1,33 @@
+<table id="id_47c66947-25b7-4141-84b5-4b396bfd21da" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_7f2e735a-09be-45f0-87b3-d1e481dfef69"></caption>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_04af1f11-0298-4369-81df-56a30a3c96c9" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="bold">Organism</content>
+</td>
+<td align="center" colspan="2" valign="top">
+<content stylecode="bold">                    Zone Diameter (mm)</content>
+</td>
+</tr>
+<tr id="id_7dc303b5-502d-474b-9cb7-5adce3f71987">
+<td align="left" valign="top"></td>
+<td align="center" valign="top">                    tetracycline</td>
+<td align="center" valign="top">                    doxycycline</td>
+</tr>
+<tr id="id_ebc0fe96-14fa-412e-be54-6f7a11f2005b">
+<td align="left" valign="top">
+<content stylecode="italics">E. coli </content>ATCC 25922</td>
+<td align="center" valign="top">                    18-25</td>
+<td align="center" valign="top">                    18-24</td>
+</tr>
+<tr id="id_127e9f72-90ef-4a36-a2d3-118f99754a22" stylecode="Botrule">
+<td align="left" valign="top">
+<content stylecode="italics">S. aureus </content>ATCC 25923</td>
+<td align="center" valign="top">                    19-28</td>
+<td align="center" valign="top">                    23-29</td>
+</tr>
+</tbody>
+</table>

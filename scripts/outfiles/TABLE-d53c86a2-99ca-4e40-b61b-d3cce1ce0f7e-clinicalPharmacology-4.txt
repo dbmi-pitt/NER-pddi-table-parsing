@@ -1,0 +1,62 @@
+<table border="single" id="id_b41e9bbd-454e-4d6b-a8a5-60049a368e61" width="659.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_32a79359-4583-4796-8435-0d6e72868572">Table 12. Acceptable Quality Control Ranges for Voriconazole to be used in Validation of Susceptibility Test Results</caption>
+<col width="34.0%"></col>
+<col width="32.3%"></col>
+<col width="33.7%"></col>
+<tfoot id="id_35eea879-6be3-455c-8ed4-87f57ece8bea">
+<tr>
+<td align="left" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">ATCC is a registered trademark of the American Type Culture Collection</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_daf00b7b-3ea3-486b-a65a-bdbf4a00757d">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">QC Strain</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Broth Microdilution</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(MIC in mcg/mL) </content>
+</paragraph>
+<content stylecode="bold">at 48 hour</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Disk Diffusion</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Zone diameter in mm)</content>
+</paragraph>
+<content stylecode="bold">at 24 hour</content>
+</td>
+</tr>
+<tr id="id_473b3ffa-b32f-4534-8824-a99ecbd1bc1d">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="italics">Candida parapsilosis </content>
+</paragraph>ATCC 22019</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.03 to 0.25 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">28 to 37 </td>
+</tr>
+<tr id="id_382f11a6-2ef6-4856-8e7f-e1440f34e035">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="italics">Candida krusei </content>
+</paragraph>ATCC 6258</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.12 to 1 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">16 to 25 </td>
+</tr>
+<tr id="id_5795ac76-65e7-4a3a-ac17-1fb523bd5f77">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="italics">Candida albicans </content>
+</paragraph>ATCC 90028</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<footnote id="id-90dc1b1e-6c9e-4248-bc92-704c757e7b68">Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">31 to 42 </td>
+</tr>
+</tbody>
+</table>

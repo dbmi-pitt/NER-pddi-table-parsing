@@ -1,0 +1,45 @@
+<table id="ica0a361d-fd68-4541-8ace-84654759f4b5" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="27%"></col>
+<col width="25.85%"></col>
+<col width="14.95%"></col>
+<col width="32.18%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="2">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+<td valign="top"></td>
+<td valign="top">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td align="center">
+<content stylecode="bold">tetracycline</content>
+</td>
+<td align="center">
+<content stylecode="bold">doxycycline</content>
+</td>
+<td align="center"></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td align="center"> ≥19</td>
+<td align="center"> ≥16</td>
+<td align="center"></td>
+<td valign="top"> Susceptible</td>
+</tr>
+<tr>
+<td align="center"> 15-18</td>
+<td align="center"> 13-15</td>
+<td align="center"></td>
+<td valign="top"> Intermediate</td>
+</tr>
+<tr>
+<td align="center"> ≤14</td>
+<td align="center"> ≤12</td>
+<td align="center"></td>
+<td valign="top"> Resistant</td>
+</tr>
+</tbody>
+</table>

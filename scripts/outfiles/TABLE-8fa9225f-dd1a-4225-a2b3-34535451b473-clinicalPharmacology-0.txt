@@ -1,0 +1,80 @@
+<table id="id_dd764139-ef8a-4d2a-b04f-87e3fee9a4a8" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<thead>
+<tr id="id_bd79e5f8-1633-42f6-be11-83fc308dc3f1" stylecode="Toprule">
+<td align="left" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">For testing </content>
+<content stylecode="bold">
+<content stylecode="italics">Enterobacteriaceae</content>
+</content>
+<content stylecode="bold">: </content>
+</td>
+</tr>
+<tr id="id_6598411f-3350-40c8-a4b5-db0c11011285" stylecode="Botrule">
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">MIC (µg/mL)</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_1648c24d-0486-4bce-971f-d95c5846bbe0" stylecode="Toprule">
+<td align="center" stylecode="Botrule Toprule Rrule" valign="top">≤2/38</td>
+<td align="center" stylecode="Botrule" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_d9863280-8ed7-4764-bee7-1ec10a345f11">
+<td align="center" stylecode="Botrule Rrule" valign="top">≥4/76</td>
+<td align="center" stylecode="Botrule" valign="top">Resistant (R)</td>
+</tr>
+<tr id="id_be89c062-509c-4d07-85c1-8c21481ad42b">
+<td align="left" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">When testing either </content>
+<content stylecode="bold">
+<content stylecode="italics">Haemophilus influenzae</content>
+</content>
+<content stylecode="bold">
+<sup>a</sup>
+</content>
+<content stylecode="bold"> or </content>
+<content stylecode="bold">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</content>
+<content stylecode="bold">
+<sup>b</sup>
+</content>
+</td>
+</tr>
+<tr id="id_01b05b07-df0e-4e70-a92e-66365ee06930">
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">MIC (µg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+<content stylecode="bold">
+<sup>b</sup>
+</content>
+</td>
+</tr>
+<tr id="id_f2e667df-0c54-44ac-80d5-1cdb6dceb5e5">
+<td align="center" stylecode="Botrule Rrule" valign="top">≤0.5/9.5</td>
+<td align="center" stylecode="Botrule" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_adb0aa4f-638d-422e-9872-a7954bb61057">
+<td align="center" stylecode="Botrule Rrule" valign="top">1/19 – 2/38</td>
+<td align="center" stylecode="Botrule" valign="top">Intermediate</td>
+</tr>
+<tr id="id_d0330473-3405-4796-af21-1e69b2ec06e2">
+<td align="center" stylecode="Botrule Rrule" valign="top">≥4/76</td>
+<td align="center" stylecode="Botrule" valign="top">Resistant (R)</td>
+</tr>
+<tr id="id_f1cf51c4-1596-47ed-9db6-8a0ace4fa96d">
+<td align="left" colspan="2" stylecode="Botrule" valign="top">a. These interpretive standards are applicable only to broth microdilution susceptibility tests with <content stylecode="italics">Haemophilus influenzae </content>using <content stylecode="italics">Haemophilus </content>Test Medium (HTM)<sup>4</sup>.</td>
+</tr>
+<tr id="id_61806b9c-5251-4952-a212-1fc699c78691" stylecode="Botrule">
+<td align="left" colspan="2" valign="top">b. The interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2% to 5% lysed horse blood<sup>4</sup>.</td>
+</tr>
+</tbody>
+</table>

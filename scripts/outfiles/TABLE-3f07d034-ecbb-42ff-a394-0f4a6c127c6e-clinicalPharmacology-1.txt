@@ -1,0 +1,67 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" colspan="4" stylecode="     Botrule          Toprule          Rrule     "> <content stylecode="bold">STRESS</content>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" stylecode="     Botrule     "> <content stylecode="bold">Heart</content>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Liver</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> <content stylecode="bold">Time</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">Biological</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">Effective</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">Biological</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Effective</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     "> 5 min. </td>
+<td align="center"> 1.5 </td>
+<td align="center"> 1.5 </td>
+<td align="center"> 5.9 </td>
+<td align="center" stylecode="     Rrule     "> 5.8 </td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     "> 30 min. </td>
+<td align="center"> 1.4 </td>
+<td align="center"> 1.3 </td>
+<td align="center"> 4.5 </td>
+<td align="center" stylecode="     Rrule     "> 4.2 </td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     "> 1 hour </td>
+<td align="center"> 1.4 </td>
+<td align="center"> 1.2 </td>
+<td align="center"> 2.4 </td>
+<td align="center" stylecode="     Rrule     "> 2.1 </td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     "> 2 hours </td>
+<td align="center"> 1.2 </td>
+<td align="center"> 1.0 </td>
+<td align="center"> 0.9 </td>
+<td align="center" stylecode="     Rrule     "> 0.7 </td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> 4 hours </td>
+<td align="center" stylecode="     Botrule     "> 1.0 </td>
+<td align="center" stylecode="     Botrule     "> 0.6 </td>
+<td align="center" stylecode="     Botrule     "> 0.3 </td>
+<td align="center" stylecode="     Botrule          Rrule     "> 0.2 </td>
+</tr>
+</tbody>
+</table>

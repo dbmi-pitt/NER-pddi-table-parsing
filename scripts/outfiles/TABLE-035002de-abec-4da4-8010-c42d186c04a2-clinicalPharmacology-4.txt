@@ -1,0 +1,395 @@
+<table id="_RefID0EUQAG" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Azithromycin </caption>
+<col width="32%"></col>
+<col width="21%"></col>
+<col width="16%"></col>
+<col width="5%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">Co-administered  Drug</content>
+</th>
+<th align="center" stylecode="Rrule Toprule " valign="top">
+<content stylecode="bold">Dose of  Co-administered Drug</content>
+</th>
+<th align="center" stylecode="Rrule Toprule " valign="top">
+<content stylecode="bold">Dose of Azithromycin</content>
+</th>
+<th align="left" stylecode="Rrule Toprule " valign="top">
+<content stylecode="bold">n</content>
+</th>
+<th align="left" colspan="2" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">Ratio  (with/without azithromycin) of Co-administered Drug Pharmacokinetic  Parameters (90% CI); No Effect = 1.00</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Lrule Botrule " valign="top"></th>
+<th align="left" stylecode="Lrule Botrule " valign="top"></th>
+<th align="left" stylecode="Lrule Botrule " valign="top"></th>
+<th align="left" stylecode="Lrule Botrule " valign="top"></th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Mean C<sub>max</sub>
+</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">Mean AUC</content>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule" valign="top">NA - Not Available</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule" valign="top">Mean rifabutin concentrations one-half day after the last dose of rifabutin were 60 ng/mL when co-administered with azithromycin and 71 ng/mL when co-administered with placebo.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>	Atorvastatin </paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>10 mg/day × 8 days</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>500 mg/day PO on days 6–8</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>0.83<br/>(0.63 to 1.08)</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>1.01<br/>(0.81 to 1.25)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Carbamazepine </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>200 mg/day × 2 days, then 200 mg BID × 18 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>500 mg/day PO for days 16–18</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>7</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.97<br/> (0.88 to 1.06)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.96<br/> (0.88 to 1.06)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Cetirizine </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>20 mg/day × 11 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>500 mg PO on day 7, then 250 mg/day on days 8–11</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>14</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.03<br/> (0.93 to 1.14)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.02<br/> (0.92 to 1.13)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Didanosine </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>200 mg PO BID × 21 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1,200 mg/day PO on days 8–21</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>6</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.44<br/> (0.85 to 2.43)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.14<br/> (0.83 to 1.57)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Efavirenz </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>400 mg/day × 7 days </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>600 mg PO on day 7</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>14</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.04<footnote id="_Reftable3footnote">- 90% Confidence interval not reported</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.95<footnoteref idref="_Reftable3footnote"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Fluconazole</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>200 mg PO single dose </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1,200 mg PO single dose</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>18</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.04<br/> (0.98 to 1.11)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.01<br/> (0.97 to 1.05)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Indinavir </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>800 mg TID × 5 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1,200 mg PO on day 5</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>18</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.96<br/> (0.86 to 1.08)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.90<br/> (0.81 to 1.00)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Midazolam </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>15 mg PO on day 3</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>500 mg/day PO × 3 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.27<br/> (0.89 to 1.81)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.26<br/> (1.01 to 1.56)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Nelfinavir </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>750 mg TID × 11 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1,200 mg PO on day 9</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>14</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.90<br/> (0.81 to 1.01)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.85<br/> (0.78 to 0.93)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Rifabutin </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>300 mg/day × 10 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>500 mg PO on day 1, then 250 mg/day on days 2–10</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>6</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>See footnote below</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>NA</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Sildenafil </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>100 mg on days 1 and 4</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>500 mg/day PO × 3 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.16<br/> (0.86 to 1.57)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.92<br/> (0.75 to 1.12)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Theophylline </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>4 mg/kg IV on days 1, 11, 25</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>500 mg PO on day 7, 250 mg/day on days 8–11</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>10</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.19<br/> (1.02 to 1.40)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.02<br/> (0.86 to 1.22)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Theophylline </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>300 mg PO BID ×<br/> 15 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>500 mg PO on day 6, then 250 mg/day on days 7–10</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>8</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.09<br/> (0.92 to 1.29)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.08<br/> (0.89 to 1.31)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>	Triazolam </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.125 mg on day 2</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>500 mg PO on day 1, then 250 mg/day on day 2</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.06<footnoteref idref="_Reftable3footnote"></footnoteref>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.02<footnoteref idref="_Reftable3footnote"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Trimethoprim/Sulfamethoxazole</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>160 mg/800 mg/day PO × 7 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1,200 mg PO on day 7</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.85<br/> (0.75 to 0.97)/<br/> 0.90<br/> (0.78 to 1.03)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.87<br/> (0.80 to 0.95/<br/> 0.96<br/> (0.88 to 1.03)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Zidovudine</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>500 mg/day PO × 21 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>600 mg/day PO × 14 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>5</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.12<br/> (0.42 to 3.02)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>0.94<br/> (0.52 to 1.70)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>	Zidovudine </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>500 mg/day PO × 21 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1,200 mg/day PO × 14 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>4</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.31<br/> (0.43 to 3.97)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1.30<br/> (0.69 to 2.43)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

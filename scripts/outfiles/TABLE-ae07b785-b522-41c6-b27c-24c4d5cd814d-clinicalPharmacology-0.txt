@@ -1,0 +1,76 @@
+<table id="ID102" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status</caption>
+<col width="23%"></col>
+<col width="18%"></col>
+<col width="16%"></col>
+<col width="15%"></col>
+<col width="15%"></col>
+<col width="13%"></col>
+<tbody>
+<tr>
+<td align="justify" stylecode=" Lrule Botrule Toprule" valign="top">
+<br/>
+</td>
+<td align="left" stylecode=" Botrule Toprule" valign="top">Dose <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">Ultrarapid<br/>(n=10)<br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">Extensive<br/>(n=10)<br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">Intermediate<br/>(n=10)<br/>
+</td>
+<td align="center" stylecode=" Rrule Botrule Toprule" valign="top">Poor<br/>(n=10)<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Toprule" valign="top">C<sub>m</sub>
+<sub>a</sub>
+<sub>x</sub> (ng/mL) <br/>
+</td>
+<td align="left" stylecode=" Toprule" valign="top">300 mg (24 h)<br/>600 mg (24 h) <br/>75 mg (Day 5) <br/>150 mg (Day 5) <br/>
+<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">24 (10)<br/>36 (13)<br/>12 (6)<br/>16 (9)<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">32 (21)<br/>44 (27)<br/>13 (7)<br/>19 (5)<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">23 (11)<br/>39 (23)<br/>12 (5)<br/>18 (7)<br/>
+</td>
+<td align="center" stylecode=" Rrule Toprule" valign="top">11 (4)<br/>17 (6)<br/>4 (1)<br/>7 (2)<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule" valign="top">IPA (%)* <br/>
+</td>
+<td align="left" valign="top">300 mg (24 h)<br/>600 mg (24 h) <br/>75 mg (Day 5) <br/>150 mg (Day 5) <br/>
+<br/>
+</td>
+<td align="center" valign="top">40 (21)<br/>51 (28)<br/>56 (13)<br/>68 (18)<br/>
+</td>
+<td align="center" valign="top">39 (28)<br/>49 (23)<br/>58 (19)<br/>73 (9)<br/>
+</td>
+<td align="center" valign="top">37 (21)<br/>56 (22)<br/>60 (18)<br/>74 (14)<br/>
+</td>
+<td align="center" stylecode=" Rrule" valign="top">24 (26)<br/>32 (25)<br/>37 (23)<br/>61 (14)<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule" valign="top">VASP-PRI (%) † <br/>
+</td>
+<td align="left" valign="top">300 mg (24 h)<br/>600 mg (24 h) <br/>75 mg (Day 5) <br/>150 mg (Day 5) <br/>
+</td>
+<td align="center" valign="top">73 (12)<br/>51 (20)<br/>40 (9)<br/>20 (10)<br/>
+</td>
+<td align="center" valign="top">68 (16)<br/>48 (20)<br/>39 (14)<br/>24 (10)<br/>
+</td>
+<td align="center" valign="top">78 (12)<br/>56 (26)<br/>50 (16)<br/>29 (11)<br/>
+</td>
+<td align="center" stylecode=" Rrule" valign="top">91 (12)<br/>85 (14)<br/>83 (13)<br/>61 (18)<br/>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Values are mean (SD) <br/>*Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition<br/>† Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition<br/>
+</td>
+</tr>
+</tbody>
+</table>

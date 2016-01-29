@@ -1,0 +1,24 @@
+<table border="1" id="inv-d28d13e7-cbb3-45cf-a979-1af18b4f592c" width="230" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-68c42584-411b-42b7-8a0a-588e9735d6ac">Table 2: Dose to body weight range to achieve similar steady-state exposure (AUC<sub>0-24hr</sub>) to unbound oxaprozin in JRA patients relative to 70 kg adult rheumatoid arthritis patients administered oxaprozin 1200 mg QD<footnote id="id-14f4086e-9c9c-4b5a-b6a0-22a72375e1d5">Model-based nomogram derived from unbound oxaprozin steady-state drug plasma concentrations of JRA patients weighing 22.1 to 42.7 kg or ≥ 45.0 kg administered oxaprozin 600 mg or 1200 mg QD for 14 days, respectively.</footnote>
+</caption>
+<col width="37.0%"></col>
+<col width="63.0%"></col>
+<tbody>
+<tr id="id_f59a4ce3-094a-4ef9-a66e-1c157762df46">
+<td align="center" stylecode="Toprule Botrule Lrule" valign="middle">Dose (mg)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Body Weight Range (kg)</td>
+</tr>
+<tr id="id_faf4fde1-2d64-4b16-bfc0-55193a612d52">
+<td align="center" stylecode="Lrule Botrule" valign="middle">600</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">22 to 31</td>
+</tr>
+<tr id="id_b6e28b17-2b6f-4e1f-90d4-06fce69661ad">
+<td align="center" stylecode="Lrule Botrule" valign="middle">900</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">32 to 54</td>
+</tr>
+<tr id="id_f47b4730-4dcc-40d7-9deb-01f0424504f5">
+<td align="center" stylecode="Lrule Botrule" valign="middle">1200</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 55</td>
+</tr>
+</tbody>
+</table>

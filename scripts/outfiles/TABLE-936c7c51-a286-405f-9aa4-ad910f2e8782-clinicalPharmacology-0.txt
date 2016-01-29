@@ -1,0 +1,139 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>
+Table 1
+</caption>
+<col align="left" span="1" width="30%"></col>
+<col align="center" span="1" width="19%"></col>
+<col align="center" span="1" width="17%"></col>
+<col align="center" span="1" width="17%"></col>
+<col align="center" span="1" width="17%"></col>
+<tbody>
+<tr>
+<th colspan="1">
+Method of Assay
+</th>
+<th colspan="1">
+Virus Type
+</th>
+<th colspan="1">
+Cell Type
+</th>
+<th colspan="1">
+IC<sub>50</sub> (mcg/mL)
+</th>
+<th colspan="1">
+IC<sub>99</sub> (mcg/mL)
+</th>
+</tr>
+<tr>
+<td>
+Plaque Reduction
+</td>
+<td>
+HSV-1 (c.i.)
+</td>
+<td>
+MRC-5
+</td>
+<td>
+0.2-0.6
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+HSV-1 (c.i.)
+</td>
+<td>
+WISH
+</td>
+<td>
+0.04-0.5
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+HSV-2 (c.i.)
+</td>
+<td>
+MRC-5
+</td>
+<td>
+0.9-2.1
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+HSV-2 (c.i.)
+</td>
+<td>
+WISH
+</td>
+<td>
+0.1-0.8
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+Virus Yield Reduction
+</td>
+<td>
+HSV-1 (c.i.)
+</td>
+<td>
+MRC-5
+</td>
+<td></td>
+<td>
+0.4-0.5
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+HSV-2 (c.i.)
+</td>
+<td>
+MRC-5
+</td>
+<td></td>
+<td>
+0.6-0.7
+</td>
+</tr>
+<tr>
+<td>
+DNA Synthesis Inhibition
+</td>
+<td>
+HSV-1 (SC16)
+</td>
+<td>
+MRC-5
+</td>
+<td>
+0.04
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+HSV-2 (MS.)
+</td>
+<td>
+MRC-5
+</td>
+<td>
+0.05
+</td>
+<td></td>
+</tr>
+</tbody>
+</table>

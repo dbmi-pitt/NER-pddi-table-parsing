@@ -1,0 +1,67 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Summary of INCRELEX<sup>®</sup> Single-Dose Pharmacokinetic Parameters in Children with Severe Primary IGFD (0.12 mg/kg, SC)</caption>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Botrule"></th>
+<th stylecode="Botrule">C<sub>max </sub>
+<br/>(ng/mL)</th>
+<th stylecode="Botrule">T<sub>max </sub>
+<br/>(hr)</th>
+<th stylecode="Botrule">AUC<sub>0-8 </sub>
+<br/>(hr*ng/mL)</th>
+<th stylecode="Botrule">t<sub>1/2 </sub>
+<br/>(hr)</th>
+<th stylecode="Botrule">Vd/F<br/>(L/kg)</th>
+<th stylecode="Rrule Botrule">CL/F<br/>(L/hr/kg)</th>
+</tr>
+<tr>
+<th stylecode="Lrule">n</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>12<footnote id="fn1">Data represents 3 subjects each at doses 0.015, 0.03, 0.06, and 0.12 mg/kg SC.</footnote>
+</th>
+<th stylecode="Rrule">12<footnoteref idref="fn1"></footnoteref>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">C<sub>max </sub>= maximum concentration; T<sub>max </sub>= time of maximum concentration; AUC<sub>0-8 </sub>= area under the curve;  t<sub>1/2 </sub>= half-life; Vd/F = apparent volume of distribution; CL/F = apparent systemic clearance; SC = subcutaneous injection; CV% = coefficient of variation in %.</td>
+</tr>
+<tr>
+<td align="left" colspan="7">Male/female data combined, ages 12 to 22 years.</td>
+</tr>
+<tr>
+<td align="left" colspan="7">PK parameters based on baseline adjusted plasma concentrations.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule Toprule">Mean</td>
+<td stylecode="Toprule">234</td>
+<td stylecode="Toprule">2</td>
+<td stylecode="Toprule">2932</td>
+<td stylecode="Toprule">5.8</td>
+<td stylecode="Toprule">0.257</td>
+<td stylecode="Rrule Toprule">0.0424</td>
+</tr>
+<tr>
+<td stylecode="Lrule">CV%</td>
+<td>23</td>
+<td>0</td>
+<td>50</td>
+<td>64</td>
+<td>28</td>
+<td stylecode="Rrule">38</td>
+</tr>
+</tbody>
+</table>

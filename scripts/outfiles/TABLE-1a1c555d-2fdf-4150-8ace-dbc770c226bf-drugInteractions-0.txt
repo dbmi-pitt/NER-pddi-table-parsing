@@ -1,0 +1,118 @@
+<table id="t3" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3	Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction<footnote>This table is not all inclusive.</footnote>
+</caption>
+<col align="left" valign="top" width="33%"></col>
+<col align="left" valign="top" width="27%"></col>
+<col align="left" valign="top" width="40%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule" valign="middle">Concomitant Drug Class: Drug Name</th>
+<th align="center" stylecode="Rrule" valign="middle">Effect on Concentration<footnote>↓ = decrease, ↑ = increase</footnote>
+</th>
+<th align="center" stylecode="Rrule" valign="middle">Clinical Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Acid Reducing Agents:</content>
+</td>
+<td rowspan="4" stylecode="Rrule">↓ ledipasvir</td>
+<td stylecode="Rrule">Ledipasvir solubility decreases as pH increases. Drugs that increase gastric pH are expected to decrease concentration of ledipasvir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Antacids (e.g., aluminum and magnesium hydroxide)</td>
+<td stylecode="Rrule">It is recommended to separate antacid and HARVONI administration by 4 hours.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">H<sub>2</sub>-receptor antagonists<footnote id="ft2">These interactions have been studied in healthy adults.</footnote> (e.g., famotidine)<br/>
+</td>
+<td stylecode="Rrule">H<sub>2</sub>-receptor antagonists may be administered simultaneously with or 12 hours apart from HARVONI at a dose that does not exceed doses comparable to famotidine 40 mg twice daily.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Proton-pump inhibitors<footnoteref idref="ft2"></footnoteref> (e.g., omeprazole)</td>
+<td stylecode="Rrule">Proton-pump inhibitor doses comparable to omeprazole 20 mg or lower can be administered simultaneously with HARVONI under fasted conditions.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antiarrhythmics:</content>
+<br/>digoxin</td>
+<td stylecode="Rrule">↑ digoxin</td>
+<td stylecode="Rrule">Coadministration of HARVONI with digoxin may increase the concentration of digoxin. Therapeutic concentration monitoring of digoxin is recommended when coadministered with HARVONI.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anticonvulsants:</content>
+<br/>carbamazepine<br/>phenytoin <br/> phenobarbital<br/> oxcarbazepine</td>
+<td stylecode="Rrule">↓ ledipasvir<br/>↓ sofosbuvir<br/>↓ GS-331007</td>
+<td stylecode="Rrule">Coadministration of HARVONI with carbamazepine, phenytoin, phenobarbital, or oxcarbazepine is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI. Coadministration is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antimycobacterials:</content>
+<br/>rifabutin<br/> rifampin<footnoteref idref="ft2"></footnoteref>
+<br/>rifapentine</td>
+<td stylecode="Rrule">↓ ledipasvir<br/>↓ sofosbuvir<br/>↓ GS-331007</td>
+<td stylecode="Rrule">Coadministration of HARVONI with rifabutin or rifapentine is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI. Coadministration is not recommended.<br/>Coadministration of HARVONI with rifampin, a P-gp inducer, is not recommended <content stylecode="italics">[see <linkhtml href="#S5.1">Warnings and Precautions (5.1)</linkhtml>].</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">HIV Antiretrovirals:</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">efavirenz, emtricitabine, tenofovir disoproxil fumarate (DF)</td>
+<td stylecode="Rrule">↑ tenofovir</td>
+<td stylecode="Rrule">Monitor for tenofovir-associated adverse reactions in patients receiving HARVONI concomitantly with the combination of efavirenz, emtricitabine and tenofovir DF. Refer to VIREAD™, TRUVADA™, or ATRIPLA™ prescribing information for recommendations on renal monitoring.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Regimens containing tenofovir DF and a HIV protease inhibitor/ritonavir<list>
+<item>atazanavir/ritonavir + emtricitabine/tenofovir DF<footnoteref idref="ft2"></footnoteref>
+</item>
+<item>darunavir/ritonavir + emtricitabine/tenofovir DF<footnoteref idref="ft2"></footnoteref>
+</item>
+<item>lopinavir/ritonavir + emtricitabine/tenofovir DF</item>
+</list>
+</td>
+<td stylecode="Rrule">↑ tenofovir</td>
+<td stylecode="Rrule">The safety of increased tenofovir concentrations in the setting of HARVONI and a HIV protease inhibitor/ritonavir has not been established.<br/>Consider alternative HCV or antiretroviral therapy to avoid increases in tenofovir exposures. If coadministration is necessary, monitor for tenofovir-associated adverse reactions. Refer to VIREAD or TRUVADA prescribing information for recommendations on renal monitoring.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">elvitegravir, cobicistat, emtricitabine, tenofovir DF</td>
+<td stylecode="Rrule">↑ tenofovir</td>
+<td stylecode="Rrule">The safety of increased tenofovir concentrations in the setting of HARVONI and the combination of elvitegravir, cobicistat, emtricitabine and tenofovir DF has not been established. Coadministration is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">tipranavir/ritonavir</td>
+<td stylecode="Rrule">↓ ledipasvir<br/>↓ sofosbuvir<br/>↓ GS-331007</td>
+<td stylecode="Rrule">Coadministration of HARVONI with tipranavir/ritonavir is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI. Coadministration is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">HCV Products:</content>
+<br/>simeprevir<footnoteref idref="ft2"></footnoteref>
+</td>
+<td stylecode="Rrule">↑ ledipasvir<br/>↑ simeprevir<br/>
+</td>
+<td stylecode="Rrule">Concentrations of ledipasvir and simeprevir are increased when simeprevir is coadministered with ledipasvir.  Coadministration of HARVONI with simeprevir is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Herbal Supplements:</content>
+<br/>St. John's wort <content stylecode="italics">(Hypericum perforatum)</content>
+</td>
+<td stylecode="Rrule">↓ ledipasvir<br/>↓ sofosbuvir<br/>↓ GS-331007</td>
+<td stylecode="Rrule">Coadministration of HARVONI with St. John's wort, a P-gp inducer is not recommended <content stylecode="italics">[see <linkhtml href="#S5.1">Warnings and Precautions (5.1)</linkhtml>].</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">HMG-CoA Reductase Inhibitors:</content>
+<br/>rosuvastatin</td>
+<td stylecode="Rrule">↑ rosuvastatin<br/>
+</td>
+<td stylecode="Rrule">Coadministration of HARVONI with rosuvastatin may significantly increase the concentration of rosuvastatin which is associated with increased risk of myopathy, including rhabdomyolysis. Coadministration of HARVONI with rosuvastatin is not recommended.</td>
+</tr>
+</tbody>
+</table>

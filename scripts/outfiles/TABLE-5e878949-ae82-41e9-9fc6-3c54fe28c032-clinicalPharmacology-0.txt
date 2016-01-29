@@ -1,0 +1,52 @@
+<table id="id_1d4341eb-d7d0-41e6-9c9a-a262d9a6d8c6" width="428.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_65044b3f-f56a-4ead-8b04-b1cc8d853365">TABLE 1: SUSCEPTIBILITY INTERPRETIVE CRITERIA</caption>
+<col align="left" width="34.1%"></col>
+<col align="center" width="11.0%"></col>
+<col align="center" width="11.0%"></col>
+<col align="center" width="11.0%"></col>
+<col align="center" width="11.0%"></col>
+<col align="center" width="11.0%"></col>
+<col align="center" width="11.0%"></col>
+<thead>
+<tr id="id_cd88ddab-f3fb-4569-a061-41836244cb07">
+<td align="left" stylecode="Botrule Toprule Rrule" valign="top"></td>
+<td align="center" colspan="6" stylecode="Botrule" valign="top">Susceptibility Test Result Interpretive Criteria</td>
+</tr>
+<tr id="id_6c6d50b4-e304-4850-a3b5-8208792f125c">
+<td align="left" stylecode="Botrule Rrule" valign="bottom">Pathogen</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">Disk diffusion<br/>(Zone diameter in mm)</td>
+<td align="center" colspan="3" stylecode="Botrule" valign="top">Minimal Inhibitory<br/>Concentration<br/>(MIC in mcg/mL)</td>
+</tr>
+<tr id="id_2347a4b6-36bc-416c-83f0-6a168be2bb58">
+<td align="left" stylecode="Botrule Rrule" valign="top">  </td>
+<td align="center" stylecode="Rrule" valign="top">S</td>
+<td align="center" stylecode="Rrule" valign="top">I</td>
+<td align="center" stylecode="Rrule" valign="top">R</td>
+<td align="center" stylecode="Rrule" valign="top">S</td>
+<td align="center" stylecode="Rrule" valign="top">I</td>
+<td align="center" stylecode="Botrule" valign="top">R</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_cd52c3b9-dd03-4468-8b3f-025fe98fca84">
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="italics">S.aureus</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">≥ 13</td>
+<td align="center" stylecode="Toprule" valign="top">11-12</td>
+<td align="center" stylecode="Toprule" valign="top">≤ 10</td>
+<td align="center" stylecode="Toprule" valign="top">≤ 2</td>
+<td align="center" stylecode="Toprule" valign="top">-</td>
+<td align="center" valign="top">≥ 4</td>
+</tr>
+<tr id="id_826a1233-6e2f-4a58-a43f-bb374583d6f1">
+<td align="left" stylecode="Botrule" valign="top">Coagulase-negative<br/>  staphylococci</td>
+<td align="center" stylecode="Botrule" valign="bottom">≥ 18</td>
+<td align="center" stylecode="Botrule" valign="bottom">-</td>
+<td align="center" stylecode="Botrule" valign="bottom">≤ 17</td>
+<td align="center" stylecode="Botrule" valign="bottom">≤ 0.25</td>
+<td align="center" stylecode="Botrule" valign="bottom">-</td>
+<td align="center" stylecode="Botrule" valign="bottom">≥ 0.5</td>
+</tr>
+</tbody>
+</table>

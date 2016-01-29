@@ -1,0 +1,41 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Pharmacokinetics in Pediatric Cancer Patients 1 Month to 18 Years of Age</caption>
+<col align="left" valign="middle" width="40%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th stylecode="Lrule Rrule">Subjects and Age Group</th>
+<th stylecode="Rrule">N</th>
+<th stylecode="Rrule">CL<br/>(L/h/kg)</th>
+<th stylecode="Rrule">Vd<sub>ss</sub>
+<br/>(L/kg)</th>
+<th stylecode="Rrule">T½<br/>(h)</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th stylecode="Rrule"></th>
+<th colspan="2" stylecode="Rrule">Geometric Mean</th>
+<th stylecode="Rrule">Mean</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Pediatric Cancer Patients<br/>4 to 18 years of age</td>
+<td stylecode="Rrule">N = 21</td>
+<td stylecode="Rrule">0.599</td>
+<td stylecode="Rrule">1.9</td>
+<td stylecode="Rrule">2.8</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Population PK Patients<footnote id="table2a">Population PK (Pharmacokinetic) Patients: 64% cancer patients and 36% surgery patients.</footnote>
+<br/>1 month to 48 months of age</td>
+<td stylecode="Rrule">N = 115</td>
+<td stylecode="Rrule">0.582</td>
+<td stylecode="Rrule">3.65</td>
+<td stylecode="Rrule">4.9</td>
+</tr>
+</tbody>
+</table>

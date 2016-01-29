@@ -1,0 +1,44 @@
+<table id="id_5f415fd8-c7dd-4469-8c05-07e2a6927c74" width="571.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_9eeb92b9-5361-4686-8424-ecbcc2fe44e6">Table 1: Response Rates 2 Hours Following Treatment of Initial Headache</caption>
+<col width="22.1%"></col>
+<col width="20.1%"></col>
+<col width="20.1%"></col>
+<col width="37.7%"></col>
+<thead>
+<tr id="id_cfcc3f8f-826d-49a3-9ad0-7ce374678732">
+<td align="center" stylecode="Botrule" valign="top">Study</td>
+<td align="center" stylecode="Botrule" valign="top">Placebo</td>
+<td align="center" stylecode="Botrule" valign="top">MAXALT Tablets<br/>5 mg</td>
+<td align="center" stylecode="Botrule" valign="top">MAXALT Tablets<br/>10 mg</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_c4e4fb13-4540-4ac0-b68a-0bdca3b1bcc0">
+<td align="center" stylecode="Toprule" valign="top"> 1</td>
+<td align="center" stylecode="Toprule" valign="top">35% (n=304)</td>
+<td align="center" stylecode="Toprule" valign="top">62%<footnote id="id-260c4d19-9adc-4be1-836d-0737e831f273">p value &lt; 0.05 in comparison with placebo</footnote> (n=458)</td>
+<td align="center" valign="top">71%<footnoteref idref="id-260c4d19-9adc-4be1-836d-0737e831f273"></footnoteref>
+<sup>,</sup>
+<footnote id="id-e9818ab3-3e17-4751-a3f2-7b1dd400d5b3">p value &lt; 0.05 in comparison with 5 mg</footnote> (n=456)</td>
+</tr>
+<tr id="id_10abf3e4-7803-4532-8573-319dc47f46f5">
+<td align="center" valign="top"> 2<footnote id="id-7a7cf828-6760-4939-b08b-60b3687526df">Results for initial headache only.</footnote>
+</td>
+<td align="center" valign="top">37% (n=82)</td>
+<td align="center" valign="top">—</td>
+<td align="center" valign="top">77%<footnoteref idref="id-260c4d19-9adc-4be1-836d-0737e831f273"></footnoteref> (n=320)</td>
+</tr>
+<tr id="id_1be0f857-0202-4925-9b00-347eca2209bc">
+<td align="center" valign="top"> 3</td>
+<td align="center" valign="top">23% (n=80)</td>
+<td align="center" valign="top">63%<footnoteref idref="id-260c4d19-9adc-4be1-836d-0737e831f273"></footnoteref> (n=352)</td>
+<td align="center" valign="top">—</td>
+</tr>
+<tr id="id_8c765bb7-2b22-46ce-bc87-40099d33b54a">
+<td align="center" stylecode="Botrule" valign="top"> 4</td>
+<td align="center" stylecode="Botrule" valign="top">40% (n=159)</td>
+<td align="center" stylecode="Botrule" valign="top">60%<footnoteref idref="id-260c4d19-9adc-4be1-836d-0737e831f273"></footnoteref> (n=164)</td>
+<td align="center" stylecode="Botrule" valign="top">67%<footnoteref idref="id-260c4d19-9adc-4be1-836d-0737e831f273"></footnoteref> (n=385)</td>
+</tr>
+</tbody>
+</table>

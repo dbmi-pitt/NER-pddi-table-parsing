@@ -1,0 +1,57 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7. Erosive Esophagitis Patient Healing Rates</caption>
+<col width="19.6%"></col>
+<col width="21.2%"></col>
+<col width="19.6%"></col>
+<col width="19.9%"></col>
+<col width="19.6%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> </td>
+<td align="center" colspan="4" stylecode="     Botrule          Rrule     " valign="bottom"> <content stylecode="bold">Healed/Evaluable</content>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> <paragraph>
+<content stylecode="bold">Placebo<footnote id="FOOT_4925">All patients were permitted antacids as needed for relief of pain.</footnote>
+</content>
+</paragraph>
+<content stylecode="bold">(n = 229)</content>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Rrule     " valign="bottom"> <paragraph>
+<content stylecode="bold">Ranitidine</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">150 mg 4 times daily<footnoteref idref="FOOT_4925"></footnoteref>
+</content>
+</paragraph>
+<content stylecode="bold">(n = 215)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Week 4</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 43/198</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> (22%)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 96/206</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> (47%)<footnote id="FOOT_4926">
+<content stylecode="italics">p</content>&lt;0.001 versus placebo.</footnote>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Week 8</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 63/176</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> (36%)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 142/200</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> (71%)<footnoteref idref="FOOT_4926"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Week 12</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> 92/159</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> (58%)</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> 162/192</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> (84%)<footnoteref idref="FOOT_4926"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

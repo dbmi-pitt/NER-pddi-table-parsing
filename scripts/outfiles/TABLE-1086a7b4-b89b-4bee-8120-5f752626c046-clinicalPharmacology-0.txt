@@ -1,0 +1,124 @@
+<table id="id_d6d7eefb-e17e-4785-aca7-764b5026e349" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_6ef3a67d-4fa4-4d41-92e3-ec8ad0d1c139">Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status</caption>
+<col align="left" width="25%"></col>
+<col align="left" width="15%"></col>
+<col align="center" width="15%"></col>
+<col align="center" width="15%"></col>
+<col align="center" width="15%"></col>
+<col align="center" width="15%"></col>
+<thead>
+<tr id="id_8c9fef9e-37db-4dda-bd2e-ad859c749ccb" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top">Dose</td>
+<td align="left" stylecode="Rrule" valign="top">Ultrarapid <br/>(n=10)</td>
+<td align="left" stylecode="Rrule" valign="top">Extensive <br/>(n=10)</td>
+<td align="left" stylecode="Rrule" valign="top">Intermediate <br/>(n=10)</td>
+<td align="left" stylecode="Rrule" valign="top">Poor <br/>(n=10)</td>
+</tr>
+</thead>
+<tfoot id="id_206df7e1-ec49-4684-8be6-b1d53a58e13c">
+<tr>
+<td align="left" colspan="6" stylecode="Lrule Rrule" valign="top">Values are mean (SD)</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_9a162d3d-e8f9-42b2-99b0-9e25bfb4c276" stylecode="Toprule">
+<td align="left" stylecode="Lrule" valign="top">Cmax (ng/mL)</td>
+<td align="left" stylecode="Toprule" valign="top">300 mg (24 h)</td>
+<td align="left" stylecode="Toprule" valign="top">24 (10)</td>
+<td align="left" stylecode="Toprule" valign="top">32 (21)</td>
+<td align="left" stylecode="Toprule" valign="top">23 (11)</td>
+<td align="left" stylecode="Rrule" valign="top">11 (4)</td>
+</tr>
+<tr id="id_0949d05d-2ecb-49c9-b690-4c37e3bae7a3">
+<td align="left" stylecode="Lrule" valign="top"></td>
+<td align="left" valign="top">600 mg (24 h)</td>
+<td align="left" valign="top">36 (13)</td>
+<td align="left" valign="top">44 (27)</td>
+<td align="left" valign="top">39 (23)</td>
+<td align="left" stylecode="Rrule" valign="top">17 (6)</td>
+</tr>
+<tr id="id_56a88c4b-e092-4641-92b5-df5cc050f405">
+<td align="left" stylecode="Lrule" valign="top"></td>
+<td align="left" valign="top">75 mg (Day 5)</td>
+<td align="left" valign="top">12 (6)</td>
+<td align="left" valign="top">13 (7)</td>
+<td align="left" valign="top">12 (5)</td>
+<td align="left" stylecode="Rrule" valign="top">4 (1)</td>
+</tr>
+<tr id="id_50e16a5c-6090-4387-9327-34c317bfc181">
+<td align="left" stylecode="Lrule" valign="top"></td>
+<td align="left" valign="top">150 mg (Day 5)</td>
+<td align="left" valign="top">16 (9)</td>
+<td align="left" valign="top">19 (5)</td>
+<td align="left" valign="top">18 (7)</td>
+<td align="left" stylecode="Rrule" valign="top">7 (2)</td>
+</tr>
+<tr id="id_1037ad06-fb8d-4672-bc2a-397408fb60dc">
+<td align="left" stylecode="Lrule" valign="top">IPA (%)<footnote id="id-0d371420-36a3-4049-aba0-1933e185912d">Inhibition of platelet aggregation with 5µM ADP; larger value indicates greater platelet inhibition</footnote>
+</td>
+<td align="left" valign="top">300 mg (24 h)</td>
+<td align="left" valign="top">40 (21)</td>
+<td align="left" valign="top">39 (28)</td>
+<td align="left" valign="top">37 (21)</td>
+<td align="left" stylecode="Rrule" valign="top">24 (26)</td>
+</tr>
+<tr id="id_95e7832d-8870-49bb-a0ba-155c5d96e6dc">
+<td align="left" stylecode="Lrule" valign="top"></td>
+<td align="left" valign="top">600 mg (24 h)</td>
+<td align="left" valign="top">51 (28)</td>
+<td align="left" valign="top">49 (23)</td>
+<td align="left" valign="top">56 (22)</td>
+<td align="left" stylecode="Rrule" valign="top">32 (25)</td>
+</tr>
+<tr id="id_6d3a6b28-631f-4ca3-9c1a-941ac8939682">
+<td align="left" stylecode="Lrule" valign="top"></td>
+<td align="left" valign="top">75 mg (Day 5)</td>
+<td align="left" valign="top">56 (13)</td>
+<td align="left" valign="top">58 (19)</td>
+<td align="left" valign="top">60 (18)</td>
+<td align="left" stylecode="Rrule" valign="top">37 (23)</td>
+</tr>
+<tr id="id_8de7c331-7af4-4e60-8742-c04cfe996f71">
+<td align="left" stylecode="Lrule" valign="top"></td>
+<td align="left" valign="top">150 mg (Day 5)</td>
+<td align="left" valign="top">68 (18)</td>
+<td align="left" valign="top">73 (9)</td>
+<td align="left" valign="top">74 (14)</td>
+<td align="left" stylecode="Rrule" valign="top">61 (14)</td>
+</tr>
+<tr id="id_5580366a-81c0-4261-8426-a122dbd1fbab">
+<td align="left" stylecode="Lrule" valign="top">VASP-PRI (%) <footnote id="id-0bb46d39-115a-4fc8-b31b-9483e2574531">Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition</footnote>
+</td>
+<td align="left" valign="top">300 mg (24 h)</td>
+<td align="left" valign="top">73 (12)</td>
+<td align="left" valign="top">68 (16)</td>
+<td align="left" valign="top">77 (12)</td>
+<td align="left" stylecode="Rrule" valign="top">91 (12)</td>
+</tr>
+<tr id="id_ea2e82f0-e65b-4c2c-958b-eb644875478d">
+<td align="left" stylecode="Lrule" valign="top"></td>
+<td align="left" valign="top">600 mg (24 h)</td>
+<td align="left" valign="top">51 (20)</td>
+<td align="left" valign="top">48 (20)</td>
+<td align="left" valign="top">56 (26)</td>
+<td align="left" stylecode="Rrule" valign="top">85 (14)</td>
+</tr>
+<tr id="id_b209b2bb-aaa7-46fb-8f77-33f4c4bc1d5e">
+<td align="left" stylecode="Lrule" valign="top"></td>
+<td align="left" valign="top">75 mg (Day 5)</td>
+<td align="left" valign="top">40 (9)</td>
+<td align="left" valign="top">39 (14)</td>
+<td align="left" valign="top">50 (16)</td>
+<td align="left" stylecode="Rrule" valign="top">83 (13)</td>
+</tr>
+<tr id="id_9dacf636-b2da-4fdc-aa0c-11f4453a8340">
+<td align="left" stylecode="Lrule" valign="top"></td>
+<td align="left" valign="top">150 mg (Day 5)</td>
+<td align="left" valign="top">20 (10)</td>
+<td align="left" valign="top">24 (10)</td>
+<td align="left" valign="top">29 (11)</td>
+<td align="left" stylecode="Rrule" valign="top">61 (18)</td>
+</tr>
+</tbody>
+</table>

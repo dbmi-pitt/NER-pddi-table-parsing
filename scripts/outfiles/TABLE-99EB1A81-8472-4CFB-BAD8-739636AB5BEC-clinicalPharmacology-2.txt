@@ -1,0 +1,24 @@
+<table id="T3" width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>Table 3: Combined Metformin Hydrochloride/Glyburide (Comb) vs Glyburide (Glyb) or Metformin Hydrochloride (Met) Monotherapy: Summary of Mean Changes from Baseline<footnote>All patients on glyburide, 20 mg/day, at Baseline</footnote> in Fasting Plasma Glucose, HbA<sub>1c</sub>, and Body Weight, at Final Visit (29-week study)</caption>
+<col align="left" valign="top" width="40%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<thead>
+<tr><th stylecode="Lrule"></th><th stylecode="Lrule"></th><th stylecode="Lrule"></th><th stylecode="Lrule"></th><th colspan="3" stylecode="Botrule Lrule Rrule">p-values</th></tr>
+<tr><th stylecode="Lrule"></th><th stylecode="Lrule">Comb<br/>(n=213)</th><th stylecode="Lrule">Glyb<br/>(n=209)</th><th stylecode="Lrule">Met<br/>(n=210)</th><th stylecode="Lrule">Glyb vs Comb</th><th stylecode="Lrule">Met vs Comb</th><th stylecode="Lrule Rrule">Met vs Glyb</th></tr>
+</thead>
+<tbody>
+<tr><td stylecode="Lrule"><content stylecode="bold">Fasting Plasma Glucose (mg/dL)</content></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule"></td></tr>
+<tr><td stylecode="Lrule">  Baseline</td><td stylecode="Lrule">250.5</td><td stylecode="Lrule">247.5</td><td stylecode="Lrule">253.9</td><td stylecode="Lrule">NS<footnote id="foot2-ns">Not statistically significant</footnote></td><td stylecode="Lrule">NS<footnoteref idref="foot2-ns"></footnoteref></td><td stylecode="Lrule Rrule">NS<footnoteref idref="foot2-ns"></footnoteref></td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule">  Change at FINAL VISIT</td><td stylecode="Lrule">-63.5</td><td stylecode="Lrule">13.7</td><td stylecode="Lrule">-0.9</td><td stylecode="Lrule">0.001</td><td stylecode="Lrule">0.001</td><td stylecode="Lrule Rrule">0.025</td></tr>
+<tr><td stylecode="Lrule"><content stylecode="bold">Hemoglobin A<sub>1c</sub> (%)</content></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule"></td></tr>
+<tr><td stylecode="Lrule">  Baseline</td><td stylecode="Lrule">8.8</td><td stylecode="Lrule">8.5</td><td stylecode="Lrule">8.9</td><td stylecode="Lrule">NS<footnoteref idref="foot2-ns"></footnoteref></td><td stylecode="Lrule">NS<footnoteref idref="foot2-ns"></footnoteref></td><td stylecode="Lrule Rrule">0.007</td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule">  Change at FINAL VISIT</td><td stylecode="Lrule">-1.7</td><td stylecode="Lrule">0.2</td><td stylecode="Lrule">-0.4</td><td stylecode="Lrule">0.001</td><td stylecode="Lrule">0.001</td><td stylecode="Lrule Rrule">0.001</td></tr>
+<tr><td stylecode="Lrule"><content stylecode="bold">Body Weight (lbs)</content></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule Rrule"></td></tr>
+<tr><td stylecode="Lrule">  Baseline</td><td stylecode="Lrule">202.2</td><td stylecode="Lrule">203.0</td><td stylecode="Lrule">204.0</td><td stylecode="Lrule">NS<footnoteref idref="foot2-ns"></footnoteref></td><td stylecode="Lrule">NS<footnoteref idref="foot2-ns"></footnoteref></td><td stylecode="Lrule Rrule">NS<footnoteref idref="foot2-ns"></footnoteref></td></tr>
+<tr><td stylecode="Lrule">  Change at FINAL VISIT</td><td stylecode="Lrule">0.9</td><td stylecode="Lrule">-0.7</td><td stylecode="Lrule">-8.4</td><td stylecode="Lrule">0.011</td><td stylecode="Lrule">0.001</td><td stylecode="Lrule Rrule">0.001</td></tr>
+</tbody>
+</table>

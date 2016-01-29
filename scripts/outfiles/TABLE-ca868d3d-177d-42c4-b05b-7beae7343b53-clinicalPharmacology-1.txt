@@ -1,0 +1,85 @@
+<table id="table7" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7  Oseltamivir Carboxylate Exposures in Patients With Normal and Reduced Serum Creatinine Clearance</caption>
+<col align="left" valign="top" width="12%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="18%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th stylecode="Lrule Rrule">Parameter</th>
+<th colspan="3" stylecode="Rrule">Normal Renal Function</th>
+<th colspan="5" stylecode="Rrule">Impaired Renal Function</th>
+</tr>
+<tr>
+<th rowspan="3" stylecode="Lrule Rrule"></th>
+<th rowspan="3" stylecode="Rrule">75 mg<br/>once daily</th>
+<th rowspan="3" stylecode="Rrule">75 mg<br/>twice daily</th>
+<th rowspan="3" stylecode="Rrule">150 mg<br/>twice daily</th>
+<th colspan="2" stylecode="Rrule Botrule">Creatinine Clearance<br/>&lt;10 mL/min</th>
+<th colspan="3" stylecode="Rrule Botrule">Creatinine Clearance<br/>&gt;10 and &lt;30 mL/min</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Rrule">CAPD</th>
+<th stylecode="Rrule Toprule">Hemodialysis</th>
+<th rowspan="2" stylecode="Rrule" valign="bottom">75 mg<br/>daily</th>
+<th rowspan="2" stylecode="Rrule">75 mg<br/>alternate days</th>
+<th rowspan="2" stylecode="Rrule" valign="bottom">30 mg<br/>daily</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Rrule">30 mg<br/>weekly</th>
+<th stylecode="Rrule">30 mg alternate<br/>HD cycle</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>max</sub>
+</td>
+<td stylecode="Rrule">259<footnote id="table7a">Observed values. All other values are predicted.</footnote>
+</td>
+<td stylecode="Rrule">348<footnoteref idref="table7a"></footnoteref>
+</td>
+<td stylecode="Rrule">705<footnoteref idref="table7a"></footnoteref>
+</td>
+<td stylecode="Rrule">766</td>
+<td stylecode="Rrule">850</td>
+<td stylecode="Rrule">1638</td>
+<td stylecode="Rrule">1175</td>
+<td stylecode="Rrule">655</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>min</sub>
+</td>
+<td stylecode="Rrule">39<footnoteref idref="table7a"></footnoteref>
+</td>
+<td stylecode="Rrule">138<footnoteref idref="table7a"></footnoteref>
+</td>
+<td stylecode="Rrule">288<footnoteref idref="table7a"></footnoteref>
+</td>
+<td stylecode="Rrule">62</td>
+<td stylecode="Rrule">48</td>
+<td stylecode="Rrule">864</td>
+<td stylecode="Rrule">209</td>
+<td stylecode="Rrule">346</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">AUC<sub>48</sub>
+</td>
+<td stylecode="Rrule">7476<footnoteref idref="table7a"></footnoteref>
+</td>
+<td stylecode="Rrule">10876<footnoteref idref="table7a"></footnoteref>
+</td>
+<td stylecode="Rrule">21864<footnoteref idref="table7a"></footnoteref>
+</td>
+<td stylecode="Rrule">17381</td>
+<td stylecode="Rrule">12429</td>
+<td stylecode="Rrule">62636</td>
+<td stylecode="Rrule">21999</td>
+<td stylecode="Rrule">25054</td>
+</tr>
+</tbody>
+</table>

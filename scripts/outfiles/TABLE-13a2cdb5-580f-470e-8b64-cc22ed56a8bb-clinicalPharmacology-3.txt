@@ -1,0 +1,28 @@
+<table width="86%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule First">
+<td align="center" stylecode="Lrule Rrule" valign="top">Microorganism</td>
+<td align="center" stylecode="Rrule" valign="top">MIC Range (mcg/mL)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">Escherichia coli ATCC 25922</td>
+<td align="center" stylecode="Rrule" valign="top">0.5 to 2</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">Staphylococcus aureus ATCC 29213</td>
+<td align="center" stylecode="Rrule" valign="top">0.12 to 1</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">Haemophilus influenzae ATCC 49247</td>
+<td align="center" stylecode="Rrule" valign="top">4 to 32</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">Streptococcus pneumoniae ATCC 49619</td>
+<td align="center" stylecode="Rrule" valign="top">0.06 to 0.5</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule" valign="top">Neisseria gonorrhoeae ATCC 49226</td>
+<td align="center" stylecode="Rrule" valign="top">0.25 to 1</td>
+</tr>
+</tbody>
+</table>

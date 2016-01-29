@@ -1,0 +1,52 @@
+<table frame="void" id="inv-df60e8cf-a4a6-43dd-9599-2f1372f89ffa" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="73px"></col>
+<col width="96px"></col>
+<col width="14px"></col>
+<col width="169px"></col>
+<col width="140px"></col>
+<col width="122px"></col>
+<col width="193px"></col>
+<col width="129px"></col>
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule">Age-group(years)</td>
+<td align="center" stylecode="Rrule">MeanWeight(kg)</td>
+<td align="center" stylecode="Rrule">n</td>
+<td align="center" stylecode="Rrule">Peak PlasmaConcentration(ng/mL)</td>
+<td align="center" stylecode="Rrule">Time ofPeak PlasmaConcentration(h)</td>
+<td align="center" stylecode="Rrule">MeanEliminationHalf-life(h)</td>
+<td align="center" stylecode="Rrule">SystemicPlasmaClearanceL/h/kg</td>
+<td align="center" stylecode="Botrule">AbsoluteBioavailability</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">18-40 M           F</td>
+<td align="center" stylecode="Rrule">69.062.7</td>
+<td align="center" stylecode="Rrule">65</td>
+<td align="center" stylecode="Rrule">26.242.7</td>
+<td align="center" stylecode="Rrule">2.01.7</td>
+<td align="center" stylecode="Rrule">3.13.5</td>
+<td align="center" stylecode="Rrule">0.4030.354</td>
+<td align="center" stylecode="Botrule">0.4830.663</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">61-74 M           F</td>
+<td align="center" stylecode="Rrule">77.560.2</td>
+<td align="center" stylecode="Rrule">65</td>
+<td align="center" stylecode="Rrule">24.152.4</td>
+<td align="center" stylecode="Rrule">2.11.9</td>
+<td align="center" stylecode="Rrule">4.14.9</td>
+<td align="center" stylecode="Rrule">0.3840.255</td>
+<td align="center" stylecode="Botrule">0.5850.643</td>
+</tr>
+<tr>
+<td stylecode="Rrule">  ≥ 75 M           F</td>
+<td align="center" stylecode="Rrule">78.067.6</td>
+<td align="center" stylecode="Rrule">56</td>
+<td align="center" stylecode="Rrule">37.046.1</td>
+<td align="center" stylecode="Rrule">2.22.1</td>
+<td align="center" stylecode="Rrule">4.56.2</td>
+<td align="center" stylecode="Rrule">0.2770.249</td>
+<td align="center">0.6190.747</td>
+</tr>
+</tbody>
+</table>

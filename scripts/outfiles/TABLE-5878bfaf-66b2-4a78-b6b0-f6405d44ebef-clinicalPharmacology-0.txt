@@ -1,0 +1,44 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="bottom" width="12%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<col align="center" valign="bottom" width="8%"></col>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Time (hr):</td>
+<td stylecode="Rrule">0.5</td>
+<td stylecode="Rrule">1.0</td>
+<td stylecode="Rrule">1.5</td>
+<td stylecode="Rrule">2.0</td>
+<td stylecode="Rrule">3.0</td>
+<td stylecode="Rrule">4.0</td>
+<td stylecode="Rrule">8.0</td>
+<td stylecode="Rrule">12.0</td>
+<td stylecode="Rrule">24.0</td>
+<td stylecode="Rrule">48.0</td>
+<td stylecode="Rrule">72.0</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Conc. (mcg/mL):</td>
+<td stylecode="Rrule">1.02</td>
+<td stylecode="Rrule">2.26</td>
+<td stylecode="Rrule">2.67</td>
+<td stylecode="Rrule">3.01</td>
+<td stylecode="Rrule">3.16</td>
+<td stylecode="Rrule">3.03</td>
+<td stylecode="Rrule">2.03</td>
+<td stylecode="Rrule">1.62</td>
+<td stylecode="Rrule">0.95</td>
+<td stylecode="Rrule">0.37</td>
+<td stylecode="Rrule">0.15</td>
+</tr>
+</tbody>
+</table>

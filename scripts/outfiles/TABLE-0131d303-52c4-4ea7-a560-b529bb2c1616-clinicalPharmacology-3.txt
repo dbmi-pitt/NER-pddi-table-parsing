@@ -1,0 +1,53 @@
+<table border="single" id="id_d05fd44c-7c2f-44ee-b281-9bbec02acf3d" width="440.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_719fbad3-4ca2-4865-98f6-268005745e16">Table 4</caption>
+<col width="17.7%"></col>
+<col width="32.3%"></col>
+<col width="25.0%"></col>
+<col width="25.0%"></col>
+<tbody>
+<tr id="id_f7b47631-0977-419b-838c-03f3a45f9e13">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">Week</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Treatment</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Healing Rate</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>Vs. Placebo </paragraph>p-value<footnote id="id-c6c43ea4-bd43-41b7-ae05-299997195414">P-values are one-sided, obtained by Chi-square test, and not adjusted for multiple comparisons.</footnote>
+</td>
+</tr>
+<tr id="id_d8328a4e-1e6f-46ae-b0fe-7d5a59d49d36">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Nizatidine 300 mg h.s.</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">52/153 (34%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.342</td>
+</tr>
+<tr id="id_e542bfa0-ea7e-4eaa-84fa-f342dd33a0be">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Nizatidine 150 mg b.i.d.</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">65/151 (43%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.022</td>
+</tr>
+<tr id="id_bfee6241-72de-41bc-a352-fa69d96d097b">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Placebo</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">48/151 (32%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr id="id_23eb4aa3-9192-4d9f-9a99-732c50d5d44c">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Nizatidine 300 mg h.s.</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">99/153 (65%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.011</td>
+</tr>
+<tr id="id_9c4277e4-11cf-4dd7-ae2d-e374de6322a1">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Nizatidine 150 mg b.i.d.</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">105/151 (70%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">&lt;0.001</td>
+</tr>
+<tr id="id_6f700a38-6df0-4c14-b37c-d336dc2f831f">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle">Placebo</td>
+<td align="center" stylecode="Rrule" valign="middle">78/151 (52%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+</tbody>
+</table>

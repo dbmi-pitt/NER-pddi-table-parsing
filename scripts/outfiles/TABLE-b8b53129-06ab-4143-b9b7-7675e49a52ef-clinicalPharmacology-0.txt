@@ -1,0 +1,55 @@
+<table id="table1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1 Pharmacokinetic Parameters of Saquinavir at Steady-State After Administration of Different Regimens in HIV-Infected Patients</caption>
+<col align="left" valign="top" width="30%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Dosing Regimen</th>
+<th stylecode="Rrule">N</th>
+<th stylecode="Rrule">AUC<sub>τ</sub>
+<br/>(ng∙h/mL)</th>
+<th stylecode="Rrule">AUC<sub>24h</sub>
+<br/>(ng∙h/mL)</th>
+<th stylecode="Rrule">C<sub>min</sub>
+<br/>(ng/mL)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="5">τ is the dosing interval (ie, 8h if three times daily and 12h if twice daily)</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">INVIRASE 600 mg tid (arithmetic mean, %CV)</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">866 (62)</td>
+<td stylecode="Rrule">2598</td>
+<td stylecode="Rrule">79</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Saquinavir soft gel capsules (FORTOVASE) 1200 mg tid (arithmetic mean)</td>
+<td stylecode="Rrule">31</td>
+<td stylecode="Rrule">7249</td>
+<td stylecode="Rrule">21747</td>
+<td stylecode="Rrule">216</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">INVIRASE 1000 mg bid + ritonavir 100 mg bid (geometric mean and 95% CI)</td>
+<td stylecode="Rrule">24</td>
+<td stylecode="Rrule">14607<br/> (10218-20882)</td>
+<td stylecode="Rrule">29214</td>
+<td stylecode="Rrule">371<br/> (245-561)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Saquinavir soft gel capsules 1000 mg bid + ritonavir 100 mg bid (geometric mean and 95% CI)</td>
+<td stylecode="Rrule">24</td>
+<td stylecode="Rrule">19085<br/> (13943-26124)</td>
+<td stylecode="Rrule">38170</td>
+<td stylecode="Rrule">433<br/> (301-622)</td>
+</tr>
+</tbody>
+</table>

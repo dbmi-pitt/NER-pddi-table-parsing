@@ -1,0 +1,132 @@
+<table width="650px" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Event</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Gemfibrozil
+           
+     
+      <br/>at Study 
+           
+     
+      <br/>Start
+          
+    
+     </paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Placebo
+          
+    
+     <br/>at Study
+          
+    
+     <br/>Start
+         
+   
+    </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Gemfibrozil: 
+           
+     
+      <br/> Placebo
+           
+     
+      <br/>Hazard
+           
+     
+      <br/> Ratio
+           
+     
+      <sup>2</sup>
+</paragraph> 
+         
+   
+    </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> CI Hazard
+          
+    
+     <br/>Ratio
+          
+    
+     <sup>3</sup>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+          
+    
+     <paragraph>Cardiac Events
+           
+     
+      <sup>4</sup>
+</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 110</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 131</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.80</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.62-1.03</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+          
+    
+     <paragraph>Cardiac Deaths</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 36</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 38</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.98</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.63-1.54</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+          
+    
+     <paragraph>Non-Cardiac Deaths</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 65</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 45</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.40</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.95-2.05</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+          
+    
+     <paragraph>All-Cause Mortality</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 101</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 83</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.20</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.90-1.61</td>
+</tr>
+<tr>
+<td colspan="5" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+          
+    
+     <sup>1</sup> Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions.
+          
+    
+     <paragraph>
+<sup>2 </sup>Hazard ratio for risk event in the group originally randomized to Gemfibrozil compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study conditions.
+          
+    
+     </paragraph>
+<paragraph>
+<sup>3</sup> 95% confidence intervals of Gemfibrozil: Placebo group hazard ratio.
+          
+    
+     </paragraph>
+<paragraph>
+<sup>4</sup> Fatal and non-fatal myocardial infarctions plus sudden cardiac deaths over the 8.5 year period.
+          
+    
+     </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

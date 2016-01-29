@@ -1,0 +1,142 @@
+<table id="Tab" width="100%" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1 Pharmacokinetic Parameters (Mean±SD) </caption>
+<colgroup>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+</colgroup>
+<thead>
+<tr stylecode="First Last">
+<th stylecode="Lrule Rrule Toprule">DoseParameters</th>
+<th align="center" stylecode="Lrule Rrule Toprule">AUC<br/>(ngxhr/mL)</th>
+<th align="center" stylecode="Lrule Rrule Toprule">C<sub>max</sub>
+<br/>(ng/mL)</th>
+<th align="center" stylecode="Lrule Rrule Toprule">T<sub>max</sub>
+<br/>(hr)</th>
+<th align="center" stylecode="Lrule Rrule Toprule">C<sub>min</sub>
+<br/>(ng/mL)</th>
+<th align="center" stylecode="Lrule Rrule Toprule">C<sub>avg</sub>
+<br/>(ng/mL)</th>
+<th align="center" stylecode="Lrule Rrule Toprule">Half-Life<br/>(hr)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule First">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Single Dose</content>
+<br/>
+<content stylecode="bold">Pharmacokinetics</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Oxycodone hydrochloride<br/>5 mg tablets x 3</td>
+<td align="center" stylecode="Rrule" valign="top">133.2 ± 33</td>
+<td align="center" stylecode="Rrule" valign="top">22.3 ± 8.2</td>
+<td align="center" stylecode="Rrule" valign="top">1.8 ± 1.8</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">3.73 ± 0.9</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Oxycodone hydrochloride<br/>15 mg tablets</td>
+<td align="center" stylecode="Rrule" valign="top">128.2 ± 35.1</td>
+<td align="center" stylecode="Rrule" valign="top">22.2 ± 7.6</td>
+<td align="center" stylecode="Rrule" valign="top">1.4 ± 0.7</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">3.55 ± 1</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Oxycodone hydrochloride concentrate solution<br/>15 mg oral solution</td>
+<td align="center" stylecode="Rrule" valign="top">130.6 ± 34.7</td>
+<td align="center" stylecode="Rrule" valign="top">21.1 ± 6.1</td>
+<td align="center" stylecode="Rrule" valign="top">1.9 ± 1.5</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">3.71 ± 0.8</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Oxycodone hydrochloride<br/>30 mg tablet</td>
+<td align="center" stylecode="Rrule" valign="top">268.2 ± 60.7</td>
+<td align="center" stylecode="Rrule" valign="top">39.3 ± 14</td>
+<td align="center" stylecode="Rrule" valign="top">2.6 ± 3</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">3.85 ± 1.3</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Food-Effect,</content>
+<br/>
+<content stylecode="bold">Single Dose</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Oxycodone hydrochloride<br/>10 mg/10 mL<br/>oral solution (fasted)</td>
+<td align="center" stylecode="Rrule" valign="top">105 ± 6.2</td>
+<td align="center" stylecode="Rrule" valign="top">19 ± 3.7</td>
+<td align="center" stylecode="Rrule" valign="top">1.25 ± 0.5</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">2.9 ± 0.4</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Oxycodone hydrochloride<br/>10 mg/10 mL<br/>oral solution (fed)</td>
+<td align="center" stylecode="Rrule" valign="top">133 ± 25.2</td>
+<td align="center" stylecode="Rrule" valign="top">17.7 ± 3</td>
+<td align="center" stylecode="Rrule" valign="top">2.54 ± 1.2</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+<td align="center" stylecode="Rrule" valign="top">3.3 ± 0.5</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Multiple-Dose</content>
+<br/>
+<content stylecode="bold">Studies</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top">AUC<sub>(72 -84)</sub>
+</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<br/>Oxycodone hydrochloride <br/>5 mg tablets<br/>q6h x 14 doses</td>
+<td align="center" stylecode="Rrule" valign="top">113.3 ± 24</td>
+<td align="center" stylecode="Rrule" valign="top">15.7 ± 3.2</td>
+<td align="center" stylecode="Rrule" valign="top">1.3 ± 0.3</td>
+<td align="center" stylecode="Rrule" valign="top">7.4 ± 1.8</td>
+<td align="center" stylecode="Rrule" valign="top">9.4 ± 2</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Oxycodone hydrochloride <br/>3.33 mg (3.33 mL)<br/>oral solution q4h x 21 doses</td>
+<td align="center" stylecode="Rrule" valign="top">99 ± 24.8</td>
+<td align="center" stylecode="Rrule" valign="top">12.9 ± 3.1</td>
+<td align="center" stylecode="Rrule" valign="top">1 ± 0.3</td>
+<td align="center" stylecode="Rrule" valign="top">7.2 ± 2.3</td>
+<td align="center" stylecode="Rrule" valign="top">9.7 ± 2.6</td>
+<td align="center" stylecode="Rrule" valign="top">n/a</td>
+</tr>
+</tbody>
+</table>

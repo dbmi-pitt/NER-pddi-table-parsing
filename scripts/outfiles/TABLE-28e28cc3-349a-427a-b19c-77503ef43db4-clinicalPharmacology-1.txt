@@ -1,0 +1,63 @@
+<table border="1" frame="border" id="inv-df00587e-5e83-41f6-a198-d25352fa2acb" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-95f0d357-d4a6-4e5e-bb6e-2693e888f370">TABLE 4. Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs</caption>
+<col width="156px"></col>
+<col width="224px"></col>
+<col width="120px"></col>
+<col width="116px"></col>
+<tfoot>
+<tr>
+<td colspan="4">
+<paragraph stylecode="footnote">
+<sup>#</sup>See Section 7 for clinical significance.</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode="BotruleLrule Rrule">
+<content stylecode="bold">Atorvastatin</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule">
+<content stylecode="bold">Co-administered drug and dosing regimen</content>
+</td>
+</tr>
+<tr>
+<td align="right" stylecode="BotruleLrule Rrule"> </td>
+<td align="center" stylecode="Botrule Rrule">
+<content stylecode="bold">Drug/Dose (mg)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">
+<content stylecode="bold">Change in AUC</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">
+<content stylecode="bold">Change</content>
+<content stylecode="bold">in</content>
+<content stylecode="bold">C</content>
+<sub>max</sub>
+</td>
+</tr>
+<tr>
+<td stylecode="BotruleLrule Rrule">80 mg QD for 15 days </td>
+<td stylecode="Botrule Rrule">Antipyrine, 600 mg SD </td>
+<td align="center" stylecode="Botrule Rrule">↑ 3%</td>
+<td align="center" stylecode="Botrule Rrule">↓ 11%</td>
+</tr>
+<tr>
+<td stylecode="BotruleLrule Rrule">80 mg QD for 14 days </td>
+<td stylecode="Botrule Rrule">
+<sup>#</sup> Digoxin 0.25 mg QD, 20 days </td>
+<td align="center" stylecode="Botrule Rrule">↑ 15%</td>
+<td align="center" stylecode="Botrule Rrule">↑ 20 %</td>
+</tr>
+<tr>
+<td stylecode="BotruleLrule Rrule">40 mg QD for 22 days </td>
+<td stylecode="Botrule Rrule">Oral contraceptive QD, 2 months
+ - norethindrone 1 mg 
+- ethinyl estradiol 35 μg </td>
+<td align="center" stylecode="Botrule Rrule">↑ 28%
+↑ 19%</td>
+<td align="center" stylecode="Botrule Rrule">↑ 23%
+↑ 30%</td>
+</tr>
+</tbody>
+</table>

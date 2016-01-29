@@ -1,0 +1,100 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple-dose study in patients with cancer pain.</caption>
+<col width="264"></col>
+<col width="73"></col>
+<col width="61"></col>
+<col width="45"></col>
+<col width="61"></col>
+<col width="90"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule Lrule Rrule "> <br/>
+<content stylecode="bold">Regimen/Dosage Form</content>
+</td>
+<td stylecode="Toprule Lrule Rrule "> <br/>
+<content stylecode="bold">AUC#,+</content>
+<br/>
+<content stylecode="bold">(ng.h/mL)</content>
+</td>
+<td stylecode="Toprule Lrule Rrule "> <br/>
+<content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+<content stylecode="bold">+</content>
+<br/>
+<content stylecode="bold">(ng/mL)</content>
+</td>
+<td stylecode="Toprule Lrule Rrule "> <br/>
+<content stylecode="bold">T</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+<br/>
+<content stylecode="bold">(h)</content>
+</td>
+<td stylecode="Toprule Lrule Rrule "> <br/>
+<content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>min</sub>
+</content>
+<content stylecode="bold">+</content>
+<br/>
+<content stylecode="bold">(ng/mL)</content>
+</td>
+<td stylecode="Toprule Lrule Rrule "> <br/>
+<content stylecode="bold">Fluctuation*</content>
+</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Lrule Rrule "> <br/>
+<content stylecode="bold">Single Dose (n=24)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule "> <br/>Morphine sulfate extended-release Capsule</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>271.0<br/>(19.4)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>15.6<br/>(24.4)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>8.6<br/>(41.1)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>na^</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>na</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule "> <br/>Extended-Release Tablet</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>304.3<br/>(19.1)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>30.5<br/>(32.1)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>2.5<br/>(52.6)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>na</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>na</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule "> <br/>Morphine Solution</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>362.4<br/>(42.6)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>64.4<br/>(38.2)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>0.9<br/>(55.8)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>na</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>na</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Lrule Rrule "> <br/>
+<content stylecode="bold">Multiple Dose (n=24)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule "> <br/>Morphine sulfate extended-release Capsule<br/>Once Daily</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>500.9<br/>(38.6)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>37.3<br/>(37.7)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>10.3<br/>(32.2)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>9.9<br/>(52.3)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>3.0<br/>(45.5)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule "> <br/>Extended-Release Tablet Twice Daily</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>457.3<br/>(40.2)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>36.9<br/>(42.0)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>4.4<br/>(53.0)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>7.6<br/>(60.3)</td>
+<td align="center" stylecode="Lrule Rrule "> <br/>4.1<br/>(51.5)</td>
+</tr>
+</tbody>
+</table>

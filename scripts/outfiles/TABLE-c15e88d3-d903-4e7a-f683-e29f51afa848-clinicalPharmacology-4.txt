@@ -1,0 +1,256 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3 Susceptibility Interpretive Criteria for Meropenem</caption>
+<col width="51%"></col>
+<col width="11%"></col>
+<col width="7%"></col>
+<col width="8%"></col>
+<col width="7%"></col>
+<col width="9%"></col>
+<col width="7%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule "></td>
+<td colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Concentrations (mcg/mL)</content>
+</paragraph>
+</td>
+<td colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Disk Diffusion </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(zone diameters in mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Pathogen</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="italics">Enterobacteriaceae </content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≤ 1</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>2</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≥ 4</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≥ 23</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>20-22</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≤ 19</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+<footnote id="_Ref404079869">The interpretive criteria for <content stylecode="italics">P. aeruginosa</content> are based upon the dosing of 1g every 8 hours.</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≤ 2</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>4</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≥ 8</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≥ 19</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>16-18</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≤ 15</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae</content>
+<footnote id="_Ref404080011">The current absence of data on resistant isolates precludes defining any category other than “Susceptible”. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing.</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≤ 0.5</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≥ 20</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="italics">Neisseria meningitidis</content>
+<footnoteref idref="_Ref404080011"></footnoteref>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≤ 0.25</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph> —</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≥ 30</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<footnote id="_Ref404080054">For nonmeningitis isolates of <content stylecode="italics">S. pneumoniae</content> a penicillin MIC of ≤ 0.06 mcg/mL or oxacillin zone ≥ 20 mm can predict susceptibility to meropenem. MIC testing should be performed on isolates that do not test as susceptible by either of these methods, and on all meningitis <content stylecode="italics">S. pneumoniae</content> isolates. </footnote>,<footnote id="_Ref404080070">Reliable disk diffusion tests for meropenem do not yet exist for testing streptococci.</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≤ 0.25</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≥ 1</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus agalactiae</content> and <content stylecode="italics">Streptococcus pyogenes</content>
+<footnoteref idref="_Ref404080011"></footnoteref>,<footnote id="_Ref404080102">Viridans group streptococci should be tested for meropenem susceptibility using a MIC method and results should be reported using the interpretive criteria listed for <content stylecode="italics">S. agalactiae</content> and <content stylecode="italics">S. pyogenes</content>.</footnote>,<footnoteref idref="_Ref404080070"></footnoteref>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≤ 0.5</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="italics">Anaerobes</content>
+<footnote id="_Ref404080160">MIC values using either Brucella blood or Wilkins Chalgren agar (former reference medium) are considered equivalent, based upon published in vitro literature and a multicenter collaborative trial for these antimicrobial agents.  Broth microdilution is only recommended for testing the <content stylecode="italics">B. fragilis</content> group.  MIC values for agar or broth microdilution are considered equivalent for that group.</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≤ 4</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>8</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≥ 16</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Botrule Toprule ">
+<paragraph>S = Susceptible, I = Intermediate, R = Resistant</paragraph>
+<paragraph>No interpretative criteria have been established for testing enterococci.</paragraph>
+<paragraph>Susceptibility of staphylococci to meropenem may be deduced from testing penicillin and either cefoxitin or oxacillin.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

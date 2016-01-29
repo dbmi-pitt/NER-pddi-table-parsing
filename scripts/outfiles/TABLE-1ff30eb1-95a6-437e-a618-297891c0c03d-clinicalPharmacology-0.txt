@@ -1,0 +1,138 @@
+<table frame="hsides" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table  3. Effect of Co-administered Drugs on Rosuvastatin Systemic Exposure</caption>
+<col width="150*"></col>
+<col width="81*"></col>
+<col width="80*"></col>
+<col width="82*"></col>
+<thead>
+<tr>
+<th stylecode="     Botrule     " valign="top"> Co-administered drug and dosing regimen</th>
+<th align="center" colspan="3" stylecode="     Botrule     " valign="top"> Rosuvastatin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"> </td>
+<td valign="top"> <paragraph>
+<content stylecode="bold">Dose (mg)<footnote id="FOOT_133">Single dose unless otherwise noted</footnote>
+</content>
+</paragraph>
+</td>
+<td valign="top"> <paragraph>
+<content stylecode="bold">Change in AUC</content>
+</paragraph>
+</td>
+<td valign="top"> <paragraph>
+<content stylecode="bold">Change in C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"> <paragraph>Cyclosporine – stable dose required (75 mg – 200 mg BID)			</paragraph>
+</td>
+<td valign="top"> <paragraph>10 mg QD for 10 days</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 7-fold<footnote id="FOOT_134">Clinically significant [<content stylecode="italics">see Dosage and Administration</content> (<linkhtml href="#LINK_05b2d23d-243b-4fea-0488-ae7860625c56">2</linkhtml>) <content stylecode="italics">and Warnings and Precautions</content> (<linkhtml href="#LINK_4848c28e-d166-4014-6a85-a86738b37358">5</linkhtml>)</footnote>
+</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 11-fold<footnoteref idref="FOOT_134"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"> <paragraph>Gemfibrozil 600 mg BID for 7 days		</paragraph>
+</td>
+<td valign="top"> <paragraph>80 mg	</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 1.9-fold<footnoteref idref="FOOT_134"></footnoteref>
+</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 2.2-fold<footnoteref idref="FOOT_134"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"> <paragraph>Lopinavir/ritonavir combination 400 mg/100 mg BID for 10 days			</paragraph>
+</td>
+<td valign="top"> <paragraph>20 mg QD for 7 days</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 2-fold<footnoteref idref="FOOT_134"></footnoteref>
+</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 5-fold<footnoteref idref="FOOT_134"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"> <paragraph>Fenofibrate 67 mg TID for 7 days		</paragraph>
+</td>
+<td valign="top"> <paragraph>10 mg	</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 7%</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 21%</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="1" valign="top"> <paragraph>Aluminum &amp; magnesium hydroxide combination antacid</paragraph>
+<paragraph> Administered simultaneously</paragraph>
+<paragraph> Administered 2 hours apart</paragraph>
+</td>
+<td valign="top"> <paragraph>40 mg</paragraph>
+<paragraph>40 mg</paragraph>
+</td>
+<td valign="top"> <paragraph>↓ 54%<footnoteref idref="FOOT_134"></footnoteref>
+</paragraph>
+<paragraph>↓ 22%</paragraph>
+</td>
+<td valign="top"> <paragraph>↓ 50%<footnoteref idref="FOOT_134"></footnoteref>
+</paragraph>
+<paragraph>↓ 16%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"> <paragraph>Erythromycin 500 mg QID for 7 days</paragraph>
+</td>
+<td valign="top"> <paragraph>80 mg	</paragraph>
+</td>
+<td valign="top"> <paragraph>↓ 20%</paragraph>
+</td>
+<td valign="top"> <paragraph>↓ 31%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"> <paragraph>Ketoconazole 200 mg BID for 7 days  </paragraph>
+</td>
+<td valign="top"> <paragraph>80 mg	</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 2%</paragraph>
+</td>
+<td valign="top"> <paragraph>↓ 5%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"> <paragraph>Itraconazole 200 mg QD for 5 days</paragraph>
+</td>
+<td valign="top"> <paragraph>10 mg</paragraph>
+<paragraph>80 mg</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 39% </paragraph>
+<paragraph>↑ 28%</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 36%</paragraph>
+<paragraph>↑ 15%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"> <paragraph>Fluconazole 200 mg QD for 11 days			</paragraph>
+</td>
+<td valign="top"> <paragraph>80 mg</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 14%</paragraph>
+</td>
+<td valign="top"> <paragraph>↑ 9%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

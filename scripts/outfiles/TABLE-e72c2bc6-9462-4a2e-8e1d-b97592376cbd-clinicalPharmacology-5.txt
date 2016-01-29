@@ -1,0 +1,204 @@
+<table id="table12" width="95%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 12: Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIRACEPT</caption>
+<col align="left" valign="top" width="30%"></col>
+<col align="left" valign="top" width="15%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th stylecode="Rrule"></th>
+<th stylecode="Rrule"></th>
+<th colspan="3" stylecode="Botrule Rrule">% Change of Coadministered Drug Pharmacokinetic Parameters<footnote>↑ Indicates increase; ↓  Indicates decrease; ↔ Indicates no change (geometric mean exposure increased, or decreased &lt;10%)</footnote> (90% CI)</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule">Coadministered Drug</th>
+<th align="center" stylecode="Rrule">Nelfinavir Dose</th>
+<th stylecode="Rrule">N</th>
+<th stylecode="Rrule">AUC</th>
+<th stylecode="Rrule">C<sub>max</sub>
+</th>
+<th stylecode="Rrule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" valign="top">NA: Not relevant for single-dose treatment; ND: Cannot be determined</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">HIV-Protease Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Indinavir 800 mg Single Dose</td>
+<td stylecode="Rrule">750 mg q8h × 7 days</td>
+<td stylecode="Rrule">6</td>
+<td stylecode="Rrule">↑51%<br/>(↑29–↑77%)</td>
+<td stylecode="Rrule">↓10%<br/>(↓28–↑13%)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ritonavir 500 mg Single Dose</td>
+<td stylecode="Rrule">750 mg q8h × 5 doses</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Saquinavir 1200 mg Single Dose<footnote>Using the soft-gelatin capsule formulation of saquinavir 1200 mg</footnote>
+</td>
+<td stylecode="Rrule">750 mg TID × 4 days</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↑392%<br/>(↑291–↑521%)</td>
+<td stylecode="Rrule">↑179%<br/>(↑117–↑259%)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Amprenavir 800 mg TID × 14 days</td>
+<td stylecode="Rrule">750 mg TID × 14 days</td>
+<td stylecode="Rrule">6</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↓14%<br/>(↓38–↑20%)</td>
+<td stylecode="Rrule">↑189%<br/>(↑52–↑448%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">Nucleoside Reverse Transcriptase Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Lamivudine 150 mg Single Dose</td>
+<td stylecode="Rrule">750 mg q8h × 7–10 days</td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↑10%<br/>(↑2–↑18%)</td>
+<td stylecode="Rrule">↑31%<br/>(↑9–↑56%)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Zidovudine 200 mg Single Dose</td>
+<td stylecode="Rrule">750 mg q8h × 7–10 days</td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↓35%<br/>(↓29–↓40%)</td>
+<td stylecode="Rrule">↓31%<br/>(↓13–↓46%)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">Non-nucleoside Reverse Transcriptase Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Efavirenz 600 mg qd × 7 days</td>
+<td stylecode="Rrule">750 mg q8h × 7 days</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">↓12%<br/>(↓31–↑12%)</td>
+<td stylecode="Rrule">↓12%<br/>(↓29–↑8%)</td>
+<td stylecode="Rrule">↓22%<br/>(↓54–↑32%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Delavirdine 400 mg q8h × 14 days</td>
+<td stylecode="Rrule">750 mg q8h × 7 days</td>
+<td stylecode="Rrule">7</td>
+<td stylecode="Rrule">↓31%<br/>(↓57–↑10%)</td>
+<td stylecode="Rrule">↓27%<br/>(↓49–↑4%)</td>
+<td stylecode="Rrule">↓33%<br/>(↓70–↑49%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">Anti-infective Agents</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifabutin 150 mg qd × 8 days<footnote>Rifabutin 150 mg qd changes are relative to Rifabutin 300 mg qd × 8 days without coadministration with nelfinavir</footnote>
+</td>
+<td stylecode="Rrule">750 mg q8h × 7–8 days<footnote>Comparable changes in rifabutin concentrations were observed with VIRACEPT 1250 mg q12h × 7 days</footnote>
+</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↑83%<br/>(↑72–↑96%)</td>
+<td stylecode="Rrule">↑19%<br/>(↑11–↑28%)</td>
+<td stylecode="Rrule">↑177%<br/>(↑144–↑215%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifabutin 300 mg qd × 8 days</td>
+<td stylecode="Rrule">750 mg q8h × 7–8 days</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">↑207%<br/>(↑161–↑263%)</td>
+<td stylecode="Rrule">↑146%<br/>(↑118–↑178%)</td>
+<td stylecode="Rrule">↑305%<br/>(↑245–↑375%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Azithromycin 1200 mg Single Dose</td>
+<td stylecode="Rrule">750 mg TID × 11 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↑112%<br/>(↑80–↑150%)</td>
+<td stylecode="Rrule">↑136%<br/>(↑77–↑215%)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">HMG-CoA Reductase Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atorvastatin 10 mg qd × 28 days</td>
+<td stylecode="Rrule">1250 mg BID × 14 days</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↑74%<br/>(↑41–↑116%)</td>
+<td stylecode="Rrule">↑122%<br/>(↑68–↑193%)</td>
+<td stylecode="Rrule">↑39%<br/>(↓21–↑145%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Simvastatin 20 mg qd × 28 days</td>
+<td stylecode="Rrule">1250 mg BID × 14 days</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑505%<br/>(↑393–↑643%)</td>
+<td stylecode="Rrule">↑517%<br/>(↑367–↑715%)</td>
+<td stylecode="Rrule">ND</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">Other Agents</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ethinyl estradiol 35 µg qd × 15 days</td>
+<td stylecode="Rrule">750 mg q8h × 7 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓47%<br/>(↓42–↓52%)</td>
+<td stylecode="Rrule">↓28%<br/>(↓16–↓37%)</td>
+<td stylecode="Rrule">↓62%<br/>(↓57–↓67%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Norethindrone 0.4 mg qd × 15 days</td>
+<td stylecode="Rrule">750 mg q8h × 7 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓18%<br/>(↓13–↓23%)</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↓46%<br/>(↓38–↓53%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Methadone 80 mg ± 21 mg qd<footnote>Changes are reported for total plasma methadone; changes for the individual R-enantiomer and S-enantiomer were similar</footnote> &gt;1 month</td>
+<td stylecode="Rrule">1250 mg BID × 8 days</td>
+<td stylecode="Rrule">13</td>
+<td stylecode="Rrule">↓47%<br/>(↓42–↓51%)</td>
+<td stylecode="Rrule">↓46%<br/>(↓42–↓49%)</td>
+<td stylecode="Rrule">↓53%<br/>(↓49–↓57%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Phenytoin 300 mg qd × 14 days<footnote>Phenytoin exposure measures are reported for total phenytoin exposure. The effect of nelfinavir on unbound phenytoin was similar</footnote>
+</td>
+<td stylecode="Rrule">1250 mg BID × 7 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓29%<br/>(↓17–↓39%)</td>
+<td stylecode="Rrule">↓21%<br/>(↓12–↓29%)</td>
+<td stylecode="Rrule">↓39%<br/>(↓27–↓49%)</td>
+</tr>
+</tbody>
+</table>

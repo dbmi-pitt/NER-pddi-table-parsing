@@ -1,0 +1,42 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="22%"></col>
+<col width="46%"></col>
+<col width="33%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+<th align="center" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">Average Minimum Concentration</content>
+</th>
+<th align="center" stylecode="Botrule Toprule " valign="bottom">
+<content stylecode="bold">95% Confidence Limits</content>
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">Regimen</content>
+</th>
+<th align="center" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">ng/mL</content>
+</th>
+<th align="center" stylecode="Botrule " valign="top">
+<content stylecode="bold">ng/mL</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>50 mg × 3 daily</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>238</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule ">
+<paragraph>181–295</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -40,7 +40,7 @@ def generate():
     ## encoding and "prettify" are done at the time of extraction.
     soupTemp = BeautifulSoup(html)
 
-    output = open(os.path.join(dir, "output.txt"), "w")
+    output = open(os.path.join(dir, "output/output.txt"), "w")
     output.write(soupTemp.prettify().encode("utf-8"))
     output.close()
 
@@ -68,7 +68,7 @@ def organize():
     rowsTot = 0
     dir = os.path.dirname(__file__)  # Absolute path of the directory where the program resides
 
-    input = open(os.path.join(dir, "output.txt"), "r")  # Opens output.txt
+    input = open(os.path.join(dir, "output/output.txt"), "r")  # Opens output.txt
     htmlParse = input.read().decode("utf-8")  # Sets htmlParse to reading the input with utf-8 decoding
 
     # Section prepares each part for addition to tableInfo dictionary
@@ -162,7 +162,7 @@ def organize():
 
     # print(stringy)
 
-    headersFile = open(os.path.join(dir, "headers.txt"), "w")
+    headersFile = open(os.path.join(dir, "output/headers.txt"), "w")
     headersFile.write(str(tableInfo))
 
     # Print summary statistics of the tables.
@@ -183,11 +183,8 @@ def dbToDict():
     dir = os.path.dirname(__file__)
 
     # [WORKING] Section takes txt database and categorizes everything into a dictionary
-    db = os.path.join(dir, "Categories.txt") ## get the Categories.txt into the code repository and adjust like above to not care about local configuration (relative path)
+    db = os.path.join(dir, "output/Categories.txt") ## get the Categories.txt into the code repository and adjust like above to not care about local configuration (relative path)
     data = open(db, "rb")
-
-    '''input = open(os.path.join(dir, "Categories.txt"), "r")  # Opens output.txt
-    data = input.read().decode("utf-8")'''
 
     for line in data:
         line = re.split(r"\t+", line.strip("\n"))
@@ -199,10 +196,7 @@ def dbToDict():
         else:
             connect.update({line[1]: [line[0]]})
 
-    ''' for key in connect:
-        print key, 'is the key for these headers', connect[key] '''
-
-    file = open(os.path.join(dir, "dbToDict.txt"), "w")
+    file = open(os.path.join(dir, "output/dbToDict.txt"), "w")
     file.write(str(connect))
     print 'done'
 
@@ -213,7 +207,7 @@ def drugMentions():
     finalList = []
     textList = []
 
-    input = open(os.path.join(dir, "output.txt"), "r")
+    input = open(os.path.join(dir, "output/output.txt"), "r")
     htmlParse = input.read().decode("utf-8")
 
     soup = BeautifulSoup(htmlParse)
@@ -231,11 +225,11 @@ def drugMentions():
         finalList.append([tableIDs[c].encode("utf-8"), textList])
         textList = []
 
-    file = open(os.path.join(dir, "finalList.txt"), "w")
+    file = open(os.path.join(dir, "output/finalList.txt"), "w")
     file.write(str(finalList))
 
     for c in range (0, len(finalList)):
-        file = open(os.path.join(dir, finalList[c][0].replace("TABLE-", "")), "w")
+        file = open(os.path.join(dir, finalList[c][0].replace("output/TABLE-", "")), "w")
         file.write(str(finalList[c][1]))
 
 

@@ -1,0 +1,80 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Mean (CV%)<footnote id="FOOT_5885">Coefficient of variation</footnote> Pharmacokinetic Parameters of Etodolac in Normal Healthy Adults and Various Special Populations</caption>
+<col width="12.8%"></col>
+<col width="11.1%"></col>
+<col width="11.1%"></col>
+<col width="9.5%"></col>
+<col width="11.4%"></col>
+<col width="9.7%"></col>
+<col width="10.2%"></col>
+<col width="12.5%"></col>
+<col width="11.6%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule     "> PK Parameters</td>
+<td align="center" rowspan="2" stylecode="     Botrule     "> Normal Healthy Adults (18 to 65)<footnote id="FOOT_5886">Age Range (years)</footnote> (n = 179)</td>
+<td align="center" rowspan="2" stylecode="     Botrule     "> Healthy Males (18 to 65)   (n = 176)</td>
+<td align="center" rowspan="2" stylecode="     Botrule     "> Healthy Females (27 to 65)   (n = 3)</td>
+<td align="center" rowspan="2" stylecode="     Botrule     "> Elderly (&gt; 65) (70 to 84)</td>
+<td align="center" colspan="2" stylecode="     Botrule     "> Hemodialysis (24 to 65) (n = 9)</td>
+<td align="center" rowspan="2" stylecode="     Botrule     "> Renal Impairment (46 to 73)   (n = 10)</td>
+<td align="center" rowspan="2" stylecode="     Botrule          Rrule     "> Hepatic Impairment (34 to 60)   (n = 9)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     "> Dialysis On</td>
+<td align="center" stylecode="     Botrule          Rrule     "> Dialysis Off</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> T<sub>max</sub>, h</td>
+<td align="center" stylecode="     Botrule     "> 1.4 (61%)<footnoteref idref="FOOT_5885"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> 1.4 (60%)</td>
+<td align="center" stylecode="     Botrule     "> 1.7 (60%)</td>
+<td align="center" stylecode="     Botrule     "> 1.2 (43%)</td>
+<td align="center" stylecode="     Botrule     "> 1.7 (88%)</td>
+<td align="center" stylecode="     Botrule     "> 0.9 (67%)</td>
+<td align="center" stylecode="     Botrule     "> 2.1 (46%)</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 1.1 (15%)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> Oral Clearance, mL/h/kg (CL/F)</td>
+<td align="center" stylecode="     Botrule     "> 49.1 (33%)</td>
+<td align="center" stylecode="     Botrule     "> 49.4 (33%)</td>
+<td align="center" stylecode="     Botrule     "> 35.7 (28%)</td>
+<td align="center" stylecode="     Botrule     "> 45.7 (27%)</td>
+<td align="center" stylecode="     Botrule     "> NA<footnote id="FOOT_5887">NA = not available</footnote>
+</td>
+<td align="center" stylecode="     Botrule     "> NA<footnoteref idref="FOOT_5887"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> 58.3 (19%)</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 42.0 (43%)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> Apparent Volume of Distribution, mL/kg (Vd/F)</td>
+<td align="center" stylecode="     Botrule     "> 393 (29%)</td>
+<td align="center" stylecode="     Botrule     "> 394 (29%)</td>
+<td align="center" stylecode="     Botrule     "> 300 (8%)</td>
+<td align="center" stylecode="     Botrule     "> 414 (38%)</td>
+<td align="center" stylecode="     Botrule     "> NA<footnoteref idref="FOOT_5887"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> NA<footnoteref idref="FOOT_5887"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> NA<footnoteref idref="FOOT_5887"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> NA<footnoteref idref="FOOT_5887"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> Terminal Half-Life, h</td>
+<td align="center" stylecode="     Botrule     "> 6.4 (22%)</td>
+<td align="center" stylecode="     Botrule     "> 6.4 (22%)</td>
+<td align="center" stylecode="     Botrule     "> 7.9 (35%)</td>
+<td align="center" stylecode="     Botrule     "> 6.5 (24%)</td>
+<td align="center" stylecode="     Botrule     "> 5.1 (22%)</td>
+<td align="center" stylecode="     Botrule     "> 7.5 (34%)</td>
+<td align="center" stylecode="     Botrule     "> NA<footnoteref idref="FOOT_5887"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 5.7 (24%)</td>
+</tr>
+</tbody>
+</table>

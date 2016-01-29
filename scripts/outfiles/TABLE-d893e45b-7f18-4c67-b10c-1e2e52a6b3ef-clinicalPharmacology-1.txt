@@ -1,0 +1,97 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="23%"></col>
+<col width="39%"></col>
+<tbody>
+<tr>
+<td colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Table 2.  Acceptable Quality Control Ranges for Susceptibility Testing </content>
+<footnote id="_Ref409075633">For cefoxitin QC see CLSI document M100-S24. <sup>2</sup>
+</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Quality Control Organism</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory Concentration (mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Disk Diffusion Zone Diameters (mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Enterococcus faecalis</content>
+</paragraph>
+<paragraph>ATCC® 29212</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>8-32</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Staphlococcus aureus</content>
+</paragraph>
+<paragraph>ATCC® 25923</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>18-24</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus</content>
+</paragraph>
+<paragraph>ATCC® 29213</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0.12 – 0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Streptococcus pneumoniae</paragraph>
+<paragraph>ATCC® 49619 <footnote id="_Ref409077172">Despite the lack of reliable disk diffusion interpretive criteria for <content stylecode="italics">S. pneumoniae</content> with certain beta-lactams, <content stylecode="italics">Streptococcus pneumoniae</content> ATCC® 49619 is the strain designated for QC of all disk diffusion tests with <content stylecode="italics">Streptococcus spp.</content>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>≤12<sup></sup>
+<footnote id="_Ref409077023">Deterioration of oxacillin disk content is best assessed with QC organism <content stylecode="italics">S. aureus</content> ATCC® 25923, with an acceptable zone diameter for 18-24.</footnote>
+</paragraph>
+<paragraph>(oxacillin)</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>ATCC = American Type Culture Collection</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,38 @@
+<table border="0" cellpadding="0" cellspacing="0" id="iba000e63-ac7c-48b9-88c6-0f6343e56164" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">   <content stylecode="underline">MIC (mcg/mL)</content>   <content stylecode="bold"></content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="underline">Interpretation</content>
+<content stylecode="bold">
+<content stylecode="underline"></content>
+</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">≤0.25<content stylecode="bold"></content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">   Susceptible    (S)   <content stylecode="bold"></content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">0.5 to 4<content stylecode="bold"></content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">   Intermediate  (I)   <content stylecode="bold"></content>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule" valign="top">≥8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">   Resistant       (R)   <br/>
+</td>
+</tr>
+</tbody>
+</table>

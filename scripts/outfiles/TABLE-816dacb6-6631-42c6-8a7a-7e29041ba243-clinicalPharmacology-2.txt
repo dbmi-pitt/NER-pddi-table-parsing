@@ -1,0 +1,114 @@
+<table border="single" id="id_12efcef4-d51c-4c8c-9b74-37435743c14b" width="439" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_7357b74c-e845-4cba-972c-847b98f38eec">Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
+                                        <footnote id="id-65d1c500-9980-44d0-93c4-f5c57afc3472">Includes only patients with pretreatment clarithromycin susceptibility test results</footnote>
+</caption>
+<col width="18.0%"></col>
+<col width="11.8%"></col>
+<col width="14.4%"></col>
+<col width="13.9%"></col>
+<col width="13.9%"></col>
+<col width="13.9%"></col>
+<col width="14.1%"></col>
+<tbody>
+<tr id="id_66bd71fb-49eb-4c50-ad03-b08d606bcc9c">
+<td align="center" colspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="top">Clarithromycin Pretreatment Results</td>
+<td align="center" colspan="5" stylecode="Botrule Toprule Rrule Lrule" valign="top">Clarithromycin Post-treatment Results</td>
+</tr>
+<tr id="id_a51d7724-f6ca-44b1-a71d-5439db9e054c">
+<td align="left" colspan="2" rowspan="3" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="center" rowspan="3" stylecode="Botrule Rrule" valign="top">negative - eradicated
+                                                <content stylecode="italics">H. pylori</content>
+</td>
+<td align="center" colspan="4" stylecode="Rrule" valign="middle">positive – not eradicated
+                                                <content stylecode="italics">H. pylori</content>
+</td>
+</tr>
+<tr id="id_6fa6d025-b2f7-4272-aeba-ac80a8f9c9a0">
+<td align="center" colspan="4" stylecode="Lrule Botrule Rrule" valign="middle">Post-treatment susceptibility results</td>
+</tr>
+<tr id="id_38bc1301-2144-4be0-a032-05156508d42a">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">S
+                                                <footnote id="id-dbd97c6d-f4f8-463e-8f9e-ebb28266563c">Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">I
+                                                <footnoteref idref="id-dbd97c6d-f4f8-463e-8f9e-ebb28266563c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">R
+                                                <footnoteref idref="id-dbd97c6d-f4f8-463e-8f9e-ebb28266563c"></footnoteref>
+</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">No MIC</td>
+</tr>
+<tr id="id_9e57bd7b-0913-457a-af6b-d79419f8f46b">
+<td align="left" colspan="7" stylecode="Lrule Botrule Rrule" valign="top">Triple Therapy 14 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392)</td>
+</tr>
+<tr id="id_7a38f7c4-4d0d-425d-beae-33083a3b14b4">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Susceptible
+                                                <footnoteref idref="id-dbd97c6d-f4f8-463e-8f9e-ebb28266563c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">112</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">105</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">7</td>
+</tr>
+<tr id="id_1d427e42-e553-4172-849c-13aff6fca118">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Intermediate
+                                                <footnoteref idref="id-dbd97c6d-f4f8-463e-8f9e-ebb28266563c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_504e7c02-ccc0-44e0-afd6-7f9644abfa5d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Resistant
+                                                <footnoteref idref="id-dbd97c6d-f4f8-463e-8f9e-ebb28266563c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">17</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">6</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top">7</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">4</td>
+</tr>
+<tr id="id_a6d82305-dd54-40b4-ad6a-08ee335463b1">
+<td align="left" colspan="7" stylecode="Lrule Botrule Rrule" valign="top">Triple Therapy 10 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399)</td>
+</tr>
+<tr id="id_3ecc83ae-b5b2-481f-b72e-18e882ed4099">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Susceptible
+                                                <footnoteref idref="id-dbd97c6d-f4f8-463e-8f9e-ebb28266563c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">42</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">40</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_bfaf272a-a5f9-4348-8cf9-f09da631ca56">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Intermediate
+                                                <footnoteref idref="id-dbd97c6d-f4f8-463e-8f9e-ebb28266563c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_d1f05afd-8a11-464a-a560-f6b788c2f188">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Resistant
+                                                <footnoteref idref="id-dbd97c6d-f4f8-463e-8f9e-ebb28266563c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+</tr>
+</tbody>
+</table>

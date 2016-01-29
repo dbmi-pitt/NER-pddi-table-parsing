@@ -1,0 +1,32 @@
+<table frame="void" width="291" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top"> Microorganism</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top"></td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top"> MIC (µg/mL)</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="italics"> * Broth microdilution test performed using  Haemophilus Test Mediuym (HTM)</content>
+<content stylecode="italics">
+<sup>1</sup>
+</content>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="italics">H. influenzae</content>
+</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="italics">ATCC 49766</content>
+</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="italics">1 – 4</content>
+</td>
+</tr>
+</tbody>
+</table>

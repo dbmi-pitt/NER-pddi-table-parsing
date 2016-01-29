@@ -1,0 +1,82 @@
+<table border="single" id="id_db85a9e3-f580-497d-8f12-e5a7bd2680ed" width="374.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="31.3%"></col>
+<col width="68.7%"></col>
+<tbody>
+<tr id="id_6bac22fb-0dd1-40e0-86b2-8e9917cde573">
+<td align="left" stylecode="Botrule Toprule Rrule" valign="top">
+<content stylecode="bold">Parameter</content>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="bold">Patients with type 2 diabetes<footnote id="id-17697e59-b13e-409f-ae47-f34624d4891c">dosed preprandially with three meals</footnote>
+</content>
+</td>
+</tr>
+<tr id="id_6893bd2e-58e2-48dc-8cba-5242a5186162">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>Dose</paragraph>
+<paragraph>0.5 mg</paragraph>
+<paragraph>1 mg</paragraph>
+<paragraph>2 mg</paragraph>4 mg</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>AUC<sub>0-24 hr</sub> Mean ±SD (ng/mL*hr):</paragraph>
+<paragraph>68.9 ± 154.4</paragraph>
+<paragraph>125.8 ± 129.8</paragraph>
+<paragraph>152.4 ± 89.6</paragraph>447.4 ± 211.3</td>
+</tr>
+<tr id="id_9db3a0eb-81f0-40cd-b8e2-bf12c7f4a459">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph> Dose</paragraph>
+<paragraph>0.5 mg</paragraph>
+<paragraph>1 mg</paragraph>
+<paragraph>2 mg</paragraph>4 mg</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>C<sub>max0-5 hr</sub> Mean ±SD (ng/mL):</paragraph>
+<paragraph>9.8 ± 10.2</paragraph>
+<paragraph>18.3 ± 9.1</paragraph>
+<paragraph>26.0 ± 13.0</paragraph>65.8 ± 30.1</td>
+</tr>
+<tr id="id_7c5d917e-80fc-4ea4-a112-0d2adf097429">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph> Dose</paragraph>0.5 - 4 mg</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>T<sub>max0-5 hr</sub> Means (SD)</paragraph>1.0 - 1.4 (0.3 - 0.5) hr</td>
+</tr>
+<tr id="id_999b5d3b-d788-4746-8a4b-3b27beebd745">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph> Dose</paragraph>0.5 - 4 mg</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>T<sub>½</sub> Means (Ind Range)</paragraph>1.0 - 1.4 (0.4 - 8.0) hr</td>
+</tr>
+<tr id="id_41add5b6-f729-4358-a98f-5116c3f60066">
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr id="id_8486350d-8edd-45f3-9263-211a921eb2b4">
+<td align="left" stylecode="Botrule Rrule" valign="top">Parameter</td>
+<td align="left" stylecode="Botrule" valign="top">Healthy Subjects</td>
+</tr>
+<tr id="id_cacf1937-50c2-4f66-8028-cfe885a93b53">
+<td align="left" stylecode="Botrule Rrule" valign="top">CL based on i.v. </td>
+<td align="left" stylecode="Botrule" valign="top">38 ± 16 L/hr</td>
+</tr>
+<tr id="id_9fe2c1d7-9768-4af2-b734-514e7f883a54">
+<td align="left" stylecode="Botrule Rrule" valign="top">V<sub>ss</sub> based on i.v. </td>
+<td align="left" stylecode="Botrule" valign="top">31 ± 12 L</td>
+</tr>
+<tr id="id_a4e6766a-d3ed-4e0e-9249-56d92b44f63d">
+<td align="left" stylecode="Botrule Rrule" valign="top">AbsBio</td>
+<td align="left" stylecode="Botrule" valign="top">56 ± 9%</td>
+</tr>
+<tr id="id_9354c3bd-fc8e-41e0-9a77-2c337ea4149c">
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr id="id_3504975b-174e-46f9-a0ec-eaf055eafd43">
+<td align="left" colspan="2" stylecode="Lrule Botrule" valign="top">
+<paragraph>CL= total body clearance</paragraph>
+<paragraph>V<sub>ss</sub>= volume of distribution at steady state</paragraph>
+<paragraph>AbsBio = absolute bioavailability</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

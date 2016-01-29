@@ -1,0 +1,123 @@
+<table border="1" id="id_975af5eb-1ef2-4aa2-802e-ad0d655985d1" width="504" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_ed728001-2f90-4a49-9cff-da1c1a2bdf25">Table 1: Select Mean (± SD) Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of Metformin</caption>
+<col width="36.3%"></col>
+<col width="32.1%"></col>
+<col width="16.1%"></col>
+<col width="15.5%"></col>
+<thead>
+<tr id="id_e3077fd6-4de7-481b-a31b-1fc8407a2bca">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="bottom">
+<content stylecode="bold">Subject Groups:</content>
+<content stylecode="bold">Metformin Dose</content>
+<footnote id="id-6d7a035c-0754-4d69-aff7-7ba53f85b56a">All doses given fasting except the first 18 doses of the multiple-dose studies</footnote>
+<content stylecode="bold">(Number of Subjects)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+<footnote id="id-66438b5b-1028-4650-a405-005f45b8d4b0">Peak plasma concentration</footnote>
+<content stylecode="bold">(mcg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">T<sub>max</sub>
+</content>
+<footnote id="id-c332a47a-3c0b-4d10-aa6a-6e3e664d9d5c">Time to peak plasma concentration</footnote>
+<content stylecode="bold">(hrs)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Renal Clearance (mL/min)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_00e0fbfb-400b-487e-9830-f12383e63bb4">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Healthy, Nondiabetic Adults:</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr id="id_4a2e8814-3ade-48ed-aa4f-a724a253dc29">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">500 mg SD<footnote id="id-c935b064-95c9-4ce1-8aec-d1fd3fcd601b">SD = single dose</footnote> (24)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.03 (± 0.33)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.75 (± 0.81)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">600 (± 132)</td>
+</tr>
+<tr id="id_0f49274f-662f-4e0f-87de-af8f38be993d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">850 mg SD (74)<footnote id="id-38c09a76-5520-405d-8471-dae9dcff6651">Combined results (average means) of 5 studies: mean age 32 years (range 23 to 59 years)</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.60 (± 0.38)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.64 (± 0.82)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">552 (± 139)</td>
+</tr>
+<tr id="id_67a801c4-9104-44ee-a4b8-538b8600fc2f">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">850 mg t.i.d. for 19 doses<footnote id="id-5d186ae2-2fc0-47ad-a86d-81155ceed97e">Kinetic study done following dose 19, given fasting</footnote> (9)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.01 (± 0.42)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.79 (± 0.94)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">642 (± 173)</td>
+</tr>
+<tr id="id_de8eb362-5fa5-4ae4-8009-5f3ff88aad0c">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">Adults with Type 2 Diabetes:</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr id="id_181fd498-363d-4c64-89f4-5da9f55a20f0">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">850 mg SD (23)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.48 (± 0.5)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.32 (± 1.08)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">491 (± 138)</td>
+</tr>
+<tr id="id_4decb33f-ccfa-4a14-b7e3-c9656493c6bb">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">850 mg t.i.d. for 19 doses<footnoteref idref="id-5d186ae2-2fc0-47ad-a86d-81155ceed97e"></footnoteref> (9)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.90 (± 0.62)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.01 (± 1.22)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">550 (± 160)</td>
+</tr>
+<tr id="id_5c7e63cd-2030-4dbc-9dce-c35c6cb22d5d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">Elderly<footnote id="id-ed217ace-b53b-49d1-9086-812ff17c50c0">Elderly subjects, mean age 71 years (range 65 to 81 years)</footnote>, Healthy Nondiabetic Adults:</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr id="id_764362e7-9aea-4b08-aefa-8a597f2ce4da">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">850 mg SD (12)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.45 (± 0.70)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.71 (± 1.05)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">412 (± 98)</td>
+</tr>
+<tr id="id_808dc25c-ecc5-442a-b71a-b83ce50e395e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">Renal-impaired Adults: 850 mg SD</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr id="id_8ae2bcdf-6d6a-43c2-8d3d-413ebe90d837">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Mild (CL<sub>cr</sub>
+<footnote id="id-feb7fd05-343b-421a-b2aa-6cc3031a1c2c">CL<sub>cr</sub> = creatinine clearance normalized to body surface area of 1.73 m<sup>2</sup>
+</footnote> 61 to 90 mL/min) (5)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.86 (± 0.52)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.20 (± 0.45)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">384 (± 122)</td>
+</tr>
+<tr id="id_c66a225b-8a15-45a1-afd6-3e4c80822690">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Moderate (CL<sub>cr</sub> 31 to 60 mL/min) (4) </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4.12 (± 1.83)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.75 (± 0.50)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">108 (± 57)</td>
+</tr>
+<tr id="id_beb1565e-1b73-4a88-b942-6da45336b66d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Severe (CL<sub>cr</sub> 10 to 30 mL/min) (6)</td>
+<td align="center" stylecode="Rrule" valign="middle">3.93 (± 0.92)</td>
+<td align="center" stylecode="Rrule" valign="middle">4.01 (± 1.10)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">130 (± 90)</td>
+</tr>
+</tbody>
+</table>

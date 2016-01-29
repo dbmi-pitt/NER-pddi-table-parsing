@@ -1,0 +1,65 @@
+<table id="id_35babe7e-b377-4725-98a6-4445209275e3" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_2fe2dbe8-ea3d-461b-b505-fd9b1dbc1990">Table 7. Susceptibility Test Result Interpretive Criteria for Azithromycin</caption>
+<col align="left" width="34%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="11%"></col>
+<thead>
+<tr id="id_98c40ff5-f3b7-4996-991e-232a6baaf51d" stylecode="Toprule">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="left" colspan="3" stylecode="Botrule Rrule" valign="top">Minimum Inhibitory<br/>Concentrations (µg/mL)</td>
+<td align="left" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">Disk Diffusion<br/>(zone diameters in mm)</td>
+</tr>
+<tr id="id_f32dbc88-b3e4-49df-9ca2-ffa673f505bc" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Pathogen</td>
+<td align="left" stylecode="Rrule" valign="top">S</td>
+<td align="left" stylecode="Rrule" valign="top">I</td>
+<td align="left" stylecode="Rrule" valign="top">R<footnote id="id-56e59f5c-cebe-4651-81ae-a972e70d83f8">The current absence of data on resistant strains precludes defining any category other than "susceptible." If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">S</td>
+<td align="left" stylecode="Rrule" valign="top">I</td>
+<td align="left" stylecode="Rrule" valign="top">R<footnoteref idref="id-56e59f5c-cebe-4651-81ae-a972e70d83f8"></footnoteref>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_79a76bca-dbb7-4613-81b9-7bc4fa041df6" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">
+<content stylecode="italics">Haemophilus influenzae</content>
+</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≤ 4</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">--</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">--</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≥ 12</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">--</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">--</content>
+</td>
+</tr>
+<tr id="id_23a5af6c-1d8d-4bd0-821e-818439cae3f0" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≤ 0.5<br/>
+</td>
+<td align="left" stylecode="Rrule" valign="top">1</td>
+<td align="left" stylecode="Rrule" valign="top">≥ 2</td>
+<td align="left" stylecode="Rrule" valign="top">≥ 18</td>
+<td align="left" stylecode="Rrule" valign="top">14–17</td>
+<td align="left" stylecode="Rrule" valign="top">≤ 13</td>
+</tr>
+</tbody>
+</table>

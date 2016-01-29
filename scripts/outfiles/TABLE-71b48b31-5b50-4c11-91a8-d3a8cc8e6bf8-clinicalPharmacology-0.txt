@@ -1,0 +1,124 @@
+<table id="t14" width="100%" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 14. Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study</caption>
+<col align="left" width="30%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<thead>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Placebo</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Pioglitazone Hydrochloride<br/> 15 mg<br/>Once Daily</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Pioglitazone Hydrochloride<br/> 30 mg<br/>Once Daily</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Pioglitazone Hydrochloride<br/> 45 mg<br/>Once Daily</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="middlerule">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">Triglycerides (mg/dL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=79</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=79</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=84</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=77</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Baseline (mean)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">263</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">284</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">261</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">260</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Percent change from baseline (adjusted mean<footnote id="FN71">Adjusted for baseline, pooled center, and pooled center by treatment interaction</footnote>)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4.8%</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-9.0%<footnote id="FN70">p &lt;0.05 versus placebo</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-9.6%<footnoteref idref="FN70"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-9.3%<footnoteref idref="FN70"></footnoteref>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">HDL Cholesterol (mg/dL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=79</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=79</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=83</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=77</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Baseline (mean)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">42</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">40</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">41</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">41</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Percent change from baseline (adjusted mean<footnoteref idref="FN71"></footnoteref>)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8.1%</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14.1%<footnoteref idref="FN70"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">12.2%</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">19.1%<footnoteref idref="FN70"></footnoteref>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">LDL Cholesterol (mg/dL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=65</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=63</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=74</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=62</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Baseline (mean)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">139</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">132</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">136</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">127</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Percent change from baseline (adjusted mean<footnoteref idref="FN71"></footnoteref>)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4.8%</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">7.2%</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">5.2%</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6.0%</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">Total Cholesterol (mg/dL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=79</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=79</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=84</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N=77</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Baseline (mean)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">225</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">220</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">223</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">214</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="middle">Percent change from baseline (adjusted mean<footnoteref idref="FN71"></footnoteref>)</td>
+<td align="center" stylecode="Rrule" valign="middle">4.4%</td>
+<td align="center" stylecode="Rrule" valign="middle">4.6%</td>
+<td align="center" stylecode="Rrule" valign="middle">3.3%</td>
+<td align="center" stylecode="Rrule" valign="middle">6.4%</td>
+</tr>
+</tbody>
+</table>

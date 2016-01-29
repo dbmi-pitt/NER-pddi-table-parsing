@@ -1,0 +1,36 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>H. influenzae<sup>g</sup>
+</caption>
+<col span="1" width="52.35%"></col>
+<col span="1" width="47.65%"></col>
+<tbody>
+<tr>
+<td> <content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td> <content stylecode="bold">
+<content stylecode="underline">Interpretation</content>
+</content>
+</td>
+</tr>
+<tr>
+<td> ≥ 22</td>
+<td> Susceptible (S)</td>
+</tr>
+<tr>
+<td> 19 to 21</td>
+<td> Intermediate fl)</td>
+</tr>
+<tr>
+<td> ≤18</td>
+<td> Resistant (R)</td>
+</tr>
+<tr>
+<td> <paragraph>f. Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.</paragraph>
+</td>
+</tr>
+<tr>
+<td> g. These interpretive standards are applicable only to disk diffusion susceptibility tests with <content stylecode="italics">H. influenzae</content> using Haemophilus Test Medium (HTM).<sup>2</sup>
+</td>
+</tr>
+</tbody>
+</table>

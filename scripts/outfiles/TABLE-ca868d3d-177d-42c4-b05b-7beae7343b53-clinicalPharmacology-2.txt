@@ -1,0 +1,86 @@
+<table id="table8" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8  Neuraminidase Amino Acid Substitutions Observed in Oseltamivir Treatment Studies or Community Surveillance</caption>
+<col align="center" valign="middle" width="33%"></col>
+<col align="center" valign="middle" width="28%"></col>
+<col align="center" valign="middle" width="39%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule" valign="top">Amino Acid Substitution</th>
+<th stylecode="Rrule">Influenza Type/<br/>Sub-type</th>
+<th stylecode="Rrule" valign="top">Source</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td align="left" colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">Catalytic Residues</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">R292K</td>
+<td stylecode="Rrule">A N2</td>
+<td stylecode="Rrule">Roche clinical trials, publication, surveillance<footnote id="table8a">Substitutions identified by surveillance data only; population and use of TAMIFLU are unknown</footnote>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="3" stylecode="Lrule Rrule Toprule">
+<content stylecode="bold">Framework Residues</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">H275Y</td>
+<td stylecode="Rrule">A N1</td>
+<td stylecode="Rrule">Roche clinical trials, publication, surveillance<footnoteref idref="table8a"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">N294S</td>
+<td stylecode="Rrule">A N1, N2</td>
+<td stylecode="Rrule">Publications</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">E119V</td>
+<td stylecode="Rrule">A N2</td>
+<td stylecode="Rrule">Roche clinical trials, publication, surveillance<footnoteref idref="table8a"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">SASG245-248 deletion</td>
+<td stylecode="Rrule">A N2</td>
+<td stylecode="Rrule">Roche clinical trial</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">I222V</td>
+<td stylecode="Rrule">A N2</td>
+<td stylecode="Rrule">Publication</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">I222T</td>
+<td stylecode="Rrule">B</td>
+<td stylecode="Rrule">Publication</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">D198N</td>
+<td stylecode="Rrule">B</td>
+<td stylecode="Rrule">Publication, surveillance<footnoteref idref="table8a"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">D198E</td>
+<td stylecode="Rrule">B</td>
+<td stylecode="Rrule">Surveillance<footnoteref idref="table8a"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">R371K</td>
+<td stylecode="Rrule">B</td>
+<td stylecode="Rrule">Surveillance<footnoteref idref="table8a"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">G402S</td>
+<td stylecode="Rrule">B</td>
+<td stylecode="Rrule">Publication</td>
+</tr>
+</tbody>
+</table>

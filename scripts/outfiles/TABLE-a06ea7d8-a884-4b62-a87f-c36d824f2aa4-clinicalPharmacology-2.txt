@@ -1,0 +1,20 @@
+<table width="60%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="center" valign="top" width="50%"></col>
+<col align="center" valign="top" width="50%"></col>
+<thead>
+<tr>
+<th>MIC (mcg/mL)</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>≤ 8</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>≥ 16</td>
+<td>Resistant (R)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,181 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>DOSAGE</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>N*</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>TOTAL-C (mean)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>LDL-C (mean)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>HDL-C (mean)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>LDL-C/HDL-C (mean)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>TOTAL-C/HDL-C (mean)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>TG. (median)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>Placebo</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>1663</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>+0.7</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>+0.4</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>+2.0</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>+0.2</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>+0.6</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>+4</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">Lovastatin</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>20 mg q.p.m.</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>1642</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-17</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-24</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>+6.6</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-27</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-21</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-10</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>40 mg q.p.m.</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>1645</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-22</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-30</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>+7.2</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-34</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-26</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-14</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>20 mg b.i.d.</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>1646</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-24</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-34</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>+8.6</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-38</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-29</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-16</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>40 mg b.i.d.</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>1649</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-29</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-40</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>+9.5</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-44</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-34</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>-19</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">* Patients enrolled</td>
+</tr>
+</tbody>
+</table>

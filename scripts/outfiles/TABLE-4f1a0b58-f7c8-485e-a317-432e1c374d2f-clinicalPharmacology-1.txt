@@ -1,0 +1,43 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2 Patients with Endoscopically Confirmed Healed Gastric Ulcers</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th stylecode="     Toprule         Lrule          Rrule     "></th>
+<th>
+<content stylecode="underline">U.S. Study</content>
+</th>
+<th colspan="2" stylecode="     Toprule          Rrule     ">
+<content stylecode="underline">International Study</content>
+</th>
+</tr>
+<tr>
+<th stylecode="     Toprule         Lrule          Rrule     "></th>
+<th>PEPCID<br/>40 mg h.s.<br/>(N=74)</th>
+<th stylecode="     Toprule          Rrule     ">Placebo<br/>h.s.<br/>(N=75)</th>
+<th stylecode="     Toprule          Rrule     ">PEPCID<br/>40 mg h.s.<br/>(N=149)</th>
+<th stylecode="     Toprule          Rrule     ">Placebo<br/>h.s.<br/>(N=145)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td> <sup>***,†</sup>   Statistically significantly better than placebo (p≤0.05, p≤0.01 respectively)  <br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Week 4<br/>Week 6<br/>Week 8</td>
+<td align="center" stylecode="     Rrule     " valign="top">    45%<br/>  <sup>†</sup>66%<br/>***78%</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 39%<br/>44%<br/>64%</td>
+<td align="center" stylecode="     Rrule     " valign="top"> <sup>†</sup>47%<br/>
+<sup>†</sup>65%<br/>
+<sup>†</sup>80%</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 31%<br/>46%<br/>54%</td>
+</tr>
+</tbody>
+</table>

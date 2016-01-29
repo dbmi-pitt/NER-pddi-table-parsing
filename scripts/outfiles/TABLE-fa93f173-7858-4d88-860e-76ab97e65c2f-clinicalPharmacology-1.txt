@@ -1,0 +1,48 @@
+<table id="t2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 2. PEDIATRIC MAINTENANCE OF ANESTHESIA
+</caption>
+<col align="left" width="33.633%"></col>
+<col align="left" width="33.667%"></col>
+<col align="left" width="32.700%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Age Range</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Maintenance Dosage</content>
+<br/>
+<content stylecode="bold">(mcg/kg/min)</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Duration</content>
+<br/>
+<content stylecode="bold">(minutes)</content>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">2 months to 2 years
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">199 (82 to 394)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">65 (12 to 282)
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">2 to 12 years
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">188 (12 to 1041)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">69 (23 to 374)
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">&gt; 12 through 16 years
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">161 (84 to 359)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">69 (26 to 251)
+</td>
+</tr>
+</tbody>
+</table>

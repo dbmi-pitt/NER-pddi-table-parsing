@@ -1,0 +1,54 @@
+<table id="_RefT2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2:   Examples of CYP450 Interactions with Warfarin </caption>
+<col width="22%"></col>
+<col width="45%"></col>
+<col width="33%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Enzyme</content>
+</th>
+<th align="center" stylecode="Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Inhibitors</content>
+</th>
+<th align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Inducers</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>CYP2C9</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>amiodarone, capecitabine, cotrimoxazole, etravirine, fluconazole, fluvastatin, fluvoxamine, metronidazole, miconazole, oxandrolone, sulfinpyrazone, tigecycline, voriconazole, zafirlukast</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>aprepitant, bosentan, carbamazepine, phenobarbital, rifampin</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>CYP1A2</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>acyclovir, allopurinol, caffeine, cimetidine, ciprofloxacin, disulfiram, enoxacin, famotidine, fluvoxamine, methoxsalen, mexiletine, norfloxacin, oral contraceptives, phenylpropanolamine, propafenone, propranolol, terbinafine, thiabendazole, ticlopidine, verapamil, zileuton</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>montelukast, moricizine, omeprazole, phenobarbital, phenytoin, cigarette smoking</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>CYP3A4</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>alprazolam, amiodarone, amlodipine, amprenavir, aprepitant, atorvastatin, atazanavir, bicalutamide, cilostazol, cimetidine, ciprofloxacin, clarithromycin, conivaptan, cyclosporine, darunavir/ritonavir, diltiazem, erythromycin, fluconazole, fluoxetine, fluvoxamine, fosamprenavir, imatinib, indinavir, isoniazid, itraconazole, ketoconazole, lopinavir/ritonavir, nefazodone, nelfinavir, nilotinib, oral contraceptives, posaconazole, ranitidine, ranolazine, ritonavir, saquinavir, telithromycin, tipranavir, voriconazole, zileuton</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>armodafinil, amprenavir, aprepitant, bosentan, carbamazepine, efavirenz, etravirine, modafinil, nafcillin, phenytoin, pioglitazone, prednisone, rifampin, rufinamide</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

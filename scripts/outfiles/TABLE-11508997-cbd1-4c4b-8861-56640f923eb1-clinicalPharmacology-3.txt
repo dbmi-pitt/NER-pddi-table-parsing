@@ -1,0 +1,25 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4. Mean Daily Doses of Antacid</caption>
+<col width="34.1%"></col>
+<col width="33.0%"></col>
+<col width="33.0%"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> <content stylecode="bold">Ulcer Healed</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> <content stylecode="bold">Ulcer Not Healed</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Ranitidine</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 0.06</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 0.71</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Placebo</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> 0.71</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 1.43</td>
+</tr>
+</tbody>
+</table>

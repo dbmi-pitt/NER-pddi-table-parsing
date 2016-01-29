@@ -1,0 +1,65 @@
+<table border="1" id="id_20f28313-ddf1-477d-9372-b75c40d906d6" width="266.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="32.0%"></col>
+<col width="22.2%"></col>
+<col width="45.9%"></col>
+<tbody>
+<tr id="id_53429f89-c979-46b2-a1f3-c01255837aa5">
+<td align="left" stylecode="Toprule Botrule Lrule" valign="top">
+<content stylecode="underline">
+<content stylecode="bold">Microorganism</content>
+</content>
+</td>
+<td align="left" stylecode="Botrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">
+<content stylecode="underline">Zone Diameter (mm)</content>
+</content>
+</td>
+</tr>
+<tr id="id_7bcdb93b-4001-462a-8a8c-72715f6eca73">
+<td align="left" stylecode="Lrule Botrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="left" stylecode="Botrule" valign="middle">ATCC 25922</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">29 to 33</td>
+</tr>
+<tr id="id_f235932f-0af1-453b-85f1-5a7940b70512">
+<td align="left" stylecode="Lrule Botrule" valign="middle">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="left" stylecode="Botrule" valign="middle">ATCC 49247<sup>j</sup>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">31 to 40</td>
+</tr>
+<tr id="id_dffa7e3b-4144-4af1-8cf7-3ad3da286576">
+<td align="left" stylecode="Lrule Botrule" valign="middle">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+</td>
+<td align="left" stylecode="Botrule" valign="middle">ATCC 49226<sup>k</sup>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">43 to 51</td>
+</tr>
+<tr id="id_7183a70b-fa78-4497-92c9-e138e418c4ab">
+<td align="left" stylecode="Lrule Botrule" valign="middle">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="left" stylecode="Botrule" valign="middle">ATCC 27853</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">17 to 21</td>
+</tr>
+<tr id="id_56aaf463-e4e3-4239-8047-ea274987011e">
+<td align="left" stylecode="Lrule Botrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="left" stylecode="Botrule" valign="middle">ATCC 25923</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">24 to 28</td>
+</tr>
+<tr id="id_dcb4a3ab-0b64-4725-9e0e-0d3de4175c39">
+<td align="left" stylecode="Lrule Botrule" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="left" stylecode="Botrule" valign="middle">ATCC 49619<sup>l</sup>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="bottom">16 to 21</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,109 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Mean (CV%)<footnote id="table2a">% Coefficient of variation</footnote> Pharmacokinetic Parameters of Etodolac in Normal Healthy Adults and Various Special Populations</caption>
+<col align="left" valign="top" width="12%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th></th>
+<th colspan="4">  etodolac extended-release tablets</th>
+<th colspan="2">etodolac tablets</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th valign="bottom">PK Parameters</th>
+<th valign="bottom">Normal Healthy Adults</th>
+<th valign="bottom">Healthy Male</th>
+<th valign="bottom">Healthy Females</th>
+<th valign="bottom">Elderly</th>
+<th colspan="2" valign="bottom">Hemodialysis<footnote id="table2c">Pharmacokinetic parameters obtained following administration of etodolac tablets</footnote>
+</th>
+<th valign="bottom">Renal Impairment<footnoteref idref="table2c"></footnoteref>
+</th>
+<th valign="bottom">Hepatic Impairment<footnoteref idref="table2c"></footnoteref>
+</th>
+</tr>
+<tr>
+<th></th>
+<th>(18-44)<footnote id="table2b">Age range (years)</footnote>
+<br/>(n=116)</th>
+<th>(18-43)<br/>(n=102)</th>
+<th>(25-44)<br/>(n=14)</th>
+<th>(&gt;65 yr)<br/>(66-88)</th>
+<th colspan="2">(24-65)<br/>(n=9)</th>
+<th>(46-73)<br/>(n=10)</th>
+<th>(34-60)<br/>(n=9)</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>(n=24)</th>
+<th>Dialysis On</th>
+<th>Dialysis Off</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="9">NA = not available</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td>T<sub>max</sub>,h</td>
+<td> 6.7 (47%)<footnoteref idref="table2a"></footnoteref>
+</td>
+<td>6.8 (45%)</td>
+<td>4.5 (56%)</td>
+<td>6.2 (51%)</td>
+<td>1.7 (88%)</td>
+<td>0.9 (67%)</td>
+<td>2.1 (46%)</td>
+<td>1.1 (15%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td>Oral Clearance, mL/h/kg (CL/F)</td>
+<td>46.8 (37%)</td>
+<td>46.8 (37%)</td>
+<td>47.2 (38%)</td>
+<td>51.6 (40%)</td>
+<td>NA</td>
+<td>NA</td>
+<td>58.3 (19%)</td>
+<td>42.0 (43%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td>Apparent Volume of Distribution mL/kg (Vd/F)</td>
+<td>566 (26%)</td>
+<td>580 (26%)</td>
+<td>459 (28%)</td>
+<td>552 (34%)</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Terminal Half-life,<sup>h</sup>
+</td>
+<td>8.4 (30%)</td>
+<td>8.4 (29%)</td>
+<td>7.6 (45%)</td>
+<td>7.8 (26%)</td>
+<td>5.1 (22%)</td>
+<td>7.5 (34%)</td>
+<td>NA</td>
+<td>5.7 (24%)</td>
+</tr>
+</tbody>
+</table>

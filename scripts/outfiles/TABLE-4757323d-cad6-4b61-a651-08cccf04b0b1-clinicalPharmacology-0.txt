@@ -1,0 +1,215 @@
+<table id="id_10e02529-22c2-4e8d-96ca-3053415029e5" width="490.000" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_795acc74-e2ae-4ecc-9d36-31400e0edcbc">Table I.  Mean and range of total body clearance and half-life of theophylline related to age and altered physiological states.<footnote id="id-6fb32510-a6b4-4f63-a9e7-a07552dc0f83">For various North American patient populations from literature reports. Different rates of elimination and consequent dosage requirements have been observed among other peoples.</footnote>
+</caption>
+<col width="53.9%"></col>
+<col width="26.9%"></col>
+<col width="19.2%"></col>
+<tbody>
+<tr id="id_54b4b860-cc2a-4281-9684-c88bb7c72b7c">
+<td align="left" stylecode="Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">Population Characteristics</content>
+</paragraph>
+<content stylecode="underline">
+<content stylecode="bold">
+<content stylecode="italics">Age </content>
+</content>
+</content>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">Total body clearance</content>
+<footnote id="id-f8c666a1-c307-483d-95d5-c4fe283a4520">Clearance represents the volume of blood completely cleared of theophylline by the liver in one minute. Values listed were generally determined at serum theophylline concentrations &lt;20 mcg/mL; clearance may decrease and half-life may increase at higher serum concentrations due to non-linear pharmacokinetics. </footnote>
+</paragraph>
+<paragraph>
+<content stylecode="bold">mean (range)</content>
+<footnote id="id-5cfd54a4-e164-4f5c-ac17-85abb855a715">Reported range or estimated range (mean +/- 2 SD) where actual range not reported.</footnote>
+</paragraph>
+<content stylecode="bold">
+<content stylecode="underline">(mL/kg/min)</content>
+</content>
+</td>
+<td align="left" valign="top">
+<paragraph>
+<content stylecode="bold">Half-life</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">mean (range)</content>
+<footnoteref idref="id-5cfd54a4-e164-4f5c-ac17-85abb855a715"></footnoteref>
+</paragraph>
+<content stylecode="bold">
+<content stylecode="underline">(hr)</content>
+</content>
+</td>
+</tr>
+<tr id="id_f953d51a-3d53-40b5-a975-d9274f2d0cef">
+<td align="left" valign="top">
+<paragraph>Premature neonates</paragraph>
+<paragraph>     postnatal age 3 to 15 days</paragraph>
+<paragraph>     postnatal age 25 to 57 days</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph></paragraph>
+<paragraph>0.29 (0.09 to 0.49)</paragraph>
+<paragraph>0.64 (0.04 to 1.2)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph></paragraph>
+<paragraph>30 (17 to 43)</paragraph>
+<paragraph>20 (9.4 to 30.6)</paragraph>
+</td>
+</tr>
+<tr id="id_b0e899db-32e9-47e8-837f-2a71d5a6d371">
+<td align="left" valign="top">
+<paragraph>Term infants </paragraph>
+<paragraph>     postnatal age 1 to 2 days</paragraph>
+<paragraph>     postnatal age 3 to 30 weeks</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph></paragraph>
+<paragraph>NR<footnote id="id-f9e75d62-c03d-43ad-b6a4-6774e6fd7bb6">NR = not reported or not reported in a comparable format.</footnote>
+</paragraph>
+<paragraph>NR<footnoteref idref="id-f9e75d62-c03d-43ad-b6a4-6774e6fd7bb6"></footnoteref>
+</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph></paragraph>
+<paragraph>25.7 (25 to 26.5)</paragraph>
+<paragraph>11 (6 to 29)</paragraph>
+</td>
+</tr>
+<tr id="id_a572d37c-7cd6-4ec6-a938-5757e77cebb0">
+<td align="left" valign="top">
+<paragraph>Children</paragraph>
+<paragraph>     1 to 4 years</paragraph>
+<paragraph>     4 to 12 years</paragraph>
+<paragraph>     13 to 15 years</paragraph>     6 to 17 years</td>
+<td align="left" valign="top">
+<paragraph></paragraph>
+<paragraph>1.7 (0.5 to 2.9)</paragraph>
+<paragraph>1.6 (0.8 to 2.4)</paragraph>
+<paragraph>0.9 (0.48 to 1.3)</paragraph>
+<paragraph>1.4 (0.2 to 2.6)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph></paragraph>
+<paragraph>3.4 (1.2 to 5.6)</paragraph>
+<paragraph>NR<footnoteref idref="id-f9e75d62-c03d-43ad-b6a4-6774e6fd7bb6"></footnoteref>
+</paragraph>
+<paragraph>NR<footnoteref idref="id-f9e75d62-c03d-43ad-b6a4-6774e6fd7bb6"></footnoteref>
+</paragraph>3.7 (1.5 to 5.9)</td>
+</tr>
+<tr id="id_cc24614b-c2cc-4e9b-a4c5-05ebbed0252c">
+<td align="left" valign="top">
+<paragraph>Adults (16 to 60 years)</paragraph>
+<paragraph>     otherwise healthy</paragraph>     nonsmoking asthmatics </td>
+<td align="left" valign="top">
+<paragraph></paragraph>
+<paragraph></paragraph>0.65 (0.27 to 1.03) </td>
+<td align="left" valign="top">
+<paragraph></paragraph>
+<paragraph></paragraph>8.7 (6.1 to 12.8)</td>
+</tr>
+<tr id="id_f4bc4fd3-8312-434e-b5a7-e0910dfeced5">
+<td align="left" valign="top">
+<paragraph>Elderly (&gt;60 years)</paragraph>
+<paragraph>     nonsmokers with normal cardiac,</paragraph>     liver, and renal function</td>
+<td align="left" valign="top">
+<paragraph></paragraph>
+<paragraph></paragraph>0.41 (0.21 to 0.61)</td>
+<td align="left" valign="top">
+<paragraph></paragraph>
+<paragraph></paragraph>9.8 (1.6 to 18) </td>
+</tr>
+<tr id="id_91b311da-76bf-48ff-b73d-b204d4a167dd">
+<td align="left" valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Concurrent illness or</content>
+</content>
+</paragraph>
+<content stylecode="bold">
+<content stylecode="italics">
+<content stylecode="underline">altered physiological state</content>
+</content>
+</content>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_c20880e2-712f-4ae6-8f10-0daf392e146c">
+<td align="left" valign="top">Acute pulmonary edema </td>
+<td align="left" valign="top">0.33<footnote id="id-f7951838-a7bf-4f46-bd55-5601e776bdf1">Median.</footnote> (0.07 to 2.45) </td>
+<td align="left" valign="top">19<footnoteref idref="id-f7951838-a7bf-4f46-bd55-5601e776bdf1"></footnoteref> (3.1 to 82)</td>
+</tr>
+<tr id="id_829e4221-fd8c-4e8d-9b22-703e38c58800">
+<td align="left" valign="top">
+<paragraph>COPD-&gt;60 years, stable</paragraph>     nonsmoker &gt; 1 year </td>
+<td align="left" valign="top">
+<paragraph></paragraph>0.54 (0.44 to 0.64) </td>
+<td align="left" valign="top">
+<paragraph></paragraph>11 (9.4 to 12.6)</td>
+</tr>
+<tr id="id_d0b54768-e6e2-4482-b012-2471f6a42cc6">
+<td align="left" valign="top">COPD with cor pulmonale </td>
+<td align="left" valign="top">0.48 (0.08 to 0.88) </td>
+<td align="left" valign="top">NR<footnoteref idref="id-f9e75d62-c03d-43ad-b6a4-6774e6fd7bb6"></footnoteref>
+</td>
+</tr>
+<tr id="id_7918e53a-9f16-4b7b-8f26-5d029253b32b">
+<td align="left" valign="top">
+<paragraph>Cystic fibrosis (14 to 28 years) </paragraph>
+<paragraph>Fever associated with acute viral<br/>respiratory illness (children 9 to 15 years)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>1.25 (0.31 to 2.2) </paragraph>
+<paragraph></paragraph>NR<footnoteref idref="id-f9e75d62-c03d-43ad-b6a4-6774e6fd7bb6"></footnoteref>
+</td>
+<td align="left" valign="top">
+<paragraph>6.0 (1.8 to 10.2)</paragraph>
+<paragraph></paragraph>7.0 (1.0 to 13)</td>
+</tr>
+<tr id="id_9518fe43-9103-49b3-aef6-121fa70ec02a">
+<td align="left" valign="top">
+<paragraph>Liver disease - cirrhosis </paragraph>
+<paragraph>                         acute hepatitis </paragraph>                         cholestasis </td>
+<td align="left" valign="top">
+<paragraph>
+<br/>0.31<footnoteref idref="id-f7951838-a7bf-4f46-bd55-5601e776bdf1"></footnoteref> (0.1 to 0.7)</paragraph>
+<paragraph>0.35 (0.25 to 0.45)</paragraph>0.65 (0.25 to 1.45) </td>
+<td align="left" valign="top">
+<paragraph>
+<br/>32<footnoteref idref="id-f7951838-a7bf-4f46-bd55-5601e776bdf1"></footnoteref> (10 to 56)</paragraph>
+<paragraph>19.2 (16.6 to 21.8)</paragraph>14.4 (5.7 to 31.8) </td>
+</tr>
+<tr id="id_05964410-9bef-4dde-80ed-1910f94ccd9f">
+<td align="left" valign="top">
+<paragraph>Pregnancy - 1st trimester</paragraph>
+<paragraph>                    2nd trimester</paragraph>                    3rd trimester</td>
+<td align="left" valign="top">
+<paragraph>
+<br/>NR<footnoteref idref="id-f9e75d62-c03d-43ad-b6a4-6774e6fd7bb6"></footnoteref>
+</paragraph>
+<paragraph>NR<footnoteref idref="id-f9e75d62-c03d-43ad-b6a4-6774e6fd7bb6"></footnoteref>
+</paragraph>NR<footnoteref idref="id-f9e75d62-c03d-43ad-b6a4-6774e6fd7bb6"></footnoteref>
+</td>
+<td align="left" valign="top">
+<paragraph>
+<br/>8.5 (3.1 to 13.9) </paragraph>
+<paragraph>8.8 (3.8 to 13.8)</paragraph>13.0 (8.4 to 17.6)</td>
+</tr>
+<tr id="id_99be150d-1e49-40ad-a023-229c60c55300">
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>Sepsis with multi-organ failure </paragraph>
+<paragraph> Thyroid disease     - hypothyroid</paragraph>
+<paragraph>                                 hyperthyroid</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>0.47 (0.19 to 1.9) </paragraph>
+<paragraph>0.38 (0.13 to 0.57)</paragraph>0.8 (0.68 to 0.97) </td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>18.8 (6.3 to 24.1)</paragraph>
+<paragraph>11.6 (8.2 to 25)</paragraph>4.5 (3.7 to 5.6)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,43 @@
+<table id="table5" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5. Pharmacokinetics and Rifapentine and 25-Desacetyl Rifapentine in Healthy Volunteers.</caption>
+<col align="left" valign="top" width="34%"></col>
+<col align="center" valign="top" width="33%"></col>
+<col align="center" valign="top" width="33%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Lrule Rrule">Parameter</th>
+<th stylecode="Rrule Botrule">Rifapentine</th>
+<th stylecode="Rrule Botrule">25-desacetyl Rifapentine</th>
+</tr>
+<tr>
+<th align="center" colspan="2" stylecode="Rrule">Mean ± SD (n=12)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule">C<sub>max</sub> (µg/mL)</td>
+<td stylecode="Rrule">15.05 ± 4.62</td>
+<td stylecode="Rrule">6.26 ± 2.06</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">AUC <sub>(0–72h) (</sub>µg*h/mL)         </td>
+<td stylecode="Rrule">319.54 ± 91.52</td>
+<td stylecode="Rrule">215.88 ± 85.96</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">T<sub>1/2 </sub>(h)</td>
+<td stylecode="Rrule">13.19 ± 1.38</td>
+<td stylecode="Rrule">13.35 ± 2.67</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">T<sub>max</sub> (h)</td>
+<td stylecode="Rrule">4.83 ± 1.80</td>
+<td stylecode="Rrule">11.25 ± 2.73</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Cl/F (L/h)</td>
+<td stylecode="Rrule">2.03 ± 0.60</td>
+<td stylecode="Rrule">--</td>
+</tr>
+</tbody>
+</table>

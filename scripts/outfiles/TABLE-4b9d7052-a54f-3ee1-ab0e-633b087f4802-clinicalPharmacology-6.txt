@@ -1,0 +1,32 @@
+<table frame="box" rules="all" width="50%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr align="left">
+<th colspan="2" rowspan="1">QC Strain</th>
+<th colspan="1" rowspan="1">MIC (mcg/mL)</th>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">
+<content stylecode="italics">S. aureus</content>
+</td>
+<td align="center" rowspan="1">ATCC<sup>®</sup> 29213<sup>c</sup>
+</td>
+<td align="left" colspan="1" rowspan="1">0.12 to 0.5</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">
+<content stylecode="italics">S. pneumoniae</content>
+<sup>d</sup>
+</td>
+<td align="center" rowspan="1">ATCC 49619</td>
+<td colspan="1" rowspan="1">0.03 to 0.12</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>e</sup>
+</td>
+<td align="center" rowspan="1">ATCC 49247</td>
+<td colspan="1" rowspan="1">4 to 16</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,71 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Pharmacokinetic Parameter Values Following Single and Multiple Dose Administration of GENERESS Fe</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" colspan="5" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> Arithmetic mean parameters (%CV)</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Regimen </content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> Analyte</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> C<sub>max</sub>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> t<sub>max</sub>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> AUC<sub>0 - 24h</sub>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">t<sub>1/2</sub> <footnote id="FOOT_2009">
+<paragraph>The harmonic mean for t<sub>1/2</sub> is presented</paragraph>
+</footnote>
+</content> </td>
+</tr>
+<tr>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Day 1<br/>(Single Dose) <br/>N = 17</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NE</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 9,840<br/>(36)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.4<br/>(49)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 41,680<br/>(47)</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> EE</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 147<br/>(25)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.2<br/>(27)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 903<br/>(18)</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Day 24<br/>(Multiple Dose) <br/>N = 17</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NE</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 22,200 <br/>(30)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.6 <br/>(76)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 141,200 <br/>(32)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 10.8</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> EE</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 168<br/>(25)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.2<br/>(35)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1,400<br/>(32)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 17.1</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,49 @@
+<table border="1" id="id_662919c6-6866-4eaf-a68f-7be3ba2fea2c" width="410.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_0e02d8c2-31ff-4a41-9379-608134582901">Table III: Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Mortality in the Helsinki Heart Study, Years 0 to 8.5<footnote id="id-45f66bf9-12a2-4d2b-a102-29e665a7b2d6">Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions.</footnote>
+</caption>
+<col width="25.4%"></col>
+<col width="16.1%"></col>
+<col width="21.5%"></col>
+<col width="21.7%"></col>
+<col width="15.4%"></col>
+<tbody>
+<tr id="id_6eb55b8c-fdb4-487b-a057-fffd8ef3bf1d">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">Event</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Gemfibrozil at Study Start</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Placebo at Study Start</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Gemfibrozil: Placebo Hazard Ratio<footnote id="id-dc523b72-00fd-46bc-a5cc-877af1518eb9">Hazard ratio for risk of event in the group originally randomized to gemfibrozil compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study condition.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">CI Hazard Ratio<footnote id="id-a8e0f322-a446-437d-8fe5-687bcf149842">95% confidence intervals of gemfibrozil:placebo group hazard ratio</footnote>
+</td>
+</tr>
+<tr id="id_29ee08cc-ce92-4d31-86c8-b2446cdcd5d5">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">Cardiac Events<footnote id="id-16b21c85-0519-41cc-ad77-610ab1f2d529">Fatal and non-fatal myocardial infarctions plus sudden cardiac deaths over the 8.5 year period.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">110</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">131</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.80</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.62 to 1.03</td>
+</tr>
+<tr id="id_a0804702-6290-4b36-9e5a-cd8725349fd7">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">Cardiac Deaths</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">36</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">38</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.98</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.63 to 1.54</td>
+</tr>
+<tr id="id_b8aa4330-8e68-440e-aa83-eb3ea010c63b">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">Non-Cardiac Deaths</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">65</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">45</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.40</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.95 to 2.05</td>
+</tr>
+<tr id="id_a43854a6-b493-4a00-9a4c-22b307a3dbad">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">All-Cause Mortality</td>
+<td align="center" stylecode="Rrule" valign="middle">101</td>
+<td align="center" stylecode="Rrule" valign="middle">83</td>
+<td align="center" stylecode="Rrule" valign="middle">1.20</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.90 to 1.61</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,156 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>EFFECT OF TREATMENT ON SEVERITY OF DISEASE DATA FROM U.S.-CANADA TRIAL COMBINED RESULTS OF EIGHT CENTERS</caption>
+<col width="15%"></col>
+<col width="15%"></col>
+<col align="left" width="10%"></col>
+<col align="left" width="15%"></col>
+<col align="left" width="15%"></col>
+<col align="left" width="10%"></col>
+<col align="left" width="20%"></col>
+<thead>
+<tr>
+<th align="center" colspan="7">Activity Indices, mean</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Change</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Day</th>
+<th>End</th>
+<th>Baseline to</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>N</th>
+<th>Baseline</th>
+<th>22</th>
+<th>Point</th>
+<th>End Point<footnote id="a">Percent change for overall DAI only (calculated by taking the average of the change for each individual patient).</footnote>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">Each parameter has a 4-point scale with a numerical rating:<br/>
+										0 = normal, 1 = mild, 2 = moderate, 3 = severe. The four parameters are added together to produce a maximum overall DAI of 12.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top">Overall<br/>DAI</td>
+<td>Mesalamine Rectal Suspension Enema</td>
+<td valign="top">76</td>
+<td valign="top">7.42</td>
+<td valign="top">4.05<footnote id="b">Significant Mesalamine Rectal Suspension Enema/placebo difference. p &lt; 0.01</footnote>
+</td>
+<td valign="top">3.37<footnote id="c">Significant Mesalamine Rectal Suspension Enema/placebo difference. p &lt; 0.001</footnote>
+</td>
+<td valign="top">-55.07%<footnoteref idref="c"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td></td>
+<td>Placebo</td>
+<td>77</td>
+<td>7.40</td>
+<td>6.03</td>
+<td>5.83</td>
+<td>-21.58%</td>
+</tr>
+<tr>
+<td valign="top">Stool<br/>Frequency</td>
+<td>Mesalamine Rectal Suspension Enema</td>
+<td></td>
+<td valign="top">1.58</td>
+<td valign="top">1.11<footnote id="d">Significant Mesalamine Rectal Suspension Enema/placebo difference. p &lt; 0.05</footnote>
+</td>
+<td valign="top">1.01<footnoteref idref="b"></footnoteref>
+</td>
+<td valign="top">-0.57<footnoteref idref="d"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td></td>
+<td>Placebo</td>
+<td></td>
+<td>1.92</td>
+<td>1.47</td>
+<td>1.50</td>
+<td>-0.41</td>
+</tr>
+<tr>
+<td valign="top">Rectal<br/>Bleeding</td>
+<td>Mesalamine Rectal Suspension Enema</td>
+<td></td>
+<td valign="top">1.82</td>
+<td valign="top">0.59<footnoteref idref="c"></footnoteref>
+</td>
+<td valign="top">0.51<footnoteref idref="c"></footnoteref>
+</td>
+<td valign="top">-1.30<footnoteref idref="c"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td></td>
+<td>Placebo</td>
+<td></td>
+<td>1.73</td>
+<td>1.21</td>
+<td>1.11</td>
+<td>-0.61</td>
+</tr>
+<tr>
+<td valign="top">Mucosal<br/>Inflama-<br/>tion</td>
+<td>Mesalamine Rectal Suspension Enema</td>
+<td></td>
+<td valign="top">2.17</td>
+<td valign="top">1.22<footnoteref idref="b"></footnoteref>
+</td>
+<td valign="top">0.96<footnoteref idref="c"></footnoteref>
+</td>
+<td valign="top">-1.21<footnoteref idref="b"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td></td>
+<td>Placebo</td>
+<td></td>
+<td>2.18</td>
+<td>1.74</td>
+<td>1.61</td>
+<td>-0.56</td>
+</tr>
+<tr>
+<td valign="top">Physcian's Assesment<br/>of Disease<br/>Severity</td>
+<td>Mesalamine Rectal Suspension Enema</td>
+<td></td>
+<td valign="top">1.86</td>
+<td valign="top">1.13<footnoteref idref="c"></footnoteref>
+</td>
+<td valign="top">0.88<footnoteref idref="c"></footnoteref>
+</td>
+<td valign="top">-0.97<footnoteref idref="c"></footnoteref>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>Placebo</td>
+<td></td>
+<td>1.87</td>
+<td>1.62</td>
+<td>1.55</td>
+<td>-0.30</td>
+</tr>
+</tbody>
+</table>

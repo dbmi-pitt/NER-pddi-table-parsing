@@ -1,0 +1,42 @@
+<table frame="void" id="id_e7a598bc-1880-4f23-baf2-83fe4165cf06" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="156px"></col>
+<col width="152px"></col>
+<col width="152px"></col>
+<col width="152px"></col>
+<tbody>
+<tr id="id_a00922cd-804e-4661-9572-cba60701852c">
+<td stylecode="Botrule Rrule">
+<content stylecode="bold">Interacting Drug</content>
+</td>
+<td stylecode="Botrule Rrule">
+<content stylecode="bold">Adult Doses Studied</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">
+<content stylecode="bold">% Decrease in C</content>
+<sub>max</sub>
+<content stylecode="bold">of Oral Midazolam</content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">% Decrease in AUC of Oral Midazolam</content>
+</td>
+</tr>
+<tr id="id_1c4d31b8-b2b0-4039-ae3a-9630c1911f59">
+<td stylecode="Botrule Rrule">Carbamazepine</td>
+<td stylecode="Botrule Rrule">Therapeutic Doses</td>
+<td align="center" stylecode="Botrule Rrule">93</td>
+<td align="center" stylecode="Botrule">94</td>
+</tr>
+<tr id="id_3f520e77-7c7d-4b5c-949a-e8a88d6de3ed">
+<td stylecode="Botrule Rrule">Phenytoin</td>
+<td stylecode="Botrule Rrule">Therapeutic Doses</td>
+<td align="center" stylecode="Botrule Rrule">93</td>
+<td align="center" stylecode="Botrule">94</td>
+</tr>
+<tr id="id_f2d874fd-815f-46e3-b397-492690a425d8">
+<td stylecode="Rrule">Rifampin</td>
+<td stylecode="Rrule">600 mg/day</td>
+<td align="center" stylecode="Rrule">94</td>
+<td align="center">96</td>
+</tr>
+</tbody>
+</table>

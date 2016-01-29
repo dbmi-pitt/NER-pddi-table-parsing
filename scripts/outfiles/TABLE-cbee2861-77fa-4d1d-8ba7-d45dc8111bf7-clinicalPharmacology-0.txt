@@ -1,0 +1,128 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>A. 
+		     
+	Puncture bifurcated needle data with 10,000 BAU/mL CBER Reference Grass Pollen Extract.</caption>
+<col width="127"></col>
+<col width="108"></col>
+<col width="62"></col>
+<col width="85"></col>
+<col width="85"></col>
+<col width="85"></col>
+<col width="84"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Reference</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">FDA</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule "></td>
+<td colspan="2" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">P</content>
+<content stylecode="bold">Ʃ</content>
+<content stylecode="bold">Erythema    (mm)</content>
+</td>
+<td align="center" colspan="2" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">P</content>
+<content stylecode="bold">Ʃ</content>
+<content stylecode="bold">Wheal   (mm)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Pollen</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Lot #</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">N</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Mean</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Range</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Mean</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Range</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Bermuda</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">E4-Ber</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">90.3</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">43-123</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15.7</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">7-31</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">June</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">E3-Jkb</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">77.3</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">47-107</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15.9</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">6-28</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Meadow Fescue</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">E4-MF</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">81.1</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">57-115</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">11.9</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">7-22</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Orchard</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">E4-Or</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">84.3</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">57-111</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">14.1</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">9-19</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Perennial Rye</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">E10-Rye</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">92.3</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">73-135</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">17.5</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">6-36</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Red Top</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">E4-Rt</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">77.1</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">42-98</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">14.1</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">8-19</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Sweet Vernal</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">E4-SV</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">81.2</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">28-123</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15.7</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">8-30</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Timothy</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">E6-Ti</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">15</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">88.3</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">51-109</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">16.9</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">8-40</td>
+</tr>
+</tbody>
+</table>

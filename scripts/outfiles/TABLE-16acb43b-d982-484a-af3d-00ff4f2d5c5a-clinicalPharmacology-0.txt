@@ -1,0 +1,152 @@
+<table id="ID22" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1Ranitidine Pharmacokinetics in Pediatric Patients Following IV Dosing</caption>
+<col width="30%"></col>
+<col width="7%"></col>
+<col width="17%"></col>
+<col width="11%"></col>
+<col width="11%"></col>
+<col width="24%"></col>
+<thead>
+<tr>
+<td align="left" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Population </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">age</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="bottom">
+<content stylecode="bold">n</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Dose </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mg</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">kg</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">t</content>
+<content stylecode="bold">
+<sub>½</sub> </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">hours</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Vd </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">L</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">kg</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">CLp </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mL</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">min</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">kg</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6">
+<paragraph stylecode="Footnote">T<sub>½</sub> = Terminal half-life; CLp = Plasma clearance of ranitidine.<br/>
+</paragraph>
+<paragraph stylecode="Footnote">ECMO = extracorporeal membrane oxygenation.<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Peptic ulcer disease <br/>(&lt;6 years) <br/>(6 to 11.9 years) <br/>(&gt;12 years) <br/>Adults <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="bottom">6 <br/> 11 <br/> 6<br/>6<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="bottom">1.25 or 2.5 <br/> 1.25 or 2.5 <br/> 1.25 or 2.5<br/>2.5<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="bottom">2.2<br/>2.1<br/>1.7<br/>1.9<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="bottom">1.29 <br/> 1.14 <br/> 0.98 <br/> 1.04<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="bottom">11.41<br/>8.96<br/>9.89<br/>8.77<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Peptic ulcer disease <br/>(3.5–16 years) <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">12<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">0.13 to 0.80<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">1.8<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">2.3<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">795 mL/min/1.73/m<sup>2</sup>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Children in intensive care (1 day–12.6 years) <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">17<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">1.0<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">2.4<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">2<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">11.7<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Neonates receiving <br/>ECMO <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">12<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">2<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">6.6<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">1.8<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">4.3<br/>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,58 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="15%"></col>
+<col width="25%"></col>
+<col width="30%"></col>
+<col width="30%"></col>
+<thead>
+<tr>
+<th stylecode="Botrule Toprule ">
+<content stylecode="bold">No. of </content>
+<br/>
+<content stylecode="bold">Patients</content>
+</th>
+<th stylecode="Botrule Toprule ">
+<content stylecode="bold">Single Dose Treatment</content>
+</th>
+<th stylecode="Botrule Toprule ">
+<content stylecode="bold">Basal Excretion Rate </content>
+<br/>
+<content stylecode="bold">(µg Cu + + /6hr)</content>
+</th>
+<th stylecode="Botrule Toprule ">
+<content stylecode="bold">Test-dose Excretion Rate </content>
+<br/>
+<content stylecode="bold">(µg Cu + + /6hr)</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Toprule " valign="top">
+<paragraph>6</paragraph>
+</td>
+<td stylecode="Toprule " valign="top">
+<paragraph>Trientine, 1.2 g</paragraph>
+</td>
+<td stylecode="Toprule " valign="top">
+<paragraph>19</paragraph>
+</td>
+<td stylecode="Toprule " valign="top">
+<paragraph>234</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>4</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>Penicillamine, 500mg</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>17</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>320</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

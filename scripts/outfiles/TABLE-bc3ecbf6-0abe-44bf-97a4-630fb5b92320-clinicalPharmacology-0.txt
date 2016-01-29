@@ -1,0 +1,148 @@
+<table id="id_8d812708-1f38-45cd-b84b-d5a9aabc191a" width="433.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_5e1450c3-b70b-4724-8e55-995fc72d1bc8">Table 1 Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite </caption>
+<col align="center" width="24.9%"></col>
+<col align="center" width="15.0%"></col>
+<col align="center" width="15.0%"></col>
+<col align="center" width="15.0%"></col>
+<col align="center" width="15.0%"></col>
+<col align="center" width="15.0%"></col>
+<thead>
+<tr id="id_03dfaa80-c5d2-4dd4-9b6d-186a55c225e5" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Population/<br/>Dosage Regimen<footnote id="id-aefd6530-6181-45b1-b3f2-45576b89ae33">SD = Single dose, MD = Multiple dose, p.o. = Oral administration, i.v. = Intravenous administration, q.i.d. = Four times daily</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">Parent Drug/<br/>Metabolite</td>
+<td align="left" stylecode="Rrule" valign="top">Peak Conc.<br/>(ng/mL)</td>
+<td align="left" stylecode="Rrule" valign="top">Time to<br/>Peak (hrs)</td>
+<td align="left" stylecode="Rrule" valign="top">Clearance/F<footnote id="id-1c5180a7-89b3-412e-8e17-9fb1bc2f66a9">F represents the oral bioavailability of tramadol</footnote>
+<br/>(mL/min/Kg)</td>
+<td align="left" stylecode="Rrule" valign="top">t<sub>1/2</sub>
+<br/>(hrs)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_aa2067e0-000d-4db9-9b5d-a38c2fd283ca" stylecode="Toprule">
+<td align="left" rowspan="2" stylecode="Lrule Rrule" valign="top">Healthy Adults,<br/>100 mg qid, MD p.o.</td>
+<td align="left" stylecode="Rrule" valign="top">Tramadol</td>
+<td align="left" stylecode="Rrule" valign="top">592 (30)</td>
+<td align="left" stylecode="Rrule" valign="top">2.3 (61)</td>
+<td align="left" stylecode="Rrule" valign="top">5.90 (25)</td>
+<td align="left" stylecode="Rrule" valign="top">6.7 (15)</td>
+</tr>
+<tr id="id_3e53da3b-d224-4828-9bf9-fe2c0d104dbf">
+<td align="left" stylecode="Lrule Rrule" valign="top">M1</td>
+<td align="left" stylecode="Rrule" valign="top">110 (29)</td>
+<td align="left" stylecode="Rrule" valign="top">2.4 (46)</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnote id="id-86796225-b372-4bf6-96c7-0efb91e36eda">Not applicable</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">7.0 (14)</td>
+</tr>
+<tr id="id_09580515-6b4f-4cac-8f6c-07da456edff5">
+<td align="left" rowspan="2" stylecode="Lrule Rrule" valign="top">Healthy Adults,<br/> 100 mg SD p.o.</td>
+<td align="left" stylecode="Rrule" valign="top">Tramadol</td>
+<td align="left" stylecode="Rrule" valign="top">308 (25)</td>
+<td align="left" stylecode="Rrule" valign="top">1.6 (63)</td>
+<td align="left" stylecode="Rrule" valign="top">8.50 (31)</td>
+<td align="left" stylecode="Rrule" valign="top">5.6 (20)</td>
+</tr>
+<tr id="id_f585a224-55bf-4cd8-b1ef-65809e679986">
+<td align="left" stylecode="Lrule Rrule" valign="top">M1</td>
+<td align="left" stylecode="Rrule" valign="top">55.0 (36)</td>
+<td align="left" stylecode="Rrule" valign="top">3.0 (51)</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">6.7 (16)</td>
+</tr>
+<tr id="id_9a3c7c92-1610-4093-a501-65a7faf489bc">
+<td align="left" rowspan="2" stylecode="Lrule Rrule" valign="top">Geriatric, (&gt;75 yrs)<br/> 50 mg SD p.o.</td>
+<td align="left" stylecode="Rrule" valign="top">Tramadol</td>
+<td align="left" stylecode="Rrule" valign="top">208 (31)</td>
+<td align="left" stylecode="Rrule" valign="top">2.1 (19)</td>
+<td align="left" stylecode="Rrule" valign="top">6.89 (25)</td>
+<td align="left" stylecode="Rrule" valign="top">7.0 (23)</td>
+</tr>
+<tr id="id_9499f8ff-0937-4a3b-9328-59721f8bff6a">
+<td align="left" stylecode="Lrule Rrule" valign="top">M1</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnote id="id-8135bcb5-4558-4f45-92f6-b5ae24e6937b">Not measured</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-8135bcb5-4558-4f45-92f6-b5ae24e6937b"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-8135bcb5-4558-4f45-92f6-b5ae24e6937b"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-8135bcb5-4558-4f45-92f6-b5ae24e6937b"></footnoteref>
+</td>
+</tr>
+<tr id="id_e9b8fd9f-48a7-41f5-ab1a-38200e271d0b">
+<td align="left" rowspan="2" stylecode="Lrule Rrule" valign="top">Hepatic Impaired,<br/> 50 mg SD p.o.</td>
+<td align="left" stylecode="Rrule" valign="top">Tramadol</td>
+<td align="left" stylecode="Rrule" valign="top">217 (11)</td>
+<td align="left" stylecode="Rrule" valign="top">1.9 (16)</td>
+<td align="left" stylecode="Rrule" valign="top">4.23 (56)</td>
+<td align="left" stylecode="Rrule" valign="top">13.3 (11)</td>
+</tr>
+<tr id="id_77ecbd50-d89d-4378-9f10-255dc81f6942">
+<td align="left" stylecode="Lrule Rrule" valign="top">M1</td>
+<td align="left" stylecode="Rrule" valign="top">19.4 (12)</td>
+<td align="left" stylecode="Rrule" valign="top">9.8 (20)</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">18.5 (15)</td>
+</tr>
+<tr id="id_9c27aade-282c-4622-a183-3a9aabe3ce52">
+<td align="left" rowspan="2" stylecode="Lrule Rrule" valign="top">Renal Impaired<br/> CL<sub>cr</sub> 10–30 mL/min<br/> 100 mg SD i.v.</td>
+<td align="left" stylecode="Rrule" valign="top">Tramadol</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">4.23 (54)</td>
+<td align="left" stylecode="Rrule" valign="top">10.6 (31)</td>
+</tr>
+<tr id="id_f9cab06f-8ca9-4818-ba93-26551be8fe18">
+<td align="left" stylecode="Lrule Rrule" valign="top">M1</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">11.5 (40)</td>
+</tr>
+<tr id="id_2051253a-52da-4b20-abe5-8186d79ee9a5">
+<td align="left" rowspan="2" stylecode="Lrule Rrule" valign="top">Renal Impaired,<br/> CL<sub>cr</sub>&lt;5 mLl/min<br/>100 mg SD i.v.</td>
+<td align="left" stylecode="Rrule" valign="top">Tramadol</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">3.73 (17)</td>
+<td align="left" stylecode="Rrule" valign="top">11.0 (29)</td>
+</tr>
+<tr id="id_6470e3cd-4065-468d-beea-916e8113a678" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">M1</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnoteref idref="id-86796225-b372-4bf6-96c7-0efb91e36eda"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">16.9 (18)</td>
+</tr>
+</tbody>
+</table>

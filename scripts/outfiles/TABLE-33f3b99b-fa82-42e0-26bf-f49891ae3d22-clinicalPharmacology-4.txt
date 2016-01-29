@@ -1,0 +1,74 @@
+<table id="TABLE12" width="654.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_2065cb2e-fdcb-4f6c-b359-0d3ee2b334bc">Table 12: Acceptable Quality Control Ranges for Ertapenem</caption>
+<col width="47.1%"></col>
+<col width="26.9%"></col>
+<col width="26.0%"></col>
+<thead>
+<tr id="id_274784ec-e440-4e77-9709-df9ab3a803e9">
+<td align="justify" stylecode="Botrule" valign="top">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">Minimum Inhibitory Concentrations<br/>MIC Range (µg/mL)</td>
+<td align="center" stylecode="Botrule" valign="top">Disk Diffusion<br/>Zone Diameter (mm)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_22a102e5-91eb-418f-b2b9-59ad0833455b">
+<td align="left" stylecode="Toprule Botrule" valign="top">
+<content stylecode="italics">Escherichia coli</content> ATCC 25922</td>
+<td align="center" stylecode="Botrule" valign="top">0.004-0.016</td>
+<td align="center" stylecode="Botrule" valign="top">29-36</td>
+</tr>
+<tr id="id_35ab22f1-c629-4718-98e7-95d2aac605b0">
+<td align="justify" stylecode="Botrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content> ATCC 49766</td>
+<td align="center" stylecode="Botrule" valign="top">0.015-0.06</td>
+<td align="center" stylecode="Botrule" valign="top">27-33</td>
+</tr>
+<tr id="id_3901ce72-0f0d-4168-a509-c35bf9dd5011">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 29213</td>
+<td align="center" stylecode="Botrule" valign="top">0.06-0.25</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+<tr id="id_7aaadbf8-83ac-4a6c-bbad-cc9894f1874f">
+<td align="justify" stylecode="Botrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 25923</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">24-31</td>
+</tr>
+<tr id="id_1117cab0-cf43-4d33-89b6-89beef242ba5">
+<td align="justify" stylecode="Botrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content> ATCC 49619</td>
+<td align="center" stylecode="Botrule" valign="top">0.03-0.25</td>
+<td align="center" stylecode="Botrule" valign="top">28-35</td>
+</tr>
+<tr id="id_38e224c4-8249-4389-9867-94a5bcdea8ef">
+<td align="justify" stylecode="Botrule" valign="top">
+<content stylecode="italics">Bacteroides fragilis </content>ATCC 25285</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>0.06-0.5 <footnote id="id-0efe4c28-0a19-40dd-aa46-87cead2a53cf">Quality control ranges for broth microdilution testing</footnote>
+</paragraph>0.06-0.25<footnote id="id-fbd486a3-23a4-4f1d-a81a-61aab71a9f8b">Quality control ranges for agar dilution testing</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+<tr id="id_f1f9541d-60b7-4678-9a40-bf5974f46343">
+<td align="justify" stylecode="Botrule" valign="top">
+<content stylecode="italics">Bacteroides thetaiotaomicron </content>ATCC 29741</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>0.5-2.0 <footnoteref idref="id-0efe4c28-0a19-40dd-aa46-87cead2a53cf"></footnoteref>
+</paragraph>0.25-1.0 <footnoteref idref="id-fbd486a3-23a4-4f1d-a81a-61aab71a9f8b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+<tr id="id_7a00c713-0eb5-42bc-b1d5-c30da58dcf71">
+<td align="justify" stylecode="Botrule" valign="top">
+<content stylecode="italics">Eubacterium lentum </content>ATCC 43055</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>0.5-4.0 <footnoteref idref="id-0efe4c28-0a19-40dd-aa46-87cead2a53cf"></footnoteref>
+</paragraph>0.5-2.0 <footnoteref idref="id-fbd486a3-23a4-4f1d-a81a-61aab71a9f8b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+</tbody>
+</table>

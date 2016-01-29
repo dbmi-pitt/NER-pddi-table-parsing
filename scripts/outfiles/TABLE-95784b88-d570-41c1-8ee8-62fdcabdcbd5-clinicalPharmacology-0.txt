@@ -1,0 +1,222 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="17%"></col>
+<col width="12%"></col>
+<col width="12%"></col>
+<col width="13%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="12%"></col>
+<col width="15%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="8" stylecode="Toprule ">
+<paragraph>
+<content stylecode="bold">Pharmacokinetic Parameters (mean</content>± <content stylecode="bold">SD)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">Patient Population</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">Dose/day<sup>1</sup>
+</content>
+<br/>
+<content stylecode="bold">(mg/d)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">Dose/ weight </content>
+<br/>
+<content stylecode="bold">(mg/kg/d)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">AUC<sup>2</sup>
+</content>
+<br/>
+<content stylecode="bold">(ng·hr/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+<br/>
+<content stylecode="bold">(ng/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">Trough<sup>3</sup>
+</content>
+<br/>
+<content stylecode="bold">(ng/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">CL/F </content>
+<br/>
+<content stylecode="bold">(mL/min)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">CL/F </content>
+<br/>
+<content stylecode="bold">(mL/min/kg)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">De novo</content>renal transplant<sup>4</sup>
+<br/>Week 4 <br/>(N = 37)</paragraph>
+</td>
+<td align="center">
+<paragraph>597 ± 174</paragraph>
+</td>
+<td align="center">
+<paragraph>7.95 ± 2.81</paragraph>
+</td>
+<td align="center">
+<paragraph>8772 ± 2089</paragraph>
+</td>
+<td align="center">
+<paragraph>1802 ± 428</paragraph>
+</td>
+<td align="center">
+<paragraph>361 ± 129</paragraph>
+</td>
+<td align="center">
+<paragraph>593 ± 204</paragraph>
+</td>
+<td align="center">
+<paragraph>7.8 ± 2.9</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Stable renal transplant<sup>4</sup> (N = 55)</paragraph>
+</td>
+<td align="center">
+<paragraph>344 ± 122</paragraph>
+</td>
+<td align="center">
+<paragraph>4.10 ± 1.58</paragraph>
+</td>
+<td align="center">
+<paragraph>6035 ± 2194</paragraph>
+</td>
+<td align="center">
+<paragraph>1333 ± 469</paragraph>
+</td>
+<td align="center">
+<paragraph>251 ± 116</paragraph>
+</td>
+<td align="center">
+<paragraph>492 ± 140</paragraph>
+</td>
+<td align="center">
+<paragraph>5.9 ± 2.1</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">De novo</content>liver transplant<sup>5</sup>
+<br/>Week 4 <br/>(N = 18)</paragraph>
+</td>
+<td align="center">
+<paragraph>458 ± 190</paragraph>
+</td>
+<td align="center">
+<paragraph>6.89 ± 3.68</paragraph>
+</td>
+<td align="center">
+<paragraph>7187 ± 2816</paragraph>
+</td>
+<td align="center">
+<paragraph>1555 ± 740</paragraph>
+</td>
+<td align="center">
+<paragraph>268 ± 101</paragraph>
+</td>
+<td align="center">
+<paragraph>577 ± 309</paragraph>
+</td>
+<td align="center">
+<paragraph>8.6 ± 5.7</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">De novo</content>rheumatoid arthritis<sup>6</sup>
+<br/>(N = 23)</paragraph>
+</td>
+<td align="center">
+<paragraph>182 ± 55.6</paragraph>
+</td>
+<td align="center">
+<paragraph>2.37 ± 0.36</paragraph>
+</td>
+<td align="center">
+<paragraph>2641 ± 877</paragraph>
+</td>
+<td align="center">
+<paragraph>728 ± 263</paragraph>
+</td>
+<td align="center">
+<paragraph>96.4 ± 37.7</paragraph>
+</td>
+<td align="center">
+<paragraph>613 ± 196</paragraph>
+</td>
+<td align="center">
+<paragraph>8.3 ± 2.8</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">De novo</content>psoriasis<sup>6</sup>
+<br/>Week 4 <br/>(N = 18)</paragraph>
+</td>
+<td align="center">
+<paragraph>189 ± 69.8</paragraph>
+</td>
+<td align="center">
+<paragraph>2.48 ± 0.65</paragraph>
+</td>
+<td align="center">
+<paragraph>2324 ± 1048</paragraph>
+</td>
+<td align="center">
+<paragraph>655 ± 186</paragraph>
+</td>
+<td align="center">
+<paragraph>74.9 ± 46.7</paragraph>
+</td>
+<td align="center">
+<paragraph>723 ± 186</paragraph>
+</td>
+<td align="center">
+<paragraph>10.2 ± 3.9</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8" stylecode="Botrule ">
+<paragraph>1 Total daily dose was divided into two doses administered every 12 hours.<br/>2 AUC was measured over one dosing interval.<br/>3 Trough concentration was measured just prior to the morning cyclosporine (<content stylecode="bold">MODIFIED</content>) dose, approximately 12 hours after the previous dose.<br/>4 Assay:  TDx specific monoclonal fluorescence polarization immunoassay.<br/>5 Assay:  Cyclo-trac specific monoclonal radioimmunoassay.<br/>6 Assay:  INCSTAR specific monoclonal radioimmunoassay.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,325 @@
+<table cellpadding="0.2pt" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3: Effect of Coadministered Drug on Saxagliptin and 5-hydroxy Saxagliptin Systemic Exposures</caption>
+<col width="19%"></col>
+<col width="21%"></col>
+<col width="17%"></col>
+<col width="22%"></col>
+<col width="11%"></col>
+<col width="9%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">Coadministered Drug</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">Dosage of</content>
+<br/>
+<content stylecode="bold">Coadministered Drug*</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">Dosage of</content>
+<br/>
+<content stylecode="bold">Saxagliptin*</content>
+</th>
+<th align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Geometric Mean Ratio</content>
+<br/>
+<content stylecode="bold">(ratio with/without coadministered drug)</content>
+<br/>
+<content stylecode="bold">No Effect = 1.00</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+<th align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+<th align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<content stylecode="bold">AUC<sup>†</sup>
+</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule" valign="top">* Single dose unless otherwise noted.<br/>
+<sup>†</sup> AUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses<br/>
+<sup>‡</sup> Results exclude one subject.<br/>
+<sup>§</sup> The plasma dipeptidyl peptidase-4 (DPP4) activity inhibition over a 24-hour dose interval was not affected by rifampin.<br/>ND=not determined; QD=once daily; q6h=every 6 hours; q12h=every 12 hours; BID=twice daily; LA=long acting</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td colspan="6" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">No dosing adjustments required for the following:</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Metformin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1000 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>100 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.98<br/>0.99</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.79<br/>0.88</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Glyburide</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>5 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>10 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.98<br/>ND</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.08<br/>ND</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Pioglitazone<sup>‡</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>45 mg QD for 10 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>10 mg QD for 5 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.11<br/>ND</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.11<br/>ND</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Digoxin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.25 mg q6h first day followed by q12h second day followed by QD for<br/>5 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>10 mg QD for 7 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.05<br/>1.06</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.99<br/>1.02</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>40 mg QD for 8 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>10 mg QD for 4 days</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.12<br/>1.02</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.21<br/>1.08</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Diltiazem</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>360 mg LA QD for 9 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>10 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>2.09<br/>0.66</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.63<br/>0.57</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Rifampin<sup>§</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>600 mg QD for 6 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>5 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.24<br/>1.03</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.47<br/>1.39</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Omeprazole</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>40 mg QD for 5 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>10 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.13<br/>ND</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.98<br/>ND</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Aluminum hydroxide + magnesium hydroxide + simethicone</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>aluminum hydroxide:<br/>2400 mg<br/>magnesium hydroxide:<br/>2400 mg<br/>simethicone: 240 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>10 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.97<br/>ND</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.74<br/>ND</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Famotidine</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>40 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>10 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.03<br/>ND</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.14<br/>ND</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Limit KOMBIGLYZE XR dose to 2.5 mg/1000 mg once daily when coadministered with strong CYP3A4/5 inhibitors [see <content stylecode="italics">
+<linkhtml href="#s7.1">Drug Interactions (7.1)</linkhtml>
+</content> and <content stylecode="italics">
+<linkhtml href="#s2.2">Dosage and Administration (2.2)</linkhtml>
+</content>]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Ketoconazole</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>200 mg BID for 9 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>100 mg</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>2.45<br/>0.12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.62<br/>0.05</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>Ketoconazole</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>200 mg BID for 7 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>20 mg</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>saxagliptin<br/>5-hydroxy saxagliptin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>3.67<br/>ND</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>2.44<br/>ND</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

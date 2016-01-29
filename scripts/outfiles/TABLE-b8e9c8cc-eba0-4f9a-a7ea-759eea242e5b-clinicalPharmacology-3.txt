@@ -1,0 +1,166 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8: Acceptable Quality Control Ranges for Piperacillin/Tazobactam to Be Used in Validation of Susceptibility Test</caption>
+<col width="43%"></col>
+<col width="29%"></col>
+<col width="29%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule Lrule Toprule "></th>
+<th colspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Acceptable Quality Control Ranges</content>
+</th>
+</tr>
+<tr>
+<th stylecode="Rrule Lrule Botrule ">
+<content stylecode="bold">
+<br/>
+<br/>QC Strain</content>
+</th>
+<th stylecode="Rrule Lrule Toprule Botrule ">
+<content stylecode="bold">Minimum Inhibitory<br/>Concentration<br/>Range (MIC in mcg/mL)</content>
+</th>
+<th stylecode="Rrule Lrule Toprule Botrule ">
+<content stylecode="bold">Disk Diffusion<br/>Zone Diameter<br/>Ranges in mm</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Escherichia coli</content>
+<br/>ATCC 25922</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>1 – 4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>24 – 30</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Escherichia coli</content>
+<br/>ATCC 35218</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.5 – 2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>24 – 30</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+<br/>ATCC 27853</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>1 – 8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>25 – 33</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae</content>
+<footnote id="_Ref371682901">This quality control range for <content stylecode="italics">Haemophilus influenzae</content> is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours.</footnote>
+<br/>ATCC 49247</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.06 – 0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>33 – 38</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 29213</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.25 – 2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 25923</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>27 – 36</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Bacteroides fragilis</content>
+<footnote id="_Ref371682948">The quality control ranges for <content stylecode="italics">Bacteroides fragilis</content> and <content stylecode="italics">Bacteroides thetaiotaomicron</content> are applicable only to tests performed using the agar dilution method.</footnote>
+<content stylecode="italics">
+<br/>
+</content>ATCC 25285</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.12 – 0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Bacteroides thetaiotaomicron</content>
+<footnoteref idref="_Ref371682948"></footnoteref>
+<br/>ATCC 29741</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>4 – 16</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Clostridium difficile</content>
+<footnoteref idref="_Ref371682948"></footnoteref>
+<br/>ATCC 700057</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>4 – 16</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="italics">Eubacterium lentum</content>
+<footnoteref idref="_Ref371682948"></footnoteref>
+<br/>ATCC 43055</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>4 – 16</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>-</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

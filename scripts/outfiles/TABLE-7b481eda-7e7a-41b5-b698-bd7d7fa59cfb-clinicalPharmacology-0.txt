@@ -1,0 +1,38 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td rowspan="2" valign="top">  </td>
+<td rowspan="2" valign="top"> <content stylecode="bold">C<sub>max</sub>
+</content>
+<content stylecode="bold">(mg/L)</content>
+</td>
+<td valign="top"> <content stylecode="bold">AUC</content>
+</td>
+<td valign="top"> <content stylecode="bold">Half-life</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="bold">(mg•h/L)</content>
+</td>
+<td valign="top"> <content stylecode="bold">(hr)</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> Single Dose Oral Healthy (n = 372) </td>
+<td valign="bottom"> 3.1 ± 1</td>
+<td valign="bottom"> 36.1 ± 9.1</td>
+<td valign="bottom"> 11.5 - 15.6<sup>a</sup>
+</td>
+</tr>
+<tr>
+<td valign="top"> Multiple Dose Oral <br/>Healthy young male/female (n = 15) <br/>Healthy elderly male (n = 8) <br/>Healthy elderly female (n = 8) <br/>Healthy young male (n = 8) <br/>Healthy young female (n = 9) </td>
+<td valign="bottom"> 4.5 ± 0.5 <br/>3.8 ± 0.3 <br/>4.6 ± 0.6 <br/>3.6 ± 0.5 <br/>4.2 ± 0.5</td>
+<td valign="bottom"> 48 ± 2.7 <br/>51.8 ± 6.7 <br/>54.6 ± 6.7 <br/>48.2 ± 9 <br/>49.3 ± 9.5</td>
+<td valign="top">  12.7 ± 1.9</td>
+</tr>
+</tbody>
+</table>

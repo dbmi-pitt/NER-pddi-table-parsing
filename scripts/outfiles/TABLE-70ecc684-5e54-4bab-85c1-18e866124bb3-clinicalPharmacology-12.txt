@@ -1,0 +1,27 @@
+<table id="id_cb1ac1a4-738e-48cd-963e-d54bb1e69e20" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="57%"></col>
+<col width="42%"></col>
+<tbody>
+<tr id="id_481ba7fc-24c4-4e26-94ba-ffc9557eb964">
+<td align="left" stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">Clarithromycin MIC (µg/mL) <sup>i</sup>
+</content>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr id="id_3b4b41bb-8488-4f92-b8f3-df63ab83ddd2">
+<td align="left" valign="top">&lt; 0.25</td>
+<td align="left" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_0d461647-0ca1-47dc-b1cb-13cab3cfbe05">
+<td align="left" valign="top">0.5-1.0</td>
+<td align="left" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_d7f4bcd9-dfdd-448b-8825-755a6dbb7d0e">
+<td align="left" stylecode="Botrule" valign="top">&gt; 2.0</td>
+<td align="left" stylecode="Botrule" valign="top">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

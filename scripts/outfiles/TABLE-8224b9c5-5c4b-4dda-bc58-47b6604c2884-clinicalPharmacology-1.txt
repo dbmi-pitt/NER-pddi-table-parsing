@@ -1,0 +1,45 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="34%"></col>
+<col width="26%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Average Observed Values</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="middle">
+<paragraph> Maximum Concentration</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<paragraph> 3.61 mcg/mL (± 0.9 sd)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="middle">
+<paragraph> Time of Maximum Concentration</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<paragraph> 2.60 hr (± 1.10 sd)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="middle">
+<paragraph> Elimination Rate Constant</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<paragraph> 0.049 per hr (± 0.030 sd)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="middle">
+<paragraph> Half-Life</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="middle">
+<paragraph> 16.33 hr (± 4.53 sd)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

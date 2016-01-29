@@ -1,0 +1,35 @@
+<table border="single" id="id_df9fbe01-7eb2-430d-8d22-933e6decd1d6" width="420.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<tbody>
+<tr id="id_33dd7249-2bcc-451b-8647-e0512c4d2149">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+</tr>
+<tr id="id_902753d9-912a-4970-a9d2-6f09be72e269">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae ATCC 49247</content>
+<footnote id="id-3886a025-3983-41c5-ab38-64e4a001f738">This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM)<sup>1</sup>.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.0-4.0</td>
+</tr>
+<tr id="id_bccd9fac-d49d-4c62-ab3f-51794212581e">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus ATCC 29213</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.5-2.0</td>
+</tr>
+<tr id="id_a8ad333f-f0ea-4fa1-96a0-d86dd8df629c">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus Pneumoniae ATCC 49619 </content>
+<footnote id="id-07d5cebb-f84b-4af5-b047-e898950ae5ea">This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.<sup>1</sup>
+</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.06-0.25</td>
+</tr>
+</tbody>
+</table>

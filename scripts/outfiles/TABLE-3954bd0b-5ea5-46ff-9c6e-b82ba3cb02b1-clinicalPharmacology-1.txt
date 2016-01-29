@@ -1,0 +1,48 @@
+<table border="0" cellpadding="0" cellspacing="0" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2: Acceptable Quality Control Ranges for Susceptibility Testing 
+			</caption>
+<thead>
+<tr>
+<th align="left" stylecode="Lrule Rrule Toprule">Quality Control Organism</th>
+<th align="center" stylecode="Lrule Rrule Toprule">Minimum Inhibitory Concentrations<br/>            (mcg/ml)</th>
+<th align="center" stylecode="Lrule Rrule Toprule">Disk Diffusion<br/>            (zone diameters in mm)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3">*Not Applicable</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Escherichia coli</content> (ATCC 25922)</td>
+<td align="center" stylecode="Rrule" valign="top">4-16</td>
+<td align="center" stylecode="Rrule" valign="top">20-25</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus    </content> (ATCC 25923)</td>
+<td align="center" stylecode="Rrule" valign="top">N/A*</td>
+<td align="center" stylecode="Rrule" valign="top">18-22</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus   </content> (ATCC 29213)</td>
+<td align="center" stylecode="Rrule" valign="top">8-32</td>
+<td align="center" stylecode="Rrule" valign="top">N/A*</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content> (ATCC 49619)</td>
+<td align="center" stylecode="Rrule" valign="top">4-16</td>
+<td align="center" stylecode="Rrule" valign="top">23-29</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Enterococcus faecalis</content>       (ATCC 29212)</td>
+<td align="center" stylecode="Rrule" valign="top">4-16</td>
+<td align="center" stylecode="Rrule" valign="top">N/A*</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,76 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td valign="top"> <content stylecode="bold">Microorganism </content>
+</td>
+<td valign="top"> <content stylecode="bold">Microorganism</content>
+<content stylecode="bold"> QC</content>
+<content stylecode="bold"> Number </content>
+</td>
+<td valign="top"> <content stylecode="bold">MIC (mcg/mL) </content>
+</td>
+<td valign="top"> <content stylecode="bold">Disk Diffusion (zone diameter in mm) </content>
+</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td> ATCC 29212 </td>
+<td> 0.25 to 2 </td>
+<td> -- </td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Escherichia coli </content>
+</td>
+<td> ATCC 25922 </td>
+<td> 0.008 to 0.06 </td>
+<td> 29 to 37 </td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Escherichia coli </content>
+</td>
+<td> ATCC 35218 </td>
+<td> 0.015 to 0.06 </td>
+<td> -- </td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td> ATCC 49247 </td>
+<td valign="top"> 0.008 to 0.03</td>
+<td valign="top"> 32 to 40</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Pseudomonas aeruginosa </content>
+</td>
+<td> ATCC 27853 </td>
+<td> 0.5 to 4 </td>
+<td> 19 to 26 </td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td> ATCC 29213 </td>
+<td> 0.06 to 0.5 </td>
+<td> -- </td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td> ATCC 25923 </td>
+<td> -- </td>
+<td> 25 to 30 </td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Streptococcus pneumoniae </content>
+</td>
+<td> ATCC 49619 </td>
+<td valign="top"> 0.5 to 2</td>
+<td valign="top"> 20 to 25</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,36 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col align="left" width="40%"></col>
+<col align="left" width="30%"></col>
+<col align="left" width="30%"></col>
+</colgroup>
+<thead>
+<tr stylecode="First Last">
+<th align="left" stylecode="Botrule">Pharmacokinetic Parameter<br/>[mean (SD)]</th>
+<th align="left" stylecode="Botrule">3-Day Regimen<br/>(20 mg/kg × 3 days)</th>
+<th align="left" stylecode="Botrule">5-Day Regimen<br/>(12 mg/kg × 5 days)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">n</td>
+<td align="left">11</td>
+<td align="left">17</td>
+</tr>
+<tr>
+<td align="left">Cmax  (mcg/mL)</td>
+<td align="left">1.1 (0.4)</td>
+<td align="left">0.5 (0.4)</td>
+</tr>
+<tr>
+<td align="left">Tmax (hr)</td>
+<td align="left">2.7 (1.9)</td>
+<td align="left">2.2 (0.8)</td>
+</tr>
+<tr>
+<td align="left">AUC0–24(mcg∙hr/mL)</td>
+<td align="left">7.9 (2.9)</td>
+<td align="left">3.9 (1.9)</td>
+</tr>
+</tbody>
+</table>

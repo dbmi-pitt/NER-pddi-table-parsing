@@ -1,0 +1,37 @@
+<table id="id_c4130ca6-e8a8-43c3-b546-ba674f50dd96" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="33.0%"></col>
+<col align="center" width="33.0%"></col>
+<col align="center" width="34.0%"></col>
+<thead>
+<tr id="id_65480892-00b1-470e-998b-12051eb1a810">
+<td align="left" stylecode="Botrule" valign="top">Microorganism</td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top">MIC (µg/mL)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_0c205af1-95a3-4831-8c26-fecbe7c09dce">
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">ATCC 25922</td>
+<td align="center" valign="top">1-4</td>
+</tr>
+<tr id="id_07bf114c-1132-418a-a149-ee0358c53f35">
+<td align="left" valign="top">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+<footnote id="idal1ekc">Interpretative criteria applicable only to tests performed by agar dilution method using GC agar base with 1% defined growth supplement and incubated in 5% CO<sub>2</sub>
+<sup>1</sup>.</footnote>
+</td>
+<td align="center" valign="top">ATCC 49226</td>
+<td align="center" valign="top">0.5-2</td>
+</tr>
+<tr id="id_97456c86-3735-480d-b96d-6f4a82e3b37d">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">ATCC 29213</td>
+<td align="center" stylecode="Botrule" valign="top">1-4</td>
+</tr>
+</tbody>
+</table>

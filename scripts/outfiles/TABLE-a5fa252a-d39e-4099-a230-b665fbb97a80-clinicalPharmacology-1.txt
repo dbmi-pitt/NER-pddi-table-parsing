@@ -1,0 +1,33 @@
+<table id="i546ab11f-31b7-4669-891b-c61fdbab9a09" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>For Gram-Negative Enteric Aerobes: </caption>
+<col width="160"></col>
+<col width="100"></col>
+<col width="36"></col>
+<col width="36"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+<td>  </td>
+</tr>
+<tr>
+<td>≤ 8/4 </td>
+<td>Susceptible </td>
+<td>(S) </td>
+</tr>
+<tr>
+<td>16/8 </td>
+<td>Intermediate </td>
+<td>(I) </td>
+</tr>
+<tr>
+<td>≥ 32/16 </td>
+<td>Resistant </td>
+<td>(R) </td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,34 @@
+<table border="1" frame="border" id="inv-5185af99-63ae-46f8-a97d-59537b7b7dc6" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-b3f3a3cd-900e-4c15-b00e-f56b4d8efa4b">Susceptibility Test Interpretive Criteria for Streptococcus pyogenes and Streptococcus pneumoniae<sup>f</sup>
+</caption>
+<col id="inv-8d9ba633-e5bb-41fc-ad7b-41668d37bb1a" width="212.00px"></col>
+<col id="inv-e21ee23d-ea8a-4f0d-95f6-13cf3f0b2c02" width="424.00px"></col>
+<tbody id="inv-40807aeb-24e2-4142-97ba-804f684656db">
+<tr id="inv-fb8925c9-3b75-4d85-b432-1bdb8a58e4c0">
+<td align="center" id="inv-0282d794-1a3e-45a7-9321-2444233e1c1d">
+<content stylecode="bold">Zone diameter (mm)</content>
+</td>
+<td id="inv-cf0ee4db-0bf9-47fe-9be0-1852fd569d7a">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr id="inv-64e3ba69-e035-4a13-b45a-9ebb9527ca00">
+<td align="center" id="inv-799826b2-b3e1-4537-85d0-046d854f0116">
+≥ 21</td>
+<td id="inv-876e5142-5fa3-4b38-9dcb-187156b33925">
+Susceptible  (S)</td>
+</tr>
+<tr id="inv-0af73696-1e49-4a9b-8816-ce54c0b0cc9e">
+<td align="center" id="inv-a103b52d-0e18-4399-ac56-bfa5cb754bc1">
+17 to 20</td>
+<td id="inv-41f0e6a1-ec20-48a6-ab04-f23afb5c8332">
+Intermediate (I)</td>
+</tr>
+<tr id="inv-d9c3c13d-4f6b-4755-b01e-56f67a7969e7">
+<td align="center" id="inv-f0310073-9554-4119-9e29-04c40bd70879">
+≤ 16</td>
+<td id="inv-c2208458-c1e2-4585-bea0-54a68ee26b61">
+Resistant  (R)</td>
+</tr>
+</tbody>
+</table>

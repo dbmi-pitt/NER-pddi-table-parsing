@@ -1,0 +1,30 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1 Mean ± SD Clarithromycin Tissue Concentrations 2 hours after Dose</caption>
+<col align="center" valign="top" width="30%"></col>
+<col align="center" valign="top" width="30%"></col>
+<col align="center" valign="top" width="40%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Tissue</th>
+<th stylecode="Rrule">Clarithromycin<br/>(µg/g)</th>
+<th stylecode="Rrule">Clarithromycin+Omeprazole<br/>(µg/g)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Antrum</td>
+<td stylecode="Rrule">10.48 ± 2.01 (n = 5)</td>
+<td stylecode="Rrule">19.96 ± 4.71 (n=5)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Fundus</td>
+<td stylecode="Rrule">20.81 ±  7.64 (n = 5)</td>
+<td stylecode="Rrule">24.25 ± 6.37 (n= 5)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Mucus</td>
+<td stylecode="Rrule">4.15 ±  7.74 (n = 4)</td>
+<td stylecode="Rrule">39.29 ± 32.79 (n=4)</td>
+</tr>
+</tbody>
+</table>

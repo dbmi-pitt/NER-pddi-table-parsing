@@ -1,0 +1,68 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="25%"></col>
+<col width="15%"></col>
+<col width="23%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Acceptable Quality Control Ranges for Clarithromycin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">QC Strain</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule "></td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Zone diameter (mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">S. aureus</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>ATCC 25923</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>26 to 32</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">S. pneumoniae</content>
+<footnote id="_Ref411497685">This quality control range is applicable only to tests performed by disk diffusion using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood. </footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>ATCC 49619</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>25 to 31</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae</content>
+<footnote id="_Ref411497692">This quality control limit applies to tests conducted with <content stylecode="italics">Haemophilus influenza </content>ATCC 49247 using HTM<sup>2</sup>.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>ATCC 49247</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>11 to 17</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

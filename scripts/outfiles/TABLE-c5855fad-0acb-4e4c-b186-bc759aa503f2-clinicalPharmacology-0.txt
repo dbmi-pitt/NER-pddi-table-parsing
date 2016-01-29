@@ -1,0 +1,138 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="31%"></col>
+<col width="25%"></col>
+<col width="25%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Diclofenac Sodium</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Pharmacokinetic Parameters</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Normal Adults [N=18]</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Age:  18 to 55 years)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Normal Adults [N=19]</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Age:  18 to 55 years)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Single Dose</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Multiple Dose</content>
+</paragraph>
+<paragraph>Four times daily for 7 days</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>AUC<sub>0-t</sub>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>177.5 ± 72.6 ng.h/mL</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>695.4 ± 348.9 ng.h/mL</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>AUC<sub>0-inf</sub>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>196.3 ± 68.5 ng.h/mL</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>745.2 ± 374.7 ng.h/mL</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Plasma C<sub>max</sub>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>8.1 ± 5.9 ng/mL</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>19.4 ± 9.3 ng/mL</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Plasma T<sub>max</sub> (h)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>11.0 ± 6.4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>4.0 ± 6.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Plasma t<sub>1/2</sub> (h)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>36.7 ± 20.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>79.0 ± 38.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>K<sub>el</sub> (h <sup>-1</sup>)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.024 ± 0.010</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.011 ± 0.004</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>CL/F (L/h)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>244.7 ± 84.7 <sup>1</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<sup>1</sup> Apparent total body clearance</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

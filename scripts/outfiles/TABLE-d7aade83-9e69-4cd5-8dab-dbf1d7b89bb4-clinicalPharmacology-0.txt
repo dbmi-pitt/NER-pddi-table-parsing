@@ -1,0 +1,53 @@
+<table id="table6" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6:        FENTANYL PHARMACOKINETIC PARAMETERS FOLLOWING FIRST 72-HOUR APPLICATION OF DURAGESIC</caption>
+<col align="left" valign="top" width="34%"></col>
+<col align="center" valign="top" width="33%"></col>
+<col align="center" valign="top" width="33%"></col>
+<thead>
+<tr>
+<th></th>
+<th>Mean (SD) Time to Maximal Concentration<br/>T<sub>max</sub>
+<br/>(h)</th>
+<th>Mean (SD) Maximal Concentration<br/>C<sub>max</sub>
+<br/>(ng/mL)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3">
+<content stylecode="bold">NOTE: </content>After system removal there is continued systemic absorption from residual fentanyl in the skin so that serum concentrations fall 50%, on average, in approximately 20–27 hours.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td>DURAGESIC 12 mcg/h</td>
+<td>28.8 (13.7)</td>
+<td>0.38 (0.13)<footnote>C<sub>max</sub> values dose normalized from 4 × 12.5 mcg/h: Study 2003-038 in healthy volunteers</footnote>
+</td>
+</tr>
+<tr>
+<td>DURAGESIC 25 mcg/h</td>
+<td>31.7 (16.5)</td>
+<td>0.85 (0.26)<footnote id="t6f2">C<sub>max</sub> values: Study C-2002-048 dose proportionality study in healthy volunteers</footnote>
+</td>
+</tr>
+<tr>
+<td>DURAGESIC 50 mcg/h</td>
+<td>32.8 (15.6)</td>
+<td>1.72 (0.53)<footnoteref idref="t6f2"></footnoteref>
+</td>
+</tr>
+<tr>
+<td>DURAGESIC 75 mcg/h</td>
+<td>35.8 (14.1)</td>
+<td>2.32 (0.86)<footnoteref idref="t6f2"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td>DURAGESIC 100 mcg/h</td>
+<td>29.9 (13.3)</td>
+<td>3.36 (1.28)<footnoteref idref="t6f2"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

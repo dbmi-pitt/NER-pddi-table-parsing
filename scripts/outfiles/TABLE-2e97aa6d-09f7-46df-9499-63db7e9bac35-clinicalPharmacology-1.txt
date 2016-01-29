@@ -1,0 +1,497 @@
+<table id="table6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6	Drug Interactions:  Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Efavirenz</caption>
+<col align="left" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="5%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th colspan="4" stylecode="Lrule Rrule"></th>
+<th colspan="3" stylecode="Rrule">Mean % Change of Coadministered Drug Pharmacokinetic Parameters<footnote>Increase = ↑; Decrease = ↓; No Effect = ↔</footnote>  (90% CI)</th>
+</tr>
+<tr>
+<th align="center" stylecode="Lrule Rrule">Coadministered Drug</th>
+<th stylecode="Rrule">Dose of Coadministered Drug (mg)</th>
+<th stylecode="Rrule">Efavirenz Dose (mg)</th>
+<th stylecode="Rrule">N</th>
+<th stylecode="Rrule">C<sub>max</sub>
+</th>
+<th stylecode="Rrule">AUC</th>
+<th stylecode="Rrule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">NA = not available</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Atazanavir</td>
+<td stylecode="Botrule Rrule">400 mg qd with a light meal d 1–20</td>
+<td stylecode="Botrule Rrule">600 mg qd with a light meal d 7–20</td>
+<td stylecode="Botrule Rrule">27</td>
+<td stylecode="Botrule Rrule">↓ 59<br/>(↓ 49 to<br/>↓ 67)</td>
+<td stylecode="Botrule Rrule">↓ 74<br/>(↓ 68 to<br/>↓ 78)</td>
+<td stylecode="Botrule Rrule">↓ 93<br/>(↓ 90 to<br/>↓ 95)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Botrule Rrule">400 mg qd d 1–6, then 300 mg qd d 7–20 with ritonavir 100 mg qd and a light meal</td>
+<td stylecode="Botrule Rrule">600 mg qd 2 h after atazanavir and ritonavir d 7–20</td>
+<td stylecode="Botrule Rrule">13</td>
+<td stylecode="Botrule Rrule">↑ 14<footnote id="t6f1">Compared with atazanavir 400 mg qd alone.</footnote>
+<br/>(↓ 17 to<br/>↑ 58)</td>
+<td stylecode="Botrule Rrule">↑ 39<footnoteref idref="t6f1"></footnoteref>
+<br/>(↑ 2 to<br/>↑ 88)</td>
+<td stylecode="Botrule Rrule">↑ 48<footnoteref idref="t6f1"></footnoteref>
+<br/>(↑ 24 to<br/>↑ 76)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">300 mg qd/ritonavir 100 mg qd d 1–10 (pm), then 400 mg qd/ritonavir 100 mg qd d 11–24 (pm) (simultaneous with efavirenz)</td>
+<td stylecode="Rrule">600 mg qd with a light snack d 11–24 (pm)</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↑ 17<br/>(↑ 8 to <br/>↑ 27)</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↓ 42<br/>(↓ 31 to <br/>↓ 51)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Indinavir</td>
+<td stylecode="Botrule Rrule">1000 mg q8h × 10 days</td>
+<td stylecode="Botrule Rrule">600 mg qd × 10 days</td>
+<td stylecode="Botrule Rrule">20</td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule"></td>
+<td colspan="2" stylecode="Botrule Rrule">After morning dose</td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule">↔<footnote id="t6f2">Comparator dose of indinavir was 800 mg q8h × 10 days.</footnote>
+</td>
+<td stylecode="Botrule Rrule">↓ 33<footnoteref idref="t6f2"></footnoteref>
+<br/>(↓ 26 to<br/>↓ 39)</td>
+<td stylecode="Botrule Rrule">↓ 39<footnoteref idref="t6f2"></footnoteref>
+<br/>(↓ 24 to<br/>↓ 51)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule"></td>
+<td colspan="2" stylecode="Botrule Rrule">After afternoon dose</td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule">↔<footnoteref idref="t6f2"></footnoteref>
+</td>
+<td stylecode="Botrule Rrule">↓ 37<footnoteref idref="t6f2"></footnoteref>
+<br/>(↓ 26 to<br/>↓ 46)</td>
+<td stylecode="Botrule Rrule">↓ 52<footnoteref idref="t6f2"></footnoteref>
+<br/>(↓ 47 to<br/>↓ 57)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td colspan="2" stylecode="Rrule">After evening dose</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓ 29<footnoteref idref="t6f2"></footnoteref>
+<br/>(↓ 11 to<br/>↓ 43)</td>
+<td stylecode="Rrule">↓ 46<footnoteref idref="t6f2"></footnoteref>
+<br/>(↓ 37 to<br/>↓ 54)</td>
+<td stylecode="Rrule">↓ 57<footnoteref idref="t6f2"></footnoteref>
+<br/>(↓ 50 to<br/>↓ 63)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Lopinavir/<br/>ritonavir</td>
+<td stylecode="Rrule">400/100 mg q12h × 9 days</td>
+<td stylecode="Rrule">600 mg qd × 9 days</td>
+<td stylecode="Rrule">11, 7<footnote>Parallel-group design; N for efavirenz + lopinavir/ritonavir, N for lopinavir/ritonavir alone.</footnote>
+</td>
+<td stylecode="Rrule">↔<footnote id="t6f3">Values are for lopinavir. The pharmacokinetics of ritonavir 100 mg q12h are unaffected by concurrent efavirenz.</footnote>
+</td>
+<td stylecode="Rrule">↓ 19<footnoteref idref="t6f3"></footnoteref>
+<br/>(↓ 36 to <br/>↑ 3)</td>
+<td stylecode="Rrule">↓ 39<footnoteref idref="t6f3"></footnoteref>
+<br/>(↓ 3 to <br/>↓ 62)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Nelfinavir</td>
+<td stylecode="Rrule">750 mg q8h × 7 days</td>
+<td stylecode="Rrule">600 mg qd × 7 days</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">↑ 21<br/>(↑ 10 to<br/>↑ 33)</td>
+<td stylecode="Rrule">↑ 20<br/>(↑ 8 to<br/>↑ 34)</td>
+<td stylecode="Rrule">↔</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Metabolite<br/>AG-1402</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓ 40<br/>(↓ 30 to<br/>↓ 48)</td>
+<td stylecode="Rrule">↓ 37<br/>(↓ 25 to <br/>↓ 48)</td>
+<td stylecode="Rrule">↓ 43<br/>(↓ 21 to <br/>↓ 59)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Ritonavir</td>
+<td stylecode="Botrule Rrule">500 mg q12h × 8 days</td>
+<td stylecode="Botrule Rrule">600 mg qd × 10 days</td>
+<td stylecode="Botrule Rrule">11</td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule"></td>
+<td colspan="2" stylecode="Botrule Rrule">After AM dose</td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule">↑ 24<br/>(↑ 12 to<br/>↑ 38)</td>
+<td stylecode="Botrule Rrule">↑ 18<br/>(↑ 6 to <br/>↑ 33)</td>
+<td stylecode="Botrule Rrule">↑ 42<br/>(↑ 9 to <br/>↑ 86)<footnote id="t6f4">95% CI</footnote>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td colspan="2" stylecode="Rrule">After PM dose</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↑ 24<br/>(↑ 3 to<br/>↑ 50)<footnoteref idref="t6f4"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Saquinavir<br/>SGC<footnote>Soft Gelatin Capsule</footnote>
+</td>
+<td stylecode="Rrule">1200 mg q8h × 10 days</td>
+<td stylecode="Rrule">600 mg qd × 10 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓ 50<br/>(↓ 28 to <br/>↓ 66)</td>
+<td stylecode="Rrule">↓ 62<br/>(↓ 45 to <br/>↓ 74)</td>
+<td stylecode="Rrule">↓ 56<br/>(↓ 16 to <br/>↓ 77)<footnoteref idref="t6f4"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Maraviroc</td>
+<td stylecode="Rrule">100 mg bid</td>
+<td stylecode="Rrule">600 mg qd</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓ 51<br/>(↓ 37 to <br/>↓ 62)</td>
+<td stylecode="Rrule">↓ 45<br/>(↓ 38 to <br/>↓ 51)</td>
+<td stylecode="Rrule">↓ 45<br/>(↓ 28 to <br/>↓ 57)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Raltegravir</td>
+<td stylecode="Rrule">400 mg single dose</td>
+<td stylecode="Rrule">600 mg qd</td>
+<td stylecode="Rrule">9</td>
+<td stylecode="Rrule">↓ 36<br/>(↓ 2 to <br/>↓ 59)</td>
+<td stylecode="Rrule">↓ 36<br/>(↓ 20 to <br/>↓ 48)</td>
+<td stylecode="Rrule">↓ 21<br/>(↓ 51 to <br/>↑ 28)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Boceprevir</td>
+<td stylecode="Rrule">800 mg tid × 6 days</td>
+<td stylecode="Rrule">600 mg qd × 16 days</td>
+<td stylecode="Rrule">NA</td>
+<td stylecode="Rrule">↓ 8<br/>(↓ 22 to <br/>↑ 8)</td>
+<td stylecode="Rrule">↓ 19<br/>(↓ 11 to <br/>↓ 25)</td>
+<td stylecode="Rrule">↓ 44<br/>(↓ 26 to <br/>↓ 58)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Telaprevir</td>
+<td stylecode="Rrule">750 mg q8h × 10 days</td>
+<td stylecode="Rrule">600 mg qd × 20 days</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">↓ 9<br/>(↓18 to <br/>↑ 2)</td>
+<td stylecode="Rrule">↓ 26<br/>(↓16 to <br/>↓ 35)</td>
+<td stylecode="Rrule">↓ 47<br/>(↓ 35 to <br/>↓ 56)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Clarithromycin</td>
+<td stylecode="Rrule">500 mg q12h × 7 days</td>
+<td stylecode="Rrule">400 mg qd × 7 days</td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↓ 26<br/>(↓ 15 to <br/>↓ 35)</td>
+<td stylecode="Rrule">↓ 39<br/>(↓ 30 to<br/>↓ 46)</td>
+<td stylecode="Rrule">↓ 53<br/>(↓ 42 to<br/>↓ 63)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">14-OH metabolite</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↑ 49<br/>(↑ 32 to <br/>↑ 69)</td>
+<td stylecode="Rrule">↑ 34<br/>(↑ 18 to<br/>↑ 53)</td>
+<td stylecode="Rrule">↑ 26<br/>(↑ 9 to<br/>↑ 45)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Itraconazole</td>
+<td stylecode="Rrule" valign="top">200 mg q12h × 28 days</td>
+<td stylecode="Rrule" valign="top">600 mg qd × 14 days</td>
+<td stylecode="Rrule" valign="top">18</td>
+<td stylecode="Rrule" valign="top">↓ 37<br/>(↓ 20 to <br/>↓ 51)</td>
+<td stylecode="Rrule" valign="top">↓ 39<br/>(↓ 21 to<br/>↓ 53)</td>
+<td stylecode="Rrule" valign="top">↓ 44<br/>(↓ 27 to<br/>↓ 58)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="middle">Hydroxy-itraconazole</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule" valign="bottom">↓ 35<br/>(↓ 12 to <br/>↓ 52)</td>
+<td stylecode="Rrule" valign="bottom">↓ 37<br/>(↓ 14 to<br/>↓ 55)</td>
+<td stylecode="Rrule" valign="bottom">↓ 43<br/>(↓ 18 to<br/>↓ 60)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Posaconazole</td>
+<td stylecode="Rrule" valign="top">400 mg (oral suspension) bid × 10 and 20 days</td>
+<td stylecode="Rrule" valign="top">400 mg qd × 10 and 20 days</td>
+<td stylecode="Rrule" valign="top">11</td>
+<td stylecode="Rrule" valign="top">↓ 45<br/>(↓ 34 to<br/>↓ 53)</td>
+<td stylecode="Rrule" valign="top">↓ 50<br/>(↓ 40 to<br/>↓ 57)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifabutin</td>
+<td stylecode="Rrule">300 mg qd × 14 days</td>
+<td stylecode="Rrule">600 mg qd × 14 days</td>
+<td stylecode="Rrule">9</td>
+<td stylecode="Rrule">↓ 32<br/>(↓ 15 to<br/>↓ 46)</td>
+<td stylecode="Rrule">↓ 38<br/>(↓ 28 to<br/>↓ 47)</td>
+<td stylecode="Rrule">↓ 45<br/>(↓ 31 to<br/>↓ 56)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Artemether/lumefantrine</td>
+<td align="left" stylecode="Rrule">Artemether 20 mg/lumefantrine 120 mg tablets (6 4-tablet doses over 3 days)</td>
+<td stylecode="Rrule" valign="top">600 mg qd × 26 days</td>
+<td stylecode="Rrule" valign="top">12</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Artemether</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓ 21↓ 38 </td>
+<td stylecode="Rrule">↓ 51</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">dihydroartemisinin</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↓ 46</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">lumefantrine</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓21</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Atorvastatin</td>
+<td stylecode="Rrule">10 mg qd × 4 days</td>
+<td stylecode="Rrule">600 mg qd × 15 days</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↓ 14<br/>(↓ 1 to<br/>↓ 26)</td>
+<td stylecode="Rrule">↓ 43<br/>(↓ 34 to<br/>↓ 50)</td>
+<td stylecode="Rrule">↓ 69<br/>(↓ 49 to<br/>↓ 81)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Total active (including metabolites)</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓ 15<br/>(↓ 2 to<br/>↓ 26)</td>
+<td stylecode="Rrule">↓ 32<br/>(↓ 21 to<br/>↓ 41)</td>
+<td stylecode="Rrule">↓ 48<br/>(↓ 23 to<br/>↓ 64)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Pravastatin</td>
+<td stylecode="Rrule">40 mg qd × 4 days</td>
+<td stylecode="Rrule">600 mg qd × 15 days</td>
+<td stylecode="Rrule">13</td>
+<td stylecode="Rrule">↓ 32<br/>(↓ 59 to<br/>↑ 12)</td>
+<td stylecode="Rrule">↓ 44<br/>(↓ 26 to<br/>↓ 57)</td>
+<td stylecode="Rrule">↓ 19<br/>(↓ 0 to<br/>↓ 35)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Simvastatin</td>
+<td stylecode="Rrule">40 mg qd × 4 days</td>
+<td stylecode="Rrule">600 mg qd × 15 days</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↓ 72<br/>(↓ 63 to<br/>↓ 79)</td>
+<td stylecode="Rrule">↓ 68<br/>(↓ 62 to<br/>↓ 73)</td>
+<td stylecode="Rrule">↓ 45<br/>(↓ 20 to<br/>↓ 62)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Total active (including metabolites)</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓ 68<br/>(↓ 55 to<br/>↓ 78)</td>
+<td stylecode="Rrule">↓ 60<br/>(↓ 52 to<br/>↓ 68)</td>
+<td stylecode="Rrule">NA<footnote>Not available because of insufficient data.</footnote>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Carbamazepine</td>
+<td stylecode="Rrule">200 mg qd × 3 days, 200 mg bid × 3 days, then 400 mg qd × 29 days</td>
+<td stylecode="Rrule">600 mg qd × 14 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓ 20<br/>(↓ 15 to<br/>↓ 24)</td>
+<td stylecode="Rrule">↓ 27<br/>(↓ 20 to<br/>↓ 33)</td>
+<td stylecode="Rrule">↓ 35<br/>(↓ 24 to<br/>↓ 44)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Epoxide metabolite</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↓ 13<br/>(↓ 30 to<br/>↑ 7)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Diltiazem</td>
+<td stylecode="Rrule" valign="top">240 mg × 21 days</td>
+<td stylecode="Rrule" valign="top">600 mg qd × 14 days</td>
+<td stylecode="Rrule" valign="top">13</td>
+<td stylecode="Rrule" valign="top">↓ 60<br/>(↓ 50 to<br/>↓ 68)</td>
+<td stylecode="Rrule" valign="top">↓ 69<br/>(↓ 55 to<br/>↓ 79)</td>
+<td stylecode="Rrule" valign="top">↓ 63<br/>(↓ 44 to<br/>↓ 75)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Desacetyl diltiazem</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓ 64<br/>(↓ 57 to<br/>↓ 69)</td>
+<td stylecode="Rrule">↓ 75<br/>(↓ 59 to<br/>↓ 84)</td>
+<td stylecode="Rrule">↓ 62<br/>(↓ 44 to<br/>↓ 75)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">N-monodesmethyl diltiazem</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓ 28<br/>(↓ 7 to<br/>↓ 44)</td>
+<td stylecode="Rrule">↓ 37<br/>(↓ 17 to<br/>↓ 52)</td>
+<td stylecode="Rrule">↓ 37<br/>(↓ 17 to<br/>↓ 52)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Ethinyl estradiol/ Norgestimate</td>
+<td stylecode="Rrule">0.035 mg/0.25 mg × 14 days</td>
+<td stylecode="Rrule">600 mg qd × 14 days</td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+<td stylecode="Botrule Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Ethinyl estradiol</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Botrule Rrule">21</td>
+<td stylecode="Botrule Rrule">↔</td>
+<td stylecode="Botrule Rrule">↔</td>
+<td stylecode="Botrule Rrule">↔</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Norelgestromin</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Botrule Rrule">21</td>
+<td stylecode="Botrule Rrule">↓ 46<br/>(↓39 to<br/>↓ 52)</td>
+<td stylecode="Botrule Rrule">↓ 64<br/>(↓ 62 to<br/>↓ 67)</td>
+<td stylecode="Botrule Rrule">↓ 82<br/>(↓ 79 to<br/>↓ 85)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Levonorgestrel</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">6</td>
+<td stylecode="Rrule">↓ 80<br/>(↓77 to<br/>↓ 83)</td>
+<td stylecode="Rrule">↓ 83<br/>(↓79 to<br/>↓ 87)</td>
+<td stylecode="Rrule">↓ 86<br/>(↓80 to<br/>↓ 90)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Methadone</td>
+<td stylecode="Rrule">Stable maintenance 35–100 mg daily</td>
+<td stylecode="Rrule">600 mg qd × 14–21 days</td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↓ 45<br/>(↓ 25 to<br/>↓ 59)</td>
+<td stylecode="Rrule">↓ 52<br/>(↓ 33 to<br/>↓ 66)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Bupropion</td>
+<td stylecode="Rrule" valign="top">150 mg single dose<br/>(sustained-release)</td>
+<td stylecode="Rrule" valign="top">600 mg qd × 14 days</td>
+<td stylecode="Rrule" valign="top">13</td>
+<td stylecode="Rrule" valign="top">↓ 34<br/>(↓21 to ↓47)</td>
+<td stylecode="Rrule" valign="top">↓ 55<br/>(↓48 to ↓62)</td>
+<td stylecode="Rrule" valign="top">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Hydroxybupropion</td>
+<td stylecode="Rrule" valign="top"></td>
+<td stylecode="Rrule" valign="top"></td>
+<td stylecode="Rrule" valign="top"></td>
+<td stylecode="Rrule" valign="top">↑ 50<br/>(↑ 20 to<br/>↑ 80)</td>
+<td stylecode="Rrule" valign="top">↔</td>
+<td stylecode="Rrule" valign="top">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Sertraline</td>
+<td stylecode="Rrule">50 mg qd × 14 days</td>
+<td stylecode="Rrule">600 mg qd × 14 days</td>
+<td stylecode="Rrule">13</td>
+<td stylecode="Rrule">↓ 29<br/>(↓ 15 to <br/>↓ 40)</td>
+<td stylecode="Rrule">↓ 39<br/>(↓ 27 to<br/>↓ 50)</td>
+<td stylecode="Rrule">↓ 46<br/>(↓ 31 to<br/>↓ 58)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top"></td>
+<td stylecode="Botrule Rrule" valign="top">400 mg po q12h × 1 day then 200 mg po q12h × 8 days</td>
+<td stylecode="Botrule Rrule" valign="top">400 mg qd × 9 days</td>
+<td stylecode="Botrule Rrule" valign="top">NA</td>
+<td stylecode="Botrule Rrule" valign="top">↓ 61<footnote id="t6f5">90% CI not available</footnote>
+</td>
+<td stylecode="Botrule Rrule" valign="top">↓ 77<footnoteref idref="t6f5"></footnoteref>
+</td>
+<td stylecode="Botrule Rrule" valign="top">NA</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Voriconazole</td>
+<td stylecode="Botrule Rrule" valign="top">300 mg po q12h days 2–7</td>
+<td stylecode="Botrule Rrule" valign="top">300 mg qd × 7 days</td>
+<td stylecode="Botrule Rrule" valign="top">NA</td>
+<td stylecode="Botrule Rrule" valign="top">↓ 36<footnote id="t6f6">Relative to steady-state administration of voriconazole (400 mg for 1 day, then 200 mg po q12h for 2 days).</footnote>
+<br/>(↓ 21 to <br/>↓ 49)</td>
+<td stylecode="Botrule Rrule" valign="top">↓ 55<footnoteref idref="t6f6"></footnoteref>
+<br/>(↓ 45 to <br/>↓ 62)</td>
+<td stylecode="Botrule Rrule" valign="top">NA</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top"></td>
+<td stylecode="Rrule" valign="top">400 mg po q12h days 2–7</td>
+<td stylecode="Rrule" valign="top">300 mg qd × 7 days</td>
+<td stylecode="Rrule" valign="top">NA</td>
+<td stylecode="Rrule" valign="top">↑ 23<footnoteref idref="t6f6"></footnoteref>
+<br/>(↓ 1 to <br/>↑ 53</td>
+<td stylecode="Rrule" valign="top">↓ 7<footnoteref idref="t6f6"></footnoteref>
+<br/>(↓ 23 to <br/>↑ 13)</td>
+<td stylecode="Rrule" valign="top">NA</td>
+</tr>
+</tbody>
+</table>

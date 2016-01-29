@@ -1,0 +1,164 @@
+<table id="id_314de7cd-0a81-4ff1-9fac-28508c3c1c3b" width="515.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_8d6ee3a2-27be-4e28-882e-02e62b7d20b7">Pediatric Pharmacokinetic Parameters (mean ±SD)</caption>
+<col width="14.8%"></col>
+<col width="13.2%"></col>
+<col width="14.8%"></col>
+<col width="16.5%"></col>
+<col width="13.2%"></col>
+<col width="13.2%"></col>
+<col width="14.4%"></col>
+<tbody>
+<tr id="id_d7fa3c32-c619-4e94-9965-1f74cdeec7c3">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold"> Patient Population </content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Dose/ day(mg/d)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold"> Dose/weight (mg/kg/d) </content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold"> AUC1<footnote id="id-0e5622e4-3645-4f5f-9db7-50c6e144b14c">
+<sup>1</sup>AUC was measured over one dosing interval</footnote> (ng•hr/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold"> C<sub>max</sub> (ng/mL) </content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold"> CL/F (mL/min) </content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold"> CL/F (mL/min/kg) </content>
+</td>
+</tr>
+<tr id="id_c0341267-94ec-402b-a6fd-cf141f05f46c">
+<td align="left" stylecode="Lrule Rrule" valign="top">Stable liver transplant2<footnote id="id-e04d7823-740c-4250-91bd-e983f390dd6e">
+<sup>2</sup>Assay: Cyclo-trac specific monoclonal radioimmunoassay</footnote>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+</tr>
+<tr id="id_30a21dde-c0d1-49ea-ba56-74f8c4a46d72">
+<td align="left" stylecode="Lrule Rrule" valign="top">Age 2 to 8, dosed TID (N=9)</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>101±25 </paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>5.95±1.32</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>2163±801 </paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>629±219 </paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>285±94 </paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>16.6±4.3 </paragraph>
+</td>
+</tr>
+<tr id="id_b331a740-a4a0-48d7-98d8-f2ffa38c6d4e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Age 8 to 15, dosed BID (N=8) </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>188±55 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>4.96±2.09 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>4272±1462 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>975±281 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>378±80 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>10.2±4.0 </paragraph>
+</td>
+</tr>
+<tr id="id_156e1922-38b4-4ac3-8b41-6aa8aae78eca">
+<td align="left" stylecode="Lrule Rrule" valign="top">Stable liver transplant3<footnote id="id-73f59686-be81-451d-a062-8ead76e3610c">
+<sup>3</sup>Assay: TDx specific monoclonal fluorescence polarization immunoassay</footnote>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+</tr>
+<tr id="id_bf45caec-5d75-4fdc-b994-55466e9ad0e0">
+<td align="left" stylecode="Lrule Rrule" valign="top">Age 3, dosed BID (N=1) </td>
+<td align="center" stylecode="Rrule" valign="middle"> 120 </td>
+<td align="center" stylecode="Rrule" valign="middle"> 8.33 </td>
+<td align="center" stylecode="Rrule" valign="middle"> 5832 </td>
+<td align="center" stylecode="Rrule" valign="middle"> 1050 </td>
+<td align="center" stylecode="Rrule" valign="middle"> 171 </td>
+<td align="center" stylecode="Rrule" valign="middle"> 11.9 </td>
+</tr>
+<tr id="id_75d68235-6953-44d6-931c-bf2ad7e8118c">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Age 8 to 15, dosed BID (N=5) </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>158±55 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>5.51±1.91 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>4452±2475 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph> 1013±635 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>328±121 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph> 11.0±1.9 </paragraph>
+</td>
+</tr>
+<tr id="id_232e8b32-d745-44c3-a711-eeb75f459fbb">
+<td align="left" stylecode="Lrule Rrule" valign="top">Stable renal transplant<sup>3</sup>
+<footnoteref idref="id-73f59686-be81-451d-a062-8ead76e3610c"></footnoteref>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+<td align="center" stylecode="Rrule" valign="middle">   </td>
+</tr>
+<tr id="id_6e11230d-14cf-4a82-8c35-2f22f24467ea">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Age 7 to 15, dosed BID (N=5) </td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>328±83 </paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>7.37±4.11 </paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph> 6922±1988</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>1827±487 </paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>418±143 </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>8.7±2.9 </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

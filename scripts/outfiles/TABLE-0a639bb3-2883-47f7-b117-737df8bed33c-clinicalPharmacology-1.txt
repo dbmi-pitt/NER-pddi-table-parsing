@@ -1,0 +1,38 @@
+<table border="1" id="inv-023c2ba9-d3aa-41b6-8076-80ecb3694978" width="441" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-03728a2e-d526-466c-b6b5-ad06e0e415d2">TABLE B RANGE OF PHARMACOKINETIC PARAMETERS OF INTRAVENOUS FENTANYL IN PATIENTS</caption>
+<col width="25.9%"></col>
+<col width="19.7%"></col>
+<col width="26.5%"></col>
+<col width="27.9%"></col>
+<thead>
+<tr id="id_babc33e7-43d0-4d4c-8484-70f283b4c111">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="bottom"></td>
+<td align="center" stylecode="Rrule" valign="bottom">Clearance (L/hr) Range (70 kg)</td>
+<td align="center" stylecode="Rrule" valign="bottom">Volume of Distribution V<sub>ss</sub> (L/kg) Range</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Half-Life t<sub>½</sub> (hr) Range</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_453e2004-89c3-4667-a31e-4e0ee70ed4f0">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="middle">Surgical Patients</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">27 to 75</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3 to 8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3 to 12</td>
+</tr>
+<tr id="id_0f1c7a2e-c125-407c-be36-4a02d82ba712">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Hepatically Impaired Patients</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3 to 80<footnote id="id-1e4335e1-1c9c-40b7-ac81-ae65a013b62c">Estimated</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.8 to 8<footnoteref idref="id-1e4335e1-1c9c-40b7-ac81-ae65a013b62c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4 to 12<footnoteref idref="id-1e4335e1-1c9c-40b7-ac81-ae65a013b62c"></footnoteref>
+</td>
+</tr>
+<tr id="id_8c41d628-d4c6-4035-8784-b305849dff39">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Renally Impaired Patients</td>
+<td align="center" stylecode="Rrule" valign="middle">30 to 78</td>
+<td align="center" stylecode="Rrule" valign="middle">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+</tr>
+</tbody>
+</table>

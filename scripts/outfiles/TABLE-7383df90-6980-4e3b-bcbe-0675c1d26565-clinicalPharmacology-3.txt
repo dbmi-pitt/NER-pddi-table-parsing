@@ -1,0 +1,49 @@
+<table border="single" id="id_20e55873-b57e-4e29-a7b5-8ca53df07f1f" width="482" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.5%"></col>
+<col width="24.7%"></col>
+<col width="24.8%"></col>
+<tbody>
+<tr id="id_0ecc11e0-5a07-4d5f-894d-9609e11ef779">
+<td align="left" colspan="3" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<paragraph>
+<content stylecode="bold">Table 6: Acceptable Quality Control Ranges for Amoxicillin/Clavulanic Acid</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_6386a0d1-246a-44f5-95cd-eabba15d72f4">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">QC Strain </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Minimum Inhibitory Concentration (mcg/mL) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Disk Diffusion (Zone Diameter in mm) </td>
+</tr>
+<tr id="id_f5a52f84-9908-4c41-8110-08eee743fcd1">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Escherichia coli </content>ATCC 25922 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2/1 to 8/4 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">18 to 24 </td>
+</tr>
+<tr id="id_925f0d0b-e5f4-4138-aaaf-d4d67d6f6408">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Escherichia coli </content>ATCC 35218 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4/2 to 16/8 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">17 to 22 </td>
+</tr>
+<tr id="id_d0f211ee-3ed1-440a-a5af-b21b2cd71c6d">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae </content>ATCC 49247 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2/1 to 16/8 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">15 to 23 </td>
+</tr>
+<tr id="id_4235ddfd-832c-478d-9e60-b25aa94d4291">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus </content>ATCC 29213 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.12/0.06 to 0.5/0.25 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+</tr>
+<tr id="id_f80fe71a-6e93-42c5-9694-1bf735f95f49">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus </content>ATCC 29523 </td>
+<td align="center" stylecode="Rrule" valign="middle">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">28 to 36 </td>
+</tr>
+</tbody>
+</table>

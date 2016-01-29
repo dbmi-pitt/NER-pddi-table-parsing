@@ -1,0 +1,47 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Mean (SD, CV %) Pamidronate Pharmacokinetic Parameters in Cancer Patients (n=6 for each group)</caption>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="31%"></col>
+<col align="center" valign="top" width="18%"></col>
+<col align="center" valign="top" width="18%"></col>
+<col align="center" valign="top" width="18%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Dose<br/>(infusion rate)</th>
+<th stylecode="Rrule">Maximum Concentration<br/>(mcg/mL)</th>
+<th stylecode="Rrule">Percent of dose excreted in urine</th>
+<th stylecode="Rrule">Total Clearance<br/>(mL/min)</th>
+<th stylecode="Rrule">Renal Clearance<br/>(mL/min)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">30 mg (4 hrs)</td>
+<td stylecode="Rrule">0.73 (0.14, 19.1%)</td>
+<td stylecode="Rrule">43.9 (14.0, 31.9%)</td>
+<td stylecode="Rrule">136 (44, 32.4%)</td>
+<td stylecode="Rrule">58 (27, 46.5%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">60 mg (4 hrs)</td>
+<td stylecode="Rrule">1.44 (0.57, 39.6%)</td>
+<td stylecode="Rrule">47.4 (47.4, 54.4%)</td>
+<td stylecode="Rrule">88 (56, 63.6%)</td>
+<td stylecode="Rrule">42 (28, 66.7%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">90 mg (4 hrs)</td>
+<td stylecode="Rrule">2.61 (0.74, 28.3%)</td>
+<td stylecode="Rrule">45.3 (25.8, 56.9%)</td>
+<td stylecode="Rrule">103 (37, 35.9%)</td>
+<td stylecode="Rrule">44 (16, 36.4%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">90 mg (24 hrs)</td>
+<td stylecode="Rrule">1.38 (1.97, 142.7%)</td>
+<td stylecode="Rrule">47.5 (10.2, 21.5%)</td>
+<td stylecode="Rrule">101 (58, 57.4%)</td>
+<td stylecode="Rrule">52 (42, 80.8%)</td>
+</tr>
+</tbody>
+</table>

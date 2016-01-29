@@ -1,0 +1,26 @@
+<table id="t2" width="75%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>TABLE 2</caption>
+<col align="left" valign="bottom" width="30%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<thead>
+<tr><th align="center" colspan="6" stylecode="Botrule">Mean Response in Patients with Primary Hypercholesterolemia and Combined (mixed) Hyperlipidemia<br/>(Mean Percent Change from Baseline After 6 to 24 Weeks)</th></tr>
+<tr><th>TREATMENT</th><th>N</th><th>TOTAL-C</th><th>LDL-C</th><th>HDL-C</th><th>TG<footnote>median percent change</footnote></th></tr>
+</thead>
+<tbody>
+<tr><td><content stylecode="underline">Lower Dose Comparative Study<footnote>mean baseline LDL-C 244 mg/dL and median baseline TG 168 mg/dL</footnote><br/> (Mean % Change at Week 6)</content></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Simvastatin 5 mg q.p.m</td><td>109</td><td>-19</td><td>-26</td><td>10</td><td>-12</td></tr>
+<tr><td>Simvastatin 10 mg q.p.m.</td><td>110</td><td>-23</td><td>-30</td><td>12</td><td>-15</td></tr>
+<tr><td><content stylecode="underline">Scandinavian Simvastatin Survival Study<footnote>mean baseline LDL-C 188 mg/dL and median baseline TG 128 mg/dL</footnote><br/>(Mean % Change at Week 6)<br/></content>Placebo</td><td>2223</td><td>-1</td><td>-1</td><td>0</td><td>-2</td></tr>
+<tr><td>Simvastatin 20 mg q.p.m.</td><td>2221</td><td>-28</td><td>-38</td><td>8</td><td>-19</td></tr>
+<tr><td><content stylecode="underline">Upper Dose Comparative Study<footnote>mean baseline LDL-C 226 mg/dL and median baseline TG 156 mg/dL</footnote><br/> (Mean % Change Averaged at <br/> Weeks 18 and 24)</content></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Simvastatin 40 mg q.p.m.</td><td>433</td><td>-31</td><td>-41</td><td>9</td><td>-18</td></tr>
+<tr><td>Simvastatin 80 mg q.p.m.</td><td>664</td><td>-36</td><td>-47</td><td>8</td><td>-24</td></tr>
+<tr><td><content stylecode="underline">Multi-Center Combined Hyperlipidemia Study<footnote>mean baseline LDL-C 156 mg/dL and median baseline TG 391 mg/dL. </footnote><br/> (Mean % Change at Week 6)</content></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Placebo</td><td>125</td><td>1</td><td>2</td><td>3</td><td>-4</td></tr>
+<tr><td>Simvastatin 40 mg q.p.m.</td><td>123</td><td>-25</td><td>-29</td><td>13</td><td>-28</td></tr>
+<tr><td>Simvastatin 80 mg q.p.m.</td><td>124</td><td>-31</td><td>-36</td><td>16</td><td>-33</td></tr>
+</tbody>
+</table>

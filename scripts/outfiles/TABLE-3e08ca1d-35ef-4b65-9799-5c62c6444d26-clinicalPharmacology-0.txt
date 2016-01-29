@@ -1,0 +1,315 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="19%"></col>
+<col width="17%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="22%"></col>
+<col width="12%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<paragraph>             </paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>Dose</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>Ultrarapid (n=10)</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>Extensive (n=10)</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>Intermediate (n=10)</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>Poor(n=10)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Cmax (ng/mL)</paragraph>
+</td>
+<td>
+<paragraph>300 mg (24 h)</paragraph>
+</td>
+<td>
+<paragraph>24 (10)</paragraph>
+</td>
+<td>
+<paragraph>32 (21)</paragraph>
+</td>
+<td>
+<paragraph>23 (11)</paragraph>
+</td>
+<td>
+<paragraph>11 (4)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph>600 mg (24 h)</paragraph>
+</td>
+<td>
+<paragraph>36 (13)</paragraph>
+</td>
+<td>
+<paragraph>44 (27)</paragraph>
+</td>
+<td>
+<paragraph>39 (23)</paragraph>
+</td>
+<td>
+<paragraph>17 (6)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph>75 mg (Day 5)</paragraph>
+</td>
+<td>
+<paragraph>12 (6)</paragraph>
+</td>
+<td>
+<paragraph>13 (7)</paragraph>
+</td>
+<td>
+<paragraph>12 (5)</paragraph>
+</td>
+<td>
+<paragraph>4 (1)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph>150 mg (Day 5)</paragraph>
+</td>
+<td>
+<paragraph>16 (9)</paragraph>
+</td>
+<td>
+<paragraph>19 (5)</paragraph>
+</td>
+<td>
+<paragraph>18 (7)</paragraph>
+</td>
+<td>
+<paragraph>7 (2)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>IPA (%)*</paragraph>
+</td>
+<td>
+<paragraph>300 mg (24 h)</paragraph>
+</td>
+<td>
+<paragraph>40 (21)</paragraph>
+</td>
+<td>
+<paragraph>39 (28)</paragraph>
+</td>
+<td>
+<paragraph>37 (21)</paragraph>
+</td>
+<td>
+<paragraph>24 (26)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph>600 mg (24 h)</paragraph>
+</td>
+<td>
+<paragraph>51 (28)</paragraph>
+</td>
+<td>
+<paragraph>49 (23)</paragraph>
+</td>
+<td>
+<paragraph>56 (22)</paragraph>
+</td>
+<td>
+<paragraph>32 (25)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph>75 mg (Day 5)</paragraph>
+</td>
+<td>
+<paragraph>56 (13)</paragraph>
+</td>
+<td>
+<paragraph>58 (19)</paragraph>
+</td>
+<td>
+<paragraph>60 (18)</paragraph>
+</td>
+<td>
+<paragraph>37 (23)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph>150 mg (Day 5)</paragraph>
+</td>
+<td>
+<paragraph>68 (18)</paragraph>
+</td>
+<td>
+<paragraph>73 (9)</paragraph>
+</td>
+<td>
+<paragraph>74 (14)</paragraph>
+</td>
+<td>
+<paragraph>61 (14)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>VASP-PRI (%) † </paragraph>
+</td>
+<td>
+<paragraph>300 mg (24 h)</paragraph>
+</td>
+<td>
+<paragraph>73 (12)</paragraph>
+</td>
+<td>
+<paragraph>68 (16</paragraph>
+</td>
+<td>
+<paragraph>78 (12)</paragraph>
+</td>
+<td>
+<paragraph>91 (12)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph>600 mg (24 h)</paragraph>
+</td>
+<td>
+<paragraph>51 (20)</paragraph>
+</td>
+<td>
+<paragraph>48 (20)</paragraph>
+</td>
+<td>
+<paragraph>56 (26)</paragraph>
+</td>
+<td>
+<paragraph>85 (14)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph>75 mg (Day 5)</paragraph>
+</td>
+<td>
+<paragraph>40 (9)</paragraph>
+</td>
+<td>
+<paragraph>39 (14)</paragraph>
+</td>
+<td>
+<paragraph>50 (16)</paragraph>
+</td>
+<td>
+<paragraph>83 (13)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph>150 mg (Day 5)</paragraph>
+</td>
+<td>
+<paragraph>20 (10)</paragraph>
+</td>
+<td>
+<paragraph>24 (10)</paragraph>
+</td>
+<td>
+<paragraph>29 (11)</paragraph>
+</td>
+<td>
+<paragraph>61 (18)</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Botrule ">
+<paragraph>Values are mean (SD) <br/>* Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition <br/>† Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

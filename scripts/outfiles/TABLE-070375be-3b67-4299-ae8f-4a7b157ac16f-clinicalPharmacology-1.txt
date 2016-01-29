@@ -1,0 +1,296 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="20%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule " valign="top">
+<paragraph>  </paragraph>
+</td>
+<td colspan="3" stylecode="Toprule " valign="top">
+<paragraph> <content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL) </content>
+</paragraph>
+</td>
+<td colspan="3" stylecode="Toprule " valign="top">
+<paragraph> <content stylecode="bold">Disk Diffusion (zone diameter in mm) </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> <content stylecode="bold">Pathogen </content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> <content stylecode="bold">S </content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> <content stylecode="bold">I </content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> <content stylecode="bold">R </content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> <content stylecode="bold">S </content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> <content stylecode="bold">I </content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> <content stylecode="bold">R </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> <content stylecode="italics">Enterobacteriaceae</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤2 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 4 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥8 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥17 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 14 to 16 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤13 </paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> <content stylecode="italics">Enterococcus faecalis</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤2 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 4 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥8 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥17 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 14 to 16 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤13 </paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> <content stylecode="italics">Staphylococcus species</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤2 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 4 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥8 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥17 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 14 to 16 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤13 </paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> <content stylecode="italics">Pseudomonas aeruginosa</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤2 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 4 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥8 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥17 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 14 to 16 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤13 </paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> <content stylecode="italics">Haemophilus influenzae</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤2 </paragraph>
+</td>
+<td valign="top">
+<paragraph> -† </paragraph>
+</td>
+<td valign="top">
+<paragraph> -</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥17 </paragraph>
+</td>
+<td valign="top">
+<paragraph> - </paragraph>
+</td>
+<td valign="top">
+<paragraph> -</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> <content stylecode="italics">Haemophilus parainfluenzae</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤2</paragraph>
+</td>
+<td valign="top">
+<paragraph> - </paragraph>
+</td>
+<td valign="top">
+<paragraph> -</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥17 </paragraph>
+</td>
+<td valign="top">
+<paragraph> -</paragraph>
+</td>
+<td valign="top">
+<paragraph> - </paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> <content stylecode="italics">Streptococcus pneumoniae</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤2</paragraph>
+</td>
+<td valign="top">
+<paragraph> 4</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥8</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥17 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 14 to 16 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤13 </paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> <content stylecode="italics">Streptococcus pyogenes</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤2 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 4 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥8 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≥17 </paragraph>
+</td>
+<td valign="top">
+<paragraph> 14 to 16 </paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤13 </paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> <content stylecode="italics">Yersinia pestis<sup>4</sup>
+</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph> ≤0.25</paragraph>
+</td>
+<td valign="top">
+<paragraph> --</paragraph>
+</td>
+<td valign="top">
+<paragraph> --</paragraph>
+</td>
+<td valign="top">
+<paragraph> --</paragraph>
+</td>
+<td valign="top">
+<paragraph> --</paragraph>
+</td>
+<td valign="top">
+<paragraph> --</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph> <content stylecode="italics">Bacillus anthracis<sup>4</sup>
+</content>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph> ≤0.25</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph> --</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph> --</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph> --</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph> --</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph> --</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

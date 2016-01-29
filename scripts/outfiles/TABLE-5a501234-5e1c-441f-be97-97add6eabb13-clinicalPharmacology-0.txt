@@ -1,0 +1,76 @@
+<table id="t1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>
+Table 1: Staphylococcus aureus MIC Susceptibility Test Interpretive Criteria for Oxacillin
+<sup>
+a
+</sup>
+</caption>
+<col align="left" width="33.333%"></col>
+<col align="left" width="33.333%"></col>
+<col align="left" width="33.333%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">
+<sup>
+a
+</sup>
+<content stylecode="italics">
+Staphylococcus aureus
+</content>
+ strains found to be “Susceptible” or “Resistant” to oxacillin by dilution testing can be considered to be “Susceptible” or “Resistant” to nafcillin.
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" valign="top"></td>
+<td align="center" colspan="2" valign="top">
+<content stylecode="bold">
+Minimum Inhibitory Oxacillin
+</content>
+<br/>
+<content stylecode="bold">
+Concentrations (mcg/mL)
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">
+Pathogen
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">
+Susceptible (S)
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">
+Resistant (R)
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="italics">
+Staphylococcus aureus
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">
+≤
+</content>
+ 2
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">
+≥
+</content>
+ 4
+</td>
+</tr>
+</tbody>
+</table>

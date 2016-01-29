@@ -1,0 +1,62 @@
+<table id="t1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6-16 Following Multiple Dosing</caption>
+<col align="left" width="20.604%"></col>
+<col align="left" width="18.544%"></col>
+<col align="left" width="19.564%"></col>
+<col align="left" width="18.724%"></col>
+<col align="left" width="22.565%"></col>
+<tbody>
+<tr>
+<td align="center" valign="top"></td>
+<td align="center" colspan="2" valign="top">Adults given 50 mg once daily for<br/> 7 days <br/>N=12</td>
+<td align="center" colspan="2" valign="top">Age 6-16 given 0.7 mg/kg once<br/> daily for 7 days<br/> N=25</td>
+</tr>
+<tr>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" stylecode="Toprule" valign="top">Parent</td>
+<td align="left" stylecode="Toprule" valign="top">Active Metabolite</td>
+<td align="left" stylecode="Toprule" valign="top">Parent</td>
+<td align="left" stylecode="Toprule" valign="top">Active Metabolite</td>
+</tr>
+<tr>
+<td align="left" valign="top">AUC<sub>0-24</sub> (ng•h/mL)<footnote id="mean">Mean ± standard deviation</footnote>
+</td>
+<td align="left" valign="middle">442 ± 173</td>
+<td align="left" valign="middle">1685 ± 452</td>
+<td align="left" valign="middle">368 ± 169</td>
+<td align="left" valign="middle">1866 ± 1076</td>
+</tr>
+<tr>
+<td align="left" valign="top">C<sub>MAX</sub> (ng/mL)<footnoteref idref="mean"></footnoteref>
+</td>
+<td align="left" valign="middle">224 ± 82</td>
+<td align="left" valign="middle">212 ± 73</td>
+<td align="left" valign="middle">141 ± 88</td>
+<td align="left" valign="middle">222 ± 127</td>
+</tr>
+<tr>
+<td align="left" valign="top">T<sub>1/2</sub> (h)<footnote>Harmonic mean and standard deviation</footnote>
+</td>
+<td align="left" valign="middle">2.1 ± 0.70</td>
+<td align="left" valign="middle">7.4 ± 2.4</td>
+<td align="left" valign="middle">2.3 ± 0.8</td>
+<td align="left" valign="middle">5.6 ± 1.2</td>
+</tr>
+<tr>
+<td align="left" valign="top">T<sub>PEAK</sub> (h)<footnote>Median</footnote>
+</td>
+<td align="left" valign="middle">0.9</td>
+<td align="left" valign="middle">3.5</td>
+<td align="left" valign="middle">2.0</td>
+<td align="left" valign="middle">4.1</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="top">CL<sub>REN</sub> (mL/min)<footnoteref idref="mean"></footnoteref>
+</td>
+<td align="left" valign="middle">56 ± 23</td>
+<td align="left" valign="middle">20 ± 3</td>
+<td align="left" valign="middle">53 ± 33</td>
+<td align="left" valign="middle">17 ± 8</td>
+</tr>
+</tbody>
+</table>

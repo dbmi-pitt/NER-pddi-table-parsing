@@ -1,0 +1,92 @@
+<table frame="void" id="id_020c24f9-20b5-45b6-982b-5267af89bd43" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="156px"></col>
+<col width="152px"></col>
+<col width="156px"></col>
+<col width="156px"></col>
+<tbody>
+<tr id="id_df618bf9-87d8-4b18-9e97-5c66148dcd08">
+<td stylecode="Botrule Rrule">
+<content stylecode="bold">Interacting Drug</content>
+</td>
+<td stylecode="Botrule Rrule">
+<content stylecode="bold">Adult Doses Studied</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">
+<content stylecode="bold">% Increase in</content>
+<content stylecode="bold">C</content>
+<sub>max</sub>
+<content stylecode="bold">of</content>
+<content stylecode="bold">Oral Midazolam</content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">% Increase in AUC of Oral Midazolam</content>
+</td>
+</tr>
+<tr id="id_1d1a0ffb-ba06-4019-8765-a250520f10f0">
+<td stylecode="Botrule Rrule">Cimetidine</td>
+<td stylecode="Botrule Rrule">800-1200 mg up toqid in divided doses</td>
+<td align="center" stylecode="Botrule Rrule">6-138</td>
+<td align="center" stylecode="Botrule">10-102</td>
+</tr>
+<tr id="id_04ab014a-43fa-4eab-b024-068bb4743140">
+<td stylecode="Botrule Rrule">Diltiazem</td>
+<td stylecode="Botrule Rrule">60 mg tid</td>
+<td align="center" stylecode="Botrule Rrule">105</td>
+<td align="center" stylecode="Botrule">275</td>
+</tr>
+<tr id="id_8e2842dd-3a4f-4d97-87c9-e705fe49d254">
+<td stylecode="Botrule Rrule">Erythromycin</td>
+<td stylecode="Botrule Rrule">500 mg tid</td>
+<td align="center" stylecode="Botrule Rrule">170-171</td>
+<td align="center" stylecode="Botrule">281-341</td>
+</tr>
+<tr id="id_4cd1d255-4ba8-4079-8907-f4ccef559c46">
+<td stylecode="Botrule Rrule">Fluconazole</td>
+<td stylecode="Botrule Rrule">200 mg qd</td>
+<td align="center" stylecode="Botrule Rrule">150</td>
+<td align="center" stylecode="Botrule">250</td>
+</tr>
+<tr id="id_ed479eeb-51bd-4408-b7d0-01d000037b55">
+<td stylecode="Botrule Rrule">Grapefruit Juice</td>
+<td stylecode="Botrule Rrule">200 mL</td>
+<td align="center" stylecode="Botrule Rrule">56</td>
+<td align="center" stylecode="Botrule">52</td>
+</tr>
+<tr id="id_4f101a28-9503-4eb0-913f-db992267f1cd">
+<td stylecode="Botrule Rrule">Itraconazole</td>
+<td stylecode="Botrule Rrule">100-200 mg qd</td>
+<td align="center" stylecode="Botrule Rrule">80-240</td>
+<td align="center" stylecode="Botrule">240-980</td>
+</tr>
+<tr id="id_204c1c0d-9caf-4760-94c4-54e62e0bb1f2">
+<td stylecode="Botrule Rrule">Ketoconazole</td>
+<td stylecode="Botrule Rrule">400 mg qd</td>
+<td align="center" stylecode="Botrule Rrule">309</td>
+<td align="center" stylecode="Botrule">1490</td>
+</tr>
+<tr id="id_9ac5c978-eefb-4a05-a427-9c9705a31273">
+<td stylecode="Botrule Rrule">Ranitidine</td>
+<td stylecode="Botrule Rrule">150 mg bid or tid; 300 mg qd</td>
+<td align="center" stylecode="Botrule Rrule">15-67</td>
+<td align="center" stylecode="Botrule">9-66</td>
+</tr>
+<tr id="id_a98b436c-d36a-4ecf-99fb-34de037cb219">
+<td stylecode="Botrule Rrule">Roxithromycin</td>
+<td stylecode="Botrule Rrule">300 mg qd</td>
+<td align="center" stylecode="Botrule Rrule">37</td>
+<td align="center" stylecode="Botrule">47</td>
+</tr>
+<tr id="id_b0522a2b-361f-4ea1-a4b5-a8d65c2c2f5a">
+<td stylecode="Botrule Rrule">Saquinavir</td>
+<td stylecode="Botrule Rrule">1200 mg tid</td>
+<td align="center" stylecode="Botrule Rrule">235</td>
+<td align="center" stylecode="Botrule">514</td>
+</tr>
+<tr id="id_9cc0fd7e-d057-4ba1-9d82-70e7b009f156">
+<td stylecode="Rrule">Verapamil</td>
+<td stylecode="Rrule">80 mg tid</td>
+<td align="center" stylecode="Rrule">97</td>
+<td align="center">192</td>
+</tr>
+</tbody>
+</table>

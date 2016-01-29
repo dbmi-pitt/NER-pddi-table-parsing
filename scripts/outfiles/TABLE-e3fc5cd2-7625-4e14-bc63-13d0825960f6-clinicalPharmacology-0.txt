@@ -1,0 +1,45 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Mean (%CV) Metaxalone Pharmacokinetic Parameters</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">Dose (mg)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">  C<sub>max</sub>
+<br/>(ng/mL)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">  T<sub>max</sub> (h)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">  AUC<sub>∞</sub>
+<br/>(ng·h/mL)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">  t<sub>½</sub>(h)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">CL/F</content>
+<br/>(L/h)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  400<sup>1</sup>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  983 (53)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  3.3 (35)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  7479 (51)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  9.0 (53)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  68 (50)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  800<sup>2</sup>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  1816 (43)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  3.0 (39)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  15044 (46)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  8.0 (58)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  66 (51)</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<sup>1</sup>Subjects received 1x400 mg tablet under fasted conditions (N=42)<br/>
+<sup>2</sup>Subjects received 2x400 mg tablets under fasted conditions (N=59)</td>
+</tr>
+</tbody>
+</table>

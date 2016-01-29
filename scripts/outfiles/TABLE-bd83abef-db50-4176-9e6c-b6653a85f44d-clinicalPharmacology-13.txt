@@ -1,0 +1,60 @@
+<table id="Table_9" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="left">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="center">
+<content stylecode="underline">ATCC<sup>®</sup> #</content>
+</td>
+<td align="center">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center">25922</td>
+<td align="center">0.03-0.12</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center">29213</td>
+<td align="center">1- 8
+                                             </td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center">27853</td>
+<td align="center">8-64</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="center">49247</td>
+<td align="center">0.06 - 0.25</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+</td>
+<td align="center">49226</td>
+<td align="center">0.004-0.015</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center">49619</td>
+<td align="center">0.03 -0.12</td>
+</tr>
+</tbody>
+</table>

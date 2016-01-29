@@ -1,0 +1,55 @@
+<table id="table2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Cidofovir Pharmacokinetic Parameters Following 3.0 and 5.0 mg/kg Infusions, Without and With Probenecid<footnote>See <linkhtml href="#dosage_administration">DOSAGE AND ADMINISTRATION</linkhtml>
+</footnote>
+</caption>
+<col align="left" valign="middle" width="28%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<thead>
+<tr>
+<th stylecode="lrule" valign="top">PARAMETERS</th>
+<th colspan="2" stylecode="lrule">VISTIDE ADMINISTERED<br/>WITHOUT PROBENECID</th>
+<th colspan="2" stylecode="lrule rrule">VISTIDE ADMINISTERED<br/>WITH PROBENECID</th>
+</tr>
+<tr>
+<th stylecode="lrule">  </th>
+<th stylecode="lrule toprule">3 mg/kg (n = 10)</th>
+<th stylecode="lrule toprule">5 mg/kg (n = 2)</th>
+<th stylecode="lrule toprule">3 mg/kg (n = 12)</th>
+<th stylecode="lrule toprule rrule">5 mg/kg (n = 6)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="lrule botrule">AUC (µg∙hr/mL)</td>
+<td stylecode="lrule botrule">20.0 ± 2.3</td>
+<td stylecode="lrule botrule">28.3</td>
+<td stylecode="lrule botrule">25.7 ± 8.5</td>
+<td stylecode="lrule botrule rrule">40.8 ± 9.0</td>
+</tr>
+<tr>
+<td stylecode="lrule botrule">Cmax (end of infusion)<br/>(µg/mL)</td>
+<td stylecode="lrule botrule" valign="top">7.3 ± 1.4</td>
+<td stylecode="lrule botrule" valign="top">11.5</td>
+<td stylecode="lrule botrule" valign="top">9.8 ± 3.7</td>
+<td stylecode="lrule botrule rrule" valign="top">19.6 ± 7.2</td>
+</tr>
+<tr>
+<td stylecode="lrule botrule" valign="top">Vdss (mL/kg)</td>
+<td colspan="2" stylecode="lrule botrule">537 ± 126<br/>(n = 12)</td>
+<td colspan="2" stylecode="lrule botrule rrule">410 ± 102<br/>(n = 18)</td>
+</tr>
+<tr>
+<td stylecode="lrule botrule">Clearance<br/>(mL/min/1.73 m<sup>2</sup>)</td>
+<td colspan="2" stylecode="lrule botrule">179 ± 23.1<br/>(n = 12)</td>
+<td colspan="2" stylecode="lrule botrule rrule">148 ± 38.8<br/>(n = 18)</td>
+</tr>
+<tr>
+<td stylecode="lrule botrule">Renal Clearance<br/>(mL/min/1.73 m<sup>2</sup>)</td>
+<td colspan="2" stylecode="lrule botrule">150 ± 26.9<br/>(n = 12)</td>
+<td colspan="2" stylecode="lrule botrule rrule">98.6 ± 27.9<br/>(n = 11)</td>
+</tr>
+</tbody>
+</table>

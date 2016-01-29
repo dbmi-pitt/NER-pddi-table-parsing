@@ -1,0 +1,25 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>S. pneumoniae<sup>b</sup> from non-meningitis sources. (Amoxicillin powder should be used to determine susceptibility.)</caption>
+<col span="1" width="48.25%"></col>
+<col span="1" width="51.75%"></col>
+<tbody>
+<tr>
+<td> <content stylecode="underline">MIC (mca /mL)</content>
+</td>
+<td> <content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td> ≤ 2</td>
+<td> Susceptible (S)</td>
+</tr>
+<tr>
+<td> 4</td>
+<td> Intermediate (I)</td>
+</tr>
+<tr>
+<td> ≥ 8</td>
+<td> Resistant (R)</td>
+</tr>
+</tbody>
+</table>

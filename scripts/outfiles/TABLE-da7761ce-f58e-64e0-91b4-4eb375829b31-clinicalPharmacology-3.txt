@@ -1,0 +1,32 @@
+<table border="1" id="inv-156861ba-cd1d-482c-b6c6-678ba109521b" width="443" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="36.6%"></col>
+<col width="32.7%"></col>
+<col width="30.7%"></col>
+<tbody>
+<tr id="id_82db39b4-06c5-40b7-a750-83cc743dcd17">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top"> Pharmacokinetic Parameter [mean (SD)]   </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 3 Day Regimen (20 mg/kg x 3 days)   </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 5 Day Regimen (12 mg/kg x 5 days)   </td>
+</tr>
+<tr id="id_958bd891-7d93-4b7c-91be-0bf47a1b3bc6">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> n   </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 11   </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 17   </td>
+</tr>
+<tr id="id_8ea6a9db-a4d1-44cd-8249-c30fc8353504">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> C<sub>max</sub> (mcg/mL)   </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 1.1 (0.4)   </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 0.5 (0.4)   </td>
+</tr>
+<tr id="id_24e78592-e435-4e75-b623-00aab017fab7">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> T<sub>max</sub> (hr)   </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 2.7 (1.9)   </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 2.2 (0.8)   </td>
+</tr>
+<tr id="id_21271990-0f7d-4986-8228-49d987343e00">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> AUC<sub>0-24</sub>(mcg•hr/mL)   </td>
+<td align="center" stylecode="Rrule" valign="top"> 7.9 (2.9)   </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 3.9 (1.9)   </td>
+</tr>
+</tbody>
+</table>

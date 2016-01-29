@@ -1,0 +1,62 @@
+<table border="single" id="id_b2b7d0c7-e4ed-4b60-a5c9-1b404da7984f" width="430.000" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="21.4%"></col>
+<col width="15.3%"></col>
+<col width="20.7%"></col>
+<col width="21.9%"></col>
+<col width="20.7%"></col>
+<tbody>
+<tr id="id_88b48e44-3dfa-465d-acff-ae06cfb3dccb">
+<td align="justify" stylecode="Botrule Toprule Rrule Lrule" valign="middle"></td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">SINGLE-DOSE STUDIES</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">MULTIPLE-DOSE STUDIES</td>
+</tr>
+<tr id="id_832b063e-6e05-434a-a201-a3f4d996d1b8">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">PARAMETER </td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>ISMN</paragraph>60 mg</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>ISMN</paragraph>
+<paragraph>Extended-Release Tablets</paragraph>60 mg</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>ISMN</paragraph>
+<paragraph>Extended-Release Tablets</paragraph>60 mg</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>ISMN</paragraph>Extended-Release Tablets 120 mg</td>
+</tr>
+<tr id="id_a184df6f-89ce-4d2c-8109-e48e143b68fe">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">C<sub>max</sub>(ng/mL) </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1242-1534</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">424-541</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">557-572</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1151-1180</td>
+</tr>
+<tr id="id_215d13bf-6b39-43cb-8dad-25e09f8ba4c1">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="middle">T<sub>max</sub>(hr) </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.6-0.7</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.1-4.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.9-4.2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.1-3.2</td>
+</tr>
+<tr id="id_8b3be383-e6a1-47ba-b801-6d85dea456f2">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="middle">AUC (ng•hr/mL) </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8189-8313</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">5990-7452</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6625-7555</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14241-16800</td>
+</tr>
+<tr id="id_066f531c-5a50-44eb-864b-d5f138d5f3a5">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="bottom">T<sub>½</sub> (hr) </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4.8-5.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6.3-6.6</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6.2-6.3</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6.2-6.4</td>
+</tr>
+<tr id="id_d638bf1b-667d-43e7-a1b4-29e9a1920c73">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="middle">Cl/F (mL/min) </td>
+<td align="center" stylecode="Rrule" valign="middle">120-122</td>
+<td align="center" stylecode="Rrule" valign="middle">151-187</td>
+<td align="center" stylecode="Rrule" valign="middle">132-151</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">119-140</td>
+</tr>
+</tbody>
+</table>

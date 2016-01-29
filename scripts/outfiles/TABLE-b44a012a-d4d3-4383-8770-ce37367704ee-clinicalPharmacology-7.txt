@@ -1,0 +1,39 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="16%"></col>
+<col width="26%"></col>
+<col width="24%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="18" stylecode="Botrule" valign="top">d. This quality control range is applicable to only <content stylecode="italics">H. influenzae</content> ATCC 49247 tested by a broth microdilution procedure using HTM. <sup>1</sup>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="18" stylecode="Botrule" valign="top"> e. This quality control range is applicable to only <content stylecode="italics">S. pneumoniae</content> ATCC 49619 tested by the broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" colspan="2" stylecode="Toprule ">
+<paragraph>                     <content stylecode="underline">Microorganism</content>
+</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph> <content stylecode="underline">MIC Range (mcg /mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph> <content stylecode="italics">S. pneumoniae</content>
+</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph> ATCC 49619<sup>e                           </sup>
+</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph> 0.03 to 0.12</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

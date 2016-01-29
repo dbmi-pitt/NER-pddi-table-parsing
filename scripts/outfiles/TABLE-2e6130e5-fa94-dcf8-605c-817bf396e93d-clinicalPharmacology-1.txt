@@ -1,0 +1,61 @@
+<table border="0" cellpadding="0" cellspacing="1" frame="above" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody align="center">
+<tr>
+<td valign="top">PatientPopulation (Study number)</td>
+<td valign="top">    </td>
+<td colspan="2" valign="top">Year 1</td>
+<td colspan="2" valign="top">Year 3</td>
+</tr>
+<tr>
+<td valign="top"> </td>
+<td valign="top">Treatment  </td>
+<td valign="top">Mean <br/>(ng/mL)</td>
+<td valign="top">10<sup>th</sup> to 90<sup>th</sup>percentiles<br/>(ng/mL)</td>
+<td valign="top">Mean<br/>(ng/mL)</td>
+<td valign="top">10<sup>th</sup> to 90<sup>th</sup>percentiles<br/>(ng/mL)</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">Low-to-moderate risk<br/>(Studies 1 &amp; 2) </td>
+<td valign="top">Sirolimus <br/>(2 mg/day) +<br/>CsA</td>
+<td valign="top">7.2</td>
+<td valign="top">3.6 to 11</td>
+<td valign="top">-</td>
+<td valign="top">-</td>
+</tr>
+<tr>
+<td valign="top">Sirolimus <br/>(5 mg/day) +<br/>CsA</td>
+<td valign="top">14</td>
+<td valign="top">8 to 22</td>
+<td valign="top">-</td>
+<td valign="top">-</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">Low-to-moderate risk<br/>(Study 3)</td>
+<td valign="top">Sirolimus +<br/>CsA</td>
+<td valign="top">8.6</td>
+<td valign="top">5 to 13<sup>a</sup>
+</td>
+<td valign="top">9.1</td>
+<td valign="top">5.4 to 14</td>
+</tr>
+<tr>
+<td valign="top">Sirolimus alone</td>
+<td valign="top">19</td>
+<td valign="top">14 to 22<sup>a</sup>
+</td>
+<td valign="top">16</td>
+<td valign="top">11 to 22</td>
+</tr>
+<tr>
+<td align="left" valign="top">High risk<br/>(Study 4)</td>
+<td valign="top">Sirolimus +<br/>CsA</td>
+<td>15.7<br/>11.8<br/>11.5</td>
+<td>5.4 to 27.3<sup>b</sup>
+<br/>6.2 to 16.9<sup>c</sup>
+<br/>6.3 to 17.3<sup>d</sup>
+</td>
+<td valign="top">-</td>
+<td valign="top">-</td>
+</tr>
+</tbody>
+</table>

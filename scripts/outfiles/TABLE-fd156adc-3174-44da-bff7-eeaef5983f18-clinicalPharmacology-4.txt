@@ -1,0 +1,73 @@
+<table id="id_bc8ab1e8-15fb-4ac6-b3fd-7d4097920cab" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_d522932b-a1d7-458d-9c37-1df32dfee4e4">Table 5 Glycemic Parameters in a 16-Week Placebo-Controlled Study</caption>
+<col align="left" width="40%"></col>
+<col align="center" width="30%"></col>
+<col align="center" width="30%"></col>
+<tbody>
+<tr id="id_108fecf2-8e6c-4004-804d-36dde96be749">
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="bold">Placebo</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">ACTOS 30 mg</content>
+<br/>
+<content stylecode="bold">Once Daily</content>
+</td>
+</tr>
+<tr id="id_b8204dd9-ec91-407f-a93b-1b8eec19814f">
+<td align="left" valign="top">
+<content stylecode="bold">Total Population</content>
+<br/>
+<content stylecode="bold">HbA</content>
+<content stylecode="bold">
+<sub>1c</sub>
+</content>
+<content stylecode="bold"> (%)</content>
+</td>
+<td align="center" valign="top">N=93</td>
+<td align="center" valign="top">N=100</td>
+</tr>
+<tr id="id_54980e4b-4a83-4992-a6bd-a9f85f8c34fb">
+<td align="left" valign="top">Baseline (mean)</td>
+<td align="center" valign="top">10.3</td>
+<td align="center" valign="top">10.5</td>
+</tr>
+<tr id="id_a659598d-bf69-4f15-8ea6-f7e645d6255d">
+<td align="left" valign="top">Change from baseline (adjusted mean<sup>+</sup>)</td>
+<td align="center" valign="top">0.8</td>
+<td align="center" valign="top">-0.6</td>
+</tr>
+<tr id="id_00659cd2-d4ab-45cc-9b67-8bd36e966bb2">
+<td align="left" valign="top">Difference from placebo (adjusted mean<sup>+</sup>)</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">-1.4*</td>
+</tr>
+<tr id="id_7aaa04cf-9f90-4537-a800-76f2b9f0420d">
+<td align="left" valign="top">
+<content stylecode="bold">FPG (mg/dL)</content>
+</td>
+<td align="center" valign="top">N=91</td>
+<td align="center" valign="top">N=99</td>
+</tr>
+<tr id="id_67550c6d-5ae3-4072-a737-7f081235f8bc">
+<td align="left" valign="top">Baseline (mean)</td>
+<td align="center" valign="top">270</td>
+<td align="center" valign="top">273</td>
+</tr>
+<tr id="id_3f75622f-f44f-48ac-b2f3-ea518d1f6c6d">
+<td align="left" valign="top">Change from baseline (adjusted mean<sup>+</sup>)</td>
+<td align="center" valign="top">8</td>
+<td align="center" valign="top">-50</td>
+</tr>
+<tr id="id_0cbd4881-795e-43c9-b759-d234205c26ee">
+<td align="left" valign="top">Difference from placebo (adjusted mean<sup>+</sup>)</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">-58*</td>
+</tr>
+<tr id="id_1647f9a5-d20a-4bd8-8097-e8fad03ef0f6">
+<td align="left" colspan="3" stylecode="Lrule Botrule" valign="top">
+<sup>+</sup> Adjusted for baseline, pooled center, and pooled center by treatment interaction <br/>* p ≤ 0.050 vs. placebo</td>
+</tr>
+</tbody>
+</table>

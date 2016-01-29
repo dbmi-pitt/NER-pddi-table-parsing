@@ -1,0 +1,108 @@
+<table border="double" id="id_d5cbdc61-fd6e-4397-8c19-d7144645b6f2" width="412.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_c8ff7259-9532-46dc-adfd-175e461268e9">TABLE I: TABLE OF PHARMACOKINETIC PARAMETERS OF GIANVI (Drospirenone 3 mg and Ethinyl Estradiol 0.02 mg) </caption>
+<col width="15.8%"></col>
+<col width="16.0%"></col>
+<col width="17.7%"></col>
+<col width="16.0%"></col>
+<col width="20.6%"></col>
+<col width="13.8%"></col>
+<tbody>
+<tr id="id_a517a13b-54e1-4964-be7a-5b359ebf80ff">
+<td align="center" colspan="6" stylecode="Botrule" valign="top">
+<content stylecode="bold">Drospirenone</content>
+</td>
+</tr>
+<tr id="id_92dd19c6-25cb-4819-bd4e-07f44a19970d">
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Cycle / Day</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">No. of Subjects</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Cmax<footnote id="id-71873368-339f-4397-a3db-b755eec1a108">geometric mean (geometric coefficient of variation)</footnote>
+<br/>(ng/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Tmax<footnote id="id-a6a3343b-3f28-4ae2-bfd3-e66648e5212d">median (range)</footnote>
+<br/>(h)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">AUC(0-24h)<footnoteref idref="id-71873368-339f-4397-a3db-b755eec1a108"></footnoteref>
+<br/>(ng•<content stylecode="bold">h/mL)</content>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">t<sub>1/2</sub>
+<footnoteref idref="id-71873368-339f-4397-a3db-b755eec1a108"></footnoteref>
+<br/>(h)</content>
+</td>
+</tr>
+<tr id="id_00ed6f3e-e84b-4e0a-a54e-1fe67f3c0333">
+<td align="left" stylecode="Botrule Rrule" valign="top">1/1</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">23</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">38.4 (25)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">1.5 (1-2)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">268 (19)</td>
+<td align="left" stylecode="Botrule" valign="top">NA<footnote id="id-ec6f54d5-0452-427a-beea-e84d9f6db636">NA = Not available</footnote>
+</td>
+</tr>
+<tr id="id_29ae0754-71d6-4b0e-8371-73a91d572d15">
+<td align="left" stylecode="Botrule Rrule" valign="top">1/21</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">23</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">70.3 (15)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">1.5 (1-2)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">763 (17)</td>
+<td align="left" stylecode="Botrule" valign="top">30.8 (22)</td>
+</tr>
+<tr id="id_130410f6-b06c-4908-b68d-8bb213e91a2c">
+<td align="center" colspan="6" stylecode="Botrule" valign="top">
+<content stylecode="bold">Ethinyl Estradiol</content>
+</td>
+</tr>
+<tr id="id_88f82277-fe01-4dba-a789-fa8c859d6530">
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Cycle / Day</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">No. of Subjects</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Cmax<footnoteref idref="id-71873368-339f-4397-a3db-b755eec1a108"></footnoteref>
+<br/>(pg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Tmax<footnoteref idref="id-a6a3343b-3f28-4ae2-bfd3-e66648e5212d"></footnoteref>
+<br/>(h)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">AUC(0-24h)<footnoteref idref="id-71873368-339f-4397-a3db-b755eec1a108"></footnoteref>
+<br/>(pg•<content stylecode="bold">h/mL)</content>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">t<sub>1/2</sub>
+<footnoteref idref="id-71873368-339f-4397-a3db-b755eec1a108"></footnoteref>
+<br/>(h)</content>
+</td>
+</tr>
+<tr id="id_9d26a23f-d5e8-494f-9fb1-303b072b0f9a">
+<td align="left" stylecode="Botrule Rrule" valign="top">1/1</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">23</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">32.8 (45)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">1.5 (1-2)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">108 (52)</td>
+<td align="left" stylecode="Botrule" valign="top">NA<footnoteref idref="id-ec6f54d5-0452-427a-beea-e84d9f6db636"></footnoteref>
+</td>
+</tr>
+<tr id="id_43641980-0913-436f-9ad7-fcdfbeaa8d60">
+<td align="left" stylecode="Botrule Rrule" valign="top">1/21</td>
+<td align="left" stylecode="Rrule" valign="top">23</td>
+<td align="left" stylecode="Rrule" valign="top">45.1 (35)</td>
+<td align="left" stylecode="Rrule" valign="top">1.5 (1-2)</td>
+<td align="left" stylecode="Rrule" valign="top">220 (57)</td>
+<td align="left" stylecode="Botrule" valign="top">NA<footnoteref idref="id-ec6f54d5-0452-427a-beea-e84d9f6db636"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

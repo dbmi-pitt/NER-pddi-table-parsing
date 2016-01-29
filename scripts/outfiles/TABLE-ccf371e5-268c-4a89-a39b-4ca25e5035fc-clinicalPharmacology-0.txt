@@ -1,0 +1,103 @@
+<table id="ID390" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="32%"></col>
+<col width="16%"></col>
+<col width="18%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="5">
+<paragraph stylecode="Footnote">*Total AUC for the entire 3-day and 5-day regimens. <br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<br/>
+</td>
+<td align="center" colspan="2" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">3</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">Day </content>
+<content stylecode="bold">Regimen</content>
+<br/>
+</td>
+<td align="center" colspan="2" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">5</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">Day </content>
+<content stylecode="bold">Regimen</content>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Pharmacokinetic </content>
+<content stylecode="bold">Parameter </content>
+<content stylecode="bold">[</content>
+<content stylecode="bold">mean </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">SD</content>
+<content stylecode="bold">)]</content>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Day </content>
+<content stylecode="bold">1</content>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Day </content>
+<content stylecode="bold">3</content>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Day </content>
+<content stylecode="bold">1</content>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Day </content>
+<content stylecode="bold">5</content>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">C<sub>m</sub>
+<sub>a</sub>
+<sub>x</sub> (serum, mcg/mL)<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">0.44 (0.22)<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">0.54 (0.25)<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">0.43 (0.20)<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">0.24 (0.06)<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Serum AUC<sub>0</sub>
+<sub>-</sub>
+<sub>∞</sub> (mcg•hr/mL)<br/>
+</td>
+<td align="center" colspan="2" stylecode=" Lrule Rrule Botrule Toprule" valign="top">17.4 (6.2)*<br/>
+</td>
+<td align="center" colspan="2" stylecode=" Lrule Rrule Botrule Toprule" valign="top">14.9 (3.1)*<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Serum T<sub>1</sub>
+<sub>/</sub>
+<sub>2</sub>
+<br/>
+</td>
+<td align="center" colspan="2" stylecode=" Lrule Rrule Botrule Toprule" valign="top">71.8 hr<br/>
+</td>
+<td align="center" colspan="2" stylecode=" Lrule Rrule Botrule Toprule" valign="top">68.9 hr<br/>
+</td>
+</tr>
+</tbody>
+</table>

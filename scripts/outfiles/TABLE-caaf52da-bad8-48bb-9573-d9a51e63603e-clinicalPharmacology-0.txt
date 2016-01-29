@@ -1,0 +1,29 @@
+<table id="id_d7e6a966-2322-4a82-b9d6-c338114312da" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_de27c4f7-f250-4f13-8667-e392801df09e">Adult Pharmacokinetic Data</caption>
+<col width="312.00px"></col>
+<col width="312.00px"></col>
+<thead>
+<tr id="id_e2c2efcd-cc4f-40f6-916e-057c5bc9a4ac" stylecode="Botrule">
+<td align="left" valign="bottom"> Parameter</td>
+<td align="center" valign="bottom"> Value</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_50469fb2-3367-4cbd-a155-852abcf854c2" stylecode="Toprule">
+<td align="left" valign="top"> Vd (L/kg)</td>
+<td align="center" valign="top"> ~3.5</td>
+</tr>
+<tr id="id_d9ad2610-3bbd-48ca-a0af-a511e25db804">
+<td align="left" valign="top"> Plasma Protein Binding</td>
+<td align="center" valign="top"> ~30%</td>
+</tr>
+<tr id="id_9586ff35-3e80-4317-b242-35a0de018a62">
+<td align="left" valign="top"> t<sub>1/2</sub> (hr)</td>
+<td align="center" valign="top"> 5 to 6</td>
+</tr>
+<tr id="id_4d21b617-9de1-4df4-a228-8ec398ddcc3e" stylecode="Botrule">
+<td align="left" valign="top"> Oral Bioavailability</td>
+<td align="center" valign="top"> 80% ± 15.5%</td>
+</tr>
+</tbody>
+</table>

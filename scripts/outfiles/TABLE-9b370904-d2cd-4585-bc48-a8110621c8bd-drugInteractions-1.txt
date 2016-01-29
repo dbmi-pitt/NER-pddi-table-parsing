@@ -1,0 +1,150 @@
+<table id="table11" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 11 Established and Other Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies (see <linkhtml href="#table6">CLINICAL PHARMACOLOGY, for Magnitude of Interaction, Tables 6</linkhtml> and <linkhtml href="#table7">7</linkhtml>)</caption>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="50%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule Botrule">Concomitant Drug Class: Drug Name</th>
+<th stylecode="Rrule Botrule">Effect on Concentration</th>
+<th stylecode="Rrule Botrule">Clinical Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" colspan="3" stylecode="Lrule Rrule Botrule">HIV-Antiviral Agents</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Protease Inhibitors:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="4" stylecode="Rrule Botrule">Appropriate doses for these combinations, with respect to safety and efficacy, have not been established.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">indinavir</td>
+<td stylecode="Rrule">↑ nelfinavir<br/>↑ indinavir</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">ritonavir</td>
+<td stylecode="Rrule">↑ nelfinavir</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">saquinavir</td>
+<td stylecode="Rrule Botrule">↑ saquinavir</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Non-nucleoside Reverse Transcriptase Inhibitors:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="3" stylecode="Rrule Botrule">Appropriate doses for these combinations, with respect to safety and efficacy, have not been established.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">delavirdine</td>
+<td stylecode="Rrule">↑ nelfinavir<br/>↓ delavirdine</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">nevirapine</td>
+<td stylecode="Rrule Botrule">↓ nelfinavir (C<sub>min</sub>)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Nucleoside Reverse Transcriptase Inhibitor:<br/>didanosine</td>
+<td stylecode="Rrule Botrule"></td>
+<td stylecode="Rrule Botrule">It is recommended that didanosine be administered on an empty stomach; therefore, didanosine should be given one hour before or two hours after VIRACEPT (given with food).<br/>
+</td>
+<td stylecode="Botrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" colspan="3" stylecode="Lrule Rrule">Other Agents</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Anti-Convulsants:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule Botrule">May decrease nelfinavir plasma concentrations. VIRACEPT may not be effective due to decreased nelfinavir plasma concentrations in patients taking these agents concomitantly.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">carbamazepine<br/>phenobarbital</td>
+<td stylecode="Rrule Botrule">↓ nelfinavir</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Anti-Convulsant:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule Botrule">Phenytoin plasma/serum concentrations should be monitored; phenytoin dose may require adjustment to compensate for altered phenytoin concentration.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">phenytoin</td>
+<td stylecode="Rrule Botrule">↓ phenytoin</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Anti-Mycobacterial:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule Botrule" valign="top">It is recommended that the dose of rifabutin be reduced to one-half the usual dose when administered with VIRACEPT; 1250 mg BID is the preferred dose of VIRACEPT when coadministered with rifabutin.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">rifabutin</td>
+<td stylecode="Rrule">↑ rifabutin<br/>↓ nelfinavir <br/>  (750 mg TID)<br/>↔ nelfinavir<br/>  (1250 mg BID)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">PDE5 Inhibitors:<br/>sildenafil<br/>vardenafil<br/>tadalafil</td>
+<td stylecode="Rrule" valign="middle">↑ PDE5 Inhibitors</td>
+<td rowspan="2" stylecode="Rrule Botrule">Concomitant use of PDE5 inhibitors and VIRACEPT should be undertaken with caution. If concomitant use of PDE5 inhibitors and VIRACEPT is required, sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg in 72 hours, or tadalafil at a single dose not exceeding 10 mg dose in 72 hours, is recommended.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule"></td>
+<td stylecode="Rrule Botrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">HMG-CoA Reductase Inhibitor:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="3" stylecode="Rrule Botrule">Use lowest possible dose of atorvastatin or rosuvastatin with careful monitoring, or consider other HMG-CoA reductase inhibitors such as pravastatin or fluvastatin in combination with VIRACEPT.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">atorvastatin</td>
+<td stylecode="Rrule" valign="top">↑ atorvastatin</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule" valign="top">rosuvastatin </td>
+<td stylecode="Rrule Botrule" valign="top">↑ rosuvastatin</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Immuno-suppressants:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule Botrule">Plasma concentrations may be increased by VIRACEPT.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">cyclosporine <br/>tacrolimus <br/>sirolimus</td>
+<td stylecode="Rrule Botrule">↑ immuno-suppressants</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Narcotic Analgesic:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule  Botrule">Dosage of methadone may need to be increased when coadministered with VIRACEPT.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">methadone</td>
+<td stylecode="Rrule Botrule">↓ methadone</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Oral Contraceptive:</td>
+<td stylecode="Rrule"></td>
+<td rowspan="2" stylecode="Rrule Botrule">Alternative or additional contraceptive measures should be used when oral contraceptives and VIRACEPT are coadministered.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">ethinyl estradiol</td>
+<td stylecode="Rrule Botrule">↓ ethinyl estradiol</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule Rrule">Macrolide Antibiotic:<br/>azithromycin</td>
+<td stylecode="Botrule Rrule">
+<br/>↑ azithromycin</td>
+<td stylecode="Rrule Botrule">Dose adjustment of azithromycin is not recommended, but close monitoring for known side effects such as liver enzyme abnormalities and hearing impairment is warranted.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Inhaled/nasal steroid: Fluticasone</td>
+<td stylecode="Rrule Botrule">↑ fluticasone</td>
+<td stylecode="Rrule Botrule">Concomitant use of fluticasone propionate and VIRACEPT may increase plasma concentrations of fluticasone propionate. Use with caution. Consider alternatives to fluticasone propionate, particularly for long-term use.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Antidepressant: trazodone</td>
+<td stylecode="Rrule Botrule">↑ trazodone</td>
+<td stylecode="Rrule Botrule">Concomitant use of trazodone and VIRACEPT may increase plasma concentrations of trazodone. Adverse events of nausea, dizziness, hypotension and syncope have been observed following coadministration of trazodone and ritonavir. If trazodone is used with a CYP3A4 inhibitor such as VIRACEPT, the combination should be used with caution and a lower dose of trazodone should be considered.</td>
+</tr>
+</tbody>
+</table>

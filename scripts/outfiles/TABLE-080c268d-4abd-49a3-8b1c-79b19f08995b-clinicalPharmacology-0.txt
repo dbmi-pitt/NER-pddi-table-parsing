@@ -1,0 +1,37 @@
+<table width="70%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="25%"></col>
+<col align="center" width="25%"></col>
+<col align="center" width="25%"></col>
+<col align="center" width="25%"></col>
+<thead>
+<tr>
+<th valign="bottom">Mean ± SD</th>
+<th valign="bottom">C<sub>max</sub>(pg/ml)</th>
+<th>AUC(0–4)<br/>(pg∙hr/ml)</th>
+<th valign="bottom">T<sub>max</sub>(min)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fasting</td>
+<td>811 ± 317</td>
+<td>417 ± 135</td>
+<td>14 ± 8</td>
+</tr>
+<tr>
+<td>With Antacid</td>
+<td>689 ± 315</td>
+<td>349 ± 108<footnote id="footnote1">Comparisons with fasting results statistically significant, p&lt;0.05.</footnote>
+</td>
+<td>20 ± 14</td>
+</tr>
+<tr>
+<td>With High Fat Breakfast</td>
+<td valign="top">303 ± 176<footnoteref idref="footnote1"></footnoteref>
+</td>
+<td valign="top">373 ± 111</td>
+<td valign="top">64 ± 79<footnoteref idref="footnote1"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

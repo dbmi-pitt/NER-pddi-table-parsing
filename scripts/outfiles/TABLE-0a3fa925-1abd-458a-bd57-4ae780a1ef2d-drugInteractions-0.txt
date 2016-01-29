@@ -1,0 +1,83 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6: Summary of drug-drug interactions of BANZEL with other antiepileptic drugs</caption>
+<col width="137"></col>
+<col width="193"></col>
+<col width="285"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">AED</content>
+<br/>
+<content stylecode="bold">Co-administered</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Influence of Rufinamide on AED concentration</content>
+<content stylecode="bold">
+<sup>a)</sup>
+</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Influence of AED on Rufinamide concentration</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Carbamazepine</td>
+<td stylecode="Toprule Lrule Rrule ">Decrease by 7 to 13%<sup>b)</sup>
+</td>
+<td stylecode="Toprule Lrule Rrule ">Decrease by 19 to 26%<br/>Dependent on dose of carbamazepine</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Lamotrigine</td>
+<td stylecode="Toprule Lrule Rrule ">Decrease by 7 to 13%<sup>b)</sup>
+</td>
+<td stylecode="Toprule Lrule Rrule ">No Effect</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Phenobarbital</td>
+<td stylecode="Toprule Lrule Rrule ">Increase by 8 to 13%<sup>b)</sup>
+</td>
+<td stylecode="Toprule Lrule Rrule ">Decrease by 25 to 46%<sup>c)</sup>
+<sub>’</sub>
+<sup> d)</sup>
+<br/>Independent of dose or concentration of phenobarbital</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Phenytoin</td>
+<td stylecode="Toprule Lrule Rrule ">Increase by 7 to 21%<sup>b)</sup>
+</td>
+<td stylecode="Toprule Lrule Rrule ">Decrease by 25 to 46%<sup>c)</sup>
+<sub>’</sub>
+<sup> d)</sup>
+<br/>Independent of dose or concentration of phenytoin</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Topiramate</td>
+<td stylecode="Toprule Lrule Rrule ">No Effect</td>
+<td stylecode="Toprule Lrule Rrule ">No Effect</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Valproate</td>
+<td stylecode="Toprule Lrule Rrule ">No Effect</td>
+<td stylecode="Toprule Lrule Rrule ">Increase by &lt;16 to 70%<sup>c)</sup>
+<br/>Dependent on concentration of valproate</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Primidone</td>
+<td stylecode="Toprule Lrule Rrule ">Not Investigated</td>
+<td stylecode="Toprule Lrule Rrule ">Decrease by 25 to 46%<sup>c)</sup>
+<sub>’</sub>
+<sup> d)</sup>
+<br/>Independent of dose or concentration of primidone</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Benzodiazepines <sup>e)</sup>
+</td>
+<td stylecode="Toprule Lrule Rrule ">Not Investigated</td>
+<td stylecode="Toprule Lrule Rrule ">No Effect</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule ">a) Predictions are based on BANZEL concentrations at the maximum recommended dose of BANZEL.<br/>b) Maximum changes predicted to be in pediatric patients and in adult patients who achieve significantly higher levels of BANZEL, as the effect of rufinamide on these AEDs is concentration-dependent.<br/>c) Larger effects in pediatric patients at high doses/concentrations of AEDs.<br/>d) Phenobarbital, primidone and phenytoin were treated as a single covariate (phenobarbital-type inducers) to examine the effect of these agents on BANZEL clearance.<br/>e) All compounds of the benzodiazepine class were pooled to examine for ‘class effect’ on BANZEL clearance.<br/>
+</td>
+</tr>
+</tbody>
+</table>

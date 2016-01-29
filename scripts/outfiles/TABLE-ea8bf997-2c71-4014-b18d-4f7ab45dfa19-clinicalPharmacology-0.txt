@@ -1,0 +1,138 @@
+<table id="inv-cc78a0bb-dc8f-415f-b420-ac471a26aa6e" width="649.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-bf54dc3d-083b-4cd9-b44d-8d0acf917860">Table 1:</caption>
+<col align="left" width="20.8%"></col>
+<col align="center" width="7.1%"></col>
+<col align="center" width="16.0%"></col>
+<col align="center" width="16.8%"></col>
+<col align="center" width="20.0%"></col>
+<col align="center" width="19.3%"></col>
+<tfoot id="id_6357a55e-96b1-485b-a1c2-c2a7238481e5">
+<tr>
+<td align="left" colspan="6" valign="top">n = number of patients studied.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_b8e94db4-a112-4be3-b799-88311c4636d8" stylecode="Toprule">
+<td align="center" colspan="6" valign="top">
+<paragraph>
+<content stylecode="bold">Fluoride Ion Estimates in Special Populations<br/>Following Administration of Sevoflurane, USP</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_d0b89a5f-1f9f-4224-9813-01478a8fa150">
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">n</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Age (yr)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Duration (hr)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Dose (MAC•hr)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub> (µM)</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_ddb02b61-da4a-4abd-bda1-87bb8cd683b0">
+<td align="left" colspan="6" valign="top">
+<content stylecode="bold">PEDIATRIC PATIENTS</content>
+</td>
+</tr>
+<tr id="id_5ebf26d5-72ee-40a9-971e-c25f61e3099c">
+<td align="left" valign="top">  Anesthetic </td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_0aa4efb6-8f7a-4f46-ac08-4172dd7d8536">
+<td align="left" valign="top">  Sevoflurane-O<sub>2</sub>
+</td>
+<td align="center" valign="top">76</td>
+<td align="center" valign="top">0 - 11</td>
+<td align="center" valign="top">0.8</td>
+<td align="center" valign="top">1.1</td>
+<td align="center" valign="top">12.6</td>
+</tr>
+<tr id="id_22bc9da4-933b-474e-a7f6-8bb1fed0cb3e">
+<td align="left" valign="top">  Sevoflurane-O<sub>2</sub>
+</td>
+<td align="center" valign="top">40</td>
+<td align="center" valign="top">1 - 11</td>
+<td align="center" valign="top">2.2</td>
+<td align="center" valign="top">3.0</td>
+<td align="center" valign="top">16.0</td>
+</tr>
+<tr id="id_dcc571d1-bf8f-49d7-be5d-9148eaa0d29d">
+<td align="left" valign="top">  Sevoflurane/N<sub>2</sub>O</td>
+<td align="center" valign="top">25</td>
+<td align="center" valign="top">5 - 13</td>
+<td align="center" valign="top">1.9</td>
+<td align="center" valign="top">2.4</td>
+<td align="center" valign="top">21.3</td>
+</tr>
+<tr id="id_f3fd36e6-9e75-4eb2-83ce-4259c6341842">
+<td align="left" valign="top">  Sevoflurane/N<sub>2</sub>O</td>
+<td align="center" valign="top">42</td>
+<td align="center" valign="top">0 - 18</td>
+<td align="center" valign="top">2.4</td>
+<td align="center" valign="top">2.2</td>
+<td align="center" valign="top">18.4</td>
+</tr>
+<tr id="id_8dc5c66b-fc9f-49f7-9043-c55c0f3231f3">
+<td align="left" valign="top">  Sevoflurane/N<sub>2</sub>O</td>
+<td align="center" valign="top">40</td>
+<td align="center" valign="top">1 - 11</td>
+<td align="center" valign="top">2.0</td>
+<td align="center" valign="top">2.6</td>
+<td align="center" valign="top">15.5</td>
+</tr>
+<tr id="id_8ecb2699-1c92-4e88-bf47-462109901172">
+<td align="left" valign="top">
+<content stylecode="bold">ELDERLY</content>
+</td>
+<td align="center" valign="top">33</td>
+<td align="center" valign="top">65 - 93</td>
+<td align="center" valign="top">2.6</td>
+<td align="center" valign="top">1.4</td>
+<td align="center" valign="top">25.6</td>
+</tr>
+<tr id="id_a181f2df-20d3-4885-b976-94cca3b8a638">
+<td align="left" valign="top">
+<content stylecode="bold">RENAL</content>
+</td>
+<td align="center" valign="top">21</td>
+<td align="center" valign="top">29 - 83</td>
+<td align="center" valign="top">2.5</td>
+<td align="center" valign="top">1.0</td>
+<td align="center" valign="top">26.1</td>
+</tr>
+<tr id="id_6b803d09-34b4-42d2-a5fb-fe0cd3abf1c6">
+<td align="left" valign="top">
+<content stylecode="bold">HEPATIC</content>
+</td>
+<td align="center" valign="top">8</td>
+<td align="center" valign="top">42 - 79</td>
+<td align="center" valign="top">3.6</td>
+<td align="center" valign="top">2.2</td>
+<td align="center" valign="top">30.6</td>
+</tr>
+<tr id="id_4da3cc5b-6f12-4335-aa43-29f61dcc8193">
+<td align="left" valign="top">
+<content stylecode="bold">OBESE</content>
+</td>
+<td align="center" valign="top">35</td>
+<td align="center" valign="top">24 - 73</td>
+<td align="center" valign="top">3.0</td>
+<td align="center" valign="top">1.7</td>
+<td align="center" valign="top">38.0</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,48 @@
+<table id="table2" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2 Summary of Nutropin AQ Pharmacokinetic Parameters in Healthy Adult Males 0.1 mg (approximately 0.3 IU<footnote>Based on current International Standard of 3 IU = 1 mg.</footnote>)/kg SC</caption>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule"></th>
+<th>C<sub>max</sub>
+<br/>(µg/L)</th>
+<th>T<sub>max</sub>
+<br/>(hr)</th>
+<th>t<sub>½</sub>
+<br/>(hr)</th>
+<th>AUC<sub>0-∞</sub>
+<br/>(μg ∙ hr/L)</th>
+<th stylecode="Rrule">CL/F<sub>sc</sub>
+<br/>(mL/[hr ∙ kg])</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6">Abbreviations: AUC<sub>0-∞</sub> = area under the curve, C<sub>max</sub> = maximum concentration, CL/F<sub>sc</sub> = systemic clearance, CV% = coefficient of variation in %; SC = subcutaneous, F<sub>sc</sub> = subcutaneous bioavailability (not determined), t<sub>½</sub> = half-life.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule">MEAN<footnote>n = 36.</footnote>
+</td>
+<td>71.1</td>
+<td>3.9</td>
+<td>2.3</td>
+<td>677</td>
+<td stylecode="Rrule">150</td>
+</tr>
+<tr>
+<td stylecode="Lrule">CV%</td>
+<td>17</td>
+<td>56</td>
+<td>18</td>
+<td>13</td>
+<td stylecode="Rrule">13</td>
+</tr>
+</tbody>
+</table>

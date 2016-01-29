@@ -1,0 +1,194 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="14%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="9%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="14%"></col>
+<col width="14%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Toprule " valign="top"></td>
+<td align="center" colspan="4" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>Etodolac Extended-Release Tablets</paragraph>
+</td>
+<td align="center" colspan="4" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>Etodolac Tablets</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>PK Parameters</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Normal Healthy Adults</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Healthy Males</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Healthy Females</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Elderly (&gt; 65 yr)</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Botrule " valign="top">
+<paragraph>Hemodialysis<footnote id="_RefID42EDB958858341948FB39A570C852159">Pharmacokinetic parameters obtained following administration of etodolac tablets</footnote> (24 to 65) (n = 9)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Renal Impairment<footnoteref idref="_RefID42EDB958858341948FB39A570C852159"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Hepatic Impairment<footnoteref idref="_RefID42EDB958858341948FB39A570C852159"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top"></td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>(18 to 44)<footnote id="_RefIDD8DE0A8B97FA4F9C89DFD0840ED373EF">Age range (years)</footnote> (n = 116)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>(18 to 43) (n = 102)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>(25 to 44) (n = 14)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>(66 to 88) (n = 24)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Dialysis On</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Dialysis Off</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>(46 to 73) (n = 10)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>(34 to 60) (n = 9)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>T<sub>max</sub>, h</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>6.7 (47%)<footnoteref idref="_RefID68CDCBC7E78C452C88CC288C8C04CC85"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>6.8 (45%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>4.5 (56%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>6.2 (51%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>1.7 (88%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>0.9 (67%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>2.1 (46%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>1.1 (15%)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Oral Clearance, mL/h/kg (CL/F)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>46.8 (37%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>46.8 (37%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>47.2 (38%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>51.6 (40%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>NA</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>NA</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>58.3 (19%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>42.0 (43%)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Apparent Volume of Distribution, mL/kg (Vd/F)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>566 (26%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>580 (26%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>459 (28%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>552 (34%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>NA</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>NA</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>NA</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>NA</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>Terminal Half-Life, h</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>8.4 (30%)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>8.4 (29%)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>7.6 (45%)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>7.8 (26%)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>5.1 (22%)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>7.5 (34%)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>NA</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>5.7 (24%)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

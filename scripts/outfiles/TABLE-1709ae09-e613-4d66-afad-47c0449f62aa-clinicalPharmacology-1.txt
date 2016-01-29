@@ -1,0 +1,52 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2: Patients with Endoscopically Confirmed Healed Gastric Ulcers</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th></th>
+<th align="center" colspan="2">
+<content stylecode="underline">U.S. Study</content>
+</th>
+<th align="center" colspan="2">
+<content stylecode="underline">International Study</content>
+</th>
+</tr>
+<tr>
+<th></th>
+<th align="center"> Famotidine<br/>40 mg h.s.<br/>(N = 74)</th>
+<th align="center"> Placebo<br/> h.s.<br/>(N = 75)</th>
+<th align="center"> Famotidine<br/>40 mg h.s.<br/>(N= 149)</th>
+<th align="center">
+<content stylecode="underline">Placebo</content>
+<br/>h.s.<br/>(N = 145)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Week 4</td>
+<td align="center"> 45%</td>
+<td align="center"> 39%</td>
+<td align="center"> <footnote id="FOOT_365">Statistically significantly better than placebo (p ≤ 0.01)</footnote>47%</td>
+<td align="center"> 31%</td>
+</tr>
+<tr>
+<td> Week 6</td>
+<td align="center"> <footnoteref idref="FOOT_365"></footnoteref>66%</td>
+<td align="center"> 44%</td>
+<td align="center"> <footnoteref idref="FOOT_365"></footnoteref>65%</td>
+<td align="center"> 46%</td>
+</tr>
+<tr>
+<td> Week 8</td>
+<td align="center"> <footnote id="FOOT_366">Statistically significantly better than placebo (p ≤
+ 0.05)</footnote>78%</td>
+<td align="center"> 64%</td>
+<td align="center"> <footnoteref idref="FOOT_365"></footnoteref>80%</td>
+<td align="center"> 54%</td>
+</tr>
+</tbody>
+</table>

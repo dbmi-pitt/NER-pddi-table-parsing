@@ -1,0 +1,151 @@
+<table id="id_f2841c93-17db-492c-924a-f407311c34e4" width="706.000" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_e08a8a0c-8b99-4bce-beba-5fb96cab1177">Table 4: Efficacy Outcomes within Demographic Subgroups</caption>
+<col width="16.3%"></col>
+<col width="7.8%"></col>
+<col width="11.6%"></col>
+<col width="11.6%"></col>
+<col width="14.7%"></col>
+<col width="11.6%"></col>
+<col width="11.6%"></col>
+<col width="14.7%"></col>
+<thead>
+<tr id="id_8c7fc52e-e779-4b63-b96b-d68050613d2e">
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="center" colspan="3" stylecode="Rrule" valign="top">Primary Composite Endpoint</td>
+<td align="center" colspan="3" stylecode="Botrule" valign="top">ESRD</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_cddd746d-143e-444b-b31e-73811db0d240">
+<td align="left" stylecode="Botrule Toprule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top">No. of Patients</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">COZAAR<br/>Event Rate<br/>%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Placebo<br/>Event Rate<br/>%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Hazard Ratio<br/>(95% CI)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">COZAAR<br/>Event Rate<br/>%</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Placebo<br/>Event Rate<br/>%</td>
+<td align="center" stylecode="Botrule" valign="top">Hazard Ratio<br/>(95% CI)</td>
+</tr>
+<tr id="id_0f3df532-bde5-47c6-9925-d4d5a730e76b">
+<td align="left" stylecode="Botrule Rrule" valign="top">Overall Results</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1513</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">43.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">47.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.839 (0.721, 0.977)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">19.6</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">25.5</td>
+<td align="center" stylecode="Botrule" valign="top">0.714 (0.576, 0.885)</td>
+</tr>
+<tr id="id_390d4749-0d44-49f2-a673-6ee7238049ff">
+<td align="left" stylecode="Botrule" valign="top">Age</td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr id="id_c726ff0b-5fbd-4229-9fa7-8a1cddbf9c7d">
+<td align="left" stylecode="Botrule Rrule" valign="top">    &lt;65 years</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1005</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">44.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">49.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.784 (0.653, 0.941)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">21.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">28.5</td>
+<td align="center" stylecode="Botrule" valign="top">0.670 (0.521, 0.863)</td>
+</tr>
+<tr id="id_67d981e2-1d6d-4307-8da8-e1c31255c677">
+<td align="left" stylecode="Botrule Rrule" valign="top">    ≥65 years</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">508</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">42.3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">43.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.978 (0.749, 1.277)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">19.6</td>
+<td align="center" stylecode="Botrule" valign="top">0.847 (0.560, 1.281)</td>
+</tr>
+<tr id="id_d4034ff8-d61e-425a-8536-92451188573d">
+<td align="left" stylecode="Botrule" valign="top">Gender</td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr id="id_50917672-fb9c-41cc-a1ad-a1846f6b6660">
+<td align="left" stylecode="Botrule Rrule" valign="top">    Female</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">557</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">47.8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">54.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.762 (0.603, 0.962)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">22.8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">32.8</td>
+<td align="center" stylecode="Botrule" valign="top">0.601 (0.436, 0.828)</td>
+</tr>
+<tr id="id_f408b135-01d0-48ce-9f76-449a427c776f">
+<td align="left" stylecode="Botrule Rrule" valign="top">    Male</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">956</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">40.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">43.3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.892 (0.733, 1.085)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">17.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">21.5</td>
+<td align="center" stylecode="Botrule" valign="top">0.809 (0.605, 1.081)</td>
+</tr>
+<tr id="id_700707a0-dd1f-4b0e-9af8-12ade986a0a2">
+<td align="left" stylecode="Botrule" valign="top">Race</td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr id="id_17104a15-69c9-442c-a7d3-2d450bcce40a">
+<td align="left" stylecode="Botrule Rrule" valign="top">    Asian</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">252</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">41.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">54.8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.655 (0.453, 0.947)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">18.8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">27.4</td>
+<td align="center" stylecode="Botrule" valign="top">0.625 (0.367, 1.066)</td>
+</tr>
+<tr id="id_42b0c095-c06a-4182-b601-da93e455f00e">
+<td align="left" stylecode="Botrule Rrule" valign="top">    Black</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">230</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">40.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">39.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.983 (0.647, 1.495)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">17.6</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">21.0</td>
+<td align="center" stylecode="Botrule" valign="top">0.831 (0.456, 1.516)</td>
+</tr>
+<tr id="id_b5d34f4c-ef54-470c-bd94-cc87ab7704dc">
+<td align="left" stylecode="Botrule Rrule" valign="top">    Hispanic</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">277</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">55.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">54.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.003 (0.728, 1.380)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">30.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">28.5</td>
+<td align="center" stylecode="Botrule" valign="top">1.024 (0.661, 1.586)</td>
+</tr>
+<tr id="id_e5428f34-0e39-4dc1-93f1-75357819dfe1">
+<td align="left" stylecode="Botrule Rrule" valign="top">    White</td>
+<td align="center" stylecode="Rrule" valign="top">735</td>
+<td align="center" stylecode="Rrule" valign="top">40.5</td>
+<td align="center" stylecode="Rrule" valign="top">43.2</td>
+<td align="center" stylecode="Rrule" valign="top">0.809 (0.645, 1.013)</td>
+<td align="center" stylecode="Rrule" valign="top">16.2</td>
+<td align="center" stylecode="Rrule" valign="top">23.9</td>
+<td align="center" stylecode="Botrule" valign="top">0.596 (0.427, 0.831)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,27 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="middle" width="50%"></col>
+<col align="left" valign="middle" width="50%"></col>
+<thead>
+<tr>
+<th align="center" colspan="2">Increased Risk of Myopathy/Rhabdomyolysis (<linkhtml href="#s2">2</linkhtml>, <linkhtml href="#s5.1">5.1</linkhtml>, <linkhtml href="#s7">7</linkhtml>, <linkhtml href="#s12.3">12.3</linkhtml>)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">Cyclosporine, HIV protease inhibitors (tipranavir plus ritonavir), hepatitis C protease inhibitor (telaprevir)</td>
+<td>Avoid atorvastatin</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">Lopinavir plus ritonavir</td>
+<td>Use lowest dose necessary</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">Clarithromycin, itraconazole,<br/>HIV protease inhibitors (saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir)</td>
+<td>Do not exceed 20 mg atorvastatin daily</td>
+</tr>
+<tr>
+<td stylecode="Rrule">HIV protease inhibitor (nelfinavir)<br/>Hepatitis C protease inhibitor (boceprevir)</td>
+<td>Do not exceed 40 mg atorvastatin daily</td>
+</tr>
+</tbody>
+</table>

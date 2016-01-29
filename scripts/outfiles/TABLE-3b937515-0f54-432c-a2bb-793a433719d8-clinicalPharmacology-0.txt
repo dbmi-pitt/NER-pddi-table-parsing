@@ -1,0 +1,38 @@
+<table border="1" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Mean Changes From Baseline (SE)<footnote id="FOOT_1915">(SE) = Standard error of the mean</footnote> in Pharmacodynamic Parameters in Normal Healthy Adult Volunteers</caption>
+<col width="28.6%"></col>
+<col width="36.0%"></col>
+<col width="35.4%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Treatment</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Total Urine Volume </content>
+<content stylecode="bold">in mL</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Maximum Urine </content>
+<content stylecode="bold">Osmolality in mOsm/kg</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> 0.1 mg PO q8h</td>
+<td align="center" stylecode="     Botrule          Rrule     "> -3689.3 (149.6)</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 514.8 (21.9)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> 0.2 mg PO q8h</td>
+<td align="center" stylecode="     Botrule          Rrule     "> -4429.9 (149.6)</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 686.3 (21.9)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> 0.4 mg PO q8h</td>
+<td align="center" stylecode="     Botrule          Rrule     "> -4998.8 (149.6)</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 769.3 (21.9)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> 0.01 mg IN q8h</td>
+<td align="center" stylecode="     Rrule     "> -4844.9 (149.6)</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 754.1 (21.9)</td>
+</tr>
+</tbody>
+</table>

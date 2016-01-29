@@ -1,0 +1,42 @@
+<table border="1" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td></td>
+<td>
+<content stylecode="bold">Caffeine</content>
+<content stylecode="bold"> Citrate</content>
+</td>
+<td>
+<content stylecode="bold">Placebo</content>
+</td>
+<td>
+<content stylecode="bold">p-value</content>
+</td>
+</tr>
+<tr>
+<td>Number of patients evaluated <footnote id="SPLSERV-74A0EE3B-3FCE-09CF-1901-77CFF38E252E">Of 85 patients who received drug, 3 were not included in the efficacy analysis because they had &lt;6 apnea episodes/24 hours at baseline.</footnote>
+</td>
+<td>45</td>
+<td>37</td>
+<td></td>
+</tr>
+<tr>
+<td>% of patients with zero apnea events on day 2</td>
+<td>26.7</td>
+<td>8.1</td>
+<td>0.03</td>
+</tr>
+<tr>
+<td>Apnea rate on day 2 (per 24 hrs.)</td>
+<td>4.9</td>
+<td>7.2</td>
+<td>0.134</td>
+</tr>
+<tr>
+<td>% of patients with 50% reduction in apnea events from baseline on day 2</td>
+<td>76</td>
+<td>57</td>
+<td>0.07</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,154 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 14. Mean<sup>a </sup>Pharmacokinetic Parameters in Healthy Volunteers and Adult Patients With Epilepsy</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">  Adult Study Population</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  Number of Subjects</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  
+<paragraph>T<sub>max</sub>: Time of Maximum Plasma Concentration</paragraph>(hr)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  
+<paragraph>t<sub>½</sub>:</paragraph>
+<paragraph>Elimination Half-life</paragraph>(hr)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  
+<paragraph>Cl/F:</paragraph>Apparent Plasma Clearance (mL/min/kg)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">  <content stylecode="bold">Healthy volunteers taking no other medications:</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">  
+<paragraph>Single-dose lamotrigine</paragraph>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>179</paragraph>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>2.2</paragraph>(0.25-12.0)</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>32.8</paragraph>(14.0-103.0)</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>0.44</paragraph>(0.12-1.10)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">   Multiple-dose lamotrigine</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  36</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>1.7</paragraph>(0.5-4.0)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>25.4</paragraph>(11.6-61.6)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>0.58</paragraph>(0.24-1.15)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">  <content stylecode="bold">Healthy volunteers taking valproate:</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">  
+<paragraph>Single-dose lamotrigine</paragraph>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>6</paragraph>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>1.8</paragraph>(1.0-4.0)</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>48.3</paragraph>(31.5-88.6)</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>0.30</paragraph>(0.14-0.42)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">   Multiple-dose lamotrigine</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  18</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>1.9</paragraph>(0.5-3.5)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>70.3</paragraph>(41.9-113.5)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>0.18</paragraph>(0.12-0.33)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">  <content stylecode="bold">Patients with epilepsy taking valproate only:</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">   Single-dose lamotrigine</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  4</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>4.8</paragraph>(1.8-8.4)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>58.8</paragraph>(30.5-88.8)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>0.28</paragraph>(0.16-0.40)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">  <content stylecode="bold">Patients with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone<sup>b</sup> plus valproate:</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">   Single-dose lamotrigine</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  25</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>3.8</paragraph>(1.0-10.0)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>27.2</paragraph>(11.2-51.6)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>0.53</paragraph>(0.27-1.04)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">  <content stylecode="bold">Patients with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone:<sup>b</sup>
+</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+<td align="center" stylecode="     Rrule     " valign="top">  </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">  
+<paragraph>Single-dose lamotrigine</paragraph>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>24</paragraph>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>2.3</paragraph>(0.5-5.0)</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>14.4</paragraph>(6.4-30.4)</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>1.10</paragraph>(0.51-2.22)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">   Multiple-dose lamotrigine</td>
+<td align="center" stylecode="     Rrule     " valign="top">  17</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>2.0</paragraph>(0.75-5.93)</td>
+<td align="center" stylecode="     Rrule     " valign="top">  
+<paragraph>12.6</paragraph>(7.5-23.1)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top">  
+<paragraph>1.21</paragraph>(0.66-1.82)</td>
+</tr>
+</tbody>
+</table>

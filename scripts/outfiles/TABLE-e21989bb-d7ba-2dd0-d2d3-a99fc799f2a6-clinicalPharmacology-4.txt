@@ -1,0 +1,64 @@
+<table id="Table5" width="90%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption stylecode="Lrule Rrule Toprule">Table 5. Combined Metformin/Insulin vs Placebo/Insulin Summary of Mean Changes from Baseline in HbA1c and Daily Insulin Dose</caption>
+<col align="left"></col>
+<col align="center"></col>
+<col align="center"></col>
+<col align="center"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th stylecode="Lrule">Metformin/<br/>Insulin<br/>(n=26)</th>
+<th stylecode="Lrule">Placebo/<br/>Insulin<br/>(n=28)</th>
+<th stylecode="Lrule Rrule">Treatment<br/>Difference<br/>Mean ± SE</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="4">
+<paragraph>
+<caption>
+<sup>a</sup>
+</caption> Statistically significant using analysis of covariance with baseline as covariate (p=0.04) </paragraph>
+<paragraph>   Not significant using analysis of variance (values shown in table)</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<paragraph>
+<caption>
+<sup>b</sup>
+</caption> Statistically significant for insulin (p=0.04)</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<th stylecode="Lrule Rrule">Hemoglobin A<sub>1c</sub> (%)</th>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">  Baseline<br/>  Change at FINAL VISIT</td>
+<td stylecode="Rrule">8.95<br/>-2.10</td>
+<td stylecode="Rrule">9.32<br/>-1.56</td>
+<td stylecode="Rrule">
+<br/>-0.54 ± 0.43<sup>a</sup>
+</td>
+</tr>
+<tr>
+<th stylecode="Rrule Lrule">Insulin Dose (U/day)</th>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule">  Baseline<br/>  Change at FINAL VISIT</td>
+<td stylecode="Rrule Lrule">93.12<br/>-0.15</td>
+<td stylecode="Rrule">94.64<br/>15.93</td>
+<td stylecode="Rrule">
+<br/>-16.08 ± 7.77<sup>b</sup>
+</td>
+</tr>
+</tbody>
+</table>

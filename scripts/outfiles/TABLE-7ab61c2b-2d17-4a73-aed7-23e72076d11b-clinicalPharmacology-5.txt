@@ -1,0 +1,44 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td colspan="2" stylecode="Lrule Rrule Toprule Botrule">
+<content stylecode="underline">
+<content stylecode="emphasis">Microorganism</content>
+</content>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<content stylecode="underline">
+<content stylecode="emphasis">Zone Diameter (mm)</content>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<content stylecode="italics">
+<content stylecode="emphasis">Escherichia coli </content>
+</content>
+</td>
+<td stylecode="Lrule Rrule Toprule Botrule">ATCC 25922</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">23-29</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<content stylecode="italics">
+<content stylecode="emphasis">Neisseria gonorrhoeae<sup>a</sup>
+</content>
+</content>
+</td>
+<td stylecode="Lrule Rrule Toprule Botrule">ATCC 49226 </td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">33-41</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule">
+<content stylecode="italics">
+<content stylecode="emphasis">Staphylococcus aureus</content>
+</content>
+</td>
+<td stylecode="Lrule Rrule Toprule Botrule">ATCC 25923 </td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">23-29</td>
+</tr>
+</tbody>
+</table>

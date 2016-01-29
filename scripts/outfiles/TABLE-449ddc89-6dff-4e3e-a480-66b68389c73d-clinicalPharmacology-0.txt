@@ -1,0 +1,591 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8: Mean ±SD Levofloxacin PK Parameters </caption>
+<col width="18%"></col>
+<col width="12%"></col>
+<col width="10%"></col>
+<col width="15%"></col>
+<col width="12%"></col>
+<col width="8%"></col>
+<col width="11%"></col>
+<col width="13%"></col>
+<tfoot>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>1</sup> clearance/bioavailability <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>2</sup> volume of distribution/bioavailability <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>3</sup> healthy males 18-53 years of age <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>4</sup> 60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>5</sup> healthy male and female subjects 18-54 years of age <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>6</sup> 500 mg every 48h for patients with moderate renal impairment (CLCR 20-50 mL/min) and infections of the respiratory tract or skin <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>7</sup> dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>8</sup> healthy males 22-75 years of age <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>9</sup> healthy females 18-80 years of age <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>1</sup>
+<sup>0</sup> young healthy male and female subjects 18-36 years of age <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>1</sup>
+<sup>1</sup> healthy elderly male and female subjects 66-80 years of age <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>
+<sup>1</sup>
+<sup>2</sup> healthy males and females 19-55 years of age. <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>* Absolute bioavailability; F = 0.99 ± 0.08 from a 500 mg tablet and F = 0.99 ± 0.06 from a 750 mg tablet; <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8"> <paragraph>ND=not determined. <br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Regimen </content>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">C<sub>m</sub>
+<sub>a</sub>
+<sub>x</sub> </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mcg</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">mL</content>
+<content stylecode="bold">) </content>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">T<sub>m</sub>
+<sub>a</sub>
+<sub>x</sub>
+</content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">h</content>
+<content stylecode="bold">) </content>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">AUC </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mcg</content>•<content stylecode="bold">h</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">mL</content>
+<content stylecode="bold">) </content>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">CL</content>
+<content stylecode="bold">/</content>F<sup>1</sup> <content stylecode="bold">(</content>
+<content stylecode="bold">mL</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">min</content>
+<content stylecode="bold">) </content>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Vd</content>
+<content stylecode="bold">/</content>F<sup>2</sup> <content stylecode="bold">(</content>
+<content stylecode="bold">L</content>
+<content stylecode="bold">) </content>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">t<sub>1</sub>
+</content>
+<content stylecode="bold">
+<sub>/</sub>
+</content>
+<content stylecode="bold">
+<sub>2</sub>
+</content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">h</content>
+<content stylecode="bold">)</content>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">CL<sub>R</sub> </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mL</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">min</content>
+<content stylecode="bold">) </content>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="8" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Single </content>
+<content stylecode="bold">dose </content>
+<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 250 mg oral tablet<sup>3</sup>
+<br/>
+</td>
+<td align="right" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 2.8 ± 0.4<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.6 ± 1.0<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 27.2 ± 3.9<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 156 ± 20<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.3 ± 0.9<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 142 ± 21<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 500 mg oral tablet<sup>3</sup>*<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 5.1 ± 0.8<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.3 ± 0.6<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 47.9 ± 6.8<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 178 ± 28<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 6.3 ± 0.6<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 103 ± 30<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 500 mg oral solution<sup>1</sup>
+<sup>2</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 5.8 ± 1.8<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 0.8 ± 0.7<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 47.8 ± 10.8<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 183 ± 40<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 112 ± 37.2<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.0 ± 1.4<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 500 mg IV<sup>3</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 6.2 ± 1.0<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.0 ± 0.1<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 48.3 ± 5.4<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 175 ± 20<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 90 ± 11<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 6.4 ± 0.7<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 112 ± 25<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 750 mg oral tablet<sup>5</sup>*<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 9.3 ± 1.6<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.6 ± 0.8<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 101 ± 20<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 129 ± 24<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 83 ± 17<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.5 ± 0.9<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 750 mg IV<sup>5</sup>
+<br/>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 11.5 ±4.0<sup>4</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 110 ±40<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 126 ±39<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 75 ± 13<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.5 ± 1.6<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+</tr>
+<tr>
+<td colspan="8" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Multiple </content>
+<content stylecode="bold">dose</content>
+<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 500 mg every 24h oral tablet<sup>3</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 5.7 ± 1.4<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.1 ± 0.4<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 47.5 ± 6.7<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 175 ± 25<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 102 ± 22<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.6 ± 1.6<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 116 ± 31<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 500 mg every 24h IV<sup>3</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 6.4 ± 0.8<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 54.6 ± 11.1<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 158 ± 29<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 91 ± 12<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.0 ± 0.8<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 99 ± 28<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 500 mg or 250 mg every 24h IV, patients with bacterial infection<sup>6</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 8.7± 4.0<sup>7</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 72.5 ± 51.2<sup>7</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 154 ± 72<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 111 ± 58<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 750 mg every 24h oral tablet<sup>5</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 8.6 ± 1.9<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.4 ± 0.5<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 90.7 ± 17.6<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 143 ± 29<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 100 ± 16<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 8.8 ± 1.5<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 116 ± 28<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 750 mg every 24h IV<sup>5</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 12.1 ± 4.1<sup>4</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 108 ± 34<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 126 ± 37<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 80 ± 27<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.9 ± 1.9<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ND<br/>
+</td>
+</tr>
+<tr>
+<td colspan="8" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">500 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">oral </content>
+<content stylecode="bold">tablet </content>
+<content stylecode="bold">single </content>
+<content stylecode="bold">dose</content>
+<content stylecode="bold">, </content>
+<content stylecode="bold">effects </content>
+<content stylecode="bold">of </content>
+<content stylecode="bold">gender </content>
+<content stylecode="bold">and </content>
+<content stylecode="bold">age</content>
+<content stylecode="bold">: </content>
+<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Male<sup>8</sup> <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 5.5 ± 1.1 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.2 ± 0.4 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 54.4 ± 18.9 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 166 ± 44 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 89 ± 13 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.5 ± 2.1 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 126 ± 38 <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Female<sup>9</sup> <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.0 ± 1.6 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.7 ± 0.5 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 67.7 ± 24.2 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 136 ± 44 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 62 ± 16 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 6.1 ± 0.8 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 106 ± 40 <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Young<sup>1</sup>
+<sup>0</sup> <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 5.5 ± 1.0 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.5 ± 0.6 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 47.5 ± 9.8 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 182 ± 35 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 83 ± 18 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 6.0 ± 0.9 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 140 ± 33 <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Elderly<sup>1</sup>
+<sup>1</sup> <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.0 ± 1.6 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.4 ± 0.5 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 74.7 ± 23.3 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 121 ± 33 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 67 ± 19 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 7.6 ± 2.0 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 91 ± 29 <br/>
+</td>
+</tr>
+<tr>
+<td colspan="8" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">500 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">oral </content>
+<content stylecode="bold">single </content>
+<content stylecode="bold">dose </content>
+<content stylecode="bold">tablet</content>
+<content stylecode="bold">, </content>
+<content stylecode="bold">patients </content>
+<content stylecode="bold">with </content>
+<content stylecode="bold">renal </content>
+<content stylecode="bold">insufficiency</content>
+<content stylecode="bold">: </content>
+<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> CLCR 50 - 80 mL/min <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7.5 ± 1.8 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.5 ± 0.5 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 95.6 ± 11.8 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 88 ± 10 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 9.1 ± 0.9 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 57 ± 8 <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> CLCR 20 - 49 mL/min <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 7.1 ± 3.1 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 2.1 ± 1.3 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 182.1 ± 62.6 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 51 ± 19 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 27 ± 10 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 26 ± 13 <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> CLCR &lt;20 mL/min <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 8.2 ± 2.6 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.1 ± 1.0 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 263.5 ± 72.5 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 33 ± 8 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 35 ± 5 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 13 ± 3 <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Hemodialysis </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 5.7 ± 1.0 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 2.8 ± 2.2 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 76 ± 42 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> CAPD <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 6.9 ± 2.3 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.4 ± 1.1 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 51 ± 24 <br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> ND <br/>
+</td>
+</tr>
+</tbody>
+</table>

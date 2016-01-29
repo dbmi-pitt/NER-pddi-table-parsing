@@ -1,0 +1,57 @@
+<table width="535px" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" rowspan="3">
+<content stylecode="bold">DRONABINOL <br/>Capsules Dose</content>
+</td>
+<td align="center" colspan="3">
+<content stylecode="bold">Response Frequency (%)</content>
+</td>
+<td align="center" colspan="3"> <content stylecode="bold">Adverse Events Frequency (%)</content>
+</td>
+</tr>
+<tr>
+<td align="center"> Complete</td>
+<td align="center"> Partial</td>
+<td align="center"> Poor</td>
+<td align="center"> None</td>
+<td align="center"> Nondysphoric</td>
+<td align="center"> Dysphoric</td>
+</tr>
+<tr>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center"> &lt;7 mg/m<sup>2</sup>
+</td>
+<td align="center"> 36</td>
+<td align="center"> 32</td>
+<td align="center"> 32</td>
+<td align="center"> 23</td>
+<td align="center"> 65</td>
+<td align="center"> 12</td>
+</tr>
+<tr>
+<td align="center"> &gt;7 mg/m<sup>2</sup>
+</td>
+<td align="center"> 33</td>
+<td align="center"> 31</td>
+<td align="center"> 36</td>
+<td align="center"> 13</td>
+<td align="center"> 58</td>
+<td align="center"> 28</td>
+</tr>
+</tbody>
+</table>

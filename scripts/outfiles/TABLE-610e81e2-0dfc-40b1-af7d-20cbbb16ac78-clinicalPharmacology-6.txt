@@ -1,0 +1,31 @@
+<table border="1" frame="border" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="312px"></col>
+<col width="312px"></col>
+<tfoot>
+<tr>
+<td colspan="2">
+<sup>§§</sup> Staphylococci which are resistant to methicillin/oxacillin must be considered as resistant to amoxicillin/clavulanic acid.<br/>
+<sup>a</sup> A broth microdilution method should be used for testing <content stylecode="italics">H. influenzae</content>. Beta-lactamase- negative, ampicillin-resistant strains must be considered resistant to amoxicillin/clavulanic acid.<br/>
+<sup>b</sup> Susceptibility of <content stylecode="italics">S. pneumoniae</content> should be determined using a 1 mcg oxacillin disk. Isolates with oxacillin zone sizes of ≥20 mm are susceptible to amoxicillin/clavulanic acid. An amoxicillin/clavulanic acid MIC should be determined on isolates of <content stylecode="italics">S. pneumoniae</content> with oxacillin zone sizes of ≤19 mm.<br/>
+<sup>c</sup> A broth microdilution method should be used for testing <content stylecode="italics">N. gonorrhoeae</content> and interpreted according to penicillin breakpoints.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     ">Zone Diameter (mm)</td>
+<td align="center" stylecode="     Botrule          Rrule     ">Interpretation</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     "> ≥ 18</td>
+<td align="center" stylecode="     Botrule          Rrule     "> Susceptible (S)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     "> 14 to 17</td>
+<td align="center" stylecode="     Botrule          Rrule     "> Intermediate (I)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     "> ≤ 13</td>
+<td align="center" stylecode="     Botrule          Rrule     "> Resistant (R)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,35 @@
+<table id="id_17e227cb-1f92-4ced-b6b9-e10e4c211c78" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_59e3d9fb-5b01-432d-9f9a-a55839a79972">Table 1: Outpatients with Endoscopically Confirmed Healed Duodenal Ulcers</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_e547ca8b-3dd6-4a60-9d31-6d8d406d2b87" stylecode="Botrule">
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="underline">Famotidine</content>
+<br/>40 mg h.s<br/>(N = 89)</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="underline">Famotidine</content>
+<br/>20 mg b.i.d.<br/>(N = 84)</td>
+<td align="center" valign="top">
+<content stylecode="underline">Placebo</content>
+<br/>h.s.<br/>(N = 97)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_2c4993d7-e3be-43de-be47-b940da62f83c" stylecode="Toprule">
+<td align="left" valign="top"> Week 2</td>
+<td align="center" stylecode="Toprule" valign="top"> <footnote id="id-4d819ba8-2bf8-45ea-9d0c-6063054f9e3c">Statistically significantly different than placebo (p &lt; 0.001)</footnote>32%</td>
+<td align="center" stylecode="Toprule" valign="top"> <footnoteref idref="id-4d819ba8-2bf8-45ea-9d0c-6063054f9e3c"></footnoteref>38%</td>
+<td align="center" valign="top"> 17%</td>
+</tr>
+<tr id="id_235af410-cb6d-41aa-ac45-04f0b3af274f" stylecode="Botrule">
+<td align="left" valign="top"> Week 4</td>
+<td align="center" valign="top"> <footnoteref idref="id-4d819ba8-2bf8-45ea-9d0c-6063054f9e3c"></footnoteref>70%</td>
+<td align="center" valign="top"> <footnoteref idref="id-4d819ba8-2bf8-45ea-9d0c-6063054f9e3c"></footnoteref>67%</td>
+<td align="center" valign="top"> 31%</td>
+</tr>
+</tbody>
+</table>

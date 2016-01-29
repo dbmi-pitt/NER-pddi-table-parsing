@@ -1,0 +1,35 @@
+<table border="1" cellpadding="0" cellspacing="0" stylecode="Lrule" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Botrule Lrule Rrule Toprule">Time</td>
+<td colspan="4" stylecode="Botrule Lrule Rrule Toprule">–––––––––—–––––<content stylecode="bold">Median pH on day 7</content> —–––––––––</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule Toprule">Placebo</td>
+<td stylecode="Botrule Lrule Rrule Toprule">20 mg</td>
+<td stylecode="Botrule Lrule Rrule Toprule">40 mg</td>
+<td stylecode="Botrule Lrule Rrule Toprule">80 mg</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule Toprule"> 8 a.m. - 8 a.m. (24 hours) </td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 1.3</td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 2.9*</td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 3.8*#</td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 3.9*#</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule Toprule"> 8 a.m. - 10 p.m. (Daytime) </td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 1.6</td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 3.2*</td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 4.4*#</td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 4.8*#</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule Toprule"> 10 p.m. - 8 a.m. (Nighttime) </td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 1.2</td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 2.1*</td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 3.0*</td>
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom"> 2.6*</td>
+</tr>
+</tbody>
+</table>

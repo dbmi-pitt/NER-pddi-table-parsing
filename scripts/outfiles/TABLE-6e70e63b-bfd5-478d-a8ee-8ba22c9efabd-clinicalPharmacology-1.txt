@@ -1,0 +1,159 @@
+<table width="85%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9. Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Single Intravenous Infusion of 10 mg/kg or 600 mg Linezolid (Mean: (%CV); [Min, Max Values])</caption>
+<col align="left" valign="top" width="40%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="15%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule" valign="bottom">Age Group</th>
+<th stylecode="Rrule">C<sub>max</sub>
+<br/>mcg/mL</th>
+<th stylecode="Rrule">V<sub>ss</sub>
+<br/>L/kg</th>
+<th stylecode="Rrule">AUC<footnote> AUC = Single dose AUC<sub>0–∞</sub>
+</footnote>
+<br/>mcg∙h/mL</th>
+<th stylecode="Rrule">t <sub>1/2</sub>
+<br/>hrs</th>
+<th>CL<br/>mL/min/kg</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" valign="top">C<sub>max</sub> = Maximum plasma concentration; V<sub>ss=</sub> Volume of distribution; AUC = Area under concentration-time curve;<br/>t<sub>1/2</sub> = Apparent elimination half-life; CL = Systemic clearance normalized for body weight</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Rrule">Neonatal Patients</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td></td>
+</tr>
+<tr>
+<td stylecode="Rrule">Pre-term<footnote>In this data set, "pre-term" is defined as &lt;34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days)</footnote>
+</td>
+<td stylecode="Rrule">12.7 (30%)</td>
+<td stylecode="Rrule">0.81 (24%)</td>
+<td stylecode="Rrule">108 (47%)</td>
+<td stylecode="Rrule">5.6 (46%)</td>
+<td>2.0 (52%)</td>
+</tr>
+<tr>
+<td stylecode="Rrule">&lt; 1 week (N=9)<footnote id="t9f3">Dose of 10 mg/kg</footnote>
+</td>
+<td stylecode="Rrule">[9.6, 22.2]</td>
+<td stylecode="Rrule">[0.43, 1.05]</td>
+<td stylecode="Rrule">[41, 191]</td>
+<td stylecode="Rrule">[2.4, 9.8]</td>
+<td>[0.9, 4.0]</td>
+</tr>
+<tr>
+<td stylecode="Rrule">Full-term<footnote id="t9f4">In this data set, "full-term" is defined as ≥34 weeks gestational age</footnote>
+</td>
+<td stylecode="Rrule">11.5 (24%)</td>
+<td stylecode="Rrule">0.78 (20%)</td>
+<td stylecode="Rrule">55 (47%)</td>
+<td stylecode="Rrule">3.0 (55%)</td>
+<td>3.8 (55%)</td>
+</tr>
+<tr>
+<td stylecode="Rrule">&lt; 1 week (N=10)<footnoteref idref="t9f3"></footnoteref>
+</td>
+<td stylecode="Rrule">[8.0, 18.3]</td>
+<td stylecode="Rrule">[0.45, 0.96]</td>
+<td stylecode="Rrule">[19, 103]</td>
+<td stylecode="Rrule">[1.3, 6.1]</td>
+<td>[1.5, 8.8]</td>
+</tr>
+<tr>
+<td stylecode="Rrule">Full-term<footnoteref idref="t9f4"></footnoteref>
+</td>
+<td stylecode="Rrule">12.9 (28%)</td>
+<td stylecode="Rrule">0.66 (29%)</td>
+<td stylecode="Rrule">34 (21%)</td>
+<td stylecode="Rrule">1.5 (17%)</td>
+<td>5.1 (22%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">≥ 1 week to ≤ 28 days (N=10)<footnoteref idref="t9f3"></footnoteref>
+</td>
+<td stylecode="Rrule">[7.7, 21.6]</td>
+<td stylecode="Rrule">[0.35, 1.06]</td>
+<td stylecode="Rrule">[23, 50]</td>
+<td stylecode="Rrule">[1.2, 1.9]</td>
+<td>[3.3, 7.2]</td>
+</tr>
+<tr>
+<td stylecode="Rrule">Infant Patients</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">&gt; 28 days to &lt; 3 Months (N=12)<footnoteref idref="t9f3"></footnoteref>
+</td>
+<td stylecode="Rrule">11.0 (27%)<br/>[7.2, 18.0]</td>
+<td stylecode="Rrule">0.79 (26%)<br/>[0.42, 1.08]</td>
+<td stylecode="Rrule">33 (26%)<br/>[17, 48]</td>
+<td stylecode="Rrule">1.8 (28%)<br/>[1.2, 2.8]</td>
+<td>5.4 (32%)<br/>[3.5, 9.9]</td>
+</tr>
+<tr>
+<td stylecode="Rrule">Pediatric Patients</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">  3 months through 11 years<footnoteref idref="t9f3"></footnoteref> (N=59)</td>
+<td stylecode="Rrule">15.1 (30%)<br/>[6.8, 36.7]</td>
+<td stylecode="Rrule">0.69 (28%)<br/>[0.31, 1.50]</td>
+<td stylecode="Rrule">58 (54%)<br/>[19, 153]</td>
+<td stylecode="Rrule">2.9 (53%)<br/>[0.9, 8.0]</td>
+<td>3.8 (53%)<br/>[1.0, 8.5]</td>
+</tr>
+<tr>
+<td stylecode="Rrule">Adolescent Subjects and Patients </td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">  12 through 17 years<footnote>Dose of 600 mg or 10 mg/kg up to a maximum of 600 mg</footnote>     (N=36)</td>
+<td stylecode="Rrule">16.7 (24%)<br/>[9.9, 28.9]</td>
+<td stylecode="Rrule">0.61 (15%)<br/>[0.44, 0.79]</td>
+<td stylecode="Rrule">95 (44%)<br/>[32, 178]</td>
+<td stylecode="Rrule">4.1 (46%)<br/>[1.3, 8.1]</td>
+<td>2.1 (53%)<br/>[0.9, 5.2]</td>
+</tr>
+<tr>
+<td stylecode="Rrule">Adult Subjects<footnote>Dose normalized to 600 mg</footnote>
+</td>
+<td stylecode="Rrule">12.5 (21%)</td>
+<td stylecode="Rrule">0.65 (16%)</td>
+<td stylecode="Rrule">91 (33%)</td>
+<td stylecode="Rrule">4.9 (35%)</td>
+<td>1.7 (34%)</td>
+</tr>
+<tr>
+<td stylecode="Rrule">  (N= 29)</td>
+<td stylecode="Rrule">[8.2, 19.3]</td>
+<td stylecode="Rrule">[0.45, 0.84]</td>
+<td stylecode="Rrule">[53, 155]</td>
+<td stylecode="Rrule">[1.8, 8.3]</td>
+<td>[0.9, 3.3]</td>
+</tr>
+</tbody>
+</table>

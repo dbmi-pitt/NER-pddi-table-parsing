@@ -1,0 +1,36 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>MIC (mcg/mL)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>Interpretation</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≤ 1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>(S) Susceptible</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>   2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>(I) Intermediate</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≥ 4</paragraph>
+</td>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>(R) Resistant</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

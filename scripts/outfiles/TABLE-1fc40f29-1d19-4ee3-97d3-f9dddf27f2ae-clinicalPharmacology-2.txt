@@ -1,0 +1,27 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td> <content stylecode="bold">      Zone Diameter (mm)</content>
+</td>
+<td> <content stylecode="bold">       Interpretation  </content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>             ≥ 18</td>
+<td>        (S)Susceptible                </td>
+</tr>
+<tr>
+<td>             15-17</td>
+<td>        (I) Intermediate           </td>
+</tr>
+<tr>
+<td>             ≤14</td>
+<td>        (R) Resistant    <br/>
+</td>
+</tr>
+</tbody>
+</table>

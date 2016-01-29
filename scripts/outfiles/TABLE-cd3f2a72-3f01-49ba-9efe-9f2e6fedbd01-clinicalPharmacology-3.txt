@@ -1,0 +1,301 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10.  Effect of Coadministered Drugs on Zidovudine AUC<footnote id="_Ref411253247">This table is not all inclusive. </footnote>
+</caption>
+<col width="18%"></col>
+<col width="15%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="18%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule" valign="top">↑ = Increase; ↓ = Decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; <br/>CI = confidence interval. </td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td colspan="6" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS.</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Coadministered Drug and Dose</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Zidovudine <br/>Oral Dose</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">n</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Zidovudine Concentrations</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Concentration of Coadministered Drug</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">AUC</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Variability</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Atovaquone <br/>750 mg every 12 h with food</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>200 mg every</paragraph>
+<paragraph>8 h</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>14</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑AUC</paragraph>
+<paragraph>31%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Range:</paragraph>
+<paragraph>23% to 78%<footnote id="_Ref411253252">Estimated range of percent difference. </footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">↔</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Clarithromycin  <br/>500 mg twice daily</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>100 mg every</paragraph>
+<paragraph>4 h x 7 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↓AUC</paragraph>
+<paragraph>12%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Range:</paragraph>
+<paragraph>↓34% to ↑14%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Not Reported</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Fluconazole <br/>400 mg daily</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>200 mg every</paragraph>
+<paragraph>8 h</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑AUC</paragraph>
+<paragraph>74%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>95% CI: <br/>54% to 98%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Not Reported</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Lamivudine  <br/>300 mg every 12 h</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>single 200 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑AUC</paragraph>
+<paragraph>13%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>90% CI: <br/>2% to 27%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">↔</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Methadone <br/>30 mg to 90 mg daily</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>200 mg every</paragraph>
+<paragraph>4 h</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑AUC</paragraph>
+<paragraph>43%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Range: <br/>16% to 64%<footnoteref idref="_Ref411253252"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">↔</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Nelfinavir  <br/>750 mg every 8 h x <br/>7 to 10 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>single 200 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>11</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↓AUC</paragraph>
+<paragraph>35%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Range:</paragraph>
+<paragraph>28% to 41%<sup></sup>
+<footnoteref idref="_Ref411253252"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Probenecid <br/>500 mg every 6 h x <br/>2 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>2 mg/kg every</paragraph>
+<paragraph>8 h x 3 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>3</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑AUC</paragraph>
+<paragraph>106%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Range:</paragraph>
+<paragraph>100% to 170%<footnoteref idref="_Ref411253252"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Not Assessed</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Rifampin  <br/>600 mg daily x <br/>14 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>200 mg every</paragraph>
+<paragraph>8 h x 14 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↓AUC</paragraph>
+<paragraph>47%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>90% CI:</paragraph>
+<paragraph>41% to 53%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Not Assessed</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Ritonavir <br/>300 mg every 6 h x <br/>4 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>200 mg every</paragraph>
+<paragraph>8 h x 4 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↓AUC</paragraph>
+<paragraph>25%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>95% CI:</paragraph>
+<paragraph>15% to 34%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Valproic acid <br/>250 mg or 500 mg every 8 h x 4 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>100 mg every</paragraph>
+<paragraph>8 h x 4 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>↑AUC</paragraph>
+<paragraph>80%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Range:</paragraph>
+<paragraph>64% to 130%<sup></sup>
+<footnoteref idref="_Ref411253252"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Not Assessed</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

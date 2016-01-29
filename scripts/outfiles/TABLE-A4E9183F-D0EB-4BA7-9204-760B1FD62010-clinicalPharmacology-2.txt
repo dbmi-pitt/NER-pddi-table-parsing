@@ -1,0 +1,12 @@
+<table frame="void" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><col width="295"></col>
+<col width="295"></col>
+<thead>
+<tr><td align="center" valign="top"><content stylecode="bold underline">Microorganism</content></td><td align="center" valign="top"><content stylecode="bold underline">MIC (mcg/mL)</content></td></tr>
+</thead>
+<tbody>
+<tr><td align="center" valign="top"><content stylecode="italics">S. aureus</content> ATCC 29213</td><td align="center" valign="top">1-4</td></tr>
+<tr><td align="center" valign="top"><content stylecode="italics">E. faecalis</content> ATCC 29212</td><td align="center" valign="top">≤1</td></tr>
+<tr><td align="center" valign="top"><content stylecode="italics">E. coli</content> ATCC 25922</td><td align="center" valign="top">0.5-2</td></tr>
+<tr><td align="center" valign="top"><content stylecode="italics">P. aeruginosa</content> ATCC 27853</td><td align="center" valign="top">&gt;64</td></tr>
+</tbody>
+</table>
