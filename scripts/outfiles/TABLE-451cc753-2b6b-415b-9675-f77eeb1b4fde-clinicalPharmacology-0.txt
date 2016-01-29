@@ -1,0 +1,395 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" colspan="10" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Table 2: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycline</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Bacteria<sup>a</sup>
+</content>
+</td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Minimal Inhibitory <br/>Concentration (mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  <content stylecode="bold">Agar Dilution (mcg/mL)</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> I</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> R</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> S</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> I</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> R</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> S</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> I</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> R</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Acinetobacter spp.<br/>  </content>Doxycycline<br/>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤4<br/>≤4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>8<br/>8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥16<br/>≥16</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥13<br/>≥15</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>10 to 12<br/>12 to 14</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="underline">
+<br/>
+</content>≤9<br/>≤11</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Anaerobes<br/>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="underline">
+<br/>
+</content>≥16</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Bacillus anthracis</content>
+<sup>ab</sup>
+<br/>  Doxycycline<br/>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="underline">
+<br/>
+</content>≤1<br/>≤1</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>-<br/>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Brucella </content>species<sup>ab</sup>
+<br/>  Doxycycline<br/>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="underline">
+<br/>
+</content>≤1<br/>≤1</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>-<br/>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>-<br/>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>-<br/>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>-<br/>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>-<br/>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>-<br/>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>-<br/>-</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>-<br/>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Enterobacteriacea<br/>  </content>Doxycycline<br/>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="underline">
+<br/>
+</content>≤4<br/>≤4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>8<br/>8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥16<br/>≥16</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥14<br/>≥15</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>11 to 13<br/>12 to 14</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤10<br/>≤11</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Franciscella tularensis</content>
+<sup>ab</sup>
+<br/>  Doxycycline<br/>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="underline">
+<br/>
+</content>≤4<br/>≤4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-<br/>-</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Haemophilus influenzae<br/>
+</content>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤2</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥29</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>26 to 28</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤25</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Mycoplasma pneumoniae<br/>
+</content>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="underline">
+<br/>
+</content>≤2</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Nocardiae </content>and other aerobic<br/>
+<content stylecode="italics">Actinomyces </content>species<sup>ab</sup>
+<br/>  Doxycycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤1</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>2 to 4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+<sup>c</sup>
+<br/>  Tetracycline</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥38</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>31 to 37</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤30</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤0.25</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>0.5 to 1</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="underline">
+<br/>&gt;</content>2</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Streptococcus pneumoniae<br/>
+</content>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤2</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥23</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>19 to 22 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤18 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Vibrio cholerae<br/>
+</content>  Doxycycline<br/>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="underline">
+<br/>
+</content>≤4<br/>≤4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>8<br/>8 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥16<br/>≥16 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Yersinia pestis<br/>
+</content>  Doxycycline<br/>  Tetracycline</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≤4<br/>≤4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>8<br/>8 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥16<br/>≥16 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="italics">Ureaplasma urealyticum<br/>
+</content>  Tetracycline</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="underline">
+<br/>
+</content>≤1</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>-</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<br/>≥2</td>
+</tr>
+<tr>
+<td colspan="10"> <sup>a  </sup>Organisms susceptible to tetracycline are also considered susceptible to doxycycline. However, some organisms that are intermediate or resistant to tetracycline may be susceptible to doxycycline. </td>
+</tr>
+<tr>
+<td colspan="10">
+<paragraph>
+<sup>b  </sup>The current absence of resistance isolates precludes defining any results other than “Susceptible”. If isolates yielding MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. </paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="10">
+<paragraph>
+<sup>c </sup>Gonococci with 30 mcg tetracycline disk zone diameters of less than 19 mm usually indicate a plasmidmediated tetracycline resistant <content stylecode="italics">Neisseria gonorrhoeae </content>isolate. Resistance in these strains should be confirmed by a dilution test (MIC greater than or equal to 16 mcg/mL).</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

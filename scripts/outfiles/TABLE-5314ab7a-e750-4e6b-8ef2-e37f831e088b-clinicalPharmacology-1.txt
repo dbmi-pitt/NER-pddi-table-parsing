@@ -1,0 +1,58 @@
+<table border="1" id="inv-64ba4f5d-f1ac-422e-a15e-8e2473f1e64a" width="418.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="17.2%"></col>
+<col align="left" width="17.2%"></col>
+<col align="left" width="17.2%"></col>
+<col align="left" width="17.2%"></col>
+<col align="left" width="14.8%"></col>
+<col align="left" width="16.3%"></col>
+<tbody>
+<tr id="id_9cab3c56-0487-4cfe-9695-847609de86a2">
+<td align="left" stylecode="Lrule Toprule" valign="top">Age Studied</td>
+<td align="left" stylecode="Toprule" valign="top">Dose (mg/kg)</td>
+<td align="left" stylecode="Toprule" valign="top">Clearance (mL/min/kg)</td>
+<td align="left" stylecode="Toprule" valign="top">Half-life (Hours)</td>
+<td align="left" stylecode="Toprule" valign="top">C<sub>max</sub> (mcg/mL)</td>
+<td align="left" stylecode="Rrule" valign="top">Vdss (L/kg)</td>
+</tr>
+<tr id="id_86cfaee3-61db-435c-b6e5-62a16a0a24f4">
+<td align="left" stylecode="Lrule" valign="top">9 Months to 13 years</td>
+<td align="left" valign="top">Single-Oral 2 mg/kg</td>
+<td align="left" valign="top">0.4 (38%) n = 14</td>
+<td align="left" valign="top">25</td>
+<td align="left" valign="top">2.9 (22%) n = 16</td>
+<td align="left" stylecode="Rrule" valign="top">-</td>
+</tr>
+<tr id="id_c2a162e0-562c-4ae3-88d8-04b210931fb4">
+<td align="left" stylecode="Lrule" valign="top">9 Months to 13 years</td>
+<td align="left" valign="top">Single-Oral 8 mg/kg</td>
+<td align="left" valign="top">0.51 (60%) n = 15</td>
+<td align="left" valign="top">19.5</td>
+<td align="left" valign="top">9.8 (20%) n = 15</td>
+<td align="left" stylecode="Rrule" valign="top">-</td>
+</tr>
+<tr id="id_bf2f1dfe-e170-425b-8ac6-514371e6db45">
+<td align="left" stylecode="Lrule" valign="top">5 to 15 years</td>
+<td align="left" valign="top">Multiple IV 2 mg/kg</td>
+<td align="left" valign="top">0.49 (40%) n = 4</td>
+<td align="left" valign="top">17.4</td>
+<td align="left" valign="top">5.5 (25%) n = 5</td>
+<td align="left" stylecode="Rrule" valign="top">0.722 (36%) n = 4</td>
+</tr>
+<tr id="id_fb9e9c97-175b-4de3-8562-0b45b99053df">
+<td align="left" stylecode="Lrule" valign="top">5 to 15 years</td>
+<td align="left" valign="top">Multiple IV 4 mg/kg</td>
+<td align="left" valign="top">0.59 (64%) n = 5</td>
+<td align="left" valign="top">15.2</td>
+<td align="left" valign="top">11.4 (44%) n = 6</td>
+<td align="left" stylecode="Rrule" valign="top">0.729 (33%) n = 5</td>
+</tr>
+<tr id="id_a5fb07c3-70f6-4700-b73c-5f613634af8d">
+<td align="left" stylecode="Lrule Botrule" valign="top">5 to 15 years</td>
+<td align="left" stylecode="Botrule" valign="top">Multiple IV 8 mg/kg</td>
+<td align="left" stylecode="Botrule" valign="top">0.66 (31%) n = 7</td>
+<td align="left" stylecode="Botrule" valign="top">17.6</td>
+<td align="left" stylecode="Botrule" valign="top">14.1 (22%) n = 8</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">1.069 (37%) n = 7</td>
+</tr>
+</tbody>
+</table>

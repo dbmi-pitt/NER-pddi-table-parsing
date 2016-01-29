@@ -1,0 +1,102 @@
+<table id="Table1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Susceptibility Interpretive Criteria for Imipenem</caption>
+<col align="left" valign="top" width="34%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<col align="center" valign="top" width="11%"></col>
+<tbody>
+<tr stylecode="Botrule">
+<td>Pathogen</td>
+<td align="center" colspan="3">Minimum Inhibitory Concentrations<br/>MIC (µg/mL)</td>
+<td align="center" colspan="3">Disk Diffusion<br/>Zone Diameter (mm)</td>
+</tr>
+<tr stylecode="Botrule">
+<td></td>
+<td>S</td>
+<td>I</td>
+<td>R</td>
+<td>S</td>
+<td>I</td>
+<td>R</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td>≤1.0</td>
+<td>2.0</td>
+<td>≥4.0</td>
+<td>≥23</td>
+<td>20-22</td>
+<td>≤19</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td>≤2</td>
+<td>4</td>
+<td>≥8</td>
+<td>≥19</td>
+<td>16-18</td>
+<td>≤15</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<content stylecode="italics">Acinetobacter </content>spp.</td>
+<td>≤4</td>
+<td>8</td>
+<td>≥16</td>
+<td>≥16</td>
+<td>14-15</td>
+<td>≤13</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<content stylecode="italics">Staphylococcus </content>spp.<footnote>For oxacillin-susceptible <content stylecode="italics">S. aureus</content> and coagulase negative staphylococci results for carbapenems, including imipenem, if tested, should be reported according to the results generated using routine interpretive criteria. For oxacillin-resistant <content stylecode="italics">S. aureus</content> and coagulase negative staphylococci, other beta lactam agents, including carbapenems, may appear active <content stylecode="italics">in vitro</content> but are not effective clinically. Results for beta lactam agents other than cephalosporins with anti-MRSA activity should be reported as resistant or should not be reported.</footnote>
+</td>
+<td>≤4</td>
+<td>8</td>
+<td>≥16</td>
+<td>≥16</td>
+<td>14-15</td>
+<td>≤13</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<content stylecode="italics">Haemophilus influenzae </content>and <content stylecode="italics">H. parainfluenzae</content>
+<footnote>For some organism/antimicrobial combinations, the absence or rare occurrence of resistant strains precludes defining any results categories other than "susceptible". For strains yielding results suggestive of a "non-susceptible" category, organism identification and antimicrobial susceptibility test results should be confirmed.</footnote>
+</td>
+<td>≤4</td>
+<td>-</td>
+<td>-</td>
+<td>≥16</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<footnote>For non-meningitis <content stylecode="italics">S. pneumoniae</content> isolates, penicillin MICs ≤0.06 µg/mL (or oxacillin zones ≥20 mm) indicate susceptibility to imipenem. </footnote>
+</td>
+<td>≤0.12</td>
+<td>0.25-0.5</td>
+<td>≥1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Anaerobes</td>
+<td>≤4.0</td>
+<td>8.0</td>
+<td>≥16.0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>

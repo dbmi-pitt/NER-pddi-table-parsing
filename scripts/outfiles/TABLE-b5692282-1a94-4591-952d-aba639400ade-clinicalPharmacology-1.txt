@@ -1,0 +1,50 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="12%"></col>
+<col width="16%"></col>
+<col width="4%"></col>
+<col width="26%"></col>
+<col width="21%"></col>
+<col width="20%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>    Age-group(years)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>  MeanWeight(kg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>      n</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>  Peak PlasmaConcentration(ng/mL)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Time ofPeak PlasmaConcentration(h)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>MeanEliminationHalf-life(h)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule ">
+<paragraph>18-43 MF</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>84.171.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>88</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>125.8194.4</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>1.91.6</paragraph>
+</td>
+<td align="center">
+<paragraph>4.75.8</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

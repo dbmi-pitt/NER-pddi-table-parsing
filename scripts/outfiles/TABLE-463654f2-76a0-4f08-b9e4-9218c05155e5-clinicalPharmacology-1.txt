@@ -1,0 +1,56 @@
+<table id="id_3655be87-fc04-4e61-b5e8-5667889ade7b" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_bbd908c7-6a21-4edd-aa53-183f01ef01da">Steady-state Pharmacokinetic Parameters Following Multiple Oral and I.V. Doses</caption>
+<col align="left" width="28.340%"></col>
+<col align="left" width="18.540%"></col>
+<col align="left" width="20.120%"></col>
+<col align="left" width="19.420%"></col>
+<col align="left" width="13.580%"></col>
+<tfoot id="id_40a4477b-036e-4ae7-bdef-5165fc51b8bb">
+<tr>
+<td align="left" colspan="5" valign="top">
+<paragraph>
+<sup>a</sup>AUC <sub>0-12h</sub>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="5" valign="top">
+<paragraph>
+<sup>b</sup>AUC 24h=AUC<sub>0-12h</sub> x 2</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="5" stylecode="Lrule Botrule" valign="top">
+<paragraph>
+<sup>c</sup>AUC 24h=AUC<sub>0-8h</sub> x 3</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_bb42b13f-4346-4935-a7f4-b2e1f4f39372">
+<td align="left" stylecode="Toprule" valign="top">Parameters</td>
+<td align="left" stylecode="Toprule" valign="top">500 mg</td>
+<td align="left" stylecode="Toprule" valign="top">400 mg</td>
+<td align="left" stylecode="Toprule" valign="top">750 mg</td>
+<td align="left" valign="top">400 mg</td>
+</tr>
+<tr id="id_1246d997-5954-47e8-9721-3314bb83ee50">
+<td align="left" valign="top">AUC (μg•hr/mL)</td>
+<td align="left" valign="top">q12h, P.O.<br/>13.7<sup>a</sup>
+</td>
+<td align="left" valign="top">q12h, I.V.<br/>12.7<sup>a</sup>
+</td>
+<td align="left" valign="top">q12h, P.O.<br/>31.6<sup>b</sup>
+</td>
+<td align="left" valign="top">q8h, I.V.<br/>32.9<sup>c</sup>
+</td>
+</tr>
+<tr id="id_75e7c07b-c8a7-4390-80e2-b144cd63edaf">
+<td align="left" valign="top">C<sub>max</sub> (μg/mL)</td>
+<td align="left" valign="top">2.97</td>
+<td align="left" valign="top">4.56</td>
+<td align="left" valign="top">3.59</td>
+<td align="left" valign="top">4.07</td>
+</tr>
+</tbody>
+</table>

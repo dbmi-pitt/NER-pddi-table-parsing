@@ -1,0 +1,35 @@
+<table width="50%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7</caption>
+<col align="center" valign="middle" width="50%"></col>
+<col align="center" valign="middle" width="50%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Clarithromycin MIC<br/>(mcg/mL)<footnote id="t7f">These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.</footnote>
+</th>
+<th stylecode="Rrule">Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">≤0.25</td>
+<td stylecode="Rrule">Susceptible (S)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">0.5-1.0</td>
+<td stylecode="Rrule">Intermediate (I)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">≥2.0</td>
+<td stylecode="Rrule">Resistant (R)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Amoxicillin MIC<br/>(mcg/mL)<footnoteref idref="t7f"></footnoteref>,<footnote>There were not enough organisms with MICs greater than 0.25 mcg/mL to determine a resistance breakpoint.</footnote>
+</td>
+<td stylecode="Rrule">Interpretation</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">≤0.25</td>
+<td stylecode="Rrule">Susceptible (S)</td>
+</tr>
+</tbody>
+</table>

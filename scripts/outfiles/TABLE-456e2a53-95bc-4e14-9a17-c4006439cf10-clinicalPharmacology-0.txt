@@ -1,0 +1,39 @@
+<table border="1" id="id_6bde8017-46ba-427a-8e89-428b14d530c6" width="NaN" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="NaN%"></col>
+<col width="NaN%"></col>
+<col width="NaN%"></col>
+<col></col>
+<tfoot id="id_ee673d43-5a77-45aa-b32a-c082a4cf45e6">
+<tr>
+<td align="left" colspan="4" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>*Comparisons with fasting results statistically significant, p&lt;0.05</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_e0046f30-e87e-4ea3-af4f-2970c541286e">
+<td align="left" stylecode="Toprule Botrule Lrule" valign="middle">Mean ± SD</td>
+<td align="left" stylecode="Botrule" valign="middle">C<sub>max </sub>(pg/ml)</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">AUC(0-4) (pg∙hr/ml)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">T<sub>max</sub> (min)</td>
+</tr>
+<tr id="id_4b376939-4c96-4779-b33c-06539e17e06e">
+<td align="left" stylecode="Lrule Botrule" valign="middle">Fasting</td>
+<td align="left" stylecode="Botrule" valign="middle">811 ± 317</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">417 ± 135</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">14 ± 8</td>
+</tr>
+<tr id="id_5e1fcf1f-3d6c-45af-bb4b-25c3934467d2">
+<td align="left" stylecode="Lrule Botrule" valign="middle">With Antacid</td>
+<td align="left" stylecode="Botrule" valign="middle">689 ± 315</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">349 ± 108*</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">20 ± 14</td>
+</tr>
+<tr id="id_c3017c49-9f75-4c5f-b882-7a26e1cabd91">
+<td align="left" stylecode="Lrule Botrule" valign="middle">With High Fat Breakfast</td>
+<td align="left" stylecode="Botrule" valign="middle">303 ± 176*</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">373 ± 111</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">64 ± 79*</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,33 @@
+<table id="table_6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>For testing Streptococcus spp. including Streptococcus pneumoniae <sup>a</sup>
+</caption>
+<colgroup>
+<col width="50%"></col>
+<col width="49%"></col>
+</colgroup>
+<tbody>
+<tr valign="bottom">
+<td stylecode="Toprule Botrule">
+<content stylecode="bold">MIC (µg/mL)</content>
+</td>
+<td align="center" stylecode="Toprule Botrule">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≤ 0.25</td>
+<td align="center">Susceptible (S)</td>
+</tr>
+<tr>
+<td>0.5</td>
+<td align="center">Intermediate (I)</td>
+</tr>
+<tr>
+<td>≥ 1.0</td>
+<td align="center">Resistant (R)</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Toprule">a   These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.</td>
+</tr>
+</tbody>
+</table>

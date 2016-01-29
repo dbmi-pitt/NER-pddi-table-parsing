@@ -1,0 +1,170 @@
+<table id="id_5cc98d15-9ff9-4cc3-b451-557e49807c94" width="428" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_cdb02ddc-3c9c-4ec3-a8fd-eabacc1a29dd">TABLE 1: Table of Approximate Average Pharmacokinetic Parameters (Mean ± SD) Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine</caption>
+<col width="22.4%"></col>
+<col width="14.7%"></col>
+<col width="9.6%"></col>
+<col width="14.7%"></col>
+<col width="10.0%"></col>
+<col width="14.3%"></col>
+<col width="14.3%"></col>
+<tbody>
+<tr id="id_022ef0e7-2391-4b30-90c9-e49af9bca9bc">
+<td align="center" stylecode="Botrule Toprule Rrule" valign="middle">
+<content stylecode="bold">Pharmacokinetic Parameters (units)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Oral</content>
+<footnote id="id-6e8ef1ae-121e-44d0-8e37-04066e6c8a3e">Derived from PO pharmacokinetic studies in 77 normal fasted volunteers</footnote>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Intramuscular</content>
+<footnote id="id-b02d0b47-5f05-46ea-9aed-63f0755f497c">Derived from IM pharmacokinetic studies in 54 normal volunteers</footnote>
+</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Intravenous Bolus</content>
+<footnote id="id-835f300d-5ac5-46fe-83ea-e800eb1e8173">Derived from IV pharmacokinetic studies in 24 normal volunteers</footnote>
+</td>
+</tr>
+<tr id="id_3716b96b-88ab-4189-b1fe-25f570ac59c9">
+<td align="center" stylecode="Botrule Rrule" valign="middle"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">10 mg</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">15 mg</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">30 mg</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">60 mg</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">15 mg</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">30 mg</content>
+</td>
+</tr>
+<tr id="id_7f082567-cc03-42a9-bb4f-bca7d90271b6">
+<td align="left" stylecode="Botrule Rrule" valign="middle">Bioavailability (extent)</td>
+<td align="center" colspan="6" stylecode="Botrule" valign="middle">100%</td>
+</tr>
+<tr id="id_b8790628-3512-4358-8639-aba993817d88">
+<td align="left" stylecode="Botrule Rrule" valign="middle">T (min)
+                                                        <sub>max</sub>
+<footnote id="id-26e3cad6-9fec-494a-8c8f-42fa81d3966d">Time-to-peak plasma concentration</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">44 ± 34</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">33 ± 21
+                                                        <footnote id="id-ea3c248b-d02c-484d-84ec-7fac710a87e8">Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed C and T data
+                                                            <sub>max</sub>
+<sub>max</sub>
+</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">44 ± 29</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">33 ± 21
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.1 ± 0.7
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">2.9 ± 1.8</td>
+</tr>
+<tr id="id_f7a3bfd0-ac3c-4305-845b-478b7e0caa4f">
+<td align="left" stylecode="Botrule Rrule" valign="middle">C (mcg/mL) [single-dose]
+                                                        <sub>max</sub>
+<footnote id="id-50ebbfdf-8d7e-4daf-ad5d-020a4808e276">Peak plasma concentration</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.87 ± 0.22</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.14 ± 0.32
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.42 ± 0.68</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4.55 ± 1.27
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.47 ± 0.51
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">4.65 ± 0.96</td>
+</tr>
+<tr id="id_5025a3b3-43af-437f-ae1b-543be7d5540d">
+<td align="left" stylecode="Botrule Rrule" valign="middle">C (mcg/mL) [steady state qid]
+                                                        <sub>max</sub>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.05 ± 0.26
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.56 ± 0.44
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.11 ± 0.87
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N/A
+                                                        <footnote id="id-0440e706-ff44-40d0-bb70-c164399a369f">Not applicable because 60 mg is only recommended as a single dose</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.09 ± 1.17
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">6.85 ± 2.61</td>
+</tr>
+<tr id="id_cd0cff77-c666-45d8-930a-a298e7ea73d2">
+<td align="left" stylecode="Botrule Rrule" valign="middle">C (mcg/mL) [steady state qid]
+                                                        <sub>min</sub>
+<footnote id="id-f0081c5a-bfc6-4754-9daa-4c3bfdf4eccf">Trough plasma concentration</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.29 ± 0.07
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.47 ± 0.13
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.93 ± 0.26
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N/A</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.61 ± 0.21
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">1.04 ± 0.35</td>
+</tr>
+<tr id="id_c298a003-8b20-4dca-bbf2-afbb5a458422">
+<td align="left" stylecode="Botrule Rrule" valign="middle">C (mcg/mL) [steady state qid]
+                                                        <sub>avg</sub>
+<footnote id="id-88ea713b-7a1f-4c68-8f64-5444ce6e9a4b">Average plasma concentration</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.59 ± 0.20
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.94 ± 0.29
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.88 ± 0.59
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N/A</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.09 ± 0.30
+                                                        <footnoteref idref="id-ea3c248b-d02c-484d-84ec-7fac710a87e8"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">2.17 ± 0.59</td>
+</tr>
+<tr id="id_8abfb0e6-c961-4fed-9b7a-8e30e61c24f7">
+<td align="left" stylecode="Botrule Rrule" valign="middle">V (L/kg)
+                                                        <sub>β</sub>
+<footnote id="id-2f805c15-9bd1-473f-b3bf-9de9a90ec772">Volume of distribution</footnote>
+</td>
+<td align="center" colspan="5" stylecode="Botrule Rrule" valign="middle">0.175 ± 0.039</td>
+<td align="center" stylecode="Botrule" valign="middle">0.210 ± 0.044</td>
+</tr>
+<tr id="id_5757a445-dc65-4410-b38c-0b8cd8e441ba">
+<td align="left" colspan="3" stylecode="Botrule Rrule" valign="middle">% Dose metabolized ≤ 50</td>
+<td align="left" colspan="4" stylecode="Botrule" valign="middle">% Dose excreted in feces = 6</td>
+</tr>
+<tr id="id_9198e416-ff84-4f17-8f94-c98e88ebe771">
+<td align="left" colspan="3" stylecode="Rrule" valign="middle">% Dose excreted in urine = 91</td>
+<td align="left" colspan="4" stylecode="Botrule" valign="middle">% Plasma protein binding = 99</td>
+</tr>
+</tbody>
+</table>

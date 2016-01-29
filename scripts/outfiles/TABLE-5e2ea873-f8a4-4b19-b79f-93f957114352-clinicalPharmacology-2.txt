@@ -1,0 +1,183 @@
+<table id="_Refid_7cdbeb07-fbc2-4419-b76d-6bd77dbd4" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1 All Treatment Failures in a Long-Term Efficacy and Safety Study</caption>
+<col width="36%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="12%"></col>
+<col width="13%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+<th align="center" colspan="2" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">Patients (%)</content>
+<footnote id="_Refid-d3d80b85-9fa0-4e0a-89fd-acbef8bc8">patients with multiple events may be counted more than once for each type of event</footnote>
+</th>
+<th align="center" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+<th align="center" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+<th align="center" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Event</content>
+</th>
+<th align="center" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">Placebo</content>
+<br/>
+<content stylecode="bold">N = 1,503</content>
+</th>
+<th align="center" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">Finasteride</content>
+<br/>
+<content stylecode="bold">N = 1,513</content>
+</th>
+<th align="center" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">Relative</content>
+<br/>
+<content stylecode="bold">Risk</content>
+<footnote id="_Refid-2e3f8dad-f982-4a66-b1e9-904548b6a">Hazard ratio based on log rank test</footnote>
+</th>
+<th align="center" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">95% CI</content>
+</th>
+<th align="center" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">P Value</content>
+<footnoteref idref="_Refid-2e3f8dad-f982-4a66-b1e9-904548b6a"></footnoteref>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>All Treatment Failures</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>37.1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>26.2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>0.68</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>(0.57 to 0.79)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>&lt; 0.001</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Surgical Interventions for BPH</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>10.1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>4.6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.45</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(0.32 to 0.63)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>&lt; 0.001</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Two consecutive<br/>  symptom scores ≥ 20</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>9.2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>6.7</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Bladder Stone</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Incontinence</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.7</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  Renal Failure</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.6</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>  UTI</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>5.7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>4.9</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>  Discontinuation due to<br/>  worsening of BPH, lack<br/>  of improvement, or to<br/>  receive other medical<br/>  treatment</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>21.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>13.3</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,137 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 1</caption>
+<col align="left" valign="top" width="30%"></col>
+<col align="left" valign="top" width="30%"></col>
+<col align="left" valign="top" width="40%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule">PHARMACOKINETIC PARAMETERS</th>
+<th stylecode="Lrule">NORMAL</th>
+<th stylecode="Lrule Rrule">ELDERLY</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3">
+<content stylecode="bold">S   = Sulindac<br/>SF = Sulindac Sulfide<br/>SP = Sulindac Sulfone</content>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule">Tmax</td>
+<td stylecode="Lrule">Age 19–41 (n=24)</td>
+<td stylecode="Lrule Rrule">Age 65–87 (n=12) (400 mg qd)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">(200 mg tablet)</td>
+<td stylecode="Lrule Rrule">2.54 ± 1.52 S</td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule Rrule">5.75 ± 2.81 SF</td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">3.38 ± 2.30 S</td>
+<td stylecode="Lrule Rrule">6.83 ± 4.19 SP</td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">4.88 ± 2.57 SP</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">4.96 ± 2.36 SF</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">(150 mg tablet)</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">3.90 ± 2.30 S</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">5.85 ± 4.49 SP</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr stylecode="BotRule">
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">6.15 ± 3.07 SF</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">Renal Clearance</td>
+<td stylecode="Lrule">(200 mg tablet)</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">68.12 ± 27.56 mL/min S</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">36.58 ± 12.61 mL/min SP</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">(150 mg tablet)</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">74.39 ± 34.15 mL/min S</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr stylecode="BotRule">
+<td stylecode="Lrule">  </td>
+<td stylecode="Lrule">41.75 ± 13.72 mL/min SP</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+<tr>
+<td stylecode="Lrule">Mean effective Half life (h)</td>
+<td stylecode="Lrule">  7.8 S<br/>16.4 SF</td>
+<td stylecode="Lrule Rrule">  </td>
+</tr>
+</tbody>
+</table>

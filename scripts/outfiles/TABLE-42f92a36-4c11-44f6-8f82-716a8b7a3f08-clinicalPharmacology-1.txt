@@ -1,0 +1,42 @@
+<table id="id_db383f16-6386-49ab-b941-77329023e234" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="62%"></col>
+<col width="38%"></col>
+<thead>
+<tr id="id_a50473bd-5259-44a8-b519-906009148a4a">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Organism</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Zone </content>
+<content stylecode="bold">Diameter </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mm</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_c255bb72-ff8e-4b61-a3e0-c6bf5bad56eb">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="italics">Staphylococcus </content>
+<content stylecode="italics">aureus </content>ATCC 25923<br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">29–37<br/>
+</td>
+</tr>
+<tr id="id_81a39326-9e20-465f-8f41-18f07ff6e9bc">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia </content>
+<content stylecode="italics">coli </content>ATCC 25922<br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">17–22<br/>
+</td>
+</tr>
+</tbody>
+</table>

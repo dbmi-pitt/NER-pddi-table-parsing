@@ -1,0 +1,176 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="17%"></col>
+<col width="29%"></col>
+<col width="16%"></col>
+<col width="15%"></col>
+<col width="11%"></col>
+<col width="11%"></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Co-administered Drug</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Dose of Co-administered Drug<sup>a</sup>
+</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Dose of TANZEUM</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Geometric Mean Ratio </content>
+<br/>
+<content stylecode="bold">(Ratio +/- Co-administered Drug)</content>
+<br/>
+<content stylecode="bold">No Effect = 1</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Analyte</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">AUC (90% CI)<sup>b</sup>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub> (90% CI)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="6" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">No dose adjustments of co-administered drug required for the following:</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Simvastatin</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule " valign="middle">
+<paragraph>80 mg</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule " valign="middle">
+<paragraph>50 mg QW for 5 weeks</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Simvastatin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.60 (0.52 – 0.69)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.18 (1.02 – 1.38)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Simvastatin acid</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.36 (1.19 – 1.55)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.98 (1.75 – 2.25)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Digoxin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>0.5 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>50 mg QW for 5 weeks</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Digoxin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.09 (1.01 – 1.18)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.11 (0.98 – 1.26)</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Oral contraceptive<sup>c</sup>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule " valign="middle">
+<paragraph>0.035 mg ethinyl estradiol and 0.5 mg norethindrone</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule " valign="middle">
+<paragraph>50 mg QW for 4 weeks</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Norethindrone</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.00 (0.96 – 1.04)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.04 (0.98 – 1.10)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Levonorgestrel</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.09 (1.06 – 1.14)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.20 (1.11 – 1.29)</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Warfarin</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule " valign="middle">
+<paragraph>25 mg</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule " valign="middle">
+<paragraph>50 mg QW for 5 weeks</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>R-Warfarin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.02 (0.98 – 1.07)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.94 (0.89 – 0.99)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>S-Warfarin</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.99 (0.95 – 1.03)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.93 (0.87 – 0.98)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

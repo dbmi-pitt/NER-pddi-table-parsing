@@ -1,0 +1,64 @@
+<table id="_Refid_e1426b58-82b6-48e0-ae86-00519dfa0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Criteria for Dosage Adjustment in a Randomized Clinical Trial</caption>
+<col width="12%"></col>
+<col width="11%"></col>
+<col width="21%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>WBC/mm<sup>3</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>Platelets</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>Percent of Full Dose</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>≥4,000</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥100,000</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>100</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>≥3,000</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥75,000</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>75</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>≥2,000</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥50,000</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>50</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>&lt;2,000</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>&lt;50,000</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

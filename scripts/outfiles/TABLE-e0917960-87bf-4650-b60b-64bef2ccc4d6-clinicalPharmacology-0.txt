@@ -1,0 +1,137 @@
+<table id="ID64" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Dose Response Relationship for Efficacy</caption>
+<col width="20%"></col>
+<col width="17%"></col>
+<col width="16%"></col>
+<col width="16%"></col>
+<col width="16%"></col>
+<col width="15%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="6">
+<paragraph stylecode="Footnote">* Relief is defined as the reduction of moderate or severe pain to no or mild<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6">
+<paragraph stylecode="Footnote">pain after dosing without use of rescue medication.<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Sumatriptan<br/>succinate injection<br/>Dose (mg)<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">% Patients<br/>With Relief*<br/>at 10 Minutes<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">% Patients<br/>With Relief*<br/>at 30 Minutes<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">% Patients<br/>With Relief*<br/>at 1 Hour<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">% Patients<br/>With Relief*<br/>at 2 Hours<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Adverse<br/>Events<br/>Incidence (%)<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Placebo<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">5<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">15<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">24<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">21<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">55<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">1<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">10<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">40<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">43<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">40<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">63<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">2<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">7<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">23<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">57<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">43<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">63<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">3<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">17<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">47<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">57<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">60<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">77<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">4<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">13<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">37<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">50<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">57<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">80<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">6<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">10<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">63<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">73<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">70<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">83<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">8<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">23<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">57<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">80<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">83<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">93<br/>
+</td>
+</tr>
+</tbody>
+</table>

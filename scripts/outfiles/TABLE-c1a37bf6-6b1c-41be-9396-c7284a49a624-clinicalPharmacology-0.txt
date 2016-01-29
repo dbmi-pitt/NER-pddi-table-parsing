@@ -1,0 +1,66 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="63%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Therapeutic  class</content>
+</th>
+<th align="left" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Specific  concomitant drug studied</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2" stylecode="Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Concomitant drug has no effect on the pharmacokinetics of pregabalin</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Hypoglycemics</paragraph>
+</td>
+<td>
+<paragraph>Glyburide, insulin, metformin</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Diuretics</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Furosemide</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Antiepileptic Drugs</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Tiagabine</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Botrule ">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Concomitant drug has no effect on the pharmacokinetics of pregabalin and pregabalin has no effect on the pharmacokinetics of concomitant drug</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Antiepileptic Drugs</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>Carbamazepine, lamotrigine, phenobarbital, phenytoin, topiramate, valproic acid</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

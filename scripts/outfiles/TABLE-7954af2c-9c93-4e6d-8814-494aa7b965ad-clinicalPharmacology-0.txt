@@ -1,0 +1,43 @@
+<table border="1" id="id_f53d959c-e8bb-4123-8e19-4d4a0ffef9b6" width="297" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_81dcd4a9-ea74-4807-be3c-4d07ef4958c1">Mean Changes From Baseline (SE) in Pharmacodynamic Parameters in Normal Healthy Adult Volunteers
+                                        <footnote id="id-77849e9d-ac27-4643-b1c1-c0a8684f3b79">(SE) = Standard error of the mean</footnote>
+</caption>
+<col width="28.6%"></col>
+<col width="36.0%"></col>
+<col width="35.4%"></col>
+<tbody>
+<tr id="id_5dbb8a4b-55a0-4574-92ea-714828380536">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Treatment</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Total Urine Volume</content>
+<content stylecode="bold">in mL</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Maximum Urine</content>
+<content stylecode="bold">Osmolality in mOsm/kg</content>
+</td>
+</tr>
+<tr id="id_b0bd0e95-53c0-41ec-a88b-6925d034e6c5">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.1 mg PO q8h</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-3689.3 (149.6)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">514.8 (21.9)</td>
+</tr>
+<tr id="id_3d7bf144-1983-4646-9021-410cd5bf784f">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.2 mg PO q8h</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-4429.9 (149.6)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">686.3 (21.9)</td>
+</tr>
+<tr id="id_c5985c66-7413-464c-9b2d-e084c103399e">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.4 mg PO q8h</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-4998.8 (149.6)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">769.3 (21.9)</td>
+</tr>
+<tr id="id_17265c5c-2c3e-4b7b-b7bb-326fed4aee98">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.01 mg IN q8h</td>
+<td align="center" stylecode="Rrule" valign="middle">-4844.9 (149.6)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">754.1 (21.9)</td>
+</tr>
+</tbody>
+</table>

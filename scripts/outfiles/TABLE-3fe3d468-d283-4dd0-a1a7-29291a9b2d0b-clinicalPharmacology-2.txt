@@ -1,0 +1,216 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="18%"></col>
+<col width="21%"></col>
+<col width="21%"></col>
+<col width="21%"></col>
+<col width="19%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="5" stylecode="Rrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold"> Recovery Tests: Percent of Preoperative Baseline Values </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="5" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold"> 16 Males, 22 Females, Ages 20-65         Percent: Mean ± SD</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">60 minutes After Anesthesia</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">90 minutes After Anesthesia</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Maintenance:</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">           Desflurane/N<sub>2</sub>O          </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">           Isoflurane/N<sub>2</sub>O          </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">           Desflurane/N<sub>2</sub>O          </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">           Isoflurane/N<sub>2</sub>O          </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Confusion </content>
+<footnote id="_RefID89148F37845C4F86A3501A432C4C0B47">Visual analog scale (values from 0-100; 100 = baseline)</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>66 ± 6</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>47 ± 8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>75 ± 7<footnote id="_RefID3606CDC371C9437F89F4315648857F42">Differences were statistically significant (p &lt; 0.05) using a two-sample t-test</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>56 ± 8</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Fatigue </content>
+<footnoteref idref="_RefID89148F37845C4F86A3501A432C4C0B47"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>70 ± 9<footnoteref idref="_RefID3606CDC371C9437F89F4315648857F42"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>33 ± 6</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>89 ± 12<footnoteref idref="_RefID3606CDC371C9437F89F4315648857F42"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>47 ± 8</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Drowsiness </content>
+<footnoteref idref="_RefID89148F37845C4F86A3501A432C4C0B47"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>66 ± 5<footnoteref idref="_RefID3606CDC371C9437F89F4315648857F42"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>36 ± 8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>76 ± 7<footnoteref idref="_RefID3606CDC371C9437F89F4315648857F42"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>49 ± 9</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Clumsiness </content>
+<footnoteref idref="_RefID89148F37845C4F86A3501A432C4C0B47"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>65 ± 5</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>49 ± 8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>80 ± 7<footnoteref idref="_RefID3606CDC371C9437F89F4315648857F42"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>57 ± 9</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Comfort </content>
+<footnoteref idref="_RefID89148F37845C4F86A3501A432C4C0B47"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>59 ± 7<footnoteref idref="_RefID3606CDC371C9437F89F4315648857F42"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>30 ± 6</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>60 ± 8<footnoteref idref="_RefID3606CDC371C9437F89F4315648857F42"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>31 ± 7</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">DSST</content>
+<footnote id="_RefID6FE7A31742BE4D888DCB1ACB49B5FCAC">DSST = Digit Symbol Substitution Test</footnote>
+<content stylecode="bold"> score</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>74 ± 4<footnoteref idref="_RefID3606CDC371C9437F89F4315648857F42"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>50 ± 9</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>75 ± 4<footnoteref idref="_RefID3606CDC371C9437F89F4315648857F42"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>55 ± 7</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>
+<content stylecode="bold">Trieger Tests</content>
+<footnote id="_RefIDC728E5EC3EA64869802BC7CF2ECCF135">Trieger Test = Dot Connecting Test</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>67 ± 5</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>74 ± 6</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>90 ± 6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>83 ± 7</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

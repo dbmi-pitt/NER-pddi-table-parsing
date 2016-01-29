@@ -1,0 +1,19 @@
+<table width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Acceptable Quality Control Ranges for Penicillin</caption>
+<col align="center" span="1" valign="top" width="30%"></col>
+<col align="center" span="1" valign="top" width="35%"></col>
+<col align="center" span="1" valign="top" width="35%"></col>
+<tbody>
+<tr>
+<th colspan="1">QC Strain</th>
+<th colspan="1">MIC (mcg/ml)</th>
+<th colspan="1">Disc Diffusion (zone diameter in mm)</th>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Streptococcus pneumoniae</content> ATCC 49619 													</td>
+<td>0.25–1</td>
+<td>24 – 30</td>
+</tr>
+</tbody>
+</table>

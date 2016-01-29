@@ -1,0 +1,26 @@
+<table frame="void" width="376" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top"> Microorganism</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top"></td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="top"> Zone Diameter (mm)</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3" stylecode="BotruleLruleRruleToprule" valign="top"> *Disk susceptibility test performed using Haemophilus Test Medium (HTM)<sup>2</sup>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="italics">H. influenzae</content>
+</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">
+<content stylecode="italics">ATCC 49766</content>
+</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="top">25-31</td>
+</tr>
+</tbody>
+</table>

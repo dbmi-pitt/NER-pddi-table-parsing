@@ -1,0 +1,45 @@
+<table id="_RefIDF644E6C5FAFB48F5821A5A3440EFFC34" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>For testing Haemophilus spp.<footnote id="_RefID7FA41FB42F0D41CD993AC27138DFF609">These zone diameter standards are applicable only to tests with <content stylecode="italics">Haemophilus</content>
+<content stylecode="italics"></content>spp. using HTM<sup>2</sup>.</footnote>
+</caption>
+<col width="36%"></col>
+<col width="38%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Zone diameter (mm)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="bottom">
+<paragraph>≥13</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="bottom">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="bottom">
+<paragraph>11 to 12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="bottom">
+<paragraph>Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule " valign="bottom">
+<paragraph>≤10</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="bottom">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

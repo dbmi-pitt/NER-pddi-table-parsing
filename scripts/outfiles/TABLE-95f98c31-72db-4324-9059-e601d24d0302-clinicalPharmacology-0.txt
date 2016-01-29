@@ -1,0 +1,65 @@
+<table id="table1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1 Pharmacokinetic Parameters of Ibuprofen Suspension [Mean values (% coefficient of variation)]</caption>
+<col align="center" valign="top" width="34%"></col>
+<col align="center" valign="top" width="33%"></col>
+<col align="center" valign="top" width="33%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th stylecode="Lrule">Dose</th>
+<th stylecode="Lrule">200 mg (2.8 mg/kg) in Adults</th>
+<th stylecode="Lrule Rrule">10 mg/kg in Febrile Children</th>
+</tr>
+<tr>
+<th stylecode="Lrule">Formulation</th>
+<th stylecode="Lrule">Suspension</th>
+<th stylecode="Lrule Rrule">Suspension</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Number of Patients</td>
+<td stylecode="Lrule">24</td>
+<td stylecode="Lrule Rrule">18</td>
+</tr>
+<tr>
+<td stylecode="Lrule">AUCinf (µg∙h/mL)</td>
+<td stylecode="Lrule">64</td>
+<td stylecode="Lrule Rrule">155</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule">(27%)</td>
+<td stylecode="Lrule Rrule">(24%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">Cmax (µg/mL)</td>
+<td stylecode="Lrule">19</td>
+<td stylecode="Lrule Rrule">55</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule">(22%)</td>
+<td stylecode="Lrule Rrule">(23%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">Tmax (h)</td>
+<td stylecode="Lrule">0.79</td>
+<td stylecode="Lrule Rrule">0.97</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule">(69%)</td>
+<td stylecode="Lrule Rrule">(57%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">Cl/F (mL/h/kg)</td>
+<td stylecode="Lrule">45.6</td>
+<td stylecode="Lrule Rrule">68.6</td>
+</tr>
+<tr>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule">(22%)</td>
+<td stylecode="Lrule Rrule">(22%)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,26 @@
+<table id="id_c9a8c851-01f7-4165-beb9-89a4ded2045f" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="center" width="50%"></col>
+<col align="center" width="50%"></col>
+<tbody>
+<tr id="id_6088ba61-c9bf-49fe-b742-059729e73081" stylecode="Toprule">
+<td align="left" colspan="2" stylecode="Lrule Botrule Rrule" valign="top">For testing <content stylecode="italics">Haemophilus influenzae </content>and<content stylecode="italics"> Haemophilus parainfluenzae </content>
+<footnote id="id-fef4ca9e-a00c-4d4d-ab5a-721b78322c21">This interpretive standard is applicable only to broth microdilution susceptibility tests with <content stylecode="italics">Haemophilus influenzae </content>and<content stylecode="italics"> Haemophilus parainfluenzae</content> using Haemophilus Test Medium<sup>1</sup>.</footnote>:</td>
+</tr>
+<tr id="id_c8bc8685-6a2c-4fad-bc02-4d3f8677112a">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="underline">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="underline">
+<content stylecode="bold">Interpretation</content>
+</content>
+</td>
+</tr>
+<tr id="id_9ce568e9-cfec-4bdb-8ffd-96a2eb71105c" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">≤ 1</td>
+<td align="left" stylecode="Rrule" valign="top">Susceptible (S)</td>
+</tr>
+</tbody>
+</table>

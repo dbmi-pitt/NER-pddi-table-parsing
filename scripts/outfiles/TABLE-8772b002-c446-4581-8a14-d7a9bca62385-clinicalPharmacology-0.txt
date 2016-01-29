@@ -1,0 +1,39 @@
+<table border="1" frame="hsides" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<th align="center" colspan="1"></th>
+<th align="center" colspan="2">Omeprazole 20 mg</th>
+<th align="center" colspan="2">Omeprazole 40 mg</th>
+</tr>
+<tr>
+<th align="center">Parameter</th>
+<th align="center">Max</th>
+<th align="center">Min</th>
+<th align="center">Max</th>
+<th align="center">Min</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">% Decrease in Basal Acid Output</td>
+<td align="center">78*</td>
+<td align="center">58 to 80</td>
+<td align="center">94*</td>
+<td align="center">80 to 93</td>
+</tr>
+<tr>
+<td align="left">% Decrease in Peak Acid Output</td>
+<td align="center">79*</td>
+<td align="center">50 to 59</td>
+<td align="center">88*</td>
+<td align="center">62 to 68</td>
+</tr>
+<tr>
+<td align="left">% Decrease in 24–hr Intragastric Acidity</td>
+<td align="center"></td>
+<td align="center">80 to 97</td>
+<td align="center"></td>
+<td align="center">92 to 94</td>
+</tr>
+</tbody>
+</table>

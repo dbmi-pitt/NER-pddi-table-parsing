@@ -1,0 +1,158 @@
+<table id="_RefID58" width="101%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to 16 Following Multiple Dosing</caption>
+<col width="16%"></col>
+<col width="15%"></col>
+<col width="24%"></col>
+<col width="17%"></col>
+<col width="28%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule Botrule Lrule Toprule " valign="top"></th>
+<th align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Adults given 50 mg once daily for 7days N=12</content>
+<br/>
+</th>
+<th align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Age 6 to 16 given 0.7 mg/kg once daily for 7 days N=25</content>
+<br/>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top"></td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Parent<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Active Metabolite<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Parent<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Active Metabolite<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>AUC0-24<footnote id="_RefID58_1">Mean ± standard deviation</footnote> (ng·h/mL)<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>442 ±173<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1685 ± 452<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>368 ± 169<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1866 ± 1076<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>C MAX(ng/mL)<footnoteref idref="_RefID58_1"></footnoteref>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>224 ± 82<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>212 ± 73<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>141 ± 88<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>222 ± 127<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>T1/2(h)<footnote id="_RefID58_3">Harmonic mean and standard deviation</footnote>
+<br/>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.1 ± 0.70<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>7.4 ± 2.4<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2.3 ± 0.8<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>5.6 ± 1.2<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>TPEAK (h)<footnote id="_RefID58_4">Median</footnote>
+<br/>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>0.9<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>3.5<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>2<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>4.1<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>CLREN (mL/min)<footnoteref idref="_RefID58_1"></footnoteref>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>56 ± 23<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>20 ± 3<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>53 ± 33<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>17 ± 8<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

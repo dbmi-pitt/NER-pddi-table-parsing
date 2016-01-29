@@ -1,0 +1,107 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50%"></col>
+<col width="50%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="emphasis">
+<content stylecode="bold">Tissue or Fluid</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="emphasis">
+<content stylecode="bold">Ratio of Fluconazole</content>
+</content>
+<br/>
+<content stylecode="emphasis">
+<content stylecode="bold">Tissue (Fluid)/Plasma Concentration</content>
+</content>
+<footnote id="_Ref403480171">Relative to concurrent concentrations in plasma in subjects with normal renal function.</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Cerebrospinal fluid<footnote id="_Ref403480239">Independent of degree of meningeal inflammation.</footnote> </paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.5 to 0.9</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Saliva</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Sputum</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Blister fluid </paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Urine</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>10</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Normal skin </paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>10</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Nails</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Blister skin </paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>2</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Vaginal tissue </paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Vaginal fluid </paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>0.4 to 0.7</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

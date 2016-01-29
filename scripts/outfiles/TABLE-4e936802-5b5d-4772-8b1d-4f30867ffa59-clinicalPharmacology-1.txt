@@ -1,0 +1,94 @@
+<table id="i0898143b-e5de-4341-8965-b96a63c3fdf7" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6 Drug Interactions:  Pharmacokinetic Parameters for COLCRYS (colchicine, USP) tablets in the Presence of the Co-Administered Drug </caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="15%"></col>
+<col align="left" valign="top" width="5%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule">Co-administered Drug</th>
+<th align="center" stylecode="Lrule">Dose of Co-administered Drug (mg)</th>
+<th align="center" stylecode="Lrule">Dose of COLCRYS (mg)</th>
+<th stylecode="Lrule">N</th>
+<th colspan="2" stylecode="Lrule Rrule Botrule">% Change in Colchicine Concentrations from Baseline<br/>(Range: Min - Max)</th>
+</tr>
+<tr stylecode="Botrule">
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule">C<sub>max</sub>
+</th>
+<th stylecode="Lrule Rrule">AUC<sub>0-t</sub>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Cyclosporine</td>
+<td stylecode="Lrule">100 mg<br/>single-dose</td>
+<td stylecode="Lrule">0.6 mg<br/>single-dose</td>
+<td stylecode="Lrule">23</td>
+<td stylecode="Lrule">270.0<br/>(62.0 to 606.9)</td>
+<td stylecode="Lrule Rrule">259.0<br/>(75.8 to 511.9)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Clarithromycin</td>
+<td stylecode="Lrule">250 mg BID,<br/>7 days</td>
+<td stylecode="Lrule">0.6 mg<br/>single-dose</td>
+<td stylecode="Lrule">23</td>
+<td stylecode="Lrule">227.2<br/>(65.7 to 591.1)</td>
+<td stylecode="Lrule Rrule">281.5<br/>(88.7 to 851.6)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Ketoconazole</td>
+<td stylecode="Lrule">200 mg BID,<br/>5 days</td>
+<td stylecode="Lrule">0.6 mg<br/>single-dose</td>
+<td stylecode="Lrule">24</td>
+<td stylecode="Lrule">101.7<br/>(19.6 to 219.0)</td>
+<td stylecode="Lrule Rrule">212.2<br/>(76.7 to 419.6)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Ritonavir</td>
+<td stylecode="Lrule">100 mg BID,<br/>5 days</td>
+<td stylecode="Lrule">0.6 mg<br/>single-dose</td>
+<td stylecode="Lrule">18</td>
+<td stylecode="Lrule">184.4<br/>(79.2 to 447.4)</td>
+<td stylecode="Lrule Rrule">296.0<br/>(53.8 to 924.4)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Verapamil</td>
+<td stylecode="Lrule">240 mg daily,<br/>5 days</td>
+<td stylecode="Lrule">0.6 mg<br/>single-dose</td>
+<td stylecode="Lrule">24</td>
+<td stylecode="Lrule">40.1<br/>(-47.1 to 149.5)</td>
+<td stylecode="Lrule Rrule">103.3<br/>(-9.8 to 217.2)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Diltiazem</td>
+<td stylecode="Lrule">240 mg daily,<br/>7 days</td>
+<td stylecode="Lrule">0.6 mg<br/>single-dose</td>
+<td stylecode="Lrule">20</td>
+<td stylecode="Lrule">44.2<br/>(-46.0 to 318.3)</td>
+<td stylecode="Lrule Rrule">93.4<br/>(-30.2 to 338.6)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Azithromycin</td>
+<td stylecode="Lrule">500 mg × 1 day, then<br/>250 mg × 4 days</td>
+<td stylecode="Lrule">0.6 mg<br/>single-dose</td>
+<td stylecode="Lrule">21</td>
+<td stylecode="Lrule">21.6<br/> (-41.7 to 222.0)</td>
+<td stylecode="Lrule Rrule">57.1<br/>(-24.3 to 241.1)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">Grapefruit Juice</td>
+<td stylecode="Lrule">240 mL BID,<br/>4 days</td>
+<td stylecode="Lrule">0.6 mg<br/>single-dose</td>
+<td stylecode="Lrule">21</td>
+<td stylecode="Lrule">-2.55<br/>(-53.4 to 55.0)</td>
+<td stylecode="Lrule Rrule">-2.36<br/>(-46.4 to 62.2)</td>
+</tr>
+</tbody>
+</table>

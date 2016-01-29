@@ -1,0 +1,79 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "></td>
+<td align="center" colspan="8" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Total Daily Dose (mg) </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "></td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">337.5 mg </td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">450 mg </td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">675 mg </td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">900 mg </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Interval </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">msec </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">% </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">msec </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">% </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">msec </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">% </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">msec </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">% </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> RR</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">-14.5 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">-1.8 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">30.6 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">3.8 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">31.5 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">3.9 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">41.7 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">5.1 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> PR</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">3.6 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">2.1 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">19.1 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">11.6 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">28.9 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">17.8 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">35.6 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">21.9 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> QRS</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">5.6 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">6.4 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">5.5 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">6.1 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">7.7 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">8.4 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">15.6 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">17.3 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> QTc</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">2.7 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.7 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">-7.5 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">-1.8 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">5.0 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1.2 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">14.7 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">3.7 </td>
+</tr>
+</tbody>
+</table>

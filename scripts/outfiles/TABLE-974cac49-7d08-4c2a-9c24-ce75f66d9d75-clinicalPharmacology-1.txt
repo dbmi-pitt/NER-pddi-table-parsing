@@ -1,0 +1,48 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6.       Susceptibility Test Result Interpretive Criteria for Doripenem</caption>
+<col width="142"></col>
+<col width="273"></col>
+<col width="213"></col>
+<tbody>
+<tr>
+<td stylecode="     Toprule     ">  </td>
+<td align="center" stylecode="     Toprule     "> Minimum Inhibitory<br/>Concentrations (µg/mL)</td>
+<td align="center" stylecode="     Toprule     "> Disk Diffusion<br/>(zone diameters in mm)</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     "> Pathogen</td>
+<td align="center" stylecode="     Toprule     "> Susceptible<footnote id="FOOT_5361">The current absence of resistant isolates precludes defining any results other than "Susceptible". Isolates yielding MIC or disk diffusion results suggestive of "Nonsusceptible" should be subjected to additional testing.</footnote>
+</td>
+<td align="center" stylecode="     Toprule     "> Susceptible<footnoteref idref="FOOT_5361"></footnoteref>
+</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td align="center"> ≤ 0.5</td>
+<td align="center"> ≥ 23</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center"> ≤ 2</td>
+<td align="center"> ≥ 24</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Acinetobacter baumannii</content>
+</td>
+<td align="center"> ≤ 1</td>
+<td align="center"> ≥ 17</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">Streptococcus anginosus</content> group (<content stylecode="italics">S. constellatus</content> and <content stylecode="italics">S. intermedius</content>)</td>
+<td align="center"> ≤ 0.12</td>
+<td align="center"> ≥ 24</td>
+</tr>
+<tr>
+<td> Anaerobes</td>
+<td align="center"> ≤ 1</td>
+<td align="center"> n/a</td>
+</tr>
+</tbody>
+</table>

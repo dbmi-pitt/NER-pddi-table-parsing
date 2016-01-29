@@ -1,0 +1,120 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Select Mean (± S.D.) Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of Metformin Hydrochloride Tablets</caption>
+<col width="26.6%"></col>
+<col width="27.8%"></col>
+<col width="24.0%"></col>
+<col width="21.6%"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule     "> <content stylecode="bold">Subject Groups: metformin hydrochloride tablets dose</content>
+<footnote id="FOOT_3551">All doses given fasting except the first 18 doses of the multiple dose studies</footnote>
+<content stylecode="bold">(number of subjects)</content>
+</td>
+<td stylecode="     Botrule     "> <content stylecode="bold">C<sub>max</sub>
+</content>
+<footnote id="FOOT_3552">Peak plasma concentration</footnote>
+<content stylecode="bold">(mcg/mL)</content>
+</td>
+<td stylecode="     Botrule     "> <content stylecode="bold">T<sub>max</sub>
+</content>
+<footnote id="FOOT_3553">Time to peak plasma concentration</footnote>
+<content stylecode="bold">(hrs)</content>
+</td>
+<td stylecode="     Botrule          Rrule     "> <content stylecode="bold">Renal Clearance (mL/min)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">Healthy, nondiabetic adults:</content>
+</td>
+<td stylecode="     Botrule     "> </td>
+<td stylecode="     Botrule     "> </td>
+<td stylecode="     Botrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> 500 mg single dose (24)</td>
+<td stylecode="     Botrule     "> 1.03 (± 0.33)</td>
+<td stylecode="     Botrule     "> 2.75 (± 0.81)</td>
+<td stylecode="     Botrule          Rrule     "> 600 (± 132)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> 850 mg single dose (74)<footnote id="FOOT_3554">Combined results (average means) of five studies: mean age 32 years (range 23 to 59 years)</footnote>
+</td>
+<td stylecode="     Botrule     "> 1.60 (± 0.38)</td>
+<td stylecode="     Botrule     "> 2.64 (± 0.82)</td>
+<td stylecode="     Botrule          Rrule     "> 552 (± 139)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> 850 mg three times daily for 19 doses<footnote id="FOOT_3555">Kinetic study done following dose 19, given fasting</footnote> (9)</td>
+<td stylecode="     Botrule     "> 2.01 (± 0.42)</td>
+<td stylecode="     Botrule     "> 1.79 (± 0.94)</td>
+<td stylecode="     Botrule          Rrule     "> 642 (± 173)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">Adults with type 2 diabetes:</content>
+</td>
+<td stylecode="     Botrule     "> </td>
+<td stylecode="     Botrule     "> </td>
+<td stylecode="     Botrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> 850 mg single dose (23)</td>
+<td stylecode="     Botrule     "> 1.48 (± 0.5)</td>
+<td stylecode="     Botrule     "> 3.32 (± 1.08)</td>
+<td stylecode="     Botrule          Rrule     "> 491 (± 138)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> 850 mg three times daily for 19 doses<footnoteref idref="FOOT_3555"></footnoteref> (9)</td>
+<td stylecode="     Botrule     "> 1.90 (± 0.62)</td>
+<td stylecode="     Botrule     "> 2.01 (± 1.22)</td>
+<td stylecode="     Botrule          Rrule     "> 550 (± 160)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">Elderly</content>
+<footnote id="FOOT_3556">Elderly subjects, mean age 71 years (range 65 to 81 years)</footnote>, <content stylecode="bold">healthy nondiabetic adults:</content>
+</td>
+<td stylecode="     Botrule     "> </td>
+<td stylecode="     Botrule     "> </td>
+<td stylecode="     Botrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> 850 mg single dose (12)</td>
+<td stylecode="     Botrule     "> 2.45 (± 0.70)</td>
+<td stylecode="     Botrule     "> 2.71 (± 1.05)</td>
+<td stylecode="     Botrule          Rrule     "> 412 (± 98)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">Renal-impaired adults:</content>
+</td>
+<td stylecode="     Botrule     "> </td>
+<td stylecode="     Botrule     "> </td>
+<td stylecode="     Botrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">850 mg single dose</content>
+</td>
+<td stylecode="     Botrule     "> </td>
+<td stylecode="     Botrule     "> </td>
+<td stylecode="     Botrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">Mild</content> (CL<sub>cr</sub>
+<footnote id="FOOT_3557">CL<sub>cr</sub> = creatinine clearance normalized to body surface area of 1.73 m<sup>2</sup>
+</footnote> 61 to 90 mL/min) (5)</td>
+<td stylecode="     Botrule     "> 1.86 (± 0.52)</td>
+<td stylecode="     Botrule     "> 3.20 (± 0.45)</td>
+<td stylecode="     Botrule          Rrule     "> 384 (± 122)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">Moderate</content> (CL<sub>cr</sub> 31 to 60 mL/min) (4)</td>
+<td stylecode="     Botrule     "> 4.12 (± 1.83)</td>
+<td stylecode="     Botrule     "> 3.75 (±0.50)</td>
+<td stylecode="     Botrule          Rrule     "> 108 (± 57)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> <content stylecode="bold">Severe</content> (CL<sub>cr</sub> 10 to 30 mL/min) (6)</td>
+<td stylecode="     Botrule     "> 3.93 (± 0.92)</td>
+<td stylecode="     Botrule     "> 4.01 (± 1.10)</td>
+<td stylecode="     Botrule          Rrule     "> 130 (± 90)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,110 @@
+<table width="99.02%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="19%"></col>
+<col width="29%"></col>
+<col width="11%"></col>
+<col width="25%"></col>
+<col width="16%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Age</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Valved Holding Chamber</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">N</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">AUC<sub>0-τ</sub>, pg•h/mL</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(95% CI)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>, pg/mL</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(95% CI)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>6 to &lt;12 Months</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Yes</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>17</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>141 (88, 227)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>19 (13, 29)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>1 to &lt;4 Years</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Yes</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>164</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>143 (131, 157)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>20 (18, 21)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>4 to 11 Years</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>No</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>14</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>68 (48, 97)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>11 (8, 16)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>≥12 Years</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>No</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>20</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>149 (106, 210)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>20 (15, 27)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

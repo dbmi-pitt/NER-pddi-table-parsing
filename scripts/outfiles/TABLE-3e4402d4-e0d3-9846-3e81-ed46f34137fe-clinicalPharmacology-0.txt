@@ -1,0 +1,47 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center"> <br/>
+<content stylecode="bold">Dose</content>
+<br/>
+<content stylecode="bold">(mg)</content>
+</td>
+<td align="center"> <content stylecode="bold">Maximum Serum <br/>Concentration</content>
+<content stylecode="bold">    <br/>(</content>
+<content stylecode="bold">mcg</content>
+<content stylecode="bold">/mL)</content>
+</td>
+<td align="center"> <content stylecode="bold">Area Under Curve<br/>
+</content>
+<content stylecode="bold">(AUC)  </content>
+<br/>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mcg•hr</content>
+<content stylecode="bold">/mL)</content>
+</td>
+</tr>
+<tr>
+<td align="center"> 250</td>
+<td align="center"> 1.2</td>
+<td align="center"> 4.8</td>
+</tr>
+<tr>
+<td align="center"> 500</td>
+<td align="center"> 2.4</td>
+<td align="center"> 11.6</td>
+</tr>
+<tr>
+<td align="center"> 750</td>
+<td align="center"> 4.3</td>
+<td align="center"> 20.2</td>
+</tr>
+<tr>
+<td align="center"> 1000</td>
+<td align="center"> 5.4</td>
+<td align="center"> 30.8</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,406 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="medium1pt1pt"></col>
+<col width="medium1pt1ptmedium"></col>
+<col width="medium1pt1ptmedium"></col>
+<col width="medium1pt1ptmedium"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Coadministered Drug and Dosing Regimen</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  <content stylecode="bold">Pravastatin  </content>  </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Dose (mg) </content>
+</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Change in AUC</content>
+</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Change in C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Cyclosporine 5 mg/kg single dose</paragraph>
+</td>
+<td>
+<paragraph>40 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↑282%</paragraph>
+</td>
+<td>
+<paragraph>↑327%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Clarithromycin 500 mg BID for 9 days</paragraph>
+</td>
+<td>
+<paragraph>40 mg OD for 8 days</paragraph>
+</td>
+<td>
+<paragraph>↑110%</paragraph>
+</td>
+<td>
+<paragraph>↑128%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Boceprevir 800 mg TID for 6 days</paragraph>
+</td>
+<td>
+<paragraph>40 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↑63%</paragraph>
+</td>
+<td>
+<paragraph>↑49%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Darunavir 600 mg BID/Ritonavir 100 mg BID for 7 days</paragraph>
+</td>
+<td>
+<paragraph>40 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↑81%</paragraph>
+</td>
+<td>
+<paragraph>↑63%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Colestipol 10 g single dose</paragraph>
+</td>
+<td>
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↓47%</paragraph>
+</td>
+<td>
+<paragraph>↓53%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Cholestyramine 4 g single dose</paragraph>
+</td>
+<td>
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td>  </td>
+<td stylecode="     Rrule     "> </td>
+</tr>
+<tr>
+<td>
+<paragraph>Administered simultaneously</paragraph>
+</td>
+<td>  </td>
+<td stylecode="     Rrule     ">
+<paragraph>↓40%</paragraph>
+</td>
+<td>
+<paragraph>↓39%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Administered 1 hour prior to<br/>cholestyramine</paragraph>
+</td>
+<td>  </td>
+<td stylecode="     Rrule     ">
+<paragraph>↑12%</paragraph>
+</td>
+<td>
+<paragraph>↑30%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Administered 4 hours after<br/>cholestyramine</paragraph>
+</td>
+<td>  </td>
+<td stylecode="     Botrule          Rrule     ">
+<paragraph>↓12%</paragraph>
+</td>
+<td>
+<paragraph>↓6.8%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Cholestyramine 24 g OD for 4 weeks</paragraph>
+</td>
+<td>
+<paragraph>20 mg BID for 8 weeks</paragraph>
+</td>
+<td>
+<paragraph>↓51%</paragraph>
+</td>
+<td>
+<paragraph>↑4.9%</paragraph>
+</td>
+</tr>
+<tr>
+<td>  </td>
+<td stylecode="     Rrule     ">
+<paragraph>5 mg BID for 8 weeks </paragraph>
+</td>
+<td>
+<paragraph>↓38%</paragraph>
+</td>
+<td>
+<paragraph>↑23%</paragraph>
+</td>
+</tr>
+<tr>
+<td>  </td>
+<td stylecode="     Botrule          Rrule     ">
+<paragraph>10 mg BID for 8 weeks </paragraph>
+</td>
+<td>
+<paragraph>↓18%</paragraph>
+</td>
+<td>
+<paragraph>↓33%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Fluconazole</paragraph>
+</td>
+<td>  </td>
+<td>  </td>
+<td stylecode="    Lrule          Rrule     ">  </td>
+</tr>
+<tr>
+<td>
+<paragraph>200 mg IV for 6 days</paragraph>
+</td>
+<td>
+<paragraph>20 mg PO + 10 mg IV</paragraph>
+</td>
+<td>
+<paragraph>↓34%</paragraph>
+</td>
+<td>
+<paragraph>↓33%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>200 mg PO for 6 days</paragraph>
+</td>
+<td>
+<paragraph>20 mg PO + 10 mg IV</paragraph>
+</td>
+<td>
+<paragraph>↓16%</paragraph>
+</td>
+<td>
+<paragraph>↓16%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Kaletra 400 mg/100 mg BID for 14 days</paragraph>
+</td>
+<td>
+<paragraph>20 mg OD for 4 days</paragraph>
+</td>
+<td>
+<paragraph>↑33%</paragraph>
+</td>
+<td>
+<paragraph>↑26%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Verapamil IR 120 mg for 1 day and Verapamil ER 480 mg for 3 days</paragraph>
+</td>
+<td>
+<paragraph>40 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↑31%</paragraph>
+</td>
+<td>
+<paragraph>↑42%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Cimetidine 300 mg QID for 3 days</paragraph>
+</td>
+<td>
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↑30%</paragraph>
+</td>
+<td>
+<paragraph>↑9.8%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Antacids 15 mL QID for 3 days</paragraph>
+</td>
+<td>
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↓28%</paragraph>
+</td>
+<td>
+<paragraph>↓24%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Digoxin 0.2 mg OD for 9 days</paragraph>
+</td>
+<td>
+<paragraph>20 mg OD for 9 days</paragraph>
+</td>
+<td>
+<paragraph>↑23%</paragraph>
+</td>
+<td>
+<paragraph>↑26%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Probucol 500 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↑14%</paragraph>
+</td>
+<td>
+<paragraph>↑24%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Warfarin 5 mg OD for 6 days</paragraph>
+</td>
+<td>
+<paragraph>20 mg BID for 6 days</paragraph>
+</td>
+<td>
+<paragraph>↓13%</paragraph>
+</td>
+<td>
+<paragraph>↑6.7%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Itraconazole 200 mg OD for 30 days</paragraph>
+</td>
+<td>
+<paragraph>40 mg OD for 30 days</paragraph>
+</td>
+<td>
+<paragraph>↑11% (compared to Day 1)</paragraph>
+</td>
+<td>
+<paragraph>↑17% (compared to Day 1)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Gemfibrozil 600 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↓7.0%</paragraph>
+</td>
+<td>
+<paragraph>↓20%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Aspirin 324 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↑4.7%</paragraph>
+</td>
+<td>
+<paragraph>↑8.9%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Niacin 1 g single dose</paragraph>
+</td>
+<td>
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↓3.6%</paragraph>
+</td>
+<td>
+<paragraph>↓8.2%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Diltiazem</paragraph>
+</td>
+<td>
+<paragraph>20 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↑2.7%</paragraph>
+</td>
+<td>
+<paragraph>↑30%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Grapefruit juice</paragraph>
+</td>
+<td>
+<paragraph>40 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>↓1.8%</paragraph>
+</td>
+<td>
+<paragraph>↑3.7%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

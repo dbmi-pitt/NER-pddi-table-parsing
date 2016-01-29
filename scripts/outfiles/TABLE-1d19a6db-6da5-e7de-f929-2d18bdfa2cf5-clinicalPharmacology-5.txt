@@ -1,0 +1,65 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="25%"></col>
+<col align="left" width="25%"></col>
+<col align="left" width="25%"></col>
+<thead>
+<tr>
+<th>Microorganism</th>
+<th></th>
+<th>MIC Range (µg/mL)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<content stylecode="Italics">Escherichia coli</content>
+</td>
+<td>ATCC 25922</td>
+<td>0.015–0.12</td>
+</tr>
+<tr>
+<td>
+<content stylecode="Italics">Haemophilus influenzae</content>
+</td>
+<td>ATCC 49247<footnote>This quality control range is applicable to only H.
+influenzae ATCC 49247 tested by a microdilution procedure using Haemophilus
+Test Medium (HTM).</footnote>
+</td>
+<td>0.016–0.06</td>
+</tr>
+<tr>
+<td>
+<content stylecode="Italics">Neisseria gonorrhoeae </content>
+</td>
+<td>ATCC 49226<footnote>This quality control range is applicable only to N.
+gonorrhoeae ATCC 49226 tested by an agar dilution procedure using GC agar
+base with 1% defined growth supplement incubated in 5% CO<sub>2</sub>.</footnote>
+</td>
+<td>0.004–0.016</td>
+</tr>
+<tr>
+<td>
+<content stylecode="Italics">Pseudomonas aeruginosa</content>
+</td>
+<td>ATCC 27853</td>
+<td>1–8</td>
+</tr>
+<tr>
+<td>
+<content stylecode="Italics">Staphylococcus aureus</content>
+</td>
+<td>ATCC 29213</td>
+<td>0.12–1</td>
+</tr>
+<tr>
+<td>
+<content stylecode="Italics">Streptococcus pneumoniae</content>
+</td>
+<td>ATCC 49619<footnote>This quality control range is applicable to only S.
+pneumoniae ATCC 49619 tested by a microdilution procedure using cation-adjusted
+Mueller-Hinton broth with 2–5% lysed horse blood.</footnote>
+</td>
+<td>1–4</td>
+</tr>
+</tbody>
+</table>

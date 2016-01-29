@@ -1,0 +1,74 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="5" stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Steady-state Pharmacokinetic Parameter</content>
+<br/>
+<content stylecode="bold">Following Multiple Oral and IV Doses</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Parameters </paragraph>
+</td>
+<td>
+<paragraph>500 mg<br/>q12h, P.O. </paragraph>
+</td>
+<td>
+<paragraph>400 mg<br/>q12h, IV </paragraph>
+</td>
+<td>
+<paragraph>750 mg<br/>q12h, P.O. </paragraph>
+</td>
+<td>
+<paragraph>400 mg<br/>q8h, IV </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>AUC (mcg·hr/mL)</paragraph>
+</td>
+<td>
+<paragraph>13.7<footnote id="_Ref343503053">AUC <sub>0-12h</sub>
+</footnote>
+</paragraph>
+</td>
+<td>
+<paragraph>12.7<footnoteref idref="_Ref343503053"></footnoteref>
+</paragraph>
+</td>
+<td>
+<paragraph>31.6<footnote id="_Ref343503094">AUC 24h=AUC <sub>0-12h</sub> × 2</footnote>
+</paragraph>
+</td>
+<td>
+<paragraph>32.9<footnote id="_Ref343503119">AUC 24h=AUC <sub>0-8h</sub> × 3</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>C<sub>max</sub> (mcg/mL) </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>2.97 </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>4.56 </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>3.59 </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>4.07 </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

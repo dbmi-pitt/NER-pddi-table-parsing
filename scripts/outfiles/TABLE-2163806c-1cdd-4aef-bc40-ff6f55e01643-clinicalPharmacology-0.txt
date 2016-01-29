@@ -1,0 +1,53 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="34%"></col>
+<col align="center" width="33%"></col>
+<col align="center" width="33%"></col>
+<thead>
+<tr>
+<th valign="top">Pharmacokinetic Parameters (Mean)</th>
+<th valign="bottom">Total n=12</th>
+<th valign="bottom"></th>
+</tr>
+<tr>
+<th></th>
+<th>
+<content stylecode="underline">Day 1</content>
+</th>
+<th>
+<content stylecode="underline">Day 5</content>
+</th>
+</tr>
+<tr>
+<th stylecode="Botrule"></th>
+<th stylecode="Botrule"></th>
+<th stylecode="Botrule"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C<sub>max</sub> (µg/mL)</td>
+<td>0.41</td>
+<td>0.24</td>
+</tr>
+<tr>
+<td>T<sub>max</sub> (h)</td>
+<td>2.5</td>
+<td>3.2</td>
+</tr>
+<tr>
+<td>AUC<sub>0–24</sub> (µg∙h/mL)</td>
+<td>2.6</td>
+<td>2.1</td>
+</tr>
+<tr>
+<td>C<sub>min</sub> (µg/mL)</td>
+<td>0.05</td>
+<td>0.05</td>
+</tr>
+<tr>
+<td>Urinary Excret. (% dose)</td>
+<td>4.5</td>
+<td>6.5</td>
+</tr>
+</tbody>
+</table>

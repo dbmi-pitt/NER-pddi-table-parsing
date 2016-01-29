@@ -1,0 +1,71 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="58%"></col>
+<col width="42%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Gram-Positive Bacteria</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Gram-Negative Bacteria</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>
+<content stylecode="italics">Enterococcus faecalis</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule ">
+<paragraph>
+<content stylecode="italics">Escherichia coli</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>
+<content stylecode="italics">Staphylococcus </content>spp.</paragraph>
+</td>
+<td stylecode="Rrule Lrule ">
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule ">
+<paragraph>
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>Alpha and β-hemolytic streptococci.</paragraph>
+</td>
+<td stylecode="Rrule Lrule ">
+<paragraph>
+<content stylecode="italics">Proteus mirabilis</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule "></td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>
+<content stylecode="italics">Helicobacter pylori</content>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

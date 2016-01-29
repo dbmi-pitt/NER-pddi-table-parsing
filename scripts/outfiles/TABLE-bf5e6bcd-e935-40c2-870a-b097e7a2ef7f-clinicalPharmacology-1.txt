@@ -1,0 +1,91 @@
+<table id="table_10" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 11: Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV Doses </caption>
+<col width="18%"></col>
+<col width="20%"></col>
+<col width="25%"></col>
+<col width="21%"></col>
+<col width="16%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Parameters </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">500 mg</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">400 mg</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">750 mg</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">400 mg</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule "></td>
+<td align="center" stylecode="Toprule ">
+<paragraph>every 12 hours, orally </paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>every 12 hours, intravenous</paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>every 12 hours, orally.</paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>every 8 hours, IV</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<paragraph>AUC (mcg•hr/mL) </paragraph>
+</td>
+<td align="center">
+<paragraph>13.7<footnote id="_Ref413660459">AUC<sub>0–12h</sub>
+</footnote>
+</paragraph>
+</td>
+<td align="center">
+<paragraph>12.7<footnoteref idref="_Ref413660459"></footnoteref>
+</paragraph>
+</td>
+<td align="center">
+<paragraph>31.6<footnote id="_Ref413660541">AUC<sub>24h</sub> = AUC<sub>0–12h </sub>x 2</footnote>
+</paragraph>
+</td>
+<td align="center">
+<paragraph>32.9<footnote id="_Ref413660549">AUC<sub>24h</sub> = AUC<sub>0–8h </sub>x 3</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>C<sub>max</sub> (mcg/mL) </paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>2.97</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>4.56</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>3.59</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>4.07</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

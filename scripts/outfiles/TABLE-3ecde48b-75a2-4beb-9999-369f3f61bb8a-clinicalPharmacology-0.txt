@@ -1,0 +1,103 @@
+<table id="t5" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5: Mean (Standard Deviation) Pharmacokinetic Parameters of Ceftaroline IV in Healthy Adults
+</caption>
+<col align="left" width="28.857%"></col>
+<col align="left" width="32.656%"></col>
+<col align="left" width="38.487%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="3" stylecode="Lrule Rrule" valign="top">
+<paragraph stylecode="footnote">
+<sup>a</sup> Reported as median (range)
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="3" stylecode="Botrule Lrule Rrule" valign="top">
+<paragraph stylecode="footnote">
+<sup>b</sup> AUC<sub>0-∞,</sub> for single-dose administration; AUC<sub>0-tau,</sub> for multiple-dose administration; C<sub>max</sub>, maximum observed concentration; T<sub>max</sub>, time of C<sub>max</sub>; AUC<sub>0-∞</sub>, area under concentration-time curve from time 0 to infinity; AUC<sub>0-tau</sub>, area under concentration-time curve over dosing interval (0-12 hours); T<sub>1/2</sub>, terminal elimination half-life; CL, plasma clearance
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule Botrule Lrule Rrule" valign="bottom">
+<content stylecode="bold">Parameter</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="bottom">
+<content stylecode="bold">Single 600 mg Dose Administered as a 1-Hour Infusion</content> (n=6)
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="bottom">
+<content stylecode="bold">Multiple 600 mg Doses Administered Every 12 Hours as 1-Hour Infusions for 14 Days</content> (n=6)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">C</content>
+<content stylecode="bold">
+<sub>max
+</sub>
+</content>
+<content stylecode="bold">(mcg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">19.0 (0.71)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">21.3 (4.10)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="bottom">
+<content stylecode="bold">T</content>
+<content stylecode="bold">
+<sub>max
+</sub>
+</content>
+<content stylecode="bold">(h)</content>
+<content stylecode="bold">
+<sup>a</sup>
+</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">1.00 (0.92-1.25)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">0.92 (0.92-1.08)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">AUC (mcg•h/mL)
+</content>
+<content stylecode="bold">
+<sup>b</sup>
+</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">56.8 (9.31)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">56.3 (8.90)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">T</content>
+<content stylecode="bold">
+<sub>1/2
+</sub>
+</content>
+<content stylecode="bold">(h)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.60 (0.38)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.66 (0.40)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">CL (L/h)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">9.58 (1.85)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">9.60 (1.40)
+</td>
+</tr>
+</tbody>
+</table>

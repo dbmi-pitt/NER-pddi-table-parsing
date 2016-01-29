@@ -1,0 +1,73 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="31%"></col>
+<col width="16%"></col>
+<col width="15%"></col>
+<col width="15%"></col>
+<col width="14%"></col>
+<tbody>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>Dose </paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>Cmax (mcg/mL) </paragraph>
+</td>
+<td colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>AUC0-24 (mcg*h/mL) </paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Amoxicillin and Clavulanate potassium </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Amoxicillin </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Clavulanate potassium </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Amoxicillin </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Clavulanate potassium </paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>400/57 mg </paragraph>
+<paragraph>(5 mL of suspension) </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>6.94 ± 1.24 </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>1.10 ± 0.42 </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>17.29 ± 2.28 </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>2.34 ± 0.94 </paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>400/57 mg </paragraph>
+<paragraph>(1 chewable tablet) </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>6.67 ± 1.37 </paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>1.03 ± 0.33 </paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>17.24 ± 2.64 </paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>2.17 ± 0.73 </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

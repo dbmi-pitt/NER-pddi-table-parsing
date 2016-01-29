@@ -1,0 +1,113 @@
+<table border="0" cellpadding="0" cellspacing="0" width="border-collapse: collapse" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold"> </content>
+<br/>
+<content stylecode="bold"> </content>
+<br/>
+<content stylecode="bold"> </content>
+<br/>
+<content stylecode="bold">Pathogen</content>
+<br/>
+</td>
+<td align="center" colspan="3" stylecode="Rrule" valign="top">
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+<br/>
+</td>
+<td align="center" colspan="3" stylecode="Rrule" valign="top">
+<content stylecode="bold">Disk Diffusion </content>
+<br/>
+<content stylecode="bold">(zone diameters in mm)</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">S</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">I</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">R</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">S</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">I</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">R</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus </content>influenzae* <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 4<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">--</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">--</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥ 12<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">--</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">--</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 2<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥ 8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥ 18<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14 to17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 13<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Streptococci including <br/>
+<content stylecode="italics">S. pneumoniae</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>≤ 0.5<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">1<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>≥ 2<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥ 18<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14 to 17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 13<br/>
+</td>
+</tr>
+</tbody>
+</table>

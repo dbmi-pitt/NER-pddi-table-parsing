@@ -1,0 +1,66 @@
+<table id="id_4c987717-dfb8-40ed-8817-9122df40a141" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="63%"></col>
+<col width="37%"></col>
+<tfoot id="id_cf2b5fa9-ca66-443f-ade0-7fbda05e0475">
+<tr>
+<td align="left" colspan="2" stylecode="Rrule" valign="top">
+<paragraph>
+<sup>*</sup> These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<sup>†</sup>            There were not enough organisms with MICs greater than 0.25 mcg/mL to determine a resistance breakpoint.<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_9d962f39-44fc-4f39-b41f-48bce49bba55">
+<td align="center" colspan="2" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">Table </content>
+<content stylecode="bold">7</content>
+<br/>
+</td>
+</tr>
+<tr id="id_d0029a9a-813e-4f07-a4cd-d0ae72fb5592">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">Clarithromycin MIC (mcg/mL)*<br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Interpretation<br/>
+</td>
+</tr>
+<tr id="id_87963132-cb5a-4620-92de-f9bce3c3a268">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≤0.25<br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Susceptible (S)<br/>
+</td>
+</tr>
+<tr id="id_e6bfa6e4-fa09-45b4-b992-9375139b4544">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.5 to 1<br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Intermediate (I)<br/>
+</td>
+</tr>
+<tr id="id_e72b2dcd-d888-407c-953d-a12cc21a4505">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≥2<br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Resistant (R)<br/>
+</td>
+</tr>
+<tr id="id_05ed870e-4871-4c4a-bd91-358436175bee">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">Amoxicillin MIC  (mcg/mL)*,<sup>†</sup>
+<br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Interpretation<br/>
+</td>
+</tr>
+<tr id="id_18756fbb-8197-4243-903d-eae905d4f246">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≤0.25<br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Susceptible (S)<br/>
+</td>
+</tr>
+</tbody>
+</table>

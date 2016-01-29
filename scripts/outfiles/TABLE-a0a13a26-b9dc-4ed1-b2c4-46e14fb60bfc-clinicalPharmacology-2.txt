@@ -1,0 +1,103 @@
+<table frame="void" width="696" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule" valign="top"></td>
+<td align="center" colspan="4" stylecode="Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Delayed Ischemic</content>
+<content stylecode="bold">Deficits </content>
+</td>
+<td align="center" colspan="4" stylecode="Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Permanent</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top"></td>
+<td align="center" colspan="4" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">(DID)</content>
+</td>
+<td align="center" colspan="4" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Deficits</content>
+</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="9" stylecode="Toprule" valign="top"> *p = 0.001, nimodipine vs placebo </td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Botrule Lrule Rrule Toprule" valign="middle">
+<content stylecode="bold">Nimodipine </content>
+<content stylecode="bold">n (%)</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Lrule Rrule Toprule" valign="middle">
+<content stylecode="bold">Placebo</content>
+<br/>
+<content stylecode="bold">n (%)</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Lrule Rrule Toprule" valign="middle">
+<content stylecode="bold">Nimodipine </content>
+<content stylecode="bold">n (%)</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Lrule Rrule Toprule" valign="middle">
+<content stylecode="bold">Placebo</content>
+<br/>
+<content stylecode="bold">n (%)</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">DID Spasm Alone</content>
+</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">8</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(11)*</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">25</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(31)</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">5</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(7)*</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">22</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(27)</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">DID Spasm Contributing</content>
+</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">18</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(25)</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">21</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(26)</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">16</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(22)</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">17</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(21)</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">DID Without Spasm</content>
+</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">7</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(10)</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">8</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(10)</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">6</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(8)</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">7</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(9)</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">No DID</content>
+</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">39</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(54)</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">28</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(34)</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">45</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(63)</td>
+<td align="right" stylecode="Botrule Lrule Toprule" valign="top">36</td>
+<td align="left" stylecode="Botrule Rrule Toprule" valign="top">(44)</td>
+</tr>
+</tbody>
+</table>

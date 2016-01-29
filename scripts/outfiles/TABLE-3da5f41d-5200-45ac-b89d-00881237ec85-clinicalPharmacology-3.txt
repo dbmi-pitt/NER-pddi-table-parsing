@@ -1,0 +1,82 @@
+<table width="269.75pt" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="9%"></col>
+<col width="11%"></col>
+<col width="13%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>QC Strain</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Macrodilution (MIC in μg/mL) @ 48 hours</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Microdilution (MIC in μg/mL) @ 48 hours</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Disk Diffusion (Zone Diameter in mm) @ 24 hours</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Candida parapsilosis </content>ATCC 22019</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>2.0-8.0</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>1.0-4.0</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>22-33</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Candida krusei</content> ATCC 6258</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>16-64</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>16-128</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>---*</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Candida albicans</content> ATCC 90028</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>---*</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>---*</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>28-39</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="italics">Candida tropicalis </content>ATCC 750</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>---*</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>---*</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>26-37</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

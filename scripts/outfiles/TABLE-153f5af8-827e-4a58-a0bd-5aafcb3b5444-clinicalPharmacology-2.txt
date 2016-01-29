@@ -1,0 +1,115 @@
+<table id="_RefIDC4C15A5BAEB24D6597EB7BD716A935FE" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7 Drug Interactions: Pharmacokinetic Parameters for Coadministration of Drug in the Presence of Colchicine Tablets, USP</caption>
+<col width="25%"></col>
+<col width="28%"></col>
+<col width="22%"></col>
+<col width="5%"></col>
+<col width="17%"></col>
+<col width="18%"></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Coadministered</content>
+<content stylecode="bold"> Drug</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Dose of </content>
+<content stylecode="bold">Coadministered</content>
+<content stylecode="bold"> Drug (mg)</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Dose of </content>
+<content stylecode="bold">Colchicine</content>
+<content stylecode="bold"> Tablets, USP (mg)</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">N</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">% Change in </content>
+<content stylecode="bold">Coadministered</content>
+<content stylecode="bold"> Drug Concentrations from Baseline</content>
+<br/>
+<content stylecode="bold">(Range: Min - Max)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">AUC<sub>0-t</sub>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Theophylline</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>300 mg (elixir) single-dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.6 mg twice daily × 14 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>27</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.6<br/>(-30.4 to 23.1)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.6<br/>(-28.5 to 27.1)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Ethinyl Estradiol (Ortho-Novum 1/35)</paragraph>
+</td>
+<td align="center" rowspan="3" stylecode="Rrule Lrule Botrule ">
+<paragraph>21 day cycle (active treatment) + 7 day placebo</paragraph>
+</td>
+<td align="center" rowspan="3" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.6 mg twice daily × 14 days</paragraph>
+</td>
+<td align="center" rowspan="3" stylecode="Rrule Lrule Botrule ">
+<paragraph>27<footnote id="_RefID18BDACB0BB45417A9410E2CD42A34DD1">Conducted in healthy adult females</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>-6.7<br/>(-40.3 to 44.7)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>-3.0<footnote id="_RefID614648C8AB7147F8B3BBB0A4F6EE8077">AUCτ</footnote>
+<br/>(-25.3 to 24.9)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>Norethindrone (Ortho-Novum 1/35)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>0.94<br/>(-37.3 to 59.4)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>-1.6<footnoteref idref="_RefID614648C8AB7147F8B3BBB0A4F6EE8077"></footnoteref>
+<br/>(-32.0 to 33.7)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

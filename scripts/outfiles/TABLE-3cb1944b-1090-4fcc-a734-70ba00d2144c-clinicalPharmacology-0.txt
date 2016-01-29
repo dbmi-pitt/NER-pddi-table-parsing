@@ -1,0 +1,59 @@
+<table id="table1" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. In Vitro Susceptibility Test Interpretive Criteria for Erythromycin</caption>
+<col align="left" valign="top" width="22%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="13%"></col>
+<thead>
+<tr>
+<th></th>
+<th colspan="3" valign="bottom">Minimum Inhibitory Concentrations (mcg/mL)
+                                                                <br/>
+</th>
+<th colspan="3" valign="bottom">Disk Diffusion (zone diameters in mm)
+                                                                <br/>
+</th>
+</tr>
+<tr>
+<th>Pathogen</th>
+<th>S</th>
+<th>I</th>
+<th>R</th>
+<th>S</th>
+<th>I</th>
+<th>R</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="middle">Staphylococcus aureus</td>
+<td valign="middle">≤0.5</td>
+<td valign="middle">1-4</td>
+<td valign="middle">≥8</td>
+<td valign="middle">≥23</td>
+<td valign="middle">14-22</td>
+<td valign="middle">≤13</td>
+</tr>
+<tr>
+<td valign="middle">Streptococcus pneumoniae</td>
+<td valign="middle">≤0.25</td>
+<td valign="middle">0.5</td>
+<td valign="middle">≥1</td>
+<td valign="middle">≥21</td>
+<td valign="middle">16-20</td>
+<td valign="middle">≤15</td>
+</tr>
+<tr>
+<td valign="middle">Streptococcus pyogenes</td>
+<td valign="middle">≤0.25</td>
+<td valign="middle">0.5</td>
+<td valign="middle">≥1</td>
+<td valign="middle">≥21</td>
+<td valign="middle">16-20</td>
+<td valign="middle">≤15</td>
+</tr>
+</tbody>
+</table>

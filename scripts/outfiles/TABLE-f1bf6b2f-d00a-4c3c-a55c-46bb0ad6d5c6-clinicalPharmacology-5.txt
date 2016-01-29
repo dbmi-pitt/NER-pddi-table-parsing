@@ -1,0 +1,23 @@
+<table border="1" id="inv-7a75ff29-5206-4e8a-956a-fd7a386dec2f" width="182" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_cfc26c8b-f9a7-456a-98f3-60d5ea0666aa">Enterobacteriaceae</caption>
+<col width="51.6%"></col>
+<col width="48.4%"></col>
+<tbody>
+<tr id="id_189859b0-6aa1-4be6-b535-ba911da2d4c0">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">MIC (mcg/mL)</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Interpretation</td>
+</tr>
+<tr id="id_be195770-a7a5-427d-95b0-b5f8b5c55bb6">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≤ 8</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Susceptible (S)</td>
+</tr>
+<tr id="id_8be14683-c145-40e2-9470-7c4a681a6977">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">16</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Intermediate (I)</td>
+</tr>
+<tr id="id_fafa9d8c-3bad-4662-8d00-44779a0a41c3">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≥ 32</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

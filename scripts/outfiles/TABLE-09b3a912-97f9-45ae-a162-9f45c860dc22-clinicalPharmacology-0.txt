@@ -1,0 +1,59 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="bottom" width="50%"></col>
+<col align="left" valign="bottom" width="50%"></col>
+<tbody>
+<tr stylecode="Toprule">
+<td>
+<content stylecode="bold">AEROBIC GRAM-POSITIVE MICROORGANISMS</content>
+</td>
+<td>
+<content stylecode="bold">AEROBIC GRAM-NEGATIVE MICROORGANISMS</content>
+</td>
+</tr>
+<tr>
+<td>Corynebacterium species<footnote id="foot1">Efficacy for this organism was studied in fewer than 10 infections.</footnote>
+</td>
+<td>
+<content stylecode="italics">Acinetobacter lwoffii</content>
+<footnoteref idref="foot1"></footnoteref>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td>
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus epidermidis</content>
+</td>
+<td>
+<content stylecode="italics">Serratia marcescens</content>
+<footnoteref idref="foot1"></footnoteref>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Streptococcus</content> (Groups C/F)</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Streptococcus</content> (Group G)</td>
+<td></td>
+</tr>
+<tr stylecode="Botrule">
+<td>Viridans group streptococci</td>
+<td></td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,37 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 1. Controlled PHN Studies: Duration, Dosages, and Number of Patients</caption>
+<col align="center" width="15%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="25%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+<tbody>
+<tr valign="top">
+<td stylecode="Botrule Lrule Rrule">Study</td>
+<td stylecode="Botrule Lrule Rrule">Study<br/>  Duration</td>
+<td stylecode="Botrule Lrule Rrule">Gabapentin<br/>  (mg/day)<footnote id="FN">Given in divided doses (TID)</footnote>
+<br/>  Target Dose</td>
+<td stylecode="Botrule Lrule Rrule">Patients<br/>Receiving<br/>Gabapentin</td>
+<td stylecode="Botrule Lrule Rrule">Patients<br/>Receiving<br/>Placebo</td>
+</tr>
+<tr valign="top">
+<td stylecode="Botrule Lrule Rrule">1</td>
+<td stylecode="Botrule Lrule Rrule">8 weeks</td>
+<td stylecode="Botrule Lrule Rrule">3600</td>
+<td stylecode="Botrule Lrule Rrule">113</td>
+<td stylecode="Botrule Lrule Rrule">116</td>
+</tr>
+<tr valign="top">
+<td stylecode="Botrule Lrule Rrule">2</td>
+<td stylecode="Botrule Lrule Rrule">7 weeks</td>
+<td stylecode="Botrule Lrule Rrule">1800, 2400</td>
+<td stylecode="Botrule Lrule Rrule">223</td>
+<td stylecode="Botrule Lrule Rrule">111</td>
+</tr>
+<tr>
+<td align="right" colspan="3" stylecode="Botrule Lrule Rrule">Total</td>
+<td stylecode="Botrule Lrule Rrule">336</td>
+<td stylecode="Botrule Lrule Rrule">227</td>
+</tr>
+</tbody>
+</table>

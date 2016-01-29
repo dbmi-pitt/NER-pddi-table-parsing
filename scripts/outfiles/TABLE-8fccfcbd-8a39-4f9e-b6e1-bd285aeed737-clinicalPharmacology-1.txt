@@ -1,0 +1,47 @@
+<table width="65%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="middle" width="50%"></col>
+<col align="left" valign="middle" width="50%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule">Gram-Positive Bacteria</th>
+<th stylecode="Rrule">Gram-Negative Bacteria</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td stylecode="Rrule">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule">
+<content stylecode="italics">Staphylococcus </content>spp.</td>
+<td stylecode="Rrule">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td stylecode="Rrule">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule">Alpha and β-hemolytic streptococci.</td>
+<td stylecode="Rrule">
+<content stylecode="italics">Proteus mirabilis</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule"> </td>
+<td stylecode="Rrule">
+<content stylecode="italics">Helicobacter pylori</content>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,19 @@
+<table border="1" id="id_51c66fa1-63bc-476f-b461-6a2d9d680b97" width="445.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="49.4%"></col>
+<col width="50.6%"></col>
+<tbody>
+<tr id="id_586fcfc7-4d12-4279-b21c-e829a32b536f">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+<sup>b</sup>
+</td>
+</tr>
+<tr id="id_bdfc72d9-5ec1-483a-ac65-0781071a44f5">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Susceptible (S)</td>
+</tr>
+</tbody>
+</table>

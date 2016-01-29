@@ -1,0 +1,105 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4. Susceptibility Test Interpretive Criteria for Amoxicillin</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     ">  </td>
+<td align="center" colspan="3" stylecode="     Toprule         Lrule          Rrule     ">  Minimum Inhibitory Concentration (mcg/mL)</td>
+<td align="center" colspan="3" stylecode="     Toprule         Lrule          Rrule     ">  Disk Diffuxion (zone diameter in mm)</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     ">  </td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  Susceptible</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  Intermediate</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  Resistant</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  Susceptible</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  Intermediate</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  Resistant</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Enterococcu</content>s spp.</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 8</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 16</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 17</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 16</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Staphylococcus</content> spp.</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 0.25</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  </td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 0.5</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 29</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  </td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 28</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Stephylococci, viridians group <br/>(α-hemoolytic streptococci </td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 0.25</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -0.5 to 4</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 8</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> β-hemolytic streptococci</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 0.25</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 24</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Streptococcus pneumonia</content>
+<content stylecode="italics">e</content>
+<content stylecode="italics"> </content>(non-meningitis isolates)*</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 2</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  4</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 8</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  -</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Enteroba</content>
+<content stylecode="italics">cteriaceae </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 8</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  16</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 32</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 17</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  14 to 16</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 13</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Haemophilus influenza</content>
+<content stylecode="italics">e</content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 1</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  2</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 4</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≥ 22</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  19 to 21</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">  ≤ 18</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Neisseria gonorrhoeae**</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  -</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  -</td>
+</tr>
+</tbody>
+</table>

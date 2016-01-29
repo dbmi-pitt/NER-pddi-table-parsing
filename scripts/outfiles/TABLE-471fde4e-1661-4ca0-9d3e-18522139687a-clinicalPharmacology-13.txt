@@ -1,0 +1,61 @@
+<table border="single" id="id_4456ba1c-e69a-4e75-97cc-8c0f88dd1dfa" width="444.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.0%"></col>
+<col width="25.0%"></col>
+<col width="25.0%"></col>
+<tbody>
+<tr id="id_b460f60b-24a0-4b48-9155-b8ce6d943650">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="bottom">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">ATCC® #</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+</tr>
+<tr id="id_b3e33173-46bb-42b5-b591-eef9505ce8a6">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">25922</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">0.03-0.12</td>
+</tr>
+<tr id="id_2cd9c653-cc91-42df-bfce-9553dce6ffca">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">29213</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">1-8<footnote id="id-b0fba093-95d3-4a74-bc85-613ee61e580f">A bimodal distribution of MICs results at the extremes of the acceptable range should be suspect and control validity should be verified with data from other control strains.</footnote>
+</td>
+</tr>
+<tr id="id_ea893966-55d5-42ed-a19c-21a8cf29f0a2">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">27853</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">8-64</td>
+</tr>
+<tr id="id_bb8e29f8-cd28-46c3-96aa-8467083b5945">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">49247</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">0.06-0.25</td>
+</tr>
+<tr id="id_65f823c3-ccbe-4ec9-ba42-fc130f677e8a">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">49226</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">0.004-0.015</td>
+</tr>
+<tr id="id_983908a5-c397-4242-a53e-d3d8a1fadce5">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" stylecode="Rrule" valign="bottom">49619</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">0.03-0.12</td>
+</tr>
+</tbody>
+</table>

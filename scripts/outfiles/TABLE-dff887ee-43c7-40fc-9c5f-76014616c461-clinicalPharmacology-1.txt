@@ -1,0 +1,28 @@
+<table border="1" id="id_df38ceba-b06c-4ef5-88cf-930c386211c4" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_b9093ec3-0e47-41f5-abf2-04059fa5e076">
+<td align="left" colspan="2" valign="top">When testing either <content stylecode="italics">Haemophilus influenza</content>
+<sup>a</sup> or <content stylecode="italics">Streptococcus pneumoniae</content>
+<sup>b</sup>:</td>
+</tr>
+<tr id="id_dad78aed-e276-46e3-b743-2b7ce7f61f8d">
+<td align="left" stylecode="Rrule" valign="top">MIC ( µg/mL)</td>
+<td align="left" valign="top">Interpretation<sup>b</sup>
+</td>
+</tr>
+<tr id="id_9dde7ddc-7f87-42f8-978a-524236b435b9">
+<td align="left" stylecode="Rrule" valign="top">≤0.5/9.5</td>
+<td align="left" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_f7d1cf0f-09df-4c24-a7a5-ce21039bf594">
+<td align="left" stylecode="Rrule" valign="top">1/19-2/38</td>
+<td align="left" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_9ebda418-6ce2-4b63-94a4-6e04a21c1011">
+<td align="left" stylecode="Botrule Rrule" valign="top">≥4/76</td>
+<td align="left" stylecode="Botrule" valign="top">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

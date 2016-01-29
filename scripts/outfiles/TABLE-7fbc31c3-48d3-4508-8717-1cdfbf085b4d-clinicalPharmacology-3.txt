@@ -1,0 +1,194 @@
+<table id="table7" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7 Drug Interactions:  Changes in Pharmacokinetic Parameters for Tenofovir<footnote>Subjects received VIREAD 300 mg once daily.</footnote> in the Presence of the Coadministered Drug</caption>
+<col align="left" valign="middle" width="21%"></col>
+<col align="center" valign="middle" width="21%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<thead>
+<tr>
+<th align="center" rowspan="2" stylecode="Lrule Rrule">Coadministered Drug</th>
+<th rowspan="2" stylecode="Rrule">Dose of Coadministered Drug (mg)</th>
+<th rowspan="2" stylecode="Rrule">N</th>
+<th colspan="3" stylecode="Rrule Botrule">% Change of Tenofovir Pharmacokinetic Parameters<footnote>
+<paragraph>Increase = ↑; Decrease = ↓; No Effect = <rendermultimedia referencedobject="MM3"></rendermultimedia>; NC = Not Calculated</paragraph>
+</footnote>
+<br/> (90% CI)</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Rrule">C<sub>max</sub>
+</th>
+<th stylecode="Rrule">AUC</th>
+<th stylecode="Rrule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Abacavir</td>
+<td stylecode="Rrule">300 once</td>
+<td stylecode="Rrule">8</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">NC</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atazanavir<footnote>Reyataz Prescribing Information</footnote>
+</td>
+<td stylecode="Rrule">400 once daily × 14 days</td>
+<td stylecode="Rrule">33</td>
+<td stylecode="Rrule">↑ 14<br/> (↑ 8 to ↑ 20)</td>
+<td stylecode="Rrule">↑ 24<br/> (↑ 21 to ↑ 28)</td>
+<td stylecode="Rrule">↑ 22<br/> (↑ 15 to ↑ 30)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Didanosine (enteric-coated)</td>
+<td stylecode="Rrule">400 once</td>
+<td stylecode="Rrule">25</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Didanosine (buffered)</td>
+<td stylecode="Rrule">250 or 400 once daily × 7 days</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Efavirenz </td>
+<td stylecode="Rrule">600 once daily × 14 days</td>
+<td stylecode="Rrule">29</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Emtricitabine</td>
+<td stylecode="Rrule">200 once daily × 7 days</td>
+<td stylecode="Rrule">17</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Entecavir</td>
+<td stylecode="Rrule">1 mg once daily × 10 days</td>
+<td stylecode="Rrule">28</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Indinavir</td>
+<td stylecode="Rrule">800 three times daily × 7 days</td>
+<td stylecode="Rrule">13</td>
+<td stylecode="Rrule">↑ 14<br/> (↓ 3 to ↑ 33)</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Lamivudine</td>
+<td stylecode="Rrule">150 twice daily × 7 days</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Lopinavir/Ritonavir </td>
+<td stylecode="Rrule">400/100 twice daily × 14 days</td>
+<td stylecode="Rrule">24</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">↑ 32<br/> (↑ 25 to ↑ 38)</td>
+<td stylecode="Rrule">↑ 51<br/> (↑ 37 to ↑ 66)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Nelfinavir</td>
+<td stylecode="Rrule">1250 twice daily × 14 days</td>
+<td stylecode="Rrule">29</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Saquinavir/Ritonavir</td>
+<td stylecode="Rrule">1000/100 twice daily × 14 days</td>
+<td stylecode="Rrule">35</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">↑ 23<br/> (↑ 16 to ↑ 30)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Tacrolimus</td>
+<td stylecode="Rrule">0.05 mg/kg twice daily × 7 days</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">↑ 13<br/>(↑ 1 to ↑ 27)</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+<td stylecode="Rrule">
+<rendermultimedia referencedobject="MM3"></rendermultimedia>
+</td>
+</tr>
+</tbody>
+</table>

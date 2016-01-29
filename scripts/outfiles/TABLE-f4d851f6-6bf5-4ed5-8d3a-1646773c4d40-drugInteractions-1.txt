@@ -1,0 +1,33 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3: Drugs That May Alter T<sub>4</sub> and Triiodothyronine (T<sub>3</sub>) Serum Transport Without Effecting Free Thyroxine (FT<sub>4</sub>) Concentration (Euthyroidism)</caption>
+<col align="left" valign="top" width="50%"></col>
+<col align="left" valign="top" width="50%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Drugs That May Increase Serum Thyroxine-Binding Globulin (TBG) Concentration</th>
+<th align="center" stylecode="Rrule" valign="middle">Drugs That May Decrease Serum TBG Concentration</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clofibrate<br/>Estrogen-containing oral contraceptives<br/>Estrogens (oral)<br/>Heroin / Methadone<br/>5-Fluorouracil<br/>Mitotane<br/>Tamoxifen</td>
+<td stylecode="Rrule">Androgens / Anabolic Steroids<br/>Asparaginase<br/>Glucocorticoids<br/>Slow-Release Nicotinic Acid</td>
+</tr>
+<tr>
+<td align="center" colspan="2" stylecode="Lrule Rrule">
+<content stylecode="bold">Drugs That May Cause Protein-Binding Site Displacement</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="2" stylecode="Lrule Rrule">Potential impact<content stylecode="bold">:</content> Administration of these agents with levothyroxine results in an initial transient increase in FT<sub>4</sub>. Continued administration results in a decrease in serum T<sub>4</sub> and normal FT<sub>4</sub> and TSH concentrations, and patients are likely clinically euthyroid.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Salicylates (&gt; 2 g/day)</td>
+<td stylecode="Rrule">Salicylates inhibit binding of T<sub>4</sub> and T<sub>3</sub> to TBG and transthyretin. An initial increase in serum FT<sub>4</sub> is followed by return of FT<sub>4</sub> to normal levels with sustained therapeutic serum salicylate concentrations, although total T<sub>4</sub> levels may decrease by as much as 30%.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Other drugs:<br/>Furosemide (&gt; 80 mg IV)<br/>Heparin<br/>Hydantoins<br/>Non-Steroidal Anti-inflammatory Drugs<br/>- Fenamates<br/>- Phenylbutazone</td>
+<td stylecode="Rrule"></td>
+</tr>
+</tbody>
+</table>

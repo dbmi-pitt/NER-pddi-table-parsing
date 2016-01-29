@@ -1,0 +1,55 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td valign="top">           </td>
+<td align="center" colspan="3" valign="top">  Organism </td>
+<td align="center" valign="top">           </td>
+<td align="center" valign="top">  Zone </td>
+<td align="center" valign="top"> Diameter</td>
+<td align="center" valign="top"> (mm)</td>
+<td align="center" valign="top">           </td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right" valign="top"> <content stylecode="italics">E.</content>
+</td>
+<td valign="top"> <content stylecode="italics">coli</content>
+</td>
+<td align="center" valign="top"> ATCC</td>
+<td align="center" valign="top">      25922</td>
+<td align="center" valign="top"> </td>
+<td align="center" colspan="3" valign="top"> 18-26</td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr>
+<td align="right" valign="top"> <content stylecode="italics">P.</content>
+</td>
+<td valign="top"> <content stylecode="italics">aeruginosa</content>
+</td>
+<td align="center" valign="top"> ATCC</td>
+<td align="center" valign="top">      27853</td>
+<td align="center" valign="top"> </td>
+<td align="center" colspan="3" valign="top"> 19-25</td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr>
+<td align="right" valign="top"> <content stylecode="italics">S.</content>
+</td>
+<td valign="top"> <content stylecode="italics">aureus</content>
+</td>
+<td align="center" valign="top"> ATCC</td>
+<td align="center" valign="top">      25923</td>
+<td align="center" valign="top"> </td>
+<td align="center" colspan="3" valign="top"> 19-29</td>
+<td align="center" valign="top"> </td>
+</tr>
+</tbody>
+</table>

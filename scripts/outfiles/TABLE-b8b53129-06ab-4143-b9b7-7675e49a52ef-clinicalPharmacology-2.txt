@@ -1,0 +1,132 @@
+<table id="table3" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3 Effect of Coadministered Drugs on Saquinavir Pharmacokinetics</caption>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="20%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">Coadministered Drug</th>
+<th align="center" rowspan="2" stylecode="Rrule">Saquinavir soft gel capsules Dose</th>
+<th rowspan="2" stylecode="Rrule">N</th>
+<th colspan="2" stylecode="Rrule">% Change for Saquinavir</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">AUC (95% CI)</th>
+<th align="center" stylecode="Rrule">C<sub>max</sub> (95% CI)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="5">↑      Denotes an average increase in exposure by the percentage indicated.<br/>↓      Denotes an average decrease in exposure by the percentage indicated.<br/>↔    Mean change &lt;10%<br/>P      Patient<br/>V     Healthy Volunteers</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule Toprule">Clarithromycin 500 mg bid × 7 days</td>
+<td stylecode="Rrule Toprule">1200 mg tid × 7 days</td>
+<td stylecode="Rrule Toprule">12V</td>
+<td stylecode="Rrule Toprule">↑177% (108-269%)</td>
+<td stylecode="Rrule Toprule">↑187% (105-300%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule">Efavirenz 600 mg qd</td>
+<td stylecode="Rrule Toprule">1200 mg tid</td>
+<td stylecode="Rrule Toprule Botrule">13V</td>
+<td stylecode="Rrule Toprule">↓62%</td>
+<td stylecode="Rrule Toprule Botrule">↓50%</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule">Indinavir 800 mg q8h × 2 days</td>
+<td stylecode="Rrule Toprule">1200 mg single dose</td>
+<td stylecode="Rrule Botrule">6V</td>
+<td stylecode="Rrule Toprule">↑364% (190-644%)</td>
+<td stylecode="Rrule Botrule">↑299% (138-568%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule Toprule">Rifabutin 300 mg qd</td>
+<td stylecode="Rrule Toprule">1200 mg tid</td>
+<td stylecode="Rrule">14P</td>
+<td stylecode="Rrule Toprule">↓47%</td>
+<td stylecode="Rrule">↓39%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ritonavir 400 mg bid × 14 days</td>
+<td stylecode="Rrule">400 mg bid × 14 days<footnote>Compared to standard saquinavir soft gel capsules 1200 mg tid regimen (n=33).</footnote>
+</td>
+<td stylecode="Rrule">8V</td>
+<td stylecode="Rrule">↑121% (7-359%)</td>
+<td stylecode="Rrule">↑64%<footnote>Did not reach statistical significance.</footnote>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="5" stylecode="Lrule Rrule">Lopinavir/ritonavir <br/> Evidence from several clinical trials indicates that saquinavir concentrations achieved with saquinavir 1000 mg + lopinavir/ritonavir 400/100 mg BID are similar to those achieved following saquinavir/ritonavir 1000/100 mg BID.</td>
+</tr>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">Coadministered Drug</th>
+<th align="center" rowspan="2" stylecode="Rrule">Invirase or Invirase/ritonavir Dose</th>
+<th rowspan="2" stylecode="Rrule">N</th>
+<th colspan="2" stylecode="Rrule">% Change for Saquinavir</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">AUC (95% CI)</th>
+<th align="center" stylecode="Rrule">C<sub>max</sub> (95% CI)</th>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Atazanavir 300 mg qd</td>
+<td stylecode="Rrule Botrule">1600/100 mg qd</td>
+<td stylecode="Rrule Botrule">18P</td>
+<td stylecode="Rrule Toprule">↑60% <br/> (16-122%)</td>
+<td stylecode="Rrule Toprule">↑42%<br/> (10-84%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Fosamprenavir 700 mg bid</td>
+<td stylecode="Rrule Botrule">1000 mg bid/100 mg bid</td>
+<td stylecode="Rrule Botrule">18P</td>
+<td stylecode="Rrule Toprule">↓15%<br/> (-33% to 9%)</td>
+<td stylecode="Rrule Toprule">↔</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ritonavir 100 mg bid</td>
+<td stylecode="Rrule">1000 mg bid<footnote>Compared to standard INVIRASE 600 mg tid regimen (n=114).</footnote>
+</td>
+<td stylecode="Rrule">24P</td>
+<td stylecode="Rrule Toprule">↑1124%</td>
+<td stylecode="Rrule Toprule">↑1325%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Tenofovir 300 mg qd</td>
+<td stylecode="Rrule">1000 mg bid/100 mg bid</td>
+<td stylecode="Rrule">18P</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↔</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Tipranavir 500 mg + ritonavir 200 mg bid</td>
+<td stylecode="Rrule">600 mg bid/100 mg bid</td>
+<td stylecode="Rrule">20P</td>
+<td stylecode="Rrule">↓76% <br/> (68-81%)<footnote id="table3f1">90% Confidence Interval</footnote>
+</td>
+<td stylecode="Rrule">↓70%<br/> (60-77%)<footnoteref idref="table3f1"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Omeprazole 40 mg qd × 5 days</td>
+<td stylecode="Rrule">1000/100 mg bid × 15 days</td>
+<td stylecode="Rrule">19V</td>
+<td stylecode="Rrule">↑82%<br/> (37-234%)<footnoteref idref="table3f1"></footnoteref>
+</td>
+<td stylecode="Rrule">↑ 75%<br/> (31-234%)<footnoteref idref="table3f1"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Ketoconazole 200 mg/day</td>
+<td stylecode="Rrule">1000 mg bid/100 mg bid</td>
+<td stylecode="Rrule">20V</td>
+<td stylecode="Rrule">↔<footnoteref idref="table3f1"></footnoteref>
+</td>
+<td stylecode="Rrule">↔</td>
+</tr>
+</tbody>
+</table>

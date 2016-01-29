@@ -1,0 +1,20 @@
+<table id="Table7" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr stylecode="First Last">
+<td align="center">Zone Diameter (mm)</td>
+<td align="center">Interpretation<footnote id="INV-91689543-6be1-4698-bf66-ea8311299ee7"> The current absence of data on resistant strains precludes defining any results other than  “Susceptible.” Strains yielding MIC results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.</footnote>
+</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" stylecode="Footnote"></td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="First Last">
+<td align="center">≥20</td>
+<td align="center">Susceptible (S)</td>
+</tr>
+</tbody>
+</table>

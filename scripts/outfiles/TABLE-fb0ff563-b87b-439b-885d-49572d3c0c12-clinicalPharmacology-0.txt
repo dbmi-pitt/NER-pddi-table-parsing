@@ -1,0 +1,151 @@
+<table border="1" id="inv-bc9b7517-4f41-4e39-a813-d315398faaa3" width="433" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-36ec01ae-5db7-4291-8ac3-08594e065cc5">MEAN (CV%) PK PARAMETER</caption>
+<col width="21.7%"></col>
+<col width="11.8%"></col>
+<col width="7.9%"></col>
+<col width="9.7%"></col>
+<col width="7.9%"></col>
+<col width="7.9%"></col>
+<col width="11.8%"></col>
+<col width="7.9%"></col>
+<col width="13.6%"></col>
+<tbody>
+<tr id="id_3b81efb3-7fba-4326-b113-c7421dc11500">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+                                    DOSE/DOSAGE FORM (serum, except as indicated)
+                                 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> Subjects
+                                 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> Day No.
+                                 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">C<sub>max</sub> (mcg/mL)
+                                 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">T<sub>max</sub> (hr)
+                                 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">C<sub>24</sub> (mcg/mL)
+                                 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">AUC (mcg•hr/mL)
+                                 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">T<sub>½</sub> (hr)
+                                 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Urinary Excretion (% of dose)
+                                 </td>
+</tr>
+<tr id="id_65333b26-2936-4547-9101-f8e8298c7d20">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">500 mg/250 mg capsule</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">12</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Day 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.41</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.05</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.6<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4.5</td>
+</tr>
+<tr id="id_06d35442-4c0c-4010-b998-5eaa935ee9fd">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">and 250 mg on Days 2-5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">12</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Day 5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.24</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.05</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.1<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6.5</td>
+</tr>
+<tr id="id_a9abd890-cd53-41e6-bf4a-fbbd6b38c684">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">1200 mg/600 mg tablets</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">12</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Day 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.66</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.074</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6.8<sup>b</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">40</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--</td>
+</tr>
+<tr id="id_56623e26-0a00-4737-bdc6-446d028c3e22">
+<td align="right" stylecode="Lrule Botrule Rrule" valign="middle">%CV</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(62%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(79%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(49%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(64%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(33%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr id="id_fc90feb7-fb0d-4649-bb69-b94950c8a6b6">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">600 mg tablet/day</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">7</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.33</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.039</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.4<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr id="id_64613cba-c627-47f2-994c-4c353f81cef4">
+<td align="right" stylecode="Lrule Botrule Rrule" valign="middle">%CV</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(25%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(50%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(36%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(19%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr id="id_b116d7da-b171-4775-88e2-9d53f2538e02">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">7</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">22</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.55</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.14</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">5.8<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">84.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--</td>
+</tr>
+<tr id="id_66bd9432-3e67-464e-9b61-6738da36559a">
+<td align="right" stylecode="Lrule Botrule Rrule" valign="middle">%CV</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(18%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(52%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(26%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">(25%)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--</td>
+</tr>
+<tr id="id_d03eeaac-b9ca-4217-8e54-ad5a1e0cc0cc">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">600 mg tablet/day (leukocytes)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">7</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">22</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">252</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">10.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">146</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4763<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">82.8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--</td>
+</tr>
+<tr id="id_f295fb15-5f17-4ced-bcfd-3b8b1d45d418">
+<td align="right" stylecode="Lrule Botrule Rrule" valign="middle">%CV</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle">(49%)</td>
+<td align="center" stylecode="Rrule" valign="middle">(28%)</td>
+<td align="center" stylecode="Rrule" valign="middle">(33%)</td>
+<td align="center" stylecode="Rrule" valign="middle">(42%)</td>
+<td align="center" stylecode="Rrule" valign="middle">--</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--</td>
+</tr>
+</tbody>
+</table>

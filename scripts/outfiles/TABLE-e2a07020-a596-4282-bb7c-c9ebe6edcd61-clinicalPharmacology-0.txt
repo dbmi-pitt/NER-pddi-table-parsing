@@ -1,0 +1,130 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="31%"></col>
+<col width="69%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Parameter</content>
+</paragraph>
+</td>
+<td stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Patients with type 2 diabetes</content>
+<footnote id="_Refid-17697e59-b13e-409f-ae47-f34624d48">dosed preprandially with three meals</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Dose</paragraph>
+<paragraph>0.5 mg</paragraph>
+<paragraph>1 mg</paragraph>
+<paragraph>2 mg</paragraph>
+<paragraph>4 mg</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>AUC Mean ±SD (ng/mL*hr):
+                                                    <sub>0-24 hr</sub>
+</paragraph>
+<paragraph>68.9 ± 154.4</paragraph>
+<paragraph>125.8 ± 129.8</paragraph>
+<paragraph>152.4 ± 89.6</paragraph>
+<paragraph>447.4 ± 211.3</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Dose</paragraph>
+<paragraph>0.5 mg</paragraph>
+<paragraph>1 mg</paragraph>
+<paragraph>2 mg</paragraph>
+<paragraph>4 mg</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>C Mean ±SD (ng/mL):
+                                                    <sub>max0-5 hr</sub>
+</paragraph>
+<paragraph>9.8 ± 10.2</paragraph>
+<paragraph>18.3 ± 9.1</paragraph>
+<paragraph>26.0 ± 13.0</paragraph>
+<paragraph>65.8 ± 30.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Dose</paragraph>
+<paragraph>0.5 - 4 mg</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>T Means (SD)
+                                                    <sub>max0-5 hr</sub>
+</paragraph>
+<paragraph>1.0 - 1.4 (0.3 - 0.5) hr</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Dose</paragraph>
+<paragraph>0.5 - 4 mg</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>T Means (Ind Range)
+                                                    <sub>½</sub>
+</paragraph>
+<paragraph>1.0 - 1.4 (0.4 - 8.0) hr</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Parameter</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>Healthy Subjects</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>CL based on i.v.</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>38 ± 16 L/hr</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>V based on i.v.
+                                                    <sub>ss</sub>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>31 ± 12 L</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>AbsBio</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>56 ± 9%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top"></td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Botrule Lrule " valign="top">
+<paragraph>CL= total body clearance</paragraph>
+<paragraph>V = volume of distribution at steady state
+                                                    <sub>ss</sub>
+</paragraph>
+<paragraph>AbsBio = absolute bioavailability</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

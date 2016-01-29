@@ -1,0 +1,57 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: Effect of Single Daily  Doses of Oral Pantoprazole Sodium on Intragastric pH</caption>
+<col align="left" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<thead>
+<tr>
+<th></th>
+<th colspan="4">–––––––—––––––––Median  pH on day 7—–––––––––––––</th>
+</tr>
+<tr stylecode="Botrule">
+<th>Time</th>
+<th>Placebo</th>
+<th>20 mg</th>
+<th>40 mg</th>
+<th>80 mg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8 a.m. – 8 a.m.<br/>(24 hours)</td>
+<td>1.3</td>
+<td>2.9<footnote id="table4a">Significantly different from placebo</footnote>
+</td>
+<td>3.8<footnoteref idref="table4a"></footnoteref>
+<footnote id="table4b">Significantly different from 20 mg</footnote>
+</td>
+<td>3.9<footnoteref idref="table4a"></footnoteref>
+<footnoteref idref="table4b"></footnoteref>
+</td>
+</tr>
+<tr>
+<td>8 a.m. – 10 p.m.<br/>(Daytime)</td>
+<td>1.6</td>
+<td>3.2<footnoteref idref="table4a"></footnoteref>
+</td>
+<td>4.4<footnoteref idref="table4a"></footnoteref>
+<footnoteref idref="table4b"></footnoteref>
+</td>
+<td>4.8<footnoteref idref="table4a"></footnoteref>
+<footnoteref idref="table4b"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td>10 p.m. – 8 a.m.<br/>(Nighttime)</td>
+<td>1.2</td>
+<td>2.1<footnoteref idref="table4a"></footnoteref>
+</td>
+<td>3.0<footnoteref idref="table4a"></footnoteref>
+</td>
+<td>2.6<footnoteref idref="table4a"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

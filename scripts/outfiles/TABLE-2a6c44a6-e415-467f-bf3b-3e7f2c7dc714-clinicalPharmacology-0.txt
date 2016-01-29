@@ -1,0 +1,192 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="14%"></col>
+<col align="center" width="14%"></col>
+<col align="center" width="14%"></col>
+<col align="center" width="14%"></col>
+<col align="center" width="14%"></col>
+<col align="center" width="14%"></col>
+<col align="center" width="14%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Botrule Lrule Rrule"></th>
+<th align="center" stylecode="Botrule Lrule Rrule"></th>
+<th align="center" colspan="5" stylecode="Botrule Lrule Rrule">
+Treatment
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="Botrule Lrule Rrule"></th>
+<th align="center" stylecode="Botrule Lrule Rrule"></th>
+<th align="center" stylecode="Botrule Lrule Rrule"></th>
+<th align="center" colspan="2" stylecode="Botrule Lrule Rrule">
+Apraclonidine
+</th>
+<th align="center" colspan="2" stylecode="Botrule Lrule Rrule">
+Placebo
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="Botrule Lrule Rrule">
+Study
+</th>
+<th align="center" stylecode="Botrule Lrule Rrule">
+Laser Procedure
+</th>
+<th align="center" stylecode="Botrule Lrule Rrule">
+P-Value
+</th>
+<th align="center" stylecode="Botrule Lrule Rrule">
+<sup>a</sup>N
+</th>
+<th align="center" stylecode="Botrule Lrule Rrule">
+(%)
+</th>
+<th align="center" stylecode="Botrule Lrule Rrule">
+<sup>a</sup>N
+</th>
+<th align="center" stylecode="Botrule Lrule Rrule">
+(%)
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+1
+</td>
+<td stylecode="Botrule Lrule Rrule">
+Trabeculoplasty
+</td>
+<td stylecode="Botrule Lrule Rrule">
+&lt;0.05
+</td>
+<td stylecode="Botrule Lrule Rrule">
+0/40
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(0%)
+</td>
+<td stylecode="Botrule Lrule Rrule">
+6/35
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(17%)
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+2
+</td>
+<td stylecode="Botrule Lrule Rrule">
+Trabeculoplasty
+</td>
+<td stylecode="Botrule Lrule Rrule">
+=0.06
+</td>
+<td stylecode="Botrule Lrule Rrule">
+2/41
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(5%)
+</td>
+<td stylecode="Botrule Lrule Rrule">
+8/42
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(19%)
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+1
+</td>
+<td stylecode="Botrule Lrule Rrule">
+Iridotomy
+</td>
+<td stylecode="Botrule Lrule Rrule">
+&lt;0.05
+</td>
+<td stylecode="Botrule Lrule Rrule">
+0/11
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(0%)
+</td>
+<td stylecode="Botrule Lrule Rrule">
+4/10
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(40%)
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+2
+</td>
+<td stylecode="Botrule Lrule Rrule">
+Iridotomy
+</td>
+<td stylecode="Botrule Lrule Rrule">
+=0.05
+</td>
+<td stylecode="Botrule Lrule Rrule">
+0/17
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(0%)
+</td>
+<td stylecode="Botrule Lrule Rrule">
+4/19
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(21%)
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+1
+</td>
+<td stylecode="Botrule Lrule Rrule">
+Nd:YAG Capsulotomy
+</td>
+<td stylecode="Botrule Lrule Rrule">
+&lt;0.05
+</td>
+<td stylecode="Botrule Lrule Rrule">
+3/80
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(4%)
+</td>
+<td stylecode="Botrule Lrule Rrule">
+19/83
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(23%)
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+2
+</td>
+<td stylecode="Botrule Lrule Rrule">
+Nd:YAG Capsulotomy
+</td>
+<td stylecode="Botrule Lrule Rrule">
+&lt;0.05
+</td>
+<td stylecode="Botrule Lrule Rrule">
+0/83
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(0%)
+</td>
+<td stylecode="Botrule Lrule Rrule">
+22/81
+</td>
+<td stylecode="Botrule Lrule Rrule">
+(27%)
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,40 @@
+<table border="1" id="id_9dfdc422-f3c6-4b55-b4b0-62d7fc2c4e13" width="420" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="56.0%"></col>
+<col width="44.0%"></col>
+<tbody>
+<tr id="id_c3e4d8fc-e23a-49cd-a118-a28946674605">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="underline">MIC Range (mcg/mL)</content>
+<sup>††</sup>
+</td>
+</tr>
+<tr id="id_d6858f83-af4d-43ea-9a8c-94824846b09d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content> ATCC 25922</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">2 to 8</td>
+</tr>
+<tr id="id_a2684a79-20a6-4926-a41a-dcd0c3ed9e92">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content> ATCC 35218</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">4 to 16</td>
+</tr>
+<tr id="id_adeba7c7-9d4a-4a5e-8d8b-8dbec65ec2bc">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus influenzae</content> ATCC 49247</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">2 to 16</td>
+</tr>
+<tr id="id_2a2463d2-9e98-484c-bc36-f6c08ebbdf89">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 29213</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.12 to 0.5</td>
+</tr>
+<tr id="id_2e412201-2bcf-4cfc-bd70-40531b786730">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content> ATCC 49619</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.03 to 0.12</td>
+</tr>
+</tbody>
+</table>

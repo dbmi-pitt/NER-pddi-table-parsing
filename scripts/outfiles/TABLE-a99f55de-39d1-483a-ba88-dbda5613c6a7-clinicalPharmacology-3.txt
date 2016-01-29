@@ -1,0 +1,35 @@
+<table cellpadding="2" frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 4: Effects of SINGULAIR on Daytime Nasal Symptoms Score<footnote id="FOOT_321">Average of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0-3 categorical scale.</footnote> in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis </caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td align="center" valign="top"> Treatment Group (N)</td>
+<td align="center" valign="top"> Baseline <br/>Mean Score </td>
+<td align="center" valign="top"> Mean Change from Baseline </td>
+<td align="center" valign="top"> Difference Between Treatment and Placebo (95% CI) Least-Squares Mean </td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" valign="top"> SINGULAIR 10 mg (344) </td>
+<td align="center" valign="top"> 2.09 </td>
+<td align="center" valign="top"> -0.39 </td>
+<td align="center" valign="top"> -0.13<footnote id="FOOT_322">Statistically different from placebo (p≤0.001).</footnote> (-0.21, -0.06) </td>
+</tr>
+<tr>
+<td align="center" valign="top"> Placebo (351)</td>
+<td align="center" valign="top"> 2.10 </td>
+<td align="center" valign="top"> -0.26 </td>
+<td align="center" valign="top"> N.A. </td>
+</tr>
+<tr>
+<td align="center" valign="top">  Active Control<footnote id="FOOT_323">The study was not designed for statistical comparison between SINGULAIR and the active control (loratadine).</footnote> (Loratadine 10 mg) (599) </td>
+<td align="center" valign="top"> 2.06</td>
+<td align="center" valign="top"> -0.46</td>
+<td align="center" valign="top"> -0.24<footnoteref idref="FOOT_322"></footnoteref> (-0.31, -0.17)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,92 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Combined Metformin/Glyburide (Comb) vs Glyburide (Glyb) or Metformin (Met) Monotherapy: Summary of Mean Changes from Baseline* in Fasting Plasma Glucose, HbA1c and Body Weight, at Final Visit (29-week study)</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th stylecode="    Lrule          Rrule     "></th>
+<th align="center" stylecode="     Rrule     "></th>
+<th align="center" stylecode="     Rrule     "></th>
+<th align="center" stylecode="     Rrule     "></th>
+<th align="center" colspan="3" stylecode="     Botrule          Rrule     "> p-values</th>
+</tr>
+<tr>
+<th stylecode="    Lrule          Rrule     "></th>
+<th align="center" stylecode="     Rrule     " valign="bottom"> Comb<br/>(n=213)</th>
+<th align="center" stylecode="     Rrule     " valign="bottom"> Glyb<br/>(n=209)</th>
+<th align="center" stylecode="     Rrule     " valign="bottom"> GLU<br/>(n=210)</th>
+<th align="center" stylecode="     Rrule     " valign="bottom"> Glyb vs<br/>Comb</th>
+<th align="center" stylecode="     Rrule     " valign="bottom"> GLU vs<br/>Comb</th>
+<th align="center" stylecode="     Rrule     " valign="bottom"> GLU vs<br/>Glyb</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="4"> <paragraph>*All patients on glyburide, 20 mg/day, at Baseline</paragraph>
+</td>
+<td align="center" colspan="3"> <paragraph>**Not statistically significant</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<th stylecode="    Lrule          Rrule     "> Fasting Plasma<br/>Glucose (mg/dL)</th>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     ">   Baseline<br/>  Change at FINAL VISIT</td>
+<td align="center" stylecode="     Rrule     "> 250.5<br/>-63.5</td>
+<td align="center" stylecode="     Rrule     "> 247.5<br/>13.7</td>
+<td align="center" stylecode="     Rrule     "> 253.9<br/>-0.9</td>
+<td align="center" stylecode="     Rrule     "> NS**<br/>0.001</td>
+<td align="center" stylecode="     Rrule     "> NS**<br/>0.001</td>
+<td align="center" stylecode="     Rrule     "> NS**<br/>0.025</td>
+</tr>
+<tr>
+<th stylecode="    Lrule          Rrule     "> Hemoglobin A<sub>1c</sub> (%)</th>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     ">   Baseline<br/>  Change at FINAL VISIT</td>
+<td align="center" stylecode="     Rrule     "> 8.8<br/>-1.7</td>
+<td align="center" stylecode="     Rrule     "> 8.5<br/>0.2</td>
+<td align="center" stylecode="     Rrule     "> 8.9<br/>-0.4</td>
+<td align="center" stylecode="     Rrule     "> NS**<br/>0.001</td>
+<td align="center" stylecode="     Rrule     "> NS**<br/>0.001</td>
+<td align="center" stylecode="     Rrule     "> 0.007<br/>0.001</td>
+</tr>
+<tr>
+<th stylecode="    Lrule          Rrule     "> Body Weight (lbs)</th>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     ">   Baseline<br/>  Change at FINAL VISIT</td>
+<td align="center" stylecode="     Rrule     "> 202.2<br/>0.9</td>
+<td align="center" stylecode="     Rrule     "> 203.0<br/>-0.7</td>
+<td align="center" stylecode="     Rrule     "> 204.0<br/>-8.4</td>
+<td align="center" stylecode="     Rrule     "> NS**<br/>0.011</td>
+<td align="center" stylecode="     Rrule     "> NS**<br/>0.001</td>
+<td align="center" stylecode="     Rrule     "> NS**<br/>0.001</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,554 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>
+<content stylecode="bold">Fluid or Tissue </content>
+<br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>
+<content stylecode="bold">Dose </content>
+<br/> <br/>
+<content stylecode="bold">(g) </content>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>
+<content stylecode="bold">Route </content>
+<br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>
+<content stylecode="bold">Hours </content>
+<br/> <br/>
+<content stylecode="bold">Post-injection </content>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>
+<content stylecode="bold">Number </content>
+<br/> <br/>
+<content stylecode="bold">of </content>
+<br/>
+<br/>
+<content stylecode="bold">Patients </content>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>
+<content stylecode="bold">Mean </content>
+<br/> <br/>
+<content stylecode="bold">  Concentration</content>
+<br/>
+<br/>
+<content stylecode="bold"> (mcg/mL or mcg/g) </content>
+<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>Fluids <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  bile <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>1 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>10 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>39 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  blister fluid <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>1 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>1 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>6 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>20 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  bronchial secretion <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>4 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>7 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>5 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  cerebrospinal fluid (inflamed meninges)<br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.9 to 4.3 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>16 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>3 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  pericardial fluid <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>1 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>6 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>33 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  pleural fluid <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>1.1 to 3<br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>3 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>51 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  synovial fluid <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.8 to 1.9 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>11 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>83 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>Tissues <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  atrial appendage <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.9 to 1.6 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>12 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>22 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  endometrium <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.7 to 1.9 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>4 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>9 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  fallopian tube <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.7 to 1.9 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>8 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>12 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  fat <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>1.3 to 2<br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>10 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>5 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  femur <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>1 to 2.1 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>15 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>16 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  gallbladder <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.8 to 1.3 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>4 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>23 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  kidney <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2.4 to 5.6 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>5 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>67 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  large intestine <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.8 to 1.9 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>9 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>12 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  liver <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.9 to 2<br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>6 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>47 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  lung <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>1.2 to 2.1 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>6 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>22 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  myometrium <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.7 to 1.9 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>9 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>11 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  ovary <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.7 to 1.9 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>7 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>13 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  prostate <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>1 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IM <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.8 to 3 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>8 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>8 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  skeletal muscle <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0.3 to 0.7 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>6 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>16 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  skin <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>0 to 1<br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>8 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>25 <br/> <br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule" valign="top"> <br/>  sternum <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>2 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>IV <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>1 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>6 <br/> <br/>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> <br/>6 <br/> <br/>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>

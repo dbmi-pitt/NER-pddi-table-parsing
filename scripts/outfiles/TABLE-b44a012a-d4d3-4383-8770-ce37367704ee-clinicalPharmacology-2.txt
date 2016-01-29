@@ -1,0 +1,41 @@
+<table id="_RefID0ESPAC" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Streptococcus (except S. pneumoniae)</caption>
+<col width="18%"></col>
+<col width="17%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule ">
+<paragraph> <content stylecode="underline">MIC (mcg /mL)</content>
+</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph> <content stylecode="bold">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center">
+<paragraph> ≤ 0.25</paragraph>
+</td>
+<td>
+<paragraph> Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center">
+<paragraph> 0.5 to 4</paragraph>
+</td>
+<td>
+<paragraph> Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule ">
+<paragraph> ≥ 8</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph> Resistant (R)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

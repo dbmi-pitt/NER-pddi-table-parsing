@@ -1,0 +1,53 @@
+<table border="1" id="id_47218a3e-8a03-4324-a1ba-518070f75b0e" width="441.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="32.4%"></col>
+<col width="36.7%"></col>
+<col width="30.8%"></col>
+<tbody>
+<tr id="id_bb63ff3f-2036-4ff1-aa5e-3e29e4571b81">
+<td align="center" stylecode="Lrule Toprule" valign="top">
+<content stylecode="bold">Dose (mg)</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">Maximum Serum Concentration </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Area Under Curve </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(AUC) </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="bold">(mcg</content>•<content stylecode="bold">hr/mL)</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_b51ebc47-6450-4518-81ea-0aef852340da">
+<td align="center" stylecode="Lrule" valign="top"> 250 </td>
+<td align="center" valign="top"> 1.2 </td>
+<td align="center" stylecode="Rrule" valign="top"> 4.8 </td>
+</tr>
+<tr id="id_a917d1c1-f0d8-47c8-8e30-b7a519ab42b0">
+<td align="center" stylecode="Lrule" valign="top"> 500 </td>
+<td align="center" valign="top"> 2.4 </td>
+<td align="center" stylecode="Rrule" valign="top"> 11.6 </td>
+</tr>
+<tr id="id_99fd8112-072e-4fdc-a6df-fa97bba27bc4">
+<td align="center" stylecode="Lrule" valign="top"> 750 </td>
+<td align="center" valign="top"> 4.3 </td>
+<td align="center" stylecode="Rrule" valign="top"> 20.2 </td>
+</tr>
+<tr id="id_49e59664-5511-4190-8dc4-2c0613d30a87">
+<td align="center" stylecode="Lrule Botrule" valign="top"> 1000 </td>
+<td align="center" stylecode="Botrule" valign="top"> 5.4 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 30.8 </td>
+</tr>
+</tbody>
+</table>

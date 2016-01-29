@@ -1,0 +1,99 @@
+<table id="t5" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5: Susceptibility Test Interpretive Criteria for Cefazolin<sup>a</sup>
+</caption>
+<col align="left" width="21.314%"></col>
+<col align="left" width="13.114%"></col>
+<col align="left" width="13.114%"></col>
+<col align="left" width="13.114%"></col>
+<col align="left" width="13.114%"></col>
+<col align="left" width="13.114%"></col>
+<col align="left" width="13.114%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">Abbreviations: S= susceptible, I= intermediate, R= resistant
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">
+<sup>a</sup>Interpretive criteria are based on 1 g every 8 hr
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">
+<sup>b</sup>The cefazolin disk should not be used for determining susceptibility to other cephalosporins
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" rowspan="2" stylecode="Toprule Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" colspan="3" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">Minimum Inhibitory Concentration (mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">Disk Diffusion Zone Diameter (mm)</content>
+<content stylecode="bold">
+<sup>b</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Rrule" valign="middle">S
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">I
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">R
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">S
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">I
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">R
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+<br/>
+<content stylecode="italics">Proteus mirabilis</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 1
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 4
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 8
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">16
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 32
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 18
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">15 to 17
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 14
+</td>
+</tr>
+</tbody>
+</table>

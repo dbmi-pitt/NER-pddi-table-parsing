@@ -1,0 +1,117 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="25%"></col>
+<col width="13%"></col>
+<col width="40%"></col>
+<col width="22%"></col>
+<tfoot>
+<tr>
+<td colspan="4"> <paragraph>
+<sup>a</sup>Values reported in published literature.<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4"> <paragraph>
+<sup>b</sup> Means ± SD.<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4"> <paragraph>
+<sup>c</sup> Mean (95% confidence interval).<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" colspan="4" valign="top"> Table 8<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="underline">Dosage</content>
+<content stylecode="underline">
+<br/>
+</content>
+<br/>
+</td>
+<td align="center" valign="top"> <content stylecode="underline">Route</content>
+<content stylecode="underline">
+<br/>
+</content>
+<br/>
+</td>
+<td align="center" valign="top"> <content stylecode="underline">Effect<sup>a</sup>
+</content>
+<br/>
+</td>
+<td align="center" valign="top"> Number of Patients<br/>(age range)<content stylecode="underline">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> 0.5 mg/kg, single dose<br/>
+</td>
+<td align="center" valign="top"> I.V.<br/>
+</td>
+<td valign="top"> gastric pH &gt;4 for 19.5 hours (17.3, 21.8)<sup>c</sup>
+<br/>
+</td>
+<td align="center" valign="top"> 11 (5-19 days)<br/>
+</td>
+</tr>
+<tr>
+<td valign="top"> 0.3 mg/kg, single dose<br/>
+</td>
+<td align="center" valign="top"> I.V.<br/>
+</td>
+<td valign="top"> gastric pH &gt;3.5 for 8.7 ± 4.7<sup>b</sup> hours<br/>
+</td>
+<td align="center" valign="top"> 6 (2-7 years)<br/>
+</td>
+</tr>
+<tr>
+<td valign="top"> 0.4-0.8 mg/kg<br/>
+</td>
+<td align="center" valign="top"> I.V.<br/>
+</td>
+<td valign="top"> gastric pH &gt;4 for 6-9 hours<br/>
+</td>
+<td align="center" valign="top"> 18 (2-69 months)<br/>
+</td>
+</tr>
+<tr>
+<td valign="top"> 0.5 mg/kg, single dose<br/>
+</td>
+<td align="center" valign="top"> I.V.<br/>
+</td>
+<td valign="top"> a &gt;2 pH unit increase above baseline in<br/>gastric pH for &gt;8 hours<br/>
+</td>
+<td align="center" valign="top"> 9 (2-13 years)<br/>
+</td>
+</tr>
+<tr>
+<td valign="top"> 0.5 mg/kg b.i.d.<br/>
+</td>
+<td align="center" valign="top"> I.V.<br/>
+</td>
+<td valign="top"> gastric pH &gt;5 for 13.5 ± 1.8<sup>b</sup> hours<br/>
+</td>
+<td align="center" valign="top"> 4 (6-15 years)<br/>
+</td>
+</tr>
+<tr>
+<td valign="top"> 0.5 mg/kg b.i.d.<br/>
+</td>
+<td align="center" valign="top"> oral<br/>
+</td>
+<td valign="top"> gastric pH &gt;5 for 5.0 ± 1.1<sup>b</sup> hours<br/>
+</td>
+<td align="center" valign="top"> 4 (11-15 years)<br/>
+</td>
+</tr>
+</tbody>
+</table>

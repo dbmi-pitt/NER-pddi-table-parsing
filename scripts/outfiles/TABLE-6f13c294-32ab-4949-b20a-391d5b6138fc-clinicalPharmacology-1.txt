@@ -1,0 +1,96 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="20%"></col>
+<col width="26%"></col>
+<col width="17%"></col>
+<col width="35%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<paragraph>
+<content stylecode="bold">Coadministered drug</content>
+</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>
+<content stylecode="bold">Dose schedules </content>
+</paragraph>
+</td>
+<td stylecode="Toprule "></td>
+<td stylecode="Toprule ">
+<paragraph>
+<content stylecode="bold">Effect on other drugs pharmacokinetics</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<paragraph>
+<content stylecode="bold">Coadministered drug</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Quetiapine</content>
+</paragraph>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<paragraph>Lorazepam</paragraph>
+</td>
+<td>
+<paragraph>2 mg, single dose</paragraph>
+</td>
+<td>
+<paragraph>250 mg three times daily</paragraph>
+</td>
+<td>
+<paragraph>Oral clearance of lorazepam reduced by 20%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Divalproex </paragraph>
+</td>
+<td>
+<paragraph>500 mg twice daily </paragraph>
+</td>
+<td>
+<paragraph>150 mg twice daily </paragraph>
+</td>
+<td>
+<paragraph>C<sub>max</sub> and AUC of free valproic acid at steady-state was decreased by 10 to 12% </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Lithium</paragraph>
+</td>
+<td>
+<paragraph> Up to 2400 mg/day given in twice daily doses </paragraph>
+</td>
+<td>
+<paragraph>250 mg three times daily </paragraph>
+</td>
+<td>
+<paragraph>No effect on steady-state pharmacokinetics of lithium</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Antipyrine </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>1 g, single dose </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>250 mg three times daily </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>No effect on clearance of antipyrine or urinary recovery of its metabolites </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,152 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Table 5:</content>
+<br/>
+</td>
+<td align="justify" colspan="9" stylecode="Rrule" valign="top">
+<content stylecode="bold">Pharmacokinetic Parameters in Subjects with Selected Degrees of Renal Function</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule" valign="top"></td>
+<td colspan="7" stylecode="Rrule" valign="top">
+<content stylecode="bold">Renal Function Group</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"></td>
+<td colspan="5" stylecode="Rrule" valign="top">
+<content stylecode="bold">       Baseline Creatinine Clearance (mL/min)</content>
+<br/>
+</td>
+<td colspan="3" stylecode="Rrule" valign="top"></td>
+<td stylecode="Rrule" valign="top"> <br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Unimpaired</content>
+<br/>
+<content stylecode="bold">&gt;80</content>
+<br/>
+<content stylecode="bold">n=6</content>
+<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">Mild</content>
+<br/>
+<content stylecode="bold">&gt;50</content>
+<content stylecode="bold">–<content stylecode="underline">&lt;</content>80</content>
+<br/>
+<content stylecode="bold">n=6</content>
+<content stylecode="bold"></content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Moderate 30–50</content>
+<br/>
+<content stylecode="bold">n=6</content>
+<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">Severe</content>
+<br/>
+<content stylecode="bold">&lt;30</content>
+<br/>
+<content stylecode="bold">n=6</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Severe </content>
+<br/>
+<content stylecode="bold">Managed with</content>
+<br/>
+<content stylecode="bold">Hemodialysis<sup>a</sup>
+</content>
+<br/>
+<content stylecode="bold">n=6</content>
+<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">Severe </content>
+<br/>
+<content stylecode="bold">Managed</content>
+<br/>
+<content stylecode="bold">with CAPD</content>
+<br/>
+<content stylecode="bold">n=4</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Cmax (ng/mL) <br/>(CV%)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">8.1<br/>(30.7)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">10.4<br/>(37.2)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">10.5<br/>(22.7)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">15.3<br/>(33.8)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">15.4<br/>(56.4)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">16.6<br/>(29.7)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">AUC<sub>(0 – T) </sub>(ng•h/mL) <br/>(CV)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">27.9<br/>(25.6)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">51.5<br/>(22.8)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">69.5<br/>(22.7)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">145.7<br/>(31.5)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">233.9<br/>(28.4)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">221.8<br/>(11.6)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">CLR (mL/min) <br/>(SD)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">383.2<br/>(101.8)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">197.9<br/>(78.1)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">135.6<br/>(31.6)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">40.3<br/>(10.1)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">NA<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">NA<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">CLT/F (mL/min) <br/>(SD)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">588.1<br/>(153.7)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">309.2<br/>(62.6)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">226.3<br/>(60.1)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">100.6<br/>(29.1)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">50.6<br/>(16.5)<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">35.7<br/>(19.6)<br/>
+</td>
+</tr>
+</tbody>
+</table>

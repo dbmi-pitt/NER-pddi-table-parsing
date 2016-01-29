@@ -1,0 +1,59 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="27%"></col>
+<col width="13%"></col>
+<col width="12%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule "></td>
+<td align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">SURVIVAL (%)</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule "></td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Six Months</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">One Year</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Enalapril Maleate (n=127)<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>74<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>64<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>Placebo (n=126)<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>56<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>48<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

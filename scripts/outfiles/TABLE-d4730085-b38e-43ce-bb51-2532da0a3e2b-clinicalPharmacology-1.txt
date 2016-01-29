@@ -1,0 +1,61 @@
+<table id="id_24ffccf4-db63-4aa3-a55a-c9984666861f" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_a8de1722-f1bc-4ec7-9b4f-c6f0954903ff">Steady-state Pharmacokinetic Parameter Following Multiple Oral and I.V. Doses </caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_d5eb02b9-e37d-4edb-af96-65055cea9064">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top"> Parameters</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">500 mg<br/> q12h, P.O.</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">400 mg<br/> q12h, I.V.</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">750 mg<br/> q12h, P.O.</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">400 mg<br/> q8h, I.V.</td>
+</tr>
+<tr id="id_af21660a-efa0-4943-9fea-dcaacfd6e1ca">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph> AUC (mcg•hr/mL)</paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>13.7<sup>a</sup>
+</paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>12.7<sup>a</sup>
+</paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>31.6<sup>b</sup>
+</paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>32.9<sup>c</sup>
+</paragraph>
+</td>
+</tr>
+<tr id="id_a3de79e4-ee09-490d-9190-91bce58021dc">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph> C<sub>max</sub> (mcg/mL)</paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>2.97</paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>4.56</paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>3.59</paragraph>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>4.07</paragraph>
+</td>
+</tr>
+<tr id="id_d7acd634-b9f7-48af-817a-c95fa9730883">
+<td align="justify" colspan="5" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph> <sup>a</sup> AUC<sub>0-12h</sub>
+</paragraph>
+<paragraph> <sup>b</sup> AUC 24h = AUC<sub>0-12h</sub> x 2</paragraph>  <sup>c</sup> AUC 24h = AUC<sub>0-8h</sub> x 3</td>
+</tr>
+</tbody>
+</table>

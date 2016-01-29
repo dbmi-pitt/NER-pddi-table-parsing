@@ -1,0 +1,30 @@
+<table border="none" id="id_76b5816e-8d3a-42e5-a020-4a5fcce0faa5" width="432" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<tbody>
+<tr id="id_b0221a71-4c03-4cf8-b3f5-24b09618da96" stylecode="Toprule">
+<td align="center" valign="top">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Interpretation </content>
+</td>
+</tr>
+<tr id="id_9a2dd639-9a7e-4dad-8670-08edff52c8b4">
+<td align="center" valign="top">≥ 18</td>
+<td align="center" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_762a2ac4-057b-47b4-84b7-df57a6672992">
+<td align="center" valign="top">15 – 17</td>
+<td align="center" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_b3ac27ef-dd23-4b5a-a30f-14d68c079b50">
+<td align="center" valign="top">≤ 14</td>
+<td align="center" valign="top">Resistant (R)</td>
+</tr>
+<tr id="id_54433b02-7cef-4a82-9a71-8a14e221ceab" stylecode="Botrule">
+<td align="left" colspan="2" valign="top">
+<sup>f</sup> These interpretive standards are applicable only to disk diffusion tests using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO<sub>2</sub>.</td>
+</tr>
+</tbody>
+</table>

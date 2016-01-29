@@ -1,0 +1,90 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="36%"></col>
+<col width="18%"></col>
+<col width="46%"></col>
+<tfoot>
+<tr>
+<td colspan="3"> <paragraph>g This quality control range is applicable only to tests performed by disk diffusion using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood. <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3"> <paragraph>h This quality control limit applies to tests conducted with <content stylecode="italics">Haemophilus </content>
+<content stylecode="italics">influenzae </content>ATCC 49247 using HTM<sup>2</sup>.<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule     " valign="top"> <content stylecode="bold">Microorganism</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td stylecode="     Botrule          Toprule     " valign="top"> <content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule     " valign="top"> <content stylecode="bold">Zone </content>
+<content stylecode="bold">diameter </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mm</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     " valign="top"> <content stylecode="italics">S</content>
+<content stylecode="italics">. </content>
+<content stylecode="italics">aureus</content>
+<br/>
+</td>
+<td stylecode="     Toprule     " valign="top"> ATCC 25923<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="     Toprule     " valign="top"> 26 to 32<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="italics">S</content>
+<content stylecode="italics">. </content>
+<content stylecode="italics">pneumoniae<sup>g</sup>
+</content>
+<content stylecode="italics">
+<br/>
+</content>
+</td>
+<td valign="top"> ATCC 49619<content stylecode="italics">
+<br/>
+</content>
+</td>
+<td align="center" valign="top"> 25 to 31<content stylecode="italics">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="top"> <content stylecode="italics">Haemophilus </content>
+<content stylecode="italics">influenzae<sup>h</sup>
+</content>
+<content stylecode="italics">
+<br/>
+</content>
+</td>
+<td stylecode="     Botrule     " valign="top"> ATCC 49247<content stylecode="italics">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 11 to 17<content stylecode="italics">
+<br/>
+</content>
+</td>
+</tr>
+</tbody>
+</table>

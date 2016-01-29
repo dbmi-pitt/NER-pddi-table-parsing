@@ -1,0 +1,141 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2: Incidence of Primary Endpoint Events</caption>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">      </td>
+<td align="center" colspan="2" stylecode="     Botrule          Rrule     " valign="bottom"> Losartan Potassium </td>
+<td align="center" colspan="2" stylecode="     Botrule          Rrule     " valign="top"> Atenolol</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> Risk Reduction<footnote id="FOOT_4653">Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy</footnote>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 95% CI </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> p-Value</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> N (%) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> Rate<footnote id="FOOT_4654">Rate per 1000 patient-years of follow-up</footnote>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> N (%) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> Rate<footnoteref idref="FOOT_4654"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom">    </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Primary Composite Endpoint </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  508 (11) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  23.8 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  588 (13) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  27.9 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  13% </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  2% to 23% </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom">  0.021 </td>
+</tr>
+<tr>
+<td colspan="8" stylecode="     Botrule         Lrule          Rrule     " valign="top"> Components of Primary Composite Endpoint (as a first event)                      </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Stroke (nonfatal<footnote id="FOOT_4655">First report of an event, in some cases the patient died subsequently to the event reported</footnote>) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  209 (5) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  286 (6) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom">    </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Myocardial infarction (nonfatal<footnoteref idref="FOOT_4655"></footnoteref>) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  174 (4) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  168 (4) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom">    </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Cardiovascular mortality </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  125 (3) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  134 (3) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">    </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom">    </td>
+</tr>
+<tr>
+<td colspan="8" stylecode="     Botrule         Lrule          Rrule     " valign="top"> Secondary Endpoints (any time in study)                      </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Stroke (fatal/nonfatal) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  232 (5) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  10.8 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  309 (7) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  14.5 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  25% </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  11% to 37% </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom">  0.001 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Myocardial infarction (fatal/nonfatal) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  198 (4) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  9.2 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  188 (4) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  8.7 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  -7% </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  -13% to 12% </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom">  0.491 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Cardiovascular mortality </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  204 (4) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  9.2 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  234 (5) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  10.6 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  11% </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  -7% to 27% </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom">  0.206 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Due to CHD </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  125 (3) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  5.6 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  124 (3) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  5.6 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  -3% </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  -32% to 20% </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom">  0.839 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Due to Stroke </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  40 (1) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  1.8 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  62 (1) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  2.8 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  35% </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  4% to 67% </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom">  0.032 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> Other<footnote id="FOOT_4656">Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease</footnote>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  39 (1) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  1.8 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  48 (1) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  2.2 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  16% </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  -28% to 45% </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom">  0.411 </td>
+</tr>
+</tbody>
+</table>

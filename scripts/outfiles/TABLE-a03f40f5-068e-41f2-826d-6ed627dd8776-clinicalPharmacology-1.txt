@@ -1,0 +1,42 @@
+<table border="0" id="id_e9ef8be1-3880-400d-bf20-ebb58eaa3640" width="NaN" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="NaN%"></col>
+<col align="left" width="NaN%"></col>
+<col width="NaN%"></col>
+<thead>
+<tr id="id_f0559b0e-8cb1-49ef-b7a0-5a2c9ee501de" stylecode="Toprule">
+<td align="left" colspan="2" valign="top">When testing either <content stylecode="emphasis">
+<content stylecode="italics">Haemophilus influenzae</content>
+</content>
+<footnote id="id-337d5f90-d04e-408d-bc15-714eb6172505">These interpretative standards are applicable only to both microdilution susceptibility tests with <content stylecode="bold">
+<content stylecode="italics">Haemophilus influenzae</content>
+</content>  using <content stylecode="bold">
+<content stylecode="italics">Haemophilus</content>
+</content>  Test Medium (HTM).<sup>4</sup>
+</footnote>  or <content stylecode="emphasis">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</content>
+<footnote id="id-7319bc16-b29d-42c8-b11a-fea228ac8821">These interpretative standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2% to 5% lysed horse blood.<sup>4</sup>
+</footnote>:</td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_a227b1e7-2bd4-4901-b9c9-46340a63abbf" stylecode="Botrule">
+<td align="left" valign="top">  MIC (mcg/mL)</td>
+<td align="left" colspan="2" valign="top">Interpretation<footnoteref idref="id-7319bc16-b29d-42c8-b11a-fea228ac8821"></footnoteref>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_9dae72ea-2a48-4204-99f3-a86fcdb6bf6a" stylecode="Toprule">
+<td align="left" valign="top">  ≤0.5/9.5</td>
+<td align="left" colspan="2" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_34109b0e-d12b-4b1a-9dae-a3bb15802442">
+<td align="left" valign="top">  1/19–2/38</td>
+<td align="left" colspan="2" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_1a2dcd99-44bb-407a-9737-007d60f1fc50" stylecode="Botrule">
+<td align="left" valign="top">  ≥4/76</td>
+<td align="left" colspan="2" valign="top">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

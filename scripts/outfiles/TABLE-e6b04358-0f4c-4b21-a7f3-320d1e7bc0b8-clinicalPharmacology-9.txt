@@ -1,0 +1,87 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="34%"></col>
+<col width="33%"></col>
+<col width="33%"></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="underline">Microorganism</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="underline">Zone Diameter Range (mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph> Tetracycline</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph> Minocycline</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Escherichia coli </content>ATCC 25922</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph> 18 to 25</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph> 19 to 25</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus </content>ATCC 29213</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph> 24 to 30</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph> 25 to 30</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae </content>ATCC 49247</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph> 14 to 22</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph> -</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Neisseria gonorrhoeae </content>ATCC 49226</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph> 30 to 42</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph> -</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae </content>ATCC 49619</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph> 27 to 31</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph> -</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

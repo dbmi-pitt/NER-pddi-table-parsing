@@ -1,0 +1,83 @@
+<table id="_Refid_10db41db-be42-47b4-9f4c-6072685e2" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10. Acceptable Quality Control Ranges for Micafungin to be Used in Validation of Susceptibility Test Results</caption>
+<col width="34%"></col>
+<col width="48%"></col>
+<col width="34%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">QC strains</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Broth microdilution (MIC in mcg/mL) at 24- hour</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Disk Diffusion</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Zone diameter in mm) at 24-hour</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Candida parapsilosis </content>ATCC<footnote id="_Refid-b4a2ba2e-5617-4ea7-8918-d9632748f">ATCC is a registered trademark of the American Type Culture Collection.</footnote> 22019</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>0.5 – 2.0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>14 – 23</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Candida krusei </content>ATCC 6258</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>0.12 – 0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>23 – 29</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Candida tropicalis</content> ATCC 750</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>Not Applicable<footnote id="_Refid-9d24542d-5d15-41e5-a343-34959864a">Quality control ranges have not been established for this strain/antifungal agent combination.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>24 – 30</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Candida albicans </content>ATCC 90028</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>Not Applicable<footnoteref idref="_Refid-9d24542d-5d15-41e5-a343-34959864a"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>24 – 31</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>MIC: minimum inhibitory concentration</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

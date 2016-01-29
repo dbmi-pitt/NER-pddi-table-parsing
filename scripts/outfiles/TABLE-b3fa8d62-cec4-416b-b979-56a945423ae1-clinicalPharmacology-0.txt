@@ -1,0 +1,35 @@
+<table id="id_357feeb5-3a5f-473c-a3bc-58a2481cf029" width="610" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="33.3%"></col>
+<col width="32.5%"></col>
+<col width="34.3%"></col>
+<tbody>
+<tr id="id_8717969d-d276-4241-8e1a-977933966e04">
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Zone Diameter (mm)   </content>
+</td>
+<td align="left" stylecode="Lrule Botrule" valign="top">
+<content stylecode="bold">  Interpretation</content>
+</td>
+</tr>
+<tr id="id_e1cdf99c-bbe7-4402-997a-14cae44578ab">
+<td align="left" stylecode="Botrule Rrule" valign="top">tetracycline</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">doxycycline</td>
+<td align="left" stylecode="Lrule Botrule" valign="top"></td>
+</tr>
+<tr id="id_9a454045-3f52-4fdf-925f-e7e852291e08">
+<td align="left" stylecode="Botrule Rrule" valign="top">≥19</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">≥16</td>
+<td align="left" stylecode="Lrule Botrule" valign="top">Susceptible</td>
+</tr>
+<tr id="id_d7865187-7f60-46b5-a85a-9cd06569dff9">
+<td align="left" stylecode="Botrule Rrule" valign="top">15-18</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">13-15</td>
+<td align="left" stylecode="Lrule Botrule" valign="top">Intermediate</td>
+</tr>
+<tr id="id_2ccd3f8e-bd66-468d-a6cc-04cbfaa37714">
+<td align="left" stylecode="Rrule" valign="top">≤14</td>
+<td align="left" stylecode="Rrule" valign="top">≤12</td>
+<td align="left" stylecode="Botrule" valign="top">Resistant</td>
+</tr>
+</tbody>
+</table>

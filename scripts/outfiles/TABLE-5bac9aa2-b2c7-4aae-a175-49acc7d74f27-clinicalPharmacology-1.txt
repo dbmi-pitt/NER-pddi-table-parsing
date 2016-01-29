@@ -1,0 +1,418 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Azithromycin</caption>
+<col span="1" width="17%"></col>
+<col span="1" width="17%"></col>
+<col span="1" width="17%"></col>
+<col span="1" width="17%"></col>
+<col span="1" width="17%"></col>
+<col span="1" width="17%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Coadministered Drug</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Dose of Coadministered Drug</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Dose of Azithromycin</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">n</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Ratio (with/without azithromycin) of Coadministered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Mean C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Mean AUC</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Atorvastatin</paragraph>
+</td>
+<td>
+<paragraph>10 mg/day for 8 days</paragraph>
+</td>
+<td>
+<paragraph>500 mg/day orally on days 6 to 8</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>0.83</paragraph>
+<paragraph>(0.63 to 1.08)</paragraph>
+</td>
+<td>
+<paragraph>1.01</paragraph>
+<paragraph>(0.81 to 1.25)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Carbamazepine</paragraph>
+</td>
+<td>
+<paragraph>200 mg/day for 2 days, then 200 mg twice a day for 18 days</paragraph>
+</td>
+<td>
+<paragraph>500 mg/day orally for days 16 to 18</paragraph>
+</td>
+<td>
+<paragraph>7</paragraph>
+</td>
+<td>
+<paragraph>0.97</paragraph>
+<paragraph>(0.88 to 1.06)</paragraph>
+</td>
+<td>
+<paragraph>0.96</paragraph>
+<paragraph>(0.88 to 1.06)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Cetirizine</paragraph>
+</td>
+<td>
+<paragraph>20 mg/day for 11 days</paragraph>
+</td>
+<td>
+<paragraph>500 mg orally on day 7, then 250 mg/day on days 8 to 11</paragraph>
+</td>
+<td>
+<paragraph>14</paragraph>
+</td>
+<td>
+<paragraph>1.03</paragraph>
+<paragraph>(0.93 to 1.14)</paragraph>
+</td>
+<td>
+<paragraph>1.02</paragraph>
+<paragraph>(0.92 to 1.13)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Didanosine</paragraph>
+</td>
+<td>
+<paragraph>200 mg orally twice a day for 21 days</paragraph>
+</td>
+<td>
+<paragraph>1,200 mg/day orally on days 8 to 21</paragraph>
+</td>
+<td>
+<paragraph>6</paragraph>
+</td>
+<td>
+<paragraph>1.44</paragraph>
+<paragraph>(0.85 to 2.43)</paragraph>
+</td>
+<td>
+<paragraph>1.14</paragraph>
+<paragraph>(0.83 to 1.57)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Efavirenz</paragraph>
+</td>
+<td>
+<paragraph>400 mg/day for 7 days</paragraph>
+</td>
+<td>
+<paragraph>600 mg orally on day 7</paragraph>
+</td>
+<td>
+<paragraph>14</paragraph>
+</td>
+<td>
+<paragraph>1.04<linkhtml href="#footnote-3">*</linkhtml>
+</paragraph>
+</td>
+<td>
+<paragraph>0.95<footnoteref idref="_Ref391037989"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Fluconazole</paragraph>
+</td>
+<td>
+<paragraph>200 mg orally single dose</paragraph>
+</td>
+<td>
+<paragraph>1,200 mg orally single dose</paragraph>
+</td>
+<td>
+<paragraph>18</paragraph>
+</td>
+<td>
+<paragraph>1.04</paragraph>
+<paragraph>(0.98 to 1.11)</paragraph>
+</td>
+<td>
+<paragraph>1.01</paragraph>
+<paragraph>(0.97 to 1.05)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Indinavir</paragraph>
+</td>
+<td>
+<paragraph>800 mg three times a day for 5 days</paragraph>
+</td>
+<td>
+<paragraph>1,200 mg orally on day 5</paragraph>
+</td>
+<td>
+<paragraph>18</paragraph>
+</td>
+<td>
+<paragraph>0.96</paragraph>
+<paragraph>(0.86 to 1.08)</paragraph>
+</td>
+<td>
+<paragraph>0.90</paragraph>
+<paragraph>(0.81 to 1.00)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Midazolam</paragraph>
+</td>
+<td>
+<paragraph>15 mg orally on day 3</paragraph>
+</td>
+<td>
+<paragraph>500 mg/day orally for 3 days</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>1.27</paragraph>
+<paragraph>(0.89 to 1.81)</paragraph>
+</td>
+<td>
+<paragraph>1.26</paragraph>
+<paragraph>(1.01 to 1.56)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Nelfinavir</paragraph>
+</td>
+<td>
+<paragraph>750 mg three times a day for 11 days</paragraph>
+</td>
+<td>
+<paragraph>1,200 mg orally on day 9</paragraph>
+</td>
+<td>
+<paragraph>14</paragraph>
+</td>
+<td>
+<paragraph>0.90</paragraph>
+<paragraph>(0.81 to 1.01)</paragraph>
+</td>
+<td>
+<paragraph>0.85</paragraph>
+<paragraph>(0.78 to 0.93)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Sildenafil</paragraph>
+</td>
+<td>
+<paragraph>100 mg on days 1 and 4</paragraph>
+</td>
+<td>
+<paragraph>500 mg/day orally for 3 days</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>1.16</paragraph>
+<paragraph>(0.86 to 1.57)</paragraph>
+</td>
+<td>
+<paragraph>0.92</paragraph>
+<paragraph>(0.75 to 1.12)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Theophylline</paragraph>
+</td>
+<td>
+<paragraph>4 mg/kg IV on days 1, 11, 25</paragraph>
+</td>
+<td>
+<paragraph>500 mg orally on day 7, 250 mg/day on days 8 to 11</paragraph>
+</td>
+<td>
+<paragraph>10</paragraph>
+</td>
+<td>
+<paragraph>1.19</paragraph>
+<paragraph>(1.02 to 1.40)</paragraph>
+</td>
+<td>
+<paragraph>1.02</paragraph>
+<paragraph>(0.86 to 1.22)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Theophylline</paragraph>
+</td>
+<td>
+<paragraph>300 mg orally BID x 15 days</paragraph>
+</td>
+<td>
+<paragraph>500 mg orally on day 6, then 250 mg/day on days 7 to 10</paragraph>
+</td>
+<td>
+<paragraph>8</paragraph>
+</td>
+<td>
+<paragraph>1.09</paragraph>
+<paragraph>(0.92 to 1.29)</paragraph>
+</td>
+<td>
+<paragraph>1.08</paragraph>
+<paragraph>(0.89 to 1.31)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Triazolam</paragraph>
+</td>
+<td>
+<paragraph>0.125 mg on day 2</paragraph>
+</td>
+<td>
+<paragraph>500 mg orally on day 1, then 250 mg/day on day 2</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>1.06<footnoteref idref="_Ref391037989"></footnoteref>
+</paragraph>
+</td>
+<td>
+<paragraph>1.02<footnoteref idref="_Ref391037989"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Trimethoprim/ Sulfamethoxazole</paragraph>
+</td>
+<td>
+<paragraph>160 mg/800 mg/day orally for 7 days</paragraph>
+</td>
+<td>
+<paragraph>1,200 mg orally on day 7</paragraph>
+</td>
+<td>
+<paragraph>12</paragraph>
+</td>
+<td>
+<paragraph>0.85</paragraph>
+<paragraph>(0.75 to 0.97)/</paragraph>
+</td>
+<td>
+<paragraph>0.87</paragraph>
+<paragraph>(0.80 to 0.95)/</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>0.90</paragraph>
+<paragraph>(0.78 to 1.03)</paragraph>
+</td>
+<td>
+<paragraph>0.96</paragraph>
+<paragraph>(0.88 to 1.03)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Zidovudine</paragraph>
+</td>
+<td>
+<paragraph>500 mg/day orally for 21 days</paragraph>
+</td>
+<td>
+<paragraph>600 mg/day orally for 14 days</paragraph>
+</td>
+<td>
+<paragraph>5</paragraph>
+</td>
+<td>
+<paragraph>1.12</paragraph>
+<paragraph>(0.42 to 3.02)</paragraph>
+</td>
+<td>
+<paragraph>0.94</paragraph>
+<paragraph>(0.52 to 1.70)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Zidovudine</paragraph>
+</td>
+<td>
+<paragraph>500 mg/day orally for 21 days</paragraph>
+</td>
+<td>
+<paragraph>1,200 mg/day orally for 14 days</paragraph>
+</td>
+<td>
+<paragraph>4</paragraph>
+</td>
+<td>
+<paragraph>1.31</paragraph>
+<paragraph>(0.43 to 3.97)</paragraph>
+</td>
+<td>
+<paragraph>1.30</paragraph>
+<paragraph>(0.69 to 2.43)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>

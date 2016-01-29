@@ -1,0 +1,225 @@
+<table frame="box" width="612" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table  4. Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure</caption>
+<colgroup>
+<col align="left" valign="top" width="150*"></col>
+<col align="left" valign="top" width="81*"></col>
+<col align="left" valign="top" width="80*"></col>
+<col align="left" valign="top" width="82*"></col>
+</colgroup>
+<thead>
+<tr stylecode="Botrule">
+<th>Coadministered drug and dosing regimen</th>
+<th align="center" colspan="3">Rosuvastatin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>
+<paragraph>
+<content stylecode="bold">Dose (mg)<footnote id="FN1194541306-1">Single dose unless otherwise noted</footnote>
+</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Change in AUC<footnote id="FN1264536659-1">Mean ratio (with/without coadministered drug and no change = 1-fold) or % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively.</footnote>
+</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Change in C<sub>max</sub>
+<footnoteref id="FN1264536873-1" idref="FN1264536659-1"></footnoteref>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Cyclosporine – stable dose required (75 mg – 200 mg BID)			</paragraph>
+</td>
+<td>
+<paragraph>10 mg QD for 10 days</paragraph>
+</td>
+<td>
+<paragraph>↑ 7-fold<footnote id="FN1194541417-1">Clinically significant [<content stylecode="italics">see Dosage and Administration</content> (<linkhtml href="#tylerr1187016457870">2</linkhtml>) and<content stylecode="italics"> Warnings and Precautions</content> (<linkhtml href="#tylerr1187016578885">5</linkhtml>)</footnote>
+</paragraph>
+</td>
+<td>
+<paragraph>↑ 11-fold<footnoteref idref="FN1194541417-1"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Gemfibrozil 600 mg BID for 7 days		</paragraph>
+</td>
+<td>
+<paragraph>80 mg	</paragraph>
+</td>
+<td>
+<paragraph>↑ 1.9-fold<footnoteref idref="FN1194541417-1"></footnoteref>
+</paragraph>
+</td>
+<td>
+<paragraph>↑ 2.2-fold<footnoteref idref="FN1194541417-1"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Lopinavir/ritonavir combination 400 mg/100 mg BID for 10 days			</paragraph>
+</td>
+<td>
+<paragraph>20 mg QD for 7 days</paragraph>
+</td>
+<td>
+<paragraph>↑ 2-fold<footnoteref idref="FN1194541417-1"></footnoteref>
+</paragraph>
+</td>
+<td>
+<paragraph>↑ 5-fold<footnoteref idref="FN1194541417-1"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Atazanavir/ritonavir combination 300 mg/100 mg QD for 7 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 3-fold<footnoteref idref="FN1194541417-1"></footnoteref>
+</paragraph>
+</td>
+<td>
+<paragraph>↑ 7-fold<footnoteref idref="FN1194541417-1"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Tipranavir/ritonavir combination 500 mg/200mg BID for 11 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 26%</paragraph>
+</td>
+<td>
+<paragraph>↑ 2-fold</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Fosamprenavir/ritonavir 700 mg/100 mg BID for 7 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 8%</paragraph>
+</td>
+<td>
+<paragraph>↑ 45%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Fenofibrate 67 mg TID for 7 days		</paragraph>
+</td>
+<td>
+<paragraph>10 mg	</paragraph>
+</td>
+<td>
+<paragraph>↑ 7%</paragraph>
+</td>
+<td>
+<paragraph>↑ 21%</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="1">
+<paragraph>Aluminum &amp; magnesium hydroxide combination antacid</paragraph>
+<paragraph> Administered simultaneously</paragraph>
+<paragraph> Administered 2 hours apart</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>40 mg</paragraph>
+<paragraph>40 mg</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>↓ 54%<footnoteref idref="FN1194541417-1"></footnoteref>
+</paragraph>
+<paragraph>↓ 22%</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>↓ 50%<footnoteref idref="FN1194541417-1"></footnoteref>
+</paragraph>
+<paragraph>↓ 16%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Erythromycin 500 mg QID for 7 days</paragraph>
+</td>
+<td>
+<paragraph>80 mg	</paragraph>
+</td>
+<td>
+<paragraph>↓ 20%</paragraph>
+</td>
+<td>
+<paragraph>↓ 31%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Ketoconazole 200 mg BID for 7 days  </paragraph>
+</td>
+<td>
+<paragraph>80 mg	</paragraph>
+</td>
+<td>
+<paragraph>↑ 2%</paragraph>
+</td>
+<td>
+<paragraph>↓ 5%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Itraconazole 200 mg QD for 5 days</paragraph>
+</td>
+<td>
+<paragraph>10 mg</paragraph>
+<paragraph>80 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 39% </paragraph>
+<paragraph>↑ 28%</paragraph>
+</td>
+<td>
+<paragraph>↑ 36%</paragraph>
+<paragraph>↑ 15%</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Fluconazole 200 mg QD for 11 days			</paragraph>
+</td>
+<td>
+<paragraph>80 mg</paragraph>
+</td>
+<td>
+<paragraph>↑ 14%</paragraph>
+</td>
+<td>
+<paragraph>↑ 9%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

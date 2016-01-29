@@ -1,0 +1,265 @@
+<table id="id_d18465dc-e47e-4395-a938-a21280a28689" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_6bdc2228-8640-4771-99b1-014a2b23c9ed">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Oral<sup>*</sup>
+</content>
+</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Intramuscular</content>
+</content>
+<content stylecode="bold">
+<content stylecode="emphasis">
+<sup>†</sup>
+</content>
+</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Intravenous Bolus</content>
+</content>
+<content stylecode="bold">
+<content stylecode="emphasis">
+<sup>‡</sup>
+</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_b4f31fb8-db5e-49ed-a7a5-c65b7b6613aa">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Pharmacokinetic Parameters (units)</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">10 mg</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">15 mg</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">30 mg</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">60 mg</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">15 mg</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">30 mg</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_c6e0fb0f-cd66-4cf2-bbb1-b305443273be">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>Bioavailability (extent)</paragraph>
+</td>
+<td align="center" colspan="6" stylecode="Botrule Rrule" valign="middle">
+<paragraph>100%</paragraph>
+</td>
+</tr>
+<tr id="id_4547cbf9-3ae3-460f-b64f-0a06d337201b">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>T<sub>max</sub>
+<sup>1 </sup>(min)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>44 ±34</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>33±21<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>44±29</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>33±21<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>1.1±0.7<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>2.9±1.8</paragraph>
+</td>
+</tr>
+<tr id="id_4fabe195-7632-4dc3-8db6-5a93aa58c216">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>C<sub>max</sub>
+<sup>2 </sup>(mcg/mL) [single-dose]</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>0.87±0.22</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>1.14±0.32<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>2.42±0.68</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>4.55±1.27<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>2.47±0.51<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>4.65±0.96</paragraph>
+</td>
+</tr>
+<tr id="id_849e1e63-5f9f-4398-b0eb-300b0b726178">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>C<sub>max </sub>(mcg/mL) [steady state qid]</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>1.05±0.26<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>1.56±0.44<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>3.11±0.87<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph> N/A<sup>ll</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>3.09±1.17<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>6.85±2.61</paragraph>
+</td>
+</tr>
+<tr id="id_d33e7f0e-bc04-45a1-a67c-5716852a13bd">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>C<sub>min</sub>
+<sup>3 </sup>(mcg/mL) [steady state qid]</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>0.29±0.07<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>0.47±0.13<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>0.93±0.26<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>N/A</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>0.61±0.21<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>1.04±0.35</paragraph>
+</td>
+</tr>
+<tr id="id_607f4100-005e-416e-a70d-a9180f7b2eb7">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>C<sub>avg</sub>
+<sup>4 </sup>(mcg/mL) [steady state qid]</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>0.59±0.20<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>0.94±0.29<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>1.88±0.59<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>N/A</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>1.09±0.30<sup>#</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>2.17±0.59</paragraph>
+</td>
+</tr>
+<tr id="id_de1f036c-7bdf-4367-97d3-6f02d85fb268">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>Vβ<sup>5</sup> (L/kg)</paragraph>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>–––––</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>0.175±0.039</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>–––––</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">
+<paragraph>0.210±0.044</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

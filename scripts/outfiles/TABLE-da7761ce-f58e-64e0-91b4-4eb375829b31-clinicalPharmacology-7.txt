@@ -1,0 +1,45 @@
+<table border="1" id="inv-a6964c20-37d8-432e-8b7a-93a0c9f2e6e6" width="391" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-ff5dd7a3-7e0f-4384-b8f6-03b0d9b82c6a">Table 2  Acceptable Quality Control Ranges for Azithromycin</caption>
+<colgroup>
+<col width="39.1%"></col>
+<col width="26.1%"></col>
+<col width="34.8%"></col>
+</colgroup>
+<tbody>
+<tr id="id_921001e0-9157-49ec-8d6d-9029e2de7bc6">
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="middle">
+<content stylecode="bold">QC Strain</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">
+<content stylecode="bold">Disk Diffusion (zone diameters in mm)</content>
+</td>
+</tr>
+<tr id="id_b238ea08-83e9-4ad4-865d-e8515ea147d8">
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus influenzae </content>  ATCC 49247</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.0 to 4.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">13 to 21</td>
+</tr>
+<tr id="id_027748a7-091c-4ad7-8b97-9f5731812489">
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus </content>  ATCC 29213</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.5 to 2.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+</tr>
+<tr id="id_fdbd763f-ae23-4ed8-9dd9-534c9912a435">
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>   ATCC 25923</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">21 to 26</td>
+</tr>
+<tr id="id_36d1b32a-16d9-4ed2-9346-bbba9c6af710">
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content>   ATCC 49619</td>
+<td align="center" stylecode="Rrule" valign="middle">0.06 to 0.25</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">19 to 25</td>
+</tr>
+</tbody>
+</table>

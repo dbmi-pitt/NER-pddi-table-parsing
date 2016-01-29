@@ -1,0 +1,43 @@
+<table width="50%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Pharmacokinetic Parameters for Doxycycline Hyclate Tablets</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th valign="top"></th>
+<th align="center" valign="top">N</th>
+<th align="center" valign="top">C<sub>max</sub>
+<footnote id="FOOT_1521">Mean ± SD</footnote>
+<br/>(ng/mL)</th>
+<th align="center" valign="top">T<sub>max</sub>
+<footnote id="FOOT_1522">Mean and range</footnote>
+<br/>(hr)</th>
+<th align="center" valign="top">Cl/F<footnoteref idref="FOOT_1521"></footnoteref>
+<br/>(L/hr)</th>
+<th align="center" valign="top">t1/2<br/>(hr)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Botrule     " valign="top"> Single dose 20 mg<br/>(tablet)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 20</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 362±101</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 1.4<br/>(1.0-2.5)</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 3.85±1.3</td>
+<td align="center" stylecode="     Botrule     " valign="top"> 18.1±4.85</td>
+</tr>
+<tr>
+<td valign="top"> Steady-State<br/>20 mg BID<footnote id="FOOT_1523">Steady-State data were obtained from normal volunteers administered a bioequivalent formulation.</footnote>
+</td>
+<td align="center" valign="top"> 30</td>
+<td align="center" valign="top"> 790±285</td>
+<td align="center" valign="top"> 2<br/>(0.98-12.0)</td>
+<td align="center" valign="top"> 3.76±1.06</td>
+<td align="center" valign="top"> Not<br/>Determined</td>
+</tr>
+</tbody>
+</table>

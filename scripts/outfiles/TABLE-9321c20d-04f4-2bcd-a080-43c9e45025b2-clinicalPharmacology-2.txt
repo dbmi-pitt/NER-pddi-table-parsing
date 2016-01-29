@@ -1,0 +1,188 @@
+<table id="ID41" width="101%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 3</caption>
+<col width="29%"></col>
+<col width="16%"></col>
+<col width="18%"></col>
+<col width="18%"></col>
+<col width="20%"></col>
+<thead>
+<tr>
+<td align="left" colspan="1" stylecode=" Lrule Toprule" valign="top">
+<content stylecode="bold">Event </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Toprule" valign="top">
+<content stylecode="bold">Warfarin </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Toprule" valign="top">
+<content stylecode="bold">Placebo </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Toprule" valign="top">
+<content stylecode="bold">RR </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Rrule Toprule" valign="top">
+<content stylecode="bold">% </content>
+<content stylecode="bold">Risk </content>
+<content stylecode="bold">Reduction </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="1" stylecode=" Lrule Botrule" valign="top">
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Botrule" valign="top">
+<content stylecode="bold">(</content>
+<content stylecode="bold">N</content>
+<content stylecode="bold">=</content>
+<content stylecode="bold">607</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Botrule" valign="top">
+<content stylecode="bold">(</content>
+<content stylecode="bold">N</content>
+<content stylecode="bold">=</content>
+<content stylecode="bold">607</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Botrule" valign="top">
+<content stylecode="bold">(</content>
+<content stylecode="bold">95</content>
+<content stylecode="bold">% </content>
+<content stylecode="bold">CI</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Rrule Botrule" valign="top">
+<content stylecode="bold">(</content>
+<content stylecode="bold">p</content>
+<content stylecode="bold">- </content>
+<content stylecode="bold">value</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="5">
+<paragraph></paragraph>
+<paragraph stylecode="Footnote">RR= Relative risk; Risk reduction = (I - RR); CI=Confidence interval; MI=Myocardial infarction; py = patient years
+                                                            <br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode=" Lrule Botrule Toprule" valign="top">Total Patient Years of Follow-up 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">2018 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">1944 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode=" Rrule Botrule Toprule" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Botrule Toprule" valign="top">Total Mortality       
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">94 (4.7/100 py) 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">123 (6.3/100 py)  
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">0.76 (0.60, 0.97)  
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Rrule Botrule Toprule" valign="top">24 (p=0.030) 
+                                                        <br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Botrule Toprule" valign="top">Vascular Death 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">82 (4.1/100 py) 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">105 (5.4/100 py) 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">0.78 (0.60, 1.02) 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Rrule Botrule Toprule" valign="top">22 (p=0.068) 
+                                                        <br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Botrule Toprule" valign="top">Recurrent MI  
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">82 (4.1/100 py) 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">124 (6.4/100 py) 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">0.66 (0.51, 0.85) 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Rrule Botrule Toprule" valign="top">34 (p=0.001) 
+                                                        <br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Botrule Toprule" valign="top">Cerebrovascular Event 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">20 (1.0/100 py) 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">44 (2.3/100 py) 
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">0.46 (0.28, 0.75)  
+                                                        <br/>
+</td>
+<td align="center" stylecode=" Rrule Botrule Toprule" valign="top">54 (p=0.002)
+                                                        <br/>
+</td>
+</tr>
+</tbody>
+</table>

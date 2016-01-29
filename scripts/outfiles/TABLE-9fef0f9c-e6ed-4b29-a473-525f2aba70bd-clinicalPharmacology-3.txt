@@ -1,0 +1,37 @@
+<table border="single" id="id_cf5a323d-ed9e-459c-87aa-002ec9951bde" width="459" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_03310ac1-2b55-466b-b6fc-555927419337">Monotherapy Study Median Incidence of CPS per 8 Weeks</caption>
+<col width="33.6%"></col>
+<col width="22.9%"></col>
+<col width="22.9%"></col>
+<col width="20.7%"></col>
+<tbody>
+<tr id="id_415fca31-7336-413a-824f-34b3a320205f">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Treatment</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Number of Patients</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Baseline<br/>Incidence</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Randomized<br/>Phase Incidence</content>
+</td>
+</tr>
+<tr id="id_ddc34016-962e-432e-9157-743f045d3b0d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>High dose divalproex</paragraph>sodium delayed-release<br/>tablets</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">131</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">13.2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">10.7<footnote id="id-4822084b-b21e-45a9-9d4b-07764b9e11dd">Reduction from baseline statistically significantly greater for high dose than low dose at p ≤0.05 level.</footnote>
+</td>
+</tr>
+<tr id="id_b0b2e303-a3e7-4027-af2a-f8efd60bad75">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Low dose divalproex sodium delayed-release tablets</td>
+<td align="center" stylecode="Rrule" valign="top">134</td>
+<td align="center" stylecode="Rrule" valign="top">14.2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">13.8</td>
+</tr>
+</tbody>
+</table>

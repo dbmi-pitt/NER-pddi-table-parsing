@@ -1,0 +1,62 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="12%"></col>
+<col span="1" width="29%"></col>
+<col span="1" width="14%"></col>
+<col span="1" width="18%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Method</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Microorganism</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">ATCC® #</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">MIC (mcg/mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Agar</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="italics">Bacteroides</content>
+<content stylecode="italics">fragilis</content>
+</paragraph>
+</td>
+<td>
+<paragraph>25285</paragraph>
+</td>
+<td>
+<paragraph>32-128</paragraph>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<paragraph>
+<content stylecode="italics">Bacteroides</content>
+<content stylecode="italics">thetaiotaomicron</content>
+</paragraph>
+</td>
+<td>
+<paragraph>29741</paragraph>
+</td>
+<td>
+<paragraph>64-256</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

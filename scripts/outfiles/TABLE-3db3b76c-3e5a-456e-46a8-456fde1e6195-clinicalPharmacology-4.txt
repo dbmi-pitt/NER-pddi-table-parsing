@@ -1,0 +1,49 @@
+<table id="table_5" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5. Key Population PK/PD Parameter Estimates for Cisatracurium in Healthy Surgical Patients* Following 0.1 (2 × ED<sub>95</sub>) to 0.4 mg/kg (8 × ED<sub>95</sub>) NIMBEX</caption>
+<colgroup>
+<col width="32%"></col>
+<col width="34%"></col>
+<col width="32%"></col>
+</colgroup>
+<tbody>
+<tr valign="top">
+<td stylecode="Toprule Botrule">
+<content stylecode="bold">Parameter</content>
+</td>
+<td align="center" stylecode="Toprule Botrule">
+<content stylecode="bold">Estimate<sup>†</sup>
+</content>
+</td>
+<td align="center" stylecode="Toprule Botrule">
+<content stylecode="bold">Magnitude of Interpatient Variability (CV)<sup>‡</sup>
+</content>
+</td>
+</tr>
+<tr valign="top">
+<td>CL (mL/min/kg)</td>
+<td align="center">4.57</td>
+<td align="center">16%</td>
+</tr>
+<tr valign="top">
+<td>V<sub>ss</sub> (mL/kg)<sup>§</sup>
+</td>
+<td align="center">145</td>
+<td align="center">27%</td>
+</tr>
+<tr valign="top">
+<td>k<sub>eo</sub> (min-1)<sup>ll</sup>
+</td>
+<td align="center">0.0575</td>
+<td align="center">61%</td>
+</tr>
+<tr valign="top">
+<td stylecode="Botrule">EC<sub>50</sub> (ng/mL)<sup>¶</sup>
+</td>
+<td align="center" stylecode="Botrule">141</td>
+<td align="center" stylecode="Botrule">52%</td>
+</tr>
+<tr>
+<td colspan="3">*   Healthy male non-obese patients 19-64 years of age with creatinine clearance values greater than 70 mL/min who received cisatracurium during opioid anesthesia and had venous samples collected.<br/>†   The percent standard error of the mean (%SEM) ranged from 3% to 12% indicating good precision for the PK/PD estimates.<br/>‡   Expressed as a coefficient of variation; the %SEM ranged from 20% to 35% indicating adequate precision for the estimates of interpatient variability.<br/>§   V<sub>ss</sub> is the volume of distribution at steady state estimated using a two-compartment model with elimination from both compartments.  V<sub>ss</sub> is equal to the sum of the volume in the central compartment (V<sub>c</sub>) and the volume in the peripheral compartment (Vp); interpatient variability could only be estimated for V<sub>c</sub>.<br/>ll   Rate constant describing the equilibration between plasma concentrations and neuromuscular block.<br/>¶   Concentration required to produce 50% T<sub>1</sub> suppression; an index of patient sensitivity.</td>
+</tr>
+</tbody>
+</table>

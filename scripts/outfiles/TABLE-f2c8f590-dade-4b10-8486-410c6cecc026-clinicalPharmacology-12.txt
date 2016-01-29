@@ -1,0 +1,24 @@
+<table id="id_d1a4cd06-04cc-4e1d-9e48-f920809acdc4" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="center" width="50.0%"></col>
+<col align="left" width="50.0%"></col>
+<thead>
+<tr id="id_913b31df-ef60-42b1-96a8-63629d3c5ed6">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="bottom">Zone Diameter (mm)</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Interpretation</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_5176d318-437b-4fe5-a6f2-0ab21669c68b">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="bottom">≥ 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Susceptible (S)</td>
+</tr>
+<tr id="id_37ef4fe2-f580-4544-a949-61d55b0d618c">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="bottom">14 to 16</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Intermediate (I)</td>
+</tr>
+<tr id="id_f38f5ee8-d79a-4206-ab62-46082884d123">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="bottom">≤ 13</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

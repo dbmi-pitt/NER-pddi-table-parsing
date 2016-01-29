@@ -1,0 +1,28 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="51.800%"></col>
+<col align="left" width="48.200%"></col>
+<tbody>
+<tr>
+<td align="center" valign="top">
+<content stylecode="underline">Organism</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<content stylecode="italics">Neisseria gonorrhoeae</content> ATCC 49226
+</td>
+<td align="center" valign="top">0.25 – 1.0
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 29213
+</td>
+<td align="center" valign="top">0.25 – 1.0
+</td>
+</tr>
+</tbody>
+</table>

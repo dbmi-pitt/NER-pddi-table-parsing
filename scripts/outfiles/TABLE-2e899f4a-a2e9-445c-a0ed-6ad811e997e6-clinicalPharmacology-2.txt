@@ -1,0 +1,49 @@
+<table id="table_3" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Clarithromycin Tissue Concentrations 2 hours after Dose (µg/mL)/(µg/g)</caption>
+<colgroup>
+<col width="30%"></col>
+<col align="center" width="6%"></col>
+<col align="center" width="18%"></col>
+<col align="center" width="19%"></col>
+<col align="center" width="5%"></col>
+<col align="center" width="19%"></col>
+</colgroup>
+<tbody>
+<tr valign="top">
+<td stylecode="Toprule Botrule">
+<content stylecode="bold">Treatment</content>
+</td>
+<td stylecode="Toprule Botrule">
+<content stylecode="bold">N</content>
+</td>
+<td stylecode="Toprule Botrule">
+<content stylecode="bold">antrum</content>
+</td>
+<td stylecode="Toprule Botrule">
+<content stylecode="bold">fundus</content>
+</td>
+<td stylecode="Toprule Botrule">
+<content stylecode="bold">N</content>
+</td>
+<td stylecode="Toprule Botrule">
+<content stylecode="bold">mucus</content>
+</td>
+</tr>
+<tr>
+<td>Clarithromycin</td>
+<td>5</td>
+<td>10.48 ± 2.01</td>
+<td>20.81 ± 7.64</td>
+<td>4</td>
+<td>4.15 ± 7.74</td>
+</tr>
+<tr>
+<td stylecode="Botrule">Clarithromycin + Omeprazole</td>
+<td stylecode="Botrule">5</td>
+<td stylecode="Botrule">19.96 ± 4.71</td>
+<td stylecode="Botrule">24.25 ± 6.37</td>
+<td stylecode="Botrule">4</td>
+<td stylecode="Botrule">39.29 ± 32.79</td>
+</tr>
+</tbody>
+</table>

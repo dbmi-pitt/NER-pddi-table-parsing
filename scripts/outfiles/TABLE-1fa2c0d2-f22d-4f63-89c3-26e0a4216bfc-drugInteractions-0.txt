@@ -1,0 +1,26 @@
+<table border="single" id="id_d84c69e9-36f0-432c-8875-05bff17d0b6b" width="230" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="34.8%"></col>
+<col width="65.2%"></col>
+<tbody>
+<tr id="id_181c9b54-67e0-4417-834e-6181c8e51233">
+<td align="justify" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Interacting Drug</content>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Interaction</content>
+</td>
+</tr>
+<tr id="id_fe51c113-a908-478e-bbb4-e75b2e2e1212">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Multivalent cation-containing products including antacids, metal cations or didanosine</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">Absorption of levofloxacin is decreased when the tablet formulation is taken within 2 hours of these products. (2.4, 7.1)</td>
+</tr>
+<tr id="id_72733883-42b3-4d8a-a645-ce9c0f639977">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">Warfarin</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">Effect may be enhanced. Monitor prothrombin time, INR, watch for bleeding (7.2)</td>
+</tr>
+<tr id="id_b7039c87-871c-453f-995a-1dc5db1686c9">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">Antidiabetic agents</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">Carefully monitor blood glucose (5.11, 7.3)</td>
+</tr>
+</tbody>
+</table>

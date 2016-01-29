@@ -1,0 +1,94 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="65%"></col>
+<col width="35%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">For testing <content stylecode="italics">Enterobacteriaceae</content>:</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>
+<content stylecode="bold">MIC (µg/mL)</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>
+<content stylecode="bold">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>≤2/38</paragraph>
+</td>
+<td valign="top">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>≥4/76</paragraph>
+</td>
+<td valign="top">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>
+<content stylecode="bold">When testing either <content stylecode="italics">Haemophilus influenzae</content>a or <content stylecode="italics">Streptococcus pneumoniae</content>b</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>
+<content stylecode="bold">MIC (µg/mL)</content>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>
+<content stylecode="bold">Interpretationb</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>≤0.5/9.5</paragraph>
+</td>
+<td valign="top">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>1/19 – 2/38</paragraph>
+</td>
+<td valign="top">
+<paragraph>Intermediate</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>≥4/76</paragraph>
+</td>
+<td valign="top">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>a. These interpretive standards are applicable only to broth microdilution susceptibility tests with <content stylecode="italics">Haemophilus influenzae </content>using <content stylecode="italics">Haemophilus </content>Test Medium (HTM)4</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>b. The interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2% to 5% lysed horse blood4</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

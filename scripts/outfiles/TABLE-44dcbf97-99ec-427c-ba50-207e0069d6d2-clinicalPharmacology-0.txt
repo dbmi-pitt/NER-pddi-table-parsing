@@ -1,0 +1,183 @@
+<table id="t2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2.  Effect of Co-Administered Drugs on Pitavastatin Systemic Exposure
+</caption>
+<col align="left" width="24.825%"></col>
+<col align="left" width="43.500%"></col>
+<col align="left" width="14.375%"></col>
+<col align="left" width="17.300%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="4" valign="top">
+<paragraph stylecode="footnote">
+<content stylecode="bold">
+<sup>*</sup>
+</content>Data presented as x-fold change represent the ratio between co-administration and pitavastatin alone (i.e., 1-fold = no change).  Data presented as % change represent % difference relative to pitavastatin alone (i.e., 0% = no change).
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="4" valign="top">
+<paragraph stylecode="footnote">† Considered clinically significant <content stylecode="italics">[see Dosage and Administration (<linkhtml href="#s4">2</linkhtml>) and Drug Interactions (<linkhtml href="#s18">7</linkhtml>)]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="4" valign="top">
+<paragraph stylecode="footnote">BID = twice daily; QD = once daily; LA = Long Acting
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule Botrule Lrule Rrule" valign="middle">Co-administered drug
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="middle">Dose regimen
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="middle">Change in<br/>AUC*
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="middle">Change in  C<sub>max*</sub>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Cyclosporine
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 2 mg QD for 6 days + cyclosporine 2 mg/kg on Day 6
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 4.6 fold†
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 6.6 fold †
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Erythromycin
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4 mg single dose on Day 4 + erythromycin 500 mg 4 times daily for 6 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 2.8 fold †
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 3.6 fold †
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Rifampin
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 29%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 2.0 fold
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Atazanavir
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 31%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 60%
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Darunavir/Ritonavir
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4mg QD on Days 1-5 and 12-16 + darunavir/ritonavir  800mg/100 mg QD on Days 6-16
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓ 26%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓ 4%
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Lopinavir/Ritonavir
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 – 24
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓ 20%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓4 %
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Gemfibrozil
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4 mg QD + gemfibrozil 600 mg BID for 7 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 45%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 31%
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Fenofibrate
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4 mg QD + fenofibrate 160 mg QD for 7 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑18%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 11%
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Ezetimibe
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 2 mg QD  + ezetimibe 10 mg for 7 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓ 2%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓0.2%
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Enalapril
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4 mg QD + enalapril 20 mg daily for 5 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 6%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓ 7%
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Digoxin
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4 mg QD + digoxin 0.25 mg for 7 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 4%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓ 9%
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Diltiazem LA
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4 mg QD on Days 1-5 and 11-15 and diltiazem LA 240 mg on Days 6-15
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑10%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑15%
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Grapefruit Juice
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 2 mg single dose on Day 3 + grapefruit juice for 4 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↑ 15%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓ 12%
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Itraconazole
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Pitavastatin 4 mg single dose on Day 4 + itraconazole 200 mg daily for 5 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓ 23%
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">↓ 22%
+</td>
+</tr>
+</tbody>
+</table>

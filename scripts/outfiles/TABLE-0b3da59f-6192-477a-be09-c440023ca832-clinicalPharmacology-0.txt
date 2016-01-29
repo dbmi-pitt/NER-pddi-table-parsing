@@ -1,0 +1,58 @@
+<table frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Dose-Response Trial: Quit Rates by Treatment Group</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> <br/>
+<br/>
+<br/>
+<br/>
+<br/>Abstinence From <br/>Week 4 Through <br/>Specified Week</td>
+<td align="center" colspan="4" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Treatment Groups</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> <br/>
+<br/>
+<br/>Placebo<br/>(n = 151)<br/>%<br/>(95% CI)</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="top"> Bupropion <br/>Hydrochloride <br/>Sustained-Release <br/>Formulation<br/>100 mg/day<br/>(n = 153)<br/>%<br/>(95% CI)</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="top"> Bupropion <br/>Hydrochloride <br/>Sustained-Release <br/>Formulation<br/>150 mg/day<br/>(n = 153)<br/>%<br/>(95% CI)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Bupropion <br/>Hydrochloride <br/>Sustained-Release <br/>Formulation<br/>300 mg/day<br/>(n = 156)<br/>%<br/>(95% CI)</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="5" stylecode="     Toprule     " valign="top"> <sup>*</sup>Significantly different from placebo (<content stylecode="italics">p</content>≤ 0.05).</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Week 7<br/>(4-week quit)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 17%<br/>(11 to 23)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 22%<br/>(15 to 28)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 27%<sup>*</sup>
+<br/>(20 to 35)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 36%<sup>*</sup>
+<br/>(28 to 43)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Week 12</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 14%<br/>(8 to 19)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 20%<br/>(13 to 26)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 20%<br/>(14 to 27)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 25%<sup>*</sup>
+<br/>(18 to 32)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Week 26</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 11%<br/>(6 to 16)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 16%<br/>(11 to 22)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 18%<br/>(12 to 24)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 19%<sup>*</sup>
+<br/>(13 to 25)</td>
+</tr>
+</tbody>
+</table>

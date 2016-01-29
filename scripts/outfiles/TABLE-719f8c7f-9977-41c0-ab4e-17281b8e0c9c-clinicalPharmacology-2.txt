@@ -1,0 +1,40 @@
+<table id="id_68ac603c-f310-44e1-a0f1-cc45317416c2" width="NaN" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_c1689df6-01b5-4b17-8bb3-ea773cd39a21">Interpretive Criteria for Enterobacteriaceae and Staphylococcus spp.:</caption>
+<col width="NaN%"></col>
+<col></col>
+<col width="NaN%"></col>
+<tbody>
+<tr id="id_cf1ea818-4866-4bc1-94f8-f6cab94fa096">
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="underline">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">
+<content stylecode="underline">Interpretation</content>
+</content>
+</td>
+<td align="center" stylecode="Lrule Botrule" valign="middle">
+<content stylecode="underline">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</content>
+</td>
+</tr>
+<tr id="id_18350df7-a3d1-43e6-9b2b-a7f60be28a32">
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 18</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Susceptible (S)</td>
+<td align="center" stylecode="Lrule Botrule" valign="middle">≤ 8</td>
+</tr>
+<tr id="id_7181c7cb-8bf9-4b9a-84f4-4eca7ef9cc2b">
+<td align="center" stylecode="Botrule Rrule" valign="middle">15 to 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Intermediate (I)</td>
+<td align="center" stylecode="Lrule Botrule" valign="middle">-</td>
+</tr>
+<tr id="id_3bacaa2b-3d37-4d59-b773-62f546858a69">
+<td align="center" stylecode="Rrule" valign="middle">≤ 14</td>
+<td align="center" stylecode="Rrule" valign="middle">Resistant (R)</td>
+<td align="center" stylecode="Botrule" valign="middle">≥ 32</td>
+</tr>
+</tbody>
+</table>

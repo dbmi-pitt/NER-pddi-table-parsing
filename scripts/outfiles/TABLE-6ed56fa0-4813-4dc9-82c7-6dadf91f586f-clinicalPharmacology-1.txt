@@ -1,0 +1,186 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<th stylecode="Lrule Rrule Toprule"></th>
+<th colspan="3" stylecode="Lrule Rrule Toprule">Minimum Inhibitory<br/>            Concentrations (mcg/mL)Minimum Inhibitory<br/>            Concentrations (mcg/mL)</th>
+<th colspan="3" stylecode="Lrule Rrule Toprule">Disk Diffusion<br/>            (zone diameter in mm)Disk Diffusion<br/>            (zone diameter in mm)</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule Toprule">Pathogen </th>
+<th align="center" stylecode="Lrule Rrule Toprule">S</th>
+<th align="center" stylecode="Lrule Rrule Toprule">I</th>
+<th align="center" stylecode="Lrule Rrule Toprule">R</th>
+<th align="center" stylecode="Lrule Rrule Toprule">S</th>
+<th align="center" stylecode="Lrule Rrule Toprule">I</th>
+<th align="center" stylecode="Lrule Rrule Toprule">R</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule Toprule"></th>
+<th colspan="3" stylecode="Lrule Rrule Toprule">Minimum Inhibitory<br/>            Concentrations (mcg/mL)</th>
+<th colspan="3" stylecode="Lrule Rrule Toprule">Disk Diffusion<br/>            (zone diameter in mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Enterobacteriaceae </content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤2<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14–16<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤13<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Enterococcus faecalis</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤2<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14–16<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤13<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Methicillin-susceptible<br/>
+<content stylecode="italics">Staphylococcus</content> species<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤2<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14–16<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤13<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤2<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14–16<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤13<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤2<footnote id="fn278">These interpretive standards are applicable only to broth microdilution susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium1</footnote>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> --<footnote id="fn284">The current absence of data on resistant strains precludes defining any categories other than "Susceptible" Strains yielding MIC /zone diameter results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing.</footnote>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> --<footnoteref idref="fn284"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥17<footnote id="fn279">These interpretive standards are applicable only to disk diffusion susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.2</footnote>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">--<footnoteref idref="fn284"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">--<footnoteref idref="fn284"></footnoteref>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus parainfluenzae</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤2<footnoteref idref="fn278"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> --<footnoteref idref="fn284"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> --<footnoteref idref="fn284"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥17<footnoteref idref="fn279"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">--<footnoteref idref="fn284"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">--<footnoteref idref="fn284"></footnoteref>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤2<footnote id="fn280">These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood.</footnote>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4<footnoteref idref="fn280"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥8<footnoteref idref="fn280"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥17<footnote id="fn281">These zone diameter standards for Streptococcus spp. including S. pneumoniae apply only to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.</footnote>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14–16<footnoteref idref="fn281"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤13<footnoteref idref="fn281"></footnoteref>
+<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pyogenes</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤2<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14–16<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤13<br/>
+</td>
+</tr>
+</tbody>
+</table>

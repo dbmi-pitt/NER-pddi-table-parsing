@@ -1,0 +1,58 @@
+<table id="t301" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>MARINOL Capsules Dose:  Response Frequency and Adverse Experiences*(N = 750 treatment courses)</caption>
+<col align="left" width="26.053%"></col>
+<col align="left" width="13.212%"></col>
+<col align="left" width="11.184%"></col>
+<col align="left" width="8.127%"></col>
+<col align="left" width="11.184%"></col>
+<col align="left" width="17.269%"></col>
+<col align="left" width="12.970%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph id="p1540124">*Nondysphoric events consisted of drowsiness, tachycardia, etc.</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" rowspan="2" stylecode="Lrule Toprule Rrule" valign="top">
+<content stylecode="bold">MARINOL Capsules Dose</content>
+</td>
+<td align="center" colspan="3" stylecode="Lrule Toprule Rrule" valign="top">
+<content stylecode="bold">Response Frequency (%)</content>
+</td>
+<td align="center" colspan="3" stylecode="Lrule Toprule Rrule" valign="top">
+<content stylecode="bold">Adverse Events Frequency (%)</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Toprule" valign="top">Complete</td>
+<td align="center" stylecode="Toprule" valign="top">Partial</td>
+<td align="center" stylecode="Toprule Rrule" valign="top">Poor</td>
+<td align="center" stylecode="Lrule Toprule" valign="top">None</td>
+<td align="center" stylecode="Toprule" valign="top">Nondysphoric</td>
+<td align="center" stylecode="Toprule Rrule" valign="top">Dysphoric</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule" valign="top">&lt;7 mg/m<sup>2</sup>
+</td>
+<td align="center" stylecode="Lrule" valign="top">36</td>
+<td align="center" valign="top">32</td>
+<td align="center" stylecode="Rrule" valign="top">32</td>
+<td align="center" stylecode="Lrule" valign="top">23</td>
+<td align="center" valign="top">65</td>
+<td align="center" stylecode="Rrule" valign="top">12</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule" valign="top">&gt;7 mg/m<sup>2</sup>
+</td>
+<td align="center" stylecode="Botrule" valign="top">33</td>
+<td align="center" stylecode="Botrule" valign="top">31</td>
+<td align="center" stylecode="Rrule Botrule" valign="top">36</td>
+<td align="center" stylecode="Botrule" valign="top">13</td>
+<td align="center" stylecode="Botrule" valign="top">58</td>
+<td align="center" stylecode="Rrule Botrule" valign="top">28</td>
+</tr>
+</tbody>
+</table>

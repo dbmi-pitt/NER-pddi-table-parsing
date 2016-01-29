@@ -1,0 +1,25 @@
+<table id="t8" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8 Treatment-Emergent NS3 Protease Domain Amino Acid Substitutions Detected Among Subjects treated with VICTRELIS in SPRINT-2, RESPOND-2 and P06086 Who Did Not Achieve a Sustained Virologic Response (SVR)</caption>
+<col align="left" valign="middle" width="33%"></col>
+<col align="left" valign="middle" width="33%"></col>
+<col align="left" valign="middle" width="34%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th align="center" stylecode="Rrule">Subjects Infected with HCV Genotype 1a</th>
+<th align="center" stylecode="Rrule">Subjects Infected with HCV Genotype 1b</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">&gt;10% of subjects treated with VICTRELIS  who did not achieve SVR</td>
+<td stylecode="Rrule">V36M, T54S, R155K</td>
+<td stylecode="Rrule">T54A, T54S, V55A, A156S, V170A</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">&lt;1% to 10% of subjects treated with VICTRELIS who did not achieve SVR</td>
+<td stylecode="Rrule">V36A, T54A, V55A, V55I, V107I, R155T, A156S, A156T, V158I, D168N, I170F, I170T, I170V</td>
+<td stylecode="Rrule">V36A, V36M, T54C, T54G, V107I, R155C, R155K, A156T, A156V, V158I, I/V170T, M175L</td>
+</tr>
+</tbody>
+</table>

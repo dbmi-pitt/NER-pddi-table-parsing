@@ -1,0 +1,114 @@
+<table cellpadding="0pt" cellspacing="0pt" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="22%"></col>
+<col width="19%"></col>
+<col width="20%"></col>
+<col width="20%"></col>
+<col width="19%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">Subjects and Age Group</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">      N      </content>
+</th>
+<th align="center" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">      CL       </content>
+<br/>
+<content stylecode="bold">(L/h/kg)</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">      Vd<sub>ss</sub>      </content>
+<br/>
+<content stylecode="bold">(L/kg)</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">      T<sub>½</sub>      </content>
+<br/>
+<content stylecode="bold">(h)</content>
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold"> </content>
+</th>
+<th align="center" colspan="2" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Geometric Mean</content>
+</th>
+<th align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Mean</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>         Pediatric Surgery Patients <br/>         3 to 12 years of age<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>N = 21<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>0.439<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>1.65<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>2.9<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>         Pediatric Surgery Patients <br/>         5 to 24 months of age<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>N = 22<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>0.581<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>2.3<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>2.9<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>         Pediatric Surgery Patients <br/>         1 month to 4 months of age<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>N = 19<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>0.401<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>3.5<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>6.7<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

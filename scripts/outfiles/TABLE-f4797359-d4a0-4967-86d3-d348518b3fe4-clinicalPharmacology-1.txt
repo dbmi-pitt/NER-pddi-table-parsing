@@ -1,0 +1,28 @@
+<table border="none" id="id_12c93d63-f1ae-4285-8bea-90b1d2dcf3bd" width="306" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_9dfdd937-1821-4fba-a688-9f12beae60bc"></caption>
+<col width="47.1%"></col>
+<col width="52.9%"></col>
+<tbody>
+<tr id="id_4afcaea1-f820-4d1f-9255-c07b3f6d9774" stylecode="Toprule">
+<td align="center" valign="middle">
+<content stylecode="underline">Zone Diameter</content>
+<content stylecode="underline">(mm)</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr id="id_884979db-3a09-404c-b086-6cfa87b170ef">
+<td align="center" valign="middle">≥ 18</td>
+<td align="center" valign="middle">(S) Susceptible</td>
+</tr>
+<tr id="id_0af794fa-97a9-4ed9-9717-674f8fe1fe46">
+<td align="center" valign="middle">15-17</td>
+<td align="center" valign="middle">(MS) Moderately Susceptible</td>
+</tr>
+<tr id="id_06099fa5-3f0d-42f9-a483-c487618f037d" stylecode="Botrule">
+<td align="center" valign="middle">≤ 14</td>
+<td align="center" valign="middle">(R) Resistant</td>
+</tr>
+</tbody>
+</table>

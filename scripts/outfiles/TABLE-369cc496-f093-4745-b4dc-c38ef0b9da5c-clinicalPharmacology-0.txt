@@ -1,0 +1,31 @@
+<table border="1" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule     " valign="top"> <content stylecode="bold">Zone Diameter (mm)                                          Interpretation</content>
+</td>
+<td rowspan="2" stylecode="     Botrule          Rrule     " valign="top">    </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="top">  tetracycline </td>
+<td colspan="2" stylecode="     Botrule          Rrule     " valign="top">  doxycycline </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="top">  ≥ 19 </td>
+<td stylecode="     Botrule     " valign="top">  ≥ 16 </td>
+<td colspan="2" stylecode="     Botrule          Rrule     " valign="top">  Susceptible </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="top">  15 to 18 </td>
+<td stylecode="     Botrule     " valign="top">  13 to 15 </td>
+<td colspan="2" stylecode="     Botrule          Rrule     " valign="top">  Intermediate </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="top">  ≤ 14 </td>
+<td stylecode="     Botrule     " valign="top">  ≤ 12 </td>
+<td colspan="2" stylecode="     Botrule          Rrule     " valign="top">  Resistant </td>
+</tr>
+</tbody>
+</table>

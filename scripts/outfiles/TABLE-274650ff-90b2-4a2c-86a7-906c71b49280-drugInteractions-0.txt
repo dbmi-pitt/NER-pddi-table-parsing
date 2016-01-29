@@ -1,0 +1,56 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="43%"></col>
+<col width="57%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Interacting Drug</content>
+</th>
+<th align="center" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">Interaction</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Drugs known to prolong QT interval (e.g., Class IA and Class III antiarrhythmic agents).</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>Quinine sulfate capsules, USP prolongs QT interval, ECG abnormalities including QT prolongation and Torsades de Pointes. Avoid concomitant use (<linkhtml href="#S5.3">5.3</linkhtml>).</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Other antimalarials (e.g., halofantrine, mefloquine).</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>ECG abnormalities including QT prolongation. Avoid concomitant use (<linkhtml href="#S5.3">5.3</linkhtml>, <linkhtml href="#S7.2">7.2</linkhtml>).</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>CYP3A4 inducers or inhibitors</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Alteration in plasma quinine concentration. Monitor for lack of efficacy or increased adverse events of quinine (<linkhtml href="#S7.1">7.1</linkhtml>).</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>CYP3A4 and CYP2D6 substrates</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Quinine is an inhibitor of CYP3A4 and CYP2D6. Monitor for lack of efficacy or increased adverse events of the co-administered drug (<linkhtml href="#S7.2">7.2</linkhtml>).</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>Digoxin</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Increased digoxin plasma concentration (<linkhtml href="#S5.8">5.8</linkhtml>, <linkhtml href="#S7.1">7.1</linkhtml>).</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,44 @@
+<table border="1" frame="border" id="t3" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks</caption>
+<colgroup>
+<col width="156px"></col>
+<col width="156px"></col>
+<col width="156px"></col>
+<col width="156px"></col>
+</colgroup>
+<tfoot>
+<tr>
+<td align="left" colspan="4" stylecode="Footnote"></td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule">
+<content stylecode="bold">Add-on Treatment</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Number of </content>
+<content stylecode="bold">Patients</content>
+</td>
+<td stylecode="Botrule">
+<content stylecode="bold">Baseline Incidence</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Experimental Incidence</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule">Divalproex sodium delayed-release tablets</td>
+<td align="center" stylecode="Botrule" valign="middle">75</td>
+<td align="center" stylecode="Botrule" valign="middle">16.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8.9<footnote id="f7"> Reduction from baseline statistically significantly greater for divalproex sodium delayed-release tablets than placebo at p ≤ 0.05 level.</footnote>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule">Placebo</td>
+<td align="center" stylecode="Botrule" valign="middle">69</td>
+<td align="center" stylecode="Botrule" valign="middle">14.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">11.5</td>
+</tr>
+</tbody>
+</table>

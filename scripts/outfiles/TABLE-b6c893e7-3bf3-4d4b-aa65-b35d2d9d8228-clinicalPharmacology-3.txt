@@ -1,0 +1,35 @@
+<table width="678px" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6: Acceptable Quality Control Ranges for Amoxicillin and Clavulanic Acid</caption>
+<tbody>
+<tr stylecode="Botrule First">
+<td align="center" stylecode="Lrule Rrule" valign="top">QC Strain</td>
+<td align="center" stylecode="Rrule" valign="top">Minimum Inhibitory <br/> Concentration <br/>(mcg/mL)</td>
+<td align="center" stylecode="Rrule" valign="top">Disk Diffusion <br/>(zone diameter in mm)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Escherichia coli ATCC 25922</td>
+<td align="center" stylecode="Rrule" valign="top">2/1 to 8/4</td>
+<td align="center" stylecode="Rrule" valign="top">18 to 24</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Escherichia coli ATCC 35218</td>
+<td align="center" stylecode="Rrule" valign="top">4/2 to 16/8</td>
+<td align="center" stylecode="Rrule" valign="top">17 to 22</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Haemophilus influenzae ATCC 49247</td>
+<td align="center" stylecode="Rrule" valign="top">2/1 to 16/8</td>
+<td align="center" stylecode="Rrule" valign="top">15 to 23</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Staphylococcus aureus ATCC 29213</td>
+<td align="center" stylecode="Rrule" valign="top">0.12/0.06 to 0.5/0.25</td>
+<td align="center" stylecode="Rrule" valign="top">--</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top"> Staphylococcus aureus ATCC 29523</td>
+<td align="center" stylecode="Rrule" valign="top">--</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+</tbody>
+</table>

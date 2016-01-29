@@ -1,0 +1,42 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="17%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Zone diameter (mm)</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule ">
+<paragraph>≥ 18 </paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>(S) Susceptible </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule ">
+<paragraph> 15 to 17 </paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>(I) Intermediate </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule ">
+<paragraph>≤ 14 </paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>(R) Resistant </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

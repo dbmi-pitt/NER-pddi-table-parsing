@@ -1,0 +1,174 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="21%"></col>
+<col width="21%"></col>
+<col width="14%"></col>
+<col width="24%"></col>
+<col width="25%"></col>
+<tbody>
+<tr stylecode="Toprule">
+<td colspan="5" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Table 18. Effect of Metformin on Coadministered Drug Systemic Exposure</content>
+</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td align="center" rowspan="2" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Coadministered<br/>Drug</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Dose of<br/>Coadministered<br/>Drug*</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Dose of<br/>Metformin*</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Geometric Mean Ratio (ratio with/without<br/>coadministered drug) No effect = 1.00</content>
+</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">AUC†</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td colspan="5" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>No dosing adjustments required for the following:</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Glyburide</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>5 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>500 mg<sup>§</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>0.78<sup>‡</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>0.63<sup>‡</sup>
+</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Furosemide</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>40 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>0.87<sup>‡</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>0.69<sup>‡</sup>
+</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Nifedipine</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>10 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>1.10<sup>§</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>1.08</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Propranolol</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>40 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>1.01<sup>§</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>0.94</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Ibuprofen</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>400 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>0.97<sup>¶</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>1.01<sup>¶</sup>
+</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Cimetidine</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>400 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>0.95<sup>§</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>1.01</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td colspan="5" stylecode="Toprule " valign="middle">
+<paragraph>*All metformin and coadministered drugs were given as single doses<br/>†AUC = AUC<sub>0–∞</sub>
+<br/>‡Ratio of arithmetic means, p-value of difference &lt;0.05<br/>§AUC<sub>0-24 </sub>hr reported<br/>¶Ratio of arithmetic means</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

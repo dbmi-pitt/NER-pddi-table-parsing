@@ -1,0 +1,70 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Pharmacokinetic Parameters</caption>
+<col width="36.8%"></col>
+<col width="28.9%"></col>
+<col width="34.3%"></col>
+<tfoot>
+<tr>
+<td colspan="3" stylecode="     Botrule         Lrule          Rrule     " valign="top"> Pharmacokinetic Parameters for Normal and Healthy Patients</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="justify" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> <content stylecode="bold">TABLE 1</content>
+</td>
+<td align="justify" stylecode="     Botrule          Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td align="justify" stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph>
+<content stylecode="bold">PHARMACOKINETIC</content>
+</paragraph>
+<content stylecode="bold">PARAMETERS</content>
+</td>
+<td align="justify" stylecode="     Botrule          Rrule     " valign="top"> <content stylecode="bold">NORMAL</content>
+</td>
+<td align="justify" stylecode="     Botrule          Rrule     " valign="top"> <content stylecode="bold">ELDERLY</content>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="     Botrule         Lrule          Rrule     " valign="top"> Tmax</td>
+<td align="justify" stylecode="     Botrule          Rrule     " valign="top"> <paragraph>Age 19-41 (n=24)</paragraph>
+<paragraph>(200 mg tablet)</paragraph>
+<paragraph>3.38 ± 2.30 S</paragraph>
+<paragraph>4.88 ± 2.57 SP</paragraph>
+<paragraph>4.96 ± 2.36 SF</paragraph>
+<paragraph>(150 mg tablet)</paragraph>
+<paragraph>3.90 ± 2.30 S</paragraph>
+<paragraph>5.85 ± 4.49 SP</paragraph>6.15 ± 3.07 SF</td>
+<td align="justify" stylecode="     Botrule          Rrule     " valign="top"> <paragraph>Age 65-87 (n=12) 400 mg qd</paragraph>
+<paragraph>2.54 ± 1.52 S</paragraph>
+<paragraph>5.75 ± 2.81 SF</paragraph>6.83 ± 4.19 SP </td>
+</tr>
+<tr>
+<td align="justify" stylecode="     Botrule         Lrule          Rrule     " valign="top"> Renal Clearance</td>
+<td align="justify" stylecode="     Botrule          Rrule     " valign="top"> <paragraph>(200 mg tablet)</paragraph>
+<paragraph>68.12 ± 27.56 mL/min S</paragraph>
+<paragraph>36.58 ± 12.61 mL/min SP</paragraph>
+<paragraph>(150 mg tablet)</paragraph>
+<paragraph>74.39 ± 34.15 mL/min S</paragraph>41.75 ± 13.72 mL/min SP</td>
+<td align="justify" stylecode="     Botrule          Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td align="justify" stylecode="     Botrule         Lrule          Rrule     " valign="top"> Mean effective Half life (h)</td>
+<td align="justify" stylecode="     Botrule          Rrule     " valign="top"> <paragraph>7.8 S</paragraph>16.4 SF</td>
+<td align="justify" stylecode="     Botrule          Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td align="justify" stylecode="     Botrule         Lrule          Rrule     " valign="top"> </td>
+<td align="justify" stylecode="     Rrule     " valign="top"> <paragraph>
+<content stylecode="bold">S = Sulindac</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">SF = Sulindac Sulfide</content>
+</paragraph>
+<content stylecode="bold">SP = Sulindac Sulfone</content>
+</td>
+<td align="justify" stylecode="     Botrule          Rrule     " valign="top"> </td>
+</tr>
+</tbody>
+</table>

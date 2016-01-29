@@ -1,0 +1,16 @@
+<table id="table_7" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col width="19%"></col>
+<col width="80%"></col>
+</colgroup>
+<tbody>
+<tr>
+<td stylecode="Toprule Botrule">Men:</td>
+<td stylecode="Toprule Botrule">IBW in kg = (106 + [6 x inches in height above 5 feet])/2.2</td>
+</tr>
+<tr>
+<td stylecode="Botrule">Women:</td>
+<td stylecode="Botrule">IBW in kg = (100 + [5 x inches in height above 5 feet])/2.2</td>
+</tr>
+</tbody>
+</table>

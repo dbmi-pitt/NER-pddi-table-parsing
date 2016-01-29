@@ -1,0 +1,65 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="319px"></col>
+<col width="124px"></col>
+<col width="190px"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="underline">ATCC</content>
+<content stylecode="underline">
+<sup>®</sup>
+</content>
+<content stylecode="underline"> #</content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="underline">MIC (</content>
+<content stylecode="underline">mcg</content>
+<content stylecode="underline">/mL)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Escherichia coli </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 25922</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 0.03-0.12</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Staphylococcus aureus </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 29213</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 1-8<content stylecode="bold">
+<sup>*</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Pseudomonas aeruginosa </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 27853</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 8-32</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Haemophilus influenzae </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 49247</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 0.06-0.25</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Neisseria gonorrhoeae </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 49226</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 0.004-0.015</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="italics">Streptococcus pneumoniae </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 49619</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> 0.03-0.12</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Toprule         Lrule          Rrule     ">
+<paragraph>* A bimodal distribution of MICs results at the extremes of the acceptable range should be suspect and control validity should be verified with data from other control strains.<br/> ATCC<sup>®</sup> is a registered trademark of the American Type Culture Collection.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

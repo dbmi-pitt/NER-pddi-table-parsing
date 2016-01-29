@@ -1,0 +1,78 @@
+<table border="none" id="id_657ee3ff-03e2-4529-baf3-998727a9e086" width="527" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="20.5%"></col>
+<col width="22.2%"></col>
+<col width="26.5%"></col>
+<col width="12.9%"></col>
+<col width="17.8%"></col>
+<tbody>
+<tr id="id_4537b607-05ae-4d81-97a5-faa2c1dd17dd" stylecode="Toprule">
+<td align="center" colspan="5" valign="top">
+<content stylecode="bold">Table 2. Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration</content>
+</td>
+</tr>
+<tr id="id_c693d780-edc0-4ced-ab66-b7b23fafaf36">
+<td align="left" valign="top">Co-Administered<br/>Drug</td>
+<td align="left" valign="top">Dosage Regimen of<br/>Co-Administered Drug </td>
+<td align="left" valign="top">Dosage Regimen of Fenofibrate</td>
+<td align="left" colspan="2" valign="top">Changes in Fenofibric Acid Exposure</td>
+</tr>
+<tr id="id_0d37509d-701e-44e8-8d96-0e6567e3997e">
+<td align="left" colspan="3" valign="top"> </td>
+<td align="left" valign="top">AUC</td>
+<td align="left" valign="top">C<sub>max</sub>
+</td>
+</tr>
+<tr id="id_19eef2d5-b412-43f9-91ce-325e97f08865">
+<td align="left" colspan="5" valign="top">
+<content stylecode="italics">Lipid-lowering agents</content>
+</td>
+</tr>
+<tr id="id_76fd2d34-a676-432f-970b-a7cc2fedb12a">
+<td align="left" valign="top">Atorvastatin</td>
+<td align="left" valign="top">20 mg once daily for 10 days</td>
+<td align="left" valign="top">Fenofibrate 160 mg<footnote id="id-89440ce3-c467-4fe1-af22-d4a4b2384e7c">LOFIBRA (fenofibrate) oral tablet</footnote> once daily for 10 days</td>
+<td align="left" valign="top">↓2%</td>
+<td align="left" valign="top">↓4%</td>
+</tr>
+<tr id="id_db27857e-ecbf-4590-82eb-79e5a38da8ef">
+<td align="left" valign="top">Pravastatin</td>
+<td align="left" valign="top">40 mg as a single dose</td>
+<td align="left" valign="top">Fenofibrate 3 x 67 mg<footnote id="id-5a8667b4-61f6-46f8-be3d-b6677060ca9c">LOFIBRA (fenofibrate) oral micronized capsule </footnote> as a single dose </td>
+<td align="left" valign="top">↓1%</td>
+<td align="left" valign="top">↓2%</td>
+</tr>
+<tr id="id_e05f1437-9283-40bb-9680-4899c062b404">
+<td align="left" valign="top">Fluvastatin</td>
+<td align="left" valign="top">40 mg as a single dose</td>
+<td align="left" valign="top">Fenofibrate 160 mg<footnoteref idref="id-89440ce3-c467-4fe1-af22-d4a4b2384e7c"></footnoteref> as a single dose</td>
+<td align="left" valign="top">↓2%</td>
+<td align="left" valign="top">↓10%</td>
+</tr>
+<tr id="id_b5471d1b-c45b-4048-b668-e578236365f1">
+<td align="left" colspan="5" valign="top">
+<content stylecode="italics">Anti-diabetic agents</content>
+</td>
+</tr>
+<tr id="id_9a81ba3c-c2ad-4006-b323-085a761c256d">
+<td align="left" valign="top">Glimepiride</td>
+<td align="left" valign="top">1 mg as a single dose</td>
+<td align="left" valign="top">Fenofibrate 145 mg<footnoteref idref="id-89440ce3-c467-4fe1-af22-d4a4b2384e7c"></footnoteref> once daily for 10 days </td>
+<td align="left" valign="top">↑1%</td>
+<td align="left" valign="top">↓1%</td>
+</tr>
+<tr id="id_94431367-f637-46a4-9ff8-cf5aec360347">
+<td align="left" valign="top">Metformin</td>
+<td align="left" valign="top">850 mg three times daily for 10 days</td>
+<td align="left" valign="top">Fenofibrate 54 mg <footnoteref idref="id-89440ce3-c467-4fe1-af22-d4a4b2384e7c"></footnoteref> three times daily for 10 days </td>
+<td align="left" valign="top">↓9%</td>
+<td align="left" valign="top">↓6%</td>
+</tr>
+<tr id="id_d5c652b5-4156-4617-8c99-c78db25104b0" stylecode="Botrule">
+<td align="left" valign="top">Rosiglitazone</td>
+<td align="left" valign="top">8 mg once daily for 5 days</td>
+<td align="left" valign="top">Fenofibrate 145 mg<footnoteref idref="id-89440ce3-c467-4fe1-af22-d4a4b2384e7c"></footnoteref> once daily for 14 days </td>
+<td align="left" valign="top">↑10%</td>
+<td align="left" valign="top">↑3%</td>
+</tr>
+</tbody>
+</table>

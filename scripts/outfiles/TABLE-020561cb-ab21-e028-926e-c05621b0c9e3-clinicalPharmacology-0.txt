@@ -1,0 +1,73 @@
+<table id="Table_1" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1.—Effect of Oral Nizatidine on Gastric Acid Secretion</caption>
+<col align="left" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="12%"></col>
+<col align="center" valign="bottom" width="12%"></col>
+<col align="center" valign="bottom" width="12%"></col>
+<col align="center" valign="bottom" width="12%"></col>
+<col align="center" valign="bottom" width="12%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule">Time After Dose (h)</th>
+<th colspan="5" stylecode="Lrule Rrule Botrule" valign="middle">% Inhibition of Gastric Acid Output by Dose (mg)</th>
+</tr>
+<tr>
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule">20-50</th>
+<th stylecode="Lrule">75</th>
+<th stylecode="Lrule">100</th>
+<th stylecode="Lrule">150</th>
+<th stylecode="Lrule Rrule">300</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule">Nocturnal</td>
+<td stylecode="Rrule">Up to 10</td>
+<td stylecode="Rrule">57</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">73</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">90</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Betazole</td>
+<td stylecode="Rrule">Up to 3</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">93</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">100</td>
+<td stylecode="Rrule">99</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Pentagastrin</td>
+<td stylecode="Rrule">Up to 6</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">25</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">64</td>
+<td stylecode="Rrule">67</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Meal</td>
+<td stylecode="Rrule">Up to 4</td>
+<td stylecode="Rrule">41</td>
+<td stylecode="Rrule">64</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">98</td>
+<td stylecode="Rrule">97</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Caffeine</td>
+<td stylecode="Rrule">Up to 3</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">73</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">85</td>
+<td stylecode="Rrule">96</td>
+</tr>
+</tbody>
+</table>

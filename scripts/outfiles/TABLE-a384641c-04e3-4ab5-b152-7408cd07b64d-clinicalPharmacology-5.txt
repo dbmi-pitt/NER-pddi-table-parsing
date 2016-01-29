@@ -1,0 +1,66 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td valign="top">           </td>
+<td align="center" colspan="3" valign="top">  Organism </td>
+<td align="center" valign="top">           </td>
+<td align="center" valign="top">  MIC </td>
+<td align="center" valign="top">  Range </td>
+<td align="center" valign="top">  (mcg/mL)</td>
+<td align="center" valign="top">           </td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right" valign="top"> <content stylecode="italics">E.</content>
+</td>
+<td valign="top"> <content stylecode="italics">faecalis</content>
+</td>
+<td valign="top"> ATCC</td>
+<td valign="top">      29212</td>
+<td align="center" valign="top"> </td>
+<td align="center" colspan="3" valign="top">              8-32</td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr>
+<td align="right" valign="top"> <content stylecode="italics">E.</content>
+</td>
+<td valign="top"> <content stylecode="italics">coli</content>
+</td>
+<td valign="top"> ATCC</td>
+<td valign="top">      25922</td>
+<td align="center" valign="top"> </td>
+<td align="center" colspan="3" valign="top">           0.25-1</td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr>
+<td align="right" valign="top"> <content stylecode="italics">P.</content>
+</td>
+<td valign="top"> <content stylecode="italics">aeruginosa</content>
+</td>
+<td valign="top"> ATCC</td>
+<td valign="top">      27853</td>
+<td align="center" valign="top"> </td>
+<td align="center" colspan="3" valign="top">           0.25-1</td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr>
+<td align="right" valign="top"> <content stylecode="italics">S.</content>
+</td>
+<td valign="top"> <content stylecode="italics">aureus</content>
+</td>
+<td valign="top"> ATCC</td>
+<td valign="top">      29213</td>
+<td align="center" valign="top"> </td>
+<td align="center" colspan="3" valign="top">           0.12-1</td>
+<td align="center" valign="top"> </td>
+</tr>
+</tbody>
+</table>

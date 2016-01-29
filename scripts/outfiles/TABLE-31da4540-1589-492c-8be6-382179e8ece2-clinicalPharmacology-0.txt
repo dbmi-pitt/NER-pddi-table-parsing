@@ -1,0 +1,273 @@
+<table id="id_535de644-2805-41d4-b4df-8c64df01cf04" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_aec7281d-04e9-4237-b63b-0cb7999d82df"></caption>
+<col width="107*"></col>
+<col width="107*"></col>
+<col width="107*"></col>
+<col width="85"></col>
+<col width="112*"></col>
+<col width="109*"></col>
+<col width="106*"></col>
+<col width="106*"></col>
+<col width="109*"></col>
+<col width="106*"></col>
+<col width="109*"></col>
+<col width="106*"></col>
+<tfoot id="id_6340dc23-7392-4c3f-adcb-da418627bc82">
+<tr>
+<td align="left" valign="top">
+<paragraph>% Dose metabolized = &lt;50</paragraph>
+<paragraph>% Dose excreted in urine = 91</paragraph>
+</td>
+<td align="left" colspan="6" valign="top">
+<paragraph> % Dose excreted in feces = 6</paragraph>
+<paragraph> % Plasma protein binding = 99</paragraph>
+</td>
+<td align="left" colspan="5" valign="top">
+<paragraph>
+<sup> 1</sup>Time-to-peak plasma concentration</paragraph>
+<paragraph>
+<sup> 2</sup>Peak plasma concentration</paragraph>
+<paragraph>
+<sup> 3</sup>Trough plasma concentration</paragraph>
+<paragraph>
+<sup> 4</sup>Average plasma concentration</paragraph>
+<paragraph>
+<sup> 5</sup>Volume of distribution</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="12" valign="top">
+<paragraph>
+<sup>† </sup>Derived from PO pharmacokinetic studies in 77 normal fasted volunteers</paragraph>
+<paragraph> *Derived from IM pharmacokinetic studies in 54 normal volunteers</paragraph>
+<paragraph>
+<sup>‡ </sup>Derived from IV pharmacokinetic studies in 24 normal volunteers</paragraph>
+<paragraph>
+<sup>††</sup>Not applicable because 60 mg is only recommended as a single dose</paragraph>
+<paragraph> **Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed C<sub>max</sub> and T<sub>max</sub> data</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_2a3b1a21-ca87-4504-9636-4bbdc7b3bcab" stylecode="Toprule">
+<td align="center" colspan="12" valign="top">
+<paragraph>
+<content stylecode="bold">Table 1</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Table of Approximate Average Pharmacokinetic Parameters (Mean±SD)</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_febef941-b2e9-4d24-8ac6-029b5ff7030d">
+<td align="left" valign="top"></td>
+<td align="center" colspan="4" valign="top">
+<paragraph>
+<content stylecode="bold">Oral</content>
+<content stylecode="bold">
+<sup>†</sup>
+</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" valign="top">
+<paragraph>
+<content stylecode="bold">Intramuscular*</content>
+</paragraph>
+</td>
+<td align="center" colspan="4" valign="top">
+<paragraph>
+<content stylecode="bold">Intravenous Bolus</content>
+<content stylecode="bold">
+<sup>‡</sup>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_a5d8cb5d-8e34-4b26-8fa7-2ae9bc3669bc">
+<td align="left" valign="top">
+<paragraph>
+<content stylecode="bold">Pharmacokinetic</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Parameters (units)</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" rowspan="2" valign="top">
+<paragraph>
+<content stylecode="bold">10 mg</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" rowspan="2" valign="top">
+<paragraph>
+<content stylecode="bold">15 mg</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" rowspan="2" valign="top">
+<paragraph>
+<content stylecode="bold">30 mg</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" valign="top">
+<paragraph>
+<content stylecode="bold">60 mg</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" rowspan="2" valign="top">
+<paragraph>
+<content stylecode="bold">15 mg</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" rowspan="2" valign="top">
+<paragraph>
+<content stylecode="bold">30 mg</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_2892d782-b7db-43f5-9b0a-8532d820afa8">
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_ecd10afa-c3b3-4859-8831-9db702da7056">
+<td align="left" valign="top">
+<paragraph>Bioavailability (extent)</paragraph>
+</td>
+<td align="center" colspan="11" valign="top">
+<paragraph>100%</paragraph>
+</td>
+</tr>
+<tr id="id_7c77139e-12eb-483e-be84-51d7b3c28f79">
+<td align="left" valign="top">
+<paragraph>T<sub>max</sub>
+<sup>1</sup> (min)</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>44±34</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>33±21**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>44±29</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>33±21**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>1.1±0.7**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>2.9±1.8</paragraph>
+</td>
+</tr>
+<tr id="id_44ffb247-bdc1-4009-85b8-73e2e2448b4a">
+<td align="left" valign="top">
+<paragraph>C<sub>max</sub>
+<sup>2</sup> (mcg/mL) [Single-dose]</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>0.87±0.22</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>1.14±0.32**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>2.42±0.68</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>4.55±1.27**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>2.47±0.51**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>4.65±0.96</paragraph>
+</td>
+</tr>
+<tr id="id_7d9369f3-9eec-4b0d-9e59-07345f22e46f">
+<td align="left" valign="top">
+<paragraph>C<sub>max</sub> (mcg/mL) [steady state qid]</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>1.05±0.26**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>1.56±0.44**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>3.11±0.87**</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>N/A<sup>††</sup>
+</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>3.09±1.17**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>6.85±2.61</paragraph>
+</td>
+</tr>
+<tr id="id_8a8dbaee-89af-4f1f-b35b-9ee4d64a672e">
+<td align="left" valign="top">
+<paragraph>C<sub>min</sub>
+<sup>3</sup> (mcg/mL) [steady state qid]</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>0.29±0.07**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>0.47±0.13**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>0.93±0.26**</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>N/A</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>0.61±0.21**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>1.04±0.35</paragraph>
+</td>
+</tr>
+<tr id="id_7c54df16-1334-40ad-a808-a82974fa0c00">
+<td align="left" valign="top">
+<paragraph>C<sub>avg</sub>
+<sup>4</sup> (mcg/mL) [steady state qid]</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>0.59±0.2**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>0.94±0.29**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>1.88±0.59**</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>N/A</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>1.09±0.3**</paragraph>
+</td>
+<td align="center" colspan="2" valign="top">
+<paragraph>2.17±0.59</paragraph>
+</td>
+</tr>
+<tr id="id_d9a0bcef-f33c-4b1d-a3fa-a0658fde0e09">
+<td align="left" valign="top">
+<paragraph>V<sub>β</sub>
+<sup>5</sup> (L/kg)</paragraph>
+</td>
+<td align="center" colspan="7" valign="top">
+<paragraph>—————— 0.175±0.039———————</paragraph>
+</td>
+<td align="center" colspan="4" valign="top">
+<paragraph>0.210±0.044</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,51 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule First">
+<td align="center" stylecode="Lrule Rrule" valign="top">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="underline">Zone Diameter Range (mm)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">Tetracycline</td>
+<td align="center" stylecode="Rrule" valign="top">Minocycline</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics"> Escherichia coli</content> ATCC 25922</td>
+<td align="center" stylecode="Rrule" valign="top">18-25</td>
+<td align="center" stylecode="Rrule" valign="top">19-25</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics"> Staphylococcus aureus </content>ATCC 29213</td>
+<td align="center" stylecode="Rrule" valign="top">24-30</td>
+<td align="center" stylecode="Rrule" valign="top">25-30</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics"> Haemophilus influenzae</content> ATCC 49247</td>
+<td align="center" stylecode="Rrule" valign="top">14-22</td>
+<td align="center" stylecode="Rrule" valign="top">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics"> Neisseria gonorrhoeae </content>ATCC 49226</td>
+<td align="center" stylecode="Rrule" valign="top">30-42</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="italics">-</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics"> Streptococcus pneumoniae</content> ATCC 49619</td>
+<td align="center" stylecode="Rrule" valign="top">27-31</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="italics">-</content>
+</td>
+</tr>
+</tbody>
+</table>

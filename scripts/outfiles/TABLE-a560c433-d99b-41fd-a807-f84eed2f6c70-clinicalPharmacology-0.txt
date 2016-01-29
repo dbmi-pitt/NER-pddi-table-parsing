@@ -1,0 +1,128 @@
+<table xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="7%"></col>
+<col width="6%"></col>
+<col width="3%"></col>
+<col width="9%"></col>
+<col width="9%"></col>
+<col width="7%"></col>
+<col width="8%"></col>
+<col width="9%"></col>
+<tbody>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>Age-group (years)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>Mean Weight (kg)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>n</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>Peak Plasma Concentration (ng/mL)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>Time of Peak Plasma Concentration (h)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>Mean Elimination Half-life (h)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>Systemic Plasma Clearance L/h/kg</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>Absolute Bioavailability</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>18-40 M </paragraph>
+<paragraph>F </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>69</paragraph>
+<paragraph>62.7</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>65</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>26.2 </paragraph>
+<paragraph>42.7</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>2</paragraph>
+<paragraph>1.7</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>3.1</paragraph>
+<paragraph> 3.5</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.403 0.354</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.483 0.663</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>61-74 M</paragraph>
+<paragraph> F </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>77.5 60.2</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>66</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>24.1 </paragraph>
+<paragraph>52.4</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>2.1 </paragraph>
+<paragraph>1.9</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>4.1 </paragraph>
+<paragraph>4.9</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.384 0.255</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.585 0.643</paragraph>
+</td>
+</tr>
+<tr stylecode="Toprule">
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>≥ 75 M F </paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>78 67.6</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>56</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>37 </paragraph>
+<paragraph>46.1</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>2.2 </paragraph>
+<paragraph>2.1</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>4.5 </paragraph>
+<paragraph>6.2</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>0.277 0.249</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>0.619 0.747</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

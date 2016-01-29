@@ -1,0 +1,180 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="24%"></col>
+<col width="23%"></col>
+<col width="17%"></col>
+<col width="36%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<paragraph>
+<content stylecode="bold">Coadministered drug</content>
+</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>
+<content stylecode="bold">Dose schedules</content>
+</paragraph>
+</td>
+<td stylecode="Toprule "></td>
+<td stylecode="Toprule ">
+<paragraph>
+<content stylecode="bold">Effect on quetiapine pharmacokinetics</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<paragraph>
+<content stylecode="bold">Coadministered drug</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Quetiapine</content>
+</paragraph>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<paragraph>Phenytoin</paragraph>
+</td>
+<td>
+<paragraph>100 mg threetimes daily</paragraph>
+</td>
+<td>
+<paragraph>250 mg threetimes daily</paragraph>
+</td>
+<td>
+<paragraph>5 fold Increase inoral clearance</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Divalproex</paragraph>
+</td>
+<td>
+<paragraph>500 mg twicedaily</paragraph>
+</td>
+<td>
+<paragraph>150 mgtwice daily</paragraph>
+</td>
+<td>
+<paragraph>17% increase meanmax plasmaconcentration atsteady state.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph> </paragraph>
+</td>
+<td>
+<paragraph>No affect on absorption or mean oral clearance</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Thioridazine </paragraph>
+</td>
+<td>
+<paragraph>200 mg twice daily </paragraph>
+</td>
+<td>
+<paragraph>300 mgtwice daily </paragraph>
+</td>
+<td>
+<paragraph>65% increase in oral clearance </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Cimetidine </paragraph>
+</td>
+<td>
+<paragraph>400 mg three times daily for 4days</paragraph>
+</td>
+<td>
+<paragraph>150 mg three times daily </paragraph>
+</td>
+<td>
+<paragraph>20% decrease in mean oral clearance </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Ketoconazole (potent CYP 3A4 inhibitor)</paragraph>
+</td>
+<td>
+<paragraph>200 mg once daily for 4 days</paragraph>
+</td>
+<td>
+<paragraph>25 mg single dose</paragraph>
+</td>
+<td>
+<paragraph>84% decrease in oral clearance resulting in a 6.2 fold increase in AUC of quetiapine </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Fluoxetine </paragraph>
+</td>
+<td>
+<paragraph>60 mg once daily </paragraph>
+</td>
+<td>
+<paragraph>300 mg twice daily </paragraph>
+</td>
+<td>
+<paragraph>No change in steady state PK </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Imipramine</paragraph>
+</td>
+<td>
+<paragraph>75 mg twice daily </paragraph>
+</td>
+<td>
+<paragraph>300 mg twice daily </paragraph>
+</td>
+<td>
+<paragraph>No change in steady state PK </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Haloperidol</paragraph>
+</td>
+<td>
+<paragraph>7.5 mg twice daily </paragraph>
+</td>
+<td>
+<paragraph>300 mg twice daily </paragraph>
+</td>
+<td>
+<paragraph>No change in steady state PK </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Risperidone </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>3 mg twice daily </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>300 mg twice daily </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>No change in steady state PK </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

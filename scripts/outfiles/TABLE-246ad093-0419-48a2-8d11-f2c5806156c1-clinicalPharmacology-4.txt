@@ -1,0 +1,199 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="11.446%"></col>
+<col align="left" width="8.855%"></col>
+<col align="left" width="8.855%"></col>
+<col align="left" width="8.855%"></col>
+<col align="left" width="8.855%"></col>
+<col align="left" width="8.855%"></col>
+<col align="left" width="8.855%"></col>
+<col align="left" width="8.855%"></col>
+<col align="left" width="8.855%"></col>
+<col align="left" width="8.855%"></col>
+<col align="left" width="8.855%"></col>
+<thead>
+<tr>
+<th align="center" colspan="11" stylecode="Toprule Botrule Lrule Rrule" valign="bottom">Mean Change (∆) from Baseline at Last Measurement
+</th>
+</tr>
+<tr>
+<th align="center" rowspan="2" stylecode="Lrule Rrule" valign="bottom"></th>
+<th align="center" colspan="5" stylecode="Rrule" valign="bottom">Breast Cancer Patients
+</th>
+<th align="center" colspan="5" stylecode="Rrule" valign="bottom">Breast Cancer Patients
+</th>
+</tr>
+<tr>
+<th align="center" colspan="5" stylecode="Botrule Rrule" valign="bottom">Receiving Chemotherapy
+</th>
+<th align="center" colspan="5" stylecode="Botrule Rrule" valign="bottom">Receiving Hormonal Therapy
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="11" valign="top">
+<paragraph stylecode="footnote">Decreases in pain, analgesic scores and ECOG PS, and increases in Spitzer QOL indicate an improvement from baseline.
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="11" valign="top">
+<paragraph stylecode="footnote">
+<sup>*</sup>The statistical significance of analyses of these secondary endpoints of pain, quality of life, and performance status in all three trials may be overestimated since numerous analyses were performed.
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Lrule Rrule" valign="bottom"></td>
+<td align="center" colspan="2" stylecode="Rrule" valign="bottom">Pamidronate
+</td>
+<td align="center" colspan="2" rowspan="2" stylecode="Botrule Rrule" valign="bottom">Placebo (P)
+</td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="bottom">PD vs P
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="bottom">Pamidronate
+</td>
+<td align="center" colspan="2" rowspan="2" stylecode="Botrule Rrule" valign="bottom">Placebo (P)
+</td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="bottom">PD vs P
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="bottom">Disodium (PD)
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="bottom">Disodium (PD)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="bottom"></td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">N
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Mean ∆
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">N
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Mean ∆
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">P-Value*
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">N
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Mean ∆
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">N
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">Mean ∆
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">P-Value*
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="bottom">Pain Score
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">175
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">+0.93
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">183
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">+1.69
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">.050
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">173
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">+0.50
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">179
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">+1.60
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">.007
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="bottom">Analgesic<br/>Score
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>175
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>+0.74
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>183
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>+1.55
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>.009
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>173
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>+0.90
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>179
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>+2.28
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>&lt;.001
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="bottom">ECOG PS
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">178
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">+0.81
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">186
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">+1.19
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">.002
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">175
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">+0.95
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">182
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">+0.90
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">.773
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="bottom">Spitzer QOL
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">177
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">-1.76
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">185
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">-2.21
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">.103
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">173
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">-1.86
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">181
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">-2.05
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">.409
+</td>
+</tr>
+</tbody>
+</table>

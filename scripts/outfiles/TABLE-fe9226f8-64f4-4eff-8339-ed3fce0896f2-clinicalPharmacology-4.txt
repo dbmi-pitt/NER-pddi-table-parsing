@@ -1,0 +1,30 @@
+<table border="none" id="id_3ce25679-9d1e-497a-a628-c764dd79a59f" width="432" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<tbody>
+<tr id="id_a2c1d129-0ce5-49ab-9d63-e74cc1ba3bfd" stylecode="Toprule">
+<td align="center" valign="top">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr id="id_3f5a06da-172a-48c0-b834-a71e6105a7f4">
+<td align="center" valign="top">≤ 1</td>
+<td align="center" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_83ac74b7-fec5-47be-a93c-77ff8dfe8be7">
+<td align="center" valign="top">  2</td>
+<td align="center" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_d9fea774-bf21-441e-af08-ab24c883d3dd">
+<td align="center" valign="top">≥ 4</td>
+<td align="center" valign="top">Resistant (R)</td>
+</tr>
+<tr id="id_c17fc1d3-d66d-4035-b1fd-75e5f19c90b8" stylecode="Botrule">
+<td align="left" colspan="2" valign="top">
+<sup>b</sup> These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2 - 5% lysed horse blood.</td>
+</tr>
+</tbody>
+</table>

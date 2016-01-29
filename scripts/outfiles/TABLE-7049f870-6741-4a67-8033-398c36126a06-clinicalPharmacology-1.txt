@@ -1,0 +1,76 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="22.511%"></col>
+<col align="left" width="19.372%"></col>
+<col align="left" width="19.372%"></col>
+<col align="left" width="19.372%"></col>
+<col align="left" width="19.372%"></col>
+<tfoot>
+<tr>
+<td align="justify" colspan="5" valign="middle">
+<paragraph stylecode="footnote">
+<sup>a</sup> AUC <sub>0-12h</sub>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="justify" colspan="5" valign="middle">
+<paragraph stylecode="footnote">
+<sup>b</sup> AUC 24h=AUC <sub>0-12h</sub> × 2
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="justify" colspan="5" valign="middle">
+<paragraph stylecode="footnote">
+<sup>c</sup> AUC 24h=AUC <sub>0-8h</sub> × 3
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" colspan="5" stylecode="Toprule Botrule" valign="middle">
+<content stylecode="bold">Steady-state Pharmacokinetic Parameter
+</content>
+<br/>
+<content stylecode="bold">Following Multiple Oral and IV Doses</content>
+</td>
+</tr>
+<tr>
+<td align="justify" valign="middle">Parameters
+</td>
+<td align="left" valign="middle">500 mg <br/>q12h, P.O.
+</td>
+<td align="left" valign="middle">400 mg <br/>q12h, IV
+</td>
+<td align="left" valign="middle">750 mg <br/>q12h, P.O.
+</td>
+<td align="left" valign="middle">400 mg <br/>q8h, IV
+</td>
+</tr>
+<tr>
+<td align="justify" valign="middle">AUC (mcg·hr/mL)
+</td>
+<td align="justify" valign="middle">13.7 <sup>a</sup>
+</td>
+<td align="justify" valign="middle">12.7 <sup>a</sup>
+</td>
+<td align="justify" valign="middle">31.6 <sup>b</sup>
+</td>
+<td align="justify" valign="middle">32.9 <sup>c</sup>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule" valign="middle">C<sub>max</sub> (mcg/mL)
+</td>
+<td align="justify" stylecode="Botrule" valign="middle">2.97
+</td>
+<td align="justify" stylecode="Botrule" valign="middle">4.56
+</td>
+<td align="justify" stylecode="Botrule" valign="middle">3.59
+</td>
+<td align="justify" stylecode="Botrule" valign="middle">4.07
+</td>
+</tr>
+</tbody>
+</table>

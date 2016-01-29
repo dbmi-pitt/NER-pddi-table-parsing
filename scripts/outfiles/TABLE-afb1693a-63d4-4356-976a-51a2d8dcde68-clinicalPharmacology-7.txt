@@ -1,0 +1,32 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="center" valign="middle" width="50%"></col>
+<col align="center" valign="middle" width="50%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Microorganism</th>
+<th stylecode="Rrule">MIC Range (mcg/mL)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Escherichia coli</content> ATCC 25922</td>
+<td stylecode="Rrule">23 to 29</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 25923</td>
+<td stylecode="Rrule">24 to 32</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Haemophilus influenzae</content> ATCC 49247</td>
+<td stylecode="Rrule">24 to 32</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus pneumoniae</content> ATCC 49619</td>
+<td stylecode="Rrule">20 to 28</td>
+</tr>
+</tbody>
+</table>

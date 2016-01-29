@@ -1,0 +1,14 @@
+<table border="none" frame="void" id="ID_0C120EBB-191D-4A8F-9B6F-D0CF3750AE5D" width="356.4" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><col width="24.242%"></col>
+<col width="23.990%"></col>
+<col width="15.152%"></col>
+<col width="36.616%"></col>
+<thead>
+<tr id="ID_D177AC89-9DAC-4F7E-B033-D9223B32C58A"><td align="left" colspan="2" valign="top"><content stylecode="bold underline">MIC(μ<content stylecode="bold underline">g/mL)</content></content></td><td align="justify" valign="top"></td><td align="justify" valign="top"></td></tr>
+<tr id="ID_A4268DDE-9500-42CD-89F5-AFCD17E5B3A8"><td align="left" valign="top"><content stylecode="bold underline">Broth dilution</content></td><td align="left" valign="top"><content stylecode="bold underline">Agar dilution</content></td><td align="left" valign="top"></td><td align="left" valign="top"><content stylecode="bold underline">Interpretation     </content></td></tr>
+</thead>
+<tbody>
+<tr id="ID_A4B08B41-DE18-48B7-908C-A4BD0E7F409D"><td align="left" valign="top">≤ 16</td><td align="left" valign="top">≤ 32</td><td align="left" valign="top"></td><td align="justify" valign="top">Susceptible (S)</td></tr>
+<tr id="ID_EAEECE32-178A-4BCB-A10E-4B41FC7CDF70"><td align="left" valign="top">32</td><td align="left" valign="top">64</td><td align="left" valign="top"></td><td align="justify" valign="top">Intermediate (I)</td></tr>
+<tr id="ID_ADC6192B-F7A2-446E-855A-79DB3A369C7F"><td align="left" valign="top">≥ 64</td><td align="left" valign="top">≥ 128</td><td align="left" valign="top"></td><td align="justify" valign="top">Resistant (R)</td></tr>
+</tbody>
+</table>

@@ -1,0 +1,183 @@
+<table id="_RefID0F6CE4BE3EC14E3B8EB0ECD1857319BA" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Azithromycin Concentrations Following a 500 mg Dose (Two 250 mg Capsules) in Adults<footnote id="_RefIDA1C77BE33F7049BC96BB3F3D6C97CCA6">Azithromycin tissue concentrations were originally determined using 250 mg capsules.</footnote>
+</caption>
+<col width="12%"></col>
+<col width="11%"></col>
+<col width="18%"></col>
+<col width="18%"></col>
+<col width="19%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Botrule Lrule Toprule ">
+<content stylecode="bold">Tissue</content>
+<br/>
+<content stylecode="bold">or Fluid</content>
+</th>
+<th rowspan="2" stylecode="Botrule Lrule Toprule ">
+<content stylecode="bold">Time</content>
+<br/>
+<content stylecode="bold">After</content>
+<br/>
+<content stylecode="bold">Dose</content>
+<br/>
+<content stylecode="bold">(h)</content>
+</th>
+<th rowspan="2" stylecode="Botrule Lrule Toprule ">
+<content stylecode="bold">Tissue</content>
+<br/>
+<content stylecode="bold">or Fluid</content>
+<br/>
+<content stylecode="bold">Concentration</content>
+<br/>
+<content stylecode="bold">(mcg/g or</content>
+<br/>
+<content stylecode="bold">mcg/mL)</content>
+</th>
+<th rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Corresponding</content>
+<br/>
+<content stylecode="bold">Plasma or</content>
+<br/>
+<content stylecode="bold">Serum Level</content>
+<br/>
+<content stylecode="bold">(mcg/mL)</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Tissue (Fluid)</content>
+</th>
+</tr>
+<tr>
+<th stylecode="Rrule Botrule ">
+<content stylecode="bold">Plasma (Serum)</content>
+<br/>
+<content stylecode="bold">Ratio</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>Skin</paragraph>
+</td>
+<td align="center">
+<paragraph>72-96</paragraph>
+</td>
+<td align="center">
+<paragraph>0.4</paragraph>
+</td>
+<td align="center">
+<paragraph>0.012</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>35</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>Lung</paragraph>
+</td>
+<td align="center">
+<paragraph>72-96</paragraph>
+</td>
+<td align="center">
+<paragraph>4.0</paragraph>
+</td>
+<td align="center">
+<paragraph>0.012</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>&gt;100</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>Sputum<footnote id="_RefID975DA8C100FB44EFA61759583CBE2E89">Sample was obtained 2 to 4 hours after the first dose.</footnote>
+</paragraph>
+</td>
+<td align="center">
+<paragraph>2-4</paragraph>
+</td>
+<td align="center">
+<paragraph>1.0</paragraph>
+</td>
+<td align="center">
+<paragraph>0.64</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>2</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>Sputum<footnote id="_RefID402075C2ED1640F99B31FF1EF0A36055">Sample was obtained 10 to 12 hours after the first dose.</footnote>
+</paragraph>
+</td>
+<td align="center">
+<paragraph>10-12</paragraph>
+</td>
+<td align="center">
+<paragraph>2.9</paragraph>
+</td>
+<td align="center">
+<paragraph>0.1</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>30</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>Tonsil<footnote id="_RefID9BE3BEA5EEBA4F15AAD5F248D432E6D7">Dosing regimen of two doses of 250 mg each, separated by 12 hours.</footnote>
+</paragraph>
+</td>
+<td align="center">
+<paragraph>9-18</paragraph>
+</td>
+<td align="center">
+<paragraph>4.5</paragraph>
+</td>
+<td align="center">
+<paragraph>0.03</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>&gt;100</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>Tonsil<footnoteref idref="_RefID9BE3BEA5EEBA4F15AAD5F248D432E6D7"></footnoteref>
+</paragraph>
+</td>
+<td align="center">
+<paragraph>180</paragraph>
+</td>
+<td align="center">
+<paragraph>0.9</paragraph>
+</td>
+<td align="center">
+<paragraph>0.006</paragraph>
+</td>
+<td align="center" stylecode="Rrule ">
+<paragraph>&gt;100</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>Cervix<footnote id="_RefIDD39CCA8EC7A042A5B77EA49CB9C467A6">Sample was obtained 19 hours after a single 500 mg dose.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>19</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>2.8</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>0.04</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>70</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

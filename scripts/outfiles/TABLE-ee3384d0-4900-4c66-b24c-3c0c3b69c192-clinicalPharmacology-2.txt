@@ -1,0 +1,30 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="44.31%"></col>
+<col span="1" width="29.11%"></col>
+<col span="1" width="26.57%"></col>
+<tbody>
+<tr>
+<td> <content stylecode="bold">Organism</content>
+</td>
+<td> <content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> <content stylecode="bold">tetracycline</content>
+</td>
+<td> <content stylecode="bold">doxycycline</content>
+</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">E. coli</content> ATCC 25922</td>
+<td> 18-25</td>
+<td> 18-24</td>
+</tr>
+<tr>
+<td> <content stylecode="italics">S. aureus</content> ATCC 25923</td>
+<td> 19-28</td>
+<td> 23-29</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,112 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4. Susceptibility Test Interpretive Criteria for Amoxicillin</caption>
+<col align="left" valign="middle" width="22%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th stylecode="Lrule Rrule"></th>
+<th align="center" colspan="3" stylecode="Rrule">Minimum Inhibitory Concentration (mcg/mL)</th>
+<th align="center" colspan="3" stylecode="Rrule">Disk Diffusion (Zone Diameter in mm)</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule"> </th>
+<th stylecode="Rrule">Susceptible</th>
+<th stylecode="Rrule">Intermediate</th>
+<th stylecode="Rrule">Resistant</th>
+<th stylecode="Rrule">Susceptible</th>
+<th stylecode="Rrule">Intermediate</th>
+<th stylecode="Rrule">Resistant</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Enterococcus </content>spp.</td>
+<td stylecode="Rrule">≤ 8</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">≥ 16</td>
+<td stylecode="Rrule">≥ 17</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">≤ 16</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Staphylococcus </content>spp.</td>
+<td stylecode="Rrule">≤ 0.25</td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule">≥ 0.5</td>
+<td stylecode="Rrule">≥ 29</td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule">≤ 28</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Streptococci, viridians group (alpha-hemolytic streptococci)</td>
+<td stylecode="Rrule">≤ 0.25</td>
+<td stylecode="Rrule">0.5 to 4</td>
+<td stylecode="Rrule">≥ 8</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">β-hemolytic streptococci</td>
+<td stylecode="Rrule">≤ 0.25</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">≥ 24</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus pneumoniae </content>(non-meningitis isolates)<footnote>
+<content stylecode="italics">S. pneumoniae</content> should be tested using a 1 mcg oxacillin disk. Isolates with oxacillin zone sizes of ≥ 20 mm are susceptible to amoxicillin. An amoxicillin MIC should be determined on isolates of <content stylecode="italics">S. pneumoniae</content> with oxacillin zone sizes of ≤ 19 mm.</footnote>
+</td>
+<td stylecode="Rrule">≤ 2</td>
+<td stylecode="Rrule">4</td>
+<td stylecode="Rrule">≥ 8</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td stylecode="Rrule">≤ 8</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">≥ 32</td>
+<td stylecode="Rrule">≥ 17</td>
+<td stylecode="Rrule">14 to 16</td>
+<td stylecode="Rrule">≤ 13</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td stylecode="Rrule">≤ 1</td>
+<td stylecode="Rrule">2</td>
+<td stylecode="Rrule">≥ 4</td>
+<td stylecode="Rrule">≥ 22</td>
+<td stylecode="Rrule">19 to 21</td>
+<td stylecode="Rrule">≤ 18</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+<footnote>A positive beta lactamase test indicates resistance to amoxicillin. Isolates that are resistant to penicillin by MIC testing are also expected to be resistant to amoxicillin.</footnote>
+</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+<td stylecode="Rrule">–</td>
+</tr>
+</tbody>
+</table>

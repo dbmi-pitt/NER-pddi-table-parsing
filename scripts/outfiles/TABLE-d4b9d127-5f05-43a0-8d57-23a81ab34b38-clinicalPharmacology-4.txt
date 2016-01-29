@@ -1,0 +1,115 @@
+<table id="t5" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5: Combined Metformin/Insulin vs Placebo/Insulin Summary of Mean Changes from Baseline in HbA<sub>1c</sub> and Daily Insulin Dose
+</caption>
+<col align="left" width="30.525%"></col>
+<col align="left" width="17.475%"></col>
+<col align="left" width="25.225%"></col>
+<col align="left" width="26.775%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="4" valign="top">
+<paragraph stylecode="footnote">
+<sup>a</sup> Statistically significant using analysis of covariance with baseline as covariate (p=0.04)
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="4" valign="top">
+<paragraph stylecode="footnote">Not significant using analysis of variance (values shown in table)
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="4" valign="top">
+<paragraph stylecode="footnote">
+<sup>b</sup> Statistically significant for insulin (p=0.04)
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="top"></td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Metformin/</content>
+<br/>
+<content stylecode="bold">Insulin</content>
+<br/>
+<content stylecode="bold">(n=26)</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Placebo/</content>
+<br/>
+<content stylecode="bold">Insulin</content>
+<br/>
+<content stylecode="bold">(n=28)</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Treatment</content>
+<br/>
+<content stylecode="bold">Difference</content>
+<br/>
+<content stylecode="bold">Mean ± SE</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Hemoglobin A</content>
+<content stylecode="bold">
+<sub>1c
+</sub>
+</content>
+<content stylecode="bold">(%)</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule" valign="top">Baseline
+</td>
+<td align="center" stylecode="Rrule" valign="top">8.95
+</td>
+<td align="center" stylecode="Rrule" valign="top">9.32
+</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">Change at FINAL VISIT
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">–2.10
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">–1.56
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">–0.54 ± 0.43<sup>a</sup>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Insulin Dose (U/day)</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule" valign="top">Baseline
+</td>
+<td align="center" stylecode="Rrule" valign="top">93.12
+</td>
+<td align="center" stylecode="Rrule" valign="top">94.64
+</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">Change at FINAL VISIT
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">–0.15
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">15.93
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">–16.08 ± 7.77<sup>b</sup>
+</td>
+</tr>
+</tbody>
+</table>

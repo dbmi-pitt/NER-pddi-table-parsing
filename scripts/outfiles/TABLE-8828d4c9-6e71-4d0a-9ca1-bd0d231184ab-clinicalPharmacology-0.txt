@@ -1,0 +1,108 @@
+<table border="single" id="id_cb741d80-791c-41f6-ae05-5d43a11416d8" width="443" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_e8d6a1a6-4428-49b9-a261-b02c658b3888">Table 1 Ceftriaxone Plasma Concentrations After Single Dose Administration</caption>
+<col width="23.4%"></col>
+<col width="8.6%"></col>
+<col width="8.6%"></col>
+<col width="8.6%"></col>
+<col width="8.6%"></col>
+<col width="8.3%"></col>
+<col width="8.3%"></col>
+<col width="8.3%"></col>
+<col width="8.6%"></col>
+<col width="8.6%"></col>
+<tbody>
+<tr id="id_d82c3dbf-68d9-465b-90af-83bf8a53cdb3">
+<td align="left" stylecode="Toprule Botrule" valign="top">Dose/Route</td>
+<td align="center" colspan="9" stylecode="Botrule" valign="top">Average Plasma Concentrations (mcg/mL)</td>
+</tr>
+<tr id="id_98485674-330e-4b82-a351-328240276069">
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top">0.5 hr</td>
+<td align="center" stylecode="Botrule" valign="top">1 hr</td>
+<td align="center" stylecode="Botrule" valign="top">2 hr</td>
+<td align="center" stylecode="Botrule" valign="top">4 hr</td>
+<td align="center" stylecode="Botrule" valign="top">6 hr</td>
+<td align="center" stylecode="Botrule" valign="top">8 hr</td>
+<td align="center" stylecode="Botrule" valign="top">12 hr</td>
+<td align="center" stylecode="Botrule" valign="top">16 hr</td>
+<td align="center" stylecode="Botrule" valign="top">24 hr</td>
+</tr>
+<tr id="id_564ff034-3f4c-4f15-b9d3-2122283f0b7e">
+<td align="left" valign="top">0.5 g IV<footnote id="id-34f58d6a-9b30-4d61-a7b4-3eb6c9dc8d87">IV doses were infused at a constant rate over 30 minutes.</footnote>
+</td>
+<td align="center" valign="top">82</td>
+<td align="center" valign="top">59</td>
+<td align="center" valign="top">48</td>
+<td align="center" valign="top">37</td>
+<td align="center" valign="top">29</td>
+<td align="center" valign="top">23</td>
+<td align="center" valign="top">15</td>
+<td align="center" valign="top">10</td>
+<td align="center" valign="top">5</td>
+</tr>
+<tr id="id_6c3bb3f3-4680-4054-a1e7-5de16c0b1a55">
+<td align="left" valign="top">
+<paragraph>0.5 g IM </paragraph>250 mg/mL</td>
+<td align="center" valign="bottom">22</td>
+<td align="center" valign="bottom">33</td>
+<td align="center" valign="bottom">38</td>
+<td align="center" valign="bottom">35</td>
+<td align="center" valign="bottom">30</td>
+<td align="center" valign="bottom">26</td>
+<td align="center" valign="bottom">16</td>
+<td align="center" valign="bottom">ND</td>
+<td align="center" valign="bottom">5</td>
+</tr>
+<tr id="id_2e82ffc3-9c08-42f7-bea7-9682d6b90bf5">
+<td align="left" valign="top">
+<paragraph>0.5 g IM </paragraph>350 mg/mL</td>
+<td align="center" valign="bottom">20</td>
+<td align="center" valign="bottom">32</td>
+<td align="center" valign="bottom">38</td>
+<td align="center" valign="bottom">34</td>
+<td align="center" valign="bottom">31</td>
+<td align="center" valign="bottom">24</td>
+<td align="center" valign="bottom">16</td>
+<td align="center" valign="bottom">ND</td>
+<td align="center" valign="bottom">5</td>
+</tr>
+<tr id="id_804bdfd7-b9e7-4582-a9c0-eba3bbe92de8">
+<td align="left" valign="top">1 g IV<footnoteref idref="id-34f58d6a-9b30-4d61-a7b4-3eb6c9dc8d87"></footnoteref>
+</td>
+<td align="center" valign="top">151</td>
+<td align="center" valign="top">111</td>
+<td align="center" valign="top">88</td>
+<td align="center" valign="top">67</td>
+<td align="center" valign="top">53</td>
+<td align="center" valign="top">43</td>
+<td align="center" valign="top">28</td>
+<td align="center" valign="top">18</td>
+<td align="center" valign="top">9</td>
+</tr>
+<tr id="id_7d7fabde-035e-47a0-a9f5-b42b2c2fe958">
+<td align="left" valign="top">1 g IM </td>
+<td align="center" valign="top">40</td>
+<td align="center" valign="top">68</td>
+<td align="center" valign="top">76</td>
+<td align="center" valign="top">68</td>
+<td align="center" valign="top">56</td>
+<td align="center" valign="top">44</td>
+<td align="center" valign="top">29</td>
+<td align="center" valign="top">ND</td>
+<td align="center" valign="top">ND</td>
+</tr>
+<tr id="id_dff0625e-d2a8-40b4-b1eb-b2fe7d4c39b1">
+<td align="left" stylecode="Botrule" valign="top">2 g IV<footnoteref idref="id-34f58d6a-9b30-4d61-a7b4-3eb6c9dc8d87"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">257</td>
+<td align="center" stylecode="Botrule" valign="top">192</td>
+<td align="center" stylecode="Botrule" valign="top">154</td>
+<td align="center" stylecode="Botrule" valign="top">117</td>
+<td align="center" stylecode="Botrule" valign="top">89</td>
+<td align="center" stylecode="Botrule" valign="top">74</td>
+<td align="center" stylecode="Botrule" valign="top">46</td>
+<td align="center" stylecode="Botrule" valign="top">31</td>
+<td align="center" stylecode="Botrule" valign="top">15</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,103 @@
+<table border="single" id="id_75eae64d-a2b4-455e-a17f-bf29ac3b8aeb" width="472" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="19.9%"></col>
+<col width="19.7%"></col>
+<col width="18.6%"></col>
+<col width="19.7%"></col>
+<col width="22.0%"></col>
+<tbody>
+<tr id="id_e473aba2-8207-42f7-8415-62ff335361f7">
+<td align="justify" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<paragraph>
+<content stylecode="bold">Pharmacokinetic</content>
+</paragraph>
+<content stylecode="bold">Parameter (mean±SD)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">100 mcg</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">200 mcg</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">400 mcg</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">800 mcg</content>
+</td>
+</tr>
+<tr id="id_9f7167d6-9fae-41fb-b26b-88e9172dd48d">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>C<sub>max</sub>
+</paragraph>(ng/mL)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.25 ± 0.14</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.40 ± 0.18</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.97 ± 0.53</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.59 ± 0.90</paragraph>
+</td>
+</tr>
+<tr id="id_897b2bd7-934d-4bfb-9d23-303133ece5e9">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>T<sub>max</sub>, minute**</paragraph>(range)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>45.0 </paragraph>(25.0 - 181.0)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>40.0 </paragraph>(20.0 - 180.0)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>35.0</paragraph>(20.0 - 180.0)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>40.0 </paragraph>(25.0 - 180.0)</td>
+</tr>
+<tr id="id_bfdefb18-13ed-4705-9e94-453bc83da118">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">AUC<sub>0-inf </sub>(ng•hr/mL) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.98 ± 0.37</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>2.11 ± 1.13</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>4.72 ± 1.95</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>9.05 ± 3.72</paragraph>
+</td>
+</tr>
+<tr id="id_b5e587f6-f1c8-4ba6-becf-71950bac86ef">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">AUC<sub>0-tmax</sub> (ng•hr/mL) </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.09 ± 0.06</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.13 ± 0.09</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.34 ± 0.23</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.52 ± 0.38</paragraph>
+</td>
+</tr>
+<tr id="id_c3a30b55-18d6-4940-9a1e-752ffd731a96">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">T1/2, hr**</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>2.63 </paragraph>(1.47 - 13.57)</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>4.43 </paragraph>(1.85 - 20.76)</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>11.09 </paragraph>(4.63 - 20.59)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>11.70 </paragraph>(4.63 - 28.63)</td>
+</tr>
+</tbody>
+</table>

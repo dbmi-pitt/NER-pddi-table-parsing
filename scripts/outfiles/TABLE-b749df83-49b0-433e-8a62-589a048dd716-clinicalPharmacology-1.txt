@@ -1,0 +1,157 @@
+<table id="table1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Azithromycin</caption>
+<col align="center" valign="top" width="16%"></col>
+<col align="center" valign="top" width="22%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="7%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">Co-administered Drug</th>
+<th rowspan="2" stylecode="Rrule">Dose of Co-administered Drug</th>
+<th rowspan="2" stylecode="Rrule">Dose of Azithromycin</th>
+<th rowspan="2" stylecode="Rrule">n</th>
+<th colspan="2" stylecode="Rrule">Ratio (with/without azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00</th>
+</tr>
+<tr>
+<th stylecode="Rrule">Mean C<sub>max</sub>
+</th>
+<th stylecode="Rrule">Mean AUC</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atorvastatin</td>
+<td stylecode="Rrule">10 mg/day for 8 days</td>
+<td stylecode="Rrule">500 mg/day orally on days 6–8</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">0.83<br/>(0.63 to 1.08)</td>
+<td stylecode="Rrule">1.01<br/>(0.81 to 1.25)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Carbamazepine</td>
+<td stylecode="Rrule">200 mg/day for 2 days, then 200 mg twice a day for 18 days</td>
+<td stylecode="Rrule">500 mg/day orally for days 16–18</td>
+<td stylecode="Rrule">7</td>
+<td stylecode="Rrule">0.97<br/>(0.88 to 1.06)</td>
+<td stylecode="Rrule">0.96<br/>(0.88 to 1.06)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Cetirizine</td>
+<td stylecode="Rrule">20 mg/day for 11 days</td>
+<td stylecode="Rrule">500 mg orally on day 7, then 250 mg/day on days 8–11</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">1.03<br/>(0.93 to 1.14)</td>
+<td stylecode="Rrule">1.02<br/>(0.92 to 1.13)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Didanosine</td>
+<td stylecode="Rrule">200 mg orally twice a day for 21 days</td>
+<td stylecode="Rrule">1,200 mg/day orally on days 8–21</td>
+<td stylecode="Rrule">6</td>
+<td stylecode="Rrule">1.44<br/>(0.85 to 2.43)</td>
+<td stylecode="Rrule">1.14<br/>(0.83 to 1.57)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Efavirenz</td>
+<td stylecode="Rrule">400 mg/day for 7 days</td>
+<td stylecode="Rrule">600 mg orally on day 7</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">1.04<footnote id="t1fa"> - 90% Confidence interval not reported</footnote>
+</td>
+<td stylecode="Rrule">0.95<footnoteref idref="t1fa"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Fluconazole</td>
+<td stylecode="Rrule">200 mg orally single dose</td>
+<td stylecode="Rrule">1,200 mg orally single dose</td>
+<td stylecode="Rrule">18</td>
+<td stylecode="Rrule">1.04<br/>(0.98 to 1.11)</td>
+<td stylecode="Rrule">1.01<br/>(0.97 to 1.05)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Indinavir</td>
+<td stylecode="Rrule">800 mg three times a day for 5 days</td>
+<td stylecode="Rrule">1,200 mg orally on day 5</td>
+<td stylecode="Rrule">18</td>
+<td stylecode="Rrule">0.96<br/>(0.86 to 1.08)</td>
+<td stylecode="Rrule">0.90<br/>(0.81 to 1.00)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Midazolam</td>
+<td stylecode="Rrule">15 mg orally on day 3</td>
+<td stylecode="Rrule">500 mg/day orally for 3 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">1.27<br/>(0.89 to 1.81)</td>
+<td stylecode="Rrule">1.26<br/>(1.01 to 1.56)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Nelfinavir</td>
+<td stylecode="Rrule">750 mg three times a day for 11 days</td>
+<td stylecode="Rrule">1,200 mg orally on day 9</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">0.90<br/>(0.81 to 1.01)</td>
+<td stylecode="Rrule">0.85<br/>(0.78 to 0.93)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Sildenafil</td>
+<td stylecode="Rrule">100 mg on days 1 and 4</td>
+<td stylecode="Rrule">500 mg/day orally for 3 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">1.16<br/>(0.86 to 1.57)</td>
+<td stylecode="Rrule">0.92<br/>(0.75 to 1.12)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Theophylline</td>
+<td stylecode="Rrule">4 mg/kg IV on days 1, 11, 25</td>
+<td stylecode="Rrule">500 mg orally on day 7, 250 mg/day on days 8–11</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">1.19<br/>(1.02 to 1.40)</td>
+<td stylecode="Rrule">1.02<br/>(0.86 to 1.22)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Theophylline</td>
+<td stylecode="Rrule">300 mg orally BID ×15 days</td>
+<td stylecode="Rrule">500 mg orally on day 6, then 250 mg/day on days 7–10</td>
+<td stylecode="Rrule">8</td>
+<td stylecode="Rrule">1.09<br/>(0.92 to 1.29)</td>
+<td stylecode="Rrule">1.08<br/>(0.89 to 1.31)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Triazolam</td>
+<td stylecode="Rrule">0.125 mg on day 2</td>
+<td stylecode="Rrule">500 mg orally on day 1, then 250 mg/day on day 2</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">1.06<footnoteref idref="t1fa"></footnoteref>
+</td>
+<td stylecode="Rrule">1.02<footnoteref idref="t1fa"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Trimethoprim/<br/>Sulfamethoxazole</td>
+<td stylecode="Rrule">160 mg/800 mg/day orally for 7 days</td>
+<td stylecode="Rrule">1,200 mg orally on day 7</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">0.85<br/>(0.75 to 0.97)/<br/>0.90<br/>(0.78 to 1.03)</td>
+<td stylecode="Rrule">0.87<br/>(0.80 to 0.95/<br/>0.96<br/>(0.88 to 1.03)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Zidovudine</td>
+<td stylecode="Rrule">500 mg/day orally for 21 days</td>
+<td stylecode="Rrule">600 mg/day orally for 14 days</td>
+<td stylecode="Rrule">5</td>
+<td stylecode="Rrule">1.12<br/>(0.42 to 3.02)</td>
+<td stylecode="Rrule">0.94<br/>(0.52 to 1.70)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Zidovudine</td>
+<td stylecode="Rrule">500 mg/day orally for 21 days</td>
+<td stylecode="Rrule">1,200 mg/day orally for 14 days</td>
+<td stylecode="Rrule">4</td>
+<td stylecode="Rrule">1.31<br/>(0.43 to 3.97)</td>
+<td stylecode="Rrule">1.30<br/>(0.69 to 2.43)</td>
+</tr>
+</tbody>
+</table>

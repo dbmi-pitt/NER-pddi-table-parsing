@@ -1,0 +1,97 @@
+<table border="single" id="id_a1a25a3a-848d-48fb-8fd2-7f1a90fd1e58" width="431.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_6ba1cb4a-fc37-477d-97a0-9bd89d84ff1a">Table 4: Lipid-Lowering Effects of Pravastatin in Pediatric Patients with Heterozygous Familial Hypercholesterolemia: Least-Squares Mean Percent Change from Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)<footnote id="id-f8b99357-8384-4366-8809-14dc8d529073">The above least-squares mean values were calculated based on log-transformed lipid values.</footnote>
+</caption>
+<col width="12.8%"></col>
+<col width="17.2%"></col>
+<col width="17.2%"></col>
+<col width="17.9%"></col>
+<col width="15.1%"></col>
+<col width="20.0%"></col>
+<tbody>
+<tr id="id_0471ec46-225f-48e8-9413-09619cd59715">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top"> </td>
+<td align="left" colspan="4" stylecode="Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 95% CI of the</td>
+</tr>
+<tr id="id_9b772e39-4009-4f7d-b448-05a79edaf951">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> <paragraph>Pravastatin</paragraph>
+<paragraph>20 mg</paragraph>
+<paragraph>(Aged 8-13</paragraph>
+<paragraph>years)</paragraph>N=65</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> <paragraph>Pravastatin</paragraph>
+<paragraph>40 mg</paragraph>
+<paragraph>(Aged 14-18</paragraph>
+<paragraph>years)</paragraph>N=41</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> <paragraph>Combined</paragraph>
+<paragraph>Pravastatin</paragraph>
+<paragraph>(Aged 8-18</paragraph>
+<paragraph>years)</paragraph>N=106</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> <paragraph>Combined</paragraph>
+<paragraph>Placebo</paragraph>
+<paragraph>(Aged 8-18</paragraph>
+<paragraph>years)</paragraph>N=108</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> <paragraph>Difference</paragraph>
+<paragraph>Between</paragraph>
+<paragraph>Combined</paragraph>
+<paragraph>Pravastatin</paragraph>and Placebo</td>
+</tr>
+<tr id="id_07e21dc9-7f2c-4ede-a039-935e607b0056">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> LDL-C </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -26.04<footnote id="id-e2a0a711-4caf-450c-b92a-d76c06128c48">Significant at p≤0.0001 when compared with placebo.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -21.07<footnoteref idref="id-e2a0a711-4caf-450c-b92a-d76c06128c48"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -24.07<footnoteref idref="id-e2a0a711-4caf-450c-b92a-d76c06128c48"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -1.52</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> (-26.74, -18.86)</td>
+</tr>
+<tr id="id_c56a3851-0523-4032-9ef8-3e44af41d7c8">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">  TC </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -20.75<footnoteref idref="id-e2a0a711-4caf-450c-b92a-d76c06128c48"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -13.08<footnoteref idref="id-e2a0a711-4caf-450c-b92a-d76c06128c48"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -17.72<footnoteref idref="id-e2a0a711-4caf-450c-b92a-d76c06128c48"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -0.65</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> (-20.40, -13.83)</td>
+</tr>
+<tr id="id_327f0476-832b-4689-9589-a5eab4380db1">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> HDL-C </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 1.04</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 13.71</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 5.97</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 3.13</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> (-1.71, 7.43)</td>
+</tr>
+<tr id="id_698d2917-0f04-452e-9a5a-535cd36193a5">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">  TG </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -9.58</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -0.30</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -5.88</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -3.27</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> (-13.95, 10.01)</td>
+</tr>
+<tr id="id_cab3e312-5ebb-4a6f-b1f3-1f71cf426c59">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> ApoB </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -23.16<footnoteref idref="id-e2a0a711-4caf-450c-b92a-d76c06128c48"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -18.08<footnoteref idref="id-e2a0a711-4caf-450c-b92a-d76c06128c48"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -21.11<footnoteref idref="id-e2a0a711-4caf-450c-b92a-d76c06128c48"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -0.97</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> (-24.29, -16.18)</td>
+</tr>
+<tr id="id_04d24aca-a1c3-4617-a832-f93a1de6ae97">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">  (N) </td>
+<td align="center" stylecode="Rrule" valign="top"> (61)</td>
+<td align="center" stylecode="Rrule" valign="top"> (39)</td>
+<td align="center" stylecode="Rrule" valign="top"> (100)</td>
+<td align="center" stylecode="Rrule" valign="top"> (106)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top"> </td>
+</tr>
+</tbody>
+</table>

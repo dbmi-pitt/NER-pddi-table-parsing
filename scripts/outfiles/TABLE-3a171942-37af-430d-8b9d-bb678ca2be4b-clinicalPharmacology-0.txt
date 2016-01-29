@@ -1,0 +1,57 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption> Table 5: Pharmacokinetic Parameters in Adults </caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Parameter </content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Guanfacine Extended-Release</content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Immediate-release</content>
+</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> <content stylecode="bold">1 mg once daily</content>
+</td>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> <content stylecode="bold">guanfacine</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="top"> <content stylecode="bold">(n=52)</content>
+</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="top"> <content stylecode="bold">1 mg once daily (n=12)</content>
+</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="3" stylecode="     Toprule     " valign="top">  Note: Values are mean +/- SD, except for t<sub>max</sub> which is median (range)</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> C<sub>max</sub> (ng/mL) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 1.0 ± 0.3</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 2.5 ± 0.6</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> AUC<sub>0-∞</sub> (ng.h/mL)  </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 32 ± 9</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 56 ± 15</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> t<sub>max</sub> (h) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 6.0 (4.0 to 8.0)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 3.0 (1.5 to 4.0)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> t<sub>½</sub> (h) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 18 ± 4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 16 ± 3</td>
+</tr>
+</tbody>
+</table>

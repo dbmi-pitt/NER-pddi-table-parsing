@@ -1,0 +1,95 @@
+<table cellpadding="0pt" width="450pt" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10: Steady-state Pharmacokinetic Parameters Following Multiple Oral and Intravenous Doses</caption>
+<col width="21%"></col>
+<col width="16%"></col>
+<col width="21%"></col>
+<col width="16%"></col>
+<col width="21%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Parameters</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">500 mg</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">400 mg</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">750 mg</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">400 mg</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule "></td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>every 12 hours Orally.</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>every 12 hours, intravenously</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>every 12 hours, orally</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>every 8 hours, intravenously</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>AUC (mcg•hr/mL)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>13.7<footnote id="_Ref411333708">AUC <sub>0-12h</sub>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>12.7<footnoteref idref="_Ref411333708"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>31.6<footnote id="_Ref353806334">AUC<sup></sup>
+<sub>24h</sub> = AUC<sup></sup>
+<sub>0-12h </sub>x 2</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>32.9<footnote id="_Ref353806347">AUC<sup></sup>
+<sub>24h</sub> = AUC<sup></sup>
+<sub>0-8h </sub>x 3</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>C<sub>max</sub> (mcg/mL)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>2.97</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>4.56</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>3.59</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>4.07</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

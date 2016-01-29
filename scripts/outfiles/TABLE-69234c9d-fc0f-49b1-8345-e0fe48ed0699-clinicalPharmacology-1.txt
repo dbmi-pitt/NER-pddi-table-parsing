@@ -1,0 +1,59 @@
+<table id="ID38" width="100%" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="24%"></col>
+<col width="33%"></col>
+<col width="28%"></col>
+<col width="15%"></col>
+<thead>
+<tr>
+<td align="center" colspan="4" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">Recommended Susceptibility Ranges: Agar Disk Diffusion </content>
+</paragraph>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<paragraph>
+<content stylecode="bold">Organisms </content>
+</paragraph>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<paragraph>
+<content stylecode="bold">Resistant </content>
+</paragraph>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<paragraph>
+<content stylecode="bold">Moderately Susceptible </content>
+</paragraph>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<paragraph>
+<content stylecode="bold">Susceptible </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<paragraph>
+<content stylecode="italics">Neisseria gonorrhoeae<sup>a</sup>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-- </td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-- </td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≥31 mm </td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">All other organisms </td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≤15 mm </td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">16 - 18 mm </td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≥ 19 mm </td>
+</tr>
+<tr>
+<td align="justify" colspan="4" stylecode=" Lrule Rrule Botrule Toprule" valign="top"> <sup>a</sup> Using GC Agar Base with a defined 1% supplement without cysteine. </td>
+</tr>
+</tbody>
+</table>

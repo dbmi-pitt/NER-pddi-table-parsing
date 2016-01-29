@@ -1,0 +1,26 @@
+<table id="id_27d1fd0d-8677-4b5c-bfe5-647218dd00e6" width="444.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="49.5%"></col>
+<col width="50.5%"></col>
+<tbody>
+<tr id="id_624ec3dd-0587-43b2-ab20-7460f200161a">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr id="id_7cb2ff96-2dc9-4dee-8022-d00772b70ddf">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">≤ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">(S) Susceptible</td>
+</tr>
+<tr id="id_662e5c99-f0e3-4e0d-9cd0-6f94849079a0">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">(I) Intermediate</td>
+</tr>
+<tr id="id_f37f5b9d-e865-44c0-8434-eb09d7eb4c96">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">≥ 16</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">(R) Resistant</td>
+</tr>
+</tbody>
+</table>

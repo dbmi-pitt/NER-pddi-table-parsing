@@ -1,0 +1,125 @@
+<table border="0" cellpadding="0" cellspacing="0" width="margin: auto auto auto 17.3pt" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Coadministered</content>
+<content stylecode="bold"></content>
+<content stylecode="bold">drug</content>
+<br/>
+</td>
+<td align="center" colspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">Dose</content>
+<content stylecode="bold"> schedules</content>
+<br/>
+</td>
+<td rowspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">Effect</content>
+<content stylecode="bold"></content>
+<content stylecode="bold">on quetiapinepharmacokinetics</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Coadministered</content>
+<content stylecode="bold"></content>
+<content stylecode="bold">drug</content>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">
+<content stylecode="bold">Quetiapine</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Phenytoin<br/>
+</td>
+<td stylecode="Rrule" valign="top">100 mg<br/>threetimesdaily<br/>
+</td>
+<td stylecode="Rrule" valign="top">250 mg three timesdaily<br/>
+</td>
+<td stylecode="Rrule" valign="top">5 foldIncrease in oralclearance<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Divalproex<br/>
+</td>
+<td stylecode="Rrule" valign="top">500 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">150 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">17% increasemeanmaxplasmaconcentration at steady state.<br/>Noeffect on absorptionormean oral clearance<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Thioridazine<br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">300 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">65% increaseinoralclearance<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Cimetidine<br/>
+</td>
+<td stylecode="Rrule" valign="top">400 mg three timesdaily for 4 days<br/>
+</td>
+<td stylecode="Rrule" valign="top">150 mg three timesdaily<br/>
+</td>
+<td stylecode="Rrule" valign="top">20% decrease in mean oral clearance<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Ketoconazole(potentCYP 3A4inhibitor)<br/>
+</td>
+<td stylecode="Rrule" valign="top">200 mg<br/>once daily for 4 days<br/>
+</td>
+<td stylecode="Rrule" valign="top">25 mgsingledose<br/>
+</td>
+<td stylecode="Rrule" valign="top">84% decrease in oralclearanceresulting in a<br/>6.2 foldincrease in AUC of quetiapine<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Fluoxetine<br/>
+</td>
+<td stylecode="Rrule" valign="top">60 mg once daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">300 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">Nochange in steady state PK<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Imipramine<br/>
+</td>
+<td stylecode="Rrule" valign="top">75 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">300 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">Nochange in steady state PK<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Haloperidol<br/>
+</td>
+<td stylecode="Rrule" valign="top">7.5 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">300 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">Nochange in steady state PK<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Risperidone<br/>
+</td>
+<td stylecode="Rrule" valign="top">3 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">300 mg twice daily<br/>
+</td>
+<td stylecode="Rrule" valign="top">Nochange in steady state PK<br/>
+</td>
+</tr>
+</tbody>
+</table>

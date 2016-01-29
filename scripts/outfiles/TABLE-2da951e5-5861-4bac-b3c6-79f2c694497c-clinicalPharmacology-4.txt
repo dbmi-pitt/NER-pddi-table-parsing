@@ -1,0 +1,280 @@
+<table id="table18" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 18: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of REYATAZ<sup>a</sup>
+</caption>
+<col span="1" width="17%"></col>
+<col span="1" width="18%"></col>
+<col span="1" width="19%"></col>
+<col span="1" width="15%"></col>
+<col span="1" width="15%"></col>
+<col span="1" width="16%"></col>
+<tbody>
+<tr>
+<th colspan="1">
+<content stylecode="bold">Coadministered Drug</content>
+</th>
+<th colspan="1">
+<content stylecode="bold">Coadministered Drug<br/>Dose/Schedule</content>
+</th>
+<th colspan="1">
+<content stylecode="bold">REYATAZ<br/>Dose/Schedule</content>
+</th>
+<th colspan="3">
+<content stylecode="bold">Ratio (90% Confidence Interval) of Coadministered Drug Pharmacokinetic Parameters
+with/without REYATAZ;<br/>No Effect = 1.00</content>
+</th>
+</tr>
+<tr>
+<th colspan="1">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</th>
+<th colspan="1">
+<content stylecode="bold">AUC</content>
+</th>
+<th colspan="1">
+<content stylecode="bold">C<sub>min</sub>
+</content>
+</th>
+</tr>
+<tr>
+<td>acetaminophen</td>
+<td>1 gm BID, d 1−20 (n=10)</td>
+<td>300 mg QD/ritonavir 100 mg QD, d 11−20 (n=10)</td>
+<td>0.87<br/>(0.77, 0.99)</td>
+<td>0.97<br/>(0.91, 1.03)</td>
+<td>1.26<br/>(1.08, 1.46)</td>
+</tr>
+<tr>
+<td>atenolol</td>
+<td>50 mg QD, d 7−11 (n=19) and d 19−23</td>
+<td>400 mg QD, d 1−11 (n=19)</td>
+<td>1.34<br/>(1.26, 1.42)</td>
+<td>1.25<br/>(1.16, 1.34)</td>
+<td>1.02<br/>(0.88, 1.19)</td>
+</tr>
+<tr>
+<td>boceprevir</td>
+<td>800 mg TID, d 1−6, 25−31</td>
+<td>300 mg QD/ritonavir 100 mg QD, d 10−31</td>
+<td>0.93<br/>(0.80, 1.08)</td>
+<td>0.95<br/>(0.87, 1.05)</td>
+<td>0.82<br/>(0.68, 0.98)</td>
+</tr>
+<tr>
+<td>clarithromycin</td>
+<td>500 mg BID, d 7−10 (n=21) and d 18−21</td>
+<td>400 mg QD, d 1−10 (n=21)</td>
+<td>1.50<br/>(1.32, 1.71)<br/>OH-<br/>clarithromycin:<br/>0.28<br/>(0.24,
+0.33)</td>
+<td>1.94<br/>(1.75, 2.16)<br/>OH-<br/>clarithromycin:<br/>0.30<br/>(0.26,
+0.34)</td>
+<td>2.60<br/>(2.35, 2.88)<br/>OH-<br/>clarithromycin:<br/>0.38<br/>(0.34,
+0.42)</td>
+</tr>
+<tr>
+<td>didanosine (ddI) (buffered tablets) plus stavudine<br/>(d4T)<sup>b</sup>
+</td>
+<td>ddI: 200 mg x 1 dose,<br/>d4T: 40 mg x 1 dose (n=31)</td>
+<td>400 mg x 1 dose simultaneous with ddI and d4T (n=31)</td>
+<td>ddI: 0.92<br/>(0.84, 1.02)<br/>d4T: 1.08<br/>(0.96, 1.22)</td>
+<td>ddI: 0.98<br/>(0.92, 1.05)<br/>d4T: 1.00<br/>(0.97, 1.03)</td>
+<td>NA<br/>
+<br/>d4T: 1.04<br/>(0.94, 1.16)</td>
+</tr>
+<tr>
+<td>ddI (enteric-coated [EC] capsules)<sup>c</sup>
+</td>
+<td>400 mg d 1 (fasted), d 8 (fed) (n=34)</td>
+<td>400 mg QD, d 2−8 (n=34)</td>
+<td>0.64<br/>(0.55, 0.74)</td>
+<td>0.66<br/>(0.60, 0.74)</td>
+<td>1.13<br/>(0.91, 1.41)</td>
+</tr>
+<tr>
+<td> </td>
+<td>400 mg d 1 (fasted), d 19 (fed) (n=31)</td>
+<td>300 mg QD/ritonavir 100 mg QD, d 9−19 (n=31)</td>
+<td>0.62<br/>(0.52, 0.74)</td>
+<td>0.66<br/>(0.59, 0.73)</td>
+<td>1.25<br/>(0.92, 1.69)</td>
+</tr>
+<tr>
+<td>diltiazem</td>
+<td>180 mg QD, d 7−11 (n=28) and d 19−23</td>
+<td>400 mg QD, d 1−11 (n=28)</td>
+<td>1.98<br/>(1.78, 2.19)<br/>desacetyl-<br/>diltiazem:<br/>2.72<br/>(2.44,
+3.03)</td>
+<td>2.25<br/>(2.09, 2.16)<br/>desacetyl-<br/>diltiazem:<br/>2.65<br/>(2.45,
+2.87)</td>
+<td>2.42<br/>(2.14, 2.73)<br/>desacetyl-<br/>diltiazem:<br/>2.21<br/>(2.02,
+2.42)</td>
+</tr>
+<tr>
+<td>ethinyl estradiol &amp; norethindrone<sup>d</sup>
+</td>
+<td>Ortho-Novum<sup>®</sup> 7/7/7 QD, d 1−29 (n=19)</td>
+<td>400 mg QD, d 16−29 (n=19)</td>
+<td>ethinyl<br/>estradiol:<br/>1.15<br/>(0.99, 1.32)<br/>norethindrone:<br/>1.67<br/>(1.42, 1.96)</td>
+<td>ethinyl<br/>estradiol:<br/>1.48<br/>(1.31, 1.68)<br/>norethindrone:<br/>2.10<br/>(1.68, 2.62)</td>
+<td>ethinyl<br/>estradiol:<br/>1.91<br/>(1.57, 2.33)<br/>norethindrone:<br/>3.62<br/>(2.57, 5.09)</td>
+</tr>
+<tr>
+<td>ethinyl estradiol  &amp; norgestimate<sup>e</sup>
+</td>
+<td>Ortho Tri-Cyclen<sup>®</sup> QD, d 1–28 (n=18), then Ortho Tri-Cyclen<sup>®</sup> LO QD, d 29–42<sup>f</sup> (n=14)</td>
+<td>300 mg QD/ritonavir 100 mg QD,  d 29–42  (n=14)</td>
+<td>ethinyl<br/>estradiol:<br/>0.84<br/>(0.74, 0.95)<br/>17-deacetyl<br/>norgestimate:<sup>g</sup>
+<br/>1.68<br/> (1.51, 1.88)</td>
+<td>ethinyl<br/>estradiol:<br/> 0.81<br/> (0.75, 0.87)<br/> 17-deacetyl<br/>norgestimate:<sup>g</sup>
+<br/> 1.85<br/> (1.67, 2.05)</td>
+<td>ethinyl<br/>estradiol:<br/> 0.63<br/> (0.55, 0.71)<br/> 17-deacetyl<br/>norgestimate:<sup>g</sup>
+<br/> 2.02<br/> (1.77, 2.31)</td>
+</tr>
+<tr>
+<td>fluconazole</td>
+<td>200 mg QD, d 1−10 (n=11) and 200 mg QD, d 11−20 (n=29)</td>
+<td>300 mg QD/ritonavir 100 mg QD, d 11−20 (n=29)</td>
+<td>1.05<br/>(0.99, 1.10)</td>
+<td>1.08<br/>(1.02, 1.15)</td>
+<td>1.07<br/>(1.00, 1.15)</td>
+</tr>
+<tr>
+<td>methadone</td>
+<td>Stable maintenance dose, d 1−15 (n=16)</td>
+<td>400 mg QD, d 2−15 (n=16)</td>
+<td>(R)-<br/>methadone<sup>h</sup>
+<br/>0.91<br/>(0.84, 1.0)<br/>total: 0.85<br/>(0.78, 0.93)</td>
+<td>(R)-<br/>methadone<sup>h</sup>
+<br/>1.03<br/>(0.95, 1.10)<br/>total: 0.94<br/>(0.87, 1.02)</td>
+<td>(R)-<br/>methadone<sup>h</sup>
+<br/>1.11<br/>(1.02, 1.20)<br/>total: 1.02<br/>(0.93, 1.12)</td>
+</tr>
+<tr>
+<td>nevirapine<sup>i,j</sup>
+</td>
+<td>200 mg BID, d 1–23 (n=23)</td>
+<td>300 mg QD/ritonavir 100 mg QD, d 4–13, then 400 mg QD/ritonavir 100 mg QD, d 14–23 (n=23)</td>
+<td>1.17<br/>(1.09, 1.25)<br/>1.21<br/>(1.11, 1.32)</td>
+<td>1.25<br/>(1.17, 1.34)<br/>1.26<br/>(1.17, 1.36)</td>
+<td>1.32<br/>(1.22, 1.43)<br/>1.35<br/>(1.25, 1.47)</td>
+</tr>
+<tr>
+<td>omeprazole<sup>k</sup>
+</td>
+<td>40 mg single dose, d 7 and d 20 (n=16)</td>
+<td>400 mg QD, d 1−12 (n=16)</td>
+<td>1.24<br/>(1.04, 1.47)</td>
+<td>1.45<br/>(1.20, 1.76)</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>rifabutin</td>
+<td>300 mg QD, d 1−10 then 150 mg QD, d 11−20 (n=3)</td>
+<td>600 mg QD,<sup>l</sup> d 11−20 (n=3)</td>
+<td>1.18<br/>(0.94, 1.48)<br/>25-O-<br/>desacetyl-<br/>rifabutin: 8.20<br/>(5.90,
+11.40)</td>
+<td>2.10<br/>(1.57, 2.79)<br/>25-O-<br/>desacetyl-<br/>rifabutin: 22.01<br/>(15.97,
+30.34)</td>
+<td>3.43<br/>(1.98, 5.96)<br/>25-O-<br/>desacetyl-<br/>rifabutin: 75.6<br/>(30.1,
+190.0)</td>
+</tr>
+<tr>
+<td> </td>
+<td>150 mg twice weekly, d 1−15 (n=7)</td>
+<td>300 mg QD/ritonavir 100 mg QD, d 1−17 (n=7)</td>
+<td>2.49<sup>m</sup>
+<br/>(2.03, 3.06)<br/>25-O-<br/>desacetyl-<br/>rifabutin: 7.77<br/>(6.13, 9.83)</td>
+<td>1.48<sup>m</sup>
+<br/>(1.19, 1.84)<br/>25-O-<br/>desacetyl-<br/>rifabutin: 10.90<br/>(8.14, 14.61)</td>
+<td>1.40<sup>m</sup>
+<br/>(1.05, 1.87)<br/>25-O-<br/>desacetyl-<br/>rifabutin: 11.45<br/>(8.15, 16.10)</td>
+</tr>
+<tr>
+<td>pitavastatin
+</td>
+<td>4 mg QD<br/>for 5 days</td>
+<td>300 mg QD<br/>for 5 days</td>
+<td>1.60<br/>(1.39, 1.85)</td>
+<td>1.31<br/>(1.23, 1.39)</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>rosiglitazone<sup>n</sup>
+</td>
+<td>4 mg single dose, d 1, 7, 17 (n=14)</td>
+<td>400 mg QD, d 2–7, then 300 mg QD/ritonavir 100 mg QD, d 8–17 (n=14)</td>
+<td>1.08<br/>(1.03, 1.13)<br/>0.97<br/>(0.91, 1.04)</td>
+<td>1.35<br/>(1.26, 1.44)<br/>0.83<br/>(0.77, 0.89)</td>
+<td>NA<br/>
+<br/>NA</td>
+</tr>
+<tr>
+<td>rosuvastatin</td>
+<td>10 mg<br/>single dose</td>
+<td>300 mg QD/<br/>ritonavir 100 mg<br/>QD for 7 days</td>
+<td>↑ 7-fold<sup>o</sup>
+</td>
+<td>↑ 3-fold<sup>o</sup>
+</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>saquinavir<sup>p</sup> (soft gelatin capsules)</td>
+<td>1200 mg QD, d 1−13 (n=7)</td>
+<td>400 mg QD, d 7−13 (n=7)</td>
+<td>4.39<br/>(3.24, 5.95)</td>
+<td>5.49<br/>(4.04, 7.47)</td>
+<td>6.86<br/>(5.29, 8.91)</td>
+</tr>
+<tr>
+<td>telaprevir</td>
+<td>750 mg q8h<br/>for 10 days<br/>(n=14)</td>
+<td>300 mg QD/<br/>ritonavir 100 mg<br/>QD for 20 days<br/>(n=14)</td>
+<td>0.79<br/>(0.74, 0.84)</td>
+<td>0.80<br/>(0.76, 0.85)</td>
+<td>0.85<br/>(0.75, 0.98)</td>
+</tr>
+<tr>
+<td>tenofovir<sup>q</sup>
+</td>
+<td>300 mg QD, d 9−16 (n=33) and d 24−30 (n=33)</td>
+<td>400 mg QD, d 2−16 (n=33)</td>
+<td>1.14<br/>(1.08, 1.20)</td>
+<td>1.24<br/>(1.21, 1.28)</td>
+<td>1.22<br/>(1.15, 1.30)</td>
+</tr>
+<tr>
+<td> </td>
+<td>300 mg QD, d 1−7 (pm) (n=14) d 25−34 (pm) (n=12)</td>
+<td>300 mg QD/ritonavir 100 mg QD, d 25−34 (am) (n=12)<sup>r</sup>
+</td>
+<td>1.34<br/>(1.20, 1.51)</td>
+<td>1.37<br/>(1.30, 1.45)</td>
+<td>1.29<br/>(1.21, 1.36)</td>
+</tr>
+<tr>
+<td>voriconazole<br/>(Subjects with at least one functional CYP2C19 allele)</td>
+<td>200 mg BID, d 2−3, 22−30; <br/> 400 mg BID, d 1, 21 (n=20)</td>
+<td>300 mg/ritonavir 100 mg QD, d 11−30 (n=20)</td>
+<td>0.90<br/>(0.78, 1.04)</td>
+<td>0.67<br/>(0.58, 0.78) </td>
+<td>0.61<br/>(0.51, 0.72)</td>
+</tr>
+<tr>
+<td>voriconazole<br/>(Subjects without a functional CYP2C19 allele)</td>
+<td>50 mg BID, d 2−3, 22−30; <br/> 100 mg BID, d 1, 21 (n=8)</td>
+<td>300 mg/ritonavir 100 mg QD, d 11−30 (n=8)</td>
+<td>4.38<br/>(3.55, 5.39)</td>
+<td>5.61<br/>(4.51, 6.99) </td>
+<td>7.65<br/>(5.71, 10.2)</td>
+</tr>
+<tr>
+<td>lamivudine + zidovudine</td>
+<td>150 mg lamivudine + 300 mg zidovudine BID, d 1−12 (n=19)</td>
+<td>400 mg QD, d 7−12 (n=19)</td>
+<td>lamivudine: 1.04<br/>(0.92, 1.16)<br/>zidovudine: 1.05<br/>(0.88, 1.24)<br/>zidovudine<br/>glucuronide: 0.95<br/>(0.88, 1.02)</td>
+<td>lamivudine: 1.03<br/>(0.98, 1.08)<br/>zidovudine: 1.05<br/>(0.96, 1.14)<br/>zidovudine<br/>glucuronide: 1.00<br/>(0.97, 1.03)</td>
+<td>lamivudine: 1.12<br/>(1.04, 1.21)<br/>zidovudine: 0.69<br/>(0.57, 0.84)<br/>zidovudine<br/>glucuronide: 0.82<br/>(0.62, 1.08)</td>
+</tr>
+</tbody>
+</table>

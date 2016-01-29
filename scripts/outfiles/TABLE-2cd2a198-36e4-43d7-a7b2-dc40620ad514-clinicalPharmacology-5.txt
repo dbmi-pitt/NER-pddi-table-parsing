@@ -1,0 +1,45 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6. Gastric Ulcer Patient Healing Rates</caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Lrule Rrule"></th>
+<th align="center" colspan="2" stylecode="Rrule">Ranitidine Oral Solution<footnote id="tb6ft1">All patients were permitted p.r.n. antacids for relief of pain.</footnote>
+</th>
+<th align="center" colspan="2" stylecode="Rrule">Placebo<footnoteref idref="tb6ft1"></footnoteref>
+</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Rrule Toprule Botrule">Number Entered</th>
+<th align="center" stylecode="Rrule Toprule Botrule">Healed/Evaluable</th>
+<th align="center" stylecode="Rrule Toprule Botrule">Number Entered</th>
+<th align="center" stylecode="Rrule Toprule Botrule">Healed/Evaluable</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Toprule">
+<td stylecode="Lrule Rrule Botrule">Outpatients <br/>
+</td>
+<td rowspan="3" stylecode="Rrule Botrule" valign="middle">92</td>
+<td rowspan="2" stylecode="Rrule Botrule">16/83<br/>(19%)<br/> </td>
+<td rowspan="3" stylecode="Rrule Botrule" valign="middle">94</td>
+<td rowspan="2" stylecode="Rrule Botrule">10/83<br/>(12%)<br/> </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="middle">  Week 2 <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<br/>  Week 4 <br/> </td>
+<td stylecode="Rrule">50/73<br/>(68%)<footnote>
+<content stylecode="italics">P</content>=0.009.</footnote>
+<br/> </td>
+<td stylecode="Rrule">35/69<br/>(51%)<br/> </td>
+</tr>
+</tbody>
+</table>

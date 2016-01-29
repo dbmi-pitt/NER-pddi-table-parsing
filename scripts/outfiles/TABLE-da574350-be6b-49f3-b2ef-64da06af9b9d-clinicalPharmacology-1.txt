@@ -1,0 +1,20 @@
+<table frame="void" id="INV-661f88c5-c467-4574-818d-965db196ef09" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption id="INV-5d3d6924-5557-419d-b459-867736e4ab20">Change in Corrected Serum Calcium by Time from Initiation of Treatment</caption>
+<col width="88px"></col>
+<col width="124px"></col>
+<col width="125px"></col>
+<col width="126px"></col>
+<col width="1px"></col>
+<thead valign="bottom">
+<tr valign="bottom"><td stylecode="Botrule" valign="bottom"></td><td colspan="4" stylecode="Botrule" valign="bottom"><content stylecode="bold">Mean Change from Baseline in Corrected Serum Calcium (mg/dL)</content></td></tr>
+<tr valign="bottom"><td colspan="2" stylecode="Botrule" valign="bottom"><content stylecode="bold">Time</content><content stylecode="bold">(hr)</content></td><td stylecode="Botrule" valign="bottom"><content stylecode="bold">Pamidronate Disodium</content></td><td align="center" stylecode="Botrule" valign="bottom"><content stylecode="bold">Etidronate Disodium</content></td><td stylecode="Botrule" valign="bottom"><content stylecode="bold">P-Value</content><sup>1</sup></td></tr>
+</thead>
+<tbody>
+<tr><td colspan="2" stylecode="Botrule" valign="middle">Baseline</td><td align="center" stylecode="Botrule" valign="middle">14.6</td><td align="center" stylecode="Botrule" valign="middle">13.8</td><td align="center" stylecode="Botrule" valign="middle"></td></tr>
+<tr><td colspan="2" stylecode="Botrule" valign="middle">24</td><td align="center" stylecode="Botrule" valign="middle">-0.3</td><td align="center" stylecode="Botrule" valign="middle">-0.5</td><td align="center" stylecode="Botrule" valign="middle"></td></tr>
+<tr><td colspan="2" stylecode="Botrule" valign="middle">48</td><td align="center" stylecode="Botrule" valign="middle">-1.5</td><td align="center" stylecode="Botrule" valign="middle">-1.1</td><td align="center" stylecode="Botrule" valign="middle"></td></tr>
+<tr><td colspan="2" stylecode="Botrule" valign="middle">72</td><td align="center" stylecode="Botrule" valign="middle">-2.6</td><td align="center" stylecode="Botrule" valign="middle">-2</td><td align="center" stylecode="Botrule" valign="middle"></td></tr>
+<tr><td colspan="2" stylecode="Botrule" valign="middle">96</td><td align="center" stylecode="Botrule" valign="middle">-3.5</td><td align="center" stylecode="Botrule" valign="middle">-2</td><td align="center" stylecode="Botrule" valign="middle">&lt;0.01</td></tr>
+<tr><td colspan="2" stylecode="Botrule" valign="middle">168</td><td align="center" stylecode="Botrule" valign="middle">-4.1</td><td align="center" stylecode="Botrule" valign="middle">-2.5</td><td align="center" stylecode="Botrule" valign="middle">&lt;0.01</td></tr>
+<tr><td colspan="5" stylecode="Botrule"><sup>1</sup>Comparison between treatment groups</td></tr>
+</tbody>
+</table>

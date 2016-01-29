@@ -1,0 +1,29 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     ">  <content stylecode="bold">Gram-Positive Bacteria</content>
+</td>
+<td stylecode="     Toprule         Lrule          Rrule     ">  <content stylecode="bold">Gram-Negative Bacteria</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="italics">Enterococcus faecalis</content>
+<br/>
+<content stylecode="italics">Staphylococcus </content>spp.<br/>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<br/>α and β-hemolytic streptococci.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Escherichia coli</content>
+<br/>
+<content stylecode="italics">Haemophilus influenzae</content>
+<br/>
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+<br/>
+<content stylecode="italics">Proteus mirabilis</content>
+<br/>
+<content stylecode="italics">Helicobacter pylori</content>
+</td>
+</tr>
+</tbody>
+</table>

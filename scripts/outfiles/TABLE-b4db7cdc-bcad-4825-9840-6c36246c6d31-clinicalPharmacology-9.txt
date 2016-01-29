@@ -1,0 +1,52 @@
+<table border="1" frame="border" id="inv-ade678ee-01cc-4cbc-9eda-cd75f31a1163" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="324px"></col>
+<col width="128px"></col>
+<col width="132px"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule">
+<content stylecode="underline">Zone</content>
+<content stylecode="underline"> Diameter Range</content>
+<content stylecode="underline"> (mm)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule">   </td>
+<td align="center" stylecode="Botrule"> Tetracycline </td>
+<td align="center" stylecode="Botrule Rrule"> Minocycline </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule">
+<content stylecode="italics">Escherichia coli </content>ATCC 25922  </td>
+<td align="center" stylecode="Botrule"> 18 to 25 </td>
+<td align="center" stylecode="Botrule Rrule"> 19 to 25 </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule">
+<content stylecode="italics">Staphylococcus aureus </content>ATCC 29213  </td>
+<td align="center" stylecode="Botrule"> 24 to 30 </td>
+<td align="center" stylecode="Botrule Rrule"> 25 to 30 </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule">
+<content stylecode="italics">Haemophilus influenzae </content>ATCC 49247  </td>
+<td align="center" stylecode="Botrule"> 14 to 22 </td>
+<td align="center" stylecode="Botrule Rrule"> - </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule">
+<content stylecode="italics">Neisseria gonorrhoeae </content>ATCC 49226  </td>
+<td align="center" stylecode="Botrule"> 30 to 42 </td>
+<td align="center" stylecode="Botrule Rrule"> - </td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule">
+<content stylecode="italics">Streptococcus pneumoniae </content>ATCC 49619  </td>
+<td align="center" stylecode="Botrule"> 27 to 31 </td>
+<td align="center" stylecode="Botrule Rrule"> - </td>
+</tr>
+</tbody>
+</table>

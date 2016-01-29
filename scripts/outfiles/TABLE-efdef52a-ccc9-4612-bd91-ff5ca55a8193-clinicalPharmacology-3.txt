@@ -1,0 +1,104 @@
+<table id="t1b" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Susceptibility Interpretive Criteria for Azithromycin
+</caption>
+<col align="left" width="32.486%"></col>
+<col align="left" width="10.486%"></col>
+<col align="left" width="11.386%"></col>
+<col align="left" width="12.243%"></col>
+<col align="left" width="11.357%"></col>
+<col align="left" width="11.357%"></col>
+<col align="left" width="10.686%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">*Insufficient information is available to determine Intermediate or Resistant interpretive criteria
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" rowspan="2" stylecode="Toprule Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" colspan="3" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Disk Diffusion</content>
+<br/>
+<content stylecode="bold">(zone diameters in mm)</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">R</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">R</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>*
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 4
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 12
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 8
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 18
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">14-17
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">Streptococci including <content stylecode="italics">S. pneumoniae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 0.5
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 18
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14-17
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13
+</td>
+</tr>
+</tbody>
+</table>

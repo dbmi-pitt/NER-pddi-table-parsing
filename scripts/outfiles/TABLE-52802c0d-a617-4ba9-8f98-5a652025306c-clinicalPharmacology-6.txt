@@ -1,0 +1,31 @@
+<table id="id_41f9264b-b6fe-4558-872b-9da245d8ab9e" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50%"></col>
+<col width="50%"></col>
+<tbody>
+<tr id="id_bfb5e59b-2bc1-4f15-b8e1-f78de252c52c" stylecode="Toprule">
+<td align="center" valign="top">
+<content stylecode="underline">MIC </content>
+<content stylecode="underline">(</content>
+<content stylecode="underline">mcg</content>
+<content stylecode="underline">/</content>
+<content stylecode="underline">mL</content>
+<content stylecode="underline">)</content>
+<content stylecode="underline">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">Interpretation</content>
+<content stylecode="underline">
+<br/>
+</content>
+</td>
+</tr>
+<tr id="id_5d1f8881-0aa4-476d-b60c-098a946a7b2b" stylecode="Botrule">
+<td align="center" valign="top">≤0.25<br/>
+</td>
+<td align="center" valign="top">(S) Susceptible<br/>
+</td>
+</tr>
+</tbody>
+</table>

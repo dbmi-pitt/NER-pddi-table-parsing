@@ -1,0 +1,171 @@
+<table id="table_1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Pharmacodynamic Dose Response* of NIMBEX During Opioid/Nitrous Oxide/Oxygen Anesthesia</caption>
+<colgroup>
+<col width="13%"></col>
+<col width="0%"></col>
+<col width="10%"></col>
+<col width="12%"></col>
+<col width="0%"></col>
+<col width="12%"></col>
+<col width="13%"></col>
+<col width="11%"></col>
+<col width="12%"></col>
+<col width="12%"></col>
+</colgroup>
+<tbody>
+<tr>
+<td align="center" colspan="2" stylecode="Toprule"> </td>
+<td align="center" stylecode="Toprule"> </td>
+<td align="center" colspan="2" stylecode="Toprule"> </td>
+<td align="center" colspan="4" stylecode="Toprule">
+<content stylecode="bold">Time to Spontaneous Recovery</content>
+</td>
+<td align="center" stylecode="Toprule"> </td>
+</tr>
+<tr valign="top">
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">Initial Dose of NIMBEX (mg/kg)</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule">
+<content stylecode="bold">Time to 90% Block (min)</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule">
+<content stylecode="bold">Time to Maximum Block (min)</content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">5% Recovery (min)  </content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">25% Recovery<sup>†</sup> (min)  </content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">95% Recovery (min)  </content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">T  <sub>4</sub>:T  <sub>1</sub> Ratio<sup>‡</sup>≥ 70% (min)  </content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">25%-75% Recovery Index (min)</content>
+</td>
+</tr>
+<tr valign="top">
+<td colspan="10">
+<content stylecode="bold">Adults</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="center">0.1<br/>(2 × ED<sub>95</sub>)<br/>(n<sup>§</sup>= 98)</td>
+<td align="center" colspan="2">3.3<br/>(1.0-8.7)</td>
+<td align="center" colspan="2">5.0<br/>(1.2-17.2)</td>
+<td align="center">33<br/>(15-51)</td>
+<td align="center">42<br/>(22-63)</td>
+<td align="center">64<br/>(25-93)</td>
+<td align="center">64<br/>(32-91)</td>
+<td align="center">13<br/>(5-30)</td>
+</tr>
+<tr valign="top">
+<td align="center">0.15||<br/>
+<sup></sup>(3 × ED<sub>95</sub>)<br/>(n = 39)</td>
+<td align="center" colspan="2">2.6<br/>(1.0-4.4)</td>
+<td align="center" colspan="2">3.5<br/>(1.6-6.8)</td>
+<td align="center">46<br/>(28-65)</td>
+<td align="center">55<br/>(44-74)</td>
+<td align="center">76<br/>(60-103)</td>
+<td align="center">75<br/>(63-98)</td>
+<td align="center">13<br/>(11-16)</td>
+</tr>
+<tr valign="top">
+<td align="center">0.2<br/>(4 × ED<sub>95</sub>)<br/>(n = 30)</td>
+<td align="center" colspan="2">2.4<br/>(1.5-4.5)</td>
+<td align="center" colspan="2">2.9<br/>(1.9-5.2)</td>
+<td align="center">59<br/>(31-103)</td>
+<td align="center">65<br/>(43-103)</td>
+<td align="center">81<br/>(53-114)</td>
+<td align="center">85<br/>(55-114)</td>
+<td align="center">12<br/>(2-30)</td>
+</tr>
+<tr valign="top">
+<td align="center">0.25<br/>(5 × ED<sub>95</sub>)<br/>(n = 15)</td>
+<td align="center" colspan="2">1.6<br/>(0.8-3.3)</td>
+<td align="center" colspan="2">2.0<br/>(1.2-3.7)</td>
+<td align="center">70<br/>(58-85)</td>
+<td align="center">78<br/>(66-86)</td>
+<td align="center">91<br/>(76-109)</td>
+<td align="center">97<br/>(82-113)</td>
+<td align="center">8<br/>(5-12)</td>
+</tr>
+<tr valign="top">
+<td align="center">0.4<br/>(8 × ED<sub>95</sub>)<br/>(n = 15)</td>
+<td align="center" colspan="2">1.5<br/>(1.3-1.8)</td>
+<td align="center" colspan="2">1.9<br/>(1.4-2.3)</td>
+<td align="center">83<br/>(37-103)</td>
+<td align="center">91<br/>(59-107)</td>
+<td align="center">121<br/>(110-134)</td>
+<td align="center">126<br/>(115-137)</td>
+<td align="center">14<br/>(10-18)</td>
+</tr>
+<tr valign="top">
+<td colspan="10">
+<content stylecode="bold">Infants (1-23 mos.)  </content>
+</td>
+</tr>
+<tr valign="top">
+<td align="center">0.15**<br/>(n = 18-26)</td>
+<td align="center" colspan="2">1.5<br/>(0.7-3.2)</td>
+<td align="center" colspan="2">2.0<br/>(1.3-4.3)</td>
+<td align="center">36<br/>(28-50)</td>
+<td align="center">43<br/>(34-58)</td>
+<td align="center">64<br/>(54-84)</td>
+<td align="center">59<br/>(49-76)</td>
+<td align="center">11.3<br/>(7.3-18.3)</td>
+</tr>
+<tr valign="top">
+<td colspan="10">
+<content stylecode="bold">Children (2-12 yr)  </content>
+</td>
+</tr>
+<tr valign="top">
+<td align="center">0.08¶<br/>(2 × ED<sub>95</sub>)<br/>(n = 60)</td>
+<td align="center" colspan="2">2.2<br/>(1.2-6.8)</td>
+<td align="center">3.3<br/>(1.7-9.7)</td>
+<td align="center" colspan="2">22<br/>(11-38)</td>
+<td align="center">29<br/>(20-46)</td>
+<td align="center">52<br/>(37-64)</td>
+<td align="center">50<br/>(37-62)</td>
+<td align="center">11<br/>(7-15)</td>
+</tr>
+<tr valign="top">
+<td align="center">0.1<br/>(n = 16)</td>
+<td align="center" colspan="2">1.7<br/>(1.3-2.7)</td>
+<td align="center">2.8<br/>(1.8-6.7)</td>
+<td align="center" colspan="2">21<br/>(13-31)</td>
+<td align="center">28<br/>(21-38)</td>
+<td align="center">46<br/>(37-58)</td>
+<td align="center">44<br/>(36-58)</td>
+<td align="center">10<br/>(7-12)</td>
+</tr>
+<tr valign="top">
+<td align="center">0.15**<br/>(n = 23-24)</td>
+<td align="center" colspan="2">2.1<br/>(1.3-2.8)</td>
+<td align="center">3.0<br/>(1.5-8.0)</td>
+<td align="center" colspan="2">29<br/>(19-38)</td>
+<td align="center">36<br/>(29-46)</td>
+<td align="center">55<br/>(45-72)</td>
+<td align="center">54<br/>(44-66)</td>
+<td align="center">10.6<br/>(8.5-17.7)</td>
+</tr>
+<tr>
+<td stylecode="Botrule"> </td>
+<td colspan="2" stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td colspan="2" stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+</tr>
+<tr>
+<td colspan="10">*   Values shown are medians of means from individual studies.  Values in parentheses are ranges of individual patient values.<br/>†   Clinically effective duration of block.<br/>‡   Train-of-four ratio.<br/>§   n=the number of patients with Time to Maximum Block data.<br/>||   Propofol anesthesia.<br/>¶   Halothane anesthesia.<br/>**   Thiopentone, alfentanil, N<sub>2</sub>O/O<sub>2</sub> anesthesia</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,111 @@
+<table id="TABLE11" width="687.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_b10a2a16-f0a6-450f-92c2-8df47beb9bdf">Table 11: Susceptibility Interpretive Criteria for Ertapenem</caption>
+<col width="32.8%"></col>
+<col width="11.2%"></col>
+<col width="11.2%"></col>
+<col width="11.2%"></col>
+<col width="11.2%"></col>
+<col width="11.2%"></col>
+<col width="11.2%"></col>
+<thead>
+<tr id="id_418215ba-92f2-4f39-ab02-3ded3aadd9cd">
+<td align="left" stylecode="Toprule" valign="top">Pathogen</td>
+<td align="center" colspan="3" stylecode="Toprule" valign="top">Minimum Inhibitory Concentrations<footnote id="id-4c386601-4a39-42d7-9c5b-e4ec69af519b">For some organism/antimicrobial combinations, the absence or rare occurrence of resistant strains precludes defining any results categories other than "susceptible". For strains yielding results suggestive of a "non-susceptible" category, organism identification and antimicrobial susceptibility test results should be confirmed.</footnote>
+<br/>MIC (μg/mL)</td>
+<td align="center" colspan="3" valign="top">Disk Diffusion<br/>Zone Diameter (mm)</td>
+</tr>
+<tr id="id_9c1f73cf-71a9-49e8-8bb1-c480479d9e40">
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top">S</td>
+<td align="center" stylecode="Botrule" valign="top">I</td>
+<td align="center" stylecode="Botrule" valign="top">R</td>
+<td align="center" stylecode="Botrule" valign="top">S</td>
+<td align="center" stylecode="Botrule" valign="top">I</td>
+<td align="center" stylecode="Botrule" valign="top">R</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_cb2d7b4c-2b80-4d6a-aa01-50eba9b2027f">
+<td align="left" stylecode="Toprule Botrule" valign="top">
+<content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">≤0.5</td>
+<td align="center" stylecode="Botrule" valign="top">1</td>
+<td align="center" stylecode="Botrule" valign="top">≥2</td>
+<td align="center" stylecode="Botrule" valign="top">≥22</td>
+<td align="center" stylecode="Botrule" valign="top">19-21</td>
+<td align="center" stylecode="Botrule" valign="top">≤18</td>
+</tr>
+<tr>
+<td align="left" stylecode="Toprule Botrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content>
+<footnote>For oxacillin-susceptible <content stylecode="italics">S. aureus</content> results for carbapenems, including ertapenem, if tested, should be reported according to the results generated using routine interpretive criteria. For oxacillin-resistant <content stylecode="italics">S. aureus</content> and coagulase negative staphylococci, other beta lactam agents, including carbapenems, may appear active <content stylecode="italics">in vitro</content> but are not effective clinically. Results for beta lactam agents other than cephalosporins with anti-MRSA activity should be reported as resistant or should not be reported.</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">≤2.0</td>
+<td align="center" stylecode="Botrule" valign="top">4.0</td>
+<td align="center" stylecode="Botrule" valign="top">≥8.0</td>
+<td align="center" stylecode="Botrule" valign="top">≥19</td>
+<td align="center" stylecode="Botrule" valign="top">16-18</td>
+<td align="center" stylecode="Botrule" valign="top">≤15</td>
+</tr>
+<tr id="id_b035e58d-01d7-4d30-9d9c-5b6fb7ee5713">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Haemophilus</content> spp.<footnoteref idref="id-4c386601-4a39-42d7-9c5b-e4ec69af519b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">≤0.5</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">≥19</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+<tr id="id_d82b457e-8522-4b6c-a9eb-0a6a20ab4fc3">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<footnote id="id-b2d04f67-8ed9-4042-a4d9-9b875b898558">
+<content stylecode="italics">S. pneumoniae </content> penicillin MICs ≤2 mcg/mL indicate susceptibility to ertapenem.</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">≤1.0</td>
+<td align="center" stylecode="Botrule" valign="top">2</td>
+<td align="center" stylecode="Botrule" valign="top">≥4</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+<tr id="id_bcaf1b0c-f3f1-4923-a44b-c3e734fbdb74">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Streptococcus </content>spp. Beta Hemolytic Group<footnoteref idref="id-4c386601-4a39-42d7-9c5b-e4ec69af519b"></footnoteref>
+<sup>,</sup>
+<footnoteref idref="id-b2d04f67-8ed9-4042-a4d9-9b875b898558"></footnoteref>
+<sup>,</sup>
+<footnote id="id-93efd3cf-f18d-4490-94e7-29bb20ec48ad">A beta hemolytic 													<content stylecode="italics">Streptococcus</content> spp. (Groups A, B, C, G) isolate susceptible to penicillin (MIC ≤0.12 µg/mL) can be considered susceptible to ertapenem and need not be tested against ertapenem.</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">≤1.0</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Streptococcus</content> spp. Viridans Group<footnoteref idref="id-4c386601-4a39-42d7-9c5b-e4ec69af519b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">≤1.0</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+<tr id="id_f43b02c4-0a62-4d89-bff8-f9dbf2dc24f9">
+<td align="left" stylecode="Botrule" valign="top"> Anaerobes </td>
+<td align="center" stylecode="Botrule" valign="top">≤4.0</td>
+<td align="center" stylecode="Botrule" valign="top">8.0</td>
+<td align="center" stylecode="Botrule" valign="top">≥16.0</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+<td align="center" stylecode="Botrule" valign="top">-</td>
+</tr>
+</tbody>
+</table>

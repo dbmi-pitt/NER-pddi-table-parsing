@@ -1,0 +1,126 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean ± SD) Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine</caption>
+<col width="22.4%"></col>
+<col width="14.7%"></col>
+<col width="9.6%"></col>
+<col width="14.7%"></col>
+<col width="10.0%"></col>
+<col width="14.3%"></col>
+<col width="14.3%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Pharmacokinetic Parameters (units)</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Oral</content>
+<footnote id="FOOT_5917">Derived from PO pharmacokinetic studies in 77 normal fasted volunteers</footnote>
+</td>
+<td align="center" colspan="3" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Intramuscular</content>
+<footnote id="FOOT_5918">Derived from IM pharmacokinetic studies in 54 normal volunteers</footnote>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule     "> <content stylecode="bold">Intravenous Bolus</content>
+<footnote id="FOOT_5919">Derived from IV pharmacokinetic studies in 24 normal volunteers</footnote>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Rrule     ">  </td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">10 mg</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">15 mg</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">30 mg</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">60 mg</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">15 mg</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">30 mg</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Rrule     "> Bioavailability (extent)</td>
+<td align="center" colspan="6" stylecode="     Botrule     "> 100%</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Rrule     "> T<sub>max</sub>
+<footnote id="FOOT_5920">Time-to-peak plasma concentration</footnote> (min)</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 44 ± 34</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 33 ± 21<footnote id="FOOT_5921">Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed C<sub>max</sub> and T<sub>max</sub> data</footnote>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 44 ± 29</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 33 ± 21<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 1.1 ± 0.7<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> 2.9 ± 1.8</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Rrule     "> C<sub>max</sub>
+<footnote id="FOOT_5922">Peak plasma concentration</footnote> (mcg/mL) [single-dose]</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 0.87 ± 0.22</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 1.14 ± 0.32<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 2.42 ± 0.68</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 4.55 ± 1.27<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 2.47 ± 0.51<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> 4.65 ± 0.96</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Rrule     "> C<sub>max</sub> (mcg/mL) [steady state qid]</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 1.05 ± 0.26<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 1.56 ± 0.44<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 3.11 ± 0.87<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> N/A<footnote id="FOOT_5923">Not applicable because 60 mg is only recommended as a single dose</footnote>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 3.09 ± 1.17<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> 6.85 ± 2.61</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Rrule     "> C<sub>min</sub>
+<footnote id="FOOT_5924">Trough plasma concentration</footnote> (mcg/mL) [steady state qid]</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 0.29 ± 0.07<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 0.47 ± 0.13<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 0.93 ± 0.26<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> N/A</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 0.61 ± 0.21<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> 1.04 ± 0.35</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Rrule     "> C<sub>avg</sub>
+<footnote id="FOOT_5925">Average plasma concentration</footnote> (mcg/mL) [steady state qid]</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 0.59 ± 0.20<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 0.94 ± 0.29<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 1.88 ± 0.59<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> N/A</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 1.09 ± 0.30<footnoteref idref="FOOT_5921"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule     "> 2.17 ± 0.59</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Rrule     "> V<sub>β</sub>
+<footnote id="FOOT_5926">Volume of distribution</footnote> (L/kg)</td>
+<td align="center" colspan="5" stylecode="     Botrule          Rrule     "> 0.175 ± 0.039</td>
+<td align="center" stylecode="     Botrule     "> 0.210 ± 0.044</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Botrule          Rrule     "> % Dose metabolized ≤ 50</td>
+<td colspan="4" stylecode="     Botrule     "> % Dose excreted in feces = 6</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Rrule     "> % Dose excreted in urine = 91</td>
+<td colspan="4" stylecode="     Botrule     "> % Plasma protein binding = 99</td>
+</tr>
+</tbody>
+</table>

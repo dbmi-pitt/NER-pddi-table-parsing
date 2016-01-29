@@ -1,0 +1,32 @@
+<table border="1" frame="border" id="inv-85539390-d1ee-4f0f-a44a-eba1f304818f" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col id="inv-08a37d1f-c478-4598-b690-4921a02d5708" width="164.00px"></col>
+<col id="inv-f35d2451-d4a2-4dfe-bb97-8e1834749cff" width="136.00px"></col>
+<tbody id="inv-cfc5f235-9357-4bdc-bf0f-ded13a45023e">
+<tr id="inv-82eab5f6-2b10-4e45-93be-1a6b32880f0a">
+<td align="center" id="inv-5c414ff1-9054-4e05-8b42-9c07d1b6b1da">
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td align="center" id="inv-2b6f13c8-a3fc-4173-bfc0-65f590aec1e8">
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr id="inv-83ea6b1d-2133-4dd8-969e-0313bd43a608">
+<td align="center" id="inv-45dd81ba-45ee-4ab6-9e2e-d8dd95a73d8b">
+≥ 19</td>
+<td align="center" id="inv-c1d6ce44-26e1-4652-8ea8-ecda8f6d094d">
+Susceptible (S)</td>
+</tr>
+<tr id="inv-20b03289-22d5-4877-8da1-5e5112dcdc16">
+<td align="center" id="inv-0e3b075b-80b6-45c5-9264-f70c341f4e89">
+15 to 18</td>
+<td align="center" id="inv-37b6e129-0349-43bc-bb7b-5127c20e6968">
+Intermediate (I)</td>
+</tr>
+<tr id="inv-9c2ec802-fb14-4a42-b87b-8d19a86108b1">
+<td align="center" id="inv-f4668eb3-7c7a-4c56-bfca-5b41e1bb13ba">
+≤ 14</td>
+<td align="center" id="inv-95d35455-9dc9-4fec-a8d8-39120ba39611">
+Resistant (R)</td>
+</tr>
+</tbody>
+</table>

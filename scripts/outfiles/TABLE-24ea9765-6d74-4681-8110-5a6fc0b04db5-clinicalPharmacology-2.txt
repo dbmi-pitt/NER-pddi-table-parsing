@@ -1,0 +1,195 @@
+<table border="1" id="i01ce603c-a16e-4c45-8a42-f3a6c8c80a72" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td>Co-administered Drug</td>
+<td>Dose of Co-administered Drug<br/>
+<br/>
+</td>
+<td>Dose of Azithromycin<br/>
+<br/>
+</td>
+<td>n<br/>
+</td>
+<th colspan="2"> Ratio (with/without azithromycin) <br/>of Co-administered Drug<br/>Pharmacokinetic Parameters<br/>(90% CI); No Effect = 1<br/>
+</th>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>Mean C<sub>max </sub>   </td>
+<td>Mean AUC</td>
+</tr>
+<tr>
+<td>Atorvastatin</td>
+<td>10 mg/day x 8 days</td>
+<td>500 mg/day PO on days 6-8</td>
+<td>12<br/>
+</td>
+<th> 0.83<br/> (0.63 to 1.08)</th>
+<td>1.01<br/> (0.81 to 1.25)<br/>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>  Carbamazepine</td>
+<td>200 mg/day x 2 days, then 200 mg<br/> BID x 18 days</td>
+<td>500 mg/day PO for days 16-18</td>
+<td>7<br/>
+</td>
+<td>0.97<br/> (0.88 to 1.06)</td>
+<td>0.96<br/> (0.88 to 1.06)</td>
+</tr>
+<tr>
+<td>Cetirizine</td>
+<td>20 mg/day x 11 days</td>
+<td>500 mg PO on day 7, then 250 mg/day on days 8-11</td>
+<td>14<br/>
+</td>
+<td>1.03<br/> (0.93 to 1.14)</td>
+<td>1.02<br/> (0.92 to 1.13)</td>
+</tr>
+<tr>
+<td>Didanosine </td>
+<td>200 mg PO BID x 21 days</td>
+<td>1,200 mg/day PO on days 8-21</td>
+<td>6<br/>
+</td>
+<td>1.44<br/> (0.85 to 2.43)</td>
+<td>1.14<br/> (0.83 to 1.57)</td>
+</tr>
+<tr>
+<td> Efavirenz</td>
+<td>400 mg/day x 7 days</td>
+<td>600 mg PO on day 7</td>
+<td>14<br/>
+</td>
+<td>1.04*</td>
+<td>0.95*</td>
+</tr>
+<tr>
+<td>Fluconazole</td>
+<td>200 mg PO single dose</td>
+<td>1,200 mg PO single dose</td>
+<td>18<br/>
+</td>
+<td>1.04<br/> (0.98 to 1.11)</td>
+<td>1.01<br/> (0.97 to 1.05)</td>
+</tr>
+<tr>
+<td>Indinavir </td>
+<td>800 mg TID x 5 days</td>
+<td>1,200 mg PO on day 5</td>
+<td>18<br/>
+</td>
+<td>0.96<br/> (0.86 to 1.08)</td>
+<td>0.90<br/> (0.81 to 1.00)<br/>
+</td>
+</tr>
+<tr>
+<td>Midazolam</td>
+<td>15 mg PO on day 3</td>
+<td>500 mg/day PO x 3 days</td>
+<td>12<br/>
+</td>
+<td>1.27<br/> (0.89 to 1.81)</td>
+<td>1.26<br/> (1.01 to 1.56)</td>
+</tr>
+<tr>
+<td>Nelfinavir</td>
+<td>750 mg TID x 11 days</td>
+<td>1,200 mg PO on day 9</td>
+<td>14<br/>
+</td>
+<td>0.90<br/> (0.81 to 1.01)</td>
+<td>0.85<br/> (0.78 to 0.93)<br/>
+</td>
+</tr>
+<tr>
+<td>Rifabutin</td>
+<td>300 mg/day x 10 days</td>
+<td>500 mg PO on day 1, then 250 mg/day on days 2-10</td>
+<td>6<br/>
+</td>
+<td>See footnote<br/> below</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Sildenafil<br/>
+</td>
+<td>100 mg on days 1 and 4</td>
+<td>500 mg/day PO x 3 days</td>
+<td>12<br/>
+</td>
+<td>1.16<br/> (0.86 to 1.57)</td>
+<td>0.92<br/> (0.75 to 1.12)</td>
+</tr>
+<tr>
+<td>Theophylline</td>
+<td>4 mg/kg IV on days 1, 11, 25</td>
+<td>500 mg PO on day 7, 250 mg/day on days 8-11</td>
+<td>10<br/>
+</td>
+<td>1.19<br/> (1.02 to 1.40)</td>
+<td>1.02<br/> (0.86 to 1.22)</td>
+</tr>
+<tr>
+<td>Theophylline</td>
+<td>300 mg PO BID x 15 days</td>
+<td>500 mg PO on day 6, then 250 mg/day on days 7-10</td>
+<td>8<br/>
+</td>
+<td>1.09<br/> (0.92 to 1.29)</td>
+<td>1.08<br/> (0.89 to 1.31)</td>
+</tr>
+<tr>
+<td>Triazolam</td>
+<td>0.125 mg on day 2</td>
+<td>500 mg PO on day 1, then 250 mg/day on day 2</td>
+<td>12<br/>
+</td>
+<td>1.06*</td>
+<td>1.02*</td>
+</tr>
+<tr>
+<td>Trimethoprim/ Sulfamethoxazole</td>
+<td>160 mg/800mg/day PO x 7 days</td>
+<td>1,200 mg PO on day 7</td>
+<td>12<br/>
+</td>
+<td>0.85<br/> (0.75 to 0.97)/</td>
+<td>0.87<br/> (0.80 to 0.95/<br/> 0.96<br/> (0.88 to 1.03)</td>
+</tr>
+<tr>
+<td>Zidovudine</td>
+<td>500 mg/day PO x 21 days</td>
+<td>600 mg/day PO x 14 days</td>
+<td>5<br/>
+</td>
+<td>1.12<br/>(0.42 to 3.02)<br/>
+</td>
+<td>0.94<br/> (0.52 to 1.70)<br/>
+</td>
+</tr>
+<tr>
+<td>Zidovudine</td>
+<td>500 mg/day PO x 21 days</td>
+<td>1,200 mg/day PO x 14 days</td>
+<td>4<br/>
+</td>
+<td>1.31<br/> (0.43 to 3.97)</td>
+<td>1.30<br/> (0.69 to 2.43)<br/>
+</td>
+</tr>
+</tbody>
+</table>

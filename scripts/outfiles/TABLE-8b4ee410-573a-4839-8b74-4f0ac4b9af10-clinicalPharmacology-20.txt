@@ -1,0 +1,38 @@
+<table id="ID329" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="56%"></col>
+<col span="1" width="44%"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="underline">Zone </content>
+<content stylecode="underline">Diameter </content>
+<content stylecode="underline">(</content>
+<content stylecode="underline">mm</content>
+<content stylecode="underline">)</content>
+<br/>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+<br/>
+</td>
+</tr>
+<tr>
+<td>≥27<br/>
+</td>
+<td>(S) Susceptible<br/>
+</td>
+</tr>
+<tr>
+<td>25-26<br/>
+</td>
+<td>(I) Intermediate<br/>
+</td>
+</tr>
+<tr>
+<td>≤24<br/>
+</td>
+<td>(R) Resistant<br/>
+</td>
+</tr>
+</tbody>
+</table>

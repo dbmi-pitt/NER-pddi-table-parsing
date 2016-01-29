@@ -1,0 +1,47 @@
+<table border="single" id="id_e36a7f9a-b7f0-4d48-8c0a-4c9e0711582d" width="371" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="33.3%"></col>
+<col width="33.4%"></col>
+<col width="33.3%"></col>
+<tbody>
+<tr id="id_39d49eb8-3713-4dce-a58c-1e876dda3d2a">
+<td align="center" stylecode="Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">Age</content>
+</paragraph>
+<content stylecode="bold">(years)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">No. of</content>
+</paragraph>
+<content stylecode="bold">Patients</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">Mean TMP</content>
+</paragraph>
+<content stylecode="bold">Half-life (hours)</content>
+</td>
+</tr>
+<tr id="id_774a6cd8-a646-4d6f-a994-3e27bd53d37c">
+<td align="center" valign="top">&lt; 1</td>
+<td align="center" valign="top">2</td>
+<td align="center" valign="top">7.67</td>
+</tr>
+<tr id="id_ee053d57-08ac-4870-8d35-82ec3e3c014b">
+<td align="center" valign="top">1 to 10</td>
+<td align="center" valign="top">9</td>
+<td align="center" valign="top">5.49</td>
+</tr>
+<tr id="id_a1486efa-4271-4f64-8b46-8b4819406861">
+<td align="center" valign="top">10 to 20</td>
+<td align="center" valign="top">5</td>
+<td align="center" valign="top">8.19</td>
+</tr>
+<tr id="id_2209e7f8-d0e0-4290-97c0-c36007a82997">
+<td align="center" stylecode="Botrule" valign="top">20 to 63</td>
+<td align="center" stylecode="Botrule" valign="top">6</td>
+<td align="center" stylecode="Botrule" valign="top">12.82</td>
+</tr>
+</tbody>
+</table>

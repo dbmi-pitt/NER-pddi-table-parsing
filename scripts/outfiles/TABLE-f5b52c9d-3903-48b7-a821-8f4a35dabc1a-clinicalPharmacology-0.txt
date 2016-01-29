@@ -1,0 +1,41 @@
+<table border="1" id="id_6c648826-ebcb-4aab-96b0-67adaa54a1ff" width="380" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="32.4%"></col>
+<col span="1" width="31.6%"></col>
+<col span="1" width="36.1%"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Oral Dose</content>
+</td>
+<td>
+<content stylecode="bold">Serum Concentration </content>
+<content stylecode="bold">2 Hours After Admin. (mcg/mL)</content>
+</td>
+<td>
+<content stylecode="bold">Area Under the Curve (AUC<sub>(0 to ∞)</sub>
+</content>
+<content stylecode="bold">) (mcg•h/mL)</content>
+</td>
+</tr>
+<tr>
+<td>200 mg single dose</td>
+<td>1.5</td>
+<td>14.1</td>
+</tr>
+<tr>
+<td>300 mg single dose</td>
+<td>2.4</td>
+<td>21.2</td>
+</tr>
+<tr>
+<td>400 mg single dose</td>
+<td>2.9</td>
+<td>31.4</td>
+</tr>
+<tr>
+<td>400 mg steady-state</td>
+<td>4.6</td>
+<td>61</td>
+</tr>
+</tbody>
+</table>

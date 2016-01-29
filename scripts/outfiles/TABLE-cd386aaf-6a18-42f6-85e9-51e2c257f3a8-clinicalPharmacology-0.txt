@@ -1,0 +1,49 @@
+<table id="ib35af5c9-4bae-4360-81a2-23eff9235d7b" width="100%" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="22%"></col>
+<col align="left" width="43%"></col>
+<col align="left" width="34%"></col>
+<tbody>
+<tr>
+<th>
+<br/>
+<content stylecode="bold">Dose</content>
+<br/>
+<content stylecode="bold">(mg)</content>
+</th>
+<th>
+<content stylecode="bold">Maximum</content>
+<br/>
+<content stylecode="bold">Serum Concentration</content>
+<br/>
+<content stylecode="bold">(μg/mL)</content>
+</th>
+<th>
+<content stylecode="bold">Area</content>
+<br/>
+<content stylecode="bold">Under Curve (AUC)</content>
+<br/>
+<content stylecode="bold">(μg•hr/mL)</content>
+</th>
+</tr>
+<tr>
+<td> 250</td>
+<td>1.2</td>
+<td> 4.8</td>
+</tr>
+<tr>
+<td> 500</td>
+<td>2.4</td>
+<td>11.6</td>
+</tr>
+<tr>
+<td> 750</td>
+<td>4.3</td>
+<td>20.2</td>
+</tr>
+<tr>
+<td>1000</td>
+<td>5.4</td>
+<td>30.8</td>
+</tr>
+</tbody>
+</table>

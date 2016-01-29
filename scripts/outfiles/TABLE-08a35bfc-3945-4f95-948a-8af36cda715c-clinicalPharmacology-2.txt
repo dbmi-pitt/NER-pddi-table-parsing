@@ -1,0 +1,76 @@
+<table border="1" frame="border" id="inv-dec392f3-26de-43a1-b587-7ad09c76531e" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-558a4725-2261-46f1-85c1-13e15fe85734">Table 3.  Susceptibility Test Result Interpretive Criteria for Amoxicillin/Clavulanate Potassium</caption>
+<col id="inv-98df6f8b-9b48-48ed-853d-98de66e58b9d" width="104.00px"></col>
+<col id="inv-55091e8f-425e-4c06-a884-0d0c0d5cf9f5" width="84.00px"></col>
+<col id="inv-e14886f5-108f-4096-84a4-bee79372ebbb" width="84.00px"></col>
+<col id="inv-acb86c8b-4004-4363-9649-a4d249af250b" width="84.00px"></col>
+<col id="inv-02d8d863-5a54-4111-bb14-0cb5e264a7db" width="84.00px"></col>
+<col id="inv-0f3ee128-5b18-4fcd-a2b3-867e34c7866d" width="84.00px"></col>
+<col id="inv-c4c52639-6316-41dd-9003-d3f13d24d88c" width="84.00px"></col>
+<tbody id="inv-edfd5ecf-9c64-4f6b-b019-2ce531cfb8e2">
+<tr id="inv-9066d29b-9368-4b78-95b5-63beaf04a604">
+<td id="inv-09ac2779-cbcd-4659-97c5-a9991c19f259" rowspan="2">
+<content stylecode="bold"> </content>
+<content stylecode="bold"> </content>
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" colspan="3" id="inv-3c590a0b-107d-42c8-90cc-3cbebe14a533">
+<content stylecode="bold">Minimum Inhibitory Concentration (mcg/mL)</content>
+</td>
+<td align="center" colspan="3" id="inv-a04f029c-ad32-4d54-a89f-ba5617f91c07">
+<content stylecode="bold">Disk Diffusion</content>
+<content stylecode="bold">(Zone Diameter in mm)</content>
+</td>
+</tr>
+<tr id="inv-e6ce4bca-e2a6-4e1c-93c4-f11ecca0a15f">
+<td align="center" id="inv-dc9fbba6-6117-461b-94c5-536fb9323279">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" id="inv-63b23051-212b-414a-89d7-f884a6ab6472">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" id="inv-73c8273e-a2d5-4721-80b7-650e585b45a6">
+<content stylecode="bold">R</content>
+</td>
+<td align="center" id="inv-fcb86b00-b457-4472-849f-afec450cab5c">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" id="inv-1f54c735-f06c-496a-9d64-0401e59a13b1">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" id="inv-2c48767e-07df-45cf-9717-5bc7e137396d">
+<content stylecode="bold">R</content>
+</td>
+</tr>
+<tr id="inv-27f80641-e368-4078-bd8f-303b63947540">
+<td id="inv-327a5ac6-d5c8-4587-a0f3-ce5c18aaeaaa">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" id="inv-13bb3a49-bf1d-476e-aab7-3528e75a00e8">
+ ≤ 2/1 </td>
+<td align="center" id="inv-24aee0ed-595d-4930-b983-649b0b7641c7">
+ 4/2 </td>
+<td align="center" id="inv-7be3ab19-2f3f-423d-b557-4fb3b3e5b661">
+ ≥ 8/4 </td>
+<td align="center" colspan="3" id="inv-e3e40570-b1bc-49d5-96d9-2771f0ed7b9d">
+ Not applicable (NA) </td>
+</tr>
+<tr id="inv-bda9e968-e7a0-4d72-8a4b-bf533367fcaf">
+<td id="inv-54ac97ac-479d-40e5-b5c1-a90a449d8c42">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="center" id="inv-b1753365-62fe-4700-a854-3778840663e7">
+ ≤ 4/2 </td>
+<td align="center" id="inv-80284bb6-0b18-470b-8a03-609804d5108b">
+ NA </td>
+<td align="center" id="inv-aa052216-536c-4558-97a8-815b7a2d7f7e">
+ ≥ 8/4 </td>
+<td align="center" id="inv-e0358beb-2405-471a-9807-56d2d25da2ce">
+ ≥ 20 </td>
+<td align="center" id="inv-d58848c0-0ce0-46d4-a514-b5e1718c8e71">
+ NA </td>
+<td align="center" id="inv-9a7d0552-5e69-408e-8c98-f49657cb8cc8">
+ ≤ 19 </td>
+</tr>
+</tbody>
+</table>

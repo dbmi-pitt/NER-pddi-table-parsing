@@ -1,0 +1,400 @@
+<table id="_Refid_50aecbc0-1365-4a26-b114-c1c8da807" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7. Established and Other Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction</caption>
+<col width="30%"></col>
+<col width="26%"></col>
+<col width="45%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Concomitant Drug Class:</paragraph>
+<paragraph>Drug Name</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Effect on Concentration of Delavirdine or Concomitant Drug</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Clinical Comment</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">HIV-Antiviral Agents: Nucleoside Reverse Transcriptase Inhibitor</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Didanosine<sup>a</sup>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↓Delavirdine</paragraph>
+<paragraph>↓Didanosine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Administration of didanosine (buffered tablets) and RESCRIPTOR should be separated by at least 1 hour.</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">HIV-Antiviral Agents: Non-nucleoside Reverse Transcriptase Inhibitors</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>NNRTI</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↔Delavirdine</paragraph>
+<paragraph>↑NNRTI</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Combining NNRTIs has not been shown to be beneficial. RESCRIPTOR should not be coadministered with another NNRTI.</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">HIV-Antiviral Agents: Protease Inhibitors</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Indinavir<sup>a</sup>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Indinavir</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>A dose reduction of indinavir to 600 mg 3 times daily should be considered when RESCRIPTOR and indinavir are coadministered.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Lopinavir/Ritonavir</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Lopinavir</paragraph>
+<paragraph>↑Ritonavir</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Appropriate doses of this combination with respect to safety, efficacy, and pharmacokinetics have not been established.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Nelfinavir<sup>a</sup>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Nelfinavir</paragraph>
+<paragraph>↓Delavirdine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Appropriate doses of this combination with respect to safety, efficacy, and pharmacokinetics have not been established (see CLINICAL PHARMACOLOGY: Tables 1 and 2).</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Ritonavir</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Ritonavir</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Appropriate doses of this combination with respect to safety, efficacy, and pharmacokinetics have not been established.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Saquinavir<sup>a</sup>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Saquinavir</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>A dose reduction of saquinavir (soft gelatin capsules) may be considered when RESCRIPTOR and saquinavir are coadministered (see CLINICAL PHARMACOLOGY: Table 1). Appropriate doses with respect to safety, efficacy, and pharmacokinetics have not been established.</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">HIV-Antiviral Agents: CCR5 Inhibitor</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Maraviroc</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Maraviroc</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Concomitant use of RESCRIPTOR and maraviroc has not been studied. However, RESCRIPTOR is a potent CYP3A4 inhibitor and the maraviroc dose should be reduced during coadministration. Refer to the full prescribing information for maraviroc (SELZENTRY) for dosing recommendations.</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Other Agents</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Acid blockers:</content>
+</paragraph>
+<paragraph>Antacids<sup>a</sup>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↓Delavirdine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Doses of an antacid and RESCRIPTOR should be separated by at least 1 hour, because the absorption of delavirdine is reduced when coadministered with antacids.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Histamine H<sub>2</sub>-receptor antagonists:</content>
+</paragraph>
+<paragraph>Cimetidine, famotidine, nizatidine, ranitidine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↓Delavirdine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>These agents increase gastric pH and may reduce the absorption of delavirdine. Although the effect of these drugs on delavirdine absorption has not been evaluated, chronic use of these drugs with RESCRIPTOR is not recommended.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Proton pump inhibitors:</content>
+</paragraph>
+<paragraph>Omeprazole, lansoprazole </paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↓Delavirdine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>These agents increase gastric pH and may reduce the absorption of delavirdine. Although the effect of these drugs on delavirdine absorption has not been evaluated, chronic use of these drugs with RESCRIPTOR is not recommended.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Amphetamines</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Amphetamines</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Use with caution.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Antidepressant: </content>
+</paragraph>
+<paragraph>Trazodone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Trazodone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Concomitant use of trazodone and RESCRIPTOR may increase plasma concentrations of trazodone. Adverse events of nausea, dizziness, hypotension, and syncope have been observed following coadministration of trazodone and ritonavir. If trazodone is used with a CYP3A4 inhibitor such as RESCRIPTOR, the combination should be used with caution and a lower dose of trazodone should be considered.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Antiarrhythmics:</content>
+</paragraph>
+<paragraph>Bepridil</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Antiarrhythmics</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Use with caution. Increased bepridil exposure may be associated with life‑threatening reactions such as cardiac arrhythmias.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Amiodarone, lidocaine (systemic), quinidine, flecainide, propafenone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Caution is warranted and therapeutic concentration monitoring is recommended, if available, for antiarrhythmics when coadministered with RESCRIPTOR.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Anticoagulant:</content>
+</paragraph>
+<paragraph>Warfarin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Warfarin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>It is recommended that INR (international normalized ratio) be monitored.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Anti-infective:</content>
+</paragraph>
+<paragraph>Clarithromycin<sup>a</sup>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Clarithromycin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>When coadministered with RESCRIPTOR, clarithromycin should be adjusted in patients with impaired renal function:</paragraph>
+<list listtype="unordered">
+<item>
+<caption>•</caption>For patients with CL<sub>CR</sub> 30 to 60 mL/min the dose of clarithromycin should be reduced by 50%.</item>
+<item>
+<caption>•</caption>For patients with CL<sub>CR</sub> &lt;30 mL/min the dose of clarithromycin should be reduced by 75%.</item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Calcium channel blockers:</content>
+</paragraph>
+<paragraph>Amlodipine, diltiazem, felodipine, isradipine, nifedipine, nicardipine, nimodipine, nisoldipine, verapamil</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Calcium channel blockers</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Caution is warranted and clinical monitoring of patients is recommended.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Corticosteroid:</content> Dexamethasone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↓Delavirdine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Use with caution. RESCRIPTOR may be less effective due to decreased delavirdine plasma concentrations in patients taking these agents concomitantly.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Erectile dysfunction agents:</content>
+</paragraph>
+<paragraph>Sildenafil</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Sildenafil</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Sildenafil should not exceed a maximum single dose of 25 mg in a 48‑hour period.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">HMG-CoA reductase inhibitors:</content>
+</paragraph>
+<paragraph>Atorvastatin, cerivastatin, fluvastatin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Atorvastatin</paragraph>
+<paragraph>↑Cerivastatin</paragraph>
+<paragraph>↑Fluvastatin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Use lowest possible dose of atorvastatin or cerivastatin, or fluvastatin with careful monitoring, or consider other HMG-CoA reductase inhibitors such as pravastatin in combination with RESCRIPTOR.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Immunosuppressants:</content>
+</paragraph>
+<paragraph>Cyclosporine, </paragraph>
+<paragraph>tacrolimus, rapamycin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Immunosuppressants</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Therapeutic concentration monitoring is recommended for immunosuppressant agents when coadministered with RESCRIPTOR.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Inhaled/nasal steroid:</content> Fluticasone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Fluticasone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Concomitant use of fluticasone and RESCRIPTOR may increase plasma concentrations of fluticasone. Use with caution. Consider alternatives to fluticasone, particularly for long-term use.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Narcotic analgesic:</content>
+</paragraph>
+<paragraph>Methadone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>↑Methadone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Dosage of methadone may need to be decreased when coadministered with RESCRIPTOR.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>
+<content stylecode="bold">Oral contraceptives: </content>
+</paragraph>
+<paragraph>Ethinyl estradiol</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>↑Ethinyl estradiol</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>Concentrations of ethinyl estradiol may increase. However, the clinical significance is unknown.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

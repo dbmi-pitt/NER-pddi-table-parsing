@@ -1,0 +1,37 @@
+<table id="table8" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8: Mean (SD) Pharmacokinetic Parameters in Adults with Normal Renal and Hepatic Function (n=10, ages 23 to 65), Renal Transplant Patients (n=10, ages 21 to 45), and Hepatic Dysfunction Patients (n=9, ages 31 to 67) During Isoflurane Anesthesia</caption>
+<col align="left" valign="bottom" width="40%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">PK Parameters</th>
+<th stylecode="Rrule">Normal Renal and Hepatic Function</th>
+<th stylecode="Rrule">Renal Transplant Patients</th>
+<th stylecode="Rrule">Hepatic Dysfunction Patients</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clearance (L/kg/hr)</td>
+<td stylecode="Rrule">0.16 (0.05)<footnote id="t8ft1">Differences in the calculated t<sub>1/2</sub> β and Cl between this study and the study in young adults vs. geriatrics (≥65 years) is related to the different sample populations and anesthetic techniques.</footnote>
+</td>
+<td stylecode="Rrule">0.13 (0.04)</td>
+<td stylecode="Rrule">0.13 (0.06)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Volume of Distribution at Steady State (L/kg)</td>
+<td stylecode="Rrule">0.26 (0.03)</td>
+<td stylecode="Rrule">0.34 (0.11)</td>
+<td stylecode="Rrule">0.53 (0.14)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">t<sub>1/2</sub> β Elimination (hr)</td>
+<td stylecode="Rrule">2.4 (0.8)<footnoteref idref="t8ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">2.4 (1.1)</td>
+<td stylecode="Rrule">4.3 (2.6)</td>
+</tr>
+</tbody>
+</table>

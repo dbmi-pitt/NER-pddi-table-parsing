@@ -1,0 +1,70 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6: Gastric Ulcer Patient Healing Rates</caption>
+<col width="20.1%"></col>
+<col width="14.7%"></col>
+<col width="16.4%"></col>
+<col width="22.9%"></col>
+<col width="25.8%"></col>
+<tfoot>
+<tr>
+<td colspan="5" stylecode="     Botrule         Lrule     " valign="top"> <paragraph>
+<sup>*</sup>All patients were permitted antacids as needed for relief of pain.</paragraph>
+<paragraph>
+<sup>†</sup>
+<content stylecode="italics">p</content>=0.009.</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule     "> </td>
+<td align="center" colspan="2" stylecode="     Botrule     "> Rantidine<sup>*</sup>
+</td>
+<td align="center" stylecode="     Botrule     "> Placebo<sup>*</sup>
+</td>
+<td align="center" stylecode="     Botrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> </td>
+<td align="center" stylecode="     Botrule     "> Number Entered</td>
+<td align="center" stylecode="     Botrule     "> Healed/ Evaluable</td>
+<td align="center" stylecode="     Botrule     "> Number Entered</td>
+<td align="center" stylecode="     Botrule     "> Healed/ Evaluable</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> Outpatients</td>
+<td align="center" rowspan="3" stylecode="     Botrule     "> </td>
+<td align="center" stylecode="     Botrule     "> </td>
+<td align="center" rowspan="3" stylecode="     Botrule     "> </td>
+<td align="center" stylecode="     Botrule     "> </td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule     "> Week 2</td>
+<td align="center" stylecode="     Botrule     "> 16/83</td>
+<td align="center" stylecode="     Botrule     "> 10/83</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule     "> (19%)</td>
+<td align="center" stylecode="     Botrule     "> (12%)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> </td>
+<td align="center" stylecode="     Botrule     "> 92</td>
+<td align="center" stylecode="     Botrule     "> </td>
+<td align="center" stylecode="     Botrule     "> 94</td>
+<td align="center" stylecode="     Botrule     "> </td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule     "> Week 6</td>
+<td align="center" rowspan="2" stylecode="     Botrule     "> </td>
+<td align="center" stylecode="     Botrule     "> 50/73</td>
+<td align="center" rowspan="2" stylecode="     Botrule     "> </td>
+<td align="center" stylecode="     Botrule     "> 35/69</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule     "> (68%)<sup>†</sup>
+</td>
+<td align="center" stylecode="     Botrule     "> (51%)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,116 @@
+<table id="_Reftable2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Mean (CI) change in QT<sub>c</sub> from baseline to steady state (Day 4 of dosing) at T<sub>max</sub> (relative to placebo)</caption>
+<col width="19%"></col>
+<col width="5%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Drug/Dose</content>
+</th>
+<th align="left" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">N</content>
+</th>
+<th align="left" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">QT<sub>c</sub>F</content>
+<br/>
+<content stylecode="bold">(msec) (manual)</content>
+</th>
+<th align="left" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">QT<sub>c</sub>F</content>
+<br/>
+<content stylecode="bold">(msec)</content>
+<br/>
+<content stylecode="bold">(machine)</content>
+</th>
+<th align="left" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">QT<sub>c</sub>P</content>
+<br/>
+<content stylecode="bold">(msec)</content>
+<br/>
+<content stylecode="bold">(manual) </content>
+</th>
+<th align="left" stylecode="Rrule Botrule Toprule " valign="top">
+<content stylecode="bold">QT<sub>c</sub>P</content>
+<br/>
+<content stylecode="bold">(msec)</content>
+<br/>
+<content stylecode="bold">(machine) </content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Tolterodine<br/>2 mg BID<footnote id="_Reft2ft1">At T<content stylecode="bold">
+<sub>max</sub>
+</content> of 1 hr; 95% Confidence Interval.</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>48</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>5.01<br/>(0.28, 9.74)</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>1.16<br/>(-2.99, 5.30) </paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>4.45<br/>(-0.37, 9.26) </paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>2.00<br/>(-1.81, 5.81) </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Tolterodine<br/>4 mg BID<footnoteref idref="_Reft2ft1"></footnoteref>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>48</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>11.84<br/>(7.11, 16.58)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>5.63<br/>(1.48, 9.77)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>10.31<br/>(5.49, 15.12) </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>8.34<br/>(4.53, 12.15)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>Moxifloxacin<br/>400 mg QD <footnote id="_RefID0EITAG">At T<content stylecode="bold">
+<sub>max </sub>
+</content>of 2 hr; 90% Confidence Interval.</footnote>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>45</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>19.26<footnote id="_Reft2ft3">The effect on QT interval with 4 days of moxifloxacin dosing in this QT trial may be greater than typically observed in QT trials of other drugs.</footnote>
+<br/>(15.49, 23.03)</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>8.90<br/>(4.77, 13.03) </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>19.10<footnoteref idref="_Reft2ft3"></footnoteref>
+<br/>(15.32, 22.89) </paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>9.29<br/>(5.34, 13.24)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

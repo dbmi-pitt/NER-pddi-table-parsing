@@ -1,0 +1,181 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3 Single Dose and Steady-State Pharmacokinetic Parameters for Oral 7.5 mg and 15 mg Meloxicam (Mean and % CV)<sup>1</sup>
+</caption>
+<col width="9.744%"></col>
+<col width="9.744%"></col>
+<col width="16.102%"></col>
+<col width="16.102%"></col>
+<col width="16.102%"></col>
+<col width="16.102%"></col>
+<col width="16.102%"></col>
+<tfoot>
+<tr>
+<td colspan="7" valign="top"> <paragraph>
+<sup>1</sup>The parameter values in the Table are from various studies
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" valign="top"> <paragraph>
+<sup>2</sup>not under high fat conditions
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" valign="top"> <paragraph>
+<sup>3</sup>Meloxicam tablets
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" valign="top"> <paragraph>
+<sup>4</sup>V<sub>z</sub>/f =Dose/(AUC•K<sub>el</sub>)
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" colspan="2" stylecode="     Toprule     " valign="top"> </td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule     " valign="top"> <content stylecode="bold">Steady State</content>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule     " valign="top"> <content stylecode="bold">Single Dose</content>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" stylecode="     Botrule     "> <content stylecode="bold">Pharmacokinetic Parameters</content>
+<br/>
+<content stylecode="bold">(% CV)</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">Healthy male adults</content>
+<br/>
+<content stylecode="bold">(Fed)</content>
+<sup>2</sup>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">Elderly males</content>
+<br/>
+<content stylecode="bold">(Fed)</content>
+<sup>2</sup>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">Elderly females (Fed)</content>
+<sup>2</sup>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">Renal failure (Fasted)</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">Hepatic insufficiency</content>
+<br/>
+<content stylecode="bold">(Fasted)</content>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="     Botrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule     " valign="top"> <content stylecode="bold">7.5 mg</content>
+<sup>3
+</sup>
+<content stylecode="bold">tablets</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">15 mg capsules</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">15 mg capsules</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">15 mg capsules</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">15 mg capsules</content>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="     Botrule     "> <content stylecode="bold">N</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">18</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">5</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> <content stylecode="bold">8</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">12</content>
+</td>
+<td align="center" stylecode="     Botrule     "> <content stylecode="bold">12</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> C<sub>max</sub>
+</td>
+<td stylecode="     Botrule     "> [mcg/mL]
+</td>
+<td align="center" stylecode="     Botrule     "> 1.05 (20)
+</td>
+<td align="center" stylecode="     Botrule     "> 2.3 (59)
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 3.2 (24)
+</td>
+<td align="center" stylecode="     Botrule     "> 0.59 (36)
+</td>
+<td align="center" stylecode="     Botrule     "> 0.84 (29)
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> t<sub>max</sub>
+</td>
+<td stylecode="     Botrule     "> [h]
+</td>
+<td align="center" stylecode="     Botrule     "> 4.9 (8)
+</td>
+<td align="center" stylecode="     Botrule     "> 5 (12)
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 6 (27)
+</td>
+<td align="center" stylecode="     Botrule     "> 4 (65)
+</td>
+<td align="center" stylecode="     Botrule     "> 10 (87)
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> t<sub>1/2</sub>
+</td>
+<td stylecode="     Botrule     "> [h]
+</td>
+<td align="center" stylecode="     Botrule     "> 20.1 (29)
+</td>
+<td align="center" stylecode="     Botrule     "> 21 (34)
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 24 (34)
+</td>
+<td align="center" stylecode="     Botrule     "> 18 (46)
+</td>
+<td align="center" stylecode="     Botrule     "> 16 (29)
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> CL/f
+</td>
+<td stylecode="     Botrule     "> [mL/min]
+</td>
+<td align="center" stylecode="     Botrule     "> 8.8 (29)
+</td>
+<td align="center" stylecode="     Botrule     "> 9.9 (76)
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 5.1 (22)
+</td>
+<td align="center" stylecode="     Botrule     "> 19 (43)
+</td>
+<td align="center" stylecode="     Botrule     "> 11 (44)
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="top"> V<sub>z</sub>/f<sup>4</sup>
+</td>
+<td stylecode="     Botrule     " valign="top"> [L]
+</td>
+<td align="center" stylecode="     Botrule     "> 14.7 (32)
+</td>
+<td align="center" stylecode="     Botrule     "> 15 (42)
+</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 10 (30)
+</td>
+<td align="center" stylecode="     Botrule     "> 26 (44)
+</td>
+<td align="center" stylecode="     Botrule     "> 14 (29)
+</td>
+</tr>
+</tbody>
+</table>

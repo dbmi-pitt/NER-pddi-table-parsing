@@ -1,0 +1,54 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9: Summary of AED Interactions with Topiramate</caption>
+<col width="234"></col>
+<col width="228"></col>
+<col width="144"></col>
+<tbody>
+<tr>
+<td stylecode="     Toprule     "> AED<br/>Co-administered </td>
+<td stylecode="     Toprule     "> AED<br/>Concentration </td>
+<td stylecode="     Toprule     "> Topiramate<br/>Concentration </td>
+</tr>
+<tr>
+<td stylecode="     Toprule     "> Phenytoin</td>
+<td stylecode="     Toprule     "> NC or 25% increase<sup>a</sup>
+</td>
+<td stylecode="     Toprule     "> 48% decrease</td>
+</tr>
+<tr>
+<td> Carbamazepine (CBZ)</td>
+<td> NC</td>
+<td> 40% decrease</td>
+</tr>
+<tr>
+<td> CBZ epoxide<sup>b</sup>
+</td>
+<td> NC</td>
+<td> NE</td>
+</tr>
+<tr>
+<td> Valproic acid</td>
+<td> 11% decrease</td>
+<td> 14% decrease</td>
+</tr>
+<tr>
+<td> Phenobarbital</td>
+<td> NC</td>
+<td> NE</td>
+</tr>
+<tr>
+<td> Primidone</td>
+<td> NC</td>
+<td> NE</td>
+</tr>
+<tr>
+<td> Lamotrigine</td>
+<td> NC at TPM doses up to 400 mg/day</td>
+<td> 13% decrease</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Toprule     "> <sup>a </sup>= Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin.<br/>
+<sup>b</sup> = Is not administered but is an active metabolite of carbamazepine.<br/>NC = Less than 10% change in plasma concentration.<br/>AED = Antiepileptic drug.<br/>NE = Not Evaluated.<br/>TPM = Topiramate</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,192 @@
+<table border="single" id="id_6ac23b6b-fe63-4b36-8aab-b5d2502a1105" width="443" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_e4f18eb9-e33e-4fbb-b1b6-ce938f3b8421">Table 1: Susceptibility Test Interpretive Criteria for Ciprofloxacin</caption>
+<col width="40.1%"></col>
+<col width="10.2%"></col>
+<col width="13.6%"></col>
+<col width="6.4%"></col>
+<col width="8.8%"></col>
+<col width="12.2%"></col>
+<col width="8.7%"></col>
+<tbody>
+<tr id="id_57768b38-2012-4c65-854b-c4e454745b04">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top"></td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+</tr>
+<tr id="id_0cf77a69-d1c1-4f2f-8c46-605632948e37">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Bacteria</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">R</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">R</content>
+</td>
+</tr>
+<tr id="id_e2c6cb6e-78f6-4d9b-80d6-d3b44538f05a">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16 to 20</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 15</td>
+</tr>
+<tr id="id_018e2539-2762-4e41-a0ae-7d94b3e75792">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16 to 20</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 15</td>
+</tr>
+<tr id="id_0e4fca0f-fbbd-4661-80f4-a30b3be39e7c">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16 to 20</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 15</td>
+</tr>
+<tr id="id_9d05cbc8-0a6f-4323-98a5-b318a150c424">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus epidermidis</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16 to 20</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 15</td>
+</tr>
+<tr id="id_3063a2ac-1eb7-4004-8960-953d74522ce5">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus saprophyticus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16 to 20</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 15</td>
+</tr>
+<tr id="id_a3a04e08-ee98-4261-9f3a-80faf33d80f0">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16 to 20</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 15</td>
+</tr>
+<tr id="id_e7a91105-c670-4850-8861-8e1f85c54e6a">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-</td>
+</tr>
+<tr id="id_71aaefe8-6612-4058-8f52-56b7a26693f4">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus parainfluenzae</content>
+<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<sup>-</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-</td>
+</tr>
+<tr id="id_1959c142-8f32-45ea-8ec9-dc4ee1fdf4a1">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Salmonella typhi</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 0.06</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.12 to 0.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 31</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">21 to 30</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 20</td>
+</tr>
+<tr id="id_bcd2e633-5eaf-476b-9776-fbb98e81c44a">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16 to 20</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 15</td>
+</tr>
+<tr id="id_11bda7fb-947e-4b6c-8709-188b3512f528">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pyogenes</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 21</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">16 to 20</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 15</td>
+</tr>
+<tr id="id_5bec0e7f-293e-4b65-9f70-af02e859da82">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 0.06</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.12 to 0.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥ 41</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">28 to 40</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤ 27</td>
+</tr>
+<tr id="id_825efe7d-34cc-43ac-8bdf-f6541bc4ce0c">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Bacillus anthracis</content>
+<sup>a</sup>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 0.25</td>
+<td align="center" stylecode="Rrule" valign="top">-</td>
+<td align="center" stylecode="Rrule" valign="top">-</td>
+<td align="center" stylecode="Rrule" valign="top">-</td>
+<td align="center" stylecode="Rrule" valign="top">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-</td>
+</tr>
+</tbody>
+</table>

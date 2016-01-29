@@ -1,0 +1,84 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Acceptable Quality Control Ranges for Susceptibility Testing</caption>
+<col width="27%"></col>
+<col width="36%"></col>
+<col width="38%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Quality Control Organism</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory Concentrations</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Disk Diffusion (zone diameters in mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus</content>
+</paragraph>
+<paragraph>ATCC* 25923</paragraph>
+</td>
+<td align="center">
+<paragraph>Not Applicable</paragraph>
+</td>
+<td align="center">
+<paragraph>21 to 26</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus</content>
+</paragraph>
+<paragraph>ATCC 29213</paragraph>
+</td>
+<td align="center">
+<paragraph>0.5 to 2</paragraph>
+</td>
+<td align="center">
+<paragraph>Not Applicable</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Haemophilus influenza</content>
+</paragraph>
+<paragraph>ATCC 49247</paragraph>
+</td>
+<td align="center">
+<paragraph>1 to 4</paragraph>
+</td>
+<td align="center">
+<paragraph>13 to 21</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae </content>
+</paragraph>
+<paragraph>ATCC 49619</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>0.06 to 0.25</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>19 to 25</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

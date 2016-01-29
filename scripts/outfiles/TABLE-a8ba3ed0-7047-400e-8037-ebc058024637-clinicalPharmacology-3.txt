@@ -1,0 +1,45 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Percent of Patients with Significant % Decreases in SAP and UOHP/C</caption>
+<col align="center" valign="top" width="16%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th colspan="4" stylecode="Lrule Rrule">SAP</th>
+<th colspan="3" stylecode="Rrule">UOHP/C</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule">% Decrease</th>
+<th stylecode="Rrule">15 mg</th>
+<th stylecode="Rrule">45 mg</th>
+<th stylecode="Rrule">90 mg</th>
+<th stylecode="Rrule">15 mg</th>
+<th stylecode="Rrule"> 45 mg</th>
+<th stylecode="Rrule">90 mg</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">≥50</td>
+<td stylecode="Rrule">26</td>
+<td stylecode="Rrule">33</td>
+<td stylecode="Rrule">60</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">47</td>
+<td stylecode="Rrule">72</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">≥30</td>
+<td stylecode="Rrule">40</td>
+<td stylecode="Rrule">65</td>
+<td stylecode="Rrule">83</td>
+<td stylecode="Rrule">35</td>
+<td stylecode="Rrule">57</td>
+<td stylecode="Rrule">85</td>
+</tr>
+</tbody>
+</table>

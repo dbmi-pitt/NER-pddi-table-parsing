@@ -1,0 +1,73 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 1 SUMMARY OF PHARMACOKINETIC PARAMETERS—MEAN VALUES</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td align="center"> Dose<br/>(mg/m<sup>2</sup>)</td>
+<td align="center"> Infusion<br/>Duration (h)</td>
+<td align="center"> N<br/>(patients)</td>
+<td align="center"> C<sub>max</sub>
+<br/>(ng/mL)</td>
+<td align="center"> AUC<sub>(0-∞)</sub>
+<br/>(ng•h/mL)</td>
+<td align="center"> T-HALF<br/>(h)</td>
+<td align="center"> CL<sub>T</sub>
+<br/>(L/h/m<sup>2</sup>) </td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="7"> C<sub>max</sub> = Maximum plasma concentration</td>
+</tr>
+<tr>
+<td colspan="7"> AUC<sub>(0-∞)</sub> = Area under the plasma concentration-time curve from time 0 to infinity</td>
+</tr>
+<tr>
+<td colspan="7"> CL<sub>T</sub> = Total body clearance</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center"> 135</td>
+<td align="center"> 24</td>
+<td align="center"> 2</td>
+<td align="center"> 195</td>
+<td align="center"> 6300</td>
+<td align="center"> 52.7</td>
+<td align="center"> 21.7</td>
+</tr>
+<tr>
+<td align="center"> 175</td>
+<td align="center"> 24</td>
+<td align="center"> 4</td>
+<td align="center"> 365</td>
+<td align="center"> 7993</td>
+<td align="center"> 15.7</td>
+<td align="center"> 23.8</td>
+</tr>
+<tr>
+<td align="center"> 135</td>
+<td align="center"> 3</td>
+<td align="center"> 7</td>
+<td align="center"> 2170</td>
+<td align="center"> 7952</td>
+<td align="center"> 13.1</td>
+<td align="center"> 17.7</td>
+</tr>
+<tr>
+<td align="center"> 175</td>
+<td align="center"> 3</td>
+<td align="center"> 5</td>
+<td align="center"> 3650</td>
+<td align="center"> 15007</td>
+<td align="center"> 20.2</td>
+<td align="center"> 12.2</td>
+</tr>
+</tbody>
+</table>

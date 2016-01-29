@@ -1,0 +1,17 @@
+<table border="1" id="ifff73e5e-eae5-4fe6-8034-57af4efa00f7" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<th> MIC (mcg/mL)</th>
+<th> Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>≤0.5<br/>1<br/>≥2<br/>
+</td>
+<td>Susceptible (S)<br/>
+Intermediate (I)<br/>
+Resistant (R)</td>
+</tr>
+</tbody>
+</table>

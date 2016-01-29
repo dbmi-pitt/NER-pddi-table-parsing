@@ -1,0 +1,38 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="295"></col>
+<col width="295"></col>
+<tbody>
+<tr>
+<td align="center"> 
+                                                <content stylecode="bold">Organism</content>
+</td>
+<td align="center"> 
+                                                <content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+</tr>
+<tr>
+<td align="center">  ATCC 25922
+                                                <content stylecode="italics">E. coli</content>
+</td>
+<td align="center"> 1 to 4</td>
+</tr>
+<tr>
+<td align="center">  ATCC 29213
+                                                <content stylecode="italics">S. aureus</content>
+</td>
+<td align="center"> 0.25 to 1</td>
+</tr>
+<tr>
+<td align="center">  ATCC 29212
+                                                <content stylecode="italics">E. faecalis</content>
+</td>
+<td align="center"> 8 to 32</td>
+</tr>
+<tr>
+<td align="center">  ATCC 27853
+                                                <content stylecode="italics">P. aeruginosa</content>
+</td>
+<td align="center"> 8 to 32</td>
+</tr>
+</tbody>
+</table>

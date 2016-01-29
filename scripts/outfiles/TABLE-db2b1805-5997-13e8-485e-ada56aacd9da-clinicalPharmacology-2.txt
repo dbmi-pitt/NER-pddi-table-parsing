@@ -1,0 +1,162 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="45%"></col>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="18%"></col>
+<tbody>
+<tr>
+<td colspan="4" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Table 18. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Coadministered Drug and Dosage Regimen</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Pioglitazone</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Dose Regimen</content>
+<br/>
+<content stylecode="bold">(mg)</content>
+<footnote id="SPLSERV-a54f729a-a582-afa2-3e5c-5942e73488c5">Daily for 7 days unless otherwise noted</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Change in AUC</content>
+<footnote id="SPLSERV-3f85df88-2e7f-2e44-cb0d-dcb8bd887645">Mean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Change in C<sub>max</sub>
+</content>
+<footnoteref idref="SPLSERV-3f85df88-2e7f-2e44-cb0d-dcb8bd887645"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>Gemfibrozil 600 mg twice daily for 2 days<br/>(N = 12)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>30-mg single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑3.4-fold<footnote id="SPLSERV-e710c117-b6d4-0ba1-1a01-e565659075fe">The half-life of pioglitazone increased from 6.5 hours to 15.1 hours in the presence of gemfibrozil <content stylecode="italics">[see <linkhtml href="#ID_446a206a-44b6-f366-e87b-25ec1c8a43cd">Dosage and Administration (2.3)</linkhtml> and <linkhtml href="#ID_7582f59a-7568-f844-90ea-df9bf2948abf">Drug Interactions (7.1)</linkhtml>]</content>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑6%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>Ketoconazole 200 mg twice daily for 7 days<br/>(N = 28)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑34%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑14%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>Rifampin 600 mg daily for 5 days<br/>(N = 10)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>30-mg single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↓54%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↓5%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>Fexofenadine 60 mg twice daily for 7 days<br/>(N = 23)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑1%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>0%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>Ranitidine 150 mg twice daily for 4 days<br/>(N = 23)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↓13%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↓16%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>Nifedipine ER 30 mg daily for 7 days<br/>(N = 23)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑5%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↑4%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>Atorvastatin Ca 80 mg daily for 7 days<br/>(N = 24)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↓24%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>↓31%</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Theophylline 400 mg twice daily for 7 days<br/>(N = 22)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>45 mg</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>↓4%</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>↓2%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

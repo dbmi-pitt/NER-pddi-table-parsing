@@ -1,0 +1,93 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="24%"></col>
+<col width="24%"></col>
+<col width="31%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Coadministered Drug</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Dose Schedules</content>
+</paragraph>
+</td>
+<td rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Effect on Other Drugs Pharmacokinetics</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Coadministered Drug</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Quetiapine</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Lorazepam</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>2 mg, single dose  </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>250 mg three times daily</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Oral clearance of lorazepam reduced by 20%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Divalproex</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>500 mg twice daily</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>150 mg twice daily</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Cmax and AUC of free valproic acid at steady-state was decreased by 10 to 12%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Lithium</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Up to 2400 mg/day given in twice daily doses</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>250 mg three times daily</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>No effect on steady-state pharmacokinetics of lithium</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Antipyrine</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>1 g, single dose</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>250 mg three times daily</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>No effect on clearance of antipyrine or urinary recovery of its metabolites</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

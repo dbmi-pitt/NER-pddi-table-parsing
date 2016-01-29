@@ -1,0 +1,210 @@
+<table id="_RefID2A25771EEA5A4C4994E080801117C79D" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Susceptibility Test Interpretive Criteria for Vancomycin </caption>
+<col width="17%"></col>
+<col width="14%"></col>
+<col width="15%"></col>
+<col width="12%"></col>
+<col width="14%"></col>
+<col width="15%"></col>
+<col width="12%"></col>
+<tbody>
+<tr stylecode="Toprule">
+<td stylecode="Botrule Lrule "></td>
+<td align="center" colspan="3" stylecode="Botrule Lrule ">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory</content>
+<br/>
+<content stylecode="bold">Concentrations</content>
+<br/>
+<content stylecode="bold">(mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Lrule ">
+<paragraph>
+<content stylecode="bold">Disk Diffusion</content>
+<br/>
+<content stylecode="bold">Diameters</content>
+<br/>
+<content stylecode="bold">(mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Pathogen</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Susceptible</content>
+<br/>
+<content stylecode="bold">(S)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Intermediate</content>
+<br/>
+<content stylecode="bold">(I)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Resistant</content>
+<br/>
+<content stylecode="bold">(R)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Susceptible</content>
+<br/>
+<content stylecode="bold">(S)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Intermediate</content>
+<br/>
+<content stylecode="bold">(I)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Resistant</content>
+<br/>
+<content stylecode="bold">(R)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<br/>
+<content stylecode="italics">Enterococci</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≤4</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>8 – 16<footnote id="_RefIDEDB20AA32A43411BB51EEB2C2889939D">Isolates with vancomycin MICs of 8 to 16  mcg/mL should be further screened for vancomycin resistance using standardized procedures.<sup> 1,2</sup>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥32</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥17<footnote id="_RefIDF3EDA3C3D59D421D84ED4B6774D226A1">Plates should be held for a full 24 hours and examined using transmitted light.  Measure the diameter of the zones of complete inhibition (as judged by the unaided eye), including the diameter of the disk. The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernable growth within the zone of inhibition indicates vancomycin resistance.  Organisms with intermediate zones should be tested by a standardized dilution method.<sup>1,2</sup>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>15 – 16<footnoteref idref="_RefIDF3EDA3C3D59D421D84ED4B6774D226A1"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≤14<footnoteref idref="_RefIDF3EDA3C3D59D421D84ED4B6774D226A1"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Staphylococcus        aureus.</content>
+<footnote id="_RefIDC828EC140BC544CD944F3A8F385BA4D0">Dilution testing should be performed to determine the susceptibility of all staphylococcal isolates. Disk diffusion testing is not reliable for testing vancomycin, as it does not differentiate vancomycin-susceptible isolates of <content stylecode="italics">S. aureus</content> from vancomycin-intermediate isolates, nor does it differentiate among vancomycin-susceptible, intermediate, and resistant isolates of coagulase-negative staphylococci.<sup>2</sup>
+</footnote>
+<sup>,</sup>
+<footnote id="_RefIDB2C3905B257D49479C2A4D0F00B67A18">Any <content stylecode="italics">S. aureus </content>isolate for which the vancomycin MIC is ≥ 8 mcg/mL should be sent to a reference laboratory.<sup>2</sup>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≤2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>4 – 8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<br/>Coagulase-<br/>negative staphylococci<footnoteref idref="_RefIDC828EC140BC544CD944F3A8F385BA4D0"></footnoteref>
+<sup>,</sup>
+<footnote id="_RefID3780E1CCDCD94AF79B6FEB45692075A3">Any coagulase-negative <content stylecode="italics">Staphylococcus</content> isolate for which the vancomycin MIC is ≥ 32 mcg/mL should be sent to a reference laboratory.<sup>2</sup>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≤4</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>8 – 16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥32</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>
+<br/>
+<content stylecode="italics">Streptococci</content> spp. other than <content stylecode="italics">S. pneumoniae</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≤1<footnote id="_RefID893014A8B4674AE4A7A39E5402EAFF64">The rare occurrence of resistant isolates precludes defining any results categories other than “Susceptible”. For isolates yielding results suggestive of a nonsusceptible category, organism identification and vancomycin susceptibility test results should be confirmed. If confirmed, isolates should be sent to a reference laboratory <sup>2</sup>
+</footnote>
+<sup>,</sup>
+<footnote id="_RefIDD93681A94650434394F817B8D8EB1866">Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood<sup>1,2</sup>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≥17<footnoteref idref="_RefID893014A8B4674AE4A7A39E5402EAFF64"></footnoteref>
+<sup>,</sup>
+<footnote id="_RefID33DF2DEC6FAD4FD8966208366E038C48">Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO<sub>2</sub>
+<sup>3</sup>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

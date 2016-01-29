@@ -1,0 +1,220 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="24%"></col>
+<col width="8%"></col>
+<col width="11%"></col>
+<col width="13%"></col>
+<col width="17%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Renal Impairment </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(no. of patients)</content>
+</paragraph>
+</td>
+<td stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Dose</content>
+</paragraph>
+</td>
+<td stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">T<sub>max</sub>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(h)</content>
+</paragraph>
+</td>
+<td stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(mcg/mL)</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">AUC<sub>(0-96h)</sub> (mcg•h/mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Healthy Volunteers</paragraph>
+<list listtype="unordered">
+<item>
+<caption> </caption>GFR&gt; 80 mL/min/1.73 m<sup>2</sup> (n=6)</item>
+</list>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>1g</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>0.75 (±0.27)</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>25.3 (±7.99)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>45 </paragraph>
+<paragraph>(±22.6)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph> Mild Renal Impairment</paragraph>
+<list listtype="unordered">
+<item>
+<caption> </caption>GFR 50 to 80 mL/min/1.73 m<sup>2 </sup>(n=6)</item>
+</list>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>1g</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>0.75 (±0.27)</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>26 </paragraph>
+<paragraph>(±3.82)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>59.9 </paragraph>
+<paragraph>(±12.9)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Moderate Renal Impairment</paragraph>
+<list listtype="unordered">
+<item>
+<caption> </caption>GFR 25 to 49 mL/min/1.73 m<sup>2</sup> (n=6)</item>
+</list>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph> 1g</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>0.75 (±0.27)</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>19</paragraph>
+<paragraph>(±13.2)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>52.9</paragraph>
+<paragraph>(±25.5)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Severe Renal Impairment</paragraph>
+<list listtype="unordered">
+<item>
+<caption> </caption>GFR&lt; 25 mL/min/1.73 m<sup>2 </sup>(n=7)</item>
+</list>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>1g</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>1 </paragraph>
+<paragraph>(±0.41)</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>16.3 (±10.8)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>78.6 </paragraph>
+<paragraph>(±46.4)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Hepatic Impairment </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(no. of patients)</content>
+</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Dose</content>
+</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">T<sub>max</sub>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(h)</content>
+</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(mcg/mL)</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">AUC(0-48h) (mcg•h/mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Healthy Volunteers </paragraph>
+<list listtype="unordered">
+<item>
+<caption> </caption>(n=6)</item>
+</list>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph> 1g</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>0.63 (±0.14)</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>24.3 (±5.73)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>29</paragraph>
+<paragraph> (±5.78)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>Alcoholic Cirrhosis </paragraph>
+<list listtype="unordered">
+<item>
+<caption> </caption>(n=18)</item>
+</list>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>1g</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>0.85 (±0.58)</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>22.4 (±10.1)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>29.8 </paragraph>
+<paragraph>(±10.7)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

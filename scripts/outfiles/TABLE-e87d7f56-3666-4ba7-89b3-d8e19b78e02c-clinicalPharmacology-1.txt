@@ -1,0 +1,79 @@
+<table id="_Refid_eb84800c-874d-4484-b6ce-38cad467c" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Acceptable Quality Control Ranges for Nitrofurantoin</caption>
+<col width="22%"></col>
+<col width="39%"></col>
+<col width="39%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Botrule Toprule " valign="top">
+<paragraph>QC Strain</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Toprule " valign="top">
+<paragraph>Acceptable Quality Control Ranges</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>Minimum Inhibitory Concentration (mcg/mL)</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>Disk Diffusion<br/>(zone diameter in mm)</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>
+<content stylecode="italics">Escherichia coli</content>
+<br/>ATCC 25922</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>4 to 16</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>20 to 25</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>
+<content stylecode="italics">Enterococcus faecalis</content>
+<br/>ATCC 29212</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>4 to 16</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>NA<footnote id="_Refid-e681e094-c478-46ec-bc03-7484ac285">Not applicable</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 29213</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>8 to 32</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>NA<footnoteref idref="_Refid-e681e094-c478-46ec-bc03-7484ac285"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 25923</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>NA<footnoteref idref="_Refid-e681e094-c478-46ec-bc03-7484ac285"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>18 to 22</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,98 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="223"></col>
+<col width="305"></col>
+<col width="105"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule Lrule " valign="bottom">
+<content stylecode="bold">Side</content>
+<content stylecode="bold">
+<br/>Effect</content>
+</td>
+<td align="center" stylecode="Toprule " valign="bottom">
+<content stylecode="bold">Dicyclomine Hydrochloride</content>
+<content stylecode="bold">
+<br/>(40 mg q.i.d.)</content>
+<br/>
+<content stylecode="bold">%</content>
+</td>
+<td align="center" stylecode="Toprule Rrule " valign="bottom">
+<content stylecode="bold">Placebo</content>
+<content stylecode="bold">
+<br/>%</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule ">Dry Mouth </td>
+<td align="center" stylecode="Toprule ">
+<content stylecode="bold">33</content>
+</td>
+<td align="center" stylecode="Toprule Rrule ">
+<content stylecode="bold">5</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">Dizziness </td>
+<td align="center">
+<content stylecode="bold">29</content>
+</td>
+<td align="center" stylecode="Rrule ">
+<content stylecode="bold">2</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">Blurred Vision </td>
+<td align="center">
+<content stylecode="bold">27</content>
+</td>
+<td align="center" stylecode="Rrule ">
+<content stylecode="bold">2</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">Nausea </td>
+<td align="center">
+<content stylecode="bold">14</content>
+</td>
+<td align="center" stylecode="Rrule ">
+<content stylecode="bold">6</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">Light-Headedness </td>
+<td align="center">
+<content stylecode="bold">11</content>
+</td>
+<td align="center" stylecode="Rrule ">
+<content stylecode="bold">3</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">Drowsiness </td>
+<td align="center">
+<content stylecode="bold">9</content>
+</td>
+<td align="center" stylecode="Rrule ">
+<content stylecode="bold">1</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">Weakness </td>
+<td align="center">
+<content stylecode="bold">7</content>
+</td>
+<td align="center" stylecode="Rrule ">
+<content stylecode="bold">1</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">Nervousness </td>
+<td align="center">
+<content stylecode="bold">6</content>
+</td>
+<td align="center" stylecode="Rrule ">
+<content stylecode="bold">2</content>
+</td>
+</tr>
+</tbody>
+</table>

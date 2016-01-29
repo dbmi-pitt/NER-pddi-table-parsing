@@ -1,0 +1,78 @@
+<table border="1" id="Table_4" width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: Mean (±SD) EXALGO Pharmacokinetic Parameters</caption>
+<colgroup>
+<col align="left" valign="top" width="16.67%"></col>
+<col align="left" valign="top" width="16.67%"></col>
+<col align="left" valign="top" width="16.67%"></col>
+<col align="left" valign="top" width="16.67%"></col>
+<col align="left" valign="top" width="16.67%"></col>
+<col align="left" valign="top" width="16.67%"></col>
+</colgroup>
+<thead>
+<tr>
+<th>Regimen</th>
+<th>Dosage</th>
+<th>T<sub>max</sub>
+<footnote id="Table_4-foot_2">Median (range) reported for T<sub>max</sub>
+</footnote>  
+                                      (hrs)</th>
+<th>C<sub>max</sub>(ng/mL)</th>
+<th>AUC<br/>(ng•hr/mL)</th>
+<th>T<sub>½</sub>  (hr)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="6">NA = not applicable</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td rowspan="4">Single Dose<br/>(N = 31)</td>
+<td>8 mg</td>
+<td>12 (4-30)</td>
+<td>0.93 (1.01)</td>
+<td>18.1 (5.8)</td>
+<td>10.6 (4.3)</td>
+</tr>
+<tr>
+<td>16 mg</td>
+<td>16 (6-30)</td>
+<td>1.69 (0.78)</td>
+<td>36.5 (11.3)</td>
+<td>10.3 (2.4)</td>
+</tr>
+<tr>
+<td>32 mg</td>
+<td>16 (4-24)</td>
+<td>3.25 (1.37)</td>
+<td>72.2 (24.3)</td>
+<td>11.0 (3.2)</td>
+</tr>
+<tr>
+<td>64 mg</td>
+<td>16 (6-30)</td>
+<td>6.61 (1.75)</td>
+<td>156.0 (30.6)</td>
+<td>10.9 (3.8)</td>
+</tr>
+<tr>
+<td rowspan="2">Multiple <br/>Dose<footnote id="Table_4-foot_3">Steady-state results on Day 5 (0-24 hours)</footnote>
+<br/>(N = 29)</td>
+<td>16 mg q24h</td>
+<td>12 (6-24)</td>
+<td>3.54 (0.96)<footnote id="Table_4-foot_4">C<sub>min</sub> 2.15 (0.87) ng/mL</footnote>
+</td>
+<td>57.6 (16.3)</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>IR 4 mg q6h</td>
+<td>0.75 (0.5-2)</td>
+<td>5.28 (1.37)<footnote id="Table_4-foot_5">C<sub>min</sub> 1.47 (0.42) ng/mL</footnote>
+</td>
+<td>54.8 (14.8)</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>

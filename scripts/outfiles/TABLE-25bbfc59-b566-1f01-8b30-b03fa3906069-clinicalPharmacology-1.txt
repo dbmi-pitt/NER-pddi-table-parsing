@@ -1,0 +1,116 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 15. Summary of Drug Interactions With Lamotrigine</caption>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> Drug</td>
+<td align="center" stylecode="     Botrule          Toprule          Rrule     " valign="bottom"> Drug Plasma Concentration With Adjunctive Lamotrigine<sup>a</sup>
+</td>
+<td align="center" stylecode="     Botrule          Toprule          Rrule     " valign="bottom"> Lamotrigine Plasma Concentration With Adjunctive Drugs<sup>b </sup>
+</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Oral contraceptives (e.g., ethinylestradiol/levonorgestrel)<sup>c</sup>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔<sup>d</sup>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↓</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Bupropion</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Not assessed</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Carbamazepine (CBZ)</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↓</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> CBZ epoxide<sup>e</sup>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ?</td>
+<td align="center" stylecode="     Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Felbamate</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Not assessed</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Gabapentin</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Not assessed</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Levetiracetam</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Lithium</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Not assessed</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Olanzapine</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔<sup>f</sup>
+</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Oxcarbazepine</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> 10-monohydroxy oxcarbazepine metabolite<sup>g</sup>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+<td align="center" stylecode="     Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Phenobarbital/primidone</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↓</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Phenytoin (PHT)</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↓</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Pregabalin</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Rifampin</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Not assessed</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↓</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Topiramate</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔<sup>h</sup>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Valproate</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↓</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↑</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Valproate + PHT and/or CBZ</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Not assessed</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↔</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Zonisamide</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> Not assessed</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> ↔</td>
+</tr>
+</tbody>
+</table>

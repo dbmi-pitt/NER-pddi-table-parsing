@@ -1,0 +1,39 @@
+<table id="inv-3f7cd4a4-4712-41eb-8d75-5efd58b42878" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col id="inv-93bbd49b-db7e-4b84-aa7e-e3cd05e2618a" width="33.32%"></col>
+<col id="inv-1c6ffef7-f91b-43c1-8980-e04192ec2102" width="33.32%"></col>
+<col id="inv-790fd64e-8c2d-41ba-b772-97c5fee2236d" width="33.35%"></col>
+<tbody id="inv-eada69fc-138b-49e6-b1b0-010d71d9c2db">
+<tr id="inv-a7ec0e14-8589-4fc6-9b61-c2b770599ba0">
+<td align="center" id="inv-63df161e-98bd-4645-9a70-31e34521041a" valign="top">
+Zone Diameter (mm)</td>
+<td align="center" id="inv-17920faa-699f-4fd7-b3f7-5fe7aa2b5c91" valign="top">
+Interpretation</td>
+<td align="center" id="inv-8dfff2cb-66e0-4b09-97e3-24577b30a8c1" valign="top">
+MIC (mcg/mL)</td>
+</tr>
+<tr id="inv-eb6f2635-332b-42dd-9c3c-fd59b90c865e">
+<td align="center" id="inv-0e38da89-f591-4c63-b9d8-34eb3d34581b" valign="top">
+≥ 16</td>
+<td align="center" id="inv-a6819abd-1b43-4fc6-bbb9-da50130d1044" valign="top">
+Susceptible (S)</td>
+<td align="center" id="inv-937a378b-7df5-41d3-ba3e-236b71e97468" valign="top">
+≤ 4</td>
+</tr>
+<tr id="inv-a9a60dd1-3e01-42ae-a354-95343855e49f">
+<td align="center" id="inv-f79c5d34-ba24-4244-a788-bf39d35d9f81" valign="top">
+13 to 15</td>
+<td align="center" id="inv-dafc4203-7424-4a67-87b3-f8f363de9c1b" valign="top">
+Intermediate (I)</td>
+<td align="center" id="inv-02f9e0d1-0ff6-498b-a27d-c8ebd65b10a6" valign="top">
+-</td>
+</tr>
+<tr id="inv-2b5ddc20-f445-40c0-b4b2-b62cc97d50c3">
+<td align="center" id="inv-a12bfb86-0c62-4e6e-93bd-535996490479" valign="top">
+≤ 12</td>
+<td align="center" id="inv-3ff005c6-e82c-4fd6-bb3f-e1ce86ab83fa" valign="top">
+Resistant (R)</td>
+<td align="center" id="inv-c52323eb-e63a-4235-8b4f-ceb3cc2fb480" valign="top">
+≥ 16</td>
+</tr>
+</tbody>
+</table>

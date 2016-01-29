@@ -1,0 +1,375 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="25%"></col>
+<col width="29%"></col>
+<col width="4%"></col>
+<col width="13%"></col>
+<col width="14%"></col>
+<col width="15%"></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Coadministered Drug(s)</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">and Dose(s)</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">Dose of AGENERASE<sup>a</sup>
+</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">n</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">% Change in Amprenavir Pharmacokinetic Parameters</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(90% CI)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">AUC</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="bottom">
+<paragraph>
+<content stylecode="bold">C<sub>min</sub>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Abacavir </paragraph>
+<paragraph>300 mg b.i.d. for 2 to 3 weeks </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>900 mg b.i.d. </paragraph>
+<paragraph>for 2 to 3 weeks</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔<sup>a</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔<sup>a</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔<sup>a</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Clarithromycin </paragraph>
+<paragraph>500 mg b.i.d. for 4 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1,200 mg b.i.d.</paragraph>
+<paragraph>for 4 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑15</paragraph>
+<paragraph>(↑1 to ↑31)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑18</paragraph>
+<paragraph>(↑8 to ↑29)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑39</paragraph>
+<paragraph>(↑31 to ↑47)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Delavirdine</paragraph>
+<paragraph>600 mg b.i.d. for 10 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>600 mg b.i.d. </paragraph>
+<paragraph>for 10 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑40<sup>b</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑130<sup>b</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑125<sup>b</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Ethinyl estradiol/norethindrone</paragraph>
+<paragraph>0.035 mg/1 mg for 1 cycle</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1,200 mg b.i.d.</paragraph>
+<paragraph>for 28 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>10</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓22</paragraph>
+<paragraph>(↓35 to ↓8)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓20</paragraph>
+<paragraph>(↓41 to ↑8)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Indinavir </paragraph>
+<paragraph>800 mg t.i.d. for 2 weeks</paragraph>
+<paragraph>(fasted)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>750 or 800 mg t.i.d. for 2 weeks (fasted)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑18</paragraph>
+<paragraph>(↑13 to ↑58)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑33</paragraph>
+<paragraph>(↑2 to ↑73)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑25</paragraph>
+<paragraph>(↓27 to ↑116)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Ketoconazole </paragraph>
+<paragraph>400 mg single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1,200 mg</paragraph>
+<paragraph>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓16</paragraph>
+<paragraph>(↓25 to ↓6)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑31</paragraph>
+<paragraph>(↑20 to ↑42)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>NA</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Lamivudine </paragraph>
+<paragraph>150 mg single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>600 mg</paragraph>
+<paragraph>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>11</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>NA</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Methadone</paragraph>
+<paragraph>44 to 100 mg q.d. for</paragraph>
+<paragraph>&gt;30 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1,200 mg b.i.d. </paragraph>
+<paragraph>for 10 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>16</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓27<sup>c</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓30<sup>c</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓25<sup>c</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Nelfinavir </paragraph>
+<paragraph>750 mg t.i.d. for 2 weeks</paragraph>
+<paragraph>(fed)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>750 or 800 mg t.i.d. for 2 weeks (fed)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓14</paragraph>
+<paragraph>(↓38 to ↑20)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↑189</paragraph>
+<paragraph>(↑52 to ↑448)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Rifabutin </paragraph>
+<paragraph>300 mg q.d. for 10 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1,200 mg b.i.d.</paragraph>
+<paragraph>for 10 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓15</paragraph>
+<paragraph>(↓28 to 0)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓15</paragraph>
+<paragraph>(↓38 to ↑17)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Rifampin </paragraph>
+<paragraph>300 mg q.d. for 4 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1,200 mg b.i.d.</paragraph>
+<paragraph>for 4 days</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>11</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓70</paragraph>
+<paragraph>(↓76 to ↓62)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓82</paragraph>
+<paragraph>(↓84 to ↓78)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓92</paragraph>
+<paragraph>(↓95 to ↓89)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Saquinavir </paragraph>
+<paragraph>800 mg t.i.d. for 2 weeks </paragraph>
+<paragraph>(fed)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>750 or 800 mg t.i.d. for 2 weeks (fed)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓37</paragraph>
+<paragraph>(↓54 to ↓14)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓32</paragraph>
+<paragraph>(↓49 to ↓9)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>↓14</paragraph>
+<paragraph>(↓52 to ↑54)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>Zidovudine </paragraph>
+<paragraph>300 mg single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>600 mg</paragraph>
+<paragraph>single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>↔</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>↑13</paragraph>
+<paragraph>(↓2 to ↑31)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>NA</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

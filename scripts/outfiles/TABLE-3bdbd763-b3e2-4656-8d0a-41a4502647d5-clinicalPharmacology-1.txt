@@ -1,0 +1,124 @@
+<table id="id_5e2ae833-f2c1-4f7d-bc79-5393dd10ae85" width="851.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_29577869-d098-49cf-81ff-e3b1dfd08a34">Table 5: Effect of Ezetimibe Coadministration on Systemic Exposure to Other Drugs</caption>
+<col width="43.6%"></col>
+<col width="18.8%"></col>
+<col width="20.8%"></col>
+<col width="16.8%"></col>
+<thead>
+<tr id="id_e9d04da4-c5cf-46a9-b2c0-8bce66e33a53">
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Coadministered Drug and its Dosage Regimen</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Ezetimibe Dosage Regimen</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">Change in AUC</content>
+</paragraph>
+<content stylecode="bold">of Coadministered Drug</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">Change in C<sub>max</sub>
+</content>
+</paragraph>
+<content stylecode="bold">of Coadministered Drug</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_cf578b39-d767-4850-80b2-b72f941c65bd">
+<td align="left" stylecode="Toprule Botrule" valign="top">Warfarin, 25 mg single dose on Day 7 </td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, 11 days </td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>↓2% (R-warfarin)</paragraph>↓4% (S-warfarin)</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>↑3% (R-warfarin)</paragraph>↑1% (S-warfarin)</td>
+</tr>
+<tr id="id_f508e0e5-6ebb-482f-887a-80a8634e62c6">
+<td align="left" stylecode="Botrule" valign="top">Digoxin, 0.5 mg single dose</td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, 8 days</td>
+<td align="center" stylecode="Botrule" valign="top">↑2%</td>
+<td align="center" stylecode="Botrule" valign="top">↓7%</td>
+</tr>
+<tr id="id_89057d52-e6f7-4222-a823-5ddc7b0a357c">
+<td align="left" stylecode="Botrule" valign="top">Gemfibrozil, 600 mg BID, 7 days<footnote id="id-c23d7959-ae1b-4879-b1c8-2792a1166b15">See <linkhtml href="#i4i_interactions_id_17d5727c-55f6-44ae-b147-fc817a4cbc0d">7. Drug Interactions</linkhtml>
+</footnote>
+</td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">↓1%</td>
+<td align="center" stylecode="Botrule" valign="top">↓11%</td>
+</tr>
+<tr id="id_cb82243f-d910-4de9-a5e6-31ef202410bd">
+<td align="left" stylecode="Botrule" valign="top">Ethinyl estradiol &amp; Levonorgestrel, QD, 21 days</td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, Days 8-14 of 21 day oral contraceptive cycle</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>Ethinyl estradiol</paragraph>
+<paragraph>0%</paragraph>
+<paragraph>Levonorgestrel</paragraph>0%</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>Ethinyl estradiol</paragraph>
+<paragraph>↓9%</paragraph>
+<paragraph>Levonorgestrel</paragraph>↓5%</td>
+</tr>
+<tr id="id_3b005a0d-14d0-4a15-9732-d3649e69610e">
+<td align="left" stylecode="Botrule" valign="top">Glipizide, 10 mg on Days 1 and 9</td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, Days 2-9</td>
+<td align="center" stylecode="Botrule" valign="top">↓3%</td>
+<td align="center" stylecode="Botrule" valign="top">↓5%</td>
+</tr>
+<tr id="id_93ec1ffe-e966-490f-a614-a4e832280696">
+<td align="left" stylecode="Botrule" valign="top">Fenofibrate, 200 mg QD, 14 days<footnoteref idref="id-c23d7959-ae1b-4879-b1c8-2792a1166b15"></footnoteref>
+</td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, 14 days</td>
+<td align="center" stylecode="Botrule" valign="top">↑11%</td>
+<td align="center" stylecode="Botrule" valign="top">↑7%</td>
+</tr>
+<tr id="id_5690a81c-05aa-425f-8950-67a7acf36d43">
+<td align="left" stylecode="Botrule" valign="top">Cyclosporine, 100 mg single dose Day 7<footnoteref idref="id-c23d7959-ae1b-4879-b1c8-2792a1166b15"></footnoteref>
+</td>
+<td align="left" stylecode="Botrule" valign="top">20 mg QD, 8 days</td>
+<td align="center" stylecode="Botrule" valign="top">↑15%</td>
+<td align="center" stylecode="Botrule" valign="top">↑10%</td>
+</tr>
+<tr id="id_45c6c0ba-71a4-4e98-9514-d49692a45e46">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="bold">Statins</content>
+</td>
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr id="id_c96eee8a-d851-4436-9048-70530e012f4e">
+<td align="left" stylecode="Botrule" valign="top">    Lovastatin 20 mg QD, 7 days</td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">↑19%</td>
+<td align="center" stylecode="Botrule" valign="top">↑3%</td>
+</tr>
+<tr id="id_37f11f3f-de57-4aa7-877e-7a4bbb154356">
+<td align="left" stylecode="Botrule" valign="top">    Pravastatin 20 mg QD, 14 days</td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, 14 days</td>
+<td align="center" stylecode="Botrule" valign="top">↓20%</td>
+<td align="center" stylecode="Botrule" valign="top">↓24%</td>
+</tr>
+<tr id="id_4ae4afcb-72d7-46b9-b14a-132cd00eb0e9">
+<td align="left" stylecode="Botrule" valign="top">    Atorvastatin 10 mg QD, 14 days</td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, 14 days</td>
+<td align="center" stylecode="Botrule" valign="top">↓4%</td>
+<td align="center" stylecode="Botrule" valign="top">↑7%</td>
+</tr>
+<tr id="id_b18ddec0-d4f0-4487-8e5d-e5a0483a51fd">
+<td align="left" stylecode="Botrule" valign="top">    Rosuvastatin 10 mg QD, 14 days</td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, 14 days</td>
+<td align="center" stylecode="Botrule" valign="top">↑19%</td>
+<td align="center" stylecode="Botrule" valign="top">↑17%</td>
+</tr>
+<tr id="id_a0aca522-0498-4ea6-97bf-f43f670d33ca">
+<td align="left" stylecode="Botrule" valign="top">    Fluvastatin 20 mg QD, 14 days</td>
+<td align="left" stylecode="Botrule" valign="top">10 mg QD, 14 days</td>
+<td align="center" stylecode="Botrule" valign="top">↓39%</td>
+<td align="center" stylecode="Botrule" valign="top">↓27%</td>
+</tr>
+</tbody>
+</table>

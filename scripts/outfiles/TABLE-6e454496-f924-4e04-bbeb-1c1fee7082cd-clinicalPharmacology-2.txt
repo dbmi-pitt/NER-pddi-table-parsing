@@ -1,0 +1,133 @@
+<table id="t3" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Susceptibility Test Interpretive Criteria for Ceftazidime
+</caption>
+<col align="left" width="20.754%"></col>
+<col align="left" width="13.741%"></col>
+<col align="left" width="14.427%"></col>
+<col align="left" width="11.456%"></col>
+<col align="left" width="13.741%"></col>
+<col align="left" width="14.427%"></col>
+<col align="left" width="11.456%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">
+<sup>§</sup> Susceptibility interpretive criteria for <content stylecode="italics">Enterobacteriaceae</content> are based on a dose of 1 gram q 8h. For isolates with intermediate susceptibility, use a dose of 2 grams every 8 hours in patients with normal renal function.
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">* For <content stylecode="italics">P. aeruginosa</content>, susceptibility interpretive criteria are based on a dose of 2 grams IV every 8 hours in patients with normal renal function.
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph stylecode="footnote">
+<sup>a</sup> The current absence of data on resistant isolates precludes defining any category other than ‘Susceptible'. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. Susceptibility of staphylococci to ceftazidime may be deduced from testing only penicillin and either cefoxitin or oxacillin.
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="justify" rowspan="2" stylecode="Toprule Botrule Lrule Rrule" valign="bottom">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" colspan="3" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Disk Diffusion Zone</content>
+<br/>
+<content stylecode="bold">Diameters (mm)</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(S)</content>
+<br/>
+<content stylecode="bold">Susceptible</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(I)</content>
+<br/>
+<content stylecode="bold">Intermediate</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(R)</content>
+<br/>
+<content stylecode="bold">Resistant</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(S)</content>
+<br/>
+<content stylecode="bold">Susceptible</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(I)</content>
+<br/>
+<content stylecode="bold">Intermediate</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(R)</content>
+<br/>
+<content stylecode="bold">Resistant</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Enterobacteriaceae</content>
+<sup>§</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 4
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 16
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 21
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">18 to 20
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 17
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥26
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Pseudomonas aeruginosa</content>*
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 8
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 16
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 18
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 17
+</td>
+</tr>
+</tbody>
+</table>

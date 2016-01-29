@@ -1,0 +1,119 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule          Rrule     "> </td>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> Number of Subjects</content>
+</td>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Dosing of Coadministered Drug or Grapefruit Juice</content>
+</td>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> Dosing of Lovastatin</content>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule     "> <br/>
+<paragraph>
+<content stylecode="bold"> AUC </content>
+<content stylecode="bold">Ratio* (with/without coadministered drug)</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">No Effect = 1.00</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> Lovasta</content>
+<content stylecode="bold">tin</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     ">
+<content stylecode="bold"> Lovastatin acid<sup>†</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule          Rrule     "> Gemfibrozil</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 11</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 600 mg BID for 3 days</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">40 mg </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.96</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     ">2.80</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule          Rrule     ">Itraconazole<sup>‡</sup>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 12</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">200 mg QD for 4 days</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 40 mg on Day 4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">&gt; 36<sup>§</sup> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     "> 22</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 10</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">100 mg QD for 4 days </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">40 mg on Day 4 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> &gt; 14.8<sup>§</sup>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     ">15.4 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule          Rrule     ">Grapefruit Juice<sup>¶</sup> (high dose)  </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 10</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">200 mL of double-strength TID<sup>#</sup> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">80 mg single dose </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 15.3</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     ">5.0 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule          Rrule     ">Grapefruit Juice<sup>¶</sup> (low dose) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">16</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">8 oz (about 250 mL) of single-strength<sup>Þ</sup> for 4 days </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">40 mg single dose </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 1.94</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     ">1.57 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule          Rrule     ">Cyclosporine</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 16</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Not described<sup>ß</sup>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 10 mg QD for 10 days</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">5 to 8 fold </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule     "> ND<sup>à</sup>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule          Rrule     "> </td>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Number of Subjects</content> </td>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Dosing of Coadministered Drug or Grapefruit Juice</content>
+</td>
+<td align="center" rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Dosing of Lovastatin</content> </td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule     ">
+<content stylecode="bold">AUC Ratio* (with/without coadministered drug) No Effect = 1.00</content> </td>
+</tr>
+<tr>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule     ">
+<content stylecode="bold">Total Lovastatin acid<sup>è</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule          Rrule     ">Diltiazem </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">10 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">120 mg BID for 14 days </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">20 mg </td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule     "> 3.57<sup>è</sup>
+</td>
+</tr>
+</tbody>
+</table>

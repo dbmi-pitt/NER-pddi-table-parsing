@@ -1,0 +1,49 @@
+<table border="single" id="id_5ce5b80a-46c4-4e1e-8729-e2b4886886f9" width="439.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_6facca99-4658-48d2-bf80-ddf4e8c53957">Table 1: Mean (%CV) Metaxalone Pharmacokinetic Parameters</caption>
+<col width="16.6%"></col>
+<col width="16.6%"></col>
+<col width="16.6%"></col>
+<col width="16.9%"></col>
+<col width="16.6%"></col>
+<col width="16.6%"></col>
+<tbody>
+<tr id="id_e607d489-8ebe-4e0c-a767-c56143af895e">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Dose (mg)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">C<sub>max</sub> (ng/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">T<sub>max</sub> (h)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">AUC∞ (ng⋅h/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">T<sub>1/2</sub> (h)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">CL/F (L/h)</content>
+</td>
+</tr>
+<tr id="id_0daddb5f-bd24-4bc4-8ace-1e92b53f2fab">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">400<footnote id="id-d32374bb-2da2-4567-8e91-000bcde50d07">Subjects received 1×400mg tablet under fasted conditions (N=42)</footnote>
+<sup>  </sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">983 (53) </td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">3.3 (35) </td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">7479 (51) </td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">9.0 (53) </td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">68 (50) </td>
+</tr>
+<tr id="id_fc03592f-4ebe-46dc-943c-9497208d1945">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">800<footnote id="id-df4f7bf4-b6a5-4cad-a47d-adf026da818d">Subjects received 2×400 mg tablets under fasted conditions (N=59)</footnote>  </td>
+<td align="center" stylecode="Rrule" valign="bottom">1816 (43) </td>
+<td align="center" stylecode="Rrule" valign="bottom">3.0 (39) </td>
+<td align="left" stylecode="Rrule" valign="bottom">15044 (46) </td>
+<td align="center" stylecode="Rrule" valign="bottom">8.0 (58) </td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">66 (51) </td>
+</tr>
+</tbody>
+</table>

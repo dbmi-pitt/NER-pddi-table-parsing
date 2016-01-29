@@ -1,0 +1,43 @@
+<table frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 3: Mean Maximum Percent Fall in FEV<sub>1</sub> Following Exercise Challenge in Study A (N=47)</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td align="center" valign="bottom"> Time of exercise challenge following medication administration</td>
+<td align="center" colspan="2"> Mean Maximum percent fall in FEV<sub>1</sub>
+<footnote id="FOOT_320">Least squares-mean</footnote>
+</td>
+<td align="center"> Treatment difference % for SINGULAIR versus Placebo (95%CI)<footnoteref idref="FOOT_320"></footnoteref>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> SINGULAIR</td>
+<td align="center" valign="top"> Placebo</td>
+<td align="center" valign="top"> </td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" valign="top"> 2 hours</td>
+<td align="center" valign="top"> 13</td>
+<td align="center" valign="top"> 22</td>
+<td align="center" valign="top"> -9 (-12, -5)</td>
+</tr>
+<tr>
+<td align="center" valign="top"> 8.5 hours</td>
+<td align="center" valign="top"> 12</td>
+<td align="center" valign="top"> 17</td>
+<td align="center" valign="top"> -5 (-9, -2)</td>
+</tr>
+<tr>
+<td align="center" valign="top"> 24 hours</td>
+<td align="center" valign="top"> 10</td>
+<td align="center" valign="top"> 14</td>
+<td align="center" valign="top"> -4 (-7, -1)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,104 @@
+<table id="t2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Susceptibility Interpretive Criteria for Clindamycin
+</caption>
+<col align="left" width="40.294%"></col>
+<col align="left" width="11.198%"></col>
+<col align="left" width="9.327%"></col>
+<col align="left" width="9.327%"></col>
+<col align="left" width="11.198%"></col>
+<col align="left" width="9.327%"></col>
+<col align="left" width="9.327%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="7" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<paragraph stylecode="footnote">NA=not applicable
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="top"></td>
+<td align="center" colspan="6" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Susceptibility Interpretive Criteria</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Minimal Inhibitory Concentrations</content>
+<br/>
+<content stylecode="bold">(MIC in mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Disk Diffusion</content>
+<br/>
+<content stylecode="bold">(Zone Diameters in mm)</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus spp.</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">S</content>
+<br/>≤ 0.5
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">I</content>
+<br/>1 to 2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">R</content>
+<br/>≥4
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">S</content>
+<br/>≥21
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">I</content>
+<br/>15 to 20
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">R</content>
+<br/>≤14
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae and other Streptococcus spp.</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 0.25
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.5
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥1
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥19
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">16 to 18
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤15
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">Anaerobic Bacteria
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≤2
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">≥8
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">NA
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">NA
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">NA
+</td>
+</tr>
+</tbody>
+</table>

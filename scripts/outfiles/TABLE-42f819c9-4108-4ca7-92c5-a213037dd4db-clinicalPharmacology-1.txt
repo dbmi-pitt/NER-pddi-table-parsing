@@ -1,0 +1,74 @@
+<table width="85%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2.  Mean (CI) change in QTc from baseline to steady state (Day 4 of dosing) at T<sub>max</sub> (relative to placebo) </caption>
+<col align="left" valign="middle" width="15%"></col>
+<col align="left " valign="middle" width="5%"></col>
+<col align="left" valign="middle" width="20%"></col>
+<col align="left" valign="middle" width="20%"></col>
+<col align="left" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule">Drug/Dose</th>
+<th stylecode="Lrule">N</th>
+<th stylecode="Lrule">QTcF<br/> (msec) <br/>(manual)</th>
+<th stylecode="Lrule">QTcF<br/>(msec)<br/>(machine)</th>
+<th stylecode="Lrule">QTcP<br/>(msec)<br/>(manual) </th>
+<th stylecode="Lrule Rrule">QTcP<br/>(msec) <br/>(machine)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="LruleToprule">Tolterodine</td>
+<td stylecode="LruleToprule">48</td>
+<td stylecode="LruleToprule">5.01</td>
+<td stylecode="LruleToprule">1.16</td>
+<td stylecode="LruleToprule">4.45</td>
+<td stylecode="LruleRrule">2.00</td>
+</tr>
+<tr>
+<td stylecode="Lrule">2 mg BID<footnote id="FootnoteE">At Tmax of 1 hr; 95% Confidence Interval</footnote>
+</td>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule">(0.28, 9.74)</td>
+<td stylecode="Lrule">(-2.99, 5.30) </td>
+<td stylecode="Lrule">(-0.37, 9.26) </td>
+<td stylecode="Lrule Rrule">(-1.81, 5.81) </td>
+</tr>
+<tr>
+<td stylecode="LruleToprule">Tolterodine</td>
+<td stylecode="LruleToprule">48</td>
+<td stylecode="LruleToprule">11.84</td>
+<td stylecode="LruleToprule"> 5.63</td>
+<td stylecode="LruleToprule">10.31</td>
+<td stylecode="Lrule Toprule Rrule">8.34</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">4 mg BID<footnoteref idref="FootnoteE"></footnoteref>
+</td>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule">(7.11, 16.58)</td>
+<td stylecode="Lrule">(1.48, 9.77)</td>
+<td stylecode="Lrule">(5.49, 15.12) </td>
+<td stylecode="Lrule Rrule">(4.53, 12.15)</td>
+</tr>
+<tr>
+<td stylecode="LruleToprule">Moxifloxacin </td>
+<td stylecode="LruleToprule">45</td>
+<td stylecode="LruleToprule">19.26<footnote id="FootnoteG">The effect on QT interval with 4 days of moxifloxacin dosing in this QT trial may be greater than typically observed in QT trials of other drugs</footnote>
+</td>
+<td stylecode="LruleToprule">8.90 </td>
+<td stylecode="LruleToprule">19.10<footnoteref idref="FootnoteG"></footnoteref>
+</td>
+<td stylecode="Lrule Rrule">9.29</td>
+</tr>
+<tr>
+<td stylecode="Lrule">400 mg QD<footnote id="FootnoteF">At Tmax of 2 hr; 90% Confidence Interval</footnote>
+</td>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule">(15.49, 23.03)</td>
+<td stylecode="Lrule">(4.77, 13.03) </td>
+<td stylecode="Lrule">(15.32, 22.89) </td>
+<td stylecode="Lrule Rrule">(5.34, 13.24)</td>
+</tr>
+</tbody>
+</table>

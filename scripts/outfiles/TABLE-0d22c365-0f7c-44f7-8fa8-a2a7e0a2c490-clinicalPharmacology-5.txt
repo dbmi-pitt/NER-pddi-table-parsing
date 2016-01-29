@@ -1,0 +1,42 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2: Acceptable Quality Control Ranges for Susceptibility Testing</caption>
+<col align="left" valign="middle" width="33%"></col>
+<col align="center" valign="top" width="34%"></col>
+<col align="center" valign="top" width="33%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th>Quality Control Organism</th>
+<th>Minimum Inhibitory Concentrations (mcg/mL)</th>
+<th align="left">Disk Diffusion (zone diameters in mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC<footnote>ATCC = American Type Culture Collection</footnote> 25923</td>
+<td valign="middle">Not Applicable</td>
+<td valign="middle">21–26</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 29213</td>
+<td valign="middle">0.5–2</td>
+<td valign="middle">Not Applicable</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Haemophilus Influenzae </content>
+<br/>ATCC 49247</td>
+<td valign="middle">1.0–4.0</td>
+<td valign="middle">13–21</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Streptococcus pneumoniae </content>ATCC 49619</td>
+<td valign="middle">0.06–0.25</td>
+<td valign="middle">19–25</td>
+</tr>
+</tbody>
+</table>

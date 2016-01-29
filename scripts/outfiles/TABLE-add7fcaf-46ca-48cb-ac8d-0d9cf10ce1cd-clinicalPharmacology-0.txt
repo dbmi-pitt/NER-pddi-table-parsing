@@ -1,0 +1,88 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Dose</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">200 mg (2.8 mg/kg) <br/> in Adults</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">10 mg/kg in<br/> Febrile Children</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Formulation</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Suspension</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Suspension</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Number of Patients</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 24</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">18</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> AUC<sub>inf </sub>(mcg•h/mL)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 64</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 155</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> (27%)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> (24%)</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> C<sub>max</sub> (mcg/mL)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">19</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">55</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> (22%)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> (23%)</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> T<sub>max </sub>(h)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.79 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.97</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> (69%)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> (57%)</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Cl/F (mL/h/kg)<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph> 45.6</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">68.6 </td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">(22%)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  (22%)</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Legend:</content>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     "> AUC<sub>inf</sub> = Area-under-the-curve to infinity</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     "> T<sub>max</sub> = Time-to-peak plasma concentration</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     "> C<sub>max</sub> = Peak plasma concentration</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Cl/F = Clearance divided by fraction at drug absorbed</td>
+</tr>
+</tbody>
+</table>

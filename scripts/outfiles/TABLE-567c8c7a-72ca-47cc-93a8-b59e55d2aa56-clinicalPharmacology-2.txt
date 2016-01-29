@@ -1,0 +1,27 @@
+<table id="ID80" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="56%"></col>
+<col width="44%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Organism<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Zone </content>
+<content stylecode="bold">diameter </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mm</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">E. coli ATCC 25922<br/>N. gonorrhoeae ATCC 49226
+                                          <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">23-27<br/>37-45<br/>
+</td>
+</tr>
+</tbody>
+</table>

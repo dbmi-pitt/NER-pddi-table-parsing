@@ -1,0 +1,42 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="center"></col>
+<col align="center"></col>
+<col align="center"></col>
+<thead>
+<tr>
+<th colspan="3" stylecode="Lrule Botrule Rrule">Mean Peak Pharmacodynamic Parameters (SD) in Pediatric and Adolescent Diabetes Insipidus Patients</th>
+</tr>
+<tr>
+<th stylecode="Lrule" valign="top">Treatment</th>
+<th stylecode="Lrule">Urine Volume in mL/min</th>
+<th stylecode="Lrule Rrule">Maximum Urine Osmolality in mOsm/kg</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3">(SD) = Standard Deviation</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule Botrule">0.01 mg IN</td>
+<td stylecode="Lrule Botrule">0.3 (0.15)</td>
+<td stylecode="Lrule Botrule Rrule">717.0 (224.63)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">0.02 mg IN</td>
+<td stylecode="Lrule Botrule">0.3 (0.25)</td>
+<td stylecode="Lrule Botrule Rrule">761.8 (298.82)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">0.2 mg PO</td>
+<td stylecode="Lrule Botrule">0.3 (0.12)</td>
+<td stylecode="Lrule Botrule Rrule">678.3 (147.91)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">0.4 mg PO</td>
+<td stylecode="Lrule Botrule">0.2 (0.15)</td>
+<td stylecode="Lrule Botrule Rrule">787.2 (73.34)</td>
+</tr>
+</tbody>
+</table>

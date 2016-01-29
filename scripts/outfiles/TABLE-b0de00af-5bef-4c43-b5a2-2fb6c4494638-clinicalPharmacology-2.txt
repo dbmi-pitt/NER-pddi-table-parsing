@@ -1,0 +1,149 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="21%"></col>
+<col width="14%"></col>
+<col width="22%"></col>
+<col width="14%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph> </paragraph>
+</td>
+<td stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Repaglinide</content>
+</paragraph>
+</td>
+<td stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Combination</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Metformin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>N</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>28</item>
+</list>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>27</item>
+</list>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>27</item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Median Final Dose </paragraph>
+<paragraph>(mg/day)</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>12</item>
+</list>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>6 (repaglinide)</item>
+<item>
+<caption> </caption>1500 (metformin)</item>
+</list>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>1500</item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>HbA<sub>1c</sub> (% units)</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>-0.38</item>
+</list>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>-1.41<footnote id="_Ref361838496">P &lt;0.05, for pairwise comparisons with repaglinide and metformin.</footnote>
+</item>
+</list>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>-0.33</item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>FPG (mg/dL)</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>8.8</item>
+</list>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>-39.2<footnoteref idref="_Ref361838496"></footnoteref>
+</item>
+</list>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>-4.5</item>
+</list>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>Weight (kg)</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>3</item>
+</list>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>2.4<footnote id="_Ref361838616">P &lt;0.05, for pairwise comparison with metformin.</footnote>
+</item>
+</list>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>-0.90</item>
+</list>
+</td>
+</tr>
+</tbody>
+</table>

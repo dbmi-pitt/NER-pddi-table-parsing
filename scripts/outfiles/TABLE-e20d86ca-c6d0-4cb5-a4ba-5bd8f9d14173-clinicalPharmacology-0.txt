@@ -1,0 +1,174 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>MEAN (CV%) PK PARAMETER</caption>
+<col align="left" span="1" width="20%"></col>
+<col align="center" span="1" width="10%"></col>
+<col align="center" span="1" width="10%"></col>
+<col align="center" span="1" width="10%"></col>
+<col align="center" span="1" width="10%"></col>
+<col align="center" span="1" width="10%"></col>
+<col align="center" span="1" width="11%"></col>
+<col align="center" span="1" width="8%"></col>
+<col align="center" span="1" width="11%"></col>
+<tbody>
+<tr>
+<th colspan="1">
+<br/>
+<br/>
+<content stylecode="underline">DOSE/DOSAGE FORM<br/>(serum, except as indicated)</content>
+</th>
+<th colspan="1">
+<br/>
+<br/>
+<content stylecode="underline">Subjects</content>
+</th>
+<th colspan="1">
+<br/>
+<br/>
+<content stylecode="underline">Day No.</content>
+</th>
+<th colspan="1">
+<br/>C<sub>max</sub>
+<br/>
+<content stylecode="underline">(µg/mL)</content>
+</th>
+<th colspan="1">
+<br/>T<sub>max</sub>
+<br/>
+<content stylecode="underline">(hr)</content>
+</th>
+<th colspan="1">
+<br/>C<sub>24</sub>
+<br/>
+<content stylecode="underline">(µg/mL)</content>
+</th>
+<th colspan="1">
+<br/>AUC<br/>
+<content stylecode="underline">(µg∙hr/mL)</content>
+</th>
+<th colspan="1">
+<br/>T<sub>½</sub>
+<br/>
+<content stylecode="underline">(hr)</content>
+</th>
+<th colspan="1">Urinary<br/>Excretion<br/>
+<content stylecode="underline">(% of dose)</content>
+</th>
+</tr>
+<tr>
+<td>500 mg/250 mg capsule</td>
+<td>12</td>
+<td>Day 1</td>
+<td>0.41</td>
+<td>2.5</td>
+<td>0.05</td>
+<td>2.6<linkhtml href="#footnote-1">*</linkhtml>
+</td>
+<td>–</td>
+<td>4.5</td>
+</tr>
+<tr>
+<td>  and 250 mg on Days 2–5</td>
+<td>12</td>
+<td>Day 5</td>
+<td>0.24</td>
+<td>3.2</td>
+<td>0.05</td>
+<td>2.1<footnoteref idref="table1foot1"></footnoteref>
+</td>
+<td>–</td>
+<td>6.5</td>
+</tr>
+<tr>
+<td>1200 mg/600 mg tablets</td>
+<td>12</td>
+<td>Day 1</td>
+<td>0.66</td>
+<td>2.5</td>
+<td>0.074</td>
+<td>6.8<linkhtml href="#footnote-2">†</linkhtml>
+</td>
+<td>40</td>
+<td>–</td>
+</tr>
+<tr>
+<td>%CV</td>
+<td>  </td>
+<td>  </td>
+<td>(62%)</td>
+<td>(79%)</td>
+<td>(49%)</td>
+<td>(64%)</td>
+<td>(33%)</td>
+<td>  </td>
+</tr>
+<tr>
+<td>600 mg tablet/day</td>
+<td>7</td>
+<td>1</td>
+<td>0.33</td>
+<td>2.0</td>
+<td>0.039</td>
+<td>2.4<footnoteref idref="table1foot1"></footnoteref>
+</td>
+<td>  </td>
+<td>  </td>
+</tr>
+<tr>
+<td>%CV</td>
+<td></td>
+<td></td>
+<td>25%</td>
+<td>(50%)</td>
+<td>(36%)</td>
+<td>(19%)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>7</td>
+<td>22</td>
+<td>0.55</td>
+<td>2.1</td>
+<td>0.14</td>
+<td>5.8<footnoteref idref="table1foot1"></footnoteref>
+</td>
+<td>84.5</td>
+<td>-</td>
+</tr>
+<tr>
+<td>%CV</td>
+<td></td>
+<td></td>
+<td>(18%)</td>
+<td>(52%)</td>
+<td>(26%)</td>
+<td>(25%)</td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>600 mg tablet/day (leukocytes)</td>
+<td>7</td>
+<td>22</td>
+<td>252</td>
+<td>10.9</td>
+<td>146</td>
+<td>4763<footnoteref idref="table1foot1"></footnoteref>
+</td>
+<td>82.8</td>
+<td>-</td>
+</tr>
+<tr>
+<td>%CV</td>
+<td></td>
+<td></td>
+<td>(49%)</td>
+<td>(28%)</td>
+<td>(33%)</td>
+<td>(42%)</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>

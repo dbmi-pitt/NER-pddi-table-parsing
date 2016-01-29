@@ -1,0 +1,183 @@
+<table width=" 644px" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7: Susceptibility Interpretive Criteria for Piperacillin/Tazobactam</caption>
+<tbody>
+<tr>
+<td align="center" colspan="8" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">                                                    Susceptibility Test Result Interpretive Criteria</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="bottom"> 
+                <paragraph>Pathogen</paragraph>
+<paragraph> </paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Lrule Rrule Toprule Botrule" valign="bottom"> Minimal Inhibitory<br/>
+                Concentration<br/>
+                (MIC in mcg/mL)</td>
+<td align="center" colspan="4" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>Disk Diffusion<br/>
+                (Zone Diameter in mm)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>S</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>I</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>R</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>S</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>I</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>R</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Enterobacteriaceae </content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≤ 16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>32 to 64</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≥ 128</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≥ 21</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>18 to 20</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≤ 17</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Acinetobacter baumannii </content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≤ 16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>32 to 64</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≥ 128</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≥ 21</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>18 to 20</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≤ 17</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Haemophilus influenzae</content>
+</content>
+<sup>a</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≤ 1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≥ 2</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≥ 21</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Pseudomonas aeruginosa </content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≤ 16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>32 to 64</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≥ 128</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≥ 21</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>15 to 20</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≤ 14</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Bacteroides fragilis group </content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≤ 32</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>64</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>≥ 128</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>-</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

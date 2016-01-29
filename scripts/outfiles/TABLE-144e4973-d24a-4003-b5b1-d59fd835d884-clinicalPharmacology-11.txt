@@ -1,0 +1,102 @@
+<table id="id_b4f75f8c-2cac-4a63-82f0-9f7cf5e11e8e" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="42%"></col>
+<col width="58%"></col>
+<tfoot id="id_936e6381-c974-4418-a29f-0cdb7f59ba63">
+<tr>
+<td align="left" colspan="2" valign="top">
+<paragraph>i These are tentative breakpoints for the agar dilution methodology, and they should not be used to interpret results obtained using alternative methods.<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" stylecode="Lrule Botrule" valign="top">
+<paragraph>j There were not enough organisms with MICs &gt; 0.25 mcg/mL to determine a resistance breakpoint.<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_daae8ec3-a779-47ce-b589-6fcb06482200">
+<td align="left" stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold"> </content>
+<content stylecode="bold">Clarithromycin </content>
+<content stylecode="bold">MIC </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mcg</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">mL</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<sup>i</sup>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr id="id_a966cc78-a3c2-4cff-8977-07be08651cca">
+<td align="left" valign="top">&lt; 0.25<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">Susceptible (S)<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr id="id_72d39fa0-c387-438b-a978-197715bc8239">
+<td align="left" valign="top">0.5 - 1.0<br/>
+</td>
+<td align="center" valign="top">Intermediate (I)<br/>
+</td>
+</tr>
+<tr id="id_82997c7f-786d-4001-981b-1234affe814f">
+<td align="left" stylecode="Botrule" valign="top">&gt; 2.0<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">Resistant (R)<br/>
+</td>
+</tr>
+<tr id="id_4e9ecd51-0b1c-4e00-83ca-6b6ef4a2b744">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="bold"> </content>
+<content stylecode="bold">Amoxicillin </content>
+<content stylecode="bold">MIC </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mcg</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">mL</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<sup>i</sup>
+</content>
+<content stylecode="bold">
+<sup>,</sup>
+</content>
+<content stylecode="bold">
+<sup>j</sup>
+</content>
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+<br/>
+</td>
+</tr>
+<tr id="id_a770b978-1139-43c3-a259-b7ed09d9d77f">
+<td align="left" stylecode="Botrule" valign="top">&lt; 0.25<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">Susceptible (S)<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+</tbody>
+</table>

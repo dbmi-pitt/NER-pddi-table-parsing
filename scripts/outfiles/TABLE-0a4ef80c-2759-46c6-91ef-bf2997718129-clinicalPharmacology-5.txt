@@ -1,0 +1,36 @@
+<table id="table_6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="50%"></col>
+<col span="1" width="49%"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Susceptibility Test Interpretive Criteria for <content stylecode="italics">Streptococcus pyogenes and Streptococcus pneumoniae</content>
+<sup>a</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td>
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≤ 0.25</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>0.5</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr>
+<td>≥ 1.0</td>
+<td>Resistant (R)</td>
+</tr>
+<tr>
+<td>a   These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.</td>
+</tr>
+</tbody>
+</table>

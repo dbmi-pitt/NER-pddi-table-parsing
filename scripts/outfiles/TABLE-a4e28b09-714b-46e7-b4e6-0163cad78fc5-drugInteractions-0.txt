@@ -1,0 +1,30 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Interacting Drug </content>
+<br/>
+</td>
+<td stylecode="Rrule" valign="top">
+<content stylecode="bold">Interaction </content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Warfarin <br/>
+</td>
+<td stylecode="Rrule" valign="top">Anticoagulant effect of warfarin may be enhanced.  Monitor prothrombin time/INR, watch for bleeding. (<linkhtml href="#b9f9984e-b2f5-4ca2-a502-6aabe8057ff4">6.4</linkhtml>, <linkhtml href="#f6b1f349-54cb-40fd-ada5-5c67b4185bdb">7.1</linkhtml>, <linkhtml href="#f9b0e307-baa4-4303-aa02-5a9aa970ac1b">12.3</linkhtml>) <br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Class IA and Class III antiarrhythmics: <br/>
+</td>
+<td stylecode="Rrule" valign="top">Proarrhythmic effect may be enhanced. Avoid concomitant use. (<linkhtml href="#dda9bc24-2e4e-44b1-acc7-4a5afd6c7c7b">5.3</linkhtml>, <linkhtml href="#b5fef2b1-28d9-46d4-9a63-9ccb14236f30">7.4</linkhtml>) <br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Antidiabetic agents </td>
+<td stylecode="Rrule" valign="top">Carefully monitor blood glucose. (<linkhtml href="#ad76dfb6-3a54-48d3-9b49-14f2924e3125.12">5.11</linkhtml>, <linkhtml href="#da3cb6c7-4e7e-4b78-b2d8-710680e32514.6">7.2</linkhtml>) </td>
+</tr>
+</tbody>
+</table>

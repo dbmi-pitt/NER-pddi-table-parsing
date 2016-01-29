@@ -1,0 +1,317 @@
+<table id="t8" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of OLYSIO</caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="5%"></col>
+<col align="center" valign="top" width="6%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="13%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">Co-administered Drug</th>
+<th colspan="2" stylecode="Rrule">Dose (mg) and Schedule</th>
+<th rowspan="2" stylecode="Rrule">N</th>
+<th rowspan="2" stylecode="Rrule">Effect on PK<footnote>The direction of the arrow (↑ = increase, ↓ = decrease, ↔ = no change) indicates the direction of the change in PK (i.e., AUC).</footnote>
+</th>
+<th colspan="3" stylecode="Rrule">LS Mean Ratio (90% CI) of <content stylecode="underline">Co-Administered Drug </content>PK Parameters<br/>with/without OLYSIO</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Rrule">Drug</th>
+<th stylecode="Rrule">Simeprevir</th>
+<th stylecode="Rrule">C<sub>max</sub>
+</th>
+<th stylecode="Rrule">AUC</th>
+<th stylecode="Rrule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="8">CI = Confidence Interval; i.v.= intravenous; N = number of subjects with data; NA = not available; PK = pharmacokinetics; LS = least square; q.d. = once daily; b.i.d. = twice daily; t.i.d. = three times a day</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atorvastatin<br/>
+<br/>2-hydroxy-atorvastatin</td>
+<td stylecode="Rrule">40 mg single dose</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 10 days</td>
+<td stylecode="Rrule">18</td>
+<td stylecode="Rrule">↑<br/>
+<br/>↑</td>
+<td stylecode="Rrule">1.70<br/>(1.42–2.04)<br/>1.98<br/>(1.70–2.31)</td>
+<td stylecode="Rrule">2.12<br/>(1.72–2.62)<br/>2.29<br/>(2.08–2.52)</td>
+<td stylecode="Rrule">NA<br/>
+<br/>NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Caffeine</td>
+<td stylecode="Rrule">150 mg</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 11 days</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.12<br/>(1.06–1.19)</td>
+<td stylecode="Rrule">1.26<br/>(1.21–1.32)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Cyclosporine</td>
+<td stylecode="Rrule">100 mg single dose</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.16<br/>(1.07–1.26)</td>
+<td stylecode="Rrule">1.19<br/>(1.13–1.26)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Dextromethorphan<br/>
+<br/>Dextrorphan</td>
+<td stylecode="Rrule">30 mg</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 11 days</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑<br/>
+<br/>↔</td>
+<td stylecode="Rrule">1.21<br/>(0.93–1.57)<br/>1.03<br/>(0.93–1.15)</td>
+<td stylecode="Rrule">1.08<br/>(0.87–1.35)<br/>1.09<br/>(1.03–1.15)</td>
+<td stylecode="Rrule">NA<br/>
+<br/>NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Digoxin</td>
+<td stylecode="Rrule">0.25 mg single dose</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.31<br/>(1.14–1.51)</td>
+<td stylecode="Rrule">1.39<br/>(1.16–1.67)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Erythromycin</td>
+<td stylecode="Rrule">500 mg t.i.d.<br/>for 7 days</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">24</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.59<br/>(1.23–2.05)</td>
+<td stylecode="Rrule">1.90<br/>(1.53–2.36)</td>
+<td stylecode="Rrule">3.08<br/>(2.54–3.73)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Escitalopram</td>
+<td stylecode="Rrule">10 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">17</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.03<br/>(0.99–1.07)</td>
+<td stylecode="Rrule">1.00<br/>(0.97–1.03)</td>
+<td stylecode="Rrule">1.00<br/>(0.95–1.05)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ethinyl estradiol (EE), co-administered with norethindrone (NE)</td>
+<td stylecode="Rrule">0.035 mg q.d. EE + 1 mg q.d. NE for 21 days</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 10 days</td>
+<td stylecode="Rrule">18</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.18<br/>(1.09–1.27)</td>
+<td stylecode="Rrule">1.12<br/>(1.05–1.20)</td>
+<td stylecode="Rrule">1.00<br/>(0.89–1.13)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Midazolam (oral)</td>
+<td stylecode="Rrule">0.075 mg/kg</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 10 days</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.31<br/>(1.19–1.45)</td>
+<td stylecode="Rrule">1.45<br/>(1.35–1.57)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Midazolam (i.v.)</td>
+<td stylecode="Rrule">0.025 mg/kg</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 11 days</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">0.78<br/>(0.52–1.17)</td>
+<td stylecode="Rrule">1.10<br/>(0.95–1.26)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">R(-) methadone<footnote>The interaction between OLYSIO and the drug was evaluated in a pharmacokinetic study in opioid-dependent adults on stable methadone maintenance therapy.</footnote>
+</td>
+<td stylecode="Rrule">30–150 mg q.d., individualised dose</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.03<br/>(0.97–1.09)</td>
+<td stylecode="Rrule">0.99<br/>(0.91–1.09)</td>
+<td stylecode="Rrule">1.02<br/>(0.93–1.12)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Norethindrone (NE), co-administered with EE</td>
+<td stylecode="Rrule">0.035 mg q.d. EE + 1 mg q.d. NE for 21 days</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 10 days</td>
+<td stylecode="Rrule">18</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.06<br/>(0.99–1.14)</td>
+<td stylecode="Rrule">1.15<br/>(1.08–1.22)</td>
+<td stylecode="Rrule">1.24<br/>(1.13–1.35)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Omeprazole</td>
+<td stylecode="Rrule">40 mg single dose</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 11 days</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.14<br/>(0.93–1.39)</td>
+<td stylecode="Rrule">1.21<br/>(1.00–1.46)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifampin<br/>
+<br/>25-desacetyl-rifampin</td>
+<td stylecode="Rrule">600 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">200 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">18<br/>
+<br/>17</td>
+<td stylecode="Rrule">↔<br/>
+<br/>↑</td>
+<td stylecode="Rrule">0.92<br/>(0.80–1.07)<br/>1.08<br/>(0.98–1.19)</td>
+<td stylecode="Rrule">1.00<br/>(0.93–1.08)<br/>1.24<br/>(1.13–1.36)</td>
+<td stylecode="Rrule">NA<br/>
+<br/>NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rosuvastatin</td>
+<td stylecode="Rrule">10 mg single dose</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">3.17<br/>(2.57–3.91)</td>
+<td stylecode="Rrule">2.81<br/>(2.34–3.37)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Simvastatin<br/>
+<br/>Simvastatin acid</td>
+<td stylecode="Rrule">40 mg single dose</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 10 days</td>
+<td stylecode="Rrule">18</td>
+<td stylecode="Rrule">↑<br/>
+<br/>↑</td>
+<td stylecode="Rrule">1.46<br/>(1.17–1.82)<br/>3.03<br/>(2.49–3.69)</td>
+<td stylecode="Rrule">1.51<br/>(1.32–1.73)<br/>1.88<br/>(1.63–2.17)</td>
+<td stylecode="Rrule">NA<br/>
+<br/>NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Tacrolimus</td>
+<td stylecode="Rrule">2 mg single dose</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.76<br/>(0.65–0.90)</td>
+<td stylecode="Rrule">0.83<br/>(0.59–1.16)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">S-Warfarin</td>
+<td stylecode="Rrule">10 mg single dose</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 11 days</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.00<br/>(0.94–1.06)</td>
+<td stylecode="Rrule">1.04<br/>(1.00–1.07)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="8" stylecode="Lrule Rrule">
+<content stylecode="bold">Anti-HCV Drug</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Sofosbuvir<footnote>Comparison based on historic controls. The interaction between simeprevir and sofosbuvir was evaluated in a pharmacokinetic substudy within a Phase 2 trial.</footnote>
+<br/>
+<br/>GS-331007<footnote>Primary circulating metabolite of sofosbuvir.</footnote>
+</td>
+<td stylecode="Rrule">400 mg q.d.</td>
+<td stylecode="Rrule">150 mg q.d.</td>
+<td stylecode="Rrule">22</td>
+<td stylecode="Rrule">↑<br/>
+<br/>↔</td>
+<td stylecode="Rrule">1.91<br/>(1.26–2.90)<br/>0.69<br/>(0.52–0.93)</td>
+<td stylecode="Rrule">3.16<br/>(2.25–4.44)<br/>1.09<br/>(0.87–1.37)</td>
+<td stylecode="Rrule">NA<br/>
+<br/>NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="8" stylecode="Lrule Rrule">
+<content stylecode="bold">Anti-HIV Drugs</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule">Darunavir<footnote id="ft8.1">The dose of OLYSIO in this interaction study was 50 mg when co-administered in combination with darunavir/ritonavir which is lower than the recommended 150 mg dose.</footnote>
+<br/>
+<br/>
+<br/>Ritonavir<footnoteref idref="ft8.1"></footnoteref>
+</td>
+<td stylecode="Rrule">800 mg q.d.<br/>for 7 days</td>
+<td rowspan="2" stylecode="Rrule">50 mg q.d.<br/>for 7 days</td>
+<td rowspan="2" stylecode="Rrule">25</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.04<br/>(0.99–1.10)</td>
+<td stylecode="Rrule">1.18<br/>(1.11–1.25)</td>
+<td stylecode="Rrule">1.31<br/>(1.13–1.52)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule">100 mg q.d. for 7 days</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.23<br/>(1.44–1.32)</td>
+<td stylecode="Rrule">1.32<br/>(1.25–1.40)</td>
+<td stylecode="Rrule">1.44<br/>(1.30–1.61)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Efavirenz</td>
+<td stylecode="Rrule">600 mg q.d.<br/>for 14 days</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 14 days</td>
+<td stylecode="Rrule">23</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">0.97<br/>(0.89–1.06)</td>
+<td stylecode="Rrule">0.90<br/>(0.85–0.95)</td>
+<td stylecode="Rrule">0.87<br/>(0.81–0.93)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Raltegravir</td>
+<td stylecode="Rrule">400 mg b.i.d.<br/>for 7 days</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">24</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.03<br/>(0.78–1.36)</td>
+<td stylecode="Rrule">1.08<br/>(0.85–1.38)</td>
+<td stylecode="Rrule">1.14<br/>(0.97–1.36)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rilpivirine</td>
+<td stylecode="Rrule">25 mg q.d.<br/>for 11 days</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 11 days</td>
+<td stylecode="Rrule">23</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.04<br/>(0.95–1.13)</td>
+<td stylecode="Rrule">1.12<br/>(1.05–1.19)</td>
+<td stylecode="Rrule">1.25<br/>(1.16–1.35)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Tenofovir disoproxil fumarate</td>
+<td stylecode="Rrule">300 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">150 mg q.d.<br/>for 7 days</td>
+<td stylecode="Rrule">24</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.19<br/>(1.10–1.30)</td>
+<td stylecode="Rrule">1.18<br/>(1.13–1.24)</td>
+<td stylecode="Rrule">1.24<br/>(1.15–1.33)</td>
+</tr>
+</tbody>
+</table>

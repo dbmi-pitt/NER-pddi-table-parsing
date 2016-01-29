@@ -1,0 +1,74 @@
+<table id="t7" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_f8d16b05-35a2-4d41-8b89-34f9b4b6445d">Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Emtricitabine in the Presence of the Coadministered Drug<footnote id="idae3upd">All interaction trials conducted in healthy volunteers</footnote>
+</caption>
+<col align="left" width="17%"></col>
+<col align="center" width="17%"></col>
+<col align="center" width="17%"></col>
+<col align="center" width="5%"></col>
+<col align="center" width="14%"></col>
+<col align="center" width="14%"></col>
+<col align="center" width="16%"></col>
+<thead>
+<tr id="id_ec03bb47-68ac-4a21-8196-4416689542fb" stylecode="Toprule">
+<td align="center" rowspan="2" stylecode="Lrule Botrule Rrule" valign="top">Coadministered Drug</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">Dose of Coadministered Drug (mg)</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">Emtricitabine Dose (mg)</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">N</td>
+<td align="left" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">% Change of Emtricitabine Pharmacokinetic<br/>Parameters<footnote id="idah5upd">↑ = Increase; ↓ = Decrease; ⇔ = No Effect; NA = Not Applicable</footnote> (90% CI)</td>
+</tr>
+<tr id="id_009ef053-6517-4666-8f02-04705afdae60" stylecode="Botrule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">C<sub>max</sub>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">AUC</td>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">C<sub>min</sub>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_6494f1ee-45ee-4af5-8204-6e63b0ec69c5" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Tenofovir DF</td>
+<td align="left" stylecode="Rrule" valign="top">300 once daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">200 once daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">17</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 20<br/>(↑ 12 to ↑ 29)</td>
+</tr>
+<tr id="id_006f9967-b28c-41b0-91e7-aa133f1a91e6">
+<td align="left" stylecode="Lrule Rrule" valign="top">Zidovudine</td>
+<td align="left" stylecode="Rrule" valign="top">300 twice daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">200 once daily × 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">27</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+</tr>
+<tr id="id_3e4a96f9-93e1-4eb0-8d36-fa29b1a58bda">
+<td align="left" stylecode="Lrule Rrule" valign="top">Indinavir</td>
+<td align="left" stylecode="Rrule" valign="top">800 × 1</td>
+<td align="left" stylecode="Rrule" valign="top">200 × 1</td>
+<td align="left" stylecode="Rrule" valign="top">12</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">NA</td>
+</tr>
+<tr id="id_2a3de56d-44ed-4d7f-8746-9bf84d5d4691">
+<td align="left" stylecode="Lrule Rrule" valign="top">Famciclovir</td>
+<td align="left" stylecode="Rrule" valign="top">500 × 1</td>
+<td align="left" stylecode="Rrule" valign="top">200 × 1</td>
+<td align="left" stylecode="Rrule" valign="top">12</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">NA</td>
+</tr>
+<tr id="id_1edf185e-0d61-4630-abc1-0972e463ae27" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Stavudine</td>
+<td align="left" stylecode="Rrule" valign="top">40 × 1</td>
+<td align="left" stylecode="Rrule" valign="top">200 × 1</td>
+<td align="left" stylecode="Rrule" valign="top">6</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">⇔</td>
+<td align="left" stylecode="Rrule" valign="top">NA</td>
+</tr>
+</tbody>
+</table>

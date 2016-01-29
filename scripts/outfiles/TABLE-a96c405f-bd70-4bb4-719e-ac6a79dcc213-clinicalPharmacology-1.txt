@@ -1,0 +1,124 @@
+<table width=" 98%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Acceptable Quality Control Ranges for Erythromycin</caption>
+<tbody>
+<tr>
+<td align="left" rowspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">QC Strain</content>
+</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Acceptable Quality Control Ranges</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Minimum Inhibitory <br/>
+                Concentration (mcg/mL)</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Disk Diffusion<br/>
+</content>
+</content>
+<content stylecode="bold">
+<content stylecode="emphasis">(zone diameter in mm)</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Enterococcus faecalis <br/>
+</content>
+</content>ATCC 29212</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>1 to 4</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>NA<sup>a</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Staphylococcus aureus</content>
+</content> <br/>
+                ATCC 29213</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>0.25 to 1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>NA</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Staphylococcus aureus</content>
+</content> <br/>
+                ATCC 25923</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>NA</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>22 to 30</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Streptococcus pneumoniae <br/>
+</content>
+</content>ATCC 49619<sup>b</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>0.03 to 0.12<sup>c</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>25 to 30<sup>d</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Lrule Rrule Toprule Botrule">
+<paragraph>
+<sup>a       </sup>not applicable</paragraph>
+<paragraph>
+<sup>b       </sup>This organism may be used for validation of susceptibility test results when testing <content stylecode="italics">
+<content stylecode="emphasis">Streptococcus</content>
+</content> spp. other than <content stylecode="italics">
+<content stylecode="emphasis">S. pneumoniae</content>
+</content>.</paragraph>
+<paragraph>
+<sup>c       </sup>This quality control range for <content stylecode="italics">
+<content stylecode="emphasis">S. pneumoniae</content>
+</content> is applicable only to tests performed by broth microdilution using cation-adjusted Mueller-Hinton broth supplemented with 2 to 5% lysed horse blood inoculated with a direct colony suspension and incubated in ambient air at 35 ± 2°C for 20 to 24 hours.</paragraph>
+<paragraph>
+<sup>d       </sup>This quality control zone diameter range is applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood inoculated with a direct colony suspension and incubated in 5% CO<sub>2</sub> at 35 ± 2°C for 20 to 24 hours.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

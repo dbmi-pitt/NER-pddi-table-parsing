@@ -1,0 +1,71 @@
+<table border="1" id="id_ffbb6943-450d-4ccd-b810-394bd0ae49cc" width="343" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="38.8%"></col>
+<col span="1" width="27.1%"></col>
+<col span="1" width="34.1%"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="underline">
+<content stylecode="bold">Microorganism</content>
+</content>
+</td>
+<td></td>
+<td>
+<content stylecode="bold">
+<content stylecode="underline">MIC</content>
+</content>
+<content stylecode="bold">
+<content stylecode="underline">Range</content>
+</content>
+<content stylecode="bold">
+<content stylecode="underline"> (mcg/mL)</content>
+</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td>ATCC 25922</td>
+<td>0.015 to 0.12</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td>ATCC 49247<sup>d</sup>
+</td>
+<td>0.016 to 0.06</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+</td>
+<td>ATCC 49226<sup>e</sup>
+</td>
+<td>0.004 to 0.016</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td>ATCC 27853</td>
+<td>1 to 8</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td>ATCC 29213</td>
+<td>0.12 to 1</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td>ATCC 49619<sup>f</sup>
+</td>
+<td>1 to 4</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,18 @@
+<table id="djdjd" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="center" stylecode="Lrule">
+<content stylecode="underline">MIC ( mcg /mL)</content>
+</td>
+<td align="center" stylecode="Lrule Rrule">
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" stylecode="Lrule">≤0.12</td>
+<td align="center" stylecode="Lrule Rrule">(S) Susceptible</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,39 @@
+<table id="ID15" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50%"></col>
+<col width="50%"></col>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="underline">MIC </content>
+<content stylecode="underline">(</content>
+<content stylecode="underline">mcg</content>
+<content stylecode="underline">/</content>
+<content stylecode="underline">mL</content>
+<content stylecode="underline">)</content>
+<br/>
+</td>
+<td align="left" valign="middle">
+<content stylecode="underline">Interpretation</content>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">≤ 1<br/>
+</td>
+<td align="left" valign="middle">(S) Susceptible<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">2<br/>
+</td>
+<td align="left" valign="middle">(I) Intermediate<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">≥ 4<br/>
+</td>
+<td align="left" valign="middle">(R) Resistant<br/>
+</td>
+</tr>
+</tbody>
+</table>

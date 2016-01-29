@@ -1,0 +1,37 @@
+<table border="0" cellpadding="0" cellspacing="0" id="i327d8478-3426-4b43-8521-90280ac5a621" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th align="center" stylecode="Lrule Rrule Toprule">Zone Diameter (mm)</th>
+<th align="center" stylecode="Lrule Rrule Toprule">Interpretation</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="2">
+<sup>d</sup> Because certain strains of <content stylecode="italics">Citrobacter, Providencia, </content>and<content stylecode="italics"> Enterobacter </content>spp. have been reported to give false susceptible results with the cefdinir disk, strains of these genera should not be tested and reported with this disk.<br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">≥20<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Susceptible (S)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">17-19<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Intermediate (I)<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule" valign="top">≤16<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Resistant (R)<br/>
+</td>
+</tr>
+</tbody>
+</table>

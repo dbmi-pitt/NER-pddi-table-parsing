@@ -1,0 +1,190 @@
+<table id="_RefID29C6525F420F489AA77C6E0E544B8217" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Susceptibility Test Interpretive Criteria for Vancomycin </caption>
+<col width="17%"></col>
+<col width="13%"></col>
+<col width="15%"></col>
+<col width="11%"></col>
+<col width="13%"></col>
+<col width="15%"></col>
+<col width="11%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Toprule " valign="top"></td>
+<td align="center" colspan="3" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Disk Diffusion Diameters (mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Pathogen</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Susceptible (S)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Intermediate (I)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Resistant (R)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Susceptible (S)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Intermediate (I)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Resistant (R)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Enterococci *</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>≤ 4</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>8 - 16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>≥ 32</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>≥ 17<sup>†</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>15 - 16<sup>†</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>≤14<sup>†</sup>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>≤ 2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>4 - 8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>≥16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Coagulase-negative staphylococci</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>≤ 4</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>8 - 16</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>≥ 32</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>Streptococci other than <content stylecode="italics">S.pneumoniae</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>≤ 1<sup>‡,§</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>≥ 17 <sup>‡,¶ </sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Rrule Botrule Lrule " valign="top">
+<list listtype="unordered">
+<item>
+<caption> </caption>
+<content stylecode="italics">*</content>A ß-lactamase test using an inoculum ≥ 10<sup>7</sup> CFU/mL or direct colony growth and a nitrocefin-based substrate should be performed to detect either ampicillin or penicillin resistance due to ß-lactamase production.</item>
+<item>
+<caption> </caption>
+<sup>†</sup>Plates should be held for a full 24 hours and examined using transmitted light. The presence of a haze or any growth within the zone of inhibition indicates resistance. Those enterococci with intermediate zones of inhibition should be tested by a standardized procedure based on a dilution method<sup>1</sup>
+<sup>,2</sup> (broth or agar) or equivalent.</item>
+<item>
+<caption> </caption>
+<sup>‡ </sup>The current absence of resistant isolates precludes defining results other than "Susceptible". Isolates yielding results suggestive of "Nonsusceptible" should be submitted to a reference laboratory for further testing.</item>
+<item>
+<caption> </caption>
+<sup>§</sup>Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.<sup>1,2</sup>
+</item>
+<item>
+<caption> </caption>
+<sup>¶</sup>Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO<sub>2 </sub>
+<sup>3</sup>
+<sub>.</sub>
+</item>
+</list>
+</td>
+</tr>
+</tbody>
+</table>

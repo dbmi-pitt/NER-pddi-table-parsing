@@ -1,0 +1,13 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><col align="left" valign="bottom" width="20%"></col>
+<col align="left" valign="bottom" width="40%"></col>
+<col align="left" valign="bottom" width="40%"></col>
+<thead>
+<tr><th stylecode="Lrule">Dose<br/>(mg)</th><th>Maximum Serum<br/>Concentration<br/>(µg/mL)</th><th stylecode="Rrule">Area Under Curve<br/>(AUC)<br/>(µg∙hr/mL)</th></tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule"><td stylecode="Lrule">250</td><td>1.2</td><td stylecode="Rrule">4.8</td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule">500</td><td>2.4</td><td stylecode="Rrule">11.6</td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule">750</td><td>4.3</td><td stylecode="Rrule">20.2</td></tr>
+<tr><td stylecode="Lrule">1000</td><td>5.4</td><td stylecode="Rrule">30.8</td></tr>
+</tbody>
+</table>

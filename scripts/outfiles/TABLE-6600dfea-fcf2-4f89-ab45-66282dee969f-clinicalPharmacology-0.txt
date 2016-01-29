@@ -1,0 +1,70 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Pharmacokinetic Values for Plasma Hydrodolasetron Following Intravenous Administration of              ANZEMET Injection<footnote>: mean values</footnote>
+</caption>
+<col align="left" valign="top" width="35%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule Botrule"></th>
+<th stylecode="Rrule Botrule">Age<br/> (years)</th>
+<th stylecode="Rrule Botrule">Dose</th>
+<th stylecode="Rrule Botrule">CL<sub>app</sub>
+<br/>(mL/min/kg)</th>
+<th stylecode="Rrule Botrule">t<sub>1/2</sub>
+<br/>(h)</th>
+<th stylecode="Rrule Botrule">C<sub>max</sub>
+<br/>(ng/mL)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6">CL<sub>app</sub>: apparent clearance      t<sub>1/2</sub>: terminal elimination half-life      ( ): coefficient of variation in %</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Young Healthy Volunteers (N=24)</td>
+<td stylecode="Rrule Botrule">19–40</td>
+<td stylecode="Rrule Botrule">100 mg</td>
+<td stylecode="Rrule Botrule">9.4 (28%)</td>
+<td stylecode="Rrule Botrule">7.3 (24%)</td>
+<td stylecode="Rrule Botrule">320 (25%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Elderly Healthy Volunteers (N=15)</td>
+<td stylecode="Rrule Botrule">65–75</td>
+<td stylecode="Rrule Botrule">2.4 mg/kg</td>
+<td stylecode="Rrule Botrule">8.3 (30%)</td>
+<td stylecode="Rrule Botrule">6.9 (22%)</td>
+<td stylecode="Rrule Botrule">620 (31%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Pediatric Surgery Patients (N=18)</td>
+<td stylecode="Rrule Botrule">2–11</td>
+<td stylecode="Rrule Botrule">1.2 mg/kg</td>
+<td stylecode="Rrule Botrule">13.1 (47%)</td>
+<td stylecode="Rrule Botrule">4.8 (23%)</td>
+<td stylecode="Rrule Botrule">255 (22%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Patients with Severe Renal Impairment (N=12)<br/> (Creatinine clearance ≤10 mL/min)</td>
+<td stylecode="Rrule Botrule">28–74</td>
+<td stylecode="Rrule Botrule" valign="top">200 mg</td>
+<td stylecode="Rrule Botrule">5.0 (33%)</td>
+<td stylecode="Rrule Botrule">10.9 (30%)</td>
+<td stylecode="Rrule Botrule">867 (31%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Patients with Severe Hepatic Impairment (N=3)</td>
+<td stylecode="Rrule Botrule">42–52</td>
+<td stylecode="Rrule Botrule" valign="top">150 mg</td>
+<td stylecode="Rrule Botrule">9.6 (19%)</td>
+<td stylecode="Rrule Botrule">11.7 (22%)</td>
+<td stylecode="Rrule Botrule">396 (45%)</td>
+</tr>
+</tbody>
+</table>

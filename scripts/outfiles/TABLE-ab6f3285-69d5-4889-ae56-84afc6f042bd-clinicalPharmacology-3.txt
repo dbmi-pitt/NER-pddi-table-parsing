@@ -1,0 +1,72 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="32%"></col>
+<col width="22%"></col>
+<col width="22%"></col>
+<col width="22%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="8" stylecode="Botrule" valign="top">
+<content stylecode="italics">* Reduction from baseline statistically significantly greater for high dose than low dose at p ≤ 0.05 level</content>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Toprule">
+<td align="center" colspan="4" stylecode="Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Monothrapy Study Median Incidence of CPS per 8 weeks</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Treatment</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Number of Patients</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Baseline Incidence</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Randomized <br/>Phase Incidence</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Toprule " valign="middle">
+<paragraph>High Dose Divalproex sodium delayed-release tablets</paragraph>
+</td>
+<td align="center" stylecode="Toprule " valign="middle">
+<paragraph>75</paragraph>
+</td>
+<td align="center" stylecode="Toprule " valign="middle">
+<paragraph>16.0</paragraph>
+</td>
+<td align="center" stylecode="Toprule " valign="middle">
+<paragraph>8.9*</paragraph>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" valign="middle">
+<paragraph>Low Dose Divalproex sodium delayed-release tablets</paragraph>
+</td>
+<td align="center" valign="middle">
+<paragraph>69</paragraph>
+</td>
+<td align="center" valign="middle">
+<paragraph>14.5</paragraph>
+</td>
+<td align="center" valign="middle">
+<paragraph>11.5</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

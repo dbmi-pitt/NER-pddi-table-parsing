@@ -1,0 +1,60 @@
+<table id="ID36" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>For organism other than Haemophilus spp. and Streptococcus spp.d</caption>
+<col width="53%"></col>
+<col width="47%"></col>
+<thead>
+<tr>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Zone </content>
+<content stylecode="bold">Diameters </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mm</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">Interpretation </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="2">
+<paragraph></paragraph>
+<paragraph stylecode="Footnote">
+<sup>d</sup>
+<sup></sup>Because certain strains of <content stylecode="italics">Citrobacter</content>
+<content stylecode="italics">, </content>
+<content stylecode="italics">Providencia </content>and <content stylecode="italics">Enterobacter </content>spp. Have been reported to give false results with cefdinir disk, strains of these genera should be tested and reported with this disk. <content stylecode="italics">
+<br/>
+</content>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≥20 <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Susceptible (S) <br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">17-19 <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Intermediate (I) <br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">≤16 <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Resistant (R) <br/>
+</td>
+</tr>
+</tbody>
+</table>

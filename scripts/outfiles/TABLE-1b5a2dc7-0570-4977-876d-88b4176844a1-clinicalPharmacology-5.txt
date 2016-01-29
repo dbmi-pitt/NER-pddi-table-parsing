@@ -1,0 +1,43 @@
+<table id="table9" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9: Virologic Response (Viral Load &lt; 50 HIV-1 RNA copies/mL) at Week 48 by Phenotypic Susceptibility Score in the Non-VF Excluded Population of TMC125-C206 and TMC125-C216 Trials (Pooled Analysis)</caption>
+<col align="center" valign="middle" width="34%"></col>
+<col align="center" valign="middle" width="33%"></col>
+<col align="center" valign="middle" width="33%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th stylecode="Rrule">INTELENCE<sup>®</sup> + BR<br/>N=559</th>
+<th stylecode="Rrule">Placebo + BR<br/>N=586</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">PSS</content>
+<footnote>The phenotypic susceptibility score (PSS) was defined as the total number of active antiretroviral drugs in the background therapy to which a subject's baseline viral isolate showed sensitivity in phenotypic resistance tests. Each drug in the background therapy was scored as a '1' or '0' based on whether the viral isolate was considered susceptible or resistant to that drug, respectively. In the calculation of the PSS, darunavir was counted as a sensitive antiretroviral if the FC ≤ 10; enfuvirtide was counted as a sensitive antiretroviral if it had not been used previously. INTELENCE<sup>®</sup> was not included in this calculation.</footnote>
+</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">0</td>
+<td stylecode="Rrule">43% (40/93)</td>
+<td stylecode="Rrule">5% (5/95)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">1</td>
+<td stylecode="Rrule">61% (125/206)</td>
+<td stylecode="Rrule">28% (64/226)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">2</td>
+<td stylecode="Rrule">77% (114/149)</td>
+<td stylecode="Rrule">59% (97/165)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">≥ 3</td>
+<td stylecode="Rrule">75% (83/111)</td>
+<td stylecode="Rrule">72% (72/100)</td>
+</tr>
+</tbody>
+</table>

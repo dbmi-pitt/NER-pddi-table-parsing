@@ -1,0 +1,68 @@
+<table border="single" id="id_93bc003c-8eab-44fe-803c-320fd7312788" width="533.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_b6e22bc1-ec59-44b5-ad07-ef8ba25e7b04">Table 13. Established and Other Potentially Significant Drug Interactions</caption>
+<col width="31.9%"></col>
+<col width="24.8%"></col>
+<col width="43.3%"></col>
+<tbody>
+<tr id="id_6da71d1a-519e-4843-98cc-9a82827decb7">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">Concomitant Drug </td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Effect on Concentration of Lamotrigine or Concomitant Drug</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Clinical Comment</td>
+</tr>
+<tr id="id_e82d9d74-886a-4a7f-bd2d-9b3ae2121c54">
+<td align="left" stylecode="Lrule Rrule" valign="top">Estrogen-containing oral contraceptive preparations containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel</td>
+<td align="left" stylecode="Rrule" valign="top">↓ lamotrigine</td>
+<td align="left" stylecode="Rrule" valign="top">Decreased lamotrigine levels approximately 50%.</td>
+</tr>
+<tr id="id_a4c36888-cc00-4df8-8f29-23ec4bf909be">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule Rrule" valign="top">↓ levonorgestrel</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Decrease in levonorgestrel component by 19%.</td>
+</tr>
+<tr id="id_519e51d8-563e-405a-a8ca-9655e10c9898">
+<td align="left" stylecode="Lrule Rrule" valign="top">Carbamazepine (CBZ) and CBZ epoxide</td>
+<td align="left" stylecode="Rrule" valign="top">
+<paragraph>↓ lamotrigine</paragraph>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<paragraph>Addition of carbamazepine decreases lamotrigine concentration approximately 40%.</paragraph>
+</td>
+</tr>
+<tr id="id_b0cc8b32-5dd7-40e2-a9d1-5071182304ae">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule Rrule" valign="top">? CBZ epoxide</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">May increase CBZ epoxide levels </td>
+</tr>
+<tr id="id_29f7ba77-07cb-42a3-8804-2b5adc15631c">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Phenobarbital/Primidone</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">↓ lamotrigine</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Decreased lamotrigine concentration approximately 40%.</td>
+</tr>
+<tr id="id_0daea264-2049-4450-9948-31f1e6902ab1">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Phenytoin (PHT)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>↓ lamotrigine</paragraph>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Decreased lamotrigine concentration approximately 40%.</td>
+</tr>
+<tr id="id_06c7c64d-2e6b-459c-a782-e5b31cfe7496">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Rifampin</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">↓ lamotrigine</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Decreased lamotrigine AUC approximately 40%.</td>
+</tr>
+<tr id="id_195fb787-b200-4e09-8664-4b5e2a3628cc">
+<td align="left" stylecode="Lrule Rrule" valign="top">Valproate</td>
+<td align="left" stylecode="Rrule" valign="top">
+<paragraph>↑ lamotrigine</paragraph>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<paragraph>Increased lamotrigine concentrations slightly more than 2-fold.</paragraph>
+</td>
+</tr>
+<tr id="id_c1ce1949-02c9-447a-8bec-869a3a6d9ade">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top">? valproate</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Decreased valproate concentrations an average of 25% over a 3-week period then stabilized in healthy volunteers; no change in controlled clinical trials in epilepsy patients. </td>
+</tr>
+</tbody>
+</table>

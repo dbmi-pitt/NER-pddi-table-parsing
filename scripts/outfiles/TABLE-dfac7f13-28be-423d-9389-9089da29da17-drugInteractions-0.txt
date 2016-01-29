@@ -1,0 +1,193 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="top" width="24%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="left" valign="top" width="36%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th align="left" colspan="4" stylecode="Lrule Rrule">Digoxin concentrations increased greater than 50%</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th stylecode="Rrule">Digoxin Serum Concentration Increase</th>
+<th stylecode="Rrule">Digoxin AUC Increase</th>
+<th align="center" stylecode="Rrule">Recommendations</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="4">NA – Not available/reported</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Amiodarone</td>
+<td stylecode="Rrule">70%</td>
+<td stylecode="Rrule">NA</td>
+<td rowspan="14" stylecode="Rrule Botrule">Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30 to 50% or by modifying the dosing frequency and continue monitoring.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Captopril</td>
+<td stylecode="Rrule">58%</td>
+<td stylecode="Rrule">39%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clarithromycin</td>
+<td stylecode="Rrule">NA</td>
+<td stylecode="Rrule">70%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Dronedarone</td>
+<td stylecode="Rrule">NA</td>
+<td stylecode="Rrule">150%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Gentamicin</td>
+<td stylecode="Rrule">129 to 212%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Erythromycin</td>
+<td stylecode="Rrule">100%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Itraconazole</td>
+<td stylecode="Rrule">80%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Nitrendipine</td>
+<td stylecode="Rrule">57%</td>
+<td stylecode="Rrule">15%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Propafenone</td>
+<td stylecode="Rrule">NA</td>
+<td stylecode="Rrule">60 to 270%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Quinidine</td>
+<td stylecode="Rrule">100%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ranolazine</td>
+<td stylecode="Rrule">50%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ritonavir</td>
+<td stylecode="Rrule">NA</td>
+<td stylecode="Rrule">86%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Tetracycline</td>
+<td stylecode="Rrule">100%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Verapamil</td>
+<td stylecode="Rrule">50 to 75%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="4" stylecode="Lrule Rrule">
+<content stylecode="bold">Digoxin concentrations increased less than 50%</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atorvastatin</td>
+<td stylecode="Rrule">22%</td>
+<td stylecode="Rrule">15%</td>
+<td rowspan="13" stylecode="Rrule Botrule">Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15 to 30% or by modifying the dosing frequency and continue monitoring.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Carvedilol</td>
+<td stylecode="Rrule">16%</td>
+<td stylecode="Rrule">14%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Diltiazem</td>
+<td stylecode="Rrule">20%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Indomethacin</td>
+<td stylecode="Rrule">40%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Nefazodone</td>
+<td stylecode="Rrule">27%</td>
+<td stylecode="Rrule">15%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Nifedipine</td>
+<td stylecode="Rrule">45%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Propantheline</td>
+<td stylecode="Rrule">24%</td>
+<td stylecode="Rrule">24%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Quinine</td>
+<td stylecode="Rrule">NA</td>
+<td stylecode="Rrule">33%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Saquinavir</td>
+<td stylecode="Rrule">27%</td>
+<td stylecode="Rrule">49%</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Spironolactone</td>
+<td stylecode="Rrule">25%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Telmisartan</td>
+<td stylecode="Rrule">20 to 49%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Tolvaptan</td>
+<td stylecode="Rrule">30%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Trimethoprim</td>
+<td stylecode="Rrule">22 to 28%</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="4" stylecode="Lrule Rrule">
+<content stylecode="bold">Digoxin concentrations increased, but magnitude is unclear</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="3" stylecode="Lrule Rrule">Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole, quinine, rabeprazole</td>
+<td stylecode="Rrule">Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary.</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="4" stylecode="Lrule Rrule">
+<content stylecode="bold">Digoxin concentrations decreased</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="3" stylecode="Lrule Rrule">Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John's Wort, sucralfate, sulfasalazine</td>
+<td stylecode="Rrule">Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20 to 40% as necessary.</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" colspan="4" stylecode="Lrule Rrule">
+<content stylecode="bold">No significant Digoxin exposure changes</content>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="3" stylecode="Lrule Rrule">Please refer to section 12 for a complete list of drugs which were studied but reported no significant changes on digoxin exposure.</td>
+<td stylecode="Rrule">No additional actions are required.</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,48 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Duodenal Ulcer Patient Healing Rates</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="    Lrule     "> </td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule     "> Ranitidine<footnote id="FOOT_539">All patients were permitted antacids as needed for relief of pain.</footnote>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     "> Placebo<footnoteref idref="FOOT_539"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="    Lrule     "> </td>
+<td align="center" stylecode="     Botrule         Lrule     "> Number<br/>Entered</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> Healed/<br/>Evaluable</td>
+<td align="center" stylecode="     Botrule          Rrule     "> Number<br/>Entered</td>
+<td align="center" stylecode="     Botrule          Rrule     "> Healed/<br/>Evaluable</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">   Outpatients</td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">   Week 2</td>
+<td align="center" stylecode="    Lrule          Rrule     " valign="bottom"> 195</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> 69/182<br/>(38%)<footnote id="FOOT_540">
+<content stylecode="italics">P</content>&lt;0.0001.</footnote>
+</td>
+<td align="center" stylecode="    Lrule          Rrule     " valign="bottom"> 188</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> 31/164<br/>(19%)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">   Week 4</td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> 137/187<br/>(73%)<footnoteref idref="FOOT_540"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     "> </td>
+<td align="center" stylecode="     Rrule     "> 76/168<br/>(45%)</td>
+</tr>
+</tbody>
+</table>

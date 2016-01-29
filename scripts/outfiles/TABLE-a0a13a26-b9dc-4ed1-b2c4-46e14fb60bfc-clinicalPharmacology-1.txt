@@ -1,0 +1,51 @@
+<table frame="void" width="528" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top"></td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Nimodipine</content>
+</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">Placebo</content>
+</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3" stylecode="Toprule" valign="top"> * 	p = 0.0444 – good and moderate vs severe and dead </td>
+</tr>
+<tr>
+<td align="left" colspan="3" valign="top"> ** 	p = 0.001 – severe disability </td>
+</tr>
+<tr>
+<td align="left" colspan="3" valign="top"> *** 	p = 0.056 – death </td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Total patients</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">278</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">276</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Good recovery</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">199*</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">169</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Moderate disability</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">24</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">  16</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Severe disability</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">  12**</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">  31</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Death</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">    43***</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">  60</td>
+</tr>
+</tbody>
+</table>

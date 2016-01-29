@@ -1,0 +1,45 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients</caption>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Hormone</th>
+<th stylecode="Rrule">Ratio in<br/>Thyroglobulin</th>
+<th stylecode="Rrule">Biologic<br/>Potency</th>
+<th stylecode="Rrule">Half-<br/>Life<br/>(Days)</th>
+<th stylecode="Rrule">Protein<br/>Binding<br/>(%)<footnote>Includes TBG, TBPA and TBA.</footnote>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="5">T<sub>4</sub>: Levothyroxine (L-thyroxine)</td>
+</tr>
+<tr>
+<td align="left" colspan="5">T<sub>3</sub>: Liothyronine (Triiodothyronine)</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">T<sub>4</sub>
+</td>
+<td stylecode="Rrule">10 – 20</td>
+<td stylecode="Rrule">1</td>
+<td stylecode="Rrule">6 – 7<footnote>3 – 4 days in hyperthyroidism, 9 – 10 days in hypothyroidism.</footnote>
+</td>
+<td stylecode="Rrule">99.96</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">T<sub>3</sub>
+</td>
+<td stylecode="Rrule">1</td>
+<td stylecode="Rrule">4</td>
+<td stylecode="Rrule">≤ 2</td>
+<td stylecode="Rrule">99.5</td>
+</tr>
+</tbody>
+</table>

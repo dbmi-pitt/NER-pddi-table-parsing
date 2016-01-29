@@ -1,0 +1,31 @@
+<table border="1" frame="border" id="inv-7bd92543-45bc-40e6-a61f-3068b037c89e" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col id="inv-cf875439-3512-43a4-b4e5-3351c86e4dd9" width="144.00px"></col>
+<col id="inv-5a7f6567-9ef5-41f1-ab6b-22c018d8fc06" width="148.00px"></col>
+<tbody id="inv-595fd2ae-4895-4950-b7f9-d0e29d9a2b19">
+<tr id="inv-896037d8-babb-47bd-adfd-ec1c36317ddc">
+<td align="center" id="inv-734f2a02-8775-4b7f-985e-55abd70dbf85">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+<td align="center" id="inv-249b9dbf-276e-4eae-a62b-c5c74523d339">
+Interpretation</td>
+</tr>
+<tr id="inv-b239eb57-05d8-454c-bfe9-b15a25ab9074">
+<td align="center" id="inv-ed3abfa9-1410-4f0d-970e-d86911a8719f">
+≤ 2</td>
+<td align="center" id="inv-5ecf6862-27e2-44dd-ad56-34d408365e0e">
+Susceptible (S)</td>
+</tr>
+<tr id="inv-3dbde633-5b6a-4a75-aac4-3cf7b9eab8b5">
+<td align="center" id="inv-28592e15-ce20-45be-acb9-b8a7f0f2e329">
+4</td>
+<td align="center" id="inv-688c2c9f-79f7-4826-93d0-aeb5b7cf8773">
+Intermediate (I)</td>
+</tr>
+<tr id="inv-563fa2c7-68af-4fcd-a920-5e0238415451">
+<td align="center" id="inv-a3ed63cb-cb67-496f-ae98-42f6939e9c0f">
+≥ 8</td>
+<td align="center" id="inv-d3b717a5-784d-46a4-af08-4200974d730b">
+Resistant (R)</td>
+</tr>
+</tbody>
+</table>

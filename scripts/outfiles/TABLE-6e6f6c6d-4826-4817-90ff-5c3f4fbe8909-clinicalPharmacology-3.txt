@@ -1,0 +1,49 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>
+TABLE 5 INTERPRETATION OF CLARITHROMYCIN AND AMOXICILLIN MIC VALUES
+</caption>
+<col align="left" width="50%"></col>
+<col align="left" width="50%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="2">
+<sup>a</sup> These are breakpoints for the agar dilution methodology and they should not be used to interpret results using alternative methods.<br/>
+<sup>b</sup> There were not enough organisms with MICs &gt; 0.25 μg/mL to determine a resistance breakpoint.
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Botrule">
+Clarithromycin MIC (μg/mL) <sup>a</sup>
+</td>
+<td stylecode="Botrule">
+Interpretation
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule">
+≤ 0.25<br/>0.5<br/>≥ 1.0
+</td>
+<td stylecode="Botrule">
+Susceptible (S)<br/>Intermediate (I)<br/>Resistant (R)
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule">
+Amoxicillin MIC (μg/mL) <sup>a,b</sup>
+</td>
+<td stylecode="Botrule">
+Interpretation
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td>
+≤ 0.25
+</td>
+<td>
+Susceptible (S)
+</td>
+</tr>
+</tbody>
+</table>

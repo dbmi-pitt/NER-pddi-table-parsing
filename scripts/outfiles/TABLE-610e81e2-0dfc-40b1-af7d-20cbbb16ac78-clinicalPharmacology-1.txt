@@ -1,0 +1,22 @@
+<table border="1" frame="border" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="312px"></col>
+<col width="312px"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     "> MIC (mng/mL)</td>
+<td align="center" stylecode="     Botrule          Rrule     ">Interpretation</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     "> ≤ 8/4</td>
+<td align="center" stylecode="     Botrule          Rrule     "> Susceptible (S)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     "> 16/8</td>
+<td align="center" stylecode="     Botrule          Rrule     "> Intermediate (I)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     "> ≥ 32/16</td>
+<td align="center" stylecode="     Botrule          Rrule     "> Resistant (R)</td>
+</tr>
+</tbody>
+</table>

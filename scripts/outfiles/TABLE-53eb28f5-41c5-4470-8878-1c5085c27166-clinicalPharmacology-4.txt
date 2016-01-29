@@ -1,0 +1,28 @@
+<table id="id_db27b540-0c66-41f4-aea1-4117ba7b99ba" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="44.2%"></col>
+<col width="55.8%"></col>
+<tbody>
+<tr id="id_192b5855-74db-48b2-b9e1-9725b004d71a" stylecode="Toprule">
+<td align="center" valign="top"> <content stylecode="bold">Organism</content>
+</td>
+<td align="center" valign="top"> <content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+</tr>
+<tr id="id_4c19fc2e-33cc-481b-a076-f80774b55f63">
+<td align="center" valign="top"> <content stylecode="italics">E. coli</content> ATCC 25922</td>
+<td align="center" valign="top"> 1.0-4.0</td>
+</tr>
+<tr id="id_cc3067fa-5233-473e-9374-952aaab6ae4e">
+<td align="center" valign="top"> <content stylecode="italics">S. aureus</content> ATCC 29213</td>
+<td align="center" valign="top"> 0.25-1.0</td>
+</tr>
+<tr id="id_73798d39-ad95-4aab-a6e9-67eed173ead8">
+<td align="center" valign="top"> <content stylecode="italics">E. faecalis</content> ATCC 29212</td>
+<td align="center" valign="top"> 8-32</td>
+</tr>
+<tr id="id_f51cdf9b-2490-441a-952a-2bf01a556d95" stylecode="Botrule">
+<td align="center" valign="top"> <content stylecode="italics">P. aeruginosa</content> ATCC 27853</td>
+<td align="center" valign="top"> 8-32</td>
+</tr>
+</tbody>
+</table>

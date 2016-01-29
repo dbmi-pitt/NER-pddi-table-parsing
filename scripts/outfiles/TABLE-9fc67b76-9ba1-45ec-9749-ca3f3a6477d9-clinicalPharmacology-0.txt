@@ -1,0 +1,77 @@
+<table id="t7" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7: Mean and Maximum QTcF Changes from Baseline Relative to Placebo
+</caption>
+<col align="left" width="25.333%"></col>
+<col align="left" width="37.000%"></col>
+<col align="left" width="37.667%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Toprule Lrule Rrule" valign="bottom"> 
+</th>
+<th align="center" colspan="2" stylecode="Toprule Botrule Rrule" valign="bottom">
+<content stylecode="bold">QTcF</content>
+<content stylecode="bold">
+<sup>1
+</sup>
+</content>
+<content stylecode="bold">Change from Baseline</content>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">
+<sup>1</sup> Fridericia corrected
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">
+<sup>2</sup> Upper CL from a 2-sided 90% CI on difference from placebo (msec)
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top"> 
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Mean<br/>(Upper 90% Confidence Limit</content>
+<content stylecode="bold">
+<sup>2</sup>
+</content>
+<content stylecode="bold">)<br/>msec</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Maximum<br/>(Upper 90% Confidence Limit)<br/>msec</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">VIBATIV 7.5 mg/kg
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4.1 (7)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">11.6 (16)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">VIBATIV 15 mg/kg
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4.6 (8)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">15.1 (20)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top">Positive Control
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">9.5 (13)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">21.6 (26)
+</td>
+</tr>
+</tbody>
+</table>

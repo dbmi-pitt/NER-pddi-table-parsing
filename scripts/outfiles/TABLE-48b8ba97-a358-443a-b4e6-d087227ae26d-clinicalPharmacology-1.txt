@@ -1,0 +1,57 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 4. Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">Atorvastatin</th>
+<th align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">Co-administered drug and dosing regimen</th>
+</tr>
+<tr>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">  </th>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     ">Drug/Dose (mg) </th>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">Change in AUC</th>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">Change in Cmax</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 80 mg QD for 15 days </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Antipyrine, 600 mg SD</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↑ 3%</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↓ 11%</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 80 mg QD for 14 days</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <sup>#</sup>Digoxin 0.25 mg QD, 20 days</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↑ 15%</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↑ 20 %</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="top"> 40 mg QD for 22 days </td>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="top"> Oral contraceptive QD, 2 months<br/>- norethindrone 1mg<br/>- ethinyl estradiol 35mcg</td>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="bottom"> <br/>↑ 28%<br/>↑ 19%</td>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="bottom"> <br/>↑ 23%<br/>↑ 30%</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> 10 mg, SD</td>
+<td stylecode="    Lrule          Rrule     " valign="top"> Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days</td>
+<td stylecode="    Lrule          Rrule     " valign="bottom"> No change</td>
+<td stylecode="    Lrule          Rrule     " valign="bottom"> No change</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> 10 mg QD for 4 days</td>
+<td stylecode="    Lrule          Rrule     " valign="top"> Fosamprenavir 1400 mg BID, 14 days</td>
+<td stylecode="    Lrule          Rrule     " valign="bottom"> ↓ 27%</td>
+<td stylecode="    Lrule          Rrule     " valign="bottom"> ↓ 18%</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> 10 mg QD for 4 days</td>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days</td>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> No change</td>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> No change</td>
+</tr>
+</tbody>
+</table>

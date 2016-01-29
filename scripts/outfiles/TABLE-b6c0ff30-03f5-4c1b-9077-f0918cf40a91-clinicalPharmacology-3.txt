@@ -1,0 +1,27 @@
+<table border="single" id="id_66e76b80-c9cb-4dbd-aeaa-b12729892efd" width="443.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_cb0361d2-7004-419e-9b6d-ec023b1ab90b">Table 4. Mean Daily Doses of Antacid</caption>
+<col width="34.1%"></col>
+<col width="33.0%"></col>
+<col width="33.0%"></col>
+<tbody>
+<tr id="id_2514ccbf-a769-4711-bfea-4663aae4650a">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="bottom"></td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Ulcer Healed</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Ulcer Not Healed</content>
+</td>
+</tr>
+<tr id="id_b1d53bd8-4a4b-4f1c-a9c3-1a7e4fd49a51">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">Ranitidine</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">0.06</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">0.71</td>
+</tr>
+<tr id="id_967ab0db-23f5-4f3b-9d95-b68602505820">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">Placebo</td>
+<td align="center" stylecode="Rrule" valign="bottom">0.71</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">1.43</td>
+</tr>
+</tbody>
+</table>

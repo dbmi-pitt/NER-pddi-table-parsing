@@ -1,0 +1,108 @@
+<table border="1" frame="border" id="id_ed412ed9-accf-43fa-9f7f-8dff0c49edfd" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_05eee8d5-0055-4486-b369-563f0dd452ca">Pharmacokinetics of Midazolam Following Single Dose Administration of Midazolam Hydrochloride Syrup</caption>
+<col width="96px"></col>
+<col width="104px"></col>
+<col width="49px"></col>
+<col width="80px"></col>
+<col width="42px"></col>
+<col width="76px"></col>
+<tbody>
+<tr id="id_f5353f56-1cac-43a2-a61a-d065073e6dab">
+<td align="center" stylecode="Lrule">Number of subjects/age group</td>
+<td align="center" stylecode="Botrule Rrule">Dose(mg/kg)</td>
+<td align="center" stylecode="Botrule Rrule">T (h)
+                                                <sub>max</sub>
+</td>
+<td align="center" stylecode="Botrule Rrule">C (ng/mL)
+                                                <sub>max</sub>
+</td>
+<td align="center" stylecode="Botrule Rrule">t (h)
+                                                <sub>1/2</sub>
+</td>
+<td align="center" stylecode="Rrule">AUC (ng•h/mL)
+                                                <sub>0-∞</sub>
+</td>
+</tr>
+<tr id="id_f5d457de-849e-4d47-81a2-ac8a13dcee99">
+<td colspan="6" stylecode="Botrule Lrule Rrule">6 months to &lt;2 years old</td>
+</tr>
+<tr id="id_af6babf9-8661-4381-8c65-410303e9435d">
+<td align="center" stylecode="Botrule Lrule Rrule">1</td>
+<td align="center" stylecode="Botrule Rrule">0.25</td>
+<td align="center" stylecode="Botrule Rrule">0.17</td>
+<td align="center" stylecode="Botrule Rrule">28.0</td>
+<td align="center" stylecode="Botrule Rrule">5.82</td>
+<td align="center" stylecode="Botrule Rrule">67.6</td>
+</tr>
+<tr id="id_eb6a94ce-6d10-4acf-b40a-bf5eaeaf6c55">
+<td align="center" stylecode="Botrule Lrule Rrule">1</td>
+<td align="center" stylecode="Botrule Rrule">0.50</td>
+<td align="center" stylecode="Botrule Rrule">0.35</td>
+<td align="center" stylecode="Botrule Rrule">66.0</td>
+<td align="center" stylecode="Botrule Rrule">2.22</td>
+<td align="center" stylecode="Botrule Rrule">152</td>
+</tr>
+<tr id="id_c5a87bc7-6f3e-4a16-a5a3-a22650222213">
+<td align="center" stylecode="Botrule Lrule Rrule">1</td>
+<td align="center" stylecode="Botrule Rrule">1.00</td>
+<td align="center" stylecode="Botrule Rrule">0.17</td>
+<td align="center" stylecode="Botrule Rrule">61.2</td>
+<td align="center" stylecode="Botrule Rrule">2.97</td>
+<td align="center" stylecode="Botrule Rrule">224</td>
+</tr>
+<tr id="id_a6d653c2-7b85-4371-8ccb-c58a339f0967">
+<td colspan="6" stylecode="Botrule Lrule Rrule">2 to &lt;12 years old</td>
+</tr>
+<tr id="id_1eec323d-2bc4-48ad-a974-93fbdac13f45">
+<td align="center" stylecode="Botrule Lrule Rrule">18</td>
+<td align="center" stylecode="Botrule Rrule">0.25</td>
+<td align="center" stylecode="Botrule Rrule">0.72 ± 0.44</td>
+<td align="center" stylecode="Botrule Rrule">63.0 ± 30.0</td>
+<td align="center" stylecode="Botrule Rrule">3.16 ± 1.50</td>
+<td align="center" stylecode="Botrule Rrule">138 ± 89.5</td>
+</tr>
+<tr id="id_0dc3c0bc-542c-411d-beae-7016d06c1737">
+<td align="center" stylecode="Botrule Lrule Rrule">18</td>
+<td align="center" stylecode="Botrule Rrule">0.50</td>
+<td align="center" stylecode="Botrule Rrule">0.95 ± 0.53</td>
+<td align="center" stylecode="Botrule Rrule">126 ± 75.8</td>
+<td align="center" stylecode="Botrule Rrule">2.71 ± 1.09</td>
+<td align="center" stylecode="Botrule Rrule">306 ± 196</td>
+</tr>
+<tr id="id_88743ab4-a549-4eec-a24b-70fd598ce1c1">
+<td align="center" stylecode="Botrule Lrule Rrule">18</td>
+<td align="center" stylecode="Botrule Rrule">1.00</td>
+<td align="center" stylecode="Botrule Rrule">0.88 ± 0.99</td>
+<td align="center" stylecode="Botrule Rrule">201 ± 101</td>
+<td align="center" stylecode="Botrule Rrule">2.37 ± 0.96</td>
+<td align="center" stylecode="Botrule Rrule">743 ± 642</td>
+</tr>
+<tr id="id_0a8b2c09-e1d4-444f-9325-dc9575f17aba">
+<td colspan="6" stylecode="Botrule Lrule Rrule">12 to &lt;16 years old</td>
+</tr>
+<tr id="id_bb61545f-d676-4b86-ac4a-c8a8ed3b123e">
+<td align="center" stylecode="Botrule Lrule Rrule">4</td>
+<td align="center" stylecode="Botrule Rrule">0.25</td>
+<td align="center" stylecode="Botrule Rrule">2.09 ± 1.35</td>
+<td align="center" stylecode="Botrule Rrule">29.1 ± 8.2</td>
+<td align="center" stylecode="Botrule Rrule">6.83 ± 3.84</td>
+<td align="center" stylecode="Botrule Rrule">155 ± 84.6</td>
+</tr>
+<tr id="id_98315a0a-1ae0-4495-8d57-d5d1b38848a5">
+<td align="center" stylecode="Botrule Lrule Rrule">4</td>
+<td align="center" stylecode="Botrule Rrule">0.50</td>
+<td align="center" stylecode="Botrule Rrule">2.65 ±1.58</td>
+<td align="center" stylecode="Botrule Rrule">118 ± 81.2</td>
+<td align="center" stylecode="Botrule Rrule">4.35 ± 3.31</td>
+<td align="center" stylecode="Botrule Rrule">821 ± 568</td>
+</tr>
+<tr id="id_f433dbb5-8a6e-412c-840c-60d8115908ca">
+<td align="center" stylecode="Botrule Lrule">2</td>
+<td align="center" stylecode="Botrule">1.00</td>
+<td align="center" stylecode="Botrule">0.55 ± 0.28</td>
+<td align="center" stylecode="Botrule">191 ± 47.4</td>
+<td align="center" stylecode="Botrule">2.51 ± 0.18</td>
+<td align="center" stylecode="Botrule Rrule">566 ±15.7</td>
+</tr>
+</tbody>
+</table>

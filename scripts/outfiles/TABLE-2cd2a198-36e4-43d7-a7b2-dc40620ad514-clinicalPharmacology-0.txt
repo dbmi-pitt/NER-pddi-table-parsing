@@ -1,0 +1,42 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Ranitidine Pharmacokinetics in Pediatric Patients Following Oral Dosing </caption>
+<col align="center" valign="top" width="30%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="24%"></col>
+<col align="center" valign="top" width="18%"></col>
+<col align="center" valign="top" width="18%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule" valign="bottom">Population <br/>(age)</th>
+<th stylecode="Lrule" valign="bottom">n</th>
+<th stylecode="Lrule" valign="bottom">Dosage Form <br/>(dose)</th>
+<th stylecode="Lrule" valign="bottom">C <sub>max</sub>
+<br/>(ng/mL)</th>
+<th stylecode="Lrule Rrule" valign="bottom">T <sub>max</sub>
+<br/>(hours)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Gastric or duodenal ulcer <br/>(3.5 to 16 years)</td>
+<td stylecode="Lrule">12</td>
+<td stylecode="Lrule">Tablets <br/>(1 to 2 mg/kg)</td>
+<td stylecode="Lrule">54 to 492</td>
+<td stylecode="Lrule Rrule">2.0</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">Otherwise healthy requiring <br/>Ranitidine Oral Solution <br/>(0.7 to 14 years, <br/>Single dose)</td>
+<td stylecode="Lrule">10</td>
+<td stylecode="Lrule">Oral Solution <br/>(2 mg/kg)</td>
+<td stylecode="Lrule">244</td>
+<td stylecode="Lrule Rrule">1.61</td>
+</tr>
+<tr>
+<td stylecode="Lrule">Otherwise healthy requiring Ranitidine Oral Solution <br/>(0.7 to 14 years, <br/>Multiple dose)</td>
+<td stylecode="Lrule">10</td>
+<td stylecode="Lrule">Oral Solution <br/>(2 mg/kg)</td>
+<td stylecode="Lrule">320</td>
+<td stylecode="Lrule Rrule">1.66</td>
+</tr>
+</tbody>
+</table>

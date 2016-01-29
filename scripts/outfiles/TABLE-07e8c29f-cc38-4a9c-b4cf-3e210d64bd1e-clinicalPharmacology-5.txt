@@ -1,0 +1,40 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50%"></col>
+<col width="50%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule ">
+<paragraph> <content stylecode="underline">MIC (mcg/mL)</content>
+</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph> <content stylecode="underline">Interpretation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center">
+<paragraph> ≤8</paragraph>
+</td>
+<td>
+<paragraph> Susceptible (S)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center">
+<paragraph> 16</paragraph>
+</td>
+<td>
+<paragraph> Intermediate (I)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule ">
+<paragraph> ≥32</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph> Resistant (R)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

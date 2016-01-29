@@ -1,0 +1,77 @@
+<table id="table2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2 Urinary Concentrations of Ceftriaxone After Single Dose Administration</caption>
+<col align="left" valign="top" width="16%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th>Dose/Route</th>
+<th colspan="6">Average Urinary Concentrations (µg/mL)</th>
+</tr>
+<tr>
+<th></th>
+<th>0-2 hr</th>
+<th>2-4 hr</th>
+<th>4-8 hr</th>
+<th>8-12 hr</th>
+<th>12-24 hr</th>
+<th>24-48 hr</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">ND = Not determined.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td>0.5 gm IV</td>
+<td>526</td>
+<td>366</td>
+<td>142</td>
+<td>87</td>
+<td>70</td>
+<td>15</td>
+</tr>
+<tr>
+<td>0.5 gm IM</td>
+<td>115</td>
+<td>425</td>
+<td>308</td>
+<td>127</td>
+<td>96</td>
+<td>28</td>
+</tr>
+<tr>
+<td>1 gm IV</td>
+<td>995</td>
+<td>855</td>
+<td>293</td>
+<td>147</td>
+<td>132</td>
+<td>32</td>
+</tr>
+<tr>
+<td>1 gm IM</td>
+<td>504</td>
+<td>628</td>
+<td>418</td>
+<td>237</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr>
+<td>2 gm IV</td>
+<td>2692</td>
+<td>1976</td>
+<td>757</td>
+<td>274</td>
+<td>198</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>

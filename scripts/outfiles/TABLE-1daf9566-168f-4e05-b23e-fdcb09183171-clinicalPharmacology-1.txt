@@ -1,0 +1,96 @@
+<table id="table3" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Azithromycin Exposure Data in White Blood Cells and Lung Following a 2 g Single Dose of Zmax in Adults</caption>
+<col align="left" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<thead>
+<tr>
+<th align="center" colspan="5" stylecode="Lrule Rrule">A single 2 g dose of Zmax</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="5">Abbreviation:  WBC: white blood cells; MNL: mononuclear leukocytes; PMNL: polymorphonuclear leukocytes; ELF: Epithelial lining fluid</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">WBC</td>
+<td stylecode="Lrule">C<sub>max </sub> (mcg/mL)</td>
+<td stylecode="Lrule">AUC<sub>0–24 </sub>(mcg∙hr/mL)</td>
+<td stylecode="Lrule">AUC<sub>0–120 </sub>(mcg∙hr/mL)</td>
+<td stylecode="Lrule Rrule">C<sub>t=120</sub>
+<footnote>Azithromycin concentration at 120 hr after the start of dosing</footnote> (mcg/mL)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">MNL<footnote id="t3ft2">Data are presented as mean (standard deviation)</footnote>
+</td>
+<td stylecode="Lrule">116 (40.2)</td>
+<td stylecode="Lrule">1790 (540)</td>
+<td stylecode="Lrule">4710 (1100)</td>
+<td stylecode="Lrule Rrule">16.2 (5.51)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">PMNL<footnoteref idref="t3ft2"></footnoteref>
+</td>
+<td stylecode="Lrule">146 (66.0)</td>
+<td stylecode="Lrule">2080 (650)</td>
+<td stylecode="Lrule">10000 (2690)</td>
+<td stylecode="Lrule Rrule">81.7 (23.3)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule"> </td>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">LUNG</td>
+<td stylecode="Lrule">C<sub>max </sub> (mcg/mL)</td>
+<td stylecode="Lrule">AUC<sub>0–24 </sub>(mcg∙hr/mL)</td>
+<td stylecode="Lrule">AUC<sub>0–72 </sub>(mcg∙hr/mL)</td>
+<td stylecode="Lrule Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">ALVEOLAR CELL<footnote id="t3ft3">C<sub>max </sub>and AUC were calculated based on composite profile (n = 4 subjects/time point/formulation).</footnote>
+</td>
+<td stylecode="Lrule">669</td>
+<td stylecode="Lrule">7028</td>
+<td stylecode="Lrule">20403</td>
+<td stylecode="Lrule Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">ELF<footnoteref idref="t3ft3"></footnoteref>
+</td>
+<td stylecode="Lrule">3.2</td>
+<td stylecode="Lrule">17.6</td>
+<td stylecode="Lrule">131</td>
+<td stylecode="Lrule Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule"> </td>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule">C<sub>max </sub>(mcg/g)</td>
+<td stylecode="Lrule">AUC<sub>0–24 </sub>(mcg∙hr/g)</td>
+<td stylecode="Lrule">AUC<sub>0–72 </sub>(mcg∙hr/g)</td>
+<td stylecode="Lrule Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule">LUNG TISSUE<footnoteref idref="t3ft3"></footnoteref>
+</td>
+<td stylecode="Lrule">37.9</td>
+<td stylecode="Lrule">505</td>
+<td stylecode="Lrule">1693</td>
+<td stylecode="Lrule Rrule">-</td>
+</tr>
+</tbody>
+</table>

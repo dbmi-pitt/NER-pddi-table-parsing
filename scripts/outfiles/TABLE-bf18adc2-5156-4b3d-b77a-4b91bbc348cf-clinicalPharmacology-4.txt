@@ -1,0 +1,34 @@
+<table id="id_a443d9e7-63fb-4f05-8381-f109ed5c759a" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_6f97dd74-3153-41b0-a497-11023b85bbed">Table 8</caption>
+<col align="center" width="34%"></col>
+<col align="center" width="33%"></col>
+<col align="center" width="33%"></col>
+<thead>
+<tr id="id_98dfd59a-37d0-4c25-8b0d-207226698dfc" stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Antimicrobial Agent</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">MIC (mcg/mL)<footnote id="ida3qilg">These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods.</footnote>
+</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_9fee9ba1-17f1-436d-82a5-ec7e08fe79a4" stylecode="Toprule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">H. pylori</content> ATCC 43504</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Clarithromycin</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.015-0.12</td>
+</tr>
+<tr id="id_c335f416-3134-43be-a516-17c51f95c01d" stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="italics">H. pylori</content> ATCC 43504</td>
+<td align="center" stylecode="Rrule" valign="middle">Amoxicillin</td>
+<td align="center" stylecode="Rrule" valign="middle">0.015-0.12</td>
+</tr>
+</tbody>
+</table>

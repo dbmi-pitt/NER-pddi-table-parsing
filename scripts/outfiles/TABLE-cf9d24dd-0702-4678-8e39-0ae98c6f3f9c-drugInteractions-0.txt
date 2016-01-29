@@ -1,0 +1,81 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Substance</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">Average Duration of Effect</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">Anti-thyroid drugs</content>
+<content stylecode="italics">
+<br/>e.g.,</content> carbimazole, propylthiouracil</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>5 days</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">Natural or synthetic thyroid hormone</content>
+<content stylecode="italics">
+<br/>  e.g.,</content> thyroxine<br/>  tri-iodothyronine</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>4 weeks<br/>2 weeks</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">Iodine-containing medications<br/>
+</content>
+<content stylecode="italics">e.g.,</content> amiodarone expectorants, vitamins</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>4 weeks<br/>2 weeks</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">Topical iodide</content>
+</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>1-9 months</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">X-ray contrast agents<br/>
+</content>iodine-containing agents</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>Up to 1 year</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>
+<content stylecode="bold">Other drugs<br/>
+</content>anticoagulants, antihistamines<br/>corticosteroids, sulfonamides<br/>tolbutamide, perchlorate<br/>phenylbutazone<br/>lithium</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">
+<paragraph>1 week<br/>1 week<br/>1 week<br/>1-2 weeks<br/>4 weeks</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,77 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="middle" width="20%"></col>
+<col align="left" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<thead>
+<tr>
+<th align="center" colspan="5" stylecode="lrule rrule">PERCENT OF PATIENTS WHO CONVERTED (Second Trial)</th>
+</tr>
+<tr>
+<th rowspan="3" stylecode="lrule toprule"></th>
+<th stylecode="lrule toprule"></th>
+<th stylecode="lrule toprule"></th>
+<th colspan="2" stylecode="lrule toprule rrule">Ibutilide</th>
+</tr>
+<tr>
+<th stylecode="lrule toprule"></th>
+<th align="center" stylecode="lrule toprule">Placebo</th>
+<th stylecode="lrule toprule">1.0 mg/0.5 mg</th>
+<th stylecode="lrule toprule rrule">1.0 mg/1.0 mg</th>
+</tr>
+<tr>
+<th align="center" stylecode="lrule toprule">n</th>
+<th align="center" stylecode="lrule toprule">86</th>
+<th stylecode="lrule toprule">86</th>
+<th stylecode="lrule toprule rrule">94</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="lrule botrule">Both</td>
+<td stylecode="lrule toprule">Initially<footnote id="footnote3">Percent of patients who converted within 90 minutes after the start of infusion.</footnote>
+</td>
+<td align="center" stylecode="lrule toprule">2</td>
+<td stylecode="lrule toprule">43</td>
+<td stylecode="lrule toprule rrule">44</td>
+</tr>
+<tr>
+<td stylecode="lrule toprule">At 24 hours<footnote id="footnote4">Percent of patients who remained in sinus rhythm 24 hours after dosing.</footnote>
+</td>
+<td align="center" stylecode="lrule toprule">2</td>
+<td stylecode="lrule toprule">34</td>
+<td stylecode="lrule toprule rrule">37</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="lrule botrule">Atrial flutter</td>
+<td stylecode="lrule toprule">Initially<footnoteref idref="footnote3"></footnoteref>
+</td>
+<td align="center" stylecode="lrule toprule">2</td>
+<td stylecode="lrule toprule">48</td>
+<td stylecode="lrule toprule rrule">63</td>
+</tr>
+<tr>
+<td stylecode="lrule toprule">At 24 hours<footnoteref idref="footnote4"></footnoteref>
+</td>
+<td align="center" stylecode="lrule toprule">2</td>
+<td stylecode="lrule toprule">45</td>
+<td stylecode="lrule toprule rrule">59</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="lrule botrule ">Atrial fibrillation</td>
+<td stylecode="lrule toprule">Initially<footnoteref idref="footnote3"></footnoteref>
+</td>
+<td align="center" stylecode="lrule toprule">2</td>
+<td stylecode="lrule toprule">38</td>
+<td stylecode="lrule toprule rrule">25</td>
+</tr>
+<tr>
+<td stylecode="lrule toprule">At 24 hours<footnoteref idref="footnote4"></footnoteref>
+</td>
+<td align="center" stylecode="lrule toprule">2</td>
+<td stylecode="lrule toprule">21</td>
+<td stylecode="lrule toprule rrule">17</td>
+</tr>
+</tbody>
+</table>

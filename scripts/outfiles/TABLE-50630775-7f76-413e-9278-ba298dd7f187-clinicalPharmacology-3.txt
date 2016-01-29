@@ -1,0 +1,79 @@
+<table id="id_fd42a075-c4a6-4618-b0aa-3f1e98d61d87" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_56f2e7d3-13b2-477c-9716-e45a8440c90b">Table 4. Susceptibility Interpretive Criteria for Linezolid</caption>
+<col align="left" width="28%"></col>
+<col align="center" width="12%"></col>
+<col align="center" width="12%"></col>
+<col align="center" width="12%"></col>
+<col align="center" width="12%"></col>
+<col align="center" width="12%"></col>
+<col align="center" width="12%"></col>
+<thead>
+<tr id="id_4a79c358-08e9-4020-b4a5-fbb611b4d7d5">
+<td align="left" rowspan="3" stylecode="Botrule Rrule" valign="middle">Pathogen</td>
+<td align="left" colspan="6" stylecode="Lrule Botrule" valign="top">Susceptibility Interpretive Criteria </td>
+</tr>
+<tr id="id_d058ba5f-5cdc-4440-bb63-51ffbde020ee">
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">Minimal Inhibitory Concentrations<br/>(MIC in µg/mL)</td>
+<td align="center" colspan="3" stylecode="Lrule Botrule" valign="top">Disk Diffusion<br/>(Zone Diameters in mm)</td>
+</tr>
+<tr id="id_29f03db7-92a1-45af-8388-fc616090fb70">
+<td align="center" stylecode="Botrule Rrule" valign="top">S</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">I</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">R</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">S</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">I</td>
+<td align="left" stylecode="Botrule" valign="top">R</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_1b0f8ff6-c090-47b2-a774-8e406140e262">
+<td align="left" stylecode="Toprule Botrule" valign="top">
+<content stylecode="italics">Enterococcus</content> spp</td>
+<td align="left" stylecode="Botrule" valign="top">≤ 2</td>
+<td align="left" stylecode="Botrule" valign="top">4</td>
+<td align="left" stylecode="Botrule" valign="top">≥8</td>
+<td align="left" stylecode="Botrule" valign="top">≥ 23</td>
+<td align="left" stylecode="Botrule" valign="top">21–22</td>
+<td align="left" stylecode="Botrule" valign="top">≤20</td>
+</tr>
+<tr id="id_69f6a064-8101-431f-81c7-2c6c82a8420a">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Staphylococcus</content> spp <footnote id="id-2bb937ef-4295-481a-b8a5-f3dad0e132ea">The current absence of data on resistant strains precludes defining any categories other than "Susceptible." Strains yielding test results suggestive of a "nonsusceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing.</footnote>
+</td>
+<td align="left" stylecode="Botrule" valign="top">≤4</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+<td align="left" stylecode="Botrule" valign="top">≥ 21</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+</tr>
+<tr id="id_5ab56bf3-a3c4-44ce-89f6-4c388fb6d884">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<footnoteref idref="id-2bb937ef-4295-481a-b8a5-f3dad0e132ea"></footnoteref>
+</td>
+<td align="left" stylecode="Botrule" valign="top">≤2<footnote id="id-4b3681ab-f667-4a3e-816a-24790b5047b2">These interpretive standards for <content stylecode="italics">S. pneumoniae</content> and <content stylecode="italics">Streptococcus</content> spp. other than <content stylecode="italics">S. pneumoniae</content> are applicable only to tests performed by broth microdilution using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood inoculated with a direct colony suspension and incubated in ambient air at 35°C for 20 to 24 hours.</footnote>
+</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+<td align="left" stylecode="Botrule" valign="top">≥ 21<footnote id="id-f5950c6b-619d-4e39-a9d6-edf73bc75819">These zone diameter interpretive standards are applicable only to tests performed using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood inoculated with a direct colony suspension and incubated in 5% CO<sub>2</sub> at 35°C for 20 to 24 hours.</footnote>
+</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+</tr>
+<tr id="id_0929581a-f066-449d-a596-4212e05121dd">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Streptococcus</content> spp other than <content stylecode="italics">S pneumoniae</content>
+<footnoteref idref="id-2bb937ef-4295-481a-b8a5-f3dad0e132ea"></footnoteref>
+</td>
+<td align="left" stylecode="Botrule" valign="top">≤2<footnoteref idref="id-4b3681ab-f667-4a3e-816a-24790b5047b2"></footnoteref>
+</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+<td align="left" stylecode="Botrule" valign="top">≥ 21<footnoteref idref="id-f5950c6b-619d-4e39-a9d6-edf73bc75819"></footnoteref>
+</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+<td align="left" stylecode="Botrule" valign="top">---</td>
+</tr>
+</tbody>
+</table>

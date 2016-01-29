@@ -1,0 +1,56 @@
+<table id="table3" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3.	Pharmacokinetic Parameters (Mean ± SD) of Adefovir in Patients with Varying Degrees of Renal Function</caption>
+<col align="left" valign="middle" width="32%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<thead>
+<tr stylecode="botrule">
+<th stylecode="Lrule">Renal Function Group</th>
+<th stylecode="Lrule">Unimpaired</th>
+<th stylecode="Lrule">Mild</th>
+<th stylecode="Lrule">Moderate</th>
+<th stylecode="Lrule rrule">Severe</th>
+</tr>
+<tr>
+<th stylecode="Lrule">Baseline creatinine clearance (mL/min)<br/>
+<br/>
+</th>
+<th stylecode="Lrule">&gt;80<br/>(N=7)</th>
+<th stylecode="Lrule">50–80<br/>(N=8)</th>
+<th stylecode="Lrule">30–49<br/>(N=7)</th>
+<th stylecode="Lrule rrule">10–29<br/>(N=10)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="botrule">
+<td stylecode="Lrule">C<sub>max</sub> (ng/mL)</td>
+<td stylecode="Lrule">17.8 ± 3.22</td>
+<td stylecode="Lrule">22.4 ± 4.04</td>
+<td stylecode="Lrule">28.5 ± 8.57</td>
+<td stylecode="Lrule rrule">51.6 ± 10.3</td>
+</tr>
+<tr stylecode="botrule">
+<td stylecode="Lrule">AUC <sub>0–∞</sub> (ng∙h/mL)</td>
+<td stylecode="Lrule">201 ± 40.8</td>
+<td stylecode="Lrule">266 ± 55.7</td>
+<td stylecode="Lrule">455 ± 176</td>
+<td stylecode="Lrule rrule">1240 ± 629</td>
+</tr>
+<tr stylecode="botrule">
+<td stylecode="Lrule">CL/F (mL/min)</td>
+<td stylecode="Lrule">469 ± 99.0</td>
+<td stylecode="Lrule">356 ± 85.6</td>
+<td stylecode="Lrule">237 ± 118</td>
+<td stylecode="Lrule rrule">91.7 ± 51.3</td>
+</tr>
+<tr>
+<td stylecode="Lrule">CL<sub>renal</sub> (mL/min)</td>
+<td stylecode="Lrule">231 ± 48.9</td>
+<td stylecode="Lrule">148 ± 39.3</td>
+<td stylecode="Lrule">83.9 ± 27.5</td>
+<td stylecode="Lrule rrule">37.0 ± 18.4</td>
+</tr>
+</tbody>
+</table>

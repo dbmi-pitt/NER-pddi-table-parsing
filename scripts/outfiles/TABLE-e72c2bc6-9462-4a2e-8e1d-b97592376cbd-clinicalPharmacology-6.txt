@@ -1,0 +1,188 @@
+<table id="table13" width="95%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 13: Drug Interactions: Changes in Pharmacokinetic Parameters for Nelfinavir in the Presence of the Coadministered Drug</caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="25%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule"></th>
+<th stylecode="Rrule"></th>
+<th stylecode="Rrule"></th>
+<th colspan="3" stylecode="Botrule Rrule">% Change of Nelfinavir Pharmacokinetic Parameters<footnote>↑ Indicates increase; ↓  Indicates decrease; ↔ Indicates no change (geometric mean exposure increased or decreased &lt;10%)</footnote> (90% CI)</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule">Coadministered Drug</th>
+<th align="center" stylecode="Rrule">Nelfinavir Dose</th>
+<th stylecode="Rrule">N</th>
+<th stylecode="Rrule">AUC</th>
+<th stylecode="Rrule">C<sub>max</sub>
+</th>
+<th stylecode="Rrule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" valign="top">NA: Not relevant for single-dose treatment</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">HIV-Protease Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Indinavir 800 mg q8h × 7 days</td>
+<td stylecode="Rrule">750 mg Single Dose</td>
+<td stylecode="Rrule">6</td>
+<td stylecode="Rrule">↑83%<br/>(↑42–↑137%)</td>
+<td stylecode="Rrule">↑31%<br/>(↑16–↑48%)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ritonavir 500 mg q12h × 3 doses</td>
+<td stylecode="Rrule">750 mg Single Dose</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">↑152%<br/>(↑96–↑224%)</td>
+<td stylecode="Rrule">↑44%<br/>(↑28–↑63%)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Saquinavir 1200 mg TID × 4 days<footnote>Using the soft-gelatin capsule formulation of saquinavir 1200 mg</footnote>
+</td>
+<td stylecode="Rrule">750 mg Single Dose</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↑18%<br/>(↑7–↑30%)</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">Nucleoside Reverse Transcriptase Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Didanosine 200 mg Single Dose</td>
+<td stylecode="Rrule">750 mg Single Dose</td>
+<td stylecode="Rrule">9</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Zidovudine 200 mg + Lamivudine 150 mg Single Dose</td>
+<td stylecode="Rrule">750 mg q8h × 7–10 days</td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↔</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">Non-nucleoside Reverse Transcriptase Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Efavirenz 600 mg qd × 7 days</td>
+<td stylecode="Rrule">750 mg q8h × 7 days</td>
+<td stylecode="Rrule">7</td>
+<td stylecode="Rrule">↑20%<br/>(↑8–↑34%)</td>
+<td stylecode="Rrule">↑21%<br/>(↑10–↑33%)</td>
+<td stylecode="Rrule">↔</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Nevirapine 200 mg qd × 14 days followed by 200 mg BID × 14 days</td>
+<td stylecode="Rrule">750 mg TID × 36 days</td>
+<td stylecode="Rrule">23</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↓32%<br/>(↓50–↑5%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Delavirdine 400 mg q8h × 7 days</td>
+<td stylecode="Rrule">750 mg q8h × 14 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↑107%<br/>(↑83–↑135%)</td>
+<td stylecode="Rrule">↑88%<br/>(↑66–↑113%)</td>
+<td stylecode="Rrule">↑136%<br/>(↑103–↑175%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">Anti-infective Agents</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ketoconazole 400 mg qd × 7 days</td>
+<td stylecode="Rrule">500 mg q8h × 5–6 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↑35%<br/>(↑24–↑46%)</td>
+<td stylecode="Rrule">↑25%<br/>(↑11–↑40%)</td>
+<td stylecode="Rrule">↑14%<br/>(↓23–↑69%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Rifabutin 150 mg qd × 8 days</td>
+<td stylecode="Rrule">750 mg q8h × 7–8 days</td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↓23%<br/>(↓14–↓31%)</td>
+<td stylecode="Rrule">↓18%<br/>(↓8–↓27%)</td>
+<td stylecode="Rrule">↓25%<br/>(↓8–↓39%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">1250 mg q12h × 7–8 days</td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↓15%<br/>(↓43–↑27%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifabutin 300 mg qd × 8 days</td>
+<td stylecode="Rrule">750 mg q8h × 7–8 days</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">↓32%<br/>(↓15–↓46%)</td>
+<td stylecode="Rrule">↓24%<br/>(↓10–↓36%)</td>
+<td stylecode="Rrule">↓53%<br/>(↓15–↓73%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifampin 600 mg qd × 7 days</td>
+<td stylecode="Rrule">750 mg q8h × 5–6 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓83%<br/>(↓79–↓86%)</td>
+<td stylecode="Rrule">↓76%<br/>(↓69–↓82%)</td>
+<td stylecode="Rrule">↓92%<br/>(↓86–↓95%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Azithromycin 1200 mg Single Dose</td>
+<td stylecode="Rrule">750 mg tid × 9 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓15%<br/>(↓7–↓22%)</td>
+<td stylecode="Rrule">↓10%<br/>(↓19–↑1%)</td>
+<td stylecode="Rrule">↓29%<br/>(↓19–↓38%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="6" stylecode="Lrule Rrule">
+<content stylecode="bold">Other Agents</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Phenytoin 300 mg qd × 7 days</td>
+<td stylecode="Rrule">1250 mg BID × 14 days</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↓18%<br/>(↓45–↑23%)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Omeprazole 40 mg qd × 4 days administered 30 minutes before nelfinavir</td>
+<td stylecode="Rrule">1250 mg BID × 4 days</td>
+<td stylecode="Rrule">19</td>
+<td stylecode="Rrule">↓36%<br/>(↓20–↓49%)</td>
+<td stylecode="Rrule">↓37%<br/>(↓23–↓49%)</td>
+<td stylecode="Rrule">↓39%<br/>(↓15–↓57%)</td>
+</tr>
+</tbody>
+</table>

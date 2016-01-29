@@ -1,0 +1,96 @@
+<table id="id_0c685192-7cf4-4fe0-8d31-7aee1aa01aa3" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_3d4e979d-d5c2-4429-9dc2-068fcaf41514">TABLE 4: Effect of Co-Administered Drugs on Total Ezetimibe</caption>
+<col align="left" width="50%"></col>
+<col align="center" width="25%"></col>
+<col align="center" width="25%"></col>
+<thead>
+<tr id="id_9170996f-2bea-40b9-8e9b-090f90e155e2" stylecode="Toprule">
+<td align="center" stylecode="Botrule Rrule" valign="top">Co-Administered Drug and Dosing Regimen</td>
+<td align="left" colspan="2" stylecode="Lrule Botrule" valign="top">Total Ezetimibe <footnote id="id-fcd27817-8f2a-4830-822b-dd4400f7717f">Based on 10 mg dose of ezetimibe</footnote>
+</td>
+</tr>
+<tr id="id_fd749191-d66c-4567-b4e2-c45fcfd8a0f1" stylecode="Botrule">
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top">Change in AUC</td>
+<td align="left" valign="top">Change in C<sub>max</sub>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_670adb82-7abe-4468-90cb-c92221a18388" stylecode="Toprule">
+<td align="left" valign="top">Cyclosporine-stable dose required (75–150 mg BID)<footnote id="id-20122967-e573-4cc9-a9c6-4b680693e258">See <linkhtml href="#i4i_interactions_id_8dfd7207-0233-4973-aa49-4780c13af08e">Drug Interactions (7)</linkhtml>
+</footnote>
+<sup>,</sup>
+<footnote id="id-8ed77e61-9e54-4bbb-8020-0b0e7ceb0288">Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m<sup>2</sup>) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects.</footnote>
+</td>
+<td align="left" stylecode="Toprule" valign="top">↑240%</td>
+<td align="left" valign="top">↑290%</td>
+</tr>
+<tr id="id_77acb11a-5588-4bbf-bd39-79f6b86673ad">
+<td align="left" valign="top">Fenofibrate, 200 mg QD, 14 days<footnoteref idref="id-20122967-e573-4cc9-a9c6-4b680693e258"></footnoteref>
+</td>
+<td align="left" valign="top">↑48%</td>
+<td align="left" valign="top">↑64%</td>
+</tr>
+<tr id="id_93568c81-40d0-4ca0-bcc9-4bd50dfa07f1">
+<td align="left" valign="top">Gemfibrozil, 600 mg BID, 7 days<footnoteref idref="id-20122967-e573-4cc9-a9c6-4b680693e258"></footnoteref>
+</td>
+<td align="left" valign="top">↑64%</td>
+<td align="left" valign="top">↑91%</td>
+</tr>
+<tr id="id_063008b3-27d6-4c12-b6de-acf8b02a931a">
+<td align="left" valign="top">Cholestyramine, 4 g BID, 14 days<footnoteref idref="id-20122967-e573-4cc9-a9c6-4b680693e258"></footnoteref>
+</td>
+<td align="left" valign="top">↓55%</td>
+<td align="left" valign="top">↓4%</td>
+</tr>
+<tr id="id_960441ea-0d28-4219-ba89-fb6376adaad8">
+<td align="left" valign="top">Aluminum &amp; magnesium hydroxide combination antacid, single dose<footnote id="id-50bdca21-8343-4a08-b1e5-4c7b158ef114">Supralox, 20 mL</footnote>
+</td>
+<td align="left" valign="top">↓4%</td>
+<td align="left" valign="top">↓30%</td>
+</tr>
+<tr id="id_04a9456d-4494-4997-9066-cd1f4d067f36">
+<td align="left" valign="top">Cimetidine, 400 mg BID, 7 days</td>
+<td align="left" valign="top">↑6%</td>
+<td align="left" valign="top">↑22%</td>
+</tr>
+<tr id="id_cdabb9d5-16d0-454f-99df-ef1329b715c6">
+<td align="left" valign="top">Glipizide, 10 mg, single dose</td>
+<td align="left" valign="top">↑4%</td>
+<td align="left" valign="top">↓8% </td>
+</tr>
+<tr id="id_c366409d-293d-4153-bed7-6a50524e27bd">
+<td align="left" valign="top">
+<content stylecode="bold">Statins</content>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_771325ec-6368-4071-9b6a-71ac94803926">
+<td align="left" valign="top">  Lovastatin 20 mg QD, 7 days</td>
+<td align="left" valign="top">↑9%</td>
+<td align="left" valign="top">↑3%</td>
+</tr>
+<tr id="id_bfa71a94-d02a-4406-b89a-7e2faee8cde2">
+<td align="left" valign="top">  Pravastatin 20 mg QD, 14 days</td>
+<td align="left" valign="top">↑7%</td>
+<td align="left" valign="top">↑23%</td>
+</tr>
+<tr id="id_3ac2fe41-1ea7-41f8-99a7-bbf452ced5f9">
+<td align="left" valign="top">  Atorvastatin 10 mg QD, 14 days</td>
+<td align="left" valign="top">↓2%</td>
+<td align="left" valign="top">↑12%</td>
+</tr>
+<tr id="id_e8e215e3-304d-4ee4-8f51-16945b754ef5">
+<td align="left" valign="top">  Rosuvastatin 10 mg QD, 14 days</td>
+<td align="left" valign="top">↑13%</td>
+<td align="left" valign="top">↑18%</td>
+</tr>
+<tr id="id_8013d041-d080-4ddb-8fd3-7158b7799da9" stylecode="Botrule">
+<td align="left" valign="top">  Fluvastatin 20 mg QD, 14 days</td>
+<td align="left" valign="top">↓19%</td>
+<td align="left" valign="top">↑7%</td>
+</tr>
+</tbody>
+</table>

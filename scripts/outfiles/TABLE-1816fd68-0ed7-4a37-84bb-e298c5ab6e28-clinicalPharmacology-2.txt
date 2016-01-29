@@ -1,0 +1,65 @@
+<table id="t9" width="85%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9: Emergent Amino Acid Substitutions in Pooled Phase 2 and Phase 3 Trials: Subjects who did not Achieve SVR with 150 mg OLYSIO in Combination with Peg-IFN-alfa and RBV</caption>
+<col align="left" valign="top" width="40%"></col>
+<col align="center" valign="top" width="30%"></col>
+<col align="center" valign="top" width="30%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule Botrule">Emerging Amino Acid Substitutions in NS3</th>
+<th stylecode="Rrule Botrule">Genotype 1a<footnote>May include few subjects infected with HCV genotype 1 viruses of non-1a/1b subtypes.</footnote>
+<br/>N=116<br/>% (n)</th>
+<th stylecode="Rrule Botrule">Genotype 1b<br/>N=81<br/>% (n)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3">Note: substitutions at NS3 position F43 and A156 were selected in cell culture and associated with reduced simeprevir activity in the replicon assay but were not observed at time of failure.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Any substitution at NS3 position F43, Q80, S122, R155, A156, or D168<footnote>Alone or in combination with other substitutions (includes mixtures).</footnote>
+</td>
+<td stylecode="Rrule Botrule">95 (110)</td>
+<td stylecode="Rrule Botrule">86 (70)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">D168E</td>
+<td stylecode="Rrule Botrule">15 (17)</td>
+<td stylecode="Rrule Botrule">17 (14)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">D168V</td>
+<td stylecode="Rrule Botrule">10 (12)</td>
+<td stylecode="Rrule Botrule">61 (49)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Q80R<footnote id="ft9.1">Substitutions only observed in combinations with other emerging substitutions at one or more of the NS3 positions Q80, S122, R155 and/or D168.</footnote>
+</td>
+<td stylecode="Rrule Botrule">4 (5)</td>
+<td stylecode="Rrule Botrule">12 (10)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">R155K</td>
+<td stylecode="Rrule Botrule">77 (89)</td>
+<td stylecode="Rrule Botrule">0 (0)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Q80X+D168X<footnote id="ft9.2">Subjects with these combinations are also included in other rows describing the individual substitutions. X represents multiple amino acids. Other double or triple substitutions were observed with lower frequencies.</footnote>
+</td>
+<td stylecode="Rrule Botrule">4 (5)</td>
+<td stylecode="Rrule Botrule">14 (11)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">R155X+D168X<footnoteref idref="ft9.2"></footnoteref>
+</td>
+<td stylecode="Rrule Botrule">13 (15)</td>
+<td stylecode="Rrule Botrule">4 (3)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Q80K<footnoteref idref="ft9.1"></footnoteref>, S122A/G/I/T<footnoteref idref="ft9.1"></footnoteref>, S122R, R155Q, D168A, D168F<footnoteref idref="ft9.1"></footnoteref>, D168H, D168T, I170T</td>
+<td stylecode="Rrule" valign="bottom">Less than 10%</td>
+<td stylecode="Rrule" valign="bottom">Less than 10%</td>
+</tr>
+</tbody>
+</table>

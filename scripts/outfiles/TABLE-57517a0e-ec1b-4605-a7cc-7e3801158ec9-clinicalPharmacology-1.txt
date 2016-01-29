@@ -1,0 +1,96 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6: Average Concentrations of Cefepime in Specific Body Fluids (mcg/mL) or Tissues (mcg/g)</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th valign="bottom">Tissue or Fluid</th>
+<th valign="bottom">Dose/Route</th>
+<th align="center" valign="bottom"># of Patients</th>
+<th align="center" valign="bottom">Average Time of Sample Post-Dose (h)</th>
+<th align="right" valign="bottom">Average Concentration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom"> Blister Fluid</td>
+<td valign="bottom"> 2 g IV</td>
+<td align="center" valign="bottom">   6</td>
+<td align="center" valign="bottom"> 1.5</td>
+<td align="right" valign="bottom"> 81.4 mcg/mL</td>
+</tr>
+<tr>
+<td valign="bottom"> Bronchial Mucosa</td>
+<td valign="bottom"> 2 g IV</td>
+<td align="center" valign="bottom"> 20</td>
+<td align="center" valign="bottom"> 4.8</td>
+<td align="right" valign="bottom"> 24.1 mcg/g</td>
+</tr>
+<tr>
+<td valign="bottom"> Sputum</td>
+<td valign="bottom"> 2 g IV</td>
+<td align="center" valign="bottom">   5</td>
+<td align="center" valign="bottom"> 4</td>
+<td align="right" valign="bottom"> 7.4 mcg/mL</td>
+</tr>
+<tr>
+<td valign="bottom"> Urine</td>
+<td valign="bottom"> 500 mg IV</td>
+<td align="center" valign="bottom">   8</td>
+<td align="center" valign="bottom"> 0–4</td>
+<td align="right" valign="bottom"> 292 mcg/mL</td>
+</tr>
+<tr>
+<td valign="bottom"> </td>
+<td valign="bottom"> 1 g IV</td>
+<td align="center" valign="bottom"> 12</td>
+<td align="center" valign="bottom"> 0–4</td>
+<td align="right" valign="bottom"> 926 mcg/mL</td>
+</tr>
+<tr>
+<td valign="bottom"> </td>
+<td valign="bottom"> 2 g IV</td>
+<td align="center" valign="bottom"> 12</td>
+<td align="center" valign="bottom"> 0–4</td>
+<td align="right" valign="bottom"> 3120 mcg/mL</td>
+</tr>
+<tr>
+<td valign="bottom"> Bile</td>
+<td valign="bottom"> 2 g IV</td>
+<td align="center" valign="bottom"> 26</td>
+<td align="center" valign="bottom"> 9.4</td>
+<td align="right" valign="bottom"> 17.8 mcg/mL</td>
+</tr>
+<tr>
+<td valign="bottom"> Peritoneal Fluid</td>
+<td valign="bottom"> 2 g IV</td>
+<td align="center" valign="bottom"> 19</td>
+<td align="center" valign="bottom"> 4.4</td>
+<td align="right" valign="bottom"> 18.3 mcg/mL</td>
+</tr>
+<tr>
+<td valign="bottom"> Appendix</td>
+<td valign="bottom"> 2 g IV</td>
+<td align="center" valign="bottom"> 31</td>
+<td align="center" valign="bottom"> 5.7</td>
+<td align="right" valign="bottom"> 5.2 mcg/g</td>
+</tr>
+<tr>
+<td valign="bottom"> Gallbladder</td>
+<td valign="bottom"> 2 g IV</td>
+<td align="center" valign="bottom"> 38</td>
+<td align="center" valign="bottom"> 8.9</td>
+<td align="right" valign="bottom"> 11.9 mcg/g</td>
+</tr>
+<tr>
+<td valign="bottom"> Prostate</td>
+<td valign="bottom"> 2 g IV</td>
+<td align="center" valign="bottom">   5</td>
+<td align="center" valign="bottom"> 1</td>
+<td align="right" valign="bottom"> 31.5 mcg/g</td>
+</tr>
+</tbody>
+</table>

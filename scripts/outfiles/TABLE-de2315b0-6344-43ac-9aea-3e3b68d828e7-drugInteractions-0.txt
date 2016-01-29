@@ -1,0 +1,112 @@
+<table id="table4" stylecode="Noautorules" width="750" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4.  Effects of Other Drugs/Substances on ENVARSUS XR<sup>a</sup>
+</caption>
+<col width="35%"></col>
+<col width="30%"></col>
+<col width="35%"></col>
+<tfoot>
+<tr>
+<td colspan="5">
+<sup>a</sup> ENVARSUS XR dosage adjustment recommendation based on observed effect of coadministered drug on tacrolimus exposures <content stylecode="Italics">[see <content stylecode="bold">
+<linkhtml href="#SJ122">Clinical Pharmacology (12.2)</linkhtml>
+</content>
+</content>], literature reports of altered tacrolimus exposures, or the other drug’s known CYP3A inhibitor/inducer status<br/>
+<sup>b</sup> High dose or double strength grapefruit juice is a <content stylecode="italics">strong</content> CYP3A inhibitor; low dose or single strength grapefruit juice is a <content stylecode="italics">moderate</content> CYP3A inhibitor<br/>
+<sup>c</sup> Strong CYP3A inhibitor/inducer, based on reported effect on exposures to tacrolimus along with supporting <content stylecode="italics">in vitro</content> CYP3A inhibitor/inducer data, or based on drug-drug interaction studies with midazolam (sensitive CYP3A probe substrate)</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule"> Drug/Substance Class or Name</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule"> Drug Interaction Effect</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule"> Recommendations</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Lrule Toprule Rrule Botrule"> Grapefruit or grapefruit juice<sup>b</sup>
+</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) <content stylecode="italics">[see <content stylecode="bold">
+<linkhtml href="#SJ056">Warnings and Precautions (5.6,</linkhtml>
+<linkhtml href="#SJ510"> 5.10)</linkhtml>
+</content>]</content>
+</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">Avoid grapefruit or grapefruit juice</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Lrule Toprule Rrule Botrule" valign="top"> Alcohol</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">May modify  the rate of tacrolimus release</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">Avoid alcoholic beverages</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Lrule Toprule Rrule Botrule"> Strong CYP3A Inducers<sup>c</sup> such as: <br/>    Antimycobacterials (e.g.,  <br/>    rifampin, rifabutin),  <br/>    anticonvulsants (e.g., phenytoin,  <br/>    carbamazepine and  <br/>    phenobarbital), St  John’s Wort</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">May decrease tacrolimus whole blood trough concentrations and increase the risk of rejection <content stylecode="italics">[see <content stylecode="bold">
+<linkhtml href="#SJ059">Warnings and Precautions (5.9)</linkhtml>
+</content>]</content>
+</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">Increase ENVARSUS XR dose and monitor tacrolimus whole blood trough concentrations <content stylecode="italics">[see <content stylecode="bold">
+<linkhtml href="#SJ023">Dosage and Administration (2.3)</linkhtml>
+</content> and <content stylecode="bold">
+<linkhtml href="#SJ122">Clinical Pharmacology (12.2)</linkhtml>
+</content>]</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Lrule Toprule Rrule Botrule"> Strong CYP3A Inhibitors<sup>c</sup>, such as:<br/>    Protease inhibitors (e.g.,  <br/>    nelfinavir, telaprevir, boceprevir,  <br/>    ritonavir), azole antifungals (e.g.,  <br/>    voriconazole, posaconazole,  <br/>    itraconazole, ketoconazole),  <br/>    antibiotics (e.g., clarithromycin,  <br/>    troleandomycin,  <br/>    chloramphenicol), nefazodone
+											</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) <content stylecode="italics">[see <content stylecode="bold">
+<linkhtml href="#SJ056">Warnings and Precautions (5.6,</linkhtml>
+<linkhtml href="#SJ059"> 5.9,</linkhtml>
+<linkhtml href="#SJ510"> 5.10)</linkhtml>
+</content>]</content>
+</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">Reduce ENVARSUS XR dose (for voriconazole and posaconazole, give one-third of the original dose) and adjust dose based on tacrolimus whole blood trough concentrations <content stylecode="italics">[see <content stylecode="bold">
+<linkhtml href="#SJ023">Dosage and Administration (2.3)</linkhtml>
+</content> and <content stylecode="bold">
+<linkhtml href="#SJ122"> Clinical Pharmacology (12.2)</linkhtml>
+</content>]</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Lrule Toprule Rrule Botrule"> Mild or Moderate CYP3A<br/> Inhibitors, such as:<br/>
+												    antibiotics (e.g., erythromycin),  <br/>    calcium channel blockers (e.g.,  <br/>    verapamil, diltiazem, nifedipine,  <br/>    nicardipine), amiodarone,   <br/>    danazol, ethinyl estradiol,  <br/>    cimetidine, lansoprazole and  <br/>    omeprazole, azole antifungals  <br/>    (e.g., clotrimazole, fluconazole)  
+											</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) <content stylecode="italics">[see <content stylecode="bold">
+<linkhtml href="#SJ056">Warnings and Precautions (5.6,</linkhtml>
+<linkhtml href="#SJ510"> 5.10)</linkhtml>
+</content>]</content>
+</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">Monitor tacrolimus whole blood trough concentrations and reduce ENVARSUS XR dose if needed <content stylecode="italics">[see <content stylecode="bold">
+<linkhtml href="#SJ023">Dosage and Administration (2.3),</linkhtml>
+<linkhtml href="#SJ0122"> Clinical Pharmacology (12.2)</linkhtml>
+</content>]</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Lrule Toprule Rrule Botrule"> Other drugs, such as:<br/>
+												    Magnesium and aluminum <br/>     hydroxide antacids<br/>
+<br/>
+												    Metoclopramide
+											</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">May increase tacrolimus whole blood trough concentrations and increase the risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) <content stylecode="italics">[see <content stylecode="bold">
+<linkhtml href="#SJ056">Warnings and Precautions (5.6,</linkhtml>
+<linkhtml href="#SJ510"> 5.10)</linkhtml>
+</content>]</content>
+</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">Monitor tacrolimus whole blood trough concentrations and reduce ENVARSUS XR dose if needed <content stylecode="italics">[see <content stylecode="bold">
+<linkhtml href="#SJ023">Dosage and Administration (2.3),</linkhtml>
+<linkhtml href="#SJ122"> Clinical Pharmacology (12.2)</linkhtml>
+</content>]</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Lrule Toprule Rrule Botrule"> Mild or Moderate CYP3A Inducers,<br/>  such as:<br/>
+												    Methylprednisolone, prednisone
+												<br/>
+</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">May decrease tacrolimus concentrations</td>
+<td align="left" stylecode="Lrule Toprule Rrule Botrule">Monitor tacrolimus whole blood trough concentrations and adjust ENVARSUS XR dose if needed <content stylecode="italics">[see <content stylecode="bold">
+<linkhtml href="#SJ023">Dosage and Administration (2.3)</linkhtml>
+</content>]</content>
+</td>
+</tr>
+</tbody>
+</table>

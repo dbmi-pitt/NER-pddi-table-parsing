@@ -1,0 +1,82 @@
+<table border="single" id="id_5e070dad-2fe7-4533-8823-f3c8d061ce5f" width="521.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_ac4b42ec-ab5f-415a-9b90-d87fdd851447">AZITHROMYCIN CONCENTRATIONS FOLLOWING A 500 mg DOSE (TWO 250 mg CAPSULES) IN ADULTS</caption>
+<col width="15.5%"></col>
+<col width="15.0%"></col>
+<col width="23.2%"></col>
+<col width="21.1%"></col>
+<col width="25.1%"></col>
+<tbody>
+<tr id="id_62e3b397-b7c2-4550-b173-8b472ce95b46">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">TISSUE OR FLUID</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>TIME AFTER</paragraph>DOSE (h)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>TISSUE OR FLUID</paragraph>
+<paragraph>CONCENTRATION</paragraph>(mcg/g or mcg/mL) <footnote id="id-e015de8a-77d9-4761-868f-073e5fd4e75d">High tissue concentrations should not be interpreted to be quantitatively related to clinical efficacy. The antimicrobial activity of azithromycin is pH related and appears to be reduced with decreasing pH. However, the extensive distribution of drug to tissues may be relevant to clinical activity.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>CORRESPONDING</paragraph>
+<paragraph>PLASMA OR SERUM</paragraph>LEVEL (mcg/mL)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="underline">TISSUE (FLUID)</content>
+</paragraph>
+<paragraph>PLASMA (SERUM)</paragraph>RATIO <footnoteref idref="id-e015de8a-77d9-4761-868f-073e5fd4e75d"></footnoteref>
+</td>
+</tr>
+<tr id="id_013a240d-ab8e-4f98-8884-286bcec1c65c">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> SKIN</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">72 to 96</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.012</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 35</td>
+</tr>
+<tr id="id_347f7807-97a1-4346-b81e-a4861d9beee6">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> LUNG</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">72 to 96</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.012</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">&gt; 100</td>
+</tr>
+<tr id="id_3d7b1766-c213-4953-8db7-8e218baf9d26">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> SPUTUM<footnote id="id-c47027de-0d44-4767-a3b2-e8452dae483a">Sample was obtained 2 to 4 hours after the first dose.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2 to 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.64</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 2</td>
+</tr>
+<tr id="id_39dd6ad0-9ca3-433c-99c0-2010452f15a2">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> SPUTUM<footnote id="id-af291537-c1c5-43db-b029-1d2ea96e04e7">Sample was obtained 10 to 12 hours after the first dose.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">10 to 12</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">2.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 30</td>
+</tr>
+<tr id="id_01c8913c-6a36-4a1b-b235-53d1ed90bf11">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> TONSIL<footnote id="id-f22604c1-6909-421e-a2b4-bcd13df75d52">Dosing regimen of 2 doses of 250 mg each, separated by 12 hours.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">9 to 18</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">4.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.03</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">&gt; 100</td>
+</tr>
+<tr id="id_3b9cfd1e-2980-452b-9183-cddcb5536e3e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"> TONSIL<footnoteref idref="id-f22604c1-6909-421e-a2b4-bcd13df75d52"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">180</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.006</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">&gt; 100</td>
+</tr>
+<tr id="id_adeb3bc4-82c7-420c-813c-a52d06bebbe8">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">CERVIX<footnote id="id-ac831d14-32f7-4cee-b2e7-bd29b4bacab9">Sample was obtained 19 hours after a single 500 mg dose.</footnote>
+</td>
+<td align="center" stylecode="Rrule" valign="top">19</td>
+<td align="center" stylecode="Rrule" valign="top">2.8</td>
+<td align="center" stylecode="Rrule" valign="top">0.04</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 70</td>
+</tr>
+</tbody>
+</table>

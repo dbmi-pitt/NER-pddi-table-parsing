@@ -1,0 +1,144 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9          Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Elvitegravir plus Cobicistat, Cobicistat, or STRIBILD<footnote>All interaction studies conducted in healthy volunteers.</footnote>
+</caption>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="4%"></col>
+<col align="center" valign="middle" width="12%"></col>
+<col align="center" valign="middle" width="12%"></col>
+<col align="center" valign="middle" width="12%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">Coadministered Drug</th>
+<th rowspan="2" stylecode="Rrule">Dose of Coadministered<br/>Drug (mg)</th>
+<th rowspan="2" stylecode="Rrule">Elvitegravir Dose<footnote>N/A = Not Applicable</footnote> (mg)</th>
+<th rowspan="2" stylecode="Rrule">Cobicistat Booster Dose (mg)</th>
+<th rowspan="2" stylecode="Rrule">N</th>
+<th colspan="3" stylecode="Rrule">Mean Ratio of Coadministered<br/>Drug Pharmacokinetic<br/>Parameters<footnote>NC = Not Calculated</footnote> (90%  CI);  No effect = 1.00</th>
+</tr>
+<tr>
+<th stylecode="Rrule">C<sub>max</sub>
+</th>
+<th stylecode="Rrule">AUC</th>
+<th stylecode="Rrule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Buprenorphine</td>
+<td rowspan="2" stylecode="Rrule Botrule">16 – 24 once daily</td>
+<td rowspan="2" stylecode="Rrule Botrule">150 once daily</td>
+<td rowspan="2" stylecode="Rrule">150 once daily</td>
+<td rowspan="2" stylecode="Rrule Botrule">17</td>
+<td stylecode="Rrule Botrule">1.12<br/>(0.98 to 1.27)</td>
+<td stylecode="Rrule Botrule">1.35<br/>(1.18 to 1.55)</td>
+<td stylecode="Rrule Botrule">1.66<br/>(1.43 to 1.93)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule">Norbuprenorphine</td>
+<td stylecode="Rrule">1.24<br/>(1.03 to 1.49)</td>
+<td stylecode="Rrule">1.42<br/>(1.22 to 1.67)</td>
+<td stylecode="Rrule">1.57<br/>(1.31 to 1.88)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Desipramine</td>
+<td stylecode="Rrule Botrule">50 single dose</td>
+<td stylecode="Rrule Botrule">N/A</td>
+<td stylecode="Rrule Toprule">150 once daily</td>
+<td stylecode="Rrule Botrule">8</td>
+<td stylecode="Rrule Botrule">1.24<br/>(1.08,1.44)</td>
+<td stylecode="Rrule Botrule" valign="top"> <br/>1.65<br/>(1.36,2.02)</td>
+<td stylecode="Rrule Botrule">NC</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Digoxin</td>
+<td stylecode="Rrule Botrule">0.5 single dose</td>
+<td stylecode="Rrule Botrule">N/A</td>
+<td stylecode="Rrule Toprule">150 once daily</td>
+<td stylecode="Rrule Botrule">22</td>
+<td stylecode="Rrule Botrule">1.41<br/>(1.29,1.55)</td>
+<td stylecode="Rrule Botrule">1.08 (1.00,1.17)</td>
+<td stylecode="Rrule Botrule">NC</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">Naloxone</td>
+<td stylecode="Rrule Botrule">4 – 6 once daily</td>
+<td stylecode="Rrule Botrule">150 once daily</td>
+<td stylecode="Rrule Toprule">150 once daily</td>
+<td stylecode="Rrule Botrule">17</td>
+<td stylecode="Rrule Botrule">0.72<br/>(0.61, 0.85)</td>
+<td stylecode="Rrule Botrule">0.72<br/>(0.59, 0.87)</td>
+<td stylecode="Rrule Botrule">N/A</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule">Norgestimate/ ethinyl estradiol</td>
+<td stylecode="Rrule">0.180/0.215/ 0.250 norgestimate once daily</td>
+<td rowspan="2" stylecode="Rrule">150 once daily<footnote id="ft9.1">Study conducted with STRIBILD.</footnote>
+</td>
+<td rowspan="2" stylecode="Rrule Toprule">150 once daily<footnoteref idref="ft9.1"></footnoteref>
+</td>
+<td rowspan="2" stylecode="Rrule">13</td>
+<td stylecode="Rrule">2.08<br/>(2.00,2.17)</td>
+<td stylecode="Rrule">2.26<br/>(2.15,2.37)</td>
+<td stylecode="Rrule">2.67<br/>(2.43,2.92)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">0.025 ethinyl estradiol once daily</td>
+<td stylecode="Rrule">0.94<br/>(0.86,1.04)</td>
+<td stylecode="Rrule">0.75<br/>(0.69,0.81)</td>
+<td stylecode="Rrule">0.56<br/>(0.52,0.61)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">R-Methadone</td>
+<td rowspan="2" stylecode="Rrule">80–120 daily</td>
+<td rowspan="2" stylecode="Rrule">150 once daily</td>
+<td rowspan="2" stylecode="Rrule Botrule">150 once daily</td>
+<td rowspan="2" stylecode="Rrule Botrule">11</td>
+<td stylecode="Rrule Botrule">1.01<br/>(0.91, 1.13)</td>
+<td stylecode="Rrule Botrule">1.07<br/>(0.96, 1.19</td>
+<td stylecode="Rrule Botrule">1.10<br/>(0.95, 1.28)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">S-Methadone</td>
+<td stylecode="Rrule">0.96<br/>(0.87, 1.06)</td>
+<td stylecode="Rrule">1.00<br/>(0.89, 1.12)</td>
+<td stylecode="Rrule">1.02<br/>(0.89, 1.17)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifabutin</td>
+<td rowspan="2" stylecode="Rrule Toprule">150 once every other day</td>
+<td rowspan="2" stylecode="Rrule Toprule">150 once daily</td>
+<td rowspan="2" stylecode="Rrule">150 once daily</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">1.09<br/>(0.98,1.20)<footnote id="ft9.2">Comparison based on rifabutin 300 mg once daily.</footnote>
+</td>
+<td stylecode="Rrule">0.92<br/>(0.83,1.03)<footnoteref idref="ft9.2"></footnoteref>
+</td>
+<td stylecode="Rrule">0.94<br/>(0.85,1.04)<footnoteref idref="ft9.2"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">25-O-desacetyl-rifabutin</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">4.84<br/>(4.09,5.74)<footnoteref idref="ft9.2"></footnoteref>
+</td>
+<td stylecode="Rrule">6.25<br/>(5.08,7.69)<footnoteref idref="ft9.2"></footnoteref>
+</td>
+<td stylecode="Rrule">4.94<br/>(4.04,6.04)<footnoteref idref="ft9.2"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Rosuvastatin</td>
+<td stylecode="Rrule">10 single dose</td>
+<td stylecode="Rrule">150 single dose</td>
+<td stylecode="Rrule">150 single dose</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">1.89<br/>(1.48,2.42)</td>
+<td stylecode="Rrule">1.38<br/>(1.14,1.67)</td>
+<td stylecode="Rrule">NC</td>
+</tr>
+</tbody>
+</table>

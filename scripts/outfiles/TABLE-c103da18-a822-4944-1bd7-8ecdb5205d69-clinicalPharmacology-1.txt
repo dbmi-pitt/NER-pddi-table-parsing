@@ -1,0 +1,53 @@
+<table border="1" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Parameters</content>
+</td>
+<td>
+<content stylecode="bold">500 mg</content>
+</td>
+<td>
+<content stylecode="bold">400 mg</content>
+</td>
+<td>
+<content stylecode="bold">750 mg</content>
+</td>
+<td>
+<content stylecode="bold">400 mg</content>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>every 12 hours,<br/>orally</td>
+<td>every 12 hours,<br/>intravenous</td>
+<td>every 12 hours,<br/>orally.</td>
+<td>every 8<br/> hours, IV</td>
+</tr>
+<tr>
+<td>AUC (mcg•hr/mL)</td>
+<td> 13.7<sup>1</sup>
+</td>
+<td> 12.7<content stylecode="italics">
+<sup>1</sup>
+</content>
+</td>
+<td> 31.6<content stylecode="italics">
+<sup>2</sup>
+</content>
+</td>
+<td> 32.9<content stylecode="italics">
+<sup>3</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td>C<sub>max</sub> (mcg/mL)</td>
+<td>2.97</td>
+<td>4.56</td>
+<td>3.59</td>
+<td>4.07<br/>
+</td>
+</tr>
+</tbody>
+</table>

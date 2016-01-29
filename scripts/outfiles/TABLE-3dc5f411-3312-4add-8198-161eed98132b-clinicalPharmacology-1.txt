@@ -1,0 +1,59 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Acceptable Quality Control Ranges for Metronidazole</caption>
+<col width="24%"></col>
+<col width="23%"></col>
+<col width="21%"></col>
+<col width="33%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold">QC Strain</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Toprule " valign="middle"></td>
+<td align="center" colspan="2" stylecode="Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory<br/>concentration (mcg/mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Rrule Botrule " valign="top"></td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Agar</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Toprule Botrule " valign="middle">
+<paragraph>
+<content stylecode="bold">Broth</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Rrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Bacteroides fragilis </content>ATCC 25285</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>0.25 to 1.0</paragraph>
+</td>
+<td align="center" stylecode="Lrule Toprule Botrule " valign="middle">
+<paragraph>0.25 to 2.0</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="italics">Bacteroides thetaiotaomicron </content>ATCC 29741</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>0.5 to 2.0</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="middle">
+<paragraph>0.5 to 4.0</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

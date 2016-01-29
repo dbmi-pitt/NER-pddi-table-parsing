@@ -1,0 +1,144 @@
+<table id="ID247" width="101%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="15%"></col>
+<col width="21%"></col>
+<col width="21%"></col>
+<col width="10%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="6" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Table 2. Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs [see DRUG INTERACTIONS (<linkhtml href="#ID209">7</linkhtml>)]. </td>
+</tr>
+<tr>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">Co</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">administered </content>
+<content stylecode="bold">Drug</content>
+<br/>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">Dose </content>
+<content stylecode="bold">of </content>
+<content stylecode="bold">Co</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">administered </content>
+<content stylecode="bold">Drug</content>
+<br/>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">Dose </content>
+<content stylecode="bold">of </content>
+<content stylecode="bold">Azithromycin</content>
+<br/>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">n</content>
+<br/>
+</td>
+<td align="justify" colspan="2" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">Ratio </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">with</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">without </content>
+<content stylecode="bold">co</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">administered </content>
+<content stylecode="bold">drug</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">of </content>
+<content stylecode="bold">Azithromycin </content>
+<content stylecode="bold">Pharmacokinetic </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">Parameters </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">90</content>
+<content stylecode="bold">% </content>
+<content stylecode="bold">CI</content>
+<content stylecode="bold">); </content>
+<content stylecode="bold">No </content>
+<content stylecode="bold">Effect </content>
+<content stylecode="bold">= </content>
+<content stylecode="bold">1</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">            </content>
+<content stylecode="bold">Mean </content>
+<content stylecode="bold">C<sub>m</sub>
+<sub>a</sub>
+<sub>x</sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+<sub> </sub>
+</content>
+<content stylecode="bold">Mean </content>
+<content stylecode="bold">AUC</content>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Efavirenz<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">400 mg/day for 7 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">600 mg orally on day 7<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">14<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">1.22 <br/>(1.04 to 1.42)<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.92<footnote id="ID247_1">-90% Confidence interval not reported</footnote>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Fluconazole<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">200 mg orally single dose<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">1,200 mg orally single dose<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">18<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.82 <br/>(0.66 to 1.02)<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">1.07 <br/>(0.94 to 1.22)<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">Nelfinavir<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">750 mg three times a day for 11 days<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">1,200 mg orally on day 9<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">14<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">2.36 <br/>(1.77 to 3.15)<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">2.12 <br/>(1.80 to 2.50)<br/>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,51 @@
+<table width="60%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Pharmacokinetic Characteristics of Verapamil Enantiomers After Administration of Escalating Doses</caption>
+<col align="left" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th colspan="4">Total Dose of Racemic Verapamil (mg)</th>
+</tr>
+<tr>
+<th></th>
+<th>Isomer</th>
+<th stylecode="Toprule">120</th>
+<th stylecode="Toprule">180</th>
+<th stylecode="Toprule">360</th>
+<th stylecode="Toprule">540</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Toprule">Dose Ratio</td>
+<td stylecode="Toprule">—</td>
+<td stylecode="Toprule">1</td>
+<td stylecode="Toprule">1.5</td>
+<td stylecode="Toprule">3</td>
+<td stylecode="Toprule">4.5</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="middle">Relative C<sub>max</sub>
+</td>
+<td stylecode="Toprule">R<br/>S</td>
+<td stylecode="Toprule">1<br/>1</td>
+<td stylecode="Toprule">1.55<br/>1.62</td>
+<td stylecode="Toprule">4.47<br/>5.17</td>
+<td stylecode="Toprule">7.06<br/>9.21</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="middle">Relative AUC</td>
+<td stylecode="Toprule">R<br/>S</td>
+<td stylecode="Toprule">1<br/>1</td>
+<td stylecode="Toprule">1.59<br/>1.89</td>
+<td stylecode="Toprule">6.14<br/>8.17</td>
+<td stylecode="Toprule">11.1<br/>15.9</td>
+</tr>
+</tbody>
+</table>

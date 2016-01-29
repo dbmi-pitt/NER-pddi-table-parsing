@@ -1,0 +1,31 @@
+<table id="id_2c37d221-d142-4b9b-87b9-5481c3822073" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="50%"></col>
+<col align="left" width="50%"></col>
+<thead>
+<tr id="id_6ec8128e-9a98-4662-b7b7-34c588764f72" stylecode="Toprule">
+<td align="center" colspan="2" stylecode="Lrule Botrule" valign="top">Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis (<linkhtml href="#i4i_section_id_0317143a-771f-4c31-9ae2-23c96aac30f0">2.6</linkhtml>,<linkhtml href="#i4i_section_id_2fa84e28-00cc-4a6b-96d9-665f61f52637"> 5.1</linkhtml>,<linkhtml href="#i4i_interactions_id_c0f192db-2708-4882-a3ef-211eb8522f03"> 7</linkhtml>,<linkhtml href="#i4i_pharmacokinetics_id_5e2062f3-7e93-430f-8716-f371346fb40d"> 12.3</linkhtml>)</td>
+</tr>
+<tr id="id_417fee32-9a7d-478d-b2dd-45ffa44cb793" stylecode="Botrule">
+<td align="left" stylecode="Botrule Rrule" valign="top">Interacting Agents </td>
+<td align="left" stylecode="Lrule Botrule" valign="top">Prescribing Recommendations </td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_a0bce2c7-616f-4133-aec6-8b53936d7e07" stylecode="Toprule">
+<td align="left" stylecode="Rrule" valign="top">Cyclosporine, HIV protease inhibitors (tipranavir plus ritonavir), hepatitis C protease inhibitor (telaprevir)</td>
+<td align="left" valign="top">Avoid atorvastatin</td>
+</tr>
+<tr id="id_320d7941-11f6-403f-847f-c21810371157">
+<td align="left" stylecode="Rrule" valign="top">HIV protease inhibitor (lopinavir plus ritonavir)</td>
+<td align="left" valign="top">Use with caution and lowest dose necessary</td>
+</tr>
+<tr id="id_63eb4031-bfbf-4d63-8c1a-bebb4da3f997">
+<td align="left" stylecode="Rrule" valign="top">Clarithromycin, itraconazole, HIV protease inhibitors (saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir )</td>
+<td align="left" valign="bottom">Do not exceed 20 mg atorvastatin daily</td>
+</tr>
+<tr id="id_0f11c1b9-c9bd-45a0-acae-ff5b37a614fe" stylecode="Botrule">
+<td align="left" stylecode="Rrule" valign="top">HIV protease inhibitor (nelfinavir)</td>
+<td align="left" valign="bottom">Do not exceed 40 mg atorvastatin daily</td>
+</tr>
+</tbody>
+</table>

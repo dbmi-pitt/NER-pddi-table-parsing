@@ -1,0 +1,68 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="20%"></col>
+<col width="27%"></col>
+<col width="29%"></col>
+<col width="23%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="4" stylecode="Botrule" valign="top">
+<sup>**</sup>Statistically significantly different than placebo (p&lt;0.001)<br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" colspan="4" stylecode="Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Table 1</content>
+<br/>Outpatients with Endoscopically<br/>
+<content stylecode="underline">Confirmed Healed Duodenal Ulcers</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>
+<content stylecode="underline">Famotidine Tablets</content>
+<br/>40 mg h.s.<br/>(N = 89)<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>
+<content stylecode="underline">Famotidine Tablets</content>
+<br/>20 mg b.i.d.<br/>(N = 84)<br/>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>
+<content stylecode="underline">Placebo</content>
+<br/>h.s.<br/>(N = 97)<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Week 2<br/>Week 4<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<sup>**</sup>32%<br/>
+<sup>**</sup>70%<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<sup>**</sup>38%<br/>
+<sup>**</sup>67%<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>17%<br/>31%<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

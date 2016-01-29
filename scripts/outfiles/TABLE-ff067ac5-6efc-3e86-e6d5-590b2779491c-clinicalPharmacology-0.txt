@@ -1,0 +1,31 @@
+<table border="1" id="SPLSERV-1c944483-9c05-1ed6-631e-e11dea8f3d34" width="312" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="SPLSERV-470429c4-46c7-365f-82c9-9e344cab61a9">Adult Pharmacokinetic Data</caption>
+<col align="left" width="50.6%"></col>
+<col align="left" width="49.4%"></col>
+<tbody>
+<tr id="SPLSERV-2d953204-5d4c-7e2e-60e0-3e759b64749c">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Parameter</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Value</content>
+</td>
+</tr>
+<tr id="SPLSERV-5808ce71-4bed-be51-5668-5dc21daed5fa">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Vd (L/kg)</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">~ 3.5</td>
+</tr>
+<tr id="SPLSERV-d36d83d1-7580-62a1-3d30-d47469876803">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Plasma Protein Binding</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">~ 30%</td>
+</tr>
+<tr id="SPLSERV-1a7fd6cf-3938-bba1-3ec2-7e60040b1201">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">t<sub>1/2</sub> (hr)</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">5 to 6</td>
+</tr>
+<tr id="SPLSERV-bc88d374-16a3-ea55-74f9-500cff393a64">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Oral Bioavailability</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">80% ± 15.5%</td>
+</tr>
+</tbody>
+</table>

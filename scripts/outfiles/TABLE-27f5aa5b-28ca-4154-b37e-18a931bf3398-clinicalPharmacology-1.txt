@@ -1,0 +1,30 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="10.3%"></col>
+<col width="42.3%"></col>
+<col width="48.7%"></col>
+<tbody>
+<tr>
+<td align="center" valign="top"> </td>
+<td valign="top">     <content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" valign="top"> <content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"> </td>
+<td valign="top"> <content stylecode="italics">E. coli</content> ATCC 25922</td>
+<td align="center" valign="top"> 4-16</td>
+</tr>
+<tr>
+<td align="center" valign="top"> </td>
+<td valign="top">
+<content stylecode="italics">S. aureus</content> ATCC 29213</td>
+<td align="center" valign="top">0.12-0.5</td>
+</tr>
+<tr>
+<td align="center" valign="top"> </td>
+<td valign="top"> </td>
+<td align="center" valign="top"> </td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,27 @@
+<table width="60%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="top" width="50%"></col>
+<col align="left" valign="top" width="50%"></col>
+<thead>
+<tr>
+<th>Organism</th>
+<th>Zone Diameter (mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<content stylecode="italics">E. coli</content> ATCC 25922</td>
+<td>18–26</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">P. aeruginosa</content> ATCC 27853</td>
+<td>19–25</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">S. aureus</content> ATCC 25923</td>
+<td>19–29</td>
+</tr>
+</tbody>
+</table>

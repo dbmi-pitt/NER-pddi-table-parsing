@@ -1,0 +1,32 @@
+<table border="1" frame="border" id="inv-1ea3d92e-4a5e-473c-9a04-789c4477988c" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-fd5d162d-b5ee-4644-a8ae-b447cc699fbb">Interpretive Criteria for Streptococcus pneumoniae<sup>c</sup>
+</caption>
+<col width="175px"></col>
+<col width="116px"></col>
+<col width="166px"></col>
+<col width="166px"></col>
+<thead valign="bottom">
+<tr valign="bottom">
+<td stylecode="Botrule Lrule Rrule Toprule" valign="bottom">Microorganism</td>
+<td stylecode="Botrule Rrule Toprule" valign="bottom"></td>
+<td stylecode="Botrule Rrule Toprule" valign="bottom">MIC Interpretive Data (mcg/mL)</td>
+<td stylecode="Botrule Rrule Toprule" valign="bottom"></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Rrule"></td>
+<td align="center" stylecode="Botrule Rrule">Susceptible (S)</td>
+<td align="center" stylecode="Botrule Rrule">Intermediate (I)</td>
+<td align="center" stylecode="Botrule Rrule">Resistant (R)</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule">≤2</td>
+<td align="center" stylecode="Botrule Rrule">4</td>
+<td align="center" stylecode="Botrule Rrule">≥8</td>
+</tr>
+</tbody>
+</table>

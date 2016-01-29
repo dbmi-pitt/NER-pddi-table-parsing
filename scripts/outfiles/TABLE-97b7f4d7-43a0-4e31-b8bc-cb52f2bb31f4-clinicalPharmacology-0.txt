@@ -1,0 +1,29 @@
+<table cellpadding="0.2pt" cellspacing="1.2pt" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="27%"></col>
+<col width="34%"></col>
+<col width="30%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<paragraph>CrCl = </paragraph>
+</td>
+<td stylecode="Botrule Toprule ">
+<paragraph>[140 − age (years)] × weight (kg) </paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>{× 0.85 for female patients}</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph> </paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>[72 × serum creatinine (mg/dL)]</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph> </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

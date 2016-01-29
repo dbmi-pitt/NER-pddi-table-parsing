@@ -1,0 +1,562 @@
+<table border="0" id="t23593122" rules="none" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8 Drug Interactions: Pharmacokinetic Parameters for
+Co-administered Drug in the Presence of APTIVUS/ritonavir</caption>
+<colgroup>
+<col align="left" valign="top" width="12.5%"></col>
+<col width="12.5%"></col>
+<col width="12.5%"></col>
+<col width="12.5%"></col>
+<col width="12.5%"></col>
+<col width="12.5%"></col>
+<col width="12.5%"></col>
+<col width="12.5%"></col>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="2" stylecode="BOLD Toprule Botrule" valign="bottom">Co-administered Drug</th>
+<th align="left" rowspan="2" stylecode="BOLD" valign="bottom">Co-administered
+Drug Dose (Schedule)</th>
+<th align="left" rowspan="2" stylecode="BOLD" valign="bottom">tipranavir/ritonavir
+Drug Dose (Schedule)</th>
+<th align="left" rowspan="2" stylecode="BOLD" valign="bottom">n</th>
+<th align="left" rowspan="2" stylecode="BOLD" valign="bottom">PK</th>
+<th colspan="3" stylecode="Botrule">
+<content stylecode="bold">
+<content stylecode="emphasis">Ratio (90% Confidence
+Interval) of Co-administered Drug <br/> Pharmacokinetic Parameters
+with/without<br/>tipranavir/ritonavir;<br/> No Effect
+= 1.00</content>
+</content>
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="BOLD Toprule Botrule">C<sub>max</sub>
+</th>
+<th align="center" stylecode="BOLD Toprule Botrule">AUC</th>
+<th align="center" stylecode="BOLD Toprule Botrule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="8">
+<sup>a</sup> HIV-1 positive
+patients<br/>
+<sup>b</sup> Buprenorphine/Naloxone
+maintenance patients<br/>
+<sup>c</sup> HIV-1
+positive patients (tipranavir/ritonavir 250 mg/200 mg, 750 mg/200
+mg and 1250 mg/100 mg) and healthy volunteers (tipranavir/ritonavir
+500 mg/100 mg and 750 mg/200 mg)<br/>
+<sup>d</sup> Normalized sum of parent drug (rifabutin) and active metabolite
+(25-O-desacetyl-rifabutin)<br/>
+<sup>e</sup> Intensive PK analysis<br/>
+<sup>f</sup> Drug
+levels obtained at 8-16 hrs post-dose<br/>
+<sup>g</sup> n = 14 for C<sub>min</sub>
+<br/>
+<sup>h</sup> Administered as Valacyclovir<br/>↑ increase, ↓ decrease,
+↔ no change, ↕ unable to predict</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Abacavir<sup>a</sup>
+</td>
+<td valign="top">300 mg BID<br/>(43 doses)</td>
+<td valign="top">250/200 mg BID<br/>750/100 mg BID<br/>1250/100 mg BID<br/>(42 doses)</td>
+<td valign="top">28<br/>14<br/>11</td>
+<td valign="top">↓<br/>↓<br/>↓</td>
+<td valign="top">0.56 (0.48, 0.66)<br/>0.54 (0.47, 0.63)<br/>0.48 (0.42, 0.53)</td>
+<td valign="top">0.56 (0.49, 0.63)<br/>0.64 (0.55, 0.74)<br/>0.65 (0.55, 0.76)</td>
+<td valign="top">-<br/>-<br/>-</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Acyclovir<sup>h</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">500 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg BID<br/>(23
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">26</td>
+<td stylecode="Toprule Botrule" valign="top">↔</td>
+<td stylecode="Toprule Botrule" valign="top">0.95 (0.88, 1.02)</td>
+<td stylecode="Toprule Botrule" valign="top">1.07 (1.04, 1.09)</td>
+<td stylecode="Toprule Botrule" valign="top">-</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Amprenavir/ritonavir<sup>a</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">600/100 mg BID<br/>(27
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg BID<br/>(28
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">16<br/>74</td>
+<td stylecode="Toprule Botrule" valign="top">↓<br/>↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.61 (0.51, 0.73)<sup>e</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">0.56 (0.49, 0.64)<sup>e</sup>
+<br/>-</td>
+<td stylecode="Toprule Botrule" valign="top">0.45 (0.38, 0.53)<sup>e</sup>
+<br/>0.44 (0.39, 0.49)<sup>f</sup>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Atazanavir/ritonavir</td>
+<td stylecode="Toprule Botrule" valign="top">300/100 mg QD<br/>(9
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">500/100 mg BID<br/>(34
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">13</td>
+<td stylecode="Toprule Botrule" valign="top">↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.43 (0.38, 0.50)</td>
+<td stylecode="Toprule Botrule" valign="top">0.32 (0.29, 0.36)</td>
+<td stylecode="Toprule Botrule" valign="top">0.19 (0.15, 0.24)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Atorvastatin</td>
+<td stylecode="Toprule Botrule" valign="top">10 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg BID<br/>(17
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">22</td>
+<td stylecode="Toprule Botrule" valign="top">↑</td>
+<td stylecode="Toprule Botrule" valign="top">8.61 (7.25, 10.21)</td>
+<td stylecode="Toprule Botrule" valign="top">9.36 (8.02, 10.94)</td>
+<td stylecode="Toprule Botrule" valign="top">5.19 (4.21, 6.40)</td>
+</tr>
+<tr>
+<td align="center" colspan="2" stylecode="Toprule" valign="top">	Orthohydroxy-atorvastatin</td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">21, 12, 17</td>
+<td stylecode="Toprule Botrule" valign="top">↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.02 (0.02, 0.03)</td>
+<td stylecode="Toprule Botrule" valign="top">0.11 (0.08, 0.17)</td>
+<td stylecode="Toprule Botrule" valign="top">0.07 (0.06, 0.08)</td>
+</tr>
+<tr>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">	Parahydroxy-atorvastatin</td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">13, 22, 1</td>
+<td stylecode="Toprule Botrule" valign="top">↓</td>
+<td stylecode="Toprule Botrule" valign="top">1.04 (0.87, 1.25)</td>
+<td stylecode="Toprule Botrule" valign="top">0.18 (0.14, 0.24)</td>
+<td stylecode="Toprule Botrule" valign="top">0.33 (NA)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Buprenorphine/<br/>Naloxone<sup>b</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">16/4 mg<br/>24/6 mg<br/>(daily)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg BID<br/>(16
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Buprenorphine</td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">10</td>
+<td stylecode="Toprule Botrule" valign="top">↔</td>
+<td stylecode="Toprule Botrule" valign="top">0.86 (0.68, 1.10)</td>
+<td stylecode="Toprule Botrule" valign="top">0.99 (0.80, 1.23)</td>
+<td stylecode="Toprule Botrule" valign="top">0.94 (0.74, 1.19)</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">Carbamazepine</td>
+<td stylecode="Toprule" valign="top">100 mg BID<br/>(29 doses)</td>
+<td stylecode="Toprule" valign="top">500/200 mg<br/>(1 dose)</td>
+<td stylecode="Toprule" valign="top">7</td>
+<td stylecode="Toprule" valign="top">↔</td>
+<td stylecode="Toprule" valign="top">1.04 (1.00, 1.07)</td>
+<td stylecode="Toprule" valign="top">1.05 (1.02, 1.09)</td>
+<td stylecode="Toprule" valign="top">1.17 (1.11, 1.24)</td>
+</tr>
+<tr>
+<td colspan="8"> </td>
+</tr>
+<tr>
+<td> </td>
+<td>(43 doses)</td>
+<td>(15 doses)</td>
+<td>7</td>
+<td>↔</td>
+<td>1.10 (0.85, 1.42)</td>
+<td>1.08 (0.91, 1.27)</td>
+<td>1.07 (0.90, 1.27)</td>
+</tr>
+<tr>
+<td> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+</tr>
+<tr>
+<td> </td>
+<td stylecode="Toprule">200 mg BID<br/>(29 doses)</td>
+<td stylecode="Toprule">500/200 mg<br/>(1 dose)</td>
+<td stylecode="Toprule">17</td>
+<td stylecode="Toprule">↔</td>
+<td stylecode="Toprule">1.00 (0.96, 1.04)</td>
+<td stylecode="Toprule">1.04 (1.00, 1.08)</td>
+<td stylecode="Toprule">1.16 (1.11, 1.22)</td>
+</tr>
+<tr>
+<td colspan="8"> </td>
+</tr>
+<tr>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule">(43 doses)</td>
+<td stylecode="Botrule">(15 doses)</td>
+<td stylecode="Botrule">17</td>
+<td stylecode="Botrule">↑</td>
+<td stylecode="Botrule">1.22 (1.11, 1.34)</td>
+<td stylecode="Botrule">1.26 (1.15, 1.38)</td>
+<td stylecode="Botrule">1.35 (1.22, 1.50)</td>
+</tr>
+<tr>
+<td stylecode="Toprule">Clarithromycin</td>
+<td stylecode="Toprule Botrule" valign="top">500 mg BID<br/>(25
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg BID<br/>(15
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">21</td>
+<td stylecode="Toprule Botrule" valign="top">↑</td>
+<td stylecode="Toprule Botrule" valign="top">0.95 (0.83, 1.09)</td>
+<td stylecode="Toprule Botrule" valign="top">1.19 (1.04, 1.37)</td>
+<td stylecode="Toprule Botrule" valign="top">1.68 (1.42, 1.98)</td>
+</tr>
+<tr>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">	14-OH-clarithromycin
+ </td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">21</td>
+<td stylecode="Toprule Botrule" valign="top">↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.03 (0.02, 0.04)</td>
+<td stylecode="Toprule Botrule" valign="top">0.03 (0.02, 0.04)</td>
+<td stylecode="Toprule Botrule" valign="top">0.05 (0.04, 0.07)</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">Didanosine<sup>c</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">200 mg BID, ≥60 kg<br/>125 mg BID, &lt;60 kg<br/>(43 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">250/200 mg BID<br/>750/100
+mg BID<br/>1250/100 mg BID<br/>(42 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">10<br/>8<br/>9</td>
+<td stylecode="Toprule Botrule" valign="top">↓<br/>↔<br/>↔</td>
+<td stylecode="Toprule Botrule" valign="top">0.57 (0.42, 0.79)<br/>0.76 (0.49, 1.17)<br/>0.77 (0.47, 1.26)</td>
+<td stylecode="Toprule Botrule" valign="top">0.67 (0.51, 0.88)<br/>0.97 (0.64, 1.47)<br/>0.87 (0.47, 1.65)</td>
+<td stylecode="Toprule Botrule" valign="top">-<br/>-<br/>-</td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">400 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">500/100 mg BID<br/>(27
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">5</td>
+<td stylecode="Toprule Botrule" valign="top">↔</td>
+<td stylecode="Toprule Botrule" valign="top">0.80 (0.63, 1.02)</td>
+<td stylecode="Toprule Botrule" valign="top">0.90 (0.72, 1.11)</td>
+<td stylecode="Toprule Botrule" valign="top">1.17 (0.62, 2.20)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Efavirenz<sup>c</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">600 mg QD<br/>(15 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">500/100 mg BID<br/>750/200
+mg BID<br/>(15 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">24<br/>22</td>
+<td stylecode="Toprule Botrule" valign="top">↔<br/>↔</td>
+<td stylecode="Toprule Botrule" valign="top">1.09 (0.99, 1.19)<br/>1.12 (0.98, 1.28)</td>
+<td stylecode="Toprule Botrule" valign="top">1.04 (0.97, 1.12)<br/>1.00 (0.93, 1.09)</td>
+<td stylecode="Toprule Botrule" valign="top">1.02 (0.92, 1.12)<br/>0.94 (0.84, 1.04)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Ethinyl estradiol </td>
+<td stylecode="Toprule Botrule" valign="top">0.035 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">500/100 mg BID<br/>750/200
+mg BID<br/>(21 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">21<br/>13</td>
+<td stylecode="Toprule Botrule" valign="top">↓<br/>↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.52 (0.47, 0.57)<br/>0.48 (0.42, 0.57)</td>
+<td stylecode="Toprule Botrule" valign="top">0.52 (0.48, 0.56)<br/>0.57 (0.54, 0.60)</td>
+<td stylecode="Toprule Botrule" valign="top">-<br/>-</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Fluconazole </td>
+<td stylecode="Toprule Botrule" valign="top">200 mg (Day 1) then<br/>100 mg QD<br/>(6 or 12 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg BID<br/>(2
+or 14 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">19<br/>19</td>
+<td stylecode="Toprule Botrule" valign="top">↔<br/>↔</td>
+<td stylecode="Toprule Botrule" valign="top">0.97 (0.94, 1.01)<br/>0.94 (0.91, 0.98)</td>
+<td stylecode="Toprule Botrule" valign="top">0.99 (0.97, 1.02)<br/>0.92 (0.88, 0.95)</td>
+<td stylecode="Toprule Botrule" valign="top">0.98 (0.94, 1.02)<br/>0.89 (0.85, 0.92)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Lopinavir/ritonavir<sup>a</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">400/100 mg BID<br/>(27
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg BID<br/>(28
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">21<br/>69</td>
+<td stylecode="Toprule Botrule" valign="top">↓<br/>↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.53 (0.40, 0.69)<sup>e</sup>
+<br/>-</td>
+<td stylecode="Toprule Botrule" valign="top">0.45 (0.32, 0.63)<sup>e</sup>
+<br/>-</td>
+<td stylecode="Toprule Botrule" valign="top">0.30 (0.17, 0.51)<sup>e</sup>
+<br/>0.48 (0.40, 0.58)<sup>f</sup>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">Loperamide</td>
+<td stylecode="Toprule Botrule" valign="top">16 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">750/200 mg BID<br/>(21
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">24</td>
+<td stylecode="Toprule Botrule" valign="top">↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.39 (0.31, 0.48)</td>
+<td stylecode="Toprule Botrule" valign="top">0.49 (0.40, 0.61)</td>
+<td stylecode="Toprule Botrule" valign="top">-</td>
+</tr>
+<tr>
+<td align="center" colspan="2" stylecode="Botrule">N-Demethyl-Loperamide
+ </td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">24</td>
+<td stylecode="Toprule Botrule" valign="top">↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.21 (0.17, 0.25)</td>
+<td stylecode="Toprule Botrule" valign="top">0.23 (0.19, 0.27)</td>
+<td stylecode="Toprule Botrule" valign="top">-</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Lamivudine<sup>a</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">150 mg BID<br/>(43
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">250/200 mg BID<br/>750/100
+mg BID<br/>1250/100 mg BID<br/>(42 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">64<br/>46<br/>35</td>
+<td stylecode="Toprule Botrule" valign="top">↔<br/>↔<br/>↔</td>
+<td stylecode="Toprule Botrule" valign="top">0.96 (0.89, 1.03)<br/>0.86 (0.78, 0.94)<br/>0.71 (0.62, 0.81)</td>
+<td stylecode="Toprule Botrule" valign="top">0.95 (0.89, 1.02)<br/>0.96 (0.90, 1.03)<br/>0.82 (0.66, 1.00)</td>
+<td stylecode="Toprule Botrule" valign="top">-<br/>-<br/>-</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">Methadone</td>
+<td stylecode="Toprule" valign="top">5 mg<br/>(1 dose)</td>
+<td stylecode="Toprule" valign="top">500/200 mg BID<br/>(16 doses)</td>
+<td stylecode="Toprule" valign="top">14</td>
+<td stylecode="Toprule" valign="top">↓</td>
+<td stylecode="Toprule" valign="top">0.45 (0.41, 0.49)</td>
+<td stylecode="Toprule" valign="top">0.47 (0.44, 0.51)</td>
+<td stylecode="Toprule" valign="top">0.50 (0.46, 0.54)</td>
+</tr>
+<tr>
+<td valign="top">R-methadone</td>
+<td valign="top"> </td>
+<td valign="top"> </td>
+<td valign="top"> </td>
+<td valign="top"> </td>
+<td valign="top">0.54 (0.50, 0.58)</td>
+<td valign="top">0.52 (0.49, 0.56)</td>
+<td valign="top">-</td>
+</tr>
+<tr>
+<td colspan="8"> </td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top">S-methadone</td>
+<td stylecode="Botrule" valign="top">       </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule"> </td>
+<td stylecode="Botrule" valign="top">0.38 (0.35, 0.43)</td>
+<td stylecode="Botrule" valign="top">0.37 (0.34, 0.41)</td>
+<td stylecode="Botrule" valign="top">-</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Nevirapine<sup>a</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">200 mg BID<br/>(43
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">250/200 mg BID<br/>750/100
+mg BID<br/>1250/100 mg BID<br/>(42 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">26<br/>22<br/>17</td>
+<td stylecode="Toprule Botrule" valign="top">↔<br/>↔<br/>↔</td>
+<td stylecode="Toprule Botrule" valign="top">0.97 (0.90, 1.04)<br/>0.86 (0.76, 0.97)<br/>0.71 (0.62, 0.82)</td>
+<td stylecode="Toprule Botrule" valign="top">0.97 (0.91, 1.04)<br/>0.89 (0.78, 1.01)<br/>0.76 (0.63, 0.91)</td>
+<td stylecode="Toprule Botrule" valign="top">0.96 (0.87, 1.05)<br/>0.93 (0.80, 1.08)<br/>0.77 (0.64, 0.92)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Norethindrone</td>
+<td stylecode="Toprule Botrule" valign="top">1.0 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">500/100 mg BID<br/>750/200
+mg BID<br/>(21 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">21<br/>13</td>
+<td stylecode="Toprule Botrule" valign="top">↔<br/>↔</td>
+<td stylecode="Toprule Botrule" valign="top">1.03 (0.94, 1.13)<br/>1.08 (0.97, 1.20)</td>
+<td stylecode="Toprule Botrule" valign="top">1.14 (1.06, 1.22)<br/>1.27 (1.13, 1.43)</td>
+<td stylecode="Toprule Botrule" valign="top">-<br/>-</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">Raltegravir</td>
+<td stylecode="Toprule" valign="top">400 mg BID</td>
+<td stylecode="Toprule" valign="top">500/200 mg BID</td>
+<td stylecode="Toprule" valign="top">15</td>
+<td stylecode="Toprule" valign="top">↓</td>
+<td stylecode="Toprule" valign="top">0.82 (0.46, 1.46)</td>
+<td stylecode="Toprule" valign="top">0.76 (0.49, 1.19)</td>
+<td stylecode="Toprule" valign="top">0.45 (0.31, 0.66)<sup>g</sup>
+</td>
+</tr>
+<tr>
+<td colspan="8" stylecode="Botrule"> </td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">Rifabutin</td>
+<td stylecode="Toprule" valign="top">150 mg<br/>(1 dose)</td>
+<td stylecode="Toprule" valign="top">500/200 mg BID<br/>(15 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">20</td>
+<td stylecode="Toprule Botrule" valign="top">↑</td>
+<td stylecode="Toprule Botrule" valign="top">1.70 (1.49, 1.94)</td>
+<td stylecode="Toprule Botrule" valign="top">2.90 (2.59, 3.26)</td>
+<td stylecode="Toprule Botrule" valign="top">2.14 (1.90, 2.41)</td>
+</tr>
+<tr>
+<td valign="top">25-O-desacetyl-rifabutin</td>
+<td valign="top"> </td>
+<td valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">20</td>
+<td stylecode="Toprule Botrule" valign="top">↑</td>
+<td stylecode="Toprule Botrule" valign="top">3.20 (2.78, 3.68)</td>
+<td stylecode="Toprule Botrule" valign="top">20.71 (17.66, 24.28)</td>
+<td stylecode="Toprule Botrule" valign="top">7.83 (6.70, 9.14)</td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top">Rifabutin + 25-O-<br/>desacetyl-rifabutin<sup>d</sup>
+</td>
+<td stylecode="Botrule" valign="top"> </td>
+<td stylecode="Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">20</td>
+<td stylecode="Toprule Botrule" valign="top">↑</td>
+<td stylecode="Toprule Botrule" valign="top">1.86 (1.63, 2.12)</td>
+<td stylecode="Toprule Botrule" valign="top">4.33 (3.86, 4.86)</td>
+<td stylecode="Toprule Botrule" valign="top">2.76 (2.44, 3.12)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Rosuvastatin</td>
+<td stylecode="Toprule Botrule" valign="top">10 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg BID<br/>(24
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">16</td>
+<td stylecode="Toprule Botrule" valign="top">↑</td>
+<td stylecode="Toprule Botrule" valign="top">2.23 (1.83, 2.72)</td>
+<td stylecode="Toprule Botrule" valign="top">1.26 (1.08, 1.46)</td>
+<td stylecode="Toprule Botrule" valign="top">1.06 (0.93, 1.20)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Saquinavir/ritonavir<sup>a</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">600/100 mg BID<br/>(27
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg BID<br/>(28
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">20<br/>68</td>
+<td stylecode="Toprule Botrule" valign="top">↓<br/>↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.30 (0.23, 0.40)<sup>e</sup>
+<br/>-</td>
+<td stylecode="Toprule Botrule" valign="top">0.24 (0.19, 0.32)<sup>e</sup>
+<br/>-</td>
+<td stylecode="Toprule Botrule" valign="top">0.18 (0.13, 0.26)<sup>e</sup>
+<br/>0.20 (0.16, 0.25)<sup>f</sup>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Stavudine<sup>a</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">40 mg BID ≥60 kg<br/>30 mg BID &lt;60 kg<br/>(43 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">250/200 mg BID<br/>750/100
+mg BID<br/>1250/100 mg BID<br/>(42 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">26<br/>22<br/>19</td>
+<td stylecode="Toprule Botrule" valign="top">↔<br/>↔<br/>↔</td>
+<td stylecode="Toprule Botrule" valign="top">0.90 (0.81, 1.02)<br/>0.76 (0.66, 0.89)<br/>0.74 (0.69, 0.80)</td>
+<td stylecode="Toprule Botrule" valign="top">1.00 (0.91, 1.11)<br/>0.84 (0.74, 0.96)<br/>0.93 (0.83, 1.05)</td>
+<td stylecode="Toprule Botrule" valign="top">-<br/>-<br/>-</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">Tadalafil</td>
+<td stylecode="Toprule Botrule" valign="top">10 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">17</td>
+<td stylecode="Toprule Botrule" valign="top">↑</td>
+<td stylecode="Toprule Botrule" valign="top">0.78 (0.72, 0.84)</td>
+<td stylecode="Toprule Botrule" valign="top">2.33 (2.02, 2.69)</td>
+<td stylecode="Toprule Botrule" valign="top">-</td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">10 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">500/200 mg BID<br/>(17
+doses)</td>
+<td stylecode="Toprule Botrule" valign="top">17</td>
+<td stylecode="Toprule Botrule" valign="top">↔</td>
+<td stylecode="Toprule Botrule" valign="top">0.70 (0.63, 0.78)</td>
+<td stylecode="Toprule Botrule" valign="top">1.01 (0.83, 1.21)</td>
+<td stylecode="Toprule Botrule" valign="top">-</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Tenofovir</td>
+<td stylecode="Toprule Botrule" valign="top">300 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">500/100 mg BID<br/>750/200
+mg BID<br/>(23 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">22<br/>20</td>
+<td stylecode="Toprule Botrule" valign="top">↓<br/>↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.77 (0.68, 0.87)<br/>0.62 (0.54, 0.71)</td>
+<td stylecode="Toprule Botrule" valign="top">0.98 (0.91, 1.05)<br/>1.02 (0.94, 1.10)</td>
+<td stylecode="Toprule Botrule" valign="top">1.07 (0.98, 1.17)<br/>1.14 (1.01, 1.27)</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">Zidovudine<sup>c</sup>
+</td>
+<td stylecode="Toprule Botrule" valign="top">300 mg BID<br/>300
+mg BID<br/>300 mg BID<br/>(43 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">250/200 mg BID<br/>750/100
+mg BID<br/>1250/100 mg BID<br/>(42 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">48<br/>31<br/>23</td>
+<td stylecode="Toprule Botrule" valign="top">↓<br/>↓<br/>↓</td>
+<td stylecode="Toprule Botrule" valign="top">0.54 (0.47, 0.62)<br/>0.51 (0.44, 0.60)<br/>0.49 (0.40, 0.59)</td>
+<td stylecode="Toprule Botrule" valign="top">0.58 (0.51, 0.66)<br/>0.64 (0.55, 0.75)<br/>0.69 (0.49, 0.97)</td>
+<td stylecode="Toprule Botrule" valign="top">-<br/>-<br/>-</td>
+</tr>
+<tr>
+<td valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">300 mg<br/>(1 dose)</td>
+<td stylecode="Toprule Botrule" valign="top">500/100 mg BID<br/>750/200
+mg BID<br/>(23 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">29<br/>25</td>
+<td stylecode="Toprule Botrule" valign="top">↓<br/>↔</td>
+<td stylecode="Toprule Botrule" valign="top">0.39 (0.33, 0.45)<br/>0.44 (0.36, 0.54)</td>
+<td stylecode="Toprule Botrule" valign="top">0.57 (0.52, 0.63)<br/>0.67 (0.62, 0.73)</td>
+<td stylecode="Toprule Botrule" valign="top">0.89 (0.81, 0.99)<br/>1.25 (1.08, 1.44)</td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top">Zidovudine glucuronide</td>
+<td stylecode="Toprule Botrule" valign="top"> </td>
+<td stylecode="Toprule Botrule" valign="top">500/100 mg BID<br/>750/200
+mg BID<br/>(23 doses)</td>
+<td stylecode="Toprule Botrule" valign="top">29<br/>25</td>
+<td stylecode="Toprule Botrule" valign="top">↑<br/>↑</td>
+<td stylecode="Toprule Botrule" valign="top">0.82 (0.74, 0.90)<br/>0.82 (0.73, 0.92)</td>
+<td stylecode="Toprule Botrule" valign="top">1.02 (0.97, 1.06)<br/>1.09 (1.05, 1.14)</td>
+<td stylecode="Toprule Botrule" valign="top">1.52 (1.34, 1.71)<br/>1.94 (1.62, 2.31)</td>
+</tr>
+</tbody>
+</table>

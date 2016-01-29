@@ -1,0 +1,31 @@
+<table id="table_11" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Susceptibility Test Interpretive Criteria for Streptococcus pyogenes and Streptococcus pneumoniae<sup>f</sup>
+</caption>
+<col span="1" width="50%"></col>
+<col span="1" width="49%"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Zone diameter (mm)</content>
+</td>
+<td>
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≥ 21</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>17 to 20</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr>
+<td>≤ 16</td>
+<td>Resistant (R)</td>
+</tr>
+<tr>
+<td>f   These zone diameter standards only apply to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO<sub>2</sub>.</td>
+</tr>
+</tbody>
+</table>

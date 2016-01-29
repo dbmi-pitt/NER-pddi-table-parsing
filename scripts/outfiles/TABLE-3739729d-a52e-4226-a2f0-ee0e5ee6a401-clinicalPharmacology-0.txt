@@ -1,0 +1,27 @@
+<table id="id_56f7b06c-bff3-4cdb-b31f-0c112e2907f5" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_c5b54bc1-b290-4ca7-84f8-371246a245d7">Recommended Ranges for Cefazolin Susceptibility Testing</caption>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_ff581a74-b140-49d3-aad3-897d786b34cf">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Zone diameter (mm)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr id="id_478f1e78-5fc2-4285-bfce-39505cae62fd">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">≥ 18</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_05e11308-a16f-4e68-bacb-c065cd89eab2">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">15 to 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_892763ee-48d1-4f93-891d-81534f68d74e">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">≤ 14</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,30 @@
+<table id="id_a3ba5a8d-3dbb-4486-831c-f90b1aef16ee" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_fb10ac1d-10ff-49ba-858f-6bb09d7b5e43">Monotherapy Study Median Incidence of CPS per 8 Weeks</caption>
+<col align="center" width="25%"></col>
+<col align="center" width="25%"></col>
+<col align="center" width="25%"></col>
+<col align="center" width="25%"></col>
+<thead>
+<tr id="id_811de26b-d450-408c-8f17-f1af67f21a76" stylecode="Botrule">
+<td align="left" stylecode="Botrule Rrule" valign="bottom">Treatment</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Number of Patients</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Baseline Incidence</td>
+<td align="left" stylecode="Lrule Botrule" valign="top">Randomized Phase Incidence</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_13853a49-e286-4c00-9f55-ab6c5f254b16" stylecode="Toprule">
+<td align="left" valign="top">High dose divalproex sodium tablets</td>
+<td align="left" stylecode="Toprule" valign="top">131</td>
+<td align="left" stylecode="Toprule" valign="top">13.2</td>
+<td align="left" valign="top">10.7<footnote id="idaf32fk">Reduction from baseline statistically significantly greater for high dose than for low dose at p ≤ 0.05 level.</footnote>
+</td>
+</tr>
+<tr id="id_11b733c3-a15e-4e9d-a145-9866569d097f" stylecode="Botrule">
+<td align="left" valign="top">Low dose divalproex sodium tablets</td>
+<td align="left" valign="top">134</td>
+<td align="left" valign="top">14.2</td>
+<td align="left" valign="top">13.8</td>
+</tr>
+</tbody>
+</table>

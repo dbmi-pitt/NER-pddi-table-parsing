@@ -1,0 +1,70 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>AZITHROMYCIN CONCENTRATIONS FOLLOWING A 500 mg DOSE (TWO 250 mg CAPSULES) IN ADULTS1</caption>
+<colgroup>
+<col align="left" width="20%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+</colgroup>
+<thead>
+<tr stylecode="First Last">
+<th align="left" stylecode="Lrule" valign="top">TISSUE OR FLUID</th>
+<th align="center" stylecode="Lrule" valign="top">TIME AFTER DOSE (h)</th>
+<th align="center" stylecode="Lrule">TISSUE OR FLUID CONCENTRATION<br/>(mcg/g or mcg/mL)</th>
+<th align="center" stylecode="Lrule">CORRESPONDING<br/>PLASMA OR SERUM<br/>LEVEL (mcg/mL)</th>
+<th align="center" stylecode="Lrule Rrule">TISSUE (FLUID) <br/>PLASMA (SERUM)<br/>RATIO1</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule First">
+<td align="left" stylecode="Lrule">SKIN</td>
+<td align="center" stylecode="Lrule">72–96</td>
+<td align="center" stylecode="Lrule">0.4</td>
+<td align="center" stylecode="Lrule">0.012</td>
+<td align="center" stylecode="Lrule Rrule">35</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule">LUNG</td>
+<td align="center" stylecode="Lrule">72–96</td>
+<td align="center" stylecode="Lrule">4.0</td>
+<td align="center" stylecode="Lrule">0.012</td>
+<td align="center" stylecode="Lrule Rrule">&gt;100</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule">SPUTUM*</td>
+<td align="center" stylecode="Lrule">2–4</td>
+<td align="center" stylecode="Lrule">1.0</td>
+<td align="center" stylecode="Lrule">0.64</td>
+<td align="center" stylecode="Lrule Rrule">      2</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule">SPUTUM**</td>
+<td align="center" stylecode="Lrule">10–12</td>
+<td align="center" stylecode="Lrule">2.9</td>
+<td align="center" stylecode="Lrule">0.1</td>
+<td align="center" stylecode="Lrule Rrule">    30</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule">TONSIL***</td>
+<td align="center" stylecode="Lrule">9–18</td>
+<td align="center" stylecode="Lrule">4.5</td>
+<td align="center" stylecode="Lrule">0.03</td>
+<td align="center" stylecode="Lrule Rrule">&gt;100</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule">TONSIL***</td>
+<td align="center" stylecode="Lrule">180</td>
+<td align="center" stylecode="Lrule">0.9</td>
+<td align="center" stylecode="Lrule">0.006</td>
+<td align="center" stylecode="Lrule Rrule">&gt;100</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule">CERVIX****</td>
+<td align="center" stylecode="Lrule">19</td>
+<td align="center" stylecode="Lrule">2.8</td>
+<td align="center" stylecode="Lrule">0.04</td>
+<td align="center" stylecode="Lrule Rrule">70</td>
+</tr>
+</tbody>
+</table>

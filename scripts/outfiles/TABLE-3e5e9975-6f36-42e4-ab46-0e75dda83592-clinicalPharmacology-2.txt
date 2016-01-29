@@ -1,0 +1,69 @@
+<table id="T10" width="95%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10. Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metabolites A and B in Patients with Varying Degrees of Renal Impairment After a Single 600 mg Oral Dose of Linezolid</caption>
+<col align="left" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<col align="center" valign="middle" width="25%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule">Parameter</th>
+<th stylecode="Rrule">Healthy Subjects CL<sub>CR </sub>&gt; 80 mL/min</th>
+<th stylecode="Rrule">Moderate Renal Impairment 30 &lt; CL<sub>CR </sub>&lt; 80 mL/min</th>
+<th>Severe Renal Impairment 10 &lt; CL<sub>CR </sub>&lt; 30 mL/min</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" colspan="4">
+<content stylecode="bold">LINEZOLID</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">AUC<sub>0–∞</sub>, mcg h/mL</td>
+<td stylecode="Rrule">110 (22)</td>
+<td stylecode="Rrule">128 (53)</td>
+<td>127 (66)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">t<sub>1/2</sub>, hours</td>
+<td stylecode="Rrule">6.4 (2.2)</td>
+<td stylecode="Rrule">6.1 (1.7)</td>
+<td>7.1 (3.7)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" colspan="4">
+<content stylecode="bold">METABOLITE A</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">AUC<sub>0–48</sub>, mcg h/mL</td>
+<td stylecode="Rrule">7.6 (1.9)</td>
+<td stylecode="Rrule">11.7 (4.3)</td>
+<td>56.5 (30.6)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">t<sub>1/2</sub>, hours</td>
+<td stylecode="Rrule">6.3 (2.1)</td>
+<td stylecode="Rrule">6.6 (2.3)</td>
+<td>9.0 (4.6)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" colspan="4">
+<content stylecode="bold">METABOLITE B<footnote id="t10f1">Metabolite B is the major metabolite of linezolid.</footnote>
+</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">AUC<sub>0–48</sub>, mcg h/mL</td>
+<td stylecode="Rrule">30.5 (6.2)</td>
+<td stylecode="Rrule">51.1 (38.5)</td>
+<td>203 (92)</td>
+</tr>
+<tr>
+<td stylecode="Rrule">t<sub>1/2</sub>, hours</td>
+<td stylecode="Rrule">6.6 (2.7)</td>
+<td stylecode="Rrule">9.9 (7.4)</td>
+<td>11.0 (3.9)</td>
+</tr>
+</tbody>
+</table>

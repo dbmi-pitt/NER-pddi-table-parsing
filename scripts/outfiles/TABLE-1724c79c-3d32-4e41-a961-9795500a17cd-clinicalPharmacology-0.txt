@@ -1,0 +1,156 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: iPTH Summary Data for Patients Receiving Doxercalciferol Injection:</caption>
+<col width="18%"></col>
+<col width="18%"></col>
+<col width="18%"></col>
+<col width="24%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">iPTH</content>
+<content stylecode="bold"> Level</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Study C</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(n=28)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Study D</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(n=42)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Combined Protocols</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(n=70)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Baseline (Mean of Weeks -2, -1, and 0)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Mean (SE)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>698 (60)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>762 (65)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>736 (46)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Median</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>562</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>648</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>634</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>On-treatment (Week 12<footnote id="_RefIDAC77EDBA16FE4C47BBBA436EB30A3148">Values were carried forward for the two patients on study for 10 weeks</footnote>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Mean (SE)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>406 (63)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>426 (60)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>418 (43)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Median</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>311</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>292</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>292</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="4" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Change from Baseline<footnote id="_RefIDF8A4FE6FCC7C43298D874797A8F44A94">Treatment iPTH minus baseline iPTH</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Mean (SE)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-292 (55)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-336 (41)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>-318 (33)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Median</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-274</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>-315</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>-304</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>P-value<footnote id="_RefID56B281C35C14475692EC14736D628F76">Wilcoxon one-sample test</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>.004</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>.001</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>&lt;.001</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

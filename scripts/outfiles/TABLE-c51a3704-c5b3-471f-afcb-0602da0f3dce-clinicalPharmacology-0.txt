@@ -1,0 +1,142 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Age group</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>C<sub>max</sub>
+</paragraph>
+<paragraph>(ng/mL)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>T<sub>max</sub>*</paragraph>
+<paragraph>(h)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>AUC<sub>0-inf</sub>
+</paragraph>
+<paragraph>(ng/mL*h)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>CL/F/wt</paragraph>
+<paragraph>(L/h/Kg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>T<sub>1/2</sub>
+</paragraph>
+<paragraph>(h)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>&gt; 1 to ≤ 24 months</paragraph>
+<paragraph>n = 5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>277</paragraph>
+<paragraph>(192, 391)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>1</paragraph>
+<paragraph>(0.6, 2)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>1328</paragraph>
+<paragraph>(773, 2117)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.26</paragraph>
+<paragraph>(0.18, 0.4)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>5.0</paragraph>
+<paragraph>(4, 5.8)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>&gt; 2 to ≤ 6 years</paragraph>
+<paragraph>n = 7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>200</paragraph>
+<paragraph>(168, 244)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>2</paragraph>
+<paragraph>(1.4, 2.4)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>978</paragraph>
+<paragraph>(842, 1152)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.36</paragraph>
+<paragraph>(0.31, 0.42)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>5.5</paragraph>
+<paragraph>(4.7, 6.5)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>&gt; 6 to ≤ 12 years</paragraph>
+<paragraph>n = 7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>221</paragraph>
+<paragraph>(194, 258)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>2</paragraph>
+<paragraph>(1.2, 2.2)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>1041</paragraph>
+<paragraph>(855, 1313)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>0.25</paragraph>
+<paragraph>(0.21, 0.31)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>5.5</paragraph>
+<paragraph>(4.7, 6.5)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>&gt; 12 to ≤ 17 years</paragraph>
+<paragraph>n = 8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>287</paragraph>
+<paragraph>(217, 420)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>2</paragraph>
+<paragraph>(1.3, 2.3)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>1794</paragraph>
+<paragraph>(1478, 2340)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>0.16</paragraph>
+<paragraph>(0.13, 0.21)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>5.1</paragraph>
+<paragraph>(4.2, 5.7)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

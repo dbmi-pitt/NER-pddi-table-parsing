@@ -1,0 +1,58 @@
+<table id="table14" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 14: The Mean (%CV) [min-max] Posaconazole Steady-State Pharmacokinetic Parameters in Patients Following Oral Administration of Posaconazole Oral Suspension 200 mg TID and 400 mg BID</caption>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Dose<footnote>Oral suspension administration</footnote>
+</th>
+<th stylecode="Rrule">Cavg (ng/mL)</th>
+<th stylecode="Rrule">AUC<footnote>AUC <sub>(0-24 hr)</sub> for 200 mg TID and AUC <sub>(0-12 hr)</sub> for 400 mg BID</footnote> (ng∙hr/mL)</th>
+<th stylecode="Rrule">CL/F (L/hr)</th>
+<th stylecode="Rrule">V/F (L)</th>
+<th stylecode="Rrule">t<sub>½</sub> (hr)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" valign="top">Cavg = the average posaconazole concentration when measured at steady state</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top">The variability in average plasma posaconazole concentrations in patients was relatively higher than that in healthy subjects.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">200 mg TID<footnote>HSCT recipients with GVHD</footnote> (n=252)</td>
+<td align="right" stylecode="Rrule">1103 (67)<br/>[21.5-3650]</td>
+<td stylecode="Rrule">ND<footnote id="t14f4">Not done</footnote>
+</td>
+<td stylecode="Rrule">ND<footnoteref idref="t14f4"></footnoteref>
+</td>
+<td stylecode="Rrule">ND<footnoteref idref="t14f4"></footnoteref>
+</td>
+<td stylecode="Rrule">ND<footnoteref idref="t14f4"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">200 mg TID<footnote>Neutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukemia or myelodysplastic syndromes</footnote> (n=215)</td>
+<td align="right" stylecode="Rrule">583 (65)<br/>[89.7-2200]</td>
+<td align="right" stylecode="Rrule">15,900 (62)<br/>[4100-56,100]</td>
+<td align="right" stylecode="Rrule">51.2 (54)<br/>[10.7-146]</td>
+<td align="right" stylecode="Rrule">2425 (39)<br/>[828-5702]</td>
+<td align="right" stylecode="Rrule">37.2 (39)<br/>[19.1-148]</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">400 mg BID<footnote>Febrile neutropenic patients or patients with refractory invasive fungal infections, Cavg n=24</footnote> (n=23)</td>
+<td align="right" stylecode="Rrule">723 (86)<br/>[6.70-2256]</td>
+<td align="right" stylecode="Rrule">9093 (80)<br/>[1564-26,794]</td>
+<td align="right" stylecode="Rrule">76.1 (78)<br/>[14.9-256]</td>
+<td align="right" stylecode="Rrule">3088 (84)<br/>[407-13,140]</td>
+<td align="right" stylecode="Rrule">31.7 (42)<br/>[12.4-67.3]</td>
+</tr>
+</tbody>
+</table>

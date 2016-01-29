@@ -1,0 +1,215 @@
+<table id="t2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Ceftazidime Concentrations in Body Tissues and Fluids
+</caption>
+<col align="left" width="24.115%"></col>
+<col align="left" width="16.637%"></col>
+<col align="left" width="12.478%"></col>
+<col align="left" width="19.756%"></col>
+<col align="left" width="27.015%"></col>
+<tbody>
+<tr>
+<td align="justify" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Tissue or Fluid</content>
+<br/>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Dose/</content>
+<br/>
+<content stylecode="bold">Route</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">No. of Patients</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Time of Sample Postdose</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">
+<content stylecode="bold">Average Tissue</content>
+<br/>
+<content stylecode="bold">or Fluid Level</content>
+<br/>
+<content stylecode="bold">(mcg/mL or mcg/g)</content>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Urine
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0 to 2 hr
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">12,000
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Bile
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">90 min
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">36.4
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Synovial fluid
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">13
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 hr
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">25.6
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Peritoneal fluid
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 hr
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">48.6
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Sputum
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1 hr
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">9
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Cerebrospinal fluid
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g q8hr IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">5
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">120 min
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">9.8
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">(inflamed meninges)
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g q8hr IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">180 min
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">9.4
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Aqueous humor
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">13
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1 to 3 hr
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">11
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Blister fluid
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">7
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 to 3 hr
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">19.7
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Lymphatic fluid
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">7
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 to 3 hr
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">23.4
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Bone
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.67 hr
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">31.1
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Heart muscle
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">35
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">30 to 280 min
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">12.7
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Skin
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">22
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">30 to 180 min
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6.6
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Skeletal muscle
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">35
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">30 to 280 min
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">9.4
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode="Botrule Lrule Rrule" valign="top">Myometrium
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2 g IV
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">31
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1 to 2 hr
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">18.7
+</td>
+</tr>
+</tbody>
+</table>

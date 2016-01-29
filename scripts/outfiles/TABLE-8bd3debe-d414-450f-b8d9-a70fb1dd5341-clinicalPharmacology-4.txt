@@ -1,0 +1,376 @@
+<table id="t10" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10		Drug Interactions:  Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir</caption>
+<col align="left" valign="middle" width="21%"></col>
+<col align="center" valign="middle" width="21%"></col>
+<col align="center" valign="middle" width="4%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Lrule Rrule">Coadministered Drug</th>
+<th rowspan="2" stylecode="Rrule">Dose of Coadministered Drug (mg)</th>
+<th rowspan="2" stylecode="Rrule">N</th>
+<th colspan="3" stylecode="Rrule Botrule">% Change of Coadministered Drug Pharmacokinetic Parameters
+              
+    
+     <footnote id="K5424">↑ = Increase; ↓ = Decrease; ⇔ = No Effect; NA = Not Applicable</footnote>
+<br/>(90% CI)
+             
+   
+    </th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">C
+              
+    
+     <sub>max</sub>
+</th>
+<th stylecode="Rrule">AUC</th>
+<th stylecode="Rrule">C
+              
+    
+     <sub>min</sub>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Abacavir</td>
+<td stylecode="Rrule">300 once</td>
+<td stylecode="Rrule">8</td>
+<td stylecode="Rrule">↑ 12
+              
+    
+     <br/>(↓ 1 to ↑ 26)
+             
+   
+    </td>
+<td stylecode="Rrule">⇔</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atazanavir
+              
+    
+     <footnote id="ft6">Reyataz Prescribing Information</footnote>
+</td>
+<td stylecode="Rrule">400 once daily × 14 days</td>
+<td stylecode="Rrule">34</td>
+<td stylecode="Rrule">↓ 21
+              
+    
+     <br/>(↓ 27 to ↓ 14)
+             
+   
+    </td>
+<td stylecode="Rrule">↓ 25
+              
+    
+     <br/>(↓ 30 to ↓ 19)
+             
+   
+    </td>
+<td stylecode="Rrule">↓ 40
+              
+    
+     <br/>(↓ 48 to ↓ 32)
+             
+   
+    </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atazanavir
+              
+    
+     <footnoteref idref="ft6"></footnoteref>
+</td>
+<td stylecode="Rrule">Atazanavir/Ritonavir
+              
+    
+     <br/>300/100 once daily
+              
+    
+     <br/>× 42 days
+             
+   
+    </td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">↓ 28
+              
+    
+     <br/>(↓ 50 to ↑ 5)
+             
+   
+    </td>
+<td stylecode="Rrule">↓ 25
+              
+    
+     <footnote id="ft7">In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and C
+               min values of atazanavir that were 2.3 and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone.
+              </footnote>
+<br/>(↓ 42 to ↓ 3)
+             
+   
+    </td>
+<td stylecode="Rrule">↓ 23
+              
+    
+     <footnoteref idref="ft7"></footnoteref>
+<br/>(↓ 46 to ↑ 10)
+             
+   
+    </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Darunavir
+              
+    
+     <footnote id="table10d">Prezista Prescribing Information.</footnote>
+</td>
+<td stylecode="Rrule">Darunavir/Ritonavir 300/100 mg once daily</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↑ 16
+              
+    
+     <br/>(↓ 6 to ↑ 42)
+             
+   
+    </td>
+<td stylecode="Rrule">↑ 21
+              
+    
+     <br/>(↓ 5 to ↑ 54)
+             
+   
+    </td>
+<td stylecode="Rrule">↑ 24
+              
+    
+     <br/>(↓ 10 to ↑ 69)
+             
+   
+    </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Didanosine
+              
+    
+     <footnote id="K5569">Videx EC Prescribing Information. Subjects received didanosine enteric-coated capsules.</footnote>
+</td>
+<td stylecode="Rrule">250 once, simultaneously with tenofovir DF and a light meal
+              
+    
+     <footnote id="K5574">373 kcal, 8.2 g fat</footnote>
+</td>
+<td stylecode="Rrule">33</td>
+<td stylecode="Rrule">↓ 20
+              
+    
+     <footnote id="ft8">Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions.</footnote>
+<br/>(↓ 32 to ↓ 7)
+             
+   
+    </td>
+<td stylecode="Rrule">⇔
+              
+    
+     <footnoteref idref="ft8"></footnoteref>
+</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Emtricitabine</td>
+<td stylecode="Rrule">200 once daily × 7 days</td>
+<td stylecode="Rrule">17</td>
+<td stylecode="Rrule">⇔</td>
+<td stylecode="Rrule">⇔</td>
+<td stylecode="Rrule">↑ 20
+              
+    
+     <br/>(↑ 12 to ↑ 29)
+             
+   
+    </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Indinavir</td>
+<td stylecode="Rrule">800 three times daily × 7 days</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓ 11
+              
+    
+     <br/>(↓ 30 to ↑ 12)
+             
+   
+    </td>
+<td stylecode="Rrule">⇔</td>
+<td stylecode="Rrule">⇔</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Entecavir</td>
+<td stylecode="Rrule">1 mg once daily × 10 days</td>
+<td stylecode="Rrule">28</td>
+<td stylecode="Rrule">⇔</td>
+<td stylecode="Rrule">↑ 13
+              
+    
+     <br/>(↑ 11 to ↑ 15)
+             
+   
+    </td>
+<td stylecode="Rrule">⇔</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Lamivudine</td>
+<td stylecode="Rrule">150 twice daily × 7 days</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↓ 24
+              
+    
+     <br/>(↓ 34 to ↓ 12)
+             
+   
+    </td>
+<td stylecode="Rrule">⇔</td>
+<td stylecode="Rrule">⇔</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Lopinavir
+              
+    
+     <br/>Ritonavir
+             
+   
+    </td>
+<td stylecode="Rrule">Lopinavir/Ritonavir 400/100 twice daily × 14 days</td>
+<td stylecode="Rrule">24</td>
+<td stylecode="Rrule">⇔
+              
+    
+     <br/>⇔
+             
+   
+    </td>
+<td stylecode="Rrule">⇔
+              
+    
+     <br/>⇔
+             
+   
+    </td>
+<td stylecode="Rrule">⇔
+              
+    
+     <br/>⇔
+             
+   
+    </td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Saquinavir</td>
+<td rowspan="2" stylecode="Rrule Botrule">Saquinavir/Ritonavir 1000/100 twice daily × 14 days</td>
+<td rowspan="2" stylecode="Rrule Botrule">32</td>
+<td stylecode="Rrule" valign="top">↑ 22
+              
+    
+     <br/>(↑ 6 to ↑41)
+             
+   
+    </td>
+<td stylecode="Rrule" valign="top">↑ 29
+              
+    
+     <footnote id="ft9">Increases in AUC and C
+               min are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered.
+              </footnote>
+<br/>(↑ 12 to ↑ 48)
+             
+   
+    </td>
+<td stylecode="Rrule" valign="top">↑ 47
+              
+    
+     <footnoteref idref="ft9"></footnoteref>
+<br/>(↑ 23 to ↑ 76)
+             
+   
+    </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Ritonavir</td>
+<td stylecode="Rrule" valign="top">⇔</td>
+<td stylecode="Rrule" valign="top">⇔</td>
+<td stylecode="Rrule" valign="top">↑ 23
+              
+    
+     <br/>(↑ 3 to ↑ 46)
+             
+   
+    </td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Tacrolimus</td>
+<td stylecode="Rrule">0.05 mg/kg twice daily × 7 days</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">⇔</td>
+<td stylecode="Rrule">⇔</td>
+<td stylecode="Rrule">⇔</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule">Tipranavir
+              
+    
+     <footnote id="table10i">Aptivus Prescribing Information.</footnote>
+</td>
+<td stylecode="Rrule">Tipranavir/Ritonavir 500/100 twice daily</td>
+<td stylecode="Rrule">22</td>
+<td stylecode="Rrule">↓ 17
+              
+    
+     <br/>(↓ 26 to ↓ 6)
+             
+   
+    </td>
+<td stylecode="Rrule">↓ 18
+              
+    
+     <br/>(↓ 25 to ↓ 9)
+             
+   
+    </td>
+<td stylecode="Rrule">↓ 21
+              
+    
+     <br/>(↓ 30 to ↓ 10)
+             
+   
+    </td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule">Tipranavir/Ritonavir 750/200 twice daily (23 doses)</td>
+<td stylecode="Rrule">20</td>
+<td stylecode="Rrule">↓ 11
+              
+    
+     <br/>(↓ 16 to ↓ 4)
+             
+   
+    </td>
+<td stylecode="Rrule">↓ 9
+              
+    
+     <br/>(↓ 15 to ↓ 3)
+             
+   
+    </td>
+<td stylecode="Rrule">↓ 12
+              
+    
+     <br/>(↓ 22 to 0)
+             
+   
+    </td>
+</tr>
+</tbody>
+</table>

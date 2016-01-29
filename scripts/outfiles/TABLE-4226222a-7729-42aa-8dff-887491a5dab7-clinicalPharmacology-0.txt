@@ -1,0 +1,240 @@
+<table id="_Refid_0d4e4fcb-dd5e-40ec-a53e-cbf74a040" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3: Effect of Coadministered Drugs on Fluvastatin Systemic Exposure</caption>
+<col width="40%"></col>
+<col width="35%"></col>
+<col width="13%"></col>
+<col width="12%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Coadministered drug and dosing regimen</content>
+</paragraph>
+</td>
+<td colspan="3" stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Fluvastatin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Dose (mg)</content>
+<footnote id="_Refid-fd55344f-c656-4b5d-b15b-77b352d4c">Single dose unless otherwise noted</footnote>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Change in AUC</content>
+<footnote id="_Refid-eae34697-45b7-40c7-b253-0f42dd02e">Mean ratio (with/without coadministered drug and no change = 1-fold) or % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively.</footnote>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Change in C<sub>max</sub>
+</content>
+<footnoteref idref="_Refid-eae34697-45b7-40c7-b253-0f42dd02e"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Cyclosporine – stable dose (b.i.d) <footnote id="_Refid-533657ae-b525-42cd-bcd3-29c743199">Considered clinically significant <content stylecode="italics">[see Dosage and Administration (<linkhtml href="#i4i_dosage_admin_id_13f4688e-ee7f-4ab3-b6b8-3e971d8dc6bd">2</linkhtml>) and Drug Interactions (<linkhtml href="#i4i_interactions_id_11190116-a50b-4002-aa12-a7ef5cab55c9">7</linkhtml>)]</content>. </footnote>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>20 mg QD for 14 weeks</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 90%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 30%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Fluconazole 400 mg QD day 1200 mg b.i.d day 2 to 4<footnoteref idref="_Refid-533657ae-b525-42cd-bcd3-29c743199"></footnoteref> </paragraph>
+</td>
+<td valign="top">
+<paragraph>40 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 84%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 44%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Cholestyramine 8 g QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>20 mg QD administered 4 hrs after a meal plus cholestyramine</paragraph>
+</td>
+<td valign="top">
+<paragraph>↓ 51%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↓ 83%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Rifampicin 600 mg QD for 6 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>20 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>↓ 53%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↓ 42%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Cimetidine 400 mg b.i.d for 5 days, QD on day 6</paragraph>
+</td>
+<td valign="top">
+<paragraph>20 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 30%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 40%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Ranitidine 150 mg b.i.d. for 5 days, QD on day 6</paragraph>
+</td>
+<td valign="top">
+<paragraph>20 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 10%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 50%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Omeprazole 40 mg QD for 6 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>20 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 20%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 37%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Phenytoin 300 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>40 mg b.i.d for 5 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 40%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 27%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Propranolol 40 mg b.i.d for 3.5 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>40 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>↓ 5%</paragraph>
+</td>
+<td valign="top">
+<paragraph>No change</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Digoxin 0.1 mg to 0.5 mg QD for 3 weeks</paragraph>
+</td>
+<td valign="top">
+<paragraph>40 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>No change</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 11%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Diclofenac 25 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>40 mg QD for 8 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 50%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 80%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Glyburide 5 mg to 20 mg QD for 22 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>40 mg b.i.d for 14 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 51%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 44%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Warfarin 30 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>40 mg QD for 8 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 30%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 67%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Clopidogrel 300 mg loading dose on day 10, 75 mg QD on days 11 to 19</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>80 mg XL QD for 19 days</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>↓ 2%</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>↑ 27%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

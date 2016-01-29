@@ -1,0 +1,19 @@
+<table border="1" id="id_c138d5a2-ff4d-46be-9710-6e9edbc23acf" width="440.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<tbody>
+<tr id="id_243d6ab0-101b-44ce-9fe6-1cd095e685de">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+<sup>f</sup>
+</td>
+</tr>
+<tr id="id_59eb3aec-709e-4710-9a31-00c3819a0d6a">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≥ 20</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Susceptible (S)</td>
+</tr>
+</tbody>
+</table>

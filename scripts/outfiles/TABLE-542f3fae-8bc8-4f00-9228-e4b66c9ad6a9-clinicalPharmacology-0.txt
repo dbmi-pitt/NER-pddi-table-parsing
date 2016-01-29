@@ -1,0 +1,182 @@
+<table id="t2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2.  Summary Table of Korlym Drug-Drug Interaction Effects
+</caption>
+<col align="left" width="26.317%"></col>
+<col align="left" width="18.167%"></col>
+<col align="left" width="20.200%"></col>
+<col align="left" width="19.783%"></col>
+<col align="left" width="7.533%"></col>
+<col align="left" width="8.000%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="6" valign="top">
+<paragraph stylecode="footnote">*No effect = 90% CI within range 0.80 – 1.25
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top">
+<paragraph stylecode="footnote">
+<sup>1</sup> Simvastatin 40 mg dose used as reference for the comparison.  Result could be representative of other oral drugs with CYP3A metabolism and high first pass effect: cyclosporine, midazolam, triazolam, pimozide, sildenafil, sirolimus, and tacrolimus
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top">
+<paragraph stylecode="footnote">
+<sup>2</sup> Result could be representative of other oral drugs with CYP3A metabolism and low first pass effect. Clinical significance of any interaction will depend on the therapeutic margin of the drug.
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top">
+<paragraph stylecode="footnote">
+<sup>3</sup> Result could be representative of other oral drugs with CYP2C8/C9 metabolism
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top">
+<paragraph stylecode="footnote">
+<sup>4</sup> Plasma digoxin concentration should be measured after 1 to 2 weeks of concomitant use and following usual clinical practice at appropriate intervals thereafter.
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" valign="top">
+<paragraph stylecode="footnote">
+<sup>5</sup>Result could be representative of other mild inhibitors of CYP3A
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Toprule Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">Dosing of<br/>Mifepristone</content>
+</td>
+<td align="center" rowspan="2" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">Coadministered<br/>Drug</content>
+</td>
+<td align="center" rowspan="2" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">Dosing of<br/>Coadministered<br/>Drug</content>
+</td>
+<td align="center" colspan="3" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">Geometric Mean Ratio<br/>(analyte ratio with/without<br/>drug coadministration)<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Analyte</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">AUC</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Cmax</content>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Effect of Korlym on Coadministered Drug</content>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Contraindicated with mifepristone
+</content>
+<content stylecode="italics">[See Contraindications (<linkhtml href="#s9">4</linkhtml>)]</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">1200 mg once daily for 10 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">simvastatin<sup>1</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">80 mg single dose
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">simvastatin<br/>acid<br/>simvastatin
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">15.70<br/>
+<br/>10.40
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">18.20<br/>
+<br/>7.02
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">Use lowest dose of coadministered drug,</content> based on clinical  experience and/or use of therapeutic drug monitoring
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">1200 mg once daily for 10 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">alprazolam<sup>2</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1 mg single dose
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">alprazolam<br/>4-hydroxy-alprazolam
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.80<br/>
+<br/>0.76
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.81<br/>
+<br/>0.39
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">1200 mg once daily for 7 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">fluvastatin<sup>3</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">40 mg single dose
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">fluvastatin
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.57
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.76
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">1200 mg once daily for 10 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">digoxin<sup>4</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.125 mg once daily
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">digoxin
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.40
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">1.64
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">Effect of Coadministered Drug on Korlym</content>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">No dosing adjustment required</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="middle">300 mg once daily for 14 days
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">cimetidine<sup>5</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">800 mg once daily
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">mifepristone
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.85*
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.75
+</td>
+</tr>
+</tbody>
+</table>

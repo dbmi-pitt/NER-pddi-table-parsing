@@ -1,0 +1,173 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10. Effect of Coadministered Drugs on Zidovudine AUC* 
+			</caption>
+<thead>
+<tr>
+<th colspan="6" stylecode="Lrule Rrule Toprule">Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS.</th>
+</tr>
+<tr>
+<th align="center" rowspan="2" stylecode="Lrule Rrule Toprule">Coadministered <br/>Drug and Dose</th>
+<th align="center" rowspan="2" stylecode="Lrule Rrule Toprule">Zidovudine<br/>Dose</th>
+<th align="center" rowspan="2" stylecode="Lrule Rrule Toprule">   n   </th>
+<th align="center" colspan="2" stylecode="Lrule Rrule Toprule">Zidovudine <br/>Concentrations</th>
+<th align="center" rowspan="2" stylecode="Lrule Rrule Toprule">Concentration<br/>of Coadministered Drug</th>
+</tr>
+<tr>
+<th align="center" stylecode="Lrule Rrule Toprule">AUC</th>
+<th align="center" stylecode="Lrule Rrule Toprule">Variability</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="6">↑= Increase; ↓= Decrease; ↔= no significant change; AUC = area under the concentration versus time curve; CI = confidence interval.<br/>* This table is not all inclusive.<br/>
+<sup>† </sup>Estimated range of percent difference.<br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Atovaquone<br/> 750 mg q 12 hr with food<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg q 8 hr<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">14<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC<br/>31%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range<br/>23% to 78%<sup>†</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Clarithromycin<br/> 500 mg twice daily<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">100 mg q 4 hr<br/>x 7 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓AUC<br/>12%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range<br/>↓34% to ↑14%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not Reported<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Fluconazole <br/> 400 mg daily<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg q 8 hr<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">12<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC<br/>74%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">95% CI:<br/>54% to 98%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not Reported<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Lamivudine<br/> 300 mg q 12 hr<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">single 200 mg<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">12<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC<br/>13%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">90% CI:<br/>2% to 27%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Methadone<br/> 30 to 90 mg daily<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg q 4 hr<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">9<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC<br/>43%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range<br/>16% to 64%<sup>†</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Nelfinavir<br/> 750 mg q 8 hr  x 7 to 10 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">single 200 mg<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">11<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓AUC<br/>35%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range<br/>28% to 41%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Probenecid<br/> 500 mg q 6 hr x 2 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">2 mg/kg q 8 hr<br/>x 3 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">3<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC<br/>106%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range<br/>100% to 170%<sup>†</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not Assessed<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Rifampin 600 mg<br/> daily x 14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg q 8 hr<br/>x 14 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓AUC<br/>47%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">90% CI:<br/>41% to 53%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not Assessed<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Ritonavir<br/> 300 mg q 6 hr x 4 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">200 mg q 8 hr<br/>x 4 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">9<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↓AUC<br/>25%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">95% CI:<br/>15% to 34%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↔<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top"> Valproic acid<br/> 250 mg or 500 mg q 8 hr x 4 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">100 mg q 8 hr<br/>x 4 days<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">6<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">↑AUC<br/>80%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Range<br/>64% to 130%<sup>†</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Not Assessed<br/>
+</td>
+</tr>
+</tbody>
+</table>

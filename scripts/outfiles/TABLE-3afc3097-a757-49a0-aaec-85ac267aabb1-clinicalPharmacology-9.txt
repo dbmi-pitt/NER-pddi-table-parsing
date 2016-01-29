@@ -1,0 +1,24 @@
+<table id="ie53f8b03-c092-4d98-80c7-ed386a50b6ca" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Staphylococcus<sup>f</sup>
+</caption>
+<col width="52.25%"></col>
+<col width="47.75%"></col>
+<tbody>
+<tr>
+<td align="center" valign="top"> <content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td valign="top"> <content stylecode="bold">
+<content stylecode="underline">Interpretation</content>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"> ≥ 29</td>
+<td valign="top"> Susceptible (S)</td>
+</tr>
+<tr>
+<td align="center" valign="top"> ≤ 28</td>
+<td valign="top"> Resistant (R)</td>
+</tr>
+</tbody>
+</table>

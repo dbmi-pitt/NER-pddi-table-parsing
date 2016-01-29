@@ -1,0 +1,78 @@
+<table id="t7" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7:  Acceptable Quality Control Ranges for Susceptibility Testing
+</caption>
+<col align="left" width="32.156%"></col>
+<col align="left" width="33.922%"></col>
+<col align="left" width="33.922%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">ATCC = American Type Culture Collection
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">Quality Control Organism</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">Disk Diffusion (zone diameters in mm)</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 25923
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Not Applicable
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">26-35
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 29213
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.12-0.5
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Not Applicable
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+<br/>ATCC 25922
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.03-0.12
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">26-34
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus influenzae</content>
+<br/>ATCC 49247
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.03-0.12
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">29-39
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<br/>ATCC 49619
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.008-0.03
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">31-41
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,47 @@
+<table id="id_eb84800c-874d-4484-b6ce-38cad467c710" width="862.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_07ac2a19-ee5a-436d-a696-b3e728c1f663">Table 2. Acceptable Quality Control Ranges for Nitrofurantoin</caption>
+<col width="17.2%"></col>
+<col width="41.4%"></col>
+<col width="41.4%"></col>
+<tbody>
+<tr id="id_b11c3509-0265-47f7-8517-e2049bf6eafb">
+<td align="left" rowspan="2" stylecode="Toprule Botrule" valign="middle">QC Strain</td>
+<td align="center" colspan="2" valign="top">Acceptable Quality Control Ranges</td>
+</tr>
+<tr id="id_8212fc3e-48d2-411b-9995-a396aa8205ca">
+<td align="center" stylecode="Botrule" valign="top">Minimum Inhibitory Concentration (mcg/mL)</td>
+<td align="center" stylecode="Botrule" valign="top">Disk Diffusion<br/>(zone diameter in mm)</td>
+</tr>
+<tr id="id_73406b4b-820e-42c3-a99c-edfb5c6afecc">
+<td align="left" valign="middle">
+<content stylecode="italics">Escherichia coli<br/>
+</content>ATCC 25922</td>
+<td align="center" valign="top">4 to 16</td>
+<td align="center" valign="top">20 to 25</td>
+</tr>
+<tr id="id_4dee59d0-2bfc-4ffb-8c93-42a6d24e21fb">
+<td align="left" valign="middle">
+<content stylecode="italics">Enterococcus faecalis<br/>
+</content>ATCC 29212</td>
+<td align="center" valign="top">4 to 16</td>
+<td align="center" valign="top">NA<footnote id="id-e681e094-c478-46ec-bc03-7484ac2857f2">Not applicable</footnote>
+</td>
+</tr>
+<tr id="id_d721e0f0-47e9-47c5-8bc0-550435205bab">
+<td align="left" valign="middle">
+<content stylecode="italics">Staphylococcus aureus<br/>
+</content>ATCC 29213</td>
+<td align="center" valign="top">8 to 32</td>
+<td align="center" valign="top">NA<footnoteref idref="id-e681e094-c478-46ec-bc03-7484ac2857f2"></footnoteref>
+</td>
+</tr>
+<tr id="id_b8c44d6f-e8e6-42ea-9269-925f3ccdc4e8">
+<td align="left" stylecode="Botrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus<br/>
+</content>ATCC 25923</td>
+<td align="center" stylecode="Botrule" valign="top">NA<footnoteref idref="id-e681e094-c478-46ec-bc03-7484ac2857f2"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">18 to 22</td>
+</tr>
+</tbody>
+</table>

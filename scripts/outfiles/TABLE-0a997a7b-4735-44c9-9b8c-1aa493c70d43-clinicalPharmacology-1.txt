@@ -1,0 +1,156 @@
+<table id="id_ef98e0c7-8558-4a2e-afdf-a6327d92d7e6" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_3917aaef-1787-4d0d-8091-27c5c6390ab7">Table 11: Susceptibility Interpretive Criteria for LEVAQUIN<sup>®</sup>
+</caption>
+<col align="left" width="34%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="11%"></col>
+<col align="center" width="11%"></col>
+<thead>
+<tr id="id_5b2f168c-8f10-4efb-9392-87271729081f" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"></td>
+<td align="left" colspan="3" stylecode="Rrule" valign="top">Minimum Inhibitory<br/> Concentrations (mcg/mL)</td>
+<td align="left" colspan="3" stylecode="Rrule" valign="top">Disk Diffusion<br/> (zone diameter in mm)</td>
+</tr>
+</thead>
+<tfoot id="id_78d95896-1bd7-44f8-87b5-ef4221bccf18">
+<tr>
+<td align="left" colspan="7" stylecode="Lrule Rrule" valign="top">S = Susceptible, I = Intermediate, R = Resistant</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_0292ca97-791e-477c-8822-982c23a25172" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Pathogen </content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">S</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">I</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">R</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">S</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">I</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">R</content>
+</td>
+</tr>
+<tr id="id_d53a074a-12f1-43b7-815b-676a3ffe4fec">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Enterobacteriaceae </content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≤2</td>
+<td align="left" stylecode="Rrule" valign="top">4</td>
+<td align="left" stylecode="Rrule" valign="top">≥8</td>
+<td align="left" stylecode="Rrule" valign="top">≥17</td>
+<td align="left" stylecode="Rrule" valign="top">14–16</td>
+<td align="left" stylecode="Rrule" valign="top">≤13</td>
+</tr>
+<tr id="id_74891d59-bd4d-44b3-8d8f-2b42106cb5fa">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≤2</td>
+<td align="left" stylecode="Rrule" valign="top">4</td>
+<td align="left" stylecode="Rrule" valign="top">≥8</td>
+<td align="left" stylecode="Rrule" valign="top">≥17</td>
+<td align="left" stylecode="Rrule" valign="top">14–16</td>
+<td align="left" stylecode="Rrule" valign="top">≤13</td>
+</tr>
+<tr id="id_a9b12d07-0956-4823-811d-81eea1d4f3e2">
+<td align="left" stylecode="Lrule Rrule" valign="top">Methicillin-susceptible<br/>
+<content stylecode="italics"> Staphylococcus</content> species</td>
+<td align="left" stylecode="Rrule" valign="top">≤2</td>
+<td align="left" stylecode="Rrule" valign="top">4</td>
+<td align="left" stylecode="Rrule" valign="top">≥8</td>
+<td align="left" stylecode="Rrule" valign="top">≥17</td>
+<td align="left" stylecode="Rrule" valign="top">14–16</td>
+<td align="left" stylecode="Rrule" valign="top">≤13</td>
+</tr>
+<tr id="id_6d67a0bc-20c9-43e3-98a1-0e9359dd8292">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≤2</td>
+<td align="left" stylecode="Rrule" valign="top">4</td>
+<td align="left" stylecode="Rrule" valign="top">≥8</td>
+<td align="left" stylecode="Rrule" valign="top">≥17</td>
+<td align="left" stylecode="Rrule" valign="top">14–16</td>
+<td align="left" stylecode="Rrule" valign="top">≤13</td>
+</tr>
+<tr id="id_714a6dc4-9dbb-45e3-9f5a-a09c595b7db0">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≤2<footnote id="id-bcdb4797-5b51-4dec-ac19-ffc5905c58f4">These interpretive standards are applicable only to broth microdilution susceptibility testing with <content stylecode="italics">Haemophilus influenzae</content> and <content stylecode="italics">Haemophilus parainfluenzae</content> using Haemophilus Test Medium.<sup>1</sup>
+<br/>
+</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">--<footnote id="id-ecf98aa2-e89d-408d-b9f0-c1aef4e68546">The current absence of data on resistant strains precludes defining any categories other than "Susceptible." Strains yielding MIC /zone diameter results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">--<footnoteref idref="id-ecf98aa2-e89d-408d-b9f0-c1aef4e68546"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≥17<footnote id="id-ecc4690e-824d-4461-a5f5-0d84111b9d03">These interpretive standards are applicable only to disk diffusion susceptibility testing with <content stylecode="italics">Haemophilus influenzae</content> and <content stylecode="italics">Haemophilus parainfluenzae</content> using Haemophilus Test Medium.<sup>2</sup>
+</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">--<footnoteref idref="id-ecf98aa2-e89d-408d-b9f0-c1aef4e68546"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">--<footnoteref idref="id-ecf98aa2-e89d-408d-b9f0-c1aef4e68546"></footnoteref>
+</td>
+</tr>
+<tr id="id_12edc3a7-985b-4db3-b769-5f6b3250122b">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus parainfluenzae</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≤2<footnoteref idref="id-bcdb4797-5b51-4dec-ac19-ffc5905c58f4"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">--<footnoteref idref="id-ecf98aa2-e89d-408d-b9f0-c1aef4e68546"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">--<footnoteref idref="id-ecf98aa2-e89d-408d-b9f0-c1aef4e68546"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≥17<footnoteref idref="id-ecc4690e-824d-4461-a5f5-0d84111b9d03"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">--<footnoteref idref="id-ecf98aa2-e89d-408d-b9f0-c1aef4e68546"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">--<footnoteref idref="id-ecf98aa2-e89d-408d-b9f0-c1aef4e68546"></footnoteref>
+</td>
+</tr>
+<tr id="id_665ad5d6-d829-43f6-8f5a-1ed173f078a1">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≤2<footnote id="id-572255a9-a253-409d-a752-0780879aeb5c">These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">4<footnoteref idref="id-572255a9-a253-409d-a752-0780879aeb5c"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≥8<footnoteref idref="id-572255a9-a253-409d-a752-0780879aeb5c"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≥17<footnote id="id-e3798121-e4d5-4e0a-aa22-5ec60fc2a2dd">These zone diameter standards for <content stylecode="italics">Streptococcus</content> spp. including<content stylecode="italics"> S. pneumoniae</content> apply only to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO<sub>2</sub>.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">14–16<footnoteref idref="id-e3798121-e4d5-4e0a-aa22-5ec60fc2a2dd"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≤13 <footnoteref idref="id-e3798121-e4d5-4e0a-aa22-5ec60fc2a2dd"></footnoteref>
+</td>
+</tr>
+<tr id="id_b4888bdf-101b-4b6c-9107-068c7edcd52e">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Streptococcus pyogenes</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">≤2</td>
+<td align="left" stylecode="Rrule" valign="top">4</td>
+<td align="left" stylecode="Rrule" valign="top">≥8</td>
+<td align="left" stylecode="Rrule" valign="top">≥17</td>
+<td align="left" stylecode="Rrule" valign="top">14–16</td>
+<td align="left" stylecode="Rrule" valign="top">≤13</td>
+</tr>
+</tbody>
+</table>

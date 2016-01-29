@@ -1,0 +1,112 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Mean Changes in Blood Pressure from Baseline to Final Visit in all Double-Blind, Placebo-Controlled Studies </caption>
+<col width="16%"></col>
+<col width="17%"></col>
+<col width="16%"></col>
+<col width="17%"></col>
+<col width="16%"></col>
+<col width="18%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule     " valign="top"> </td>
+<td rowspan="1" stylecode="     Botrule          Toprule         Lrule     " valign="top"> <paragraph>
+<content stylecode="bold">Group</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule     " valign="top"> <paragraph>
+<content stylecode="bold">Normotensive</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Patients</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">DBP ≤ 90 mm Hg Mean</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <paragraph>
+<content stylecode="bold">Hypertensive</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Patients</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">DBP</content> &gt; <content stylecode="bold">90 mm Hg Mean</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule         Lrule     " valign="top"> <paragraph>
+<content stylecode="bold">N</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     " valign="top"> <paragraph>
+<content stylecode="bold">Change</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     " valign="top"> <paragraph>
+<content stylecode="bold">N</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph>
+<content stylecode="bold">Change</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="top"> <paragraph>
+<content stylecode="bold">SBP</content>
+</paragraph>
+<paragraph>(mm Hg)</paragraph>
+</td>
+<td stylecode="     Botrule         Lrule     " valign="top"> <paragraph>
+<content stylecode="bold">Placebo</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Terazosin</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     " valign="top"> <paragraph>293</paragraph>
+<paragraph>519</paragraph>
+</td>
+<td stylecode="     Botrule         Lrule     " valign="top"> <paragraph> -0.1</paragraph>
+<paragraph> -3.3<footnote id="FOOT_7548">p ≤ 0.05 vs. placebo</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     " valign="top"> <paragraph>45</paragraph>
+<paragraph>65</paragraph>
+</td>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph> -5.8</paragraph>
+<paragraph>-14.4<footnoteref idref="FOOT_7548"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="top"> <paragraph>
+<content stylecode="bold">DBP</content>
+</paragraph>
+<paragraph>(mm Hg)</paragraph>
+</td>
+<td stylecode="     Botrule         Lrule     " valign="top"> <paragraph>
+<content stylecode="bold">Placebo</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Terazosin</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     " valign="top"> <paragraph>293</paragraph>
+<paragraph>519</paragraph>
+</td>
+<td stylecode="     Botrule         Lrule     " valign="top"> <paragraph> +0.4</paragraph>
+<paragraph> -2.2<footnoteref idref="FOOT_7548"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="     Botrule         Lrule     " valign="top"> <paragraph>45</paragraph>
+<paragraph>65</paragraph>
+</td>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> <paragraph> -7.1</paragraph>
+<paragraph>-15.1<footnoteref idref="FOOT_7548"></footnoteref>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

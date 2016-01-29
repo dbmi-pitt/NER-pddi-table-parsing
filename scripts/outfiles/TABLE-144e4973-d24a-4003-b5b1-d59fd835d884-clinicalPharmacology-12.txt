@@ -1,0 +1,64 @@
+<table id="id_1a2a6d9d-8dac-4d98-bc98-45f28b640537" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="42%"></col>
+<col width="26%"></col>
+<col width="33%"></col>
+<tfoot id="id_ffa6ab5c-b5c6-4556-9fca-40a0c58ba10a">
+<tr>
+<td align="left" colspan="3" stylecode="Lrule Botrule" valign="top">
+<paragraph>k These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods.<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_c5eda762-d2e9-4453-98ef-9fc8955ac61a">
+<td align="left" stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">Microorganisms</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Antimicrobial </content>
+<content stylecode="bold">Agent</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">MIC </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mcg</content>
+<content stylecode="bold">/</content>
+<content stylecode="bold">mL</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<sup>k</sup>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr id="id_fa63c8de-cb32-4394-979e-e8ec09455f1c">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">H</content>
+<content stylecode="italics">. </content>
+<content stylecode="italics">pylori </content>ATCC 43504<br/>
+<content stylecode="italics">H</content>
+<content stylecode="italics">. </content>
+<content stylecode="italics">pylori </content>ATCC 43504<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">Clarithromycin<br/>Amoxicillin<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">0.015 - 0.12 mcg/mL<br/>0.015 - 0.12 mcg/mL<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+</tbody>
+</table>

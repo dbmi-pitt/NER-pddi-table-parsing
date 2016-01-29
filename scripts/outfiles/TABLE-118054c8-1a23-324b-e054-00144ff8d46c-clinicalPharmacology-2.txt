@@ -1,0 +1,85 @@
+<table id="_RefIDED26CD16220D4A578A2B8F0B5DF4D22B" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Susceptibility Interpretive Criteria for Fluconazole against Candida species</caption>
+<col width="16%"></col>
+<col width="14%"></col>
+<col width="15%"></col>
+<col width="12%"></col>
+<col width="14%"></col>
+<col width="15%"></col>
+<col width="12%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Toprule ">
+<paragraph>   </paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Lrule Toprule ">
+<paragraph>Broth Dilution at 48 hours</paragraph>
+<paragraph>(MIC in mcg/mL)</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Disk Diffusion at 24 hours</paragraph>
+<paragraph>(Zone Diameters in mm)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>Antifungal agent</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>Intermediate (I)
+               
+     
+      <footnote id="_RefID8D56B67F948B4C56BC127BF0113E3BAF">The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for fluconazole.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>Resistant (R)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>Susceptible (S)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>Intermediate (I)
+               
+     
+      <footnoteref idref="_RefID8D56B67F948B4C56BC127BF0113E3BAF"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>Fluconazole
+               
+     
+      <footnote id="_RefID576BE2D5D5E14FE09B5DE601272AE73F">Isolates of 
+                C. krusei are assumed to be intrinsically resistant to fluconazole and their MICs and/or zone diameters should not be interpreted using this scale.
+               </footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≤ 8</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>16 to 32</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≥ 64</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≥ 19</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>15 to 18</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>≤ 14</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

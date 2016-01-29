@@ -1,0 +1,63 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Ranitidine Pharmacokinetics in Pediatric Patients Following Oral Dosing</caption>
+<col width="30.9%"></col>
+<col width="11.7%"></col>
+<col width="22.3%"></col>
+<col width="17.6%"></col>
+<col width="17.6%"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="bold">Population</content>
+<content stylecode="bold">(age)</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> <content stylecode="bold">n</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> <paragraph>
+<content stylecode="bold">Dosage</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Form</content>
+</paragraph>
+<content stylecode="bold">(dose)</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> <paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</paragraph>
+<content stylecode="bold">(ng/mL)</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> <paragraph>
+<content stylecode="bold">T<sub>max</sub>
+</content>
+</paragraph>
+<content stylecode="bold">(hours)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> <paragraph>Gastric or</paragraph>
+<paragraph>duodenal ulcer</paragraph>(3.5 to 16 years)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 12</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> <paragraph>Tablets</paragraph>(1 to 2 mg/kg)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 54 to 492</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 2.0</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> <paragraph>Otherwise healthy</paragraph>
+<paragraph>requiring Ranitidine</paragraph>
+<paragraph>(0.7 to 14 years,</paragraph>Single dose)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 10</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> <paragraph>Syrup</paragraph>(2 mg/kg)</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 244</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 1.61</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="bottom"> <paragraph>Otherwise healthy</paragraph>
+<paragraph>requiring Ranitidine</paragraph>
+<paragraph>(0.7 to 14 years,</paragraph>Multiple dose)</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> 10</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> <paragraph>Syrup</paragraph>(2 mg/kg)</td>
+<td align="center" stylecode="     Rrule     " valign="bottom"> 320</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="bottom"> 1.66</td>
+</tr>
+</tbody>
+</table>

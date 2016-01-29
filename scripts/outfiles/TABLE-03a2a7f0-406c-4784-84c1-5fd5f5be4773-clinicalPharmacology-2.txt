@@ -1,0 +1,86 @@
+<table id="id_bc7ad20c-d588-4a04-ac66-91100143a326" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_af22a201-d193-464c-9f2d-916a4987a372">Table 8 Neuraminidase Amino Acid Substitutions Observed in Oseltamivir Treatment Studies or Community Surveillance</caption>
+<col align="center" width="33%"></col>
+<col align="center" width="28%"></col>
+<col align="center" width="39%"></col>
+<thead>
+<tr id="id_d2446656-9b46-4646-b0e3-ff73ea4a5c90" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Amino Acid Substitution</td>
+<td align="left" stylecode="Rrule" valign="top">Influenza Type/<br/>Sub-type</td>
+<td align="left" stylecode="Rrule" valign="top">Source</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_93dd8869-9907-4f0e-b2d1-8dea49aaadf2" stylecode="Toprule">
+<td align="left" colspan="3" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Catalytic Residues</content>
+</td>
+</tr>
+<tr id="id_3f2af16b-7bee-48ad-a6ca-cb3cdd9106b8">
+<td align="left" stylecode="Lrule Rrule" valign="top">R292K</td>
+<td align="left" stylecode="Rrule" valign="top">A N2</td>
+<td align="left" stylecode="Rrule" valign="top">Roche clinical trials, publication, surveillance<footnote id="id-d068c5f7-d186-487e-b3b6-057b0fc74ea7">Substitutions identified by surveillance data only; population and use of TAMIFLU are unknown</footnote>
+</td>
+</tr>
+<tr id="id_19a13231-5d1c-4003-9f85-df252c751cc5">
+<td align="left" colspan="3" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Framework Residues</content>
+</td>
+</tr>
+<tr id="id_22c66a8e-9e41-4ade-b809-e2bb3afe4bc4">
+<td align="left" stylecode="Lrule Rrule" valign="top">H275Y</td>
+<td align="left" stylecode="Rrule" valign="top">A N1</td>
+<td align="left" stylecode="Rrule" valign="top">Roche clinical trials, publication, surveillance<footnoteref idref="id-d068c5f7-d186-487e-b3b6-057b0fc74ea7"></footnoteref>
+</td>
+</tr>
+<tr id="id_282e1e86-e8c4-46f3-9dc8-5251fcf9f2e1">
+<td align="left" stylecode="Lrule Rrule" valign="top">N294S</td>
+<td align="left" stylecode="Rrule" valign="top">A N1, N2</td>
+<td align="left" stylecode="Rrule" valign="top">Publications</td>
+</tr>
+<tr id="id_1d38ddc0-ee4d-447a-8280-fa7e699cba7a">
+<td align="left" stylecode="Lrule Rrule" valign="top">E119V</td>
+<td align="left" stylecode="Rrule" valign="top">A N2</td>
+<td align="left" stylecode="Rrule" valign="top">Roche clinical trials, publication, surveillance<footnoteref idref="id-d068c5f7-d186-487e-b3b6-057b0fc74ea7"></footnoteref>
+</td>
+</tr>
+<tr id="id_a2b3eb56-6464-4d51-b729-e3636f8e64d4">
+<td align="left" stylecode="Lrule Rrule" valign="top">SASG245-248 deletion</td>
+<td align="left" stylecode="Rrule" valign="top">A N2</td>
+<td align="left" stylecode="Rrule" valign="top">Roche clinical trial</td>
+</tr>
+<tr id="id_44ae2b6e-17c7-4f9f-a4f5-51021c865216">
+<td align="left" stylecode="Lrule Rrule" valign="top">I222V</td>
+<td align="left" stylecode="Rrule" valign="top">A N2</td>
+<td align="left" stylecode="Rrule" valign="top">Publication</td>
+</tr>
+<tr id="id_73c5c347-6894-494b-9cac-7558f53702ec">
+<td align="left" stylecode="Lrule Rrule" valign="top">I222T</td>
+<td align="left" stylecode="Rrule" valign="top">B</td>
+<td align="left" stylecode="Rrule" valign="top">Publication</td>
+</tr>
+<tr id="id_774821e6-2103-4d0d-b245-b37bd27b8507">
+<td align="left" stylecode="Lrule Rrule" valign="top">D198N</td>
+<td align="left" stylecode="Rrule" valign="top">B</td>
+<td align="left" stylecode="Rrule" valign="top">Publication, surveillance<footnoteref idref="id-d068c5f7-d186-487e-b3b6-057b0fc74ea7"></footnoteref>
+</td>
+</tr>
+<tr id="id_7c5332de-413a-4edf-b0de-acbb8c6e617f">
+<td align="left" stylecode="Lrule Rrule" valign="top">D198E</td>
+<td align="left" stylecode="Rrule" valign="top">B</td>
+<td align="left" stylecode="Rrule" valign="top">Surveillance<footnoteref idref="id-d068c5f7-d186-487e-b3b6-057b0fc74ea7"></footnoteref>
+</td>
+</tr>
+<tr id="id_e5ae79c4-4e35-4439-b0cc-17e5851752e2">
+<td align="left" stylecode="Lrule Rrule" valign="top">R371K</td>
+<td align="left" stylecode="Rrule" valign="top">B</td>
+<td align="left" stylecode="Rrule" valign="top">Surveillance<footnoteref idref="id-d068c5f7-d186-487e-b3b6-057b0fc74ea7"></footnoteref>
+</td>
+</tr>
+<tr id="id_243980d7-bb85-4c46-8c2b-4d7181e33bb0" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">G402S</td>
+<td align="left" stylecode="Rrule" valign="top">B</td>
+<td align="left" stylecode="Rrule" valign="top">Publication</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,26 @@
+<table id="id_6a30a0ce-a0b9-45d5-96c8-d3b5a5069e63" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<thead>
+<tr id="id_830a5c0a-e65b-44a9-b34c-e91f894b35dc" stylecode="Botrule">
+<td align="center" valign="top">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">MIC (µg/mL)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_e1ea6d55-071f-4aac-9eac-e17f0264b8a1" stylecode="Toprule">
+<td align="center" valign="top">
+<content stylecode="italics">S. aureus</content> ATCC 29213</td>
+<td align="center" valign="top">0.12-0.5</td>
+</tr>
+<tr id="id_092b9f30-d60b-457f-b080-31f9bef31a51" stylecode="Botrule">
+<td align="center" valign="top">
+<content stylecode="italics">E. faecalis</content> ATCC 29212</td>
+<td align="center" valign="top">1-4</td>
+</tr>
+</tbody>
+</table>

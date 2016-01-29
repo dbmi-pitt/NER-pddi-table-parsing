@@ -1,0 +1,20 @@
+<table border="1" id="id_bb48f1e1-ab6e-4a8e-af5d-e80059cef21e" width="185" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_ec08f25f-9514-46b8-ae16-243ad00ec8ac">Staphylococcus
+                                 </caption>
+<col width="56.2%"></col>
+<col width="43.8%"></col>
+<tbody>
+<tr id="id_d9899149-4867-49f5-9564-71ebc4f5566c">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">MIC (mcg/mL)</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Interpretation</td>
+</tr>
+<tr id="id_5f38077f-9ced-4632-a7a4-d78a659189d3">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≤ 0.25</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Susceptible (S)</td>
+</tr>
+<tr id="id_9b9fb695-b97a-40fa-9a1e-4c007bba1e41">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≥ 0.5</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

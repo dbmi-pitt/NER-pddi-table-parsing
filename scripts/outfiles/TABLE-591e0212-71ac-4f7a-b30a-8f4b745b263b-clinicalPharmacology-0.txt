@@ -1,0 +1,64 @@
+<table id="id_d89a3bf4-aa76-409f-8c69-31ac797484eb" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_826889ae-7754-447d-8f8f-950636edf6cd"> TABLE 1. Controlled PHN Studies: Duration, Dosages, and Number of Patients </caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_0b3417ae-b65f-494f-adec-e45221e65a6f" stylecode="Botrule">
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Study</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Study Duration</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Gabapentin</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(mg/day)</content>
+<content stylecode="bold">
+<sup>a </sup>
+</content>
+<content stylecode="bold">Target Dose</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Patients Receiving Gabapentin</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Patients Receiving Placebo</content>
+</td>
+</tr>
+</thead>
+<tfoot id="id_452efff5-a39b-4b93-bac9-b8f524b067e4">
+<tr>
+<td align="left" colspan="5" valign="top">
+<sup>a</sup>Given in 3 divided doses (TID) </td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_3337df9f-fcf9-4ee5-b056-9f18d86084bb" stylecode="Toprule">
+<td align="center" stylecode="Botrule Rrule" valign="top">1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">8 weeks</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3600</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">113</td>
+<td align="center" stylecode="Botrule" valign="top">116</td>
+</tr>
+<tr id="id_3a7f5d61-05a0-4d60-84aa-cee05fe72dc3">
+<td align="center" stylecode="Botrule Rrule" valign="top">2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">7 weeks</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1800, 2400</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">223</td>
+<td align="center" stylecode="Botrule" valign="top">111</td>
+</tr>
+<tr id="id_e5ec6eb8-e09e-401a-b523-0e42bc92052a">
+<td align="right" colspan="3" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Total</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">336</td>
+<td align="center" stylecode="Botrule" valign="top">227</td>
+</tr>
+</tbody>
+</table>

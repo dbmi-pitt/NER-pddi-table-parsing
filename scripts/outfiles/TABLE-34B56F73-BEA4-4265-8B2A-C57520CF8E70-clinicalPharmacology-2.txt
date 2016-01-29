@@ -1,0 +1,22 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>TABLE 3 </caption>
+<col align="left" valign="top" width="18%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<thead>
+<tr><th align="center" colspan="8" stylecode="Botrule">Six-week, Lipid-lowering Effects of Simvastatin in Type IV Hyperlipidemia<br/>Median Percent Change (25th and 75th percentile) from Baseline<footnote>The median baseline values (mg/dL) for the patients in this study were: total-C = 254, LDL-C = 135, HDL-C = 36, TG = 404, VLDL-C = 83, and non-HDL-C = 215.</footnote></th></tr>
+<tr><th>TREATMENT</th><th>N</th><th>Total-C</th><th>LDL-C</th><th>HDL-C</th><th>TG</th><th>VLDL-C</th><th>Non-HDL-C</th></tr>
+</thead>
+<tbody>
+<tr><td>Placebo</td><td>74</td><td>+2</td><td>+1</td><td>+3</td><td>-9</td><td>-7</td><td>+1</td></tr>
+<tr><td></td><td></td><td>(-7, +7)</td><td>(-8, +14)</td><td>(-3, +10)</td><td>(-25, +13)</td><td>(-25, +11)</td><td>(-9, +8) </td></tr>
+<tr><td>Simvastatin 40 mg/day</td><td>74</td><td>-25</td><td>-28</td><td>+11</td><td>-29</td><td>-37</td><td>-32</td></tr>
+<tr><td></td><td></td><td>(-34, -19)</td><td>(-40, -17)</td><td>(+5, +23)</td><td>(-43, -16)</td><td>(-54, -23)</td><td>(-42, -23)</td></tr>
+<tr><td>Simvastatin 80 mg/day</td><td>74</td><td>-32</td><td>-37</td><td>+15</td><td>-34</td><td>-41</td><td>-38</td></tr>
+<tr><td></td><td></td><td>(-38, -24)</td><td>(-46, -26)</td><td>(+5, +23) </td><td>(-45, -18)</td><td>(-57, -28)</td><td>(-49, -32)</td></tr>
+</tbody>
+</table>

@@ -1,0 +1,53 @@
+<table id="t2" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Acceptable Quality Control Ranges for Amoxicillin<sup>a</sup>
+</caption>
+<col align="left" width="37.300%"></col>
+<col align="left" width="30.500%"></col>
+<col align="left" width="32.200%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">
+<sup>a</sup>QC limits for testing <content stylecode="italics">E. coli</content> 35218 when tested on Haemophilus Test Medium (HTM) are greater than 256 mcg/mL for amoxicillin; testing amoxicillin may help to determine if the isolate has maintained its ability to produce beta-lactamase<sup>2</sup>.
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">
+<sup>b</sup>ATCC = American Type Culture Collection
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode="Botrule" valign="middle">Quality Control Organism
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">Minimum Inhibitory Concentrations (mcg/mL)
+</td>
+<td align="center" stylecode="Botrule" valign="bottom">Disk Diffusion Zone<br/>Diameters<br/>(mm)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<br/>ATCC<sup>b</sup> 49619
+</td>
+<td align="center" stylecode="Botrule" valign="middle">0.03–0.12
+</td>
+<td align="center" stylecode="Botrule" valign="middle">---
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="italics">Klebsiella pneumoniae</content>
+<br/>ATCC 700603
+</td>
+<td align="center" valign="middle">&gt;128
+</td>
+<td align="center" valign="middle">---
+</td>
+</tr>
+</tbody>
+</table>

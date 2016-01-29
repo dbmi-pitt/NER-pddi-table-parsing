@@ -1,0 +1,32 @@
+<table border="single" id="id_da979bd1-2d9c-4568-8406-dc5e0322a2fe" width="444.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_77d90d28-e543-4f10-a5e8-7e89ed123a70">For testing Haemophilus spp.
+                                                <footnote id="id-0c883dd7-20af-4614-b70f-d4f28ebe4dae">These interpretive standards are applicable only to broth microdilution susceptibility tests with spp. using Haemophilus Testing Medium (HTM).
+                                                    <content stylecode="italics">Haemophilus</content>
+<sup>1</sup>
+</footnote>
+</caption>
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<tbody>
+<tr id="id_c43e4c31-917d-4d4c-a1f0-b4816435d955">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr id="id_2a2322be-4a9c-4e47-9c42-40d7f3ef485d">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">≤8.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_7671291e-a077-421c-be08-238458890e05">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">16.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_d4fcfea9-1510-4edc-a50b-c671059ec678">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">≥32.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

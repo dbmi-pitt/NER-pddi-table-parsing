@@ -1,0 +1,64 @@
+<table id="id_4e69ac33-95fb-4f7f-a675-e0f74a146ea9" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_62c0ed04-0b3b-42b7-92b8-9a5122514b73">TABLE 4. Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs</caption>
+<col align="left" width="22%"></col>
+<col align="left" width="34%"></col>
+<col align="left" width="22%"></col>
+<col align="left" width="22%"></col>
+<thead>
+<tr id="id_be0d6021-e0c7-4a3d-954b-9308b3a14fbc" stylecode="Toprule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">Atorvastatin</td>
+<td align="center" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">Co-administered drug and dosing regimen</td>
+</tr>
+<tr id="id_0dc993c0-84d1-4cfc-af39-268c38c6e397" stylecode="Botrule">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Drug/Dose (mg)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Change in AUC</td>
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Change in Cmax</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_4c818bef-8e08-451c-ab59-a2c8a15ba349" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">80 mg QD for 15 days</td>
+<td align="left" stylecode="Rrule" valign="top">Antipyrine, 600 mg SD</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 3%</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 11%</td>
+</tr>
+<tr id="id_d2bf16f5-ceea-4918-9ff2-a45e441a545d">
+<td align="left" stylecode="Lrule Rrule" valign="top">80 mg QD for 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">
+<footnote id="id-b0d78d04-87ea-47c7-8fcd-6ebd2c123fba">See<linkhtml href="#i4i_interactions_id_c0f192db-2708-4882-a3ef-211eb8522f03"> Section 7 </linkhtml>for clinical significance.</footnote> Digoxin 0.25 mg QD, 20 days</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 15%</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 20 %</td>
+</tr>
+<tr id="id_b2ddd23a-a1c2-417b-8a52-394567e0e22b">
+<td align="left" stylecode="Lrule Rrule" valign="top">40 mg QD for 22 days</td>
+<td align="left" stylecode="Rrule" valign="top">Oral contraceptive QD, 2 months</td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr id="id_e012adcb-0c24-42f2-ad90-6c457134ca83">
+<td align="left" stylecode="Lrule Rrule" valign="top"></td>
+<td align="left" stylecode="Rrule" valign="top">- norethindrone 1mg<br/>- ethinyl estradiol 35µg</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 28%<br/>↑ 19%</td>
+<td align="left" stylecode="Rrule" valign="top">↑ 23%<br/>↑ 30%</td>
+</tr>
+<tr id="id_dc517c4e-6c57-4deb-95b3-d1c22ea90b45">
+<td align="left" stylecode="Lrule Rrule" valign="top">10 mg, SD</td>
+<td align="left" stylecode="Rrule" valign="top">Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days</td>
+<td align="left" stylecode="Rrule" valign="top">No change</td>
+<td align="left" stylecode="Rrule" valign="top">No change</td>
+</tr>
+<tr id="id_4326123f-282c-4465-aa41-055611f167c1">
+<td align="left" stylecode="Lrule Rrule" valign="top">10 mg QD for 4 days</td>
+<td align="left" stylecode="Rrule" valign="top">Fosamprenavir 1400 mg BID, 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 27%</td>
+<td align="left" stylecode="Rrule" valign="top">↓ 18%</td>
+</tr>
+<tr id="id_fe7985ce-7d91-4522-aa0a-31bd6cd2e7c8" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">10 mg QD for 4 days</td>
+<td align="left" stylecode="Rrule" valign="top">Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days</td>
+<td align="left" stylecode="Rrule" valign="top">No change</td>
+<td align="left" stylecode="Rrule" valign="top">No change</td>
+</tr>
+</tbody>
+</table>

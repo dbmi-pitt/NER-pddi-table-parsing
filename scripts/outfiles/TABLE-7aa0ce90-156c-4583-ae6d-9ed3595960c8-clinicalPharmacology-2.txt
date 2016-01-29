@@ -1,0 +1,79 @@
+<table id="table2" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_d9781384-08df-451b-ad01-c12a9ff3f6dc">Table 2: Acceptable Quality Control Ranges for Imipenem</caption>
+<col align="left" width="40%"></col>
+<col align="center" width="40%"></col>
+<col align="center" width="20%"></col>
+<tbody>
+<tr id="id_30b59635-6402-4016-b09e-1fa2c02ce293" stylecode="Toprule">
+<td align="left" valign="top">Microorganism</td>
+<td align="left" stylecode="Toprule" valign="top">Minimum Inhibitory Concentrations<br/>MIC Range (µg/mL)</td>
+<td align="left" valign="top">Disk Diffusion<br/>Zone Diameter (mm)</td>
+</tr>
+<tr id="id_20a6de87-79e6-424f-8c61-b13f78a42663">
+<td align="left" valign="top">
+<content stylecode="italics">Pseudomonas aeruginosa </content>ATCC 27853</td>
+<td align="left" valign="top">1-4</td>
+<td align="left" valign="top">20-28</td>
+</tr>
+<tr id="id_688ea3ef-ef5a-4703-9862-aecd9c066b93">
+<td align="left" valign="top">
+<content stylecode="italics">Escherichia coli </content>ATCC 25922</td>
+<td align="left" valign="top">0.06-0.25</td>
+<td align="left" valign="top">26-32</td>
+</tr>
+<tr id="id_77d3136a-a082-4d11-be69-e30c374d71fc">
+<td align="left" valign="top">
+<content stylecode="italics">Haemophilus influenzae </content>ATCC 49247</td>
+<td align="left" valign="top">-</td>
+<td align="left" valign="top">21-29</td>
+</tr>
+<tr id="id_743008bb-8dfc-4696-b570-256add786f60">
+<td align="left" valign="top">
+<content stylecode="italics">Haemophilus influenzae </content>ATCC 49766</td>
+<td align="left" valign="top">0.25-1.0</td>
+<td align="left" valign="top">-</td>
+</tr>
+<tr id="id_e4513b6c-4058-4f96-9d04-05cdf95839a4">
+<td align="left" valign="top">
+<content stylecode="italics">Staphylococcus aureus </content>ATCC 29213</td>
+<td align="left" valign="top">0.015-0.06</td>
+<td align="left" valign="top">-</td>
+</tr>
+<tr id="id_74a5a633-205d-4512-9b0b-8f5dbe680574">
+<td align="left" valign="top">
+<content stylecode="italics">Enterococcus faecalis </content>ATCC 29212</td>
+<td align="left" valign="top">0.5-2.0</td>
+<td align="left" valign="top">-</td>
+</tr>
+<tr id="id_676353c8-2e32-45d6-a710-8b9250796358">
+<td align="left" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae </content>ATCC 49619</td>
+<td align="left" valign="top">0.03-0.12</td>
+<td align="left" valign="top">-</td>
+</tr>
+<tr id="id_af9d80ea-91e9-4c36-b4fd-3684c8fcd20e">
+<td align="left" valign="top">
+<content stylecode="italics">Bacteroides fragilis </content>ATCC 25285</td>
+<td align="left" valign="top">0.03-0.25<footnote id="t2fn1">Quality control ranges for broth microdilution testing</footnote>
+<br/>0.03-0.125<footnote id="t2fn2">Quality control ranges for agar dilution testing</footnote>
+</td>
+<td align="left" valign="top">-</td>
+</tr>
+<tr id="id_4ed1a9ec-d576-4d87-a293-a7c0093931a2">
+<td align="left" valign="top">
+<content stylecode="italics">Bacteroides thetaiotaomicron </content>ATCC 29741</td>
+<td align="left" valign="top">0.25-1.0<footnoteref idref="t2fn1"></footnoteref>
+<br/>0.125-0.5<footnoteref idref="t2fn2"></footnoteref>
+</td>
+<td align="left" valign="top">-</td>
+</tr>
+<tr id="id_cfee5788-32c1-4ab5-a3f8-059349795ed8" stylecode="Botrule">
+<td align="left" valign="top">
+<content stylecode="italics">Eubacterium lentum </content>ATCC 43055</td>
+<td align="left" valign="top">0.25-2.0<footnoteref idref="t2fn1"></footnoteref>
+<br/>0.125-0.5<footnoteref idref="t2fn2"></footnoteref>
+</td>
+<td align="left" valign="top">-</td>
+</tr>
+</tbody>
+</table>

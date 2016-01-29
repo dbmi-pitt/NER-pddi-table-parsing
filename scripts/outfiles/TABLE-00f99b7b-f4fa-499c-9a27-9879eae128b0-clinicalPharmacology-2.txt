@@ -1,0 +1,61 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="28%"></col>
+<col width="15%"></col>
+<col width="22%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule Botrule Toprule ">
+<content stylecode="bold">Microorganism</content>
+</th>
+<th stylecode="Rrule Botrule Toprule "></th>
+<th stylecode="Botrule Lrule Toprule ">
+<content stylecode="bold">MIC (µg/mL)</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Toprule " valign="top">
+<paragraph>
+<content stylecode="italics">Escherichia coli</content>
+</paragraph>
+</td>
+<td stylecode="Toprule " valign="top">
+<paragraph>ATCC 25922</paragraph>
+</td>
+<td stylecode="Toprule " valign="top">
+<paragraph>≤ 0.5/9.5</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae</content>
+<footnote id="_Refid-337d0a5d-d863-48d9-b3be-332e44b04">This quality control range is applicable only to <content stylecode="italics">Haemophilus influenzae</content> ATCC 49247 tested by broth microdilution procedure using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>4</sup>
+</footnote>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>ATCC 49247</paragraph>
+</td>
+<td valign="top">
+<paragraph>0.03/0.59 – 0.25/4.75</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<footnote id="_Refid-e8a6a91a-9c70-4c71-8905-85af0a486">This quality control range is applicable to tests performed by the broth microdilution method only using cation-adjusted Mueller-Hinton broth with 2% to 5% lysed horse blood.<sup>4</sup>
+</footnote>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>ATCC 49619</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>0.12/2.4 – 1/19</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,82 @@
+<table id="table12" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 12. Susceptibility Test Interpretive Criteria for Linezolid</caption>
+<col align="left" valign="top" width="28%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule"></th>
+<th colspan="6" stylecode="Botrule">Susceptibility Interpretive Criteria</th>
+</tr>
+<tr>
+<th stylecode="Rrule" valign="middle">Pathogen</th>
+<th colspan="3" stylecode="Rrule Botrule">Minimal Inhibitory Concentrations<br/>(MIC in mcg/mL)</th>
+<th colspan="3" stylecode="Botrule">Disk Diffusion<br/>(Zone Diameters in mm)</th>
+</tr>
+<tr>
+<th stylecode="Rrule"></th>
+<th stylecode="Rrule">S</th>
+<th stylecode="Rrule">I</th>
+<th stylecode="Rrule">R</th>
+<th stylecode="Rrule">S</th>
+<th stylecode="Rrule">I</th>
+<th>R</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">S=susceptible, I=intermediate, R=resistant</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">
+<content stylecode="italics">Enterococcus</content> spp</td>
+<td stylecode="Rrule">≤2</td>
+<td stylecode="Rrule">4</td>
+<td stylecode="Rrule">≥8</td>
+<td stylecode="Rrule">≥23</td>
+<td stylecode="Rrule">21–22</td>
+<td>≤20</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">
+<content stylecode="italics">Staphylococcus</content> spp <footnote id="t12f1">For disk diffusion testing of staphylococcal species, petri plates should be held up to the light source and read with transmitted light. The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernible growth within the zone of inhibition is indicative of resistance. Resistant results obtained by the disk diffusion method should be confirmed using an MIC method.</footnote>
+</td>
+<td stylecode="Rrule">≤4</td>
+<td stylecode="Rrule">---</td>
+<td stylecode="Rrule">≥8</td>
+<td stylecode="Rrule">≥21</td>
+<td stylecode="Rrule">---</td>
+<td>≤20</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">
+<content stylecode="italics">Streptococcus pneumoniae </content>
+<footnote id="t12f2">The current absence of data on resistant isolates precludes defining any categories other than "Susceptible." Isolates yielding test results suggestive of a "nonsusceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing.</footnote>
+</td>
+<td stylecode="Rrule">≤2</td>
+<td stylecode="Rrule">---</td>
+<td stylecode="Rrule">---</td>
+<td stylecode="Rrule">≥21</td>
+<td stylecode="Rrule">---</td>
+<td>---</td>
+</tr>
+<tr>
+<td stylecode="Rrule">
+<content stylecode="italics">Streptococcus </content> spp other than <content stylecode="italics">S pneumoniae </content>
+<footnoteref idref="t12f2"></footnoteref>
+</td>
+<td stylecode="Rrule">≤2</td>
+<td stylecode="Rrule">---</td>
+<td stylecode="Rrule">---</td>
+<td stylecode="Rrule">≥21</td>
+<td stylecode="Rrule">---</td>
+<td>---</td>
+</tr>
+</tbody>
+</table>

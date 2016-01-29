@@ -1,0 +1,27 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><col align="left" width="10%"></col>
+<col align="left" width="10%"></col>
+<col align="center" width="8%"></col>
+<col align="center" width="8%"></col>
+<col align="center" width="8%"></col>
+<col align="center" width="8%"></col>
+<col align="center" width="8%"></col>
+<col align="center" width="8%"></col>
+<col align="center" width="8%"></col>
+<col align="center" width="8%"></col>
+<col align="center" width="8%"></col>
+<tbody>
+<tr><td stylecode="Lrule Botrule"></td><td stylecode="Lrule Botrule"></td><td colspan="9" stylecode="Lrule Botrule Rrule">Mean Urine Concentration of  Carbenicillin mcg/ml Hours After Initial Dose</td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule">DRUG</td><td stylecode="Lrule">DOSE</td><td stylecode="Lrule">0–3</td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule">3–6</td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule">6–24</td><td stylecode="Lrule Rrule"></td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule">Geocillin</td><td stylecode="Toprule Lrule">1 tablet<br/>
+q.6 hr</td><td stylecode="Toprule Lrule">1130</td><td stylecode="Toprule Lrule"></td><td stylecode="Toprule Lrule"></td><td stylecode="Toprule Lrule"></td><td stylecode="Toprule Lrule">352</td><td stylecode="Toprule Lrule"></td><td stylecode="Lrule Rrule"></td><td stylecode="Lrule">292</td><td stylecode="Toprule Lrule Rrule"></td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule">Geocillin</td><td stylecode="Lrule">2 tablets<br/>
+q.6 hr</td><td stylecode="Lrule">1428</td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule">789</td><td stylecode="Lrule"></td><td stylecode="Lrule"></td><td stylecode="Lrule">809</td><td stylecode="Lrule Rrule"></td></tr>
+<tr stylecode="Botrule"><td colspan="11" stylecode="Lrule Toprule Rrule">Mean serum concentrations of carbenicillin in this study for these dosages are:</td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule Toprule"></td><td stylecode="Lrule Toprule"></td><td colspan="9" stylecode="Lrule Toprule Rrule">Mean Serum Concentration mcg/ml Hours After Initial Dose</td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule Botrule">DRUG</td><td stylecode="Lrule Botrule">DOSE</td><td stylecode="Lrule Toprule">1/2</td><td stylecode="Lrule Toprule">1</td><td stylecode="Lrule Toprule">2</td><td stylecode="Lrule Toprule">4</td><td stylecode="Lrule Toprule">6</td><td stylecode="Lrule Toprule">24</td><td stylecode="Lrule Toprule">25</td><td stylecode="Lrule Toprule">26</td><td stylecode="Rrule Lrule Toprule">28</td></tr>
+<tr stylecode="Botrule"><td stylecode="Lrule">Geocillin</td><td stylecode="Lrule Toprule">1 tablet<br/>
+q.6 hr</td><td stylecode="Lrule Toprule">5.1</td><td stylecode="Lrule Toprule">6.5</td><td stylecode="Lrule Toprule">3.2</td><td stylecode="Lrule Toprule">1.9</td><td stylecode="Lrule Toprule">0.0</td><td stylecode="Lrule Toprule">0.4</td><td stylecode="Lrule Toprule">8.8</td><td stylecode="Lrule Toprule">5.4</td><td stylecode="Lrule Toprule Rrule">0.4</td></tr>
+<tr><td stylecode="Lrule">Geocillin</td><td stylecode="Lrule Toprule">2 tablets<br/>
+q.6 hr</td><td stylecode="Lrule Toprule">6.1</td><td stylecode="Lrule Toprule">9.6</td><td stylecode="Lrule Toprule">7.9</td><td stylecode="Lrule Toprule">2.6</td><td stylecode="Lrule Toprule">0.4</td><td stylecode="Lrule Toprule">0.8</td><td stylecode="Lrule Toprule">13.2</td><td stylecode="Lrule Toprule">12.8</td><td stylecode="Rrule Lrule">3.8</td></tr>
+</tbody>
+</table>

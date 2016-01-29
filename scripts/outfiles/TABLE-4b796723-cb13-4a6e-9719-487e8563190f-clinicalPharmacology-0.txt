@@ -1,0 +1,42 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1</caption>
+<tfoot>
+<tr>
+<td colspan="3"></td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" colspan="3">
+<content stylecode="bold"> Pharmacokinetic Parameter of Quinine in Healthy Subjects and Patients with <br/>Uncomplicated <content stylecode="italics">P. falciparum</content> Malaria after a Single Dose<footnoteref idref="tbl1foot1"></footnoteref> of Oral Quinine <br/>Sulfate Capsules</content>
+</td>
+</tr>
+<tr>
+<th align="center" stylecode="Lrule Botrule Toprule"></th>
+<th align="center" stylecode="Lrule Botrule Toprule">Healthy Subjects<br/>(N=23)<br/>Mean ± SD</th>
+<th align="center" stylecode="Lrule Botrule Toprule Rrule">Uncomplicated <content stylecode="italics">P. falciparum</content> Malaria Patients <br/>(N=15) <br/>Mean ± SD</th>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule">Dose (mg/kg)<footnote id="tbl1foot1">Quinine Sulfate dose was 648 mg (approximately 8.7 mg/kg) in healthy subjects; and 10 mg/kg in patients with malaria.</footnote>
+</td>
+<td align="center" stylecode="Lrule Botrule">8.7</td>
+<td align="center" stylecode="Lrule Rrule Botrule">10</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule">T<sub>max</sub> (h)</td>
+<td align="center" stylecode="Lrule Rrule Botrule">2.8 ± 0.8</td>
+<td align="center" stylecode="Lrule Rrule Botrule">5.9 ± 4.7</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule">C<sub>max</sub> (mcg/mL)</td>
+<td align="center" stylecode="Lrule Rrule Botrule">3.2 ± 0.7</td>
+<td align="center" stylecode="Lrule Rrule Botrule">8.4</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Botrule">AUC<sub>0-12</sub>
+<br/>(mcg*h/mL)</td>
+<td align="center" stylecode="Lrule Rrule Botrule">28.0</td>
+<td align="center" stylecode="Lrule Rrule Botrule">73.0</td>
+</tr>
+</tbody>
+</table>

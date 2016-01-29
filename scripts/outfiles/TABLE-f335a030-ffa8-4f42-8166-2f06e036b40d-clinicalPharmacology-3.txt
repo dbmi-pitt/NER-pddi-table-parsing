@@ -1,0 +1,65 @@
+<table id="id_848bbf9d-887c-4b51-bd09-42f13f4ce1d5" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_c0241b79-181b-424a-ac4e-728b3d8abaa7">
+<td align="left" rowspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="bottom">
+<paragraph>Age of Patients</paragraph>
+</td>
+<td align="center" colspan="4" stylecode="Botrule Rrule" valign="middle">
+<paragraph>Total Daily Dose of Ketorolac Tromethamine Injection</paragraph>
+</td>
+</tr>
+<tr id="id_34ad6695-9bb7-45c2-97b8-185a75f8d401">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">
+<paragraph>≤ 60 mg</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>&gt; 60 to 90 mg</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>&gt; 90 to 120 mg</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>&gt; 120 mg</paragraph>
+</td>
+</tr>
+<tr id="id_472e5b9d-7815-4f6b-84b3-f8a782d1964d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<paragraph>&lt; 65 years of age</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>2.1%</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>4.6%</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>7.8%</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>15.4%</paragraph>
+</td>
+</tr>
+<tr id="id_67372d90-851a-4762-9a01-a6706af99299">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="bottom">
+<paragraph>≥ 65 years of age</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>4.7%</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>3.7%</paragraph>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<paragraph>2.8%</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>25%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

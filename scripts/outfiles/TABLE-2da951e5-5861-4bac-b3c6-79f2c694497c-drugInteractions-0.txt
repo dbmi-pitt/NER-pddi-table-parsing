@@ -1,0 +1,399 @@
+<table id="table13" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 13: Established and Other Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies<sup>a</sup> or Predicted Interactions (Information in the table applies to REYATAZ with or without ritonavir, unless otherwise indicated)</caption>
+<col span="1" width="25%"></col>
+<col span="1" width="20%"></col>
+<col span="1" width="55%"></col>
+<tbody>
+<tr>
+<th colspan="1">
+<content stylecode="bold">
+<content>Concomitant Drug Class:</content>
+<br/>Specific Drugs</content>
+</th>
+<th colspan="1">
+<content stylecode="bold">Effect on Concentration of Atazanavir or Concomitant Drug</content>
+</th>
+<th colspan="1">
+<content stylecode="bold">Clinical Comment</content>
+</th>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">
+<content>HIV Antiviral Agents</content>
+</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Nucleoside Reverse Transcriptase Inhibitors (NRTIs):</content>
+<br/>didanosine buffered formulations enteric-coated (EC) capsules</td>
+<td>↓ atazanavir<br/>↓ didanosine</td>
+<td>Coadministration of REYATAZ with didanosine buffered tablets resulted in a marked decrease in atazanavir exposure.
+It is recommended that REYATAZ be given (with food) 2 h before or 1 h after didanosine buffered formulations.  Simultaneous administration of didanosine EC and REYATAZ with food results in a decrease in didanosine exposure.  Thus, REYATAZ and didanosine EC should be administered at different times.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Nucleotide Reverse Transcriptase
+Inhibitors:</content> tenofovir disoproxil fumarate</td>
+<td>↓ atazanavir<br/>↑ tenofovir</td>
+<td>Tenofovir may decrease the AUC and C<sub>min</sub> of atazanavir. When coadministered with tenofovir, it is recommended that REYATAZ 300 mg be given with ritonavir 100 mg and tenofovir 300 mg (all as a single daily dose with food). <content stylecode="bold">REYATAZ without ritonavir should not be coadministered with tenofovir.</content> REYATAZ increases tenofovir concentrations. The mechanism of this interaction is unknown. Higher tenofovir concentrations could potentiate tenofovir-associated adverse events, including renal disorders. Patients receiving REYATAZ and tenofovir should be monitored for tenofovir-associated adverse events. For pregnant women taking REYATAZ with ritonavir <content stylecode="italics">and</content> tenofovir, see <content stylecode="italics">Dosage and Administration <linkhtml href="#Section_2.3">(2.3)</linkhtml>
+</content>.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Non-nucleoside Reverse Transcriptase Inhibitors (NNRTIs):</content> efavirenz</td>
+<td>↓ atazanavir</td>
+<td>Efavirenz decreases atazanavir exposure.<br/>
+<content stylecode="italics">
+<content>In treatment-naive patients:</content>
+</content>
+<br/>If REYATAZ is combined with efavirenz, REYATAZ 400 mg (two 200-mg capsules) with ritonavir 100 mg should be administered once daily all as a single dose with
+food, and efavirenz 600 mg should be administered once daily on an empty stomach, preferably at bedtime.<br/>
+<content stylecode="bold">
+<content>In treatment-experienced patients:</content>
+</content>
+<br/>Do not coadminister REYATAZ with efavirenz in treatment-experienced patients due to decreased atazanavir exposure.<br/>
+</td>
+</tr>
+<tr>
+<td>nevirapine</td>
+<td>↓ atazanavir<br/>↑ nevirapine</td>
+<td>Do not coadminister REYATAZ with nevirapine because:<list listtype="unordered">
+<item>Nevirapine substantially decreases atazanavir exposure.</item>
+<item>Potential risk for nevirapine associated toxicity due to increased nevirapine exposures.</item>
+</list>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Protease Inhibitors:</content>
+<br/>saquinavir (soft gelatin capsules)</td>
+<td>↑ saquinavir</td>
+<td>Appropriate dosing recommendations for this combination, with or without ritonavir, with respect to efficacy and safety have not been established. In a clinical study, saquinavir 1200 mg coadministered with REYATAZ 400 mg and tenofovir 300 mg (all given once daily) plus nucleoside analogue reverse transcriptase inhibitors did not provide adequate efficacy [see <content stylecode="italics">Clinical Studies <linkhtml href="#Section_14.2">(14.2)</linkhtml>
+</content>].</td>
+</tr>
+<tr>
+<td>ritonavir</td>
+<td>↑ atazanavir</td>
+<td>If REYATAZ is coadministered with ritonavir, it is recommended that REYATAZ 300 mg once daily be given with ritonavir 100 mg once daily with food. See the complete prescribing information for NORVIR<sup>®</sup> (ritonavir) for information on drug interactions with ritonavir.</td>
+</tr>
+<tr>
+<td>others</td>
+<td>↑ other protease inhibitor</td>
+<td>
+<content stylecode="bold">
+<content>REYATAZ/ritonavir: </content>
+</content>Although not studied, the coadministration of REYATAZ/ritonavir and other protease inhibitors would be expected to increase exposure to the other protease inhibitor. Such coadministration is not recommended.</td>
+</tr>
+<tr>
+<td>
+<content>HCV Antiviral Agents</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Protease Inhibitors: </content>
+<br/>boceprevir
+</td>
+<td>↓ atazanavir<br/>↓ ritonavir</td>
+<td>Concomitant administration of boceprevir and atazanavir/ritonavir resulted in reduced steady-state exposures to atazanavir and ritonavir. Coadministration of REYATAZ/ritonavir and boceprevir is not recommended.</td>
+</tr>
+<tr>
+<td>telaprevir
+</td>
+<td>↓ telaprevir<br/>↑ atazanavir</td>
+<td>Concomitant administration of telaprevir and atazanavir/ritonavir resulted in reduced steady-state telaprevir exposure, while steady-state atazanavir exposure was increased.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">
+<content>Other Agents</content>
+</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Antacids and buffered medications</content>
+</td>
+<td>↓ atazanavir</td>
+<td>Reduced plasma concentrations of atazanavir are expected if antacids, including buffered medications, are administered with REYATAZ.  REYATAZ should be administered 2 hours before or 1 hour after these medications.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Antiarrhythmics:</content> amiodarone, bepridil, lidocaine (systemic), quinidine</td>
+<td>↑ amiodarone, bepridil, lidocaine (systemic), quinidine</td>
+<td>Coadministration with REYATAZ has the potential to produce serious and/or life-threatening adverse events and has not been studied.  Caution is warranted and therapeutic concentration monitoring of these drugs is recommended if they are used concomitantly with REYATAZ (atazanavir sulfate). </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Anticoagulants:</content> warfarin</td>
+<td>↑ warfarin</td>
+<td>Coadministration with REYATAZ has the potential to produce serious and/or life-threatening bleeding and has not been studied. It is recommended that INR (International Normalized Ratio) be monitored.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Antidepressants: </content> tricyclic antidepressants</td>
+<td>↑ tricyclic antidepressants</td>
+<td>Coadministration with REYATAZ has the potential to produce serious and/or life-threatening adverse events and has not been studied.  Concentration monitoring of these drugs is recommended if they are used concomitantly with REYATAZ.</td>
+</tr>
+<tr>
+<td>trazodone</td>
+<td>↑ trazodone</td>
+<td>Concomitant use of trazodone and REYATAZ with or without ritonavir may increase plasma concentrations of trazodone. Adverse events of nausea, dizziness, hypotension, and syncope have been observed following coadministration of trazodone and ritonavir. If trazodone is used with a CYP3A4 inhibitor such as REYATAZ, the combination should be used with caution and a lower dose of trazodone should be considered.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Antiepileptics: </content>
+<br/>carbamazepine</td>
+<td>↓ atazanavir<br/>↑ carbamazepine</td>
+<td>Plasma concentrations of atazanavir may be decreased when carbamazepine is administered with REYATAZ without ritonavir. Coadministration of carbamazepine and REYATAZ without ritonavir is not recommended. Ritonavir may increase plasma levels of carbamazepine. If patients beginning treatment with REYATAZ/ritonavir have been titrated to a stable dose of carbamazepine, a dose reduction for carbamazepine may be necessary.</td>
+</tr>
+<tr>
+<td>phenytoin, phenobarbital</td>
+<td>↓ atazanavir<br/>↓ phenytoin<br/>↓ phenobarbital</td>
+<td>Plasma concentrations of atazanavir may be decreased when phenytoin or phenobarbital is administered with REYATAZ without ritonavir. Coadministration of phenytoin or phenobarbital and REYATAZ without ritonavir is not recommended. Ritonavir may decrease plasma levels of phenytoin and phenobarbital. When REYATAZ with ritonavir is coadministered with either phenytoin or phenobarbital, a dose adjustment of phenytoin or phenobarbital may be required.</td>
+</tr>
+<tr>
+<td>lamotrigine</td>
+<td>↓ lamotrigine</td>
+<td>Coadministration of lamotrigine and REYATAZ <content>with</content> ritonavir may decrease lamotrigine plasma concentrations. Dose adjustment of lamotrigine may be required when coadministered with REYATAZ and ritonavir. Coadministration of lamotrigine and REYATAZ <content>without</content> ritonavir is not expected to decrease lamotrigine plasma concentrations. No dose adjustment of lamotrigine is required when coadministered with REYATAZ without ritonavir.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Antifungals: </content>
+<br/>ketoconazole, itraconazole</td>
+<td>
+<content stylecode="bold">
+<content>REYATAZ/ritonavir:</content>
+</content>
+<br/> ↑ ketoconazole<br/> ↑ itraconazole</td>
+<td>Coadministration of  ketoconazole has only been studied with REYATAZ without ritonavir (negligible increase in atazanavir AUC and C<sub>max</sub>).  Due to the effect of ritonavir on ketoconazole, high doses of ketoconazole and itraconazole (&gt;200 mg/day) should be used cautiously with REYATAZ/ritonavir.</td>
+</tr>
+<tr>
+<td>voriconazole</td>
+<td>
+<content>REYATAZ/ritonavir in subjects with a functional CYP2C19 allele:</content>
+<br/> ↓ voriconazole<br/> ↓ atazanavir<br/>
+<content> REYATAZ/ritonavir in subjects without a functional CYP2C19 allele:</content>
+<br/> ↑ voriconazole<br/> ↓ atazanavir</td>
+<td>Voriconazole should not be administered to patients receiving REYATAZ/ritonavir, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole. Patients should be carefully monitored for voriconazole-associated adverse events and loss of either voriconazole or atazanavir efficacy during the co-administration of voriconazole and REYATAZ/ritonavir. Coadministration of voriconazole with REYATAZ (without ritonavir) may affect atazanavir concentrations; however, no data are available.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Antigout: </content> colchicine</td>
+<td>↑ colchicine</td>
+<td>REYATAZ should not be coadministered with colchicine to patients with renal or hepatic impairment.<br/>
+<content>Recommended dosage of colchicine when administered with REYATAZ:<br/>Treatment of gout flares:</content>
+<br/>0.6 mg (1 tablet) for 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Not to be repeated before 3 days.<content>Prophylaxis of gout flares:</content>
+<br/>If the original regimen was 0.6 mg <content stylecode="italics">twice</content> a day, the regimen should be adjusted to 0.3 mg <content stylecode="italics">once a day</content>.<br/>
+<br/>
+If the original regimen was 0.6 mg <content stylecode="italics">once</content> a day, the regimen should be adjusted to 0.3 mg <content stylecode="italics">once every other day</content>.<content>Treatment of familial Mediterranean fever (FMF):</content>
+<br/>Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day).</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Antimycobacterials: </content> rifabutin</td>
+<td>↑ rifabutin</td>
+<td>A rifabutin dose reduction of up to 75% (eg, 150 mg every other day or 3 times per week) is recommended. Increased monitoring for rifabutin-associated adverse reactions including neutropenia is warranted.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Benzodiazepines: </content>parenterally administered midazolam<sup>b</sup>
+</td>
+<td>↑ midazolam</td>
+<td>Concomitant use of parenteral midazolam with REYATAZ may increase plasma concentrations of midazolam. Coadministration should be done in a setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage reduction for midazolam should be considered, especially if more than a single dose of midazolam is administered. Coadministration of oral midazolam with REYATAZ is CONTRAINDICATED. </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Calcium channel blockers: </content>diltiazem</td>
+<td>↑ diltiazem and desacetyl-diltiazem</td>
+<td>Caution is warranted. A dose reduction of diltiazem by 50% should be considered. ECG monitoring is recommended. Coadministration of REYATAZ/ritonavir with diltiazem has not been studied.</td>
+</tr>
+<tr>
+<td>felodipine, nifedipine, nicardipine, and verapamil</td>
+<td>↑ calcium channel blocker</td>
+<td>Caution is warranted. Dose titration of the calcium channel blocker should be considered. ECG monitoring is recommended.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Endothelin receptor antagonists: </content> bosentan</td>
+<td>↓ atazanavir<br/>↑ bosentan</td>
+<td>Plasma concentrations of atazanavir may be decreased when bosentan is administered with REYATAZ without ritonavir. Coadministration of bosentan and REYATAZ without ritonavir is not recommended.<br/>
+<content>Coadministration of bosentan in patients on REYATAZ/ritonavir:</content>
+<br/>For patients who have been receiving REYATAZ/ritonavir for at least 10 days, start bosentan at 62.5 mg once daily or every other day based on individual tolerability.<content>Coadministration of REYATAZ/ritonavir in patients on bosentan:</content>
+<br/>Discontinue bosentan at least 36 hours before starting REYATAZ/ritonavir. At least 10 days after starting REYATAZ/ritonavir, resume bosentan at 62.5 mg once daily or every other day based on individual tolerability.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">HMG-CoA reductase inhibitors:
+</content>atorvastatin, rosuvastatin</td>
+<td>↑ atorvastatin <br/>↑ rosuvastatin</td>
+<td>Titrate atorvastatin dose carefully and use the lowest necessary dose. Rosuvastatin dose should not exceed 10 mg/day. The risk of myopathy, including rhabdomyolysis, may be increased when HIV protease inhibitors, including REYATAZ, are used in combination with these drugs.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">H<sub>2</sub>-Receptor antagonists</content>
+</td>
+<td>↓ atazanavir</td>
+<td>Plasma concentrations of atazanavir were substantially decreased when REYATAZ 400 mg once daily was administered simultaneously with famotidine 40 mg twice daily, which may result in loss of therapeutic effect and development of resistance. </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<content stylecode="bold">
+<content>In treatment-naive patients:</content>
+</content>
+<br/>REYATAZ 300 mg with ritonavir 100 mg once daily with food should be administered simultaneously with, and/or at
+least 10 hours after, a dose of the H<sub>2</sub>-receptor antagonist. An H<sub>2</sub>-receptor antagonist dose comparable to famotidine
+20 mg once daily up to a dose comparable to famotidine 40 mg twice daily can be used with REYATAZ 300 mg with ritonavir 100 mg in treatment-naive patients.<br/>                        OR<br/>For patients unable to tolerate ritonavir, REYATAZ 400 mg once daily with food should be administered at least 2 hours before and at least 10 hours after a dose of the H<sub>2</sub>-receptor antagonist. No single dose of the H<sub>2</sub>-receptor antagonist should exceed a dose comparable to famotidine 20 mg, and the total daily dose should not exceed a dose comparable to famotidine 40 mg. However, REYATAZ should not be used without ritonavir in pregnant women.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<content stylecode="bold">
+<content>In treatment-experienced patients:</content>
+</content>
+<br/>Whenever an H<sub>2</sub>-receptor antagonist is given to a patient receiving REYATAZ with ritonavir, the H<sub>2</sub>-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily, and the REYATAZ and ritonavir doses should be administered simultaneously with, and/or at least 10 hours after, the dose of the H<sub>2</sub>-receptor antagonist.
+<list listtype="unordered">
+<item>REYATAZ 300 mg with ritonavir 100 mg once daily (all as a single dose with food) if taken with an H<sub>2</sub>-receptor antagonist. For pregnant women taking REYATAZ with ritonavir and an H<sub>2</sub>-receptor antagonist, see <content stylecode="italics">Dosage and Administration <linkhtml href="#Section_2.3">(2.3)</linkhtml>
+</content>.</item>
+<item>REYATAZ 400 mg with ritonavir 100 mg once daily (all as a single dose with food) if taken with both tenofovir and an H<sub>2</sub>-receptor antagonist. For pregnant women taking REYATAZ with ritonavir and both tenofovir and an H<sub>2</sub>-receptor antagonist, see <content stylecode="italics">Dosage and Administration <linkhtml href="#Section_2.3">(2.3)</linkhtml>
+</content>.</item>
+</list>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Hormonal contraceptives: </content>ethinyl estradiol and norgestimate or norethindrone</td>
+<td>↓ ethinyl estradiol <br/>↑ norgestimate<sup>c</sup>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>↑ ethinyl estradiol<br/>↑ norethindrone<sup>d</sup>
+</td>
+<td>Use with caution if coadministration of REYATAZ or REYATAZ/ritonavir with oral contraceptives is considered. If an oral contraceptive is administered with REYATAZ plus ritonavir, it is recommended that the oral contraceptive contain at least
+35 mcg of ethinyl estradiol. If REYATAZ is administered without ritonavir, the oral contraceptive should contain no more than 30 mcg of ethinyl estradiol.<br/>     Potential safety risks include substantial increases in progesterone exposure. The long-term effects of increases in concentration of the progestational agent are unknown and could increase the risk of insulin resistance, dyslipidemia, and acne. <br/>     Coadministration of REYATAZ or REYATAZ/ritonavir with other hormonal contraceptives (eg, contraceptive patch, contraceptive vaginal ring, or injectable contraceptives) or oral contraceptives containing progestogens other than norethindrone or norgestimate, or less
+than 25 mcg of ethinyl estradiol, has not been studied; therefore, alternative methods of contraception are recommended.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Immunosuppressants: </content>cyclosporin, sirolimus, tacrolimus</td>
+<td>↑ immunosuppressants</td>
+<td>Therapeutic concentration monitoring is recommended for immunosuppressant agents when coadministered with REYATAZ (atazanavir sulfate).</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Inhaled beta agonist:</content> salmeterol</td>
+<td>
+↑ salmeterol</td>
+<td>Coadministration of salmeterol with REYATAZ is not recommended. Concomitant use of salmeterol and REYATAZ may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations, and sinus tachycardia. </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Inhaled/nasal steroid:</content> fluticasone</td>
+<td>
+<content stylecode="bold">
+<content stylecode="bold">
+<content>REYATAZ</content>
+</content>
+<br/>
+</content>↑ fluticasone</td>
+<td>Concomitant use of fluticasone propionate and REYATAZ (without ritonavir) may increase plasma concentrations of fluticasone propionate.  Use with caution. Consider alternatives to fluticasone propionate, particularly for long-term use.</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<content stylecode="bold">
+<content stylecode="bold">
+<content>REYATAZ/ritonavir</content>
+</content>
+<br/>
+</content>↑ fluticasone</td>
+<td>Concomitant use of fluticasone propionate and REYATAZ/ritonavir may increase plasma concentrations of fluticasone propionate, resulting in significantly reduced serum cortisol concentrations. Systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression, have been reported during postmarketing use in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate. Coadministration of fluticasone propionate and REYATAZ/ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects [see <content stylecode="italics">Warnings and Precautions <linkhtml href="#Section_5.1">(5.1)</linkhtml>
+</content>].</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Macrolide antibiotics:</content> clarithromycin</td>
+<td>↑ clarithromycin <br/>↓ 14-OH clarithromycin <br/>↑ atazanavir</td>
+<td>Increased concentrations of clarithromycin may cause QTc prolongations; therefore, a dose reduction of clarithromycin by 50% should be considered when it is coadministered with REYATAZ. In addition, concentrations of the active metabolite 14-OH clarithromycin are significantly reduced; consider alternative therapy for indications other than infections due to <content stylecode="italics">Mycobacterium avium</content> complex. Coadministration of REYATAZ/ritonavir with clarithromycin has not been studied.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Opioids:</content> Buprenorphine</td>
+<td>↑ buprenorphine<br/>↑ norbuprenorphine</td>
+<td>Coadministration of buprenorphine and REYATAZ with or without ritonavir increases the plasma concentration of buprenorphine and norbuprenorphine. Coadministration of REYATAZ plus ritonavir with buprenorphine warrants clinical monitoring for sedation and cognitive effects. A dose reduction of buprenorphine may be considered. Coadministration of buprenorphine and REYATAZ with ritonavir is not expected to decrease atazanavir plasma concentrations. Coadministration of buprenorphine and REYATAZ without ritonavir may decrease atazanavir plasma concentrations. REYATAZ without ritonavir should not be coadministered with buprenorphine.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">PDE5 inhibitors:</content> sildenafil, tadalafil, vardenafil</td>
+<td>↑ sildenafil<br/>↑ tadalafil<br/>↑ vardenafil</td>
+<td>Coadministration with REYATAZ has not been studied but may result in an increase in PDE5 inhibitor-associated adverse events, including hypotension, syncope, visual disturbances, and priapism.<br/>
+<br/>
+<content>Use of PDE5 inhibitors for pulmonary arterial hypertension (PAH):</content>
+<br/>Use of REVATIO<sup>®</sup> (sildenafil) for the treatment of pulmonary hypertension (PAH) is contraindicated with REYATAZ [see <content stylecode="italics">Contraindications <linkhtml href="#Section_4">(4)</linkhtml>
+</content>].<br/>
+<br/>
+<br/>The following dose adjustments are recommended for the use of ADCIRCA<sup>®</sup> (tadalafil) with REYATAZ:<br/>
+<br/>
+<br/>Coadministration of ADCIRCA<sup>®</sup> in patients on REYATAZ (with or without ritonavir):<br/>
+<list listtype="unordered">
+<item>For patients receiving REYATAZ (with or without ritonavir) for at least one week, start ADCIRCA<sup>®</sup> at 20 mg once daily. Increase to 40 mg once daily based on individual tolerability.<br/>
+<br/>
+</item>
+</list>
+<br/>Coadministration of REYATAZ (with or without ritonavir) in patients on ADCIRCA<sup>®</sup>:<br/>
+<list listtype="unordered">
+<item>Avoid the use of ADCIRCA<sup>®</sup> when starting REYATAZ (with or without ritonavir). Stop ADCIRCA<sup>®</sup> at least 24 hours before starting REYATAZ (with or without ritonavir). At least one week after starting REYATAZ (with or without ritonavir), resume ADCIRCA<sup>®</sup> at 20 mg once daily. Increase to 40 mg once daily based on individual tolerability.</item>
+</list>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<content stylecode="bold">
+<content stylecode="bold"></content>
+</content>
+</td>
+<td>
+<content> Use of PDE5 inhibitors for erectile dysfunction:</content>
+<paragraph>        Use VIAGRA<sup>®</sup> (sildenafil) with caution at reduced doses of 25 mg every 48 hours with increased monitoring for adverse events.<br/>
+</paragraph>
+<paragraph>        Use CIALIS<sup>®</sup> (tadalafil) with caution at reduced doses of 10 mg every 72 hours with increased monitoring for adverse events.<br/>
+</paragraph>
+<paragraph>        <content>REYATAZ/ritonavir:</content> Use LEVITRA<sup>®</sup> (vardenafil) with caution at reduced doses of no more than 2.5 mg every 72 hours with increased monitoring for adverse events.<br/>
+</paragraph>
+<paragraph>        <content>REYATAZ:</content> Use LEVITRA<sup>®</sup> (vardenafil) with caution at reduced doses of no more than 2.5 mg every 24 hours with increased monitoring for adverse events.<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Proton-pump inhibitors: </content>omeprazole</td>
+<td>↓ atazanavir</td>
+<td>Plasma concentrations of atazanavir were substantially decreased when REYATAZ 400 mg or REYATAZ 300 mg/ritonavir 100 mg once daily was administered with omeprazole 40 mg once daily, which may result in loss of therapeutic effect and development of resistance.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<content stylecode="bold">
+<content>In treatment-naive patients:</content>
+</content>
+<br/>The proton-pump inhibitor dose should not exceed a dose comparable to omeprazole 20 mg and must be taken approximately 12 hours prior to the REYATAZ 300 mg with ritonavir 100 mg dose.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<content stylecode="bold">
+<content>In treatment-experienced patients:</content>
+</content>
+<br/>Proton-pump inhibitors should not be used in treatment-experienced patients receiving REYATAZ.</td>
+</tr>
+</tbody>
+</table>

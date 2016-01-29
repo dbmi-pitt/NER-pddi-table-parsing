@@ -1,0 +1,31 @@
+<table id="id_0a780135-e8d8-40fd-b642-19793c107921" width="0.000" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_5e3088d6-f75d-4630-b4cd-e0b2db178ca4">
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">Acceptable Quality Control Ranges</content>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">Antimicrobial Agent</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">MIC (mcg/mL)</content>
+<footnote id="id-b0a9a23e-1c43-4861-aa0d-6a474e9c4712">These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods.</footnote>
+</td>
+</tr>
+<tr id="id_07a50177-c57e-4e17-a23f-73a0bd9535f8">
+<td align="left" valign="top">
+<content stylecode="italics">H. pylori</content> ATCC 43504</td>
+<td align="left" valign="top">Clarithromycin</td>
+<td align="left" valign="top">0.015 to 0.12 mcg/mL</td>
+</tr>
+<tr id="id_148f5942-d809-4728-b4eb-ad8caa1fb974">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">H. pylori</content> ATCC 43504</td>
+<td align="left" stylecode="Botrule" valign="top">Amoxicillin</td>
+<td align="left" stylecode="Botrule" valign="top">0.015 to 0.12 mcg/mL</td>
+</tr>
+</tbody>
+</table>

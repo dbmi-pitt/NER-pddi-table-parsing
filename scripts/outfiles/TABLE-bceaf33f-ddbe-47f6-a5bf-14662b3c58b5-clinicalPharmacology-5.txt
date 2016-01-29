@@ -1,0 +1,229 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="20%"></col>
+<col width="3%"></col>
+<col width="19%"></col>
+<col width="3%"></col>
+<col width="16%"></col>
+<col width="3%"></col>
+<col width="18%"></col>
+<col width="3%"></col>
+<col width="14%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="9" stylecode="Botrule" valign="top">
+<sup>a</sup> Values are presented as means ± SD unless indicated otherwise. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="9" stylecode="Botrule" valign="top">
+<sup>b</sup> Mean value only. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="9" stylecode="Botrule" valign="top">
+<sup>c</sup> Single center study.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="9" stylecode="Botrule" valign="top">
+<sup>d</sup> Multicenter study.<br/>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" colspan="9" stylecode="Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Table 6</content>
+<br/>
+<content stylecode="underline">Pharmacokinetic Parameters<sup>a</sup> of Intravenous Famotidine</content>
+<br/>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Age<br/>(N=number of<br/>patients)<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>Area Under<br/>the Curve (AUC)<br/>(ng-hr/mL)<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>Total<br/>Clearance (Cl)<br/>(L/hr/kg)<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>Volume of<br/>Distribution (V<sub>d</sub>)<br/>(L/kg)<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>Elimination<br/>Half-life (T<sub>1/2</sub>)<br/>(hours)<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>0-1 month<sup>c</sup> (N=10)<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>NA<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>0.13 ± 0.06<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>1.4 ± 0.4<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>10.5 ± 5.4<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>0-3 months<sup>d</sup> (N=6)<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>2688 ± 847<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>0.21 ± 0.06<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>1.8 ± 0.3<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>8.1 ± 3.5<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>&gt;3-12 months<sup>d</sup> (N=11)<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>1160 ± 474<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>0.49 ± 0.17<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>2.3 ± 0.7<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>4.5 ± 1.1<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>1-11 yrs (N=20)<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>1089 ± 834<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>0.54 ± 0.34<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>2.07 ± 1.49<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>3.38 ± 2.60<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>11-15 yrs (N=6)<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>1140 ± 320<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>0.48 ± 0.14<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>1.5 ± 0.4<br/>
+</paragraph>
+</td>
+<td valign="top"></td>
+<td align="center" valign="top">
+<paragraph>2.3 ± 0.4<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Adult (N=16)<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>1726<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>0.39 ± 0.14<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>1.3 ± 0.2<br/>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top"></td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>2.83 ± 0.99<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

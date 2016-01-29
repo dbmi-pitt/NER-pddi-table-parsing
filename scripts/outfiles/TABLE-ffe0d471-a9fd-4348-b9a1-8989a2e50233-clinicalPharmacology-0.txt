@@ -1,0 +1,94 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Mean (CV%)<linkhtml href="http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec82b108-6a6f-4d1b-82cb-831d4ed36c80#footnote-1" stylecode="Sup">*</linkhtml> Pharmacokinetic Parameters of etodolac in Normal Healthy Adults and Various Special Populations</caption>
+<colgroup>
+<col align="left" valign="middle" width="16%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="12%"></col>
+<col align="center" valign="middle" width="12%"></col>
+</colgroup>
+<thead>
+<tr>
+<th align="left" stylecode="Lrule Rrule">PK<br/>Parameters</th>
+<th align="center" stylecode="Rrule" valign="top">Normal Healthy Adults<br/>(18-65)<linkhtml href="http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec82b108-6a6f-4d1b-82cb-831d4ed36c80#footnote-2" stylecode="Sup">†</linkhtml>
+</th>
+<th align="center" stylecode="Rrule" valign="top">Healthy Males<br/>(18-65)</th>
+<th align="center" stylecode="Rrule" valign="top">Healthy Females<br/>(27-65)</th>
+<th align="center" stylecode="Rrule" valign="top">Elderly<br/>(&gt;65)<br/>(70-84)</th>
+<th align="center" stylecode="Rrule" valign="top">Hemodialysis<br/>(24-65)<br/>(n=9)</th>
+<th align="center" stylecode="Rrule" valign="top">Renal Impairment<br/>(46-73)</th>
+<th align="center" stylecode="Rrule" valign="top">Hepatic Impairment<br/>(34-60)</th>
+</tr>
+<tr>
+<th align="left" stylecode="Lrule Rrule"></th>
+<th align="center" stylecode="Rrule" valign="top">(n=179)</th>
+<th align="center" stylecode="Rrule" valign="top">(n=176)</th>
+<th align="center" stylecode="Rrule" valign="top">(n=3)</th>
+<th align="center" stylecode="Rrule" valign="top"></th>
+<th align="center" valign="top">Dialysis On</th>
+<th align="center" stylecode="Rrule" valign="top">Dialysis Off</th>
+<th align="center" stylecode="Rrule" valign="top">(n=10)</th>
+<th align="center" stylecode="Rrule" valign="top">(n=9)</th>
+</tr>
+</thead>
+<tfoot>
+<tr stylecode="First Last">
+<td align="left">NA = not available</td>
+</tr>
+<tr>
+<td align="left" stylecode="Footnote">
+<linkhtml href="http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec82b108-6a6f-4d1b-82cb-831d4ed36c80#footnote-reference-1">*</linkhtml>% Coefficient of variation<linkhtml href="http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec82b108-6a6f-4d1b-82cb-831d4ed36c80#footnote-reference-2">†</linkhtml>Age Range (years)</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule First">
+<td align="left" stylecode="Lrule Rrule">Tmax,h</td>
+<td align="center" stylecode="Rrule">1.4<br/>(61%)<linkhtml href="http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec82b108-6a6f-4d1b-82cb-831d4ed36c80#footnote-1" stylecode="Sup">*</linkhtml>
+</td>
+<td align="center" stylecode="Rrule">1.4<br/>(60%)</td>
+<td align="center" stylecode="Rrule">1.7<br/>(60%)</td>
+<td align="center" stylecode="Rrule">1.2<br/>(43%)</td>
+<td align="center" stylecode="Rrule">1.7<br/>(88%)</td>
+<td align="center" stylecode="Rrule">0.9<br/>(67%)</td>
+<td align="center" stylecode="Rrule">2.1<br/>(46%)</td>
+<td align="center" stylecode="Rrule">1.1<br/>(15%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule">Oral Clearance, mL/h/kg (CL/F)</td>
+<td align="center" stylecode="Rrule">49.1<br/>(33%)</td>
+<td align="center" stylecode="Rrule">49.4<br/>(33%)</td>
+<td align="center" stylecode="Rrule">35.7<br/>(28%)</td>
+<td align="center" stylecode="Rrule">45.7<br/>(27%)</td>
+<td align="center" stylecode="Rrule">NA</td>
+<td align="center" stylecode="Rrule">NA</td>
+<td align="center" stylecode="Rrule">58.3<br/>(19%)</td>
+<td align="center" stylecode="Rrule">42.0<br/>(43%)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule">Apparent Volume of Distribution, mL/kg (Vd/F)</td>
+<td align="center" stylecode="Rrule">393<br/>(29%)</td>
+<td align="center" stylecode="Rrule">394<br/>(29%)</td>
+<td align="center" stylecode="Rrule">300<br/>(8%)</td>
+<td align="center" stylecode="Rrule">414<br/>(38%)</td>
+<td align="center" stylecode="Rrule">NA</td>
+<td align="center" stylecode="Rrule">NA</td>
+<td align="center" stylecode="Rrule">NA</td>
+<td align="center" stylecode="Rrule">NA</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule">Terminal Half-Life,h</td>
+<td align="center" stylecode="Rrule">6.4<br/>(22%)</td>
+<td align="center" stylecode="Rrule">6.4<br/>(22%)</td>
+<td align="center" stylecode="Rrule">7.9<br/>(35%)</td>
+<td align="center" stylecode="Rrule">6.5<br/>(24%)</td>
+<td align="center" stylecode="Rrule">5.1<br/>(22%)</td>
+<td align="center" stylecode="Rrule">7.5<br/>(34%)</td>
+<td align="center" stylecode="Rrule" valign="top">NA</td>
+<td align="center" stylecode="Rrule">5.7<br/>(24%)</td>
+</tr>
+</tbody>
+</table>

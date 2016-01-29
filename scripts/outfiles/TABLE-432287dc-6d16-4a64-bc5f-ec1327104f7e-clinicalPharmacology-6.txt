@@ -1,0 +1,25 @@
+<table border="1" id="id_bb0bd365-161f-4c3b-b599-3367d8f2f926" width="194.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_4dcd2352-995a-42f2-89a0-e99599235762">H. influenzae<footnote id="id-9b76bcaf-eeba-46c9-8ce8-2bbb8f555803">These interpretive standards are applicable only to broth microdilution test with <content stylecode="italics">H. influenzae</content>using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>1</sup>
+</footnote>
+</caption>
+<col width="49.5%"></col>
+<col width="50.5%"></col>
+<tbody>
+<tr id="id_0a2ed270-d2a7-4581-9906-0d3dd8d9c8b2">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">MIC (mcg/mL)</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Interpretation</td>
+</tr>
+<tr id="id_f7a8b213-d834-4504-b9bf-59d1aa715f74">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≤ 1</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Susceptible (S)</td>
+</tr>
+<tr id="id_03f6d2c8-dd56-4e9c-82c7-a9179a226417">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">2</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Intermediate (I)</td>
+</tr>
+<tr id="id_74de16a1-76c3-440a-8dba-2843543ed54f">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≥ 4</td>
+<td align="right" stylecode="Botrule Rrule" valign="middle">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

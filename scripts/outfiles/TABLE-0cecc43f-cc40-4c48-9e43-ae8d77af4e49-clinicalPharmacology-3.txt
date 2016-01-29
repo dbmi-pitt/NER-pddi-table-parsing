@@ -1,0 +1,80 @@
+<table frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="212px"></col>
+<col align="left" width="212px"></col>
+<col align="left" width="212px"></col>
+<tfoot>
+<tr>
+<td colspan="3">
+<paragraph stylecode="footnote">a. Range applicable only to tests performed by broth microdilution method using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>1,3</sup>
+</paragraph>
+<paragraph stylecode="footnote">b. Range applicable only to tests performed by agar dilution method using GC agar base with 1% defined growth supplement. <sup>1,3</sup>
+</paragraph>
+<paragraph stylecode="footnote">c. Range applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood. <sup>1,3</sup>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody valign="top">
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> ATCC 29212 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 8-32 </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> ATCC 25922 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 0.5-2 </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>a</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> ATCC 49247 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 4-32 </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+<sup>b</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> ATCC 49226 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 0.25-1 </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> ATCC 27853 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 8-32 </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> ATCC 29213 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 0.12-1 </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<sup>c</sup>
+</td>
+<td align="center" stylecode="Rrule" valign="middle"> ATCC 49619 </td>
+<td align="center" valign="middle"> 0.12-0.5 </td>
+</tr>
+</tbody>
+</table>

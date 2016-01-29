@@ -1,0 +1,44 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="42%"></col>
+<col width="38%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Dermatophytes</content>
+</th>
+<th align="left" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Yeasts</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<paragraph>
+<content stylecode="italics">Trichophyton verrucosum</content>
+</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>
+<content stylecode="italics">Candida guillermondii</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<paragraph>
+<content stylecode="italics">Candida parapsilosis</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule "></td>
+<td stylecode="Botrule ">
+<paragraph>
+<content stylecode="italics">Candida tropicalis</content>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

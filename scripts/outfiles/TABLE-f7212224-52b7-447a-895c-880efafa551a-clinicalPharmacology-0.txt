@@ -1,0 +1,129 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="168px"></col>
+<col width="84px"></col>
+<col width="114px"></col>
+<col width="90px"></col>
+<col width="84px"></col>
+<col width="84px"></col>
+<col width="78px"></col>
+<col width="96px"></col>
+<tbody>
+<tr>
+<td align="center" colspan="8"> <content stylecode="bold">Pharmacokinetic Parameters (mean±SD)</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Patient</content>
+<content stylecode="bold">
+<br/>Population</content>
+</td>
+<td>
+<content stylecode="bold">Dose/Day</content>
+<content stylecode="bold">
+<sup>1</sup>
+</content>
+<content stylecode="bold">
+<br/>(mg/d)</content>
+</td>
+<td>
+<content stylecode="bold">Dose/weight</content>
+<content stylecode="bold">
+<br/>(mg/kg/d)</content>
+</td>
+<td>
+<content stylecode="bold">AUC</content>
+<content stylecode="bold">
+<sup>2</sup>
+</content>
+<content stylecode="bold">
+<br/>(ng</content>
+<content stylecode="bold">●</content>
+<content stylecode="bold">hr/mL)</content>
+</td>
+<td>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+<content stylecode="bold">
+<br/>(ng/mL)</content>
+</td>
+<td>
+<content stylecode="bold">Trough</content>
+<content stylecode="bold">
+<sup>3</sup>
+</content>
+<content stylecode="bold">
+<br/>(ng/mL)</content>
+</td>
+<td>
+<content stylecode="bold">CL/F</content>
+<content stylecode="bold">
+<br/>(mL/min)</content>
+</td>
+<td>
+<content stylecode="bold">CL/F</content>
+<content stylecode="bold">
+<br/>(mL/min/kg)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     ">
+<content stylecode="italics">De novo</content> renal transplant<sup>4</sup>
+<br/>Week 4 (N=37)</td>
+<td stylecode="     Botrule     "> 597±174</td>
+<td stylecode="     Botrule     "> 7.95±2.81</td>
+<td stylecode="     Botrule     "> 8772±2089</td>
+<td stylecode="     Botrule     "> 1802±428</td>
+<td stylecode="     Botrule     "> 361±129</td>
+<td stylecode="     Botrule     "> 593±204</td>
+<td stylecode="     Botrule     "> 7.8±2.9</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     ">Stable renal transplant<sup>4</sup>
+<br/>(N=55)</td>
+<td stylecode="     Botrule     "> 344±122</td>
+<td stylecode="     Botrule     "> 4.10±1.58</td>
+<td stylecode="     Botrule     "> 6035±2194</td>
+<td stylecode="     Botrule     "> 1333±469</td>
+<td stylecode="     Botrule     "> 251±116</td>
+<td stylecode="     Botrule     "> 492±140</td>
+<td stylecode="     Botrule     "> 5.9±2.1</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     ">
+<content stylecode="italics">De novo</content> liver transplant<sup>5</sup>
+<br/>Week 4 (N=18)</td>
+<td stylecode="     Botrule     "> 458±190</td>
+<td stylecode="     Botrule     "> 6.89±3.68</td>
+<td stylecode="     Botrule     "> 7187±2816</td>
+<td stylecode="     Botrule     "> 1555±740</td>
+<td stylecode="     Botrule     "> 268±101</td>
+<td stylecode="     Botrule     "> 577±309</td>
+<td stylecode="     Botrule     "> 8.6±5.7</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     ">
+<content stylecode="italics">De novo</content> rheumatoid arthritis<sup>6</sup>
+<br/>(N=23)</td>
+<td stylecode="     Botrule     "> 182±55.6</td>
+<td stylecode="     Botrule     "> 2.37±0.36</td>
+<td stylecode="     Botrule     "> 2641±877</td>
+<td stylecode="     Botrule     "> 728±263</td>
+<td stylecode="     Botrule     "> 96.4±37.7</td>
+<td stylecode="     Botrule     "> 613±196</td>
+<td stylecode="     Botrule     "> 8.3±2.8</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     ">
+<content stylecode="italics">De novo</content> psoriasis<sup>6</sup>
+<br/>(N=18)</td>
+<td stylecode="     Botrule     "> 189±69.8</td>
+<td stylecode="     Botrule     "> 2.48±0.65</td>
+<td stylecode="     Botrule     "> 2324±1048</td>
+<td stylecode="     Botrule     "> 655±186</td>
+<td stylecode="     Botrule     "> 74.9±46.7</td>
+<td stylecode="     Botrule     "> 723±186</td>
+<td stylecode="     Botrule     "> 10.2±3.9</td>
+</tr>
+</tbody>
+</table>

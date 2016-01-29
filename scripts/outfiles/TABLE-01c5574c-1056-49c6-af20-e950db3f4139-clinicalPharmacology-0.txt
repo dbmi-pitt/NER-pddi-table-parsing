@@ -1,0 +1,35 @@
+<table id="id_c5438f1c-3aa1-4fd5-9e59-9af85df91a4b" width="764.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_10a5a03e-0aef-43ff-9dc4-ef0c6e92202f">Table 1</caption>
+<col width="31.7%"></col>
+<col width="37.4%"></col>
+<col width="30.9%"></col>
+<thead>
+<tr id="id_45e07ee5-be0b-4cff-bef2-33ffe0b0dd5d">
+<td align="center" stylecode="Botrule" valign="top">PK Parameter</td>
+<td align="center" stylecode="Botrule" valign="top">% change in PK parameter for females<br/> relative to males</td>
+<td align="center" stylecode="Botrule" valign="top">90% Confidence Interval</td>
+</tr>
+</thead>
+<tfoot id="id_2b6c5d75-1f3f-45ca-bb1e-075e10ac6035">
+<tr>
+<td align="left" colspan="3" stylecode="Lrule Botrule" valign="top">↓ Indicates a decrease in the PK parameter; ↑ Indicates an increase in the PK parameter.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_4978ad88-7b77-450e-a0bc-4334a2ebf478">
+<td align="center" stylecode="Toprule" valign="top">AUC<sub>0-8h</sub> (nM•hr)</td>
+<td align="center" stylecode="Toprule" valign="top">↓13%</td>
+<td align="center" valign="top">(↓32%, ↑12%)</td>
+</tr>
+<tr id="id_1ea11ae9-7bc1-450c-90e5-6a3af60ca7cd">
+<td align="center" valign="top">C<sub>max </sub>(nM)</td>
+<td align="center" valign="top">↓13%</td>
+<td align="center" valign="top">(↓32%, ↑10%)</td>
+</tr>
+<tr id="id_313543f5-bf0a-485a-81c7-60c1276d4b52">
+<td align="center" valign="top">C<sub>8h </sub>(nM)</td>
+<td align="center" valign="top">↓22%</td>
+<td align="center" valign="top">(↓47%, ↑15%)</td>
+</tr>
+</tbody>
+</table>

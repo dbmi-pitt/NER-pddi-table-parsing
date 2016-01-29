@@ -1,0 +1,20 @@
+<table frame="box" rules="all" width="50%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody align="center">
+<tr align="center" valign="middle">
+<th colspan="1" rowspan="1">Zone diameter (mm)</th>
+<th align="center" colspan="1" rowspan="1" valign="middle">Interpretation</th>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">≥21</td>
+<td align="center" colspan="1" rowspan="1">Susceptible (S)</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">17 to 20</td>
+<td colspan="1" rowspan="1">Intermediate (I)</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"> ≤16</td>
+<td colspan="1" rowspan="1">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

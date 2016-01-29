@@ -1,0 +1,47 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Response to DDAVP and Placebo at Two Weeks of Treatment Mean (SE) Number of Wet Nights/2 Weeks </caption>
+<col align="center" valign="top" width="40%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<thead>
+<tr>
+<th></th>
+<th stylecode="Lrule">Placebo<br/> (n = 85)</th>
+<th stylecode="Lrule">0.2 mg/day<br/>(n = 79)</th>
+<th stylecode="Lrule">0.4 mg/day<br/>(n = 82)</th>
+<th stylecode="Lrule">0.6 mg/day<br/>(n = 83)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" stylecode="Botrule">Baseline</td>
+<td stylecode="Lrule Botrule">10 (0.3)</td>
+<td stylecode="Lrule Botrule">11 (0.3)</td>
+<td stylecode="Lrule Botrule">10 (0.3)</td>
+<td stylecode="Lrule Botrule">10 (0.3)</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule">Reduction from Baseline</td>
+<td stylecode="Lrule Botrule">1 (0.3)</td>
+<td stylecode="Lrule Botrule">3 (0.4)</td>
+<td stylecode="Lrule Botrule">3 (0.4)</td>
+<td stylecode="Lrule Botrule">4 (0.4)</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule">Percent Reduction from Baseline</td>
+<td stylecode="Lrule Botrule">10%</td>
+<td stylecode="Lrule Botrule">27%</td>
+<td stylecode="Lrule Botrule">30%</td>
+<td stylecode="Lrule Botrule">40%</td>
+</tr>
+<tr>
+<td align="left">p-value vs placebo</td>
+<td stylecode="Lrule">——</td>
+<td stylecode="Lrule">&lt;0.05</td>
+<td stylecode="Lrule">&lt;0.05</td>
+<td stylecode="Lrule">&lt;0.05</td>
+</tr>
+</tbody>
+</table>

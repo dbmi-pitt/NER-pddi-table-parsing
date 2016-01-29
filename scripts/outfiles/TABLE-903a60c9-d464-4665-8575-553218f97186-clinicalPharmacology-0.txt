@@ -1,0 +1,77 @@
+<table border="1" id="id_f51c4395-7ecb-45ad-84e3-7a2e2c202555" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_75a7e967-aa42-4977-9ff4-86699c67d4ff">Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH</caption>
+<col width="160px"></col>
+<col width="132px"></col>
+<col width="108px"></col>
+<col width="108px"></col>
+<col width="108px"></col>
+<thead>
+<tr id="id_32f501b5-9cb9-4213-9773-9e0230d95340" stylecode="Toprule">
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<br/>
+</td>
+<td align="center" colspan="4" stylecode="Lrule Botrule" valign="bottom">
+<content stylecode="bold">
+<content stylecode="emphasis"> –––––––—––––––––Median pH on day 7—–––––––––––––</content>
+</content>
+<br/>
+</td>
+</tr>
+<tr id="id_a67013ae-8f3f-4a1b-9604-81a44ee3f1ed" stylecode="Botrule">
+<td align="left" stylecode="Rrule" valign="bottom">
+<content stylecode="bold">
+<content stylecode="emphasis"> Time </content>
+</content>
+</td>
+<td align="left" stylecode="Rrule" valign="bottom">
+<content stylecode="bold">
+<content stylecode="emphasis">Placebo</content>
+</content>
+</td>
+<td align="left" stylecode="Rrule" valign="bottom">
+<br/>
+<content stylecode="bold">
+<content stylecode="emphasis">20 mg</content>
+</content>
+</td>
+<td align="left" stylecode="Rrule" valign="bottom">
+<br/>
+<content stylecode="bold">
+<content stylecode="emphasis">40 mg</content>
+</content>
+</td>
+<td align="left" valign="bottom">
+<br/>
+<content stylecode="bold">
+<content stylecode="emphasis">80 mg</content>
+</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_3a801649-cd2e-405b-81b1-8a379593b466" stylecode="Toprule">
+<td align="left" valign="bottom">8 a.m. - 8 a.m. <br/> (24 hours)</td>
+<td align="center" stylecode="Toprule" valign="bottom">1.3</td>
+<td align="center" stylecode="Toprule" valign="bottom">2.9*</td>
+<td align="center" stylecode="Toprule" valign="bottom">3.8*#</td>
+<td align="center" valign="bottom">3.9*#</td>
+</tr>
+<tr id="id_a1445df6-dacd-485f-81d4-dd1e8b3d55df">
+<td align="left" valign="top">8 a.m. - 10 p.m. (Daytime)</td>
+<td align="center" valign="bottom">1.6</td>
+<td align="center" valign="bottom">3.2*</td>
+<td align="center" valign="bottom">4.4*#</td>
+<td align="center" valign="bottom">4.8*#</td>
+</tr>
+<tr id="id_ea5ad489-2d74-4e6e-a006-b73e91e89adc">
+<td align="left" valign="top">10 p.m. - 8 a.m. (Nighttime)</td>
+<td align="center" valign="bottom">1.2</td>
+<td align="center" valign="bottom">2.1*</td>
+<td align="center" valign="bottom">3.0*</td>
+<td align="center" valign="bottom">2.6*</td>
+</tr>
+<tr id="id_cb9a074f-654b-4561-a43b-95be1819b59e" stylecode="Botrule">
+<td align="left" colspan="5" valign="top">* Significantly different from placebo<br/># Significantly different from 20 mg</td>
+</tr>
+</tbody>
+</table>

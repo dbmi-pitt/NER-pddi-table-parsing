@@ -1,0 +1,285 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5. Susceptibility Test Interpretive Criteria for Ceftriaxone.</caption>
+<col span="1" width="24%"></col>
+<col span="1" width="13%"></col>
+<col span="1" width="14%"></col>
+<col span="1" width="11%"></col>
+<col span="1" width="13%"></col>
+<col span="1" width="14%"></col>
+<col span="1" width="11%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>Pathogen</paragraph>
+</td>
+<td>
+<paragraph>Minimum Inhibitory Concentrations (mcg/ml)</paragraph>
+</td>
+<td>
+<paragraph>Disk Diffusion Zone Diameters (mm)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>(S)</paragraph>
+<paragraph>Susceptible</paragraph>
+</td>
+<td>
+<paragraph>(I)</paragraph>
+<paragraph>Intermediate</paragraph>
+</td>
+<td>
+<paragraph>(R)</paragraph>
+<paragraph>Resistant</paragraph>
+</td>
+<td>
+<paragraph>(S)</paragraph>
+<paragraph>Susceptible</paragraph>
+</td>
+<td>
+<paragraph>(I)</paragraph>
+<paragraph>Intermediate</paragraph>
+</td>
+<td>
+<paragraph>(R)</paragraph>
+<paragraph>Resistant</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Enterobacteriaceae</content>
+</paragraph>
+</td>
+<td>
+<paragraph>≤ 1</paragraph>
+</td>
+<td>
+<paragraph>2</paragraph>
+</td>
+<td>
+<paragraph>≥4</paragraph>
+</td>
+<td>
+<paragraph>≥ 23</paragraph>
+</td>
+<td>
+<paragraph>20 to 22</paragraph>
+</td>
+<td>
+<paragraph>≤19</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Haemophilus</content>
+<content stylecode="italics"> influenzae</content>
+<linkhtml href="#footnote-1">*</linkhtml>
+</paragraph>
+</td>
+<td>
+<paragraph>≤2</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>≥26</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+<footnoteref idref="_Ref357601000"></footnoteref>
+</paragraph>
+</td>
+<td>
+<paragraph>≤ 0.25</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>≥ 35</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Neisseria meningitidis</content>
+<footnoteref idref="_Ref357601000"></footnoteref>
+</paragraph>
+</td>
+<td>
+<paragraph>≤ 0.12</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>≥ 34</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<linkhtml href="#footnote-2">†</linkhtml> meningitis isolates</paragraph>
+</td>
+<td>
+<paragraph>≤ 0.5</paragraph>
+</td>
+<td>
+<paragraph>1</paragraph>
+</td>
+<td>
+<paragraph>≥ 2</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Streptococcus </content>
+<content stylecode="italics">pneumoniae</content>
+<footnoteref idref="_Ref357601783"></footnoteref> non-meningitis isolates </paragraph>
+</td>
+<td>
+<paragraph>≤1</paragraph>
+</td>
+<td>
+<paragraph>2</paragraph>
+</td>
+<td>
+<paragraph>≥4</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Streptococcus</content> species beta-hemolytic group<footnoteref idref="_Ref357601000"></footnoteref>
+</paragraph>
+</td>
+<td>
+<paragraph>≤0.5</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>≥ 24</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Viridans group streptococci </paragraph>
+</td>
+<td>
+<paragraph>≤ 1</paragraph>
+</td>
+<td>
+<paragraph>2</paragraph>
+</td>
+<td>
+<paragraph>≥ 4</paragraph>
+</td>
+<td>
+<paragraph>≥27</paragraph>
+</td>
+<td>
+<paragraph>25 to 26</paragraph>
+</td>
+<td>
+<paragraph>≤24</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Anaerobic bacteria (agar method) </paragraph>
+</td>
+<td>
+<paragraph>≤16</paragraph>
+</td>
+<td>
+<paragraph>32</paragraph>
+</td>
+<td>
+<paragraph>≥64</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Susceptibility of staphylococci to ceftriaxone may be deduced from testing only penicillin and either cefoxitin or oxacillin.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>

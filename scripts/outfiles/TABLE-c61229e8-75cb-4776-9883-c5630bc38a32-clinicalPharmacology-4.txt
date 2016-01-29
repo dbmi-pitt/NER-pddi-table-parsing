@@ -1,0 +1,67 @@
+<table id="id_0cac7d27-14f2-4555-967f-d8a9431fe7d5" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_cf1f0be7-f937-4fe7-ba61-a0cb847e740c">Table 6. Drug Interactions: Pharmacokinetic Parameters of Azithromycin in the Presence of Co-administered Drugs</caption>
+<col align="left" width="18%"></col>
+<col align="left" width="18%"></col>
+<col align="left" width="18%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="18%"></col>
+<col align="center" width="18%"></col>
+<thead>
+<tr id="id_b2eee98f-5121-4722-a00c-d5f3554e9ebb" stylecode="Toprule">
+<td align="center" rowspan="2" stylecode="Lrule Botrule Rrule" valign="top">Co-administered Drug</td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="top">Dose of Co-administered Drug</td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="top">Dose of Azithromycin<footnote id="id-96225215-91e7-4a80-b392-0841c2e57ae9">Refers to azithromycin capsules and tablets unless specified</footnote>
+</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">n</td>
+<td align="left" colspan="2" stylecode="Lrule Botrule Rrule" valign="top">Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00</td>
+</tr>
+<tr id="id_a39c8f37-0795-421f-9a1f-41e8abe9c7f7" stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">Mean C<sub>max</sub>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Mean AUC</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_feeb6b19-2fa3-44da-984b-3c1108fe2b8e" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Efavirenz</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">400 mg/day × 7 days </td>
+<td align="left" stylecode="Rrule" valign="top">600 mg PO on day 7</td>
+<td align="left" stylecode="Rrule" valign="top">14</td>
+<td align="left" stylecode="Rrule" valign="top">1.22<br/>(1.04 to 1.42)</td>
+<td align="left" stylecode="Rrule" valign="top">0.92<footnote id="id-65b0c4f8-ca48-4b15-85ae-9bd8600e9ea5">90% confidence interval not reported</footnote>
+</td>
+</tr>
+<tr id="id_617e2c98-f9de-4db8-9ac8-00d77a2bbf97">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Fluconazole</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">200 mg PO single dose</td>
+<td align="left" stylecode="Rrule" valign="top">1,200 mg PO single dose</td>
+<td align="left" stylecode="Rrule" valign="top">18</td>
+<td align="left" stylecode="Rrule" valign="top">0.82<br/>(0.66 to 1.02)</td>
+<td align="left" stylecode="Rrule" valign="top">1.07<br/>(0.94 to 1.22)</td>
+</tr>
+<tr id="id_6b1c09b5-894d-4b00-a9f8-de034d8f084c">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Nelfinavir</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">750 mg TID × 11 days</td>
+<td align="left" stylecode="Rrule" valign="top">1,200 mg PO on day 9</td>
+<td align="left" stylecode="Rrule" valign="top">14</td>
+<td align="left" stylecode="Rrule" valign="top">2.36<br/>(1.77 to 3.15)</td>
+<td align="left" stylecode="Rrule" valign="top">2.12<br/>(1.80 to 2.50)</td>
+</tr>
+<tr id="id_28c979b8-c716-4c7b-974e-02ba0f3c9da9" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Aluminum and Magnesium hydroxide</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">20 mL regular strength, single dose </td>
+<td align="left" stylecode="Rrule" valign="top">2 g Zmax, single dose </td>
+<td align="left" stylecode="Rrule" valign="top">39</td>
+<td align="left" stylecode="Rrule" valign="top">0.99<br/>(0.93 to 1.06)</td>
+<td align="left" stylecode="Rrule" valign="top">0.99<br/>(0.92 to 1.08)</td>
+</tr>
+</tbody>
+</table>

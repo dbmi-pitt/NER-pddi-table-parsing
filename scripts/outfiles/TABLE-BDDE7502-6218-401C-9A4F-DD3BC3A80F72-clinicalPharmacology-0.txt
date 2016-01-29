@@ -1,0 +1,28 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>Table 1. Fluoride Ion Estimates in Special Populations Following Administration of Sevoflurane</caption>
+<col align="left" valign="top" width="22%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="12%"></col>
+<thead>
+<tr><th></th><th>n</th><th>Age (yr)</th><th>Duration (yr)</th><th>Dose (MAC∙hr)</th><th>C<sub>max</sub> (µM)</th></tr>
+</thead>
+<tfoot>
+<tr><td align="left" colspan="6"><content stylecode="underline">n = number of patients studied.</content></td></tr>
+</tfoot>
+<tbody>
+<tr><td align="left" colspan="6"><content stylecode="bold">PEDIATRIC PATIENTS</content></td></tr>
+<tr><td align="left" colspan="6"><content stylecode="bold italics">Anesthetic</content></td></tr>
+<tr><td>  Sevoflurane-O<sub>2</sub></td><td>76</td><td>0 to 11</td><td>0.8</td><td>1.1</td><td>12.6</td></tr>
+<tr><td>  Sevoflurane-O<sub>2</sub></td><td>40</td><td>1 to 11</td><td>2.2</td><td>3.0</td><td>16.0</td></tr>
+<tr><td>  Sevoflurane/N<sub>2</sub>O</td><td>25</td><td>5 to 13</td><td>1.9</td><td>2.4</td><td>21.3</td></tr>
+<tr><td>  Sevoflurane/N<sub>2</sub>O</td><td>42</td><td>0 to 18</td><td>2.4</td><td>2.2</td><td>18.4</td></tr>
+<tr><td>  Sevoflurane/N<sub>2</sub>O     </td><td>40</td><td>1 to 11</td><td>2.0</td><td>2.6</td><td>15.5</td></tr>
+<tr><td>  ELDERLY</td><td>33</td><td>65 to 93</td><td>2.6</td><td>1.4</td><td>25.6</td></tr>
+<tr><td>  RENAL</td><td>21</td><td>29 to 83</td><td>2.5</td><td>1.0</td><td>26.1</td></tr>
+<tr><td>  HEPATIC</td><td>8</td><td>42 to 79</td><td>3.6</td><td>2.2</td><td>30.6</td></tr>
+<tr><td>  OBESE</td><td>5</td><td>24 to 73</td><td>3.0</td><td>1.7</td><td>38.0</td></tr>
+</tbody>
+</table>

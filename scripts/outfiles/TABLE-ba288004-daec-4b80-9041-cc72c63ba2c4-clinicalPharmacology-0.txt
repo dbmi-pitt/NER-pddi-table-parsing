@@ -1,0 +1,49 @@
+<table id="t9" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9: Gemcitabine Clearance and Half-Life for the "Typical" Patient</caption>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="22%"></col>
+<col align="center" valign="top" width="22%"></col>
+<col align="center" valign="top" width="22%"></col>
+<col align="center" valign="top" width="22%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Age</th>
+<th stylecode="Rrule">Clearance<br/>Men<br/>(L/hr/m<sup>2</sup>)</th>
+<th stylecode="Rrule">Clearance<br/>Women<br/>(L/hr/m<sup>2</sup>)</th>
+<th stylecode="Rrule">Half-Life<footnote id="ft9.1">Half-life for patients receiving a short infusion (&lt;70 min).</footnote>
+<br/>Men<br/>(min)</th>
+<th stylecode="Rrule">Half-Life<footnoteref idref="ft9.1"></footnoteref>
+<br/>Women<br/>(min)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">29</td>
+<td stylecode="Rrule">92.2</td>
+<td stylecode="Rrule">69.4</td>
+<td stylecode="Rrule">42</td>
+<td stylecode="Rrule">49</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">45</td>
+<td stylecode="Rrule">75.7</td>
+<td stylecode="Rrule">57.0</td>
+<td stylecode="Rrule">48</td>
+<td stylecode="Rrule">57</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">65</td>
+<td stylecode="Rrule">55.1</td>
+<td stylecode="Rrule">41.5</td>
+<td stylecode="Rrule">61</td>
+<td stylecode="Rrule">73</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">79</td>
+<td stylecode="Rrule">40.7</td>
+<td stylecode="Rrule">30.7</td>
+<td stylecode="Rrule">79</td>
+<td stylecode="Rrule">94</td>
+</tr>
+</tbody>
+</table>

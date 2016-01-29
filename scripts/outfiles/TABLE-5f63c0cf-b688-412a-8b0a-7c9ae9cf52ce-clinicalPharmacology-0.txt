@@ -1,0 +1,309 @@
+<table id="_Refid_27bfa65d-1a81-4ccb-b3dc-b9f268769" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>MEAN (CV%) PK PARAMETER</caption>
+<col width="19%"></col>
+<col width="10%"></col>
+<col width="6%"></col>
+<col width="12%"></col>
+<col width="8%"></col>
+<col width="12%"></col>
+<col width="14%"></col>
+<col width="8%"></col>
+<col width="11%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph> DOSE/DOSAGE FORM (serum, except as indicated) </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph> Subjects </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph> Day No. </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>C<sub>max</sub> (mcg/mL) </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>T<sub>max</sub> (hr) </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>C<sub>24</sub> (mcg/mL) </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>AUC (mcg•hr/mL) </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>T<sub>½</sub> (hr) </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule ">
+<paragraph>Urinary Excretion (% of dose) </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>500 mg/250 mg capsule</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Day 1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.41</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.05</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.6<sup>a</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>4.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>and 250 mg on Days 2-5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Day 5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.24</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>3.2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.05</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.1<sup>a</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>6.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>1200 mg/600 mg tablets</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>Day 1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.66</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.074</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>6.8<sup>b</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>40</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>%CV</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(62%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(79%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(49%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(64%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(33%)</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>600 mg tablet/day</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.33</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.039</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.4<sup>a</sup>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>%CV</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(25%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(50%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(36%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(19%)</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule "></td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>22</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.55</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.14</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>5.8<sup>a</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>84.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>%CV</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(18%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(52%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(26%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(25%)</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>600 mg tablet/day (leukocytes)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>22</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>252</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>10.9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>146</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>4763<sup>a</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>82.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>%CV</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(49%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(28%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(33%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>(42%)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

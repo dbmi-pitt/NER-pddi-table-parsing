@@ -1,0 +1,92 @@
+<table id="Table-13" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 13 Pharmacokinetic Parameters<footnote id="table_footnote_1">Means ± SD at Day 5 and 90% Confidence Interval (CI) of the ratio</footnote> After 5 Days of 1.5 mg/kg SC Once Daily Doses of Enoxaparin Sodium Using 100 mg/mL or 200 mg/mL Concentrations</caption>
+<col align="left" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<thead>
+<tr>
+<th></th>
+<th stylecode="Lrule">Concentration</th>
+<th stylecode="Lrule">Anti-Xa</th>
+<th stylecode="Lrule">Anti-IIa</th>
+<th stylecode="Lrule">Heptest</th>
+<th stylecode="Lrule">aPTT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">A<sub>max</sub>
+</content>
+<br/>(IU/mL or Δ sec)</td>
+<td stylecode="Lrule Botrule" valign="middle">100 mg/mL</td>
+<td stylecode="Lrule Botrule" valign="middle">1.37 (<sup>±</sup>0.23)</td>
+<td stylecode="Lrule Botrule" valign="middle">0.23 (<sup>±</sup>0.05)</td>
+<td stylecode="Lrule Botrule" valign="middle">105 (<sup>±</sup>17)</td>
+<td stylecode="Lrule Botrule" valign="middle">19 (<sup>±</sup>5)</td>
+</tr>
+<tr>
+<td></td>
+<td stylecode="Lrule Botrule">200 mg/mL</td>
+<td stylecode="Lrule Botrule">1.45 (<sup>±</sup>0.22)</td>
+<td stylecode="Lrule Botrule">0.26 (<sup>±</sup>0.05)</td>
+<td stylecode="Lrule Botrule">111 (<sup>±</sup>17)</td>
+<td stylecode="Lrule Botrule">22 (<sup>±</sup>7)</td>
+</tr>
+<tr>
+<td></td>
+<td stylecode="Lrule Botrule">90% CI</td>
+<td stylecode="Lrule Botrule">102–110%</td>
+<td stylecode="Lrule Botrule"></td>
+<td stylecode="Lrule Botrule">102–111% </td>
+<td stylecode="Lrule Botrule"></td>
+</tr>
+<tr>
+<td stylecode="Toprule">
+<content stylecode="bold">t<sub>max</sub>
+</content>
+<footnote>Median (range)</footnote> (h)</td>
+<td stylecode="Lrule Botrule">100 mg/mL</td>
+<td stylecode="Lrule Botrule">3 (2–6)</td>
+<td stylecode="Lrule Botrule">4 (2–5)</td>
+<td stylecode="Lrule Botrule">2.5 (2–4.5)</td>
+<td stylecode="Lrule Botrule">3 (2–4.5)</td>
+</tr>
+<tr>
+<td></td>
+<td stylecode="Lrule Botrule">200 mg/mL</td>
+<td stylecode="Lrule Botrule">3.5 (2–6)</td>
+<td stylecode="Lrule Botrule">4.5 (2.5–6)</td>
+<td stylecode="Lrule Botrule">3.3 (2–5)</td>
+<td stylecode="Lrule Botrule">3 (2–5)</td>
+</tr>
+<tr>
+<td stylecode="Toprule">
+<content stylecode="bold">AUC</content> (ss)<br/>(h<footnoteref idref="table_footnote_1"></footnoteref>IU/mL or h<footnoteref idref="table_footnote_1"></footnoteref> Δ sec)</td>
+<td stylecode="Lrule Botrule" valign="middle">100 mg/mL</td>
+<td stylecode="Lrule Botrule" valign="middle">14.26 (<sup>±</sup>2.93)</td>
+<td stylecode="Lrule Botrule" valign="middle">1.54 (<sup>±</sup>0.61)</td>
+<td stylecode="Lrule Botrule" valign="middle">1321 (<sup>±</sup>219)</td>
+<td stylecode="Lrule"></td>
+</tr>
+<tr>
+<td></td>
+<td stylecode="Lrule Botrule">200 mg/mL</td>
+<td stylecode="Lrule Botrule">15.43 (<sup>±</sup>2.96)</td>
+<td stylecode="Lrule Botrule">1.77 (<sup>±</sup>0.67)</td>
+<td stylecode="Lrule Botrule">1401 (<sup>±</sup>227)</td>
+<td stylecode="Lrule"></td>
+</tr>
+<tr>
+<td></td>
+<td stylecode="Lrule">90% CI</td>
+<td stylecode="Lrule">105–112%</td>
+<td stylecode="Lrule"></td>
+<td stylecode="Lrule">103–109%</td>
+<td stylecode="Lrule"></td>
+</tr>
+</tbody>
+</table>

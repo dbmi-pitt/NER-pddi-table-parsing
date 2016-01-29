@@ -1,0 +1,123 @@
+<table id="_Ref406591130" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Coadministered Drugs [see Drug Interactions (<linkhtml href="#ID_7cb29da6-ed1d-42de-96ea-e79645401890">7.3</linkhtml>)].</caption>
+<col width="17%"></col>
+<col width="21%"></col>
+<col width="21%"></col>
+<col width="8%"></col>
+<col width="16%"></col>
+<col width="16%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="21" stylecode="Botrule" valign="top">
+<sup>a</sup>  -90% Confidence interval not reported</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Coadministered Drug<br/> <br/> </content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Dose of Coadministered Drug<br/> <br/> </content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Dose of Azithromycin<br/> <br/> </content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">n<br/>
+</content> <br/> <br/> </paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Ratio (with/without coadministered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Mean C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Mean AUC</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Efavirenz</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>400 mg/day for 7 days<br/>  </paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>600 mg orally on day 7<br/>  </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>14</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.22</paragraph>
+<paragraph>(1.04 to 1.42)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>0.92<sup>a</sup>
+<br/>  </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Fluconazole</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>200 mg orally single dose</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1,200 mg orally single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>18</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>0.82</paragraph>
+<paragraph>(0.66 to 1.02)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.07</paragraph>
+<paragraph>(0.94 to 1.22)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>Nelfinavir</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>750 mg three times a day for 11 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>1,200 mg orally on day 9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>14</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>2.36</paragraph>
+<paragraph>(1.77 to 3.15)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>2.12</paragraph>
+<paragraph>(1.80 to 2.50)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

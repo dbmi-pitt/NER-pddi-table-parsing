@@ -1,0 +1,29 @@
+<table border="single" id="id_1895090c-0d99-4465-9c46-361b243c18f7" width="420.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_e4ed0c05-2c7e-4acf-a9c3-15d276fc28af">For testing streptococci including S. pneumoniae.<footnote id="id-c0b20df6-c33d-48f9-a50e-c51f1f9fa483">These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood.<sup>1</sup>
+</footnote>
+</caption>
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<tbody>
+<tr id="id_fad77c12-2d17-4228-94df-630a723e28ea">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr id="id_106d9876-7053-4967-a33d-0f15da9a79b9">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">≤0.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_2acfe953-9666-4060-8935-2326a6362108">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">1</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Intermediate (I)</td>
+</tr>
+<tr id="id_50a4e783-29bb-4da4-b8de-3e035e1b27a2">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">≥2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

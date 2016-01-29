@@ -1,0 +1,63 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="25%"></col>
+<col width="35%"></col>
+<col width="31%"></col>
+<tbody>
+<tr>
+<td colspan="3" stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Table 4: Acceptable Quality Control Ranges for Cefazolin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>QC Isolate</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>Minimum Inhibitory Concentration</paragraph>
+<paragraph>mcg/mL</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>Disk Diffusion Zone Diameters</paragraph>
+<paragraph>(mm)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">E. coli </content>ATCC<sup>®</sup> 25922</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1 to 4</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>21 to 27</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">S. aureus</content> ATCC<sup>®</sup> 29213</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.25 to 1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>---------</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>
+<content stylecode="italics">S. aureus </content>ATCC<sup>®</sup> 25923</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>----------</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>29 to 35</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

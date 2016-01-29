@@ -1,0 +1,60 @@
+<table id="id_7d65149a-98c2-4a0e-900b-467eddfe479a" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="54%"></col>
+<col width="46%"></col>
+<thead>
+<tr id="id_beaec3b4-6c0d-4c4b-9ac2-115e297d12d6">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Organism </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Zone </content>
+<content stylecode="bold">Diameter </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mm</content>
+<content stylecode="bold">) </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+</thead>
+<tfoot id="id_fad72f93-8e76-43d0-abc8-8537ef8ec448">
+<tr>
+<td align="left" colspan="2" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<sup>g</sup> This quality control range is applicable only to testing of H. influenzae ATCC 49766 using HTM.<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_8cc4a622-3b17-4416-928e-fac28d2aecbb">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="italics">Escherichia </content>
+<content stylecode="italics">coli </content>ATCC 25922 <br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">24-28 <br/>
+</td>
+</tr>
+<tr id="id_514c00a6-64e9-4459-979b-1ad2cbb2de1b">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Haemophilus </content>
+<content stylecode="italics">influenzae </content>ATCC 49766 <sup>g</sup>
+<br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">24-31 <br/>
+</td>
+</tr>
+<tr id="id_b2f65ce5-8ead-485e-99f8-c39102b8fa34">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Staphylococcus </content>
+<content stylecode="italics">aureus </content>ATCC 25923 <br/>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">25-32 <br/>
+</td>
+</tr>
+</tbody>
+</table>

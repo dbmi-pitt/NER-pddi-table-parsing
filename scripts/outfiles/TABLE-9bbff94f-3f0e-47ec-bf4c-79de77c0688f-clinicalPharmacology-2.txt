@@ -1,0 +1,61 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 10: Quality Control Ranges for Susceptibility Testing</caption>
+<thead>
+<tr stylecode="First Last">
+<th align="center" stylecode="Lrule Rrule Toprule">Microorganism</th>
+<th align="center" stylecode="Lrule Rrule Toprule">Microorganism<br/> QC Number</th>
+<th align="center" stylecode="Lrule Rrule Toprule">MIC (mcg/mL)</th>
+<th align="center" stylecode="Lrule Rrule Toprule">Disk Diffusion<br/> (zone diameter in mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule First">
+<td stylecode="Lrule Rrule" valign="top"> Enterococcus faecalis</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 29212</td>
+<td align="center" stylecode="Rrule" valign="top">0.25 – 2</td>
+<td align="center" stylecode="Rrule" valign="top">--</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Escherichia coli</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 25922</td>
+<td align="center" stylecode="Rrule" valign="top">0.008 – 0.06</td>
+<td align="center" stylecode="Rrule" valign="top">29 – 37</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Escherichia coli</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 35218</td>
+<td align="center" stylecode="Rrule" valign="top">0.015 – 0.06</td>
+<td align="center" stylecode="Rrule" valign="top">--</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Haemophilus influenzae</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 49247</td>
+<td align="center" stylecode="Rrule" valign="top">0.008 – 0.03</td>
+<td align="center" stylecode="Rrule" valign="top">32 – 40</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Pseudomonas aeruginosa</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 27853</td>
+<td align="center" stylecode="Rrule" valign="top">0.5 – 4</td>
+<td align="center" stylecode="Rrule" valign="top">19 – 26</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Staphylococcus aureus</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 29213</td>
+<td align="center" stylecode="Rrule" valign="top">0.06 – 0.5</td>
+<td align="center" stylecode="Rrule" valign="top">--</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Staphylococcus aureus</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 25923</td>
+<td align="center" stylecode="Rrule" valign="top">--</td>
+<td align="center" stylecode="Rrule" valign="top">25 – 30</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top"> Streptococcus pneumoniae</td>
+<td align="center" stylecode="Rrule" valign="top">ATCC 49619</td>
+<td align="center" stylecode="Rrule" valign="top">0.5 – 2</td>
+<td align="center" stylecode="Rrule" valign="top">20 – 25</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,23 @@
+<table id="table1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>TABLE 1: MEAN (SD) PHARMACOKINETIC PARAMETERS OF Cesia<sup>®</sup> OVER A 28-DAY DOSING PERIOD IN THE THIRD CYCLE (n=21).</caption>
+<col align="left" valign="middle" width="12%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="16%"></col>
+<tfoot>
+<tr><td colspan="6">C<sub>max</sub> – maximum serum drug concentration<br/>t<sub>max</sub> – time at which maximum serum drug concentration occurs<br/>n-AUC<sub>0–24</sub> – area under the concentration- vs. time curve -0 to 24 hours normalized to 1 µg administered<br/>CL/F – apparent clearance<br/>Note: for information on t<sub>1/2</sub> for Day 21, see the <linkhtml href="#Excretion">Excretion</linkhtml> section.</td></tr>
+</tfoot>
+<tbody>
+<tr><td align="center" colspan="6"><content stylecode="bold underline">Etonogestrel</content></td></tr>
+<tr stylecode="Botrule"><td>Phase<br/>(days)</td><td>Dose<footnote>Desogestrel</footnote><br/>mg</td><td>C<sub>max</sub><br/>pg/mL</td><td>t<sub>max</sub><br/>hr</td><td>n-AUC<sub>0–24</sub><br/>pg∙hr/mL/µg</td><td>CL/F<br/>L/hr</td></tr>
+<tr><td>1 (1–7)</td><td>0.100</td><td>2163.3 (856.4)</td><td>1.6 (0.7)</td><td>196.0 (75.4)</td><td>6.1 (2.3)</td></tr>
+<tr><td>2 (8–14)</td><td>0.125</td><td>3241.5 (1296.5)<footnote id="t1fta">n=20</footnote></td><td>1.1 (0.3)<footnoteref idref="t1fta"></footnoteref></td><td>234.4 (85.0)<footnoteref idref="t1fta"></footnoteref></td><td>5.1 (1.9)<footnoteref idref="t1fta"></footnoteref></td></tr>
+<tr stylecode="Botrule"><td>3 (15–21)</td><td>0.150</td><td>3855.7 (1273.1)</td><td>1.5 (0.8)</td><td>256.6 (104.0)</td><td>4.6 (1.6)</td></tr>
+<tr><td align="center" colspan="6"><content stylecode="bold underline">Ethinyl Estradiol</content></td></tr>
+<tr stylecode="Botrule"><td>Phase<br/>(days)</td><td>Dose<br/>mg</td><td>C<sub>max</sub><br/>pg/mL</td><td>t<sub>max</sub><br/>hr</td><td>n-AUC<sub>0–24</sub><br/>pg∙hr/mL/µg</td><td>CL/F<br/>L/hr</td></tr>
+<tr><td>1 (1–7)</td><td>0.025</td><td>85.4 (51.7)</td><td>1.5 (0.8)</td><td>26.4 (11.5)</td><td>43.5 (15.0)</td></tr>
+<tr><td>2 (8–14)</td><td>0.025</td><td>91.3 (52.2)<footnoteref idref="t1fta"></footnoteref></td><td>1.2 (1.2)<footnoteref idref="t1fta"></footnoteref></td><td>29.0 (15.5)<footnoteref idref="t1fta"></footnoteref></td><td>41.7 (15.5)<footnoteref idref="t1fta"></footnoteref></td></tr>
+<tr><td>3 (15–21)</td><td>0.025</td><td>90.1 (48.2)</td><td>1.2 (0.7)</td><td>28.3 (13.2)</td><td>42.5 (18.7)</td></tr>
+</tbody>
+</table>

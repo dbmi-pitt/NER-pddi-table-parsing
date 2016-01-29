@@ -1,0 +1,347 @@
+<table id="iefb33459-499f-4a59-8bd4-9f5d1f0238b5" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="14%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="12%"></col>
+<col width="12%"></col>
+<col width="13%"></col>
+<col width="12%"></col>
+<col width="12%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Botrule Lrule Toprule "></td>
+<td stylecode="Botrule Lrule Toprule "></td>
+<td align="center" colspan="3" stylecode="Botrule Lrule Toprule ">
+<paragraph>Primary Composite Endpoint</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>ESRD</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">No. of Patients</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Losartan potassium</content>
+<br/>
+<content stylecode="bold">Event Rate</content>
+<br/>
+<content stylecode="bold">%</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Placebo</content>
+<br/>
+<content stylecode="bold">Event Rate</content>
+<br/>
+<content stylecode="bold">%</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Hazard Ratio</content>
+<br/>
+<content stylecode="bold">(95% CI)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Losartan potassium Event Rate</content>
+<br/>
+<content stylecode="bold">%</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Placebo</content>
+<br/>
+<content stylecode="bold">Event Rate</content>
+<br/>
+<content stylecode="bold">%</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Hazard Ratio</content>
+<br/>
+<content stylecode="bold">(95% CI)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Overall Results</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1513</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>43.5</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>47.1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.839 (0.721, 0.977)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>19.6</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>25.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.714 (0.576, 0.885)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Age</paragraph>
+</td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Rrule Lrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>    &lt;65 years</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1005</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>44.1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>49</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.784 (0.653, 0.941)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>21.1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>28.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.670 (0.521, 0.863)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>    ≥65 years</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>508</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>42.3</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>43.5</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.978 (0.749, 1.277)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>16.5</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>19.6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.847 (0.560, 1.281)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Gender</paragraph>
+</td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Rrule Lrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>    Female</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>557</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>47.8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>54.1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.762 (0.603, 0.962)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>22.8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>32.8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.601 (0.436, 0.828)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>    Male</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>956</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>40.9</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>43.3</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.892 (0.733, 1.085)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>17.5</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>21.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.809 (0.605, 1.081)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Race</paragraph>
+</td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Lrule Botrule "></td>
+<td stylecode="Rrule Lrule Botrule "></td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>    Asian</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>252</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>41.9</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>54.8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.655 (0.453, 0.947)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>18.8</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>27.4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.625 (0.367, 1.066)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>    Black</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>230</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>40</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>39</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.983 (0.647, 1.495)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>17.6</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>21</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.831 (0.456, 1.516)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>    Hispanic</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>277</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>55</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>54</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1.003 (0.728, 1.380)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>30</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>28.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.024 (0.661, 1.586)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>    White</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>735</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>40.5</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>43.2</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>0.809 (0.645, 1.013)</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>16.2</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>23.9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>0.596 (0.427, 0.831)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

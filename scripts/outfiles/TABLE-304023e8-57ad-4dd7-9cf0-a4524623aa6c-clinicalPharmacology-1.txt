@@ -1,0 +1,99 @@
+<table id="id_8c91ec25-8c9b-49ab-ac9e-51e3e19363cf" width="872.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_dba705e8-8fa9-4a54-9778-51b1b34749da">Table 2: Mean (CI) Change in QTc from Baseline to Steady-State (Day 4 of Dosing) at T<sub>max</sub> (Relative to Placebo)</caption>
+<col width="17.9%"></col>
+<col width="16.6%"></col>
+<col width="15.6%"></col>
+<col width="16.6%"></col>
+<col width="16.6%"></col>
+<col width="16.6%"></col>
+<tbody>
+<tr id="id_3382404a-11f1-46f4-9148-80475b06a4c5">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="bold">Drug/Dose</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">N</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">QTcF</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(msec)</content>
+</paragraph>
+<content stylecode="bold">(manual)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">QTcF</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(msec)</content>
+</paragraph>
+<content stylecode="bold">(machine)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">QTcP</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(msec)</content>
+</paragraph>
+<content stylecode="bold">(manual)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">QTcP</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(msec)</content>
+</paragraph>
+<content stylecode="bold">(machine)</content>
+</td>
+</tr>
+<tr id="id_ae7c83e9-df32-4801-88b5-ea54c6d8617d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>Tolterodine </paragraph>2 mg BID<footnote id="id-9a47d744-7d24-4261-a3e8-54b406680462">At T<sub>max </sub>of one hr; 95% Confidence Interval</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">48</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>5.01</paragraph>(0.28, 9.74)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.16</paragraph>(-2.99, 5.30)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>4.45</paragraph>(-0.37, 9.26)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>2</paragraph>(-1.81, 5.81)</td>
+</tr>
+<tr id="id_5efe9e23-db1c-4940-828f-05ae43b6c2f1">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>Tolterodine</paragraph>4 mg BID<footnoteref idref="id-9a47d744-7d24-4261-a3e8-54b406680462"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">48</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>11.84</paragraph>(7.11, 16.58)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>5.63</paragraph>(1.48, 9.77)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>10.31</paragraph>(5.49, 15.12)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>8.34</paragraph>(4.53, 12.15)</td>
+</tr>
+<tr id="id_9c483091-c531-494e-acab-bd386e18cebd">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>Moxifloxacin</paragraph>400 mg QD<footnote id="id-7b5aedee-b4de-49df-ab8b-d607fc6acb5e">At T<sub>max</sub> of 2 hr; 90% Confidence Interval</footnote>
+</td>
+<td align="center" stylecode="Rrule" valign="top">45</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>19.26<footnote id="id-23e21bb5-c315-4777-9e1c-52ec23cda6fa">The effect on QT interval with 4 days of moxifloxacin dosing in this QT trial may be greater than typically observed in QT trials of other drugs. </footnote>
+</paragraph>(15.49, 23.03)</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>8.90</paragraph>(4.77, 13.03)</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>19.10<footnoteref idref="id-23e21bb5-c315-4777-9e1c-52ec23cda6fa"></footnoteref>
+</paragraph>(15.32, 22.89)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>9.29</paragraph>(5.34, 13.24)</td>
+</tr>
+</tbody>
+</table>

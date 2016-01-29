@@ -1,0 +1,41 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Mean Changes from Baseline (SE) in Pharmacodynamic Parameters in Normal Healthy Adult Volunteers</caption>
+<col></col>
+<col></col>
+<col></col>
+<tfoot>
+<tr>
+<td> (SE) = Standard error of the mean</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top"> <content stylecode="bold">Treatment</content>
+</td>
+<td align="center" valign="top"> <content stylecode="bold">Total Urine Volume in mL</content>
+</td>
+<td align="center" valign="top"> <content stylecode="bold">Maximum Urine Osmolality in mOsm/kg</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> 0.1 mg PO q8h</td>
+<td align="center" valign="top"> -3689.3 (149.6)</td>
+<td align="center" valign="top"> 514.8 (21.9)</td>
+</tr>
+<tr>
+<td valign="top"> 0.2 mg PO q8h</td>
+<td align="center" valign="top"> -4429.9 (149.6)</td>
+<td align="center" valign="top"> 686.3 (21.9)</td>
+</tr>
+<tr>
+<td valign="top"> 0.4 mg PO q8h</td>
+<td align="center" valign="top"> -4998.8 (149.6)</td>
+<td align="center" valign="top"> 769.3 (21.9)</td>
+</tr>
+<tr>
+<td valign="top"> 0.01 mg IN q8h</td>
+<td align="center" valign="top"> -4844.9 (149.6)</td>
+<td align="center" valign="top"> 754.1 (21.9)</td>
+</tr>
+</tbody>
+</table>

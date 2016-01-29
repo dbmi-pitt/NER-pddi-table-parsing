@@ -1,0 +1,32 @@
+<table id="table2" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Concentrations of active and metabolites at Baseline and at Day 14 after exposure to Tretinoin Gel, USP 0.05%</caption>
+<colgroup>
+<col align="left" width="33%"></col>
+<col align="left" width="34%"></col>
+<col align="left" width="33%"></col>
+</colgroup>
+<thead>
+<tr stylecode="First Last">
+<th align="left" stylecode="Lrule Rrule">Compound</th>
+<th align="left" stylecode="Rrule">Baseline Concentration<br/>Range (ng/ml)</th>
+<th align="left" stylecode="Rrule">Day 14 Concentration<br/>Range (ng/ml)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule First">
+<td align="left" stylecode="Lrule Rrule">Tretinoin</td>
+<td align="left" stylecode="Rrule">0.68-1.62</td>
+<td align="left" stylecode="Rrule">0.69-2.88</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule">13-cis-retinoic acid</td>
+<td align="left" stylecode="Rrule">0.67-1.79</td>
+<td align="left" stylecode="Rrule">0.51-2.26</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule">4-oxo-13-cis-retinoic acid</td>
+<td align="left" stylecode="Rrule">0.82-5.92</td>
+<td align="left" stylecode="Rrule">0.59-6.96</td>
+</tr>
+</tbody>
+</table>

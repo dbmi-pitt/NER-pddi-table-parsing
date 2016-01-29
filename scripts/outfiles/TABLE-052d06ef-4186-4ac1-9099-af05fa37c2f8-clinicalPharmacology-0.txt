@@ -1,0 +1,174 @@
+<table id="Table_1" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>
+												Table 1 Mean (%CV) Pharmacokinetic Parameters
+												for Racemic Tramadol and M1 Metabolite
+											</caption>
+<col align="left" width="20%"></col>
+<col align="center" width="16%"></col>
+<col align="center" width="16%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="16%"></col>
+<col align="center" width="16%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule Lrule">
+														Population/Dosage Regimen<footnote>
+															SD = Single dose, MD = Multiple dose,
+															p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four
+															times daily
+														</footnote>
+</th>
+<th stylecode="Rrule Lrule">Parent Drug/ Metabolite</th>
+<th stylecode="Rrule Lrule">
+														PeakConc.<br/>(ng/mL)
+													</th>
+<th stylecode="Rrule Lrule">Time to Peak (hrs)</th>
+<th stylecode="Rrule Lrule">
+														Clearance/F<footnote>F represents the oral bioavailability of tramadol</footnote>
+<br/>(mL/min/Kg)
+													</th>
+<th stylecode="Rrule Lrule" valign="top">
+														t<sub>1/2</sub> (hrs)
+													</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Botrule">
+														Healthy Adults,<br/>100 mg qid, MD p.o
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														Tramadol<br/>M1
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														592 (30)<br/>110 (29)
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														2.3 (61)<br/>2.4 (46)
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														5.90 (25)<br/>
+<footnote id="footnote1">Not applicable</footnote>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+														6.7 (15)<br/>7.0 (14)
+													</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule">
+														Healthy Adults,<br/>100 mg SD p.o
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														Tramadol<br/>M1
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														308 (25)<br/>55.0 (36)
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														1.6 (63)<br/>3.0 (51)
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														8.50 (31)<br/>
+<footnoteref idref="footnote1"></footnoteref>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+														5.6 (20)<br/>6.7 (16)
+													</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule">
+														Geriatric, (&gt;75 yrs)<br/>50 mg SD p.o.
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														Tramadol<br/>M1
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														208 (31)<br/>
+<footnote id="footnote2">Not measured</footnote>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+														2.1 (19)<br/>
+<footnoteref idref="footnote2"></footnoteref>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+														6.89 (25)<br/>
+<footnoteref idref="footnote1"></footnoteref>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+														7.0 (23)<br/>
+<footnoteref idref="footnote2"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule">
+														Hepatic Impaired,<br/>50 mg SD p.o.
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														Tramadol<br/>M1
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														217 (11)<br/>19.4 (12)
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														1.9 (16)<br/>9.8 (20)
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														4.23 (56)<br/>
+<footnoteref idref="footnote1"></footnoteref>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+														13.3 (11)<br/>18.5 (15)
+													</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule">
+														Renal Impaired,<br/>CL<sub>cr</sub>10 to 30 mL/min <br/>100 mg SD i.v.
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														Tramadol<br/>M1
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+<footnoteref idref="footnote1"></footnoteref>
+<br/>
+<footnoteref idref="footnote1"></footnoteref>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+<footnoteref idref="footnote1"></footnoteref>
+<br/>
+<footnoteref idref="footnote1"></footnoteref>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+														4.23 (54)<br/>
+<footnoteref idref="footnote1"></footnoteref>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+														10.6 (31)<br/>11.5 (40)
+													</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule">
+														Renal Impaired,<br/>CL<sub>cr</sub>&lt;5 mL/min<br/>100 mg SD i.v.
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+														Tramadol<br/>M1
+													</td>
+<td stylecode="Rrule Lrule Botrule">
+<footnoteref idref="footnote1"></footnoteref>
+<br/>
+<footnoteref idref="footnote1"></footnoteref>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+<footnoteref idref="footnote1"></footnoteref>
+<br/>
+<footnoteref idref="footnote1"></footnoteref>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+														3.73 (17)<br/>
+<footnoteref idref="footnote1"></footnoteref>
+</td>
+<td stylecode="Rrule Lrule Botrule">
+														11.0 (29)<br/>16.9 (18)
+													</td>
+</tr>
+</tbody>
+</table>

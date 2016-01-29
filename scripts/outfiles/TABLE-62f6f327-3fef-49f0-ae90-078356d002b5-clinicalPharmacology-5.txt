@@ -1,0 +1,135 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">QC Strain</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Minimum Inhibitory</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Concentrations</content>
+</content> <content stylecode="bold">
+<content stylecode="emphasis">(mcg/mL)</content>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">Disk Diffusion</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="emphasis">(zone diameters in mm)</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph> </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Haemophilus influenzae</content>
+</content>
+</paragraph>
+<paragraph>ATCC 49247</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>1 to 4</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>13 to 21</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph> </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Staphylococcus aureus</content>
+</content>
+</paragraph>
+<paragraph>ATCC 29213</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.5 to 2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph> </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph> </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Staphylococcus aureus</content>
+</content>
+</paragraph>
+<paragraph>ATCC 25923</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph> </paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>21 to 26</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph> </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Toprule Botrule" valign="top">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="emphasis">Streptococcus pneumoniae</content>
+</content>
+</paragraph>
+<paragraph>ATCC 49619</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>0.06 to 0.25</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>19 to 25</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

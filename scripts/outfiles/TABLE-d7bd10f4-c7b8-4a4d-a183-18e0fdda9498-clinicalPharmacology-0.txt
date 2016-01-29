@@ -1,0 +1,40 @@
+<table border="single" id="id_be5b1682-bc33-42e2-96a5-8a07bb8750f5" width="330.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_ff728bc2-7abb-48bd-bce1-3d6ee3fe50b8">TABLE 1. Controlled PHN Studies: Duration, Dosages, and Number of Patients</caption>
+<col width="14.5%"></col>
+<col width="20.0%"></col>
+<col width="22.4%"></col>
+<col width="23.0%"></col>
+<col width="20.0%"></col>
+<tbody>
+<tr id="id_059b1a50-ed24-401a-8a9d-6d408529975a">
+<td align="justify" stylecode="Botrule Toprule Rrule Lrule" valign="top">Study</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">Study Duration</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>Gabapentin (mg/day)<footnote id="id-6171c78f-fd53-4efa-b2c5-ab9feb7ce267"> Given in 3 divided doses (TID)</footnote>
+</paragraph>Target Dose</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">Patients Receiving Gabapentin</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">Patients Receiving Placebo</td>
+</tr>
+<tr id="id_2e212fae-26f2-41b2-9949-4d80384ced31">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">1</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">8 weeks</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">3600</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">113</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">116</td>
+</tr>
+<tr id="id_7822bde1-bd22-4604-bfca-c59c564e302a">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">2</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">7 weeks</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">1800, 2400</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">223</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">111</td>
+</tr>
+<tr id="id_09640097-2ec1-46c6-98c6-b488e8e3b17a">
+<td align="justify" stylecode="Lrule Botrule" valign="top"></td>
+<td align="justify" stylecode="Botrule" valign="top"></td>
+<td align="justify" stylecode="Rrule" valign="top">Total</td>
+<td align="justify" stylecode="Rrule" valign="top">336</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">227</td>
+</tr>
+</tbody>
+</table>

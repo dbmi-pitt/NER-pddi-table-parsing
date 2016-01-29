@@ -1,0 +1,47 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Susceptibility Interpretive Criteria for Fluconazole</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Broth Dilution at 48 hours<br/>(MIC in mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Disk Diffusion at 24 hours<br/>(Zone Diameters in mm)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Antifungal agent</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Susceptible (S)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Intermediate (I)**</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Resistant (R)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Susceptible (S)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Intermediate (I)**</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Resistant (R)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Fluconazole*</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">≤ 8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">16 - 32</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">≥ 64</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">≥ 19</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">15 - 18</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">≤ 14</td>
+</tr>
+</tbody>
+</table>

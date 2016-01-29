@@ -1,0 +1,55 @@
+<table id="t4" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: Mean (Standard Deviation) Tedizolid Pharmacokinetic Parameters Following Single and Multiple Oral and Intravenous Administration of 200 mg Once-Daily Tedizolid Phosphate</caption>
+<col align="left" valign="middle" width="24%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Lrule Rrule">Pharmacokinetic Parameters of Tedizolid<footnote>C<sub>max</sub>, maximum concentration; T<sub>max</sub>, time to reach C<sub>max</sub>; AUC, area under the concentration-time curve; CL, systemic clearance; CL/F, apparent oral clearance</footnote>
+</th>
+<th colspan="2" stylecode="Rrule Botrule">Oral</th>
+<th colspan="2" stylecode="Rrule Botrule">Intravenous</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Rrule">Single Dose</th>
+<th stylecode="Rrule">Steady State</th>
+<th stylecode="Rrule">Single Dose</th>
+<th stylecode="Rrule">Steady State</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>max </sub>(mcg/mL)</td>
+<td stylecode="Rrule">2.0 (0.7)</td>
+<td stylecode="Rrule">2.2 (0.6)</td>
+<td stylecode="Rrule">2.3 (0.6)</td>
+<td stylecode="Rrule">3.0 (0.7)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">T<sub>max </sub>(hr)<footnote>Median (range)</footnote>
+</td>
+<td stylecode="Rrule">2.5 (1.0 - 8.0)</td>
+<td stylecode="Rrule">3.5 (1.0 - 6.0)</td>
+<td stylecode="Rrule">1.1 (0.9 - 1.5)</td>
+<td stylecode="Rrule">1.2 (0.9 - 1.5)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">AUC (mcg<content stylecode="bold">∙</content>hr/mL)<footnote>AUC is AUC<sub>0-</sub>
+<sub>∞</sub> (AUC from time 0 to infinity) for single-dose administration and AUC<sub>0-24 </sub>(AUC from time 0 to 24 hours) for multiple-dose administration</footnote>
+</td>
+<td stylecode="Rrule">23.8 (6.8)</td>
+<td stylecode="Rrule">25.6 (8.4)</td>
+<td stylecode="Rrule">26.6 (5.2)</td>
+<td stylecode="Rrule">29.2 (6.2)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">CL or CL/F (L/hr)</td>
+<td stylecode="Rrule">6.9 (1.7)</td>
+<td stylecode="Rrule">8.4 (2.1)</td>
+<td stylecode="Rrule">6.4 (1.2)</td>
+<td stylecode="Rrule">5.9 (1.4)</td>
+</tr>
+</tbody>
+</table>

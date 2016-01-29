@@ -1,0 +1,93 @@
+<table id="table8" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8: Susceptibility Interpretive Criteria for Piperacillin/Tazobactam</caption>
+<col align="left" valign="bottom" width="30%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="15%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="15%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<thead>
+<tr>
+<th></th>
+<th align="center" colspan="6">Susceptibility Test Result Interpretive Criteria </th>
+</tr>
+<tr>
+<th></th>
+<th align="center" colspan="3">Minimal Inhibitory Concentration <br/>(MIC in mcg/mL)</th>
+<th align="center" colspan="3">Disk Diffusion <br/>(Zone Diameter in mm)</th>
+</tr>
+<tr>
+<th>Pathogen </th>
+<th>S</th>
+<th>I</th>
+<th>R</th>
+<th>S</th>
+<th>I</th>
+<th>R</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">Note: Susceptibility of staphylococci to piperacillin/tazobactam may be deduced from testing only penicillin and either cefoxitin or oxacillin.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td>
+<content stylecode="italics">Enterobacteriaceae </content>
+</td>
+<td>≤ 16</td>
+<td>32 – 64</td>
+<td>≥ 128</td>
+<td>≥ 21</td>
+<td>18 – 20 </td>
+<td>≤ 17</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Acinetobacter baumannii</content>
+</td>
+<td>≤ 16</td>
+<td>32 – 64</td>
+<td>≥ 128</td>
+<td>≥ 21</td>
+<td>18 – 20</td>
+<td>≤ 17</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Haemophilus influenzae</content>
+<footnote>: These interpretive criteria for <content stylecode="italics">Haemophilus influenzae </content>are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. </footnote>
+</td>
+<td>≤ 1</td>
+<td>-</td>
+<td>≥ 2</td>
+<td>≥ 21</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Pseudomonas aeruginosa </content>
+</td>
+<td>≤ 16</td>
+<td>32 – 64</td>
+<td>≥ 128</td>
+<td>≥ 21</td>
+<td>15–20</td>
+<td>≤ 14</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Bacteroides fragilis group </content>
+</td>
+<td>≤ 32</td>
+<td>64</td>
+<td>≥ 128</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>

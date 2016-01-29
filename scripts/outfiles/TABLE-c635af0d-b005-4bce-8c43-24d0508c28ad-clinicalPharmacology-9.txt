@@ -1,0 +1,69 @@
+<table id="inv-e32b8861-c660-4ebd-afda-53d55ec71302" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col id="inv-ac323519-80c2-40c2-b223-28d53ee3b62c" width="270.90*"></col>
+<col id="inv-fdf140c0-bbd0-4d74-8984-b50e03635e24" width="94.50*"></col>
+<col id="inv-e168e533-ce56-4a6d-abdb-8971d562df70" width="102.60*"></col>
+<thead id="inv-cc690058-63e5-481c-bd55-915541efae8e">
+<tr id="inv-eaf2918c-f5ae-40d6-bc6d-9cb77e9cfdf3">
+<td align="center" id="inv-16f14421-ca3e-44b4-bd00-4226517dfe42" valign="top">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="center" colspan="2" id="inv-76f7049c-d41d-4c37-b5e3-11c8408a535a" valign="top">
+<content stylecode="bold">Zone</content>
+<content stylecode="bold">Diameter</content>
+<content stylecode="bold">Range</content>
+<content stylecode="bold">(mm)</content>
+</td>
+</tr>
+</thead>
+<tbody id="inv-d542a6be-4ac4-4c64-976f-9406ea350930">
+<tr id="inv-d8d7e0e6-51d5-40ac-aaae-ee1c44ece429">
+<td id="inv-39178bd0-1020-4322-96ee-d8886782e385"></td>
+<td align="center" id="inv-6a995990-f794-47ec-ad5e-efbe5bbc42c5" valign="top">
+<content stylecode="bold">Tetracycline</content>
+</td>
+<td align="center" id="inv-e92f5dd8-c9c5-4912-8241-440d2d3cc54f" valign="top">
+<content stylecode="bold">Minocycline</content>
+</td>
+</tr>
+<tr id="inv-5cf798bd-8135-4786-8fac-4b0e61ec023d">
+<td id="inv-60b5283d-8a8b-4f7e-b90b-bed7f11f7f82">
+<content stylecode="italics">Escherichia coli</content> ATCC 25922</td>
+<td align="center" id="inv-6fff3648-6f30-452a-b99e-76a054922458" valign="top">
+18 to 25</td>
+<td align="center" id="inv-09a1c408-0ebb-4ad3-b0e6-7f1ff02553df" valign="top">
+19 to 25</td>
+</tr>
+<tr id="inv-dde001a3-b292-4e9b-b7ba-5c4b7ae933c3">
+<td id="inv-b7a3db61-205a-4f71-abe1-e2d3d7935e2e">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 25923</td>
+<td align="center" id="inv-6201de88-85c3-4971-b824-3e90f2d89f70" valign="top">
+24 to 30</td>
+<td align="center" id="inv-d3ca1d71-970e-4871-94f5-fff641590e58" valign="top">
+25 to 30</td>
+</tr>
+<tr id="inv-179fca87-4c1b-4996-9760-e1fd6f55bfb4">
+<td id="inv-65ee2b40-4925-4e2a-b618-0efdfe90e4f9">
+<content stylecode="italics">Haemophilus influenzae</content> ATCC 49247</td>
+<td align="center" id="inv-b8c9e179-b3b5-403e-a396-55534a12010d" valign="top">
+14 to 22</td>
+<td align="center" id="inv-0b5ee49a-b0b5-47be-a1a6-8551aa4e2506" valign="top">
+-</td>
+</tr>
+<tr id="inv-84d99ba5-8b26-436b-a4ff-6e4cab6d09e7">
+<td id="inv-5210dfa8-ce9e-4bde-b0c4-17452b5e4c73">
+<content stylecode="italics">Neisseria gonorrhoeae</content> ATCC 49226</td>
+<td align="center" id="inv-e1152385-80d3-4bf9-a64c-f34630d7eeff" valign="top">
+30 to 42</td>
+<td align="center" id="inv-09b3142a-77ce-483f-9919-30668cb77bf3" valign="top">
+-</td>
+</tr>
+<tr id="inv-1706fafc-8e75-4d79-ad0a-18b79588b6ef">
+<td id="inv-bd391612-3fc0-4e34-8dea-baca4b579fac">
+<content stylecode="italics">Streptococcus pneumoniae</content> ATCC 49619</td>
+<td align="center" id="inv-ef60bdb3-db19-4cbd-8b5f-3193895b4d27" valign="top">
+27 to 31</td>
+<td align="center" id="inv-6b33c2a4-e1f9-497f-a08a-fc39e60b2a63" valign="top">
+-</td>
+</tr>
+</tbody>
+</table>

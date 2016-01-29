@@ -1,0 +1,79 @@
+<table width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 12: Quality Control Ranges for Susceptibility Testing</caption>
+<col align="left" span="1" valign="top" width="30%"></col>
+<col align="center" span="1" valign="top" width="20%"></col>
+<col align="center" span="1" valign="top" width="23%"></col>
+<col align="center" span="1" valign="top" width="27%"></col>
+<tbody>
+<tr>
+<th colspan="1">Microorganism</th>
+<th colspan="1">Microorganism<br/> QC Number</th>
+<th colspan="1">MIC (mcg/mL)</th>
+<th colspan="1">Disk Diffusion<br/> (zone diameter in mm)</th>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td>ATCC 29212</td>
+<td>0.25 – 2</td>
+<td>--</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td>ATCC 25922</td>
+<td>0.008 – 0.06</td>
+<td>29 – 37</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td>ATCC 35218</td>
+<td>0.015 – 0.06</td>
+<td>--</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td>ATCC 49247</td>
+<td>0.008 – 0.03</td>
+<td>32 – 40</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td>ATCC 27853</td>
+<td>0.5 – 4</td>
+<td>19 – 26</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td>ATCC 29213</td>
+<td>0.06 – 0.5</td>
+<td>--</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td>ATCC 25923</td>
+<td>--</td>
+<td>25 – 30</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td>ATCC 49619</td>
+<td>0.5 – 2</td>
+<td>20 – 25</td>
+</tr>
+</tbody>
+</table>

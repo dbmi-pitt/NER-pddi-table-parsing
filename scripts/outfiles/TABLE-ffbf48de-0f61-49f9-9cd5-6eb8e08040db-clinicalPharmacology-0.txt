@@ -1,0 +1,205 @@
+<table width="486.9pt" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="12%"></col>
+<col width="10%"></col>
+<col width="12%"></col>
+<col width="15%"></col>
+<col width="17%"></col>
+<col width="16%"></col>
+<col width="6%"></col>
+<col width="11%"></col>
+<tbody>
+<tr>
+<td align="justify" rowspan="2" stylecode="Botrule Lrule Toprule ">
+<paragraph>Regimen</paragraph>
+</td>
+<td rowspan="2" stylecode="Botrule Lrule Toprule ">
+<paragraph>Analyte</paragraph>
+</td>
+<td align="center" colspan="6" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Arithmetic Mean<footnote id="_RefID79548AC6E37B4315A5AC2C6D187DA234">The harmonic mean (0.693/mean apparent elimination rate constant) is reported for t½, and the median (range) is reported for tmax.</footnote> (%CV) by Pharmacokinetic Parameter</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>C<sub>max</sub>
+</paragraph>
+<paragraph>(pg/mL)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>t<sub>max</sub>
+</paragraph>
+<paragraph>(hr)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>AUC<sub>(0−24)</sub>
+</paragraph>
+<paragraph>(pg/mL•h)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>C<sub>min</sub>
+</paragraph>
+<paragraph>(pg/mL)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>t<sub>½</sub>
+</paragraph>
+<paragraph>(hr)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>C<sub>avg</sub>
+</paragraph>
+<paragraph>(pg/mL)</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="3" stylecode="Lrule Botrule ">
+<paragraph>Day 1 (Single Dose)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>NE</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>8420 (31)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1 (0.7 to 4)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>33390 (40)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>EE</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>64.5 (27)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1.3 (0.7 to 4)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>465.4 (26)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>SHBG</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>57.5 (37)<footnote id="_RefID678DEA4DC3FC4DB5A92273C65B91A9BA">The SHBG concentration reported here is the pre-dose concentration.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="3" stylecode="Lrule Botrule ">
+<paragraph>Day 24 (Multiple Dose)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>NE</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>16400 (26)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1.3 (0.7 to 4)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>88160 (30)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>880 (51)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>8.4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>3670 (30)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>EE</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>81.9 (24)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1.7 (1 to 2)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>701.3 (28)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>11.4 (43)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>14.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>29.2 (28)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>SHBG</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>144 (24)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>--</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="8" stylecode="Rrule Botrule Lrule ">
+<paragraph>C<sub>max</sub> = Maximum plasma concentration; t<sub>max</sub> = Time of C<sub>max</sub>; C<sub>min</sub> = minimum plasma concentration at steady-state; AUC<sub>(0−24)</sub> = Area under plasma concentration versus time curve from 0 to 24 hours ; t½ = Apparent first-order terminal elimination half-life ; C<sub>avg</sub> = Average plasma concentration = AUC<sub>(0–24)</sub>/24<br/>%CV = Coefficient of Variation (%); SHBG = Sex Hormone Binding Globulin (nmol/L)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,91 @@
+<table border="1" id="id_0f5ebea3-324f-4a28-9bc0-cb077f50b052" width="452" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_f2d479c8-5bd9-47a3-9a36-d0ab908fbce4">Table 12: Quality Control for Susceptibility Testing</caption>
+<col width="29.9%"></col>
+<col width="22.6%"></col>
+<col width="20.1%"></col>
+<col width="27.4%"></col>
+<tbody>
+<tr id="id_6de4f52d-761e-40cc-85cf-3c87e30509e0">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Microorganism QC Number</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Disk Diffusion (zone diameter in mm)</content>
+</td>
+</tr>
+<tr id="id_4edbd6f5-2afa-478c-950e-b8265ad79de1">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 29212</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.25 to 2</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">-</td>
+</tr>
+<tr id="id_c54c4f9e-6976-4952-b283-ccb050c5bb27">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 25922</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.008 to 0.06</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">29 to 37</td>
+</tr>
+<tr id="id_10384e8f-9e6d-4e14-8e8f-94d1fad26fa9">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 35218</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.015 to 0.06</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">-</td>
+</tr>
+<tr id="id_7689057f-30aa-4580-8303-295424f797d9">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 49247</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.008 to 0.03
+                                 </td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">32 to 40
+                                 </td>
+</tr>
+<tr id="id_a8100a53-69c7-40d9-a83e-958fad8609e1">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 27853</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.5 to 4</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">19 to 26</td>
+</tr>
+<tr id="id_0c72f0c7-ed37-4f61-8b4a-fae55896577f">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 29213</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.06 to 0.5</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">-</td>
+</tr>
+<tr id="id_36d0392e-f103-42a0-8946-e1737cb281c3">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 25923</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">25 to 30</td>
+</tr>
+<tr id="id_e890a7ef-7662-45a3-86e3-a995d0c1f99d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">ATCC 49619</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.5 to 2
+                                 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">20 to 25
+                                 </td>
+</tr>
+</tbody>
+</table>

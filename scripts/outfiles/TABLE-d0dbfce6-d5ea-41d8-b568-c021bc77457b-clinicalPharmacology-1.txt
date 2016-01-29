@@ -1,0 +1,73 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Acceptable Quality Control Ranges for Nitrofurantoin</caption>
+<col width="33%"></col>
+<col width="33%"></col>
+<col width="33%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>QC Strain</paragraph>
+</td>
+<td colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>Acceptable Quality Control Ranges</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Minimum Inhibitory Concentration (µg/mL)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Disk Diffusion (zone diameter in mm)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Escherichia coli ATCC 25922</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>4 – 16</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>20 – 25</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Enterococcus faecalis ATCC 29212</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>4 – 16</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>NA<footnote id="_Ref401569218">
+<sup>Not Applicable.</sup>
+</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Staphylococcus aureus ATCC 29213</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>8 – 32</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>NA<footnoteref idref="_Ref401569218"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>Staphylococcus aureus ATCC 25923</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>NA<footnoteref idref="_Ref401569218"></footnoteref>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>18 – 22</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

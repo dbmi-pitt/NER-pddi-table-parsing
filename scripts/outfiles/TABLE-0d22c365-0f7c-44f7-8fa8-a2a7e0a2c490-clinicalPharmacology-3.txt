@@ -1,0 +1,54 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs [see <linkhtml href="#S7">Drug Interactions (7)</linkhtml>].</caption>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="18%"></col>
+<col align="center" valign="top" width="18%"></col>
+<col align="center" valign="top" width="6%"></col>
+<col align="center" valign="top" width="22%"></col>
+<col align="center" valign="top" width="22%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Lrule Rrule">Co-administered Drug</th>
+<th align="center" stylecode="Rrule">Dose of Co-administered Drug</th>
+<th align="center" stylecode="Rrule">Dose of Azithromycin</th>
+<th stylecode="Rrule">n</th>
+<th colspan="2" stylecode="Rrule Botrule">Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00</th>
+</tr>
+<tr stylecode="Botrule">
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule"></th>
+<th stylecode="Lrule Rrule">Mean C<sub>max</sub>
+</th>
+<th stylecode="Rrule">Mean AUC</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">												Efavirenz 											</td>
+<td stylecode="Rrule">400 mg/day for 7 days</td>
+<td stylecode="Rrule">600 mg orally on day 7</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">1.22<br/>(1.04 to 1.42)</td>
+<td stylecode="Rrule">0.92<footnote>- 90% Confidence interval not reported</footnote>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">												Fluconazole 											</td>
+<td stylecode="Rrule">200 mg orally  single dose</td>
+<td stylecode="Rrule">1,200 mg orally single dose</td>
+<td stylecode="Rrule">18</td>
+<td stylecode="Rrule">0.82<br/>(0.66 to 1.02)</td>
+<td stylecode="Rrule">1.07<br/>(0.94 to 1.22)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">												Nelfinavir 											</td>
+<td stylecode="Rrule">750 mg three times a day for  11 days</td>
+<td stylecode="Rrule">1,200 mg orally on day 9</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">2.36<br/>(1.77 to 3.15)</td>
+<td stylecode="Rrule">2.12<br/>(1.80 to 2.50)</td>
+</tr>
+</tbody>
+</table>

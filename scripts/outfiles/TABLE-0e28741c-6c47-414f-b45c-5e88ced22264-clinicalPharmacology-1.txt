@@ -1,0 +1,69 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50%"></col>
+<col width="50%"></col>
+<thead>
+<tr>
+<th stylecode="Botrule Lrule Toprule ">
+<content stylecode="bold">Gram-Positive Bacteria</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Gram-Negative Bacteria</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="italics">Enterococcus                                           faecalis</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="italics">Escherichia coli </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule " valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus</content>                                           spp.</paragraph>
+</td>
+<td stylecode="Rrule Lrule " valign="top">
+<paragraph>
+<content stylecode="italics">Haemophilus                                           influenzae</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule " valign="top">
+<paragraph>
+<content stylecode="italics">Streptococcus                                           pneumoniae</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule " valign="top">
+<paragraph>
+<content stylecode="italics">Neisseria gonorrhoeae                                           </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule " valign="top">
+<paragraph>                                           Alpha and β-hemolytic streptococci                                        </paragraph>
+</td>
+<td stylecode="Rrule Lrule " valign="top">
+<paragraph>
+<content stylecode="italics">Proteus mirabilis</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="top"></td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>
+<content stylecode="italics">Helicobacter pylori</content>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

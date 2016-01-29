@@ -1,0 +1,53 @@
+<table border="1" id="id_e7f21ce6-fd6e-44e9-a44b-795b9011c41b" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_c443541e-828a-439d-87d0-b80469cac474">Table 1: Mean (%CV) Metaxalone Pharmacokinetic Parameters</caption>
+<col width="98*"></col>
+<col width="99*"></col>
+<col width="100*"></col>
+<col width="100*"></col>
+<col width="99*"></col>
+<col width="100*"></col>
+<tbody>
+<tr id="id_04582db2-7311-454b-a5c9-48dd86bf0517" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="bold">Dose</content> (mg)</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">C<sub>max</sub>
+</content> (ng/mL)</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">T<sub>max</sub>
+</content> (h)</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">AUC<sub>∞</sub>
+</content> (ng•h/mL)</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="bold">t<sub>½</sub>
+</content>(h)</td>
+<td align="left" valign="top">
+<content stylecode="bold">CL/F</content> (L/h)</td>
+</tr>
+<tr id="id_90ad23cd-e557-4a37-b0da-ca4d5cc549d8">
+<td align="left" valign="top">400<sup>1</sup>
+</td>
+<td align="left" valign="top">983 (53)</td>
+<td align="left" valign="top">3.3 (35)</td>
+<td align="left" valign="top">7479 (51)</td>
+<td align="left" valign="top">9.0 (53)</td>
+<td align="left" valign="top">68 (50)</td>
+</tr>
+<tr id="id_61c175a5-5373-497c-9d2f-289e6a269086">
+<td align="left" valign="top">800<sup>2</sup>
+</td>
+<td align="left" valign="top">1816 (43)</td>
+<td align="left" valign="top">3.0 (39)</td>
+<td align="left" valign="top">15044 (46)</td>
+<td align="left" valign="top">8.0 (58)</td>
+<td align="left" valign="top">66 (51)</td>
+</tr>
+<tr id="id_5cf0f628-4670-44f1-b1ef-82f8554f72dd" stylecode="Botrule">
+<td align="left" colspan="6" valign="top">
+<sup>1</sup>Subjects received 1x400 mg tablet under fasted conditions (N=42) <paragraph>
+<sup>2</sup>Subjects received 2x400 mg tablets under fasted conditions (N=59)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

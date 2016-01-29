@@ -1,0 +1,94 @@
+<table id="id_a893c5ee-5a3a-472b-8e50-07d1aed84357" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_154707c7-bad4-4ba3-8bb9-d4dbe24e7b27">Table 2 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of Mycophenolate Mofetil Capsules in Chronic Renal and Hepatic Impairment</caption>
+<col align="left" width="26%"></col>
+<col align="center" width="18%"></col>
+<col align="center" width="18%"></col>
+<col align="center" width="18%"></col>
+<col align="center" width="20%"></col>
+<tbody>
+<tr id="id_022a21b5-588b-4b87-b104-7216f4c7f47f" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Renal Impairment<br/> (no. of patients)</content>
+</td>
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Dose</content>
+</td>
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="bold">T<sub>max</sub>
+<br/> (h)</content>
+</td>
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="bold">C<sub>max</sub>
+<br/> (µg/mL)</content>
+</td>
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="bold">AUC(0-96h)<br/> (µg∙h/mL)</content>
+</td>
+</tr>
+<tr id="id_3dbf9c5f-d820-48a5-b058-6f790e903b39">
+<td align="left" stylecode="Lrule Rrule" valign="top">Healthy Volunteers<br/>GFR &gt;80 mL/min/1.73 m<sup>2</sup>
+<br/>(n=6)</td>
+<td align="left" stylecode="Rrule" valign="top">1 g</td>
+<td align="left" stylecode="Rrule" valign="top">0.75<br/>(±0.27)</td>
+<td align="left" stylecode="Rrule" valign="top">25.3<br/>(±7.99)</td>
+<td align="left" stylecode="Rrule" valign="top">45.0<br/>(±22.6)</td>
+</tr>
+<tr id="id_96d7045b-9a2b-418d-a59c-847b47f24a20">
+<td align="left" stylecode="Lrule Rrule" valign="top">Mild Renal Impairment<br/>GFR 50 to 80 mL/min/1.73 m<sup>2</sup>
+<br/>(n=6)</td>
+<td align="left" stylecode="Rrule" valign="top">1 g</td>
+<td align="left" stylecode="Rrule" valign="top">0.75<br/>(±0.27)</td>
+<td align="left" stylecode="Rrule" valign="top">26.0<br/>(±3.82)</td>
+<td align="left" stylecode="Rrule" valign="top">59.9<br/>(±12.9)</td>
+</tr>
+<tr id="id_89a85204-3021-4dbd-8d83-c8766e9adbab">
+<td align="left" stylecode="Lrule Rrule" valign="top">Moderate Renal Impairment<br/>GFR 25 to 49 mL/min/1.73 m<sup>2</sup>
+<br/>(n=6)</td>
+<td align="left" stylecode="Rrule" valign="top">1 g</td>
+<td align="left" stylecode="Rrule" valign="top">0.75<br/>(±0.27)</td>
+<td align="left" stylecode="Rrule" valign="top">19.0<br/>(±13.2)</td>
+<td align="left" stylecode="Rrule" valign="top">52.9<br/>(±25.5)</td>
+</tr>
+<tr id="id_b737e56a-3852-4e7e-8994-254d22190acf">
+<td align="left" stylecode="Lrule Rrule" valign="top">Severe Renal Impairment<br/>GFR &lt;25 mL/min/1.73 m<sup>2</sup>
+<br/>(n=7)</td>
+<td align="left" stylecode="Rrule" valign="top">1 g</td>
+<td align="left" stylecode="Rrule" valign="top">1.00<br/>(±0.41)</td>
+<td align="left" stylecode="Rrule" valign="top">16.3<br/>(±10.8)</td>
+<td align="left" stylecode="Rrule" valign="top">78.6<br/>(±46.4)</td>
+</tr>
+<tr id="id_f88f030b-b698-45a3-b730-3cbad5581742">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Hepatic Impairment<br/> (no. of patients)</content>
+</td>
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Dose</content>
+</td>
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="bold">T<sub>max</sub>
+<br/> (h)</content>
+</td>
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="bold">C<sub>max</sub>
+<br/> (µg/mL)</content>
+</td>
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="bold">AUC(0-48h)<br/> (µg∙h/mL)</content>
+</td>
+</tr>
+<tr id="id_123d059b-a94f-483e-b674-3f92a25bb286">
+<td align="left" stylecode="Lrule Rrule" valign="top">Healthy Volunteers<br/>(n=6)</td>
+<td align="left" stylecode="Rrule" valign="top">1 g</td>
+<td align="left" stylecode="Rrule" valign="top">0.63<br/>(±0.14)</td>
+<td align="left" stylecode="Rrule" valign="top">24.3<br/>(±5.73)</td>
+<td align="left" stylecode="Rrule" valign="top">29.0<br/>(±5.78)</td>
+</tr>
+<tr id="id_333838d5-7baa-4fa2-a111-f6f20a8d6e0c" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Alcoholic Cirrhosis<br/>(n=18)</td>
+<td align="left" stylecode="Rrule" valign="top">1 g</td>
+<td align="left" stylecode="Rrule" valign="top">0.85<br/>(±0.58)</td>
+<td align="left" stylecode="Rrule" valign="top">22.4<br/>(±10.1)</td>
+<td align="left" stylecode="Rrule" valign="top">29.8<br/>(±10.7)</td>
+</tr>
+</tbody>
+</table>

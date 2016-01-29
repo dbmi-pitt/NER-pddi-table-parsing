@@ -1,0 +1,218 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="22%"></col>
+<col width="27%"></col>
+<col width="19%"></col>
+<col width="22%"></col>
+<col width="26%"></col>
+<tbody>
+<tr>
+<td colspan="5" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Table 17. Effect of Co-administered Drug on Plasma Metformin Systemic Exposure</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Coadministered</content>
+<content stylecode="bold"> Drug</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Dose of </content>
+<content stylecode="bold">Coadministered</content>
+<content stylecode="bold"> Drug</content>
+<footnote id="_RefTABLE19A">All metformin and coadministered drugs were given as single doses</footnote>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Dose of Metformin</content>
+<footnoteref idref="_RefTABLE19A"></footnoteref>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Geometric Mean Ratio</content>
+<br/>
+<content stylecode="bold">(ratio with/without </content>
+<content stylecode="bold">coadministered</content>
+<content stylecode="bold"> drug)</content>
+<br/>No effect = 1</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">AUC</content>
+<footnote id="_RefTABLE19B">AUC = AUC<sub>0–∞</sub>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="5" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>No dosing adjustments required for the following:</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Glyburide</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>5 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>500 mg<footnote id="_RefTABLE19D">Metformin hydrochloride extended-release tablets, 500 mg</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>0.98<footnote id="_RefTABLE19C">Ratio of arithmetic means</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>0.99<footnoteref idref="_RefTABLE19C"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Furosemide</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>40 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>1.09<footnoteref idref="_RefTABLE19C"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.22<footnoteref idref="_RefTABLE19C"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Nifedipine</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>10 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>1.16</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.21</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Propranolol</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>40 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>0.90</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>0.94</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Ibuprofen</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>400 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>1.05<footnoteref idref="_RefTABLE19C"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.07<footnoteref idref="_RefTABLE19C"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="5" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see<content stylecode="bold">
+<linkhtml href="#i4i_warnings_precautions_ID_s5"> WARNINGS AND PRECAUTIONS (5) </linkhtml>
+</content>and<content stylecode="bold">
+<linkhtml href="#i4i_interactions_ID_s7"> DRUG INTERACTIONS (7)</linkhtml>].</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Cimetidine</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>400 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule " valign="top">
+<paragraph>1.40</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>1.61</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="5" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution <content stylecode="bold">[SEE</content>
+<content stylecode="bold">
+<content stylecode="italics">
+<linkhtml href="#i4i_warnings_precautions_ID_s5"> WARNINGS AND PRECAUTIONS (5) </linkhtml>
+</content>
+</content>and<content stylecode="bold">
+<linkhtml href="#i4i_interactions_ID_s7"> DRUG INTERACTIONS (7)</linkhtml>].</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>Topiramate</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>100 mg<footnote id="_RefTABLE19E">At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC<sub>0-12h</sub>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>500 mg<footnoteref idref="_RefTABLE19E"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule " valign="top">
+<paragraph>1.25<footnoteref idref="_RefTABLE19E"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>1.17</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

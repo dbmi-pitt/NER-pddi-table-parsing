@@ -1,0 +1,99 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 6 CLARITHROMYCIN SUSCEPTIBILITY TEST RESULTS AND CLINICAL/BACTERIOLOGIC OUTCOMES<footnote id="FOOT_5631">Includes only patients with pretreatment and post-treatment clarithromycin susceptibility test results.</footnote> FOR A THREE DRUG REGIMEN (RABEPRAZOLE 20 MG TWICE DAILY, AMOXICILLIN 1000 MG TWICE DAILY, AND CLARITHROMYCIN 500 MG TWICE DAILY FOR 7 OR 10 DAYS)</caption>
+<col width="16%"></col>
+<col width="16%"></col>
+<col width="12%"></col>
+<col width="16%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<col width="10%"></col>
+<thead>
+<tr>
+<th align="center" rowspan="2" stylecode="    Lrule          Rrule     "> Days of RAC Therapy</th>
+<th align="center" rowspan="2" stylecode="     Rrule     "> Clarithromycin Pretreatment Results</th>
+<th align="center" rowspan="2" stylecode="     Rrule     "> Total Number</th>
+<th align="center" rowspan="2" stylecode="     Rrule     ">
+<content stylecode="italics">H. pylori </content>Negative (Eradicated)</th>
+<th align="center" colspan="4" stylecode="     Rrule     ">
+<content stylecode="italics">H. pylori </content>Positive (Persistent)<br/>Post-Treatment Susceptibility Results</th>
+</tr>
+<tr>
+<th align="center" stylecode="     Rrule     " valign="top"> S <footnote id="FOOT_5632">Susceptible (S) MIC ≤ 0.25 µg/mL, Intermediate (I) MIC = 0.5 µg/mL, Resistant (R) MIC ≥ 1 µg/mL</footnote>
+</th>
+<th align="center" stylecode="     Rrule     " valign="top"> I <footnoteref idref="FOOT_5632"></footnoteref>
+</th>
+<th align="center" stylecode="     Rrule     " valign="top"> R <footnoteref idref="FOOT_5632"></footnoteref>
+</th>
+<th align="center" stylecode="     Rrule     " valign="top"> No MIC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> 7</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Susceptible <footnoteref idref="FOOT_5632"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 129</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 103</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 2</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 1</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 23</td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> 7</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Intermediate <footnoteref idref="FOOT_5632"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> 7</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Resistant <footnoteref idref="FOOT_5632"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 16</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 5</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 2</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 1</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 4</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 4</td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> 10</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Susceptible <footnoteref idref="FOOT_5632"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 133</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 111</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 3</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 1</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 2</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 16</td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> 10</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Intermediate <footnoteref idref="FOOT_5632"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     " valign="top"> 10</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Resistant <footnoteref idref="FOOT_5632"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 9</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 1</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 5</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 3</td>
+</tr>
+</tbody>
+</table>

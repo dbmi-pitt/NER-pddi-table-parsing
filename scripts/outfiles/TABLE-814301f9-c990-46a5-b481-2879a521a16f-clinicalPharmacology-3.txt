@@ -1,0 +1,592 @@
+<table id="table15" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 15: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Darunavir/Ritonavir</caption>
+<col align="left" valign="top" width="15%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="5%"></col>
+<col align="center" valign="top" width="5%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<col align="center" valign="top" width="10%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule" valign="bottom">Co-Administered Drug</th>
+<th colspan="2" stylecode="Rrule" valign="bottom">Dose/Schedule</th>
+<th rowspan="2" stylecode="Rrule" valign="bottom">N</th>
+<th rowspan="2" stylecode="Rrule" valign="bottom">PK</th>
+<th colspan="3" stylecode="Rrule" valign="bottom">LS Mean Ratio (90% CI) of <content stylecode="underline">Co-Administered Drug</content> Pharmacokinetic Parameters With/Without Darunavir<br/>No effect =1.00</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule" valign="bottom">Co-Administered Drug</th>
+<th stylecode="Rrule" valign="bottom">Darunavir/ritonavir</th>
+<th stylecode="Rrule" valign="bottom">C<sub>max</sub>
+</th>
+<th stylecode="Rrule" valign="bottom">AUC</th>
+<th stylecode="Rrule" valign="bottom">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="8">N = number of subjects with data;- = no information available</td>
+</tr>
+<tr>
+<td align="left" colspan="8">A cocktail study was conducted in 12 healthy volunteers to evaluate the effect of steady state pharmacokinetics of darunavir/ritonavir on the activity of CYP2D6 (using dextromethorphan as probe substrate), CYP2C9 (using warfarin as probe substrate), and CYP2C19 (using omeprazole as probe substrate). The pharmacokinetic results are shown in Table 15.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="8" stylecode="Lrule Rrule">
+<content stylecode="bold">Co-Administration With Other HIV Protease Inhibitors</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Atazanavir</td>
+<td stylecode="Rrule">300 mg q.d.<footnote>q.d. = once daily</footnote> /100 mg ritonavir q.d. when administered alone</td>
+<td stylecode="Rrule">400/100 mg b.i.d. <footnote>b.i.d. = twice daily</footnote>
+</td>
+<td stylecode="Rrule">13</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">0.89<br/>(0.78–1.01)</td>
+<td stylecode="Rrule">1.08<br/>(0.94–1.24)</td>
+<td stylecode="Rrule">1.52<br/>(0.99–2.34)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">300 mg q.d. when administered with darunavir/ritonavir</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Indinavir</td>
+<td stylecode="Rrule">800 mg b.i.d. /100 mg ritonavir b.i.d. when administered alone</td>
+<td stylecode="Rrule">400/100 mg b.i.d.</td>
+<td stylecode="Rrule">9</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.08<br/>(0.95–1.22)</td>
+<td stylecode="Rrule">1.23<br/>(1.06–1.42)</td>
+<td stylecode="Rrule">2.25<br/>(1.63–3.10)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">800 mg b.i.d. when administered with darunavir/<br/> ritonavir<br/>
+</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Lopinavir/Ritonavir</td>
+<td stylecode="Rrule">400/100 mg b.i.d.<footnote id="t15ft3">The pharmacokinetic parameters of lopinavir in this study were compared with the pharmacokinetic parameters following administration of lopinavir/ritonavir 400/100 mg b.i.d.</footnote>
+</td>
+<td stylecode="Rrule">1200/100 mg b.i.d.</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">0.98<br/>(0.78–1.22)</td>
+<td stylecode="Rrule">1.09<br/>(0.86–1.37)</td>
+<td stylecode="Rrule">1.23<br/>(0.90–1.69)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">533/133.3 mg b.i.d.<footnoteref idref="t15ft3"></footnoteref>
+</td>
+<td stylecode="Rrule">1200 mg b.i.d.</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">1.11<br/>(0.96–1.30)</td>
+<td stylecode="Rrule">1.09<br/>(0.96–1.24)</td>
+<td stylecode="Rrule">1.13<br/>(0.90–1.42)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Saquinavir hard gel capsule</td>
+<td stylecode="Rrule">1000 mg b.i.d. /100 mg ritonavir b.i.d. when administered alone</td>
+<td stylecode="Rrule">400/100 mg b.i.d.</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">0.94<br/>(0.78–1.13)</td>
+<td stylecode="Rrule">0.94<br/>(0.76–1.17)</td>
+<td stylecode="Rrule">0.82<br/>(0.52–1.30)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">1000 mg b.i.d. when administered with darunavir/ritonavir</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="8" stylecode="Lrule Rrule">
+<content stylecode="bold">Co-Administration With Other HIV Antiretrovirals</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Didanosine</td>
+<td stylecode="Rrule">400 mg q.d.</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">17</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">0.84<br/>(0.59–1.20)</td>
+<td stylecode="Rrule">0.91<br/>(0.75–1.10)</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Dolutegravir</td>
+<td stylecode="Rrule">30 mg q.d</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.89<br/>(0.83–0.97)</td>
+<td stylecode="Rrule">0.78<br/>(0.72–0.85)</td>
+<td stylecode="Rrule">0.62<footnote id="t15f9">Noted as C<sub>τ</sub> or C<sub>24</sub> in the dolutegravir U.S. prescribing information</footnote>
+<br/>(0.56–0.69)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Dolutegravir</td>
+<td stylecode="Rrule">50 mg q.d.</td>
+<td stylecode="Rrule">600/100 mg b.i.d. with 200 mg b.i.d. etravirine</td>
+<td stylecode="Rrule">9</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule" valign="middle">0.88<br/>(0.78–1.00)</td>
+<td stylecode="Rrule" valign="middle">0.75<br/>(0.69–0.81)</td>
+<td stylecode="Rrule" valign="middle">0.63 <footnoteref idref="t15f9"></footnoteref>
+<br/>(0.52–0.76)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Efavirenz</td>
+<td stylecode="Rrule">600 mg q.d.</td>
+<td stylecode="Rrule">300/100 mg b.i.d.</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.15<br/>(0.97–1.35)</td>
+<td stylecode="Rrule">1.21<br/>(1.08–1.36)</td>
+<td stylecode="Rrule">1.17<br/>(1.01–1.36)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Etravirine</td>
+<td stylecode="Rrule">100 mg b.i.d.</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.68<br/>(0.57–0.82)</td>
+<td stylecode="Rrule">0.63<br/>(0.54–0.73)</td>
+<td stylecode="Rrule">0.51<br/>(0.44–0.61)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Nevirapine</td>
+<td stylecode="Rrule">200 mg b.i.d.</td>
+<td stylecode="Rrule">400/100 mg b.i.d.</td>
+<td stylecode="Rrule">8</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.18<br/>(1.02–1.37)</td>
+<td stylecode="Rrule">1.27<br/>(1.12–1.44)</td>
+<td stylecode="Rrule">1.47<br/>(1.20–1.82)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rilpivirine</td>
+<td stylecode="Rrule">150 mg q.d.</td>
+<td stylecode="Rrule">800/100 mg q.d.</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.79 <br/>(1.56–2.06)</td>
+<td stylecode="Rrule">2.30 <br/>(1.98–2.67)</td>
+<td stylecode="Rrule">2.78 <br/>(2.39–3.24)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Tenofovir Disoproxil Fumarate</td>
+<td stylecode="Rrule">300 mg q.d.</td>
+<td stylecode="Rrule">300/100 mg b.i.d.</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.24<br/>(1.08–1.42)</td>
+<td stylecode="Rrule">1.22<br/>(1.10–1.35)</td>
+<td stylecode="Rrule">1.37<br/>(1.19–1.57)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Maraviroc</td>
+<td stylecode="Rrule">150 mg b.i.d.</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">2.29<br/>(1.46–3.59)</td>
+<td stylecode="Rrule">4.05<br/>(2.94–5.59)</td>
+<td stylecode="Rrule">8.00<br/>(6.35–10.1)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Maraviroc</td>
+<td stylecode="Rrule">150 mg b.i.d.</td>
+<td stylecode="Rrule">600/100 mg b.i.d. with 200 mg b.i.d. etravirine</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.77<br/>(1.20–2.60)</td>
+<td stylecode="Rrule">3.10<br/>(2.57–3.74)</td>
+<td stylecode="Rrule">5.27<br/>(4.51–6.15)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="8" stylecode="Lrule Rrule">
+<content stylecode="bold">Co-Administration With HCV NS3-4A Protease Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Boceprevir</td>
+<td stylecode="Rrule">800 mg three times daily</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">12<footnote>N=11 for the test arm</footnote>
+</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.75<br/>(0.67–0.85)</td>
+<td stylecode="Rrule">0.68<br/>(0.65–0.72)</td>
+<td stylecode="Rrule">0.65<br/>(0.56–0.76)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Telaprevir</td>
+<td stylecode="Rrule">750 mg every 8 hours</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">11<footnote>N=14 for C<sub>max</sub>
+</footnote>
+</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.64 <br/>(0.61–0.67)</td>
+<td stylecode="Rrule">0.65 <br/>(0.61–0.69)</td>
+<td stylecode="Rrule">0.68 <br/>(0.63–0.74)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Simeprevir</td>
+<td stylecode="Rrule">50 mg q.d. <footnote>The dose of simeprevir in this interaction study was 50 mg when co-administered in combination with darunavir/ritonavir compared to 150 mg once daily in the simeprevir alone treatment group.</footnote>
+</td>
+<td stylecode="Rrule">800/100 mg q.d.</td>
+<td stylecode="Rrule">25<footnote>Maximum number of subjects</footnote>
+</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.79 <br/>(1.55–2.06)</td>
+<td stylecode="Rrule">2.59 <br/>(2.15–3.11)</td>
+<td stylecode="Rrule">4.58 <br/>(3.54–5.92)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="8" stylecode="Lrule Rrule">
+<content stylecode="bold">Co-Administration With Other Drugs</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Atorvastatin</td>
+<td stylecode="Rrule">40 mg q.d. when administered alone</td>
+<td stylecode="Rrule">300/100 mg b.i.d.</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">0.56<br/>(0.48–0.67)</td>
+<td stylecode="Rrule">0.85<br/>(0.76–0.97)</td>
+<td stylecode="Rrule">1.81<br/>(1.37–2.40)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">10 mg q.d. when administered with darunavir/ritonavir</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Artemether</td>
+<td stylecode="Rrule">80 mg single dose</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule Botrule">15</td>
+<td stylecode="Rrule Botrule">↓</td>
+<td stylecode="Rrule Botrule">0.85<br/>(0.68–1.05)</td>
+<td stylecode="Rrule Botrule">0.91<br/>(0.78–1.06)</td>
+<td stylecode="Rrule Botrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Dihydroartemisinin</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.06<br/>(0.82–1.39)</td>
+<td stylecode="Rrule">1.12<br/>(0.96–1.30)</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Artemether</td>
+<td rowspan="3" stylecode="Rrule Botrule">Artemether/lumefantrine  80/480 mg (6 doses at 0, 8, 24, 36, 48, and 60 hours)</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule Botrule">15</td>
+<td stylecode="Rrule Botrule">↓</td>
+<td stylecode="Rrule Botrule">0.82<br/>(0.61–1.11)</td>
+<td stylecode="Rrule Botrule">0.84<br/>(0.69–1.02)</td>
+<td stylecode="Rrule Botrule">0.97<br/>(0.90–1.05)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Dihydroartemisinin</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule Botrule">15</td>
+<td stylecode="Rrule Botrule">↓</td>
+<td stylecode="Rrule Botrule">0.82<br/>(0.66–1.01)</td>
+<td stylecode="Rrule Botrule">0.82<br/>(0.74–0.91)</td>
+<td stylecode="Rrule Botrule">1.00<br/>(0.82–1.22)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Lumefantrine</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.65<br/>(1.49–1.83)</td>
+<td stylecode="Rrule">2.75<br/>(2.46–3.08)</td>
+<td stylecode="Rrule">2.26<br/>(1.92–2.67)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Buprenorphine/ Naloxone</td>
+<td stylecode="Rrule">8/2 mg to 16/4 mg q.d.</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">17</td>
+<td stylecode="Rrule">↔</td>
+<td stylecode="Rrule">0.92 <footnote id="t15-ft">ratio is for buprenorphine; mean C<sub>max</sub> and AUC<sub>24</sub> for naloxone were comparable when buprenorphine/naloxone was administered with or without PREZISTA/ritonavir</footnote>
+<br/>(0.79–1.08)</td>
+<td stylecode="Rrule">0.89 <footnoteref idref="t15-ft"></footnoteref>
+<br/>(0.78–1.02)</td>
+<td stylecode="Rrule">0.98 <footnoteref idref="t15-ft"></footnoteref>
+<br/>(0.82–1.16)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Norbuprenorphine</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">17</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.36<br/>(1.06–1.74)</td>
+<td stylecode="Rrule">1.46<br/>(1.15–1.85)</td>
+<td stylecode="Rrule">1.71<br/>(1.29–2.27)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Carbamazepine</td>
+<td stylecode="Rrule">200 mg b.i.d.</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.43<br/>(1.34–1.53)</td>
+<td stylecode="Rrule">1.45<br/>(1.35–1.57)</td>
+<td stylecode="Rrule">1.54<br/>(1.41–1.68)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Carbamazepine epoxide</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.46<br/>(0.43–0.49)</td>
+<td stylecode="Rrule">0.46<br/>(0.44–0.49)</td>
+<td stylecode="Rrule">0.48<br/>(0.45–0.51)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clarithromycin</td>
+<td stylecode="Rrule">500 mg b.i.d.</td>
+<td stylecode="Rrule">400/100 mg b.i.d.</td>
+<td stylecode="Rrule">17</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.26<br/>(1.03–1.54)</td>
+<td stylecode="Rrule">1.57<br/>(1.35–1.84)</td>
+<td stylecode="Rrule">2.74<br/>(2.30–3.26)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Dextromethorphan</td>
+<td stylecode="Rrule">30 mg</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">2.27<br/>(1.59–3.26)</td>
+<td stylecode="Rrule">2.70<br/>(1.80–4.05)</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Dextrorphan</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.87<br/>(0.77–0.98)</td>
+<td stylecode="Rrule">0.96<br/>(0.90–1.03)</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Digoxin</td>
+<td stylecode="Rrule">0.4 mg</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">8</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.15<br/> (0.89–1.48)</td>
+<td stylecode="Rrule">1.36<br/> (0.81–2.27)</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Ethinyl estradiol (EE)</td>
+<td stylecode="Rrule">Ortho-Novum 1/35<br/>(35 µg EE / 1 mg NE)</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.68<br/>(0.61–0.74)</td>
+<td stylecode="Rrule">0.56<br/>(0.50–0.63)</td>
+<td stylecode="Rrule">0.38<br/>(0.27–0.54)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Norethindrone (NE)</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.90<br/>(0.83–0.97)</td>
+<td stylecode="Rrule">0.86<br/>(0.75–0.98)</td>
+<td stylecode="Rrule">0.70<br/>(0.51–0.97)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ketoconazole</td>
+<td stylecode="Rrule">200 mg b.i.d.</td>
+<td stylecode="Rrule">400/100 mg b.i.d.</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">2.11<br/>(1.81–2.44)</td>
+<td stylecode="Rrule">3.12<br/>(2.65–3.68)</td>
+<td stylecode="Rrule">9.68<br/>(6.44–14.55)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">R-Methadone</td>
+<td stylecode="Rrule">55–150 mg q.d.</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.76<br/>(0.71–0.81)</td>
+<td stylecode="Rrule">0.84<br/>(0.78–0.91)</td>
+<td stylecode="Rrule">0.85<br/>(0.77–0.94)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Omeprazole</td>
+<td stylecode="Rrule">40 mg single dose</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.66<br/>(0.48–0.90)</td>
+<td stylecode="Rrule">0.58<br/>(0.50–0.66)</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">5-hydroxy omeprazole</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.93<br/>(0.71–1.21)</td>
+<td stylecode="Rrule">0.84<br/>(0.77–0.92)</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Paroxetine</td>
+<td stylecode="Rrule">20 mg q.d.</td>
+<td stylecode="Rrule">400/100 mg b.i.d.</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.64<br/>(0.59–0.71)</td>
+<td stylecode="Rrule">0.61<br/>(0.56–0.66)</td>
+<td stylecode="Rrule">0.63<br/>(0.55–0.73)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Pitavastatin</td>
+<td stylecode="Rrule">4 mg q.d.</td>
+<td stylecode="Rrule">800/100 mg q.d.</td>
+<td stylecode="Rrule">27</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.96<br/>(0.84–1.09)</td>
+<td stylecode="Rrule">0.74<br/>(0.69–0.80)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Pravastatin</td>
+<td stylecode="Rrule">40 mg single dose</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.63<br/>(0.95–2.82)</td>
+<td stylecode="Rrule">1.81<br/>(1.23–2.66)</td>
+<td stylecode="Rrule" valign="middle">-</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Rifabutin</td>
+<td stylecode="Rrule">150 mg q.o.d. <footnote>q.o.d. = every other day</footnote> when administered with PREZISTA/ritonavir</td>
+<td stylecode="Rrule">600/100 mg b.i.d. <footnote>In comparison to rifabutin 300 mg q.d.</footnote>
+</td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">0.72<br/>(0.55–0.93)</td>
+<td stylecode="Rrule">0.93<br/>(0.80–1.09)</td>
+<td stylecode="Rrule">1.64<br/>(1.48–1.81)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">25-<content stylecode="italics">O</content>-desacetyl-rifabutin</td>
+<td stylecode="Rrule" valign="bottom">300 mg q.d. when administered alone</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">11</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">4.77<br/>(4.04–5.63)</td>
+<td stylecode="Rrule">9.81<br/>(8.09–11.9)</td>
+<td stylecode="Rrule">27.1<br/>(22.2–33.2)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Sertraline</td>
+<td stylecode="Rrule">50 mg q.d.</td>
+<td stylecode="Rrule">400/100 mg b.i.d.</td>
+<td stylecode="Rrule">13</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.56<br/> (0.49–0.63)</td>
+<td stylecode="Rrule">0.51<br/> (0.46–0.58)</td>
+<td stylecode="Rrule">0.51<br/> (0.45–0.57)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Sildenafil</td>
+<td stylecode="Rrule">100 mg (single dose) administered alone</td>
+<td stylecode="Rrule">400/100 mg b.i.d.</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">0.62<br/>(0.55–0.70)</td>
+<td stylecode="Rrule">0.97<br/>(0.86–1.09)</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule">25 mg (single dose) when administered with darunavir/ritonavir</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">S-warfarin</td>
+<td stylecode="Rrule">10 mg single dose</td>
+<td stylecode="Rrule">600/100 mg b.i.d.</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↓</td>
+<td stylecode="Rrule">0.92<br/>(0.86–0.97)</td>
+<td stylecode="Rrule">0.79<br/>(0.73–0.85)</td>
+<td stylecode="Rrule">-</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">7-OH-S-warfarin</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">1.42<br/>(1.24–1.63)</td>
+<td stylecode="Rrule">1.23<br/>(0.97–1.57)</td>
+<td stylecode="Rrule">-</td>
+</tr>
+</tbody>
+</table>

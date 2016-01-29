@@ -1,0 +1,165 @@
+<table id="table6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Rilpivirine in the Presence of the Coadministered Drugs</caption>
+<col align="left" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="20%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="4%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<thead>
+<tr>
+<th align="center" rowspan="2" stylecode="Lrule Rrule">Coadministered Drug</th>
+<th rowspan="2" stylecode="Rrule">Dose of Coadministered Drug (mg)</th>
+<th rowspan="2" stylecode="Rrule">Dose of Rilpivirine</th>
+<th rowspan="2" stylecode="Rrule">N</th>
+<th colspan="3" stylecode="Botrule Rrule">Mean % Change of Rilpivirine Pharmacokinetic Parameters
+                                                <br/>(90% CI)</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">C<sub>max</sub>
+</th>
+<th stylecode="Rrule">AUC</th>
+<th stylecode="Rrule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">NA = not available</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Acetaminophen</td>
+<td stylecode="Rrule">500 mg single dose</td>
+<td stylecode="Rrule">150 mg once daily<footnote id="table6b">The Interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug.</footnote>
+</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑ 9<br/>(↑ 1 to ↑ 18)</td>
+<td stylecode="Rrule">↑ 16<br/>(↑ 10 to ↑ 22)</td>
+<td stylecode="Rrule">↑ 26<br/>(↑ 16 to ↑ 38)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Atorvastatin</td>
+<td stylecode="Rrule">40 mg once daily</td>
+<td stylecode="Rrule">150 mg once daily<footnoteref idref="table6b"></footnoteref>
+</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↓ 9<br/>(↓ 21 to↑ 6)</td>
+<td stylecode="Rrule">↓ 10<br/>(↓ 19 to ↓ 1)</td>
+<td stylecode="Rrule">↓ 10<br/>(↓ 16 to ↓ 4)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Chlorzoxazone</td>
+<td stylecode="Rrule">500 mg single dose</td>
+<td stylecode="Rrule">150 mg once daily<footnoteref idref="table6b"></footnoteref>
+</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↑ 17<br/>(↑ 8 to ↑ 27)</td>
+<td stylecode="Rrule">↑ 25<br/>(↑ 16 to ↑ 35)</td>
+<td stylecode="Rrule">↑ 18<br/>(↑ 9 to ↑ 28)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ethinyl estradiol/ Norethindrone</td>
+<td stylecode="Rrule">0.035 mg once daily/1 mg once daily	</td>
+<td stylecode="Rrule">25 mg once daily</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↔<footnoteref idref="table6c"></footnoteref>
+</td>
+<td stylecode="Rrule">↔<footnoteref idref="table6c"></footnoteref>
+</td>
+<td stylecode="Rrule">↔<footnoteref idref="table6c"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="3" stylecode="Lrule Rrule">Famotidine</td>
+<td stylecode="Rrule">40 mg single dose taken 12 hours before rilpivirine</td>
+<td stylecode="Rrule">150 mg single dose<footnoteref idref="table6b"></footnoteref>
+</td>
+<td stylecode="Rrule">24</td>
+<td stylecode="Rrule">↓ 1<br/>(↓ 16 to↑ 16)</td>
+<td stylecode="Rrule">↓ 9<br/>(↓ 22 to↑ 7)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule">40 mg single dose taken 2 hours before rilpivirine</td>
+<td stylecode="Rrule">150 mg single dose<footnoteref idref="table6b"></footnoteref>
+</td>
+<td stylecode="Rrule">23</td>
+<td stylecode="Rrule">↓ 85<br/>(↓ 88 to ↓ 81)</td>
+<td stylecode="Rrule">↓ 76<br/>(↓ 80 to ↓ 72)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule">40 mg single dose taken 4 hours after rilpivirine</td>
+<td stylecode="Rrule">150 mg single dose<footnoteref idref="table6b"></footnoteref>
+</td>
+<td stylecode="Rrule">24</td>
+<td stylecode="Rrule">↑ 21<br/>(↑ 6 to↑ 39)</td>
+<td stylecode="Rrule">↑ 13<br/>(↑ 1 to↑ 27)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ketoconazole</td>
+<td stylecode="Rrule">400 mg once daily</td>
+<td stylecode="Rrule">150 mg once daily<footnoteref idref="table6b"></footnoteref>
+</td>
+<td stylecode="Rrule">15</td>
+<td stylecode="Rrule">↑ 30<br/>(↑ 13 to ↑ 48)</td>
+<td stylecode="Rrule">↑ 49<br/>(↑ 31 to ↑ 70)</td>
+<td stylecode="Rrule">↑ 76<br/>(↑ 57 to ↑ 97)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Methadone</td>
+<td stylecode="Rrule">60 –100 mg once daily individualized dose</td>
+<td stylecode="Rrule">25 mg  once daily</td>
+<td stylecode="Rrule">12</td>
+<td stylecode="Rrule">↔<footnote id="table6c">Comparison based on historic controls.</footnote>
+</td>
+<td stylecode="Rrule">↔<footnoteref idref="table6c"></footnoteref>
+</td>
+<td stylecode="Rrule">↔<footnoteref idref="table6c"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Omeprazole</td>
+<td stylecode="Rrule">20 mg once daily</td>
+<td stylecode="Rrule">150 mg once daily<footnoteref idref="table6b"></footnoteref>
+</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↓ 40<br/>(↓ 52 to ↓ 27)</td>
+<td stylecode="Rrule">↓ 40<br/>(↓ 49 to ↓ 29)</td>
+<td stylecode="Rrule">↓ 33<br/>(↓ 42 to ↓ 22)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifabutin</td>
+<td stylecode="Rrule">300 mg once daily</td>
+<td stylecode="Rrule">150 mg once daily<footnoteref idref="table6b"></footnoteref>
+</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↓ 35<br/>(↓ 42 to ↓ 26)</td>
+<td stylecode="Rrule">↓ 46<br/>(↓ 50 to ↓ 42)</td>
+<td stylecode="Rrule">↓ 49<br/>(↓ 52 to ↓ 46)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifampin</td>
+<td stylecode="Rrule">600 mg once daily</td>
+<td stylecode="Rrule">150 mg once daily<footnoteref idref="table6b"></footnoteref>
+</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↓ 69<br/>(↓ 73 to ↓ 64)</td>
+<td stylecode="Rrule">↓ 80<br/>(↓ 82 to ↓ 77)</td>
+<td stylecode="Rrule">↓ 89<br/>(↓ 90 to ↓ 87)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Sildenafil</td>
+<td stylecode="Rrule">50 mg single dose</td>
+<td stylecode="Rrule">75 mg  once daily</td>
+<td stylecode="Rrule">16</td>
+<td stylecode="Rrule">↓ 8<br/>(↓ 15 to ↓ 1)</td>
+<td stylecode="Rrule">↓ 2<br/>(↓ 8 to ↑ 5)</td>
+<td stylecode="Rrule">↑ 4<br/>(↓ 2 to ↑ 9)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,64 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1 Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to 16 Following Multiple Dosing</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> </td>
+<td align="center" colspan="2" stylecode="     Toprule         Lrule          Rrule     "> Adults given 50 mg once daily for 7 days<br/>N=12</td>
+<td align="center" colspan="2" stylecode="     Toprule         Lrule          Rrule     "> Age 6 to 16 given 0.7 mg/kg once daily for 7 days<br/>N=25</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> </td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Parent</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Active Metabolite</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Parent</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Active Metabolite</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> AUC<sub>0-24</sub>
+<footnote id="FOOT_1918">Mean ± standard deviation</footnote>(ng•h/mL)</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 442 ± 173</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 1685 ± 452</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 368 ± 169</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 1866 ± 1076</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> C<sub>MAX</sub> (ng/mL)<footnoteref idref="FOOT_1918"></footnoteref>
+</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 224 ± 82</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 212 ± 73</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 141 ± 88</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 222 ± 127</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> T<sub>1/2</sub> (h)<footnote id="FOOT_1919">Harmonic mean and standard deviation</footnote>
+</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 2.1 ± 0.70</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 7.4 ± 2.4</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 2.3 ± 0.8</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 5.6 ± 1.2</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> T<sub>PEAK</sub> (h)<footnote id="FOOT_1920">Median</footnote>
+</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 0.9</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 3.5</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 2.0</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> 4.1</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> CL<sub>REN</sub> (mL/min)<footnoteref idref="FOOT_1918"></footnoteref>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 56 ± 23</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 20 ± 3</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 53 ± 33</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 17 ± 8</td>
+</tr>
+</tbody>
+</table>

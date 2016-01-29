@@ -1,0 +1,182 @@
+<table id="_RefID0E5HAE" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Mean Changes in ECG Intervals<footnote id="_RefID0ECIAE">Change and percent change based on mean baseline values for each treatment group.</footnote>
+</caption>
+<col width="11%"></col>
+<col width="9%"></col>
+<col width="8%"></col>
+<col width="9%"></col>
+<col width="8%"></col>
+<col width="9%"></col>
+<col width="8%"></col>
+<col width="9%"></col>
+<col width="8%"></col>
+<thead>
+<tr>
+<th align="center" colspan="9" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Total Daily Dose (mg)</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Lrule Botrule " valign="top"></th>
+<th align="left" colspan="2" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">337.5 mg</content>
+</th>
+<th align="left" colspan="2" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">450 mg</content>
+</th>
+<th align="left" colspan="2" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">675 mg</content>
+</th>
+<th align="left" colspan="2" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">900 mg</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">Interval</content>
+</th>
+<th align="left" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">msec</content>
+</th>
+<th align="left" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">%</content>
+</th>
+<th align="left" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">msec</content>
+</th>
+<th align="left" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">%</content>
+</th>
+<th align="left" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">msec</content>
+</th>
+<th align="left" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">%</content>
+</th>
+<th align="left" stylecode="Lrule Botrule " valign="top">
+<content stylecode="bold">msec</content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">%</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>RR</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>−14.5</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>−1.8</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>30.6</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>3.8</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>31.5</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>3.9</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>41.7</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>5.1</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>PR</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>3.6</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>2.1</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>19.1</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>11.6</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>28.9</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>17.8</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>35.6</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>21.9</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>QRS</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>5.6</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>6.4</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>5.5</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>6.1</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>7.7</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>8.4</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>15.6</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>17.3</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>QTc</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>2.7</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>0.7</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>−7.5</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>−1.8</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>5.0</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>1.2</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>14.7</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>3.7</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

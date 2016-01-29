@@ -1,0 +1,25 @@
+<table border="none" id="id_4ef16013-0a2e-4b25-bea8-fe92e35d8801" width="331" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_b41e2aab-814c-4a30-9970-cb2408568a4a"></caption>
+<col width="59.3%"></col>
+<col width="40.8%"></col>
+<tbody>
+<tr id="id_71643a48-c015-4b25-9c1e-3797dbc52529" stylecode="Toprule">
+<td align="center" valign="middle">
+<content stylecode="underline">Organism</content>
+</td>
+<td align="center" valign="middle">
+<content stylecode="underline">MIC</content>
+<content stylecode="underline">(mcg/mL</content>)</td>
+</tr>
+<tr id="id_7b23ceec-971a-4a59-b75c-59f874314d9f">
+<td align="center" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 29213</td>
+<td align="center" valign="middle">0.5-2</td>
+</tr>
+<tr id="id_68832e33-4927-4f3e-8a68-951ecb13609a" stylecode="Botrule">
+<td align="center" valign="middle">
+<content stylecode="italics">Escherichia coli</content> ATCC 25922</td>
+<td align="center" valign="middle">2-8</td>
+</tr>
+</tbody>
+</table>

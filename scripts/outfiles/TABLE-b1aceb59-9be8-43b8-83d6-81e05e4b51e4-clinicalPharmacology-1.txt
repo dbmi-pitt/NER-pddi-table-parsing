@@ -1,0 +1,217 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. North American Study</caption>
+<col align="left" valign="bottom" width="46%"></col>
+<col align="center" valign="bottom" width="18%"></col>
+<col align="center" valign="bottom" width="18%"></col>
+<col align="center" valign="bottom" width="18%"></col>
+<thead>
+<tr>
+<th align="center" colspan="4">Primary Measure from Home Diary (for a 24-hour Diary Day)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td stylecode="botrule">Baseline</td>
+<td stylecode="botrule">Change from Baseline at Month 6<footnote id="ft1">Mean; the month 6 values represent the average of weeks 8, 16, and 24, by protocol-defined outcome measure, except for Investigator's and Patient's Global Improvement.</footnote>
+</td>
+<td stylecode="botrule">p-value vs. placebo</td>
+</tr>
+<tr>
+<td colspan="4">
+<content stylecode="bold">Percent of Awake Time "On"</content>
+</td>
+</tr>
+<tr>
+<td>  Placebo</td>
+<td>60.8</td>
+<td>+2.0</td>
+<td>–</td>
+</tr>
+<tr stylecode="botrule">
+<td>  Comtan</td>
+<td>60.0</td>
+<td>+6.7</td>
+<td>less than 0.05</td>
+</tr>
+<tr stylecode="botrule">
+<td align="center" colspan="4">
+<content stylecode="bold">Secondary Measures from Home Diary (for a 24-hour Diary Day)</content>
+<footnote id="t2f5">P values for Secondary Measures and Other Secondary Measures are nominal P values without any adjustment for multiplicity.</footnote>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<content stylecode="bold">Hours of Awake Time "Off"</content>
+</td>
+</tr>
+<tr>
+<td>  Placebo</td>
+<td>6.6</td>
+<td>- 0.3</td>
+<td>–</td>
+</tr>
+<tr>
+<td>  Comtan</td>
+<td>6.8</td>
+<td>- 1.2</td>
+<td>less than 0.01</td>
+</tr>
+<tr>
+<td colspan="4">
+<content stylecode="bold">Hours of Awake Time "On"</content>
+</td>
+</tr>
+<tr>
+<td>  Placebo</td>
+<td>10.3</td>
+<td>+ 0.4</td>
+<td>–</td>
+</tr>
+<tr>
+<td>  Comtan</td>
+<td>10.2</td>
+<td>+ 1.0</td>
+<td>N.S.<footnote id="table2d">Not significant.</footnote>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<content stylecode="bold">Levodopa Total Daily Dose (mg)</content>
+</td>
+</tr>
+<tr>
+<td>  Placebo</td>
+<td>758</td>
+<td>+ 19</td>
+<td>–</td>
+</tr>
+<tr>
+<td>  Comtan</td>
+<td>804</td>
+<td>- 93</td>
+<td>less than 0.001</td>
+</tr>
+<tr>
+<td colspan="4">
+<content stylecode="bold">Frequency of Levodopa Daily Intakes</content>
+</td>
+</tr>
+<tr>
+<td>  Placebo</td>
+<td>6.0</td>
+<td>+ 0.2</td>
+<td>–</td>
+</tr>
+<tr stylecode="botrule">
+<td>  Comtan</td>
+<td>6.2</td>
+<td>0.0</td>
+<td>N.S.<footnoteref idref="table2d"></footnoteref>
+</td>
+</tr>
+<tr stylecode="botrule">
+<td align="center" colspan="4">
+<content stylecode="bold">Other Secondary Measures</content>
+<footnoteref idref="t2f5"></footnoteref>
+</td>
+</tr>
+<tr>
+<td></td>
+<td stylecode="botrule">Baseline</td>
+<td stylecode="botrule">Change from Baseline at Month 6<footnoteref idref="ft1"></footnoteref>
+</td>
+<td stylecode="botrule">p-value vs. placebo</td>
+</tr>
+<tr>
+<td colspan="4">
+<content stylecode="bold">Investigator's Global (overall) % Improved<footnote id="table2b">At least one category change at endpoint.</footnote>
+</content>
+</td>
+</tr>
+<tr>
+<td>  Placebo</td>
+<td>–</td>
+<td>21</td>
+<td>–</td>
+</tr>
+<tr>
+<td>  Comtan</td>
+<td>–</td>
+<td>34</td>
+<td>less than 0.05</td>
+</tr>
+<tr>
+<td colspan="4">
+<content stylecode="bold">Patient's Global (overall) % Improved<footnoteref idref="table2b"></footnoteref>
+</content>
+</td>
+</tr>
+<tr>
+<td>  Placebo</td>
+<td>–</td>
+<td>20</td>
+<td>–</td>
+</tr>
+<tr>
+<td>  Comtan</td>
+<td>–</td>
+<td>31</td>
+<td>less than 0.05</td>
+</tr>
+<tr>
+<td colspan="4">
+<content stylecode="bold">UPDRS Total<footnote id="table2c">Score change at endpoint similarly to the Nordic Study.</footnote>
+</content>
+</td>
+</tr>
+<tr>
+<td>  Placebo</td>
+<td>35.6</td>
+<td>+2.8</td>
+<td>–</td>
+</tr>
+<tr>
+<td>  Comtan</td>
+<td>35.1</td>
+<td>-0.6</td>
+<td>less than 0.05</td>
+</tr>
+<tr>
+<td colspan="4">
+<content stylecode="bold">UPDRS Motor<footnoteref idref="table2c"></footnoteref>
+</content>
+</td>
+</tr>
+<tr>
+<td>  Placebo</td>
+<td>22.6</td>
+<td>+1.2</td>
+<td>–</td>
+</tr>
+<tr>
+<td>  Comtan</td>
+<td>22.0</td>
+<td>-0.9</td>
+<td>less than 0.05</td>
+</tr>
+<tr>
+<td colspan="4">
+<content stylecode="bold">UPDRS ADL<footnoteref idref="table2c"></footnoteref>
+</content>
+</td>
+</tr>
+<tr>
+<td>  Placebo</td>
+<td>11.7</td>
+<td>+1.1</td>
+<td>–</td>
+</tr>
+<tr>
+<td>  Comtan</td>
+<td>11.9</td>
+<td>0.0</td>
+<td>less than 0.05</td>
+</tr>
+</tbody>
+</table>

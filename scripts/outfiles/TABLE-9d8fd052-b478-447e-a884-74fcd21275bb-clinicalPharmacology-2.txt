@@ -1,0 +1,161 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="13%"></col>
+<col width="18%"></col>
+<col width="13%"></col>
+<col width="21%"></col>
+<col width="17%"></col>
+<col width="18%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="6" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Mean Changes in Blood Pressure from Baseline to Final Visit in all Double-Blind Placebo-Controlled Studies</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td align="center" colspan="2" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Normotensive Patients </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">DBP ≤ 90mmHg</content>
+</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Hypertensive Patients </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="underline">DBP &gt; 90mmHg</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule "></td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Group</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>N</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Mean Change</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>N</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Mean Change</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">SBP</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Placebo</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>293</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-0.1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>45</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-5.8</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>(mm Hg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Terazosin</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>519</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-3.3<footnote id="_RefSPLSERV-1D2091D8-23B5-67BF-4285-7DAB">p ≤ 0.05 vs . placebo</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>65</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-14.4<footnoteref idref="_RefSPLSERV-1D2091D8-23B5-67BF-4285-7DAB"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">DBP</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Placebo</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>293</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>+0.4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>45</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-7.1</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule ">
+<paragraph>(mm Hg)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Terazosin</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>519</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-2.2<footnoteref idref="_RefSPLSERV-1D2091D8-23B5-67BF-4285-7DAB"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>65</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-15.1<footnoteref idref="_RefSPLSERV-1D2091D8-23B5-67BF-4285-7DAB"></footnoteref>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

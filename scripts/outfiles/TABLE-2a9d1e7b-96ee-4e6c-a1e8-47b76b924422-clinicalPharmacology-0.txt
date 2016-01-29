@@ -1,0 +1,79 @@
+<table border="0" cellpadding="0" cellspacing="0" width="652" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Pathogen<br/>
+</td>
+<td align="center" colspan="3" stylecode="Rrule" valign="top">Minimum Inhibitory Concentrations (mcg/mL)<br/>
+</td>
+<td align="center" colspan="3" stylecode="Rrule" valign="top">Disc Diffusion Diameters (mm)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">S<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">I<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">R<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">S<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">I<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">R<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Enterobacteriaceae</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">16<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥ 32<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥ 18<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">15 to 17<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 14<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">Neisseria gonorrhoeae </content>
+<sup>a</sup>
+<content stylecode="italics"></content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 2<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥ 8<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥ 28<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">24 to 27<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 23<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">anaerobic bacteria<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≤ 16<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">32<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">≥ 64<br/>
+</td>
+<td align="center" colspan="3" stylecode="Rrule" valign="top">Not applicable<br/>
+</td>
+</tr>
+</tbody>
+</table>

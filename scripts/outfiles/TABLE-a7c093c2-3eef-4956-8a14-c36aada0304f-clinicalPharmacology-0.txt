@@ -1,0 +1,285 @@
+<table id="ID22" width="101%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="16%"></col>
+<col width="14%"></col>
+<col width="11%"></col>
+<col width="10%"></col>
+<col width="13%"></col>
+<col width="16%"></col>
+<col width="9%"></col>
+<col width="12%"></col>
+<thead>
+<tr>
+<td align="justify" colspan="1" stylecode=" Lrule Botrule Toprule" valign="top">
+<content stylecode="bold">Table </content>
+<content stylecode="bold">1</content>
+<content stylecode="bold">:</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="justify" colspan="1" stylecode=" Botrule Toprule" valign="top">
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="justify" colspan="6" stylecode=" Rrule Botrule Toprule" valign="top">
+<content stylecode="bold">IDNT</content>
+<content stylecode="bold">: </content>
+<content stylecode="bold">Components </content>
+<content stylecode="bold">of </content>
+<content stylecode="bold">Primary </content>
+<content stylecode="bold">Composite </content>
+<content stylecode="bold">Endpoint</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="justify" colspan="1" stylecode=" Lrule Rrule Toprule" valign="top">
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="1" stylecode=" Lrule Rrule Toprule" valign="middle">
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="3" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">Comparison </content>
+<content stylecode="bold">With </content>
+<content stylecode="bold">Placebo</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" colspan="3" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">Comparison </content>
+<content stylecode="bold">With </content>
+<content stylecode="bold">Amlodipine</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule" valign="top">
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule" valign="top">
+<content stylecode="bold">Irbesartan </content>
+<content stylecode="bold">N</content>
+<content stylecode="bold">=</content>
+<content stylecode="bold">579</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(%)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">Placebo</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">N</content>
+<content stylecode="bold">=</content>
+<content stylecode="bold">569</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(%)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">Hazard </content>
+<content stylecode="bold">Ratio</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">95</content>
+<content stylecode="bold">% </content>
+<content stylecode="bold">CI</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">Amlodipine</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">N</content>
+<content stylecode="bold">=</content>
+<content stylecode="bold">567 </content>
+<content stylecode="bold">(%)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">Hazard </content>
+<content stylecode="bold">Ratio</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">
+<content stylecode="bold">95</content>
+<content stylecode="bold">% </content>
+<content stylecode="bold">CI</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Toprule" valign="top">Primary<br/>Composite<br/>Endpoint<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Toprule" valign="middle">32.6<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Toprule" valign="middle">39.0<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Toprule" valign="middle">0.80<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Toprule" valign="middle">0.66 to 0.97 (p=0.0234)<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Toprule" valign="middle">41.1<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Toprule" valign="middle">0.77<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Toprule" valign="middle">0.63 to 0.93<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" colspan="8" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Breakdown of first occurring event contributing to primary endpoint<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">2x creatinine<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">14.2<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">19.5<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">22.8<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">ESRD<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">7.4<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">8.3<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">8.8<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Death<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">11.1<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">11.2<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">9.5<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">---<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" colspan="8" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Incidence of total events over entire period of follow-up<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">2x creatinine<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">16.9<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">23.7<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.67<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.52 to 0.87<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">25.4<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.63<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.49 to 0.81<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">ESRD<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">14.2<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">17.8<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.77<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.57 to 1.03<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">18.3<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.77<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.57 to 1.03<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Death<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">15.0<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">16.3<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.92<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.69 to 1.23<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">14.6<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">1.04<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="middle">0.77 to 1.40<br/>
+</td>
+</tr>
+</tbody>
+</table>

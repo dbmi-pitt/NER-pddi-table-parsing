@@ -1,0 +1,68 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<content stylecode="bold">Dose (mg)</content>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>
+<content stylecode="bold">Mean C<sub>max</sub> ± <content stylecode="underline">SD<br/>
+</content>(</content>
+<content stylecode="bold">ng/mL)</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<content stylecode="bold"> Mean T<sub>max</sub> (h)</content>
+</td>
+<td align="center" colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<paragraph>
+<content stylecode="bold">Mean AUC<sub>0-∞</sub> ± SD<br/>(</content>
+<content stylecode="bold">ng*h/mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Fasting</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Fed</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Fasting</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Fed</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Fasting  </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Fed</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">100</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">45.9 ±23.9</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">113.8 ± 46.0</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1-8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">2-6</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 484 ± 263</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 741 ± 265</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">200</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">63.8 ± 27.7</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">159 ± 57.3</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1-6</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">2-4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">681 ± 363</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1252 ± 307</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">400</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 60.4 ± 30.0 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">253.7 ± 105.5</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1-6</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">2-4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">754 ± 443</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1851 ± 605</td>
+</tr>
+</tbody>
+</table>

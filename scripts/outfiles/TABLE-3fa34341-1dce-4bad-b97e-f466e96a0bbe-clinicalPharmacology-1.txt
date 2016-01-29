@@ -1,0 +1,231 @@
+<table border="1" frame="box" id="table_11" rules="all" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 11. Drug Interactions:  Pharmacokinetic Parameters for Co-administered Drug in the Presence of KALETRA for Recommended Alterations in Dose or Regimen</caption>
+<colgroup>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="14%"></col>
+<col width="9%"></col>
+<col width="12%"></col>
+<col width="13%"></col>
+<col width="14%"></col>
+</colgroup>
+<tbody>
+<tr valign="bottom">
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">Co-administered Drug</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="bold">Dose of Co-administered Drug                <br/>(mg)</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="bold">Dose of KALETRA                <br/>(mg)</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top"> <content stylecode="bold">n</content>
+</td>
+<td align="center" colspan="3" stylecode="Toprule" valign="top">
+<content stylecode="bold">Ratio (in combination with KALETRA/alone) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</td>
+<td align="center">
+<content stylecode="bold">AUC</content>
+</td>
+<td align="center">
+<content stylecode="bold">C<sub>min</sub>
+</content>
+</td>
+</tr>
+<tr valign="top">
+<td>Amprenavir<sup>1</sup>
+</td>
+<td align="center">750 twice daily, 10 d combo vs. 1200 twice daily, 14 d alone</td>
+<td align="center">400/100 <br/>capsule twice daily, 21 d</td>
+<td align="center">11</td>
+<td align="center">1.12<br/>(0.91, 1.39)</td>
+<td align="center">1.72<br/>(1.41, 2.09)</td>
+<td align="center">4.57<br/>(3.51, 5.95)</td>
+</tr>
+<tr valign="top">
+<td>Desipramine<sup>2</sup>
+</td>
+<td align="center">100 single dose</td>
+<td align="center">400/100 <br/>capsule twice daily, 10 d</td>
+<td align="center">15</td>
+<td align="center">0.91<br/>(0.84, 0.97)</td>
+<td align="center">1.05<br/>(0.96, 1.16)</td>
+<td align="center">N/A</td>
+</tr>
+<tr valign="top">
+<td>Efavirenz</td>
+<td align="center">600 at bedtime, 9 d</td>
+<td align="center">400/100 <br/>capsule twice daily, 9 d</td>
+<td align="center">11, 12*</td>
+<td align="center">0.91<br/>(0.72, 1.15)</td>
+<td align="center">0.84<br/>(0.62, 1.15)</td>
+<td align="center">0.84<br/>(0.58, 1.20)</td>
+</tr>
+<tr valign="top">
+<td>Ethinyl Estradiol</td>
+<td align="center">35 µg once daily, 21 d<br/> (Ortho Novum<sup>®</sup>)</td>
+<td align="center">400/100 <br/>capsule twice daily, 14 d</td>
+<td align="center">12</td>
+<td align="center">0.59<br/>(0.52, 0.66)</td>
+<td align="center">0.58<br/>(0.54, 0.62)</td>
+<td align="center">0.42<br/>(0.36, 0.49)</td>
+</tr>
+<tr valign="top">
+<td>Fosamprenavir<sup>3</sup>
+</td>
+<td align="center">700 twice daily plus ritonavir 100 twice daily, 14 d</td>
+<td align="center">400/100 <br/>capsule twice daily, 14 d</td>
+<td align="center">18</td>
+<td align="center">0.42<br/>(0.30, 0.58)</td>
+<td align="center">0.37<br/>(0.28, 0.49)</td>
+<td align="center">0.35<br/>(0.27, 0.46)</td>
+</tr>
+<tr valign="top">
+<td>Indinavir<sup>1</sup>
+</td>
+<td align="center">600 twice daily, 10 d combo nonfasting vs. 800 three times daily, 5 d alone fasting</td>
+<td align="center">400/100 <br/>capsule twice daily, <br/>15 d</td>
+<td align="center">13</td>
+<td align="center">0.71<br/>(0.63, 0.81)</td>
+<td align="center">0.91<br/>(0.75, 1.10)</td>
+<td align="center">3.47<br/>(2.60, 4.64)</td>
+</tr>
+<tr valign="top">
+<td>Ketoconazole</td>
+<td align="center">200 single dose</td>
+<td align="center">400/100 <br/>capsule twice daily, 16 d</td>
+<td align="center">12</td>
+<td align="center">1.13<br/>(0.91, 1.40)</td>
+<td align="center">3.04<br/>(2.44, 3.79)</td>
+<td align="center">N/A</td>
+</tr>
+<tr valign="top">
+<td>Methadone</td>
+<td align="center">5 single dose</td>
+<td align="center">400/100 <br/>capsule twice daily, 10 d</td>
+<td align="center">11</td>
+<td align="center">0.55<br/>(0.48, 0.64)</td>
+<td align="center">0.47<br/>(0.42, 0.53)</td>
+<td align="center">N/A</td>
+</tr>
+<tr valign="top">
+<td>Nelfinavir<sup>1</sup>
+</td>
+<td align="center">1000 twice daily, 10 d combo vs. 1250 twice daily 14 d alone</td>
+<td align="center">400/100 <br/>capsule twice daily, 21 d</td>
+<td align="center">13</td>
+<td align="center">0.93<br/>(0.82, 1.05)</td>
+<td align="center">1.07<br/>(0.95, 1.19)</td>
+<td align="center">1.86<br/>(1.57, 2.22)</td>
+</tr>
+<tr valign="top">
+<td>M8 metabolite</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">2.36<br/>(1.91, 2.91)</td>
+<td align="center">3.46<br/>(2.78, 4.31)</td>
+<td align="center">7.49<br/>(5.85, 9.58)</td>
+</tr>
+<tr valign="top">
+<td>Nevirapine</td>
+<td align="center">200 once daily, 14 d; twice daily, 6 d</td>
+<td align="center">400/100 <br/>capsule twice daily, 20 d</td>
+<td align="center">5, 6*</td>
+<td align="center">1.05<br/>(0.72, 1.52)</td>
+<td align="center">1.08<br/>(0.72, 1.64)</td>
+<td align="center">1.15<br/>(0.71, 1.86)</td>
+</tr>
+<tr valign="top">
+<td>Norethindrone</td>
+<td align="center">1 once daily, 21 d <br/>(Ortho Novum<sup>®</sup>)</td>
+<td align="center">400/100 <br/>capsule twice daily, 14 d</td>
+<td align="center">12</td>
+<td align="center">0.84<br/>(0.75, 0.94)</td>
+<td align="center">0.83<br/>(0.73, 0.94)</td>
+<td align="center">0.68<br/>(0.54, 0.85)</td>
+</tr>
+<tr>
+<td>Pitavastatin<sup>4</sup>
+</td>
+<td align="center" valign="top">4 mg once daily , 5 d</td>
+<td align="center" valign="top">400/100 tablet twice daily, 16 d </td>
+<td align="center" valign="top">23</td>
+<td align="center" valign="top">0.96<br/>(0.84-1.10)</td>
+<td align="center" valign="top">0.80<br/>(0.73-0.87) </td>
+<td align="center" valign="top">N/A</td>
+</tr>
+<tr valign="top">
+<td>Pravastatin</td>
+<td align="center">20 once daily, 4 d</td>
+<td align="center">400/100 capsule twice daily, 14 d</td>
+<td align="center">12</td>
+<td align="center">1.26<br/>(0.87, 1.83)</td>
+<td align="center">1.33<br/>(0.91, 1.94)</td>
+<td align="center">N/A</td>
+</tr>
+<tr valign="top">
+<td>Rifabutin</td>
+<td align="center">150 once daily, 10 d; combo vs. 300 once daily, 10 d; alone</td>
+<td align="center">400/100 capsule twice daily, 10 d</td>
+<td align="center">12</td>
+<td align="center">2.12<br/>(1.89, 2.38)</td>
+<td align="center">3.03<br/>(2.79, 3.30)</td>
+<td align="center">4.90<br/>(3.18, 5.76)</td>
+</tr>
+<tr valign="top">
+<td>25-<content stylecode="italics">O</content>-desacetyl rifabutin</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">23.6<br/>(13.7, 25.3)</td>
+<td align="center">47.5<br/>(29.3, 51.8)</td>
+<td align="center">94.9<br/>(74.0, 122)</td>
+</tr>
+<tr valign="top">
+<td>Rifabutin + 25-<content stylecode="italics">O</content>-desacetyl rifabutin<sup>5</sup>
+</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">3.46<br/>(3.07, 3.91)</td>
+<td align="center">5.73<br/>(5.08, 6.46)</td>
+<td align="center">9.53<br/>(7.56, 12.01)</td>
+</tr>
+<tr valign="top">
+<td>Rosuvastatin<sup>6</sup>
+</td>
+<td align="center">20 mg once daily, 7 d</td>
+<td align="center">400/100 tablet twice daily, 7 d</td>
+<td align="center">15</td>
+<td align="center">4.66<br/>(3.4, 6.4)</td>
+<td align="center">2.08<br/>(1.66, 2.6)</td>
+<td align="center">1.04<br/>(0.9, 1.2)</td>
+</tr>
+<tr valign="top">
+<td>Tenofovir<sup>7</sup>
+</td>
+<td align="center">300 mg once daily, 14 d</td>
+<td align="center">400/100 capsule twice daily, 14 d</td>
+<td align="center">24</td>
+<td align="center">NC<sup>†</sup>
+</td>
+<td align="center">1.32<br/>(1.26, 1.38)</td>
+<td align="center">1.51<br/>(1.32, 1.66)</td>
+</tr>
+<tr>
+<td colspan="7">All interaction studies conducted in healthy, HIV-1 negative subjects unless otherwise indicated.<br/>1   Ratio of parameters for amprenavir, indinavir, and nelfinavir, are not normalized for dose.<br/>2   Desipramine is a probe substrate for assessing effects on CYP2D6-mediated metabolism.<br/>3   Data extracted from the fosamprenavir package insert.<br/>4  Data extracted from the pitavastatin package insert and results presented at the 2011 International AIDS Society Conference on HIV Pathogenesis, Treatment and Prevention (Morgan<content stylecode="italics">, et al, poster #MOPE170</content>). <br/>5   Effect on the dose-normalized sum of rifabutin parent and 25-<content stylecode="italics">O</content>-desacetyl rifabutin active metabolite.<br/>6   Kiser, et al. J Acquir Immune Defic Syndr. 2008 Apr 15;47(5):570-8.<br/>7   Data extracted from the tenofovir package insert.<br/>*   Parallel group design; n for KALETRA + co-administered drug, n for co-administered drug alone.<br/>N/A = Not available.<br/>†   NC = No change.</td>
+</tr>
+</tbody>
+</table>

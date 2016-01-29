@@ -1,0 +1,53 @@
+<table id="table1" width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="top" width="32%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="17%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Lrule Rrule">Dose<footnote>Administered at the start of a light meal.</footnote>
+</th>
+<th colspan="2" stylecode="Rrule">AUC<sub>0–∞</sub> (mcg.hr/mL)</th>
+<th colspan="2" stylecode="Rrule">C<sub>max</sub> (mcg/mL)<footnote>Mean values of 28 normal volunteers. Peak concentrations occurred approximately 1 hour after the dose.</footnote>
+</th>
+</tr>
+<tr>
+<th align="center" stylecode="Lrule Rrule">(amoxicillin and clavulanate potassium)</th>
+<th stylecode="Rrule">amoxicillin<br/>(±S.D.)</th>
+<th stylecode="Rrule">clavulanate potassium<br/>(±S.D.)</th>
+<th stylecode="Rrule">amoxicillin<br/>(±S.D.)</th>
+<th stylecode="Rrule">clavulanate potassium<br/>(±S.D.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule">400 mg/57 mg</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">(5 mL of suspension)</td>
+<td stylecode="Rrule">17.29 ± 2.28</td>
+<td stylecode="Rrule">2.34 ± 0.94</td>
+<td stylecode="Rrule">6.94 ± 1.24</td>
+<td stylecode="Rrule">1.10 ± 0.42</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">400 mg/57 mg</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">(1 chewable tablet)</td>
+<td stylecode="Rrule">17.24 ± 2.64</td>
+<td stylecode="Rrule">2.17 ± 0.73</td>
+<td stylecode="Rrule">6.67 ± 1.37</td>
+<td stylecode="Rrule">1.03 ± 0.33</td>
+</tr>
+</tbody>
+</table>

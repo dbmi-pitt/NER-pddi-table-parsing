@@ -1,0 +1,36 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" colspan="2" valign="top">              <content stylecode="underline">Microorqanism</content>
+</td>
+<td align="center" valign="top"> <content stylecode="underline">Zone Diameter</content>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top"> </td>
+<td align="center" valign="top"> <content stylecode="underline">(mm)</content>
+</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="italics">E. coli</content>
+</td>
+<td valign="top"> ATCC 25922</td>
+<td align="center" valign="top"> 16 to 22</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="italics">H. influenzae</content>
+</td>
+<td valign="top"> ATCC 49247h</td>
+<td align="center" valign="top"> 13 to 21</td>
+</tr>
+<tr>
+<td valign="top"> <content stylecode="italics">S. aureus</content>
+</td>
+<td valign="top"> ATCC 25923</td>
+<td align="center" valign="top"> 27 to 35</td>
+</tr>
+</tbody>
+</table>

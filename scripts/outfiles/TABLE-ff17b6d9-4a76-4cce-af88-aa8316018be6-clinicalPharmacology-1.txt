@@ -1,0 +1,61 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>
+Mean Urinary Concentrations of Ciprofloxacin
+</caption>
+<col align="left" width="40%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="40%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Botrule Lrule Rrule">
+Treatment
+</th>
+<th align="center" stylecode="Botrule Lrule Rrule">
+Day
+</th>
+<th align="center" stylecode="Botrule Lrule Rrule">
+Mean (%CV) urinary ciprofloxacin concentration over 24 hours (mcg/mL)
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Botrule Lrule Rrule">
+Proquin XR 500 mg once daily
+</td>
+<td stylecode="Botrule Lrule Rrule">
+1
+</td>
+<td stylecode="Botrule Lrule Rrule">
+71 (41)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule">
+3
+</td>
+<td stylecode="Botrule Lrule Rrule">
+67 (28)
+</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="Botrule Lrule Rrule">
+CIPRO 250 mg twice daily
+</td>
+<td stylecode="Botrule Lrule Rrule">
+1
+</td>
+<td stylecode="Botrule Lrule Rrule">
+79 (32)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule">
+3
+</td>
+<td stylecode="Botrule Lrule Rrule">
+75 (24)
+</td>
+</tr>
+</tbody>
+</table>

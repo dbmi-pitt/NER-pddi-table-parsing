@@ -1,0 +1,54 @@
+<table rules="all" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody align="center">
+<tr>
+<td rowspan="2">
+<content stylecode="bold">Co-administered Drug</content>
+</td>
+<td rowspan="2">
+<content stylecode="bold">Dose of<br/> Co-administered Drug</content>
+</td>
+<td rowspan="2">
+<content stylecode="bold">Dose of Azithromycin</content>
+</td>
+<td rowspan="2">
+<content stylecode="bold">n</content>
+</td>
+<td colspan="2">
+<content stylecode="bold">Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Mean C<sub>max</sub>
+</content>
+</td>
+<td>
+<content stylecode="bold">Mean AUC</content>
+</td>
+</tr>
+<tr>
+<td>Efavirenz</td>
+<td>400 mg/day for 7 days</td>
+<td>600 mg orally on day 7</td>
+<td>14</td>
+<td>1.22<br/>(1.04 to 1.42)</td>
+<td>0.92*</td>
+</tr>
+<tr>
+<td>Fluconazole</td>
+<td>200 mg orally single dose</td>
+<td>1,200 mg orally single dose</td>
+<td>18</td>
+<td>0.82<br/>(0.66 to 1.02)</td>
+<td>1.07<br/>(0.94 to 1.22)</td>
+</tr>
+<tr>
+<td>Nelfinavir</td>
+<td>750 mg three times a day for 11 days</td>
+<td>1,200 mg orally on day 9</td>
+<td>14</td>
+<td>2.36<br/>(1.77 to 3.15)</td>
+<td>2.12<br/>(1.80 to 2.50)</td>
+</tr>
+</tbody>
+</table>

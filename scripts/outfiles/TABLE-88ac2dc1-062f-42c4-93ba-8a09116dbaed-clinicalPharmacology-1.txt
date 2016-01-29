@@ -1,0 +1,93 @@
+<table border="single" id="id_178f466f-eb7e-4014-9f90-cd1c13212c3a" width="443.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_b2b3023b-a2ca-48aa-a367-fd6c5793a68b">Mean Changes in Blood Pressure from Baseline to Final Visit in all Double-Blind, Placebo-Controlled Studies</caption>
+<col width="15.6%"></col>
+<col width="17.2%"></col>
+<col width="16.3%"></col>
+<col width="17.2%"></col>
+<col width="16.3%"></col>
+<col width="17.6%"></col>
+<tbody>
+<tr id="id_91164707-7007-431e-a0fd-fdf93bdf4ce3">
+<td align="left" rowspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="bottom"></td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Group</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">Normotensive</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Patients</content>
+</paragraph>
+<content stylecode="bold">DBP ≤ 90 mm Hg Mean</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="bottom">
+<paragraph>
+<content stylecode="bold">Hypertensive</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Patients</content>
+</paragraph>
+<content stylecode="bold">DBP</content> &gt; <content stylecode="bold">90 mm Hg Mean</content>
+</td>
+</tr>
+<tr id="id_e4968741-28bb-4eff-bbf4-bc84786a3a27">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="bottom">
+<content stylecode="bold">N</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Change</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">N</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Change</content>
+</td>
+</tr>
+<tr id="id_66ec1086-f1da-48be-88af-6a1d6584ea6d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">SBP</content>
+</paragraph>(mm Hg)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Placebo</content>
+</paragraph>
+<content stylecode="bold">Terazosin</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>293</paragraph>519</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph> -0.1</paragraph> -3.3<footnote id="id-fd431176-1190-4d2d-bf0f-db80b173e2c9">p ≤ 0.05 vs. placebo</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>45</paragraph>65</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph> -5.8</paragraph>-14.4<footnoteref idref="id-fd431176-1190-4d2d-bf0f-db80b173e2c9"></footnoteref>
+</td>
+</tr>
+<tr id="id_a1aa82f2-7a7b-4b1e-8da9-e89fb964eb44">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">DBP</content>
+</paragraph>(mm Hg)</td>
+<td align="left" stylecode="Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Placebo</content>
+</paragraph>
+<content stylecode="bold">Terazosin</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>293</paragraph>519</td>
+<td align="left" stylecode="Rrule" valign="top">
+<paragraph> +0.4</paragraph> -2.2<footnoteref idref="id-fd431176-1190-4d2d-bf0f-db80b173e2c9"></footnoteref>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>45</paragraph>65</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph> -7.1</paragraph>-15.1<footnoteref idref="id-fd431176-1190-4d2d-bf0f-db80b173e2c9"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

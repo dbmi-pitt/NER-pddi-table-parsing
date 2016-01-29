@@ -1,0 +1,85 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="23%"></col>
+<col width="23%"></col>
+<col width="23%"></col>
+<col width="16%"></col>
+<col width="14%"></col>
+<thead>
+<tr>
+<th align="left" rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Pharmacokinetic</content>
+<br/>
+<content stylecode="bold">Parameter</content>
+<br/>
+<content stylecode="bold">[mean (SD)]</content>
+</th>
+<th align="left" colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">3-Day Regimen</content>
+</th>
+<th align="left" colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">5-Day Regimen</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Day 1</content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Day 3</content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Day 1</content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Day 5</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Toprule ">
+<paragraph>C<sub>max</sub> (serum,</paragraph>
+<paragraph>mcg/mL)</paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>0.44 (0.22)</paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>0.54 (0.25)</paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>0.43 (0.2)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule ">
+<paragraph>0.24 (0.06)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule ">
+<paragraph>Serum AUC<sub>0-∞</sub>
+</paragraph>
+<paragraph>(mcg•hr/mL)</paragraph>
+</td>
+<td align="center" colspan="2">
+<paragraph>17.4 (6.2)<footnote id="_RefIDFDD9334AF7F64EE2A1F990941BAA5FE6">Total AUC for the entire 3-day and 5-day regimens</footnote>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule ">
+<paragraph>14.9 (3.1)<footnoteref idref="_RefIDFDD9334AF7F64EE2A1F990941BAA5FE6"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>Serum T<sub>1/2</sub>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Botrule ">
+<paragraph>71.8 hr</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Botrule ">
+<paragraph>68.9 hr</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

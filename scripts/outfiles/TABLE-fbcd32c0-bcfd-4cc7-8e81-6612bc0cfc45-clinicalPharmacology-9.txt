@@ -1,0 +1,100 @@
+<table cellpadding="0pt" cellspacing="0pt" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="33%"></col>
+<col width="33%"></col>
+<col width="33%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Organism </content>
+</th>
+<th align="left" stylecode="Rrule Botrule Lrule Toprule " valign="top"></th>
+<th align="left" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="italics">   E. coli </content>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule ">
+<paragraph>   ATCC 25922    <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule ">
+<paragraph>30-40<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">   H. influenzae</content>
+<sup>a</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>   ATCC 49247    <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>34-42<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">   N. gonorrhoeae</content>
+<sup>b</sup>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>   ATCC 49226    <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>48-58<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">   P. aeruginosa </content>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>   ATCC 27853    <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>25-33<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>
+<content stylecode="italics">   S. aureus </content>
+<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>   ATCC 25923    <br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>22-30<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

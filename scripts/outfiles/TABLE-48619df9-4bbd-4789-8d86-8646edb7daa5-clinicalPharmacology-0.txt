@@ -1,0 +1,114 @@
+<table id="Tb12" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 12: Summary of AED Interactions With Topiramate </caption>
+<col width="31%"></col>
+<col width="45%"></col>
+<col width="24%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="3" stylecode="Botrule" valign="top">
+<sup>1</sup>   = Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin.<br/>
+<sup>2</sup>   = Is not administered but is an active metabolite of carbamazepine.<br/>NC = Less than 10% change in plasma concentration.<br/>AED = Antiepileptic drug.<br/>NE = Not evaluated.<br/>TPM = Topiramate</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Toprule " valign="top">
+<paragraph>AED</paragraph>
+</td>
+<td stylecode="Lrule Toprule " valign="top">
+<paragraph>AED</paragraph>
+</td>
+<td stylecode="Toprule " valign="top">
+<paragraph>Topiramate</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Coadministered</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Concentration</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>Concentration</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Phenytoin</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>NC or 25% increase</paragraph>
+</td>
+<td valign="top">
+<paragraph>48% decrease</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Carbamazepine (CBZ)</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>NC</paragraph>
+</td>
+<td valign="top">
+<paragraph>40% decrease</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>CBZ epoxide</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>NC</paragraph>
+</td>
+<td valign="top">
+<paragraph>NE</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Valproic acid</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>11% decrease</paragraph>
+</td>
+<td valign="top">
+<paragraph>14% decrease</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Phenobarbital</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>NC</paragraph>
+</td>
+<td valign="top">
+<paragraph>NE</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Primidone</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>NC</paragraph>
+</td>
+<td valign="top">
+<paragraph>NE</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Lamotrigine</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>NC at TPM doses up to 400 mg/day</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>13% decrease</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

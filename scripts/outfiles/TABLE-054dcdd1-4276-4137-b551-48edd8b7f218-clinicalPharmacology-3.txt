@@ -1,0 +1,85 @@
+<table id="id_940edacf-34f0-492e-bfda-3d028a6f4efe" width="436.000" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_e23c8d67-bf87-4886-83f7-6e16df8d7f19">TABLE 4 WARIS II - DISTRIBUTION OF SEPARATE EVENTS ACCORDING TO TREATMENT GROUP <footnote id="id-9e307be1-2ed8-4e1f-934e-e317c802a0d3">CI denotes confidence interval.</footnote>
+</caption>
+<col width="24.8%"></col>
+<col width="12.8%"></col>
+<col width="14.9%"></col>
+<col width="15.8%"></col>
+<col width="18.8%"></col>
+<col width="12.8%"></col>
+<thead>
+<tr id="id_51c78bfa-7a11-4d6c-ab0f-9a1e7f8e2f66">
+<td align="left" stylecode="Botrule" valign="top">Event </td>
+<td align="center" stylecode="Botrule" valign="bottom">Aspirin (N=1206) </td>
+<td align="center" stylecode="Botrule" valign="bottom">Warfarin (N=1216) </td>
+<td align="center" stylecode="Botrule" valign="bottom">Aspirin plus Warfarin (N=1208) </td>
+<td align="center" stylecode="Botrule" valign="bottom">Rate Ratio (95% CI) </td>
+<td align="center" stylecode="Botrule" valign="bottom">p-value </td>
+</tr>
+</thead>
+<tfoot id="id_0dbdf668-3aa7-455f-be2d-7ad81a4f5ff2">
+<tr>
+<td align="left" colspan="6" stylecode="Lrule Botrule" valign="top">
+<paragraph>ND = not determined. </paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_dc0f01cf-2f1e-438e-b725-ae3dc6550902">
+<td align="left" stylecode="Toprule" valign="middle"></td>
+<td align="center" stylecode="Toprule" valign="middle"></td>
+<td align="center" stylecode="Toprule" valign="middle">No. of Events </td>
+<td align="center" stylecode="Toprule" valign="middle"></td>
+<td align="center" stylecode="Toprule" valign="middle"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_3960eff5-2fce-4000-abc7-8bcb4303f659">
+<td align="left" stylecode="Botrule" valign="middle">Reinfarction </td>
+<td align="center" stylecode="Botrule" valign="middle">117 </td>
+<td align="center" stylecode="Botrule" valign="middle">90 </td>
+<td align="center" stylecode="Botrule" valign="middle">69 </td>
+<td align="center" stylecode="Botrule" valign="middle">0.56 (0.41-0.78)<footnote id="id-9d06af83-c004-4fef-b122-cedf82fc6674">The rate ratio is for aspirin plus warfarin as compared with aspirin.</footnote>
+<br/>0.74 (0.55-0.98)<footnote id="id-fd1eeeae-7092-4e50-ba9a-7164f80bc607">The rate ratio is for warfarin as compared with aspirin.</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">&lt;0.001<br/> 0.03 </td>
+</tr>
+<tr id="id_a731398b-604b-491e-a6e5-a98950e233db">
+<td align="left" stylecode="Botrule" valign="middle">Thromboembolic  stroke </td>
+<td align="center" stylecode="Botrule" valign="middle">32 </td>
+<td align="center" stylecode="Botrule" valign="middle">17 </td>
+<td align="center" stylecode="Botrule" valign="middle">17 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 0.52 (0.28-0.98)<footnoteref idref="id-9d06af83-c004-4fef-b122-cedf82fc6674"></footnoteref>
+<br/> 0.52 (0.28-0.97)<footnoteref idref="id-fd1eeeae-7092-4e50-ba9a-7164f80bc607"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top"> 0.03<br/> 0.03 </td>
+</tr>
+<tr id="id_574b3eae-e6f8-46fa-9b07-55eb02ec53cc">
+<td align="justify" stylecode="Botrule" valign="middle">Major Bleeding<footnote id="id-3e82d7f5-2ba1-4c75-917f-bcab2038d638">Major bleeding episodes were defined as nonfatal cerebral hemorrhage or bleeding necessitating surgical intervention or blood transfusion.</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">8 </td>
+<td align="center" stylecode="Botrule" valign="middle">33 </td>
+<td align="center" stylecode="Botrule" valign="middle">28 </td>
+<td align="center" stylecode="Botrule" valign="middle">3.35<footnoteref idref="id-9d06af83-c004-4fef-b122-cedf82fc6674"></footnoteref>
+<sup></sup>(ND)<br/> 4.00<footnoteref idref="id-fd1eeeae-7092-4e50-ba9a-7164f80bc607"></footnoteref> (ND) </td>
+<td align="center" stylecode="Botrule" valign="top"> ND<br/> ND </td>
+</tr>
+<tr id="id_69c1e0b8-dd6f-49ce-83a8-05bc580a8009">
+<td align="left" stylecode="Botrule" valign="middle">Minor Bleeding<footnote id="id-dcf9b0c2-4e6d-4903-8f4c-d09dbc66dc4b">Minor bleeding episodes were defined as non-cerebral hemorrhage not necessitating surgical intervention or blood transfusion.</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">39 </td>
+<td align="center" stylecode="Botrule" valign="middle">103 </td>
+<td align="center" stylecode="Botrule" valign="middle">133 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 3.21<footnoteref idref="id-9d06af83-c004-4fef-b122-cedf82fc6674"></footnoteref>
+<sup></sup>(ND)<br/> 2.55<footnoteref idref="id-fd1eeeae-7092-4e50-ba9a-7164f80bc607"></footnoteref> (ND) </td>
+<td align="center" stylecode="Botrule" valign="top"> ND<br/> ND </td>
+</tr>
+<tr id="id_bd230a0e-937a-4228-9b7e-ba598a0b045e">
+<td align="left" stylecode="Botrule" valign="middle">Death </td>
+<td align="center" stylecode="Botrule" valign="middle">92 </td>
+<td align="center" stylecode="Botrule" valign="middle">96 </td>
+<td align="center" stylecode="Botrule" valign="middle">95 </td>
+<td align="center" stylecode="Botrule" valign="middle"></td>
+<td align="center" stylecode="Botrule" valign="top">0.82 </td>
+</tr>
+</tbody>
+</table>

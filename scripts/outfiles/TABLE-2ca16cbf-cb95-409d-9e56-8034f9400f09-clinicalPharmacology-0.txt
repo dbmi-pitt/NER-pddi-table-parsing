@@ -1,0 +1,183 @@
+<table id="_Reft1" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Study 1</caption>
+<col width="25%"></col>
+<col width="25%"></col>
+<col width="25%"></col>
+<col width="25%"></col>
+<tbody>
+<tr>
+<td colspan="4" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">YMRS Total Score</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Group</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Baseline</content>
+<footnote id="_Reff1">Mean score at baseline</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">BL to Wk 3</content>
+<footnote id="_Reff2">Change from baseline to Week 3 (LOCF)</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Difference</content>
+<footnote id="_Reff3">Difference in change from baseline to Week 3 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo</footnote>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Placebo</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>28.8</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>+0.2</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Divalproex sodium delayed-release tablets</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>28.5</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>-9.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>9.7</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="4" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">BPRS-A Total Score</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Group</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Baseline</content>
+<footnoteref idref="_Reff1"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">BL to Wk 3</content>
+<footnoteref idref="_Reff2"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Difference</content>
+<footnoteref idref="_Reff3"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Placebo</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>76.2</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>+1.8</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Divalproex sodium delayed-release tablets</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>76.4</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>-17.0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>18.8</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="4" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">GAS Score</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Group</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Baseline</content>
+<footnoteref idref="_Reff1"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">BL to Wk 3</content>
+<footnoteref idref="_Reff2"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Difference</content>
+<footnoteref idref="_Reff3"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Placebo</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>31.8</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>0.0</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>Divalproex sodium delayed-release tablets</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>30.3</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>+18.1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>18.1</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

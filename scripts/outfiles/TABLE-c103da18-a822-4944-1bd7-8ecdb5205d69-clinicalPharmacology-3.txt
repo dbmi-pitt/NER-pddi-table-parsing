@@ -1,0 +1,62 @@
+<table border="1" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody align="center">
+<tr>
+<td align="left">
+<content stylecode="bold">Bacteria</content>
+</td>
+<td>
+<content stylecode="bold">MIC range (mcg/mL)</content>
+</td>
+<td>
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Enterococcus faecalis</content> ATCC 29212</td>
+<td align="center">0.25–2</td>
+<td>-</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Escherichia coli</content> ATCC 25922</td>
+<td>0.004–0.015</td>
+<td>30–40</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Haemophilus influenzae</content> ATCC 49247</td>
+<td>0.004–0.03</td>
+<td>34–42</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Pseudomonas aeruginosa</content> ATCC 27853</td>
+<td>0.25–1</td>
+<td>25–33</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 29213</td>
+<td>0.12–0.5</td>
+<td>-</td>
+</tr>
+<tr>
+<td align="left" rowspan="2">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 25923<br/>
+<content stylecode="italics"> Neisseria gonorrhoeae</content> ATCC 49226<sup>1</sup>
+</td>
+<td rowspan="2" valign="bottom">0.001–0.008</td>
+<td>22–30</td>
+</tr>
+<tr>
+<td rowspan="1">48–58</td>
+</tr>
+<tr>
+<td align="left">
+<content stylecode="italics">Campylobacter jejuni</content> ATCC 33560</td>
+<td>0.06–0.25 and 0.03–0.12</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>

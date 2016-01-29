@@ -1,0 +1,174 @@
+<table id="_Refid_e97f7078-102d-4a2d-843a-61f7adc08" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table of Pharmacokinetic Values for Edrophonium Chloride</caption>
+<col width="24%"></col>
+<col width="10%"></col>
+<col width="13%"></col>
+<col width="19%"></col>
+<col width="5%"></col>
+<col width="6%"></col>
+<thead>
+<tr>
+<th stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Population</content>
+</th>
+<th stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">T1/2β</content>
+<br/>
+<content stylecode="bold">hr±S.D.</content>
+</th>
+<th stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">VD</content>
+<br/>
+<content stylecode="bold"> L/kg±S.D.</content>
+</th>
+<th stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Cl</content>
+<br/>
+<content stylecode="bold"> mL/kg/min±S.D.</content>
+</th>
+<th stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">N</content>
+</th>
+<th stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Ref.</content>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule" valign="top">T1/2β = Elimination half-life</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule" valign="top">VD = Volume of distribution</td>
+</tr>
+<tr>
+<td align="left" colspan="6" stylecode="Botrule" valign="top">Cl = Clearance</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<paragraph>Adults</paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>1.8±0.6</paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>1.1±0.2</paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>9.6±2.7</paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>10</paragraph>
+</td>
+<td align="center" stylecode="Toprule ">
+<paragraph>3</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Anephric Patients<footnote id="_Reft1f1">No adjustments of edrophonium dosage are required because elimination of non-depolarizing muscle relaxants is similarly decreased.</footnote>
+<footnote id="_Refidabozah">Values for anephric patients were calculated using a non-compartmental model.</footnote>
+</paragraph>
+</td>
+<td align="center">
+<paragraph>3.4±1.0</paragraph>
+</td>
+<td align="center">
+<paragraph>0.68±0.13</paragraph>
+</td>
+<td align="center">
+<paragraph>2.7±1.4</paragraph>
+</td>
+<td align="center">
+<paragraph>6</paragraph>
+</td>
+<td align="center">
+<paragraph>4</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Infants (3 wks-11 mos)</paragraph>
+</td>
+<td align="center">
+<paragraph>1.2±0.5</paragraph>
+</td>
+<td align="center">
+<paragraph>1.2±0.2</paragraph>
+</td>
+<td align="center">
+<paragraph>17.8±1.2</paragraph>
+</td>
+<td align="center">
+<paragraph>4</paragraph>
+</td>
+<td align="center">
+<paragraph>5</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Children (1-6 yr)</paragraph>
+</td>
+<td align="center">
+<paragraph>1.6±0.5</paragraph>
+</td>
+<td align="center">
+<paragraph>1.2±0.7</paragraph>
+</td>
+<td align="center">
+<paragraph>14.2±7.3</paragraph>
+</td>
+<td align="center">
+<paragraph>4</paragraph>
+</td>
+<td align="center">
+<paragraph>5</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>Adults</paragraph>
+</td>
+<td align="center">
+<paragraph>
+<footnote id="_Reft1f3">From a study using a different, less sensitive HPLC method and fitting C vs T data to a biexponential curve.</footnote>0.9±0.3</paragraph>
+</td>
+<td align="center">
+<paragraph>1.1±0.6</paragraph>
+</td>
+<td align="center">
+<paragraph>13.3±5</paragraph>
+</td>
+<td align="center">
+<paragraph>5</paragraph>
+</td>
+<td align="center">
+<paragraph>6</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Elderly<footnoteref idref="_Reft1f1"></footnoteref> (over 75 yr)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>
+<footnoteref idref="_Reft1f3"></footnoteref>1.4±0.3</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>0.6±0.1</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>5.1±1</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>5</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>6</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

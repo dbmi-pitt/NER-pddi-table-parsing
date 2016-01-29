@@ -1,0 +1,130 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<tbody>
+<tr>
+<td align="center" colspan="7" stylecode="     Botrule          Toprule     "> <content stylecode="bold">Pediatric Pharmacokinetic Parameters (mean</content>
+<content stylecode="bold">±SD)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     ">
+<content stylecode="bold">Patient Population</content>
+</td>
+<td stylecode="     Botrule     ">
+<content stylecode="bold">Dose/day</content>
+<content stylecode="bold">
+<br/>(mg/d)</content>
+</td>
+<td stylecode="     Botrule     ">
+<content stylecode="bold">Dose/weight</content>
+<content stylecode="bold">
+<br/>(mg/kg/d)</content>
+</td>
+<td stylecode="     Botrule     ">
+<content stylecode="bold">AUC</content>
+<content stylecode="bold">
+<sup>1</sup>
+</content>
+<content stylecode="bold">
+<br/>(ng●hr/mL)</content>
+</td>
+<td stylecode="     Botrule     ">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+<content stylecode="bold">
+<br/>(ng/mL)</content>
+</td>
+<td stylecode="     Botrule     ">
+<content stylecode="bold">CL/F</content>
+<content stylecode="bold">
+<br/>(mL/min)</content>
+</td>
+<td stylecode="     Botrule     ">
+<content stylecode="bold">CL/F</content>
+<content stylecode="bold">
+<br/>(mL/min/kg)</content>
+</td>
+</tr>
+<tr>
+<td> Stable liver transplant<sup>2</sup>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> Age 2 to 8, Dosed t.i.d. (N=9)</td>
+<td> 101±25</td>
+<td> 5.95±1.32</td>
+<td> 2163±801</td>
+<td> 629±219</td>
+<td> 285±94</td>
+<td> 16.6±4.3</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> Age 8 to 15, Dosed b.i.d.(N=8)</td>
+<td stylecode="     Botrule     "> 188±55</td>
+<td stylecode="     Botrule     "> 4.96±2.09</td>
+<td stylecode="     Botrule     "> 4272±1462</td>
+<td stylecode="     Botrule     "> 975±281</td>
+<td stylecode="     Botrule     "> 378±80</td>
+<td stylecode="     Botrule     "> 10.2±4</td>
+</tr>
+<tr>
+<td> Stable liver transplant<sup>3</sup>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> Age 3, Dosed b.i.d. (N=1)</td>
+<td> 120</td>
+<td> 8.33</td>
+<td> 5832</td>
+<td> 1050</td>
+<td> 171</td>
+<td> 11.9</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> Age 8 to 15, Dosed b.i.d. (N=5)</td>
+<td stylecode="     Botrule     "> 158±55</td>
+<td stylecode="     Botrule     "> 5.51±1.91</td>
+<td stylecode="     Botrule     "> 4452±2475</td>
+<td stylecode="     Botrule     "> 1013±635</td>
+<td stylecode="     Botrule     "> 328±121</td>
+<td stylecode="     Botrule     "> 11±1.9</td>
+</tr>
+<tr>
+<td> Stable renal transplant<sup>3</sup>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule     "> Age 7 to 15, Dosed b.i.d. (N=5)</td>
+<td stylecode="     Botrule     "> 328±83</td>
+<td stylecode="     Botrule     "> 7.37±4.11</td>
+<td stylecode="     Botrule     "> 6922±1988</td>
+<td stylecode="     Botrule     "> 1827±487</td>
+<td stylecode="     Botrule     "> 418±143</td>
+<td stylecode="     Botrule     "> 8.7±2.9</td>
+</tr>
+</tbody>
+</table>

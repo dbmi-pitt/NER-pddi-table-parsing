@@ -1,0 +1,32 @@
+<table id="t301" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>When Testing Organisms Other Than Haemophilus spp. and Streptococci
+</caption>
+<col align="left" width="50.000%"></col>
+<col align="left" width="50.000%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule Botrule Lrule Rrule" valign="top">Zone Diameter (mm)
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule" valign="top">Interpretation
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">≧18
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Susceptible (S)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">15-17
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Intermediate (I)
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">≦14
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Resistant (R)
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,105 @@
+<table border="single" id="id_1b3ca97b-b863-467b-8fc4-5a70859b2743" width="567" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_fd215186-dc73-4e5a-9418-f8daa00482a0"> Table 12: Results of Drug Interaction Studies with Buffered Formulations of Didanosine: Effects of Didanosine on Coadministered Drug Plasma AUC and C<sub>max</sub> Values</caption>
+<col width="30.2%"></col>
+<col width="17.1%"></col>
+<col width="9.3%"></col>
+<col width="19.9%"></col>
+<col width="23.5%"></col>
+<tfoot id="id_de026196-74e6-406b-8a26-8ef35fd0f68e">
+<tr>
+<td align="left" colspan="5" stylecode="Lrule Botrule" valign="top"> ↑ Indicates increase.<br/>↓ Indicates decrease.<br/>↔ Indicates no change, or mean increase or decrease of less than 10%.<br/>NA = Not available.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_359bc9cc-b627-4320-904c-fbd6b239d04d">
+<td align="left" colspan="3" stylecode="Toprule" valign="top"></td>
+<td align="left" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">% Change of Coadministered Drug Pharmacokinetic Parameters
+                                    </content>
+</td>
+</tr>
+<tr id="id_1f06e084-6e95-4d2b-8c80-b1a60d707e9c">
+<td align="center" colspan="3" stylecode="Botrule" valign="top">
+<paragraph>  </paragraph>
+<content stylecode="bold"> Drug                                            Didanosine Dosage          n </content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">AUC of Coadministered Drug</content>
+</paragraph>
+<content stylecode="bold">(95% CI)</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub> of Coadministered Drug</content>
+</paragraph>
+<content stylecode="bold">(95% CI)</content>
+</td>
+</tr>
+<tr id="id_bb09260d-6b41-41c1-8b8a-ac27256ffa53">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>dapsone, 100 mg single dose</paragraph>
+<paragraph>ganciclovir, 1000 mg every 8 hours, 2 hours after didanosine</paragraph>
+<paragraph>nelfinavir, 750 mg single dose, 1 hour after didanosine</paragraph>
+<paragraph>ranitidine, 150 mg single dose, 2 hours before didanosine</paragraph>
+<paragraph>ritonavir, 600 mg every 12 hours for 4 days</paragraph>
+<paragraph>stavudine, 40 mg every 12 hours for 4 days</paragraph>
+<paragraph>sulfamethoxazole, 1000 mg single dose</paragraph>
+<paragraph>trimethoprim, 200 mg single dose</paragraph>zidovudine, 200 mg every 8 hours for 3 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>200 mg every 12 hours</paragraph>
+<paragraph>for 14 days</paragraph>
+<paragraph>200 mg every 12 hours</paragraph>
+<paragraph>200 mg single dose</paragraph>
+<paragraph>375 mg single dose</paragraph>
+<paragraph>200 mg every 12 hours</paragraph>
+<paragraph>for 4 days</paragraph>
+<paragraph>100 mg every 12 hours</paragraph>
+<paragraph>for 4 days</paragraph>
+<paragraph>200 mg single dose</paragraph>
+<paragraph>200 mg single dose</paragraph>
+<paragraph>200 mg every 12 hours</paragraph>for 3 days</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>6<footnote id="id-0ccc6646-6380-4df1-8157-1579e7e9d9f9">HIV-infected patients.</footnote>
+</paragraph>
+<paragraph>12<footnoteref idref="id-0ccc6646-6380-4df1-8157-1579e7e9d9f9"></footnoteref>
+</paragraph>
+<paragraph>10<footnoteref idref="id-0ccc6646-6380-4df1-8157-1579e7e9d9f9"></footnoteref>
+</paragraph>
+<paragraph>12<footnoteref idref="id-0ccc6646-6380-4df1-8157-1579e7e9d9f9"></footnoteref>
+</paragraph>
+<paragraph>12</paragraph>
+<paragraph>10<footnoteref idref="id-0ccc6646-6380-4df1-8157-1579e7e9d9f9"></footnoteref>
+</paragraph>
+<paragraph>8<footnoteref idref="id-0ccc6646-6380-4df1-8157-1579e7e9d9f9"></footnoteref>
+</paragraph>
+<paragraph>8<footnoteref idref="id-0ccc6646-6380-4df1-8157-1579e7e9d9f9"></footnoteref>
+</paragraph>6<footnoteref idref="id-0ccc6646-6380-4df1-8157-1579e7e9d9f9"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>↔</paragraph>
+<paragraph>↓ 21%</paragraph>
+<paragraph>↑ 12%</paragraph>
+<paragraph>↓ 16%</paragraph>
+<paragraph>↔</paragraph>
+<paragraph>↔</paragraph>
+<paragraph>↓ 11%</paragraph>
+<paragraph>(-17, -4%)</paragraph>
+<paragraph>↑ 10%</paragraph>
+<paragraph>(-9, 34%)</paragraph>
+<paragraph>↓ 10%</paragraph>(-27, 11%)</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>↔</paragraph>
+<paragraph>NA</paragraph>
+<paragraph>↔</paragraph>
+<paragraph>↔</paragraph>
+<paragraph>↔</paragraph>
+<paragraph>↑ 17%</paragraph>
+<paragraph>↓ 12%</paragraph>
+<paragraph>(-28, 8%)</paragraph>
+<paragraph>↓ 22%</paragraph>
+<paragraph>(-59, 49%)</paragraph>
+<paragraph>↓ 16.5%</paragraph>(-53, 47%)</td>
+</tr>
+</tbody>
+</table>

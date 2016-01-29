@@ -1,0 +1,84 @@
+<table border="1" cellpadding="0" cellspacing="0" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td rowspan="2">
+<content stylecode="bold">Co-Administered Drug </content>
+</td>
+<td rowspan="2" valign="top">
+<content stylecode="bold">Dosage Regimen of Co-Administered Drug </content>
+</td>
+<td rowspan="2">
+<content stylecode="bold">Dosage Regimen of Fenofibrate </content>
+</td>
+<td colspan="2" valign="top">
+<content stylecode="bold">Changes in Fenofibric Acid Exposure </content>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<content stylecode="bold">AUC </content>
+</td>
+<td valign="top">
+<content stylecode="bold">C<sub>max </sub>
+</content>
+</td>
+</tr>
+<tr>
+<td colspan="5" valign="top">
+<content stylecode="bold">No dosing adjustments required for fenofibrate with the following co-administered drugs </content>
+</td>
+</tr>
+<tr>
+<td colspan="5" valign="top">
+<content stylecode="italics">Lipid-lowing agents </content>
+</td>
+</tr>
+<tr>
+<td>Atorvastatin </td>
+<td valign="top">20 mg once daily for 10 days </td>
+<td valign="top">Fenofibrate 160 mg<sup>1</sup> once daily for 10 days </td>
+<td valign="top">↓2% </td>
+<td valign="top">↓4% </td>
+</tr>
+<tr>
+<td>Pravastatin </td>
+<td valign="top">40 mg as a single dose </td>
+<td valign="top">Fenofibrate 3 x 67 mg<sup>2</sup> as a single dose </td>
+<td valign="top">↓1% </td>
+<td valign="top">↓2% </td>
+</tr>
+<tr>
+<td>Fluvastatin </td>
+<td valign="top">40 mg as a single dose </td>
+<td valign="top">Fenofibrate 160 mg<sup>1</sup> as a single dose </td>
+<td valign="top">↓2% </td>
+<td valign="top">↓10% </td>
+</tr>
+<tr>
+<td colspan="5" valign="top">
+<content stylecode="italics">Anti-diabetic agents </content>
+</td>
+</tr>
+<tr>
+<td>Glimepiride </td>
+<td valign="top">1 mg once daily as a single dose </td>
+<td valign="top">Fenofibrate 145 mg<sup>1</sup> once daily for 10 days </td>
+<td valign="top">↑1% </td>
+<td valign="top">↓1% </td>
+</tr>
+<tr>
+<td>Metformin </td>
+<td valign="top">850 mg three times daily for 10 days </td>
+<td>Fenofibrate 54 mg<sup>1</sup> three times daily for 10 days </td>
+<td valign="top">↓9% </td>
+<td valign="top">↓6% </td>
+</tr>
+<tr>
+<td>Rosiglitazone </td>
+<td valign="top">8 mg once daily for 5 days </td>
+<td valign="top">Fenofibrate 145 mg<sup>1</sup> once daily for 14 days </td>
+<td valign="top">↑10% </td>
+<td valign="top">↑3% </td>
+</tr>
+</tbody>
+</table>

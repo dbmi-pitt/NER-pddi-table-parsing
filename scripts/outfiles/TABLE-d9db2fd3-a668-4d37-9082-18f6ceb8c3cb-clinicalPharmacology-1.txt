@@ -1,0 +1,30 @@
+<table id="i3b828313-70dc-4d2c-80e1-e8bc6f91cd1e" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>For testing Staphylococcus spp.</caption>
+<col width="50.65%"></col>
+<col width="25.97%"></col>
+<col width="23.37%"></col>
+<tbody>
+<tr>
+<td stylecode="    Lrule     " valign="top"> <content stylecode="bold">MIC (μg/mL)</content>
+</td>
+<td stylecode="     Botrule          Toprule     "> <content stylecode="bold">Interpretation</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule     " valign="top"> ≤ 2.0</td>
+<td> Susceptible</td>
+<td align="center" stylecode="     Rrule     "> (S)</td>
+</tr>
+<tr>
+<td stylecode="    Lrule     " valign="top"> 4.0</td>
+<td> Intermediate</td>
+<td align="center" stylecode="     Rrule     "> (I)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="top"> ≥ 8</td>
+<td stylecode="     Botrule     "> Resistant</td>
+<td align="center" stylecode="     Botrule          Rrule     "> (R)</td>
+</tr>
+</tbody>
+</table>

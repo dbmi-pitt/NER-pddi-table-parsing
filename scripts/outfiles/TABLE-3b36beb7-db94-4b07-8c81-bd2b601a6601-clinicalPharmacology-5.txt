@@ -1,0 +1,119 @@
+<table id="ID378" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6. Acceptable Quality Control Ranges for Ceftriaxone </caption>
+<col width="46%"></col>
+<col width="29%"></col>
+<col width="25%"></col>
+<tbody>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">QC Strain <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Minimum Inhibitory Concentrations (mcg/mL)<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">Disk Diffusion Zone diameters (mm)<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Escherichia </content>
+<content stylecode="italics">coli </content>
+<content stylecode="italics">ATCC </content>25922 <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">0.03 to 0.12<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">29 to 35<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Staphylococcus </content>
+<content stylecode="italics">aureus </content>
+<content stylecode="italics">ATCC </content>
+<content stylecode="italics">25923 </content>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">22 to 28<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Staphylococcus </content>
+<content stylecode="italics">aureus </content>
+<content stylecode="italics">ATCC </content>29213 <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">1 to 8<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Haemophilus </content>
+<content stylecode="italics">influenzae </content>
+<content stylecode="italics">ATCC </content>49247 <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">0.06 to 0.25<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">31 to 39<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Neisseria </content>
+<content stylecode="italics">gonorrhoeae </content>
+<content stylecode="italics">ATCC </content>49226 <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">0.004 to 0.015<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">39 to 51<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Pseudomonas </content>
+<content stylecode="italics">aeruginosa </content>
+<content stylecode="italics">ATCC </content>
+<content stylecode="italics">27853 </content>
+<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">8 to 64<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">17 to 23<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Streptococcus </content>
+<content stylecode="italics">pneumoniae </content>
+<content stylecode="italics">ATCC </content>49619 <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">0.03 to 0.12<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">30 to 35<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Bacteroides </content>
+<content stylecode="italics">fragilis </content>
+<content stylecode="italics">ATCC </content>25285 (agar method) <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">32 to 128<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Lrule Rrule Botrule Toprule" valign="top">
+<content stylecode="italics">Bacteroides </content>
+<content stylecode="italics">thetaiotaomicron </content>
+<content stylecode="italics">ATCC </content>29741 (agar method) <br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">64 to 256<br/>
+</td>
+<td align="center" stylecode=" Lrule Rrule Botrule Toprule" valign="top">-<br/>
+</td>
+</tr>
+</tbody>
+</table>

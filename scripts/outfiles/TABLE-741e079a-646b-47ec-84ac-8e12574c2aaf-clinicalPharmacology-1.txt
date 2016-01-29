@@ -1,0 +1,101 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table
+2 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single
+Doses of Mycophenolate Mofetil Capsules in Chronic Renal and Hepatic
+Impairment</caption>
+<col align="left" width="30%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="15%"></col>
+<col align="center" width="15%"></col>
+<col align="center" width="15%"></col>
+<tbody>
+<tr>
+<td stylecode="Lrule Botrule">
+<content stylecode="bold">Renal Impairment<br/>(no. of patients)</content>
+</td>
+<td stylecode="Lrule Botrule" valign="middle">
+<content stylecode="bold">Dose</content>
+</td>
+<td stylecode="Lrule Botrule">
+<content stylecode="bold">T<sub>max</sub>
+<br/>(h)</content>
+</td>
+<td stylecode="Lrule Botrule">
+<content stylecode="bold">C<sub>max</sub>
+<br/>(µg/mL)</content>
+</td>
+<td stylecode="Lrule Botrule Rrule">
+<content stylecode="bold">AUC(0–96h)<br/>(µg∙h/mL)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">Healthy Volunteers<br/>  GFR
+&gt;80 mL/min/1.73 m<sup>2</sup>
+<br/>  (n=6)</td>
+<td stylecode="Lrule Botrule">1 g</td>
+<td stylecode="Lrule Botrule">0.75<br/>(±0.27)</td>
+<td stylecode="Lrule Botrule">25.3<br/>(±7.99)</td>
+<td stylecode="Lrule Botrule Rrule">45.0<br/>(±22.6)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">Mild Renal Impairment<br/>  GFR
+50 to 80 mL/min/1.73 m<sup>2</sup>
+<br/>  (n=6)</td>
+<td stylecode="Lrule Botrule">1 g</td>
+<td stylecode="Lrule Botrule">0.75<br/>(±0.27)</td>
+<td stylecode="Lrule Botrule">26.0<br/>(±3.82)</td>
+<td stylecode="Lrule Botrule Rrule">59.9<br/>(±12.9)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">Moderate Renal Impairment<br/>  GFR
+25 to 49 mL/min/1.73 m<sup>2</sup>
+<br/>  (n=6)</td>
+<td stylecode="Lrule Botrule">1 g</td>
+<td stylecode="Lrule Botrule">0.75<br/>(±0.27)</td>
+<td stylecode="Lrule Botrule">19.0<br/>(±13.2)</td>
+<td stylecode="Lrule Botrule Rrule">52.9<br/>(±25.5)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">Severe Renal Impairment<br/>  GFR&lt;25
+mL/min/1.73 m<sup>2</sup>
+<br/>  (n=7)</td>
+<td stylecode="Lrule Botrule">1 g</td>
+<td stylecode="Lrule Botrule">1.00<br/>(±0.41)</td>
+<td stylecode="Lrule Botrule">16.3<br/>(±10.8)</td>
+<td stylecode="Lrule Botrule Rrule">78.6<br/>(±46.4)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">
+<content stylecode="bold">Hepatic Impairment<br/>(no. of patients)</content>
+</td>
+<td stylecode="Lrule Botrule" valign="middle">
+<content stylecode="bold">Dose</content>
+</td>
+<td stylecode="Lrule Botrule">
+<content stylecode="bold">T<sub>max</sub>
+<br/>(h)</content>
+</td>
+<td stylecode="Lrule Botrule">
+<content stylecode="bold">C<sub>max</sub>
+<br/>(µg/mL)</content>
+</td>
+<td stylecode="Lrule Botrule Rrule">
+<content stylecode="bold">AUC(0–48h)<br/>(µg∙h/mL)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">Healthy Volunteers<br/>  (n=6)</td>
+<td stylecode="Lrule Botrule">1 g</td>
+<td stylecode="Lrule Botrule">0.63<br/>(±0.14)</td>
+<td stylecode="Lrule Botrule">24.3<br/>(±5.73)</td>
+<td stylecode="Lrule Botrule Rrule">29.0<br/>(±5.78)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">Alcoholic Cirrhosis<br/>  (n=18)</td>
+<td stylecode="Lrule Botrule">1 g</td>
+<td stylecode="Lrule Botrule">0.85<br/>(±0.58)</td>
+<td stylecode="Lrule Botrule">22.4<br/>(±10.1)</td>
+<td stylecode="Lrule Botrule Rrule">29.8<br/>(±10.7)</td>
+</tr>
+</tbody>
+</table>

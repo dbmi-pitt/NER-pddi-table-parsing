@@ -1,0 +1,109 @@
+<table border="1" id="id_de15c76d-f1bd-4c44-903a-8b09217b4c6e" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="68px"></col>
+<col width="180px"></col>
+<col width="124px"></col>
+<col width="61px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<tbody>
+<tr id="id_e95d0dc0-8dca-42f2-afd9-29959c5795e7">
+<td align="center" colspan="7" stylecode="Botrule" valign="top">
+<content stylecode="bold">Recommended Ampicillin/Sulbactam, Susceptibility Ranges</content>
+<sup>1,2,3</sup>
+</td>
+</tr>
+<tr id="id_2798f418-4cbb-45f2-ae96-c4c63754d581">
+<td align="center" colspan="2" stylecode="Botrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Resistant</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Intermediate</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Susceptible</content>
+</td>
+</tr>
+<tr id="id_ac7954a3-3845-4f7b-93fb-f964d6da0c58">
+<td align="left" colspan="2" rowspan="2" stylecode="Botrule" valign="top">
+<content stylecode="italics">Gram(-) and </content>
+<content stylecode="italics">Staphylococcus </content>Bauer/Kirby Zone Sizes MIC (mcg of ampicillin/mL)</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">≤ 11 mm</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top"> 12 to 13 mm</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 14 mm</td>
+</tr>
+<tr id="id_b0ed3cd9-3d17-4b33-8f78-7c0cd81b202a">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">≥ 32</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">16</td>
+<td align="center" stylecode="Botrule" valign="top">≤ 8</td>
+</tr>
+<tr id="id_8f3603df-db96-4d9e-b050-5f414c72966d">
+<td align="left" colspan="2" stylecode="Botrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr id="id_3ee8b721-4505-4040-b053-dcb591a2c30c">
+<td align="left" colspan="2" rowspan="2" stylecode="Botrule" valign="top">
+<content stylecode="italics">Hemophilus influenza</content> Bauer/Kirby Zone Sizes MIC (mcg of ampicillin/mL)</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">≤ 19</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">--</td>
+<td align="center" stylecode="Botrule" valign="top">≥ 20</td>
+</tr>
+<tr id="id_30d38655-465a-417b-a4ad-93cd558c7e9c">
+<td align="center" colspan="2" stylecode="Botrule" valign="top">≥ 4</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">--</td>
+<td align="center" stylecode="Botrule" valign="top">≤ 2</td>
+</tr>
+<tr id="id_968406f1-9d30-49ac-8e59-c1d933655469">
+<td align="left" colspan="7" stylecode="Botrule" valign="top">
+<sup>1</sup>The non-beta-lactamase producing organisms which are normally susceptible to ampicillin, such as Streptococci, will have similar zone sizes as for ampicillin disks.</td>
+</tr>
+<tr id="id_8e276908-1fb0-476e-bea9-5e80be187d67">
+<td align="left" colspan="7" stylecode="Botrule" valign="top">
+<sup>2</sup>
+<content stylecode="italics">Staphylococci </content>resistant to methicillin, oxacillin, or nafcillin must be considered resistant to ampicillin and sulbactam for injection.</td>
+</tr>
+<tr id="id_cfd82d63-b63b-408f-9474-c6069984c9bd">
+<td align="left" colspan="7" stylecode="Botrule" valign="top">
+<sup>3</sup> The quality control cultures should have the following assigned daily ranges for ampicillin/sulbactam:</td>
+</tr>
+<tr id="id_5019fba2-15b7-49e7-99cb-8465a94c7bff">
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Disks</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Mode MIC </content>
+<content stylecode="bold">mcg/mL ampicillin/</content>
+<content stylecode="bold">mcg/mL sulbactam)</content>
+</td>
+</tr>
+<tr id="id_22d7fd10-1321-422d-a06f-932361c8d577">
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="italics">E. coli</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">(ATCC 25922)</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top"> 20 to 24 mm </td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top"> 2/1 </td>
+</tr>
+<tr id="id_08d21b78-936e-44cf-8382-05817b377d5a">
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="italics">S. aureus</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">(ATCC 25923)</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top"> 29 to 37 mm </td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top"> 0.12/0.06 </td>
+</tr>
+<tr id="id_764fe6b6-4aa3-43c3-9cba-f2c9ddcb79ed">
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="italics">E. coli</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">(ATCC 35218)</td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top"> 13 to 19 mm </td>
+<td align="center" colspan="2" stylecode="Botrule" valign="top">8/4 </td>
+</tr>
+</tbody>
+</table>

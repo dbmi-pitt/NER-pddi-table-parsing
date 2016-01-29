@@ -1,0 +1,114 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 16. Mean Pharmacokinetic Parameters in Pediatric Patients With Epilepsy</caption>
+<col width="30%"></col>
+<col width="17.5%"></col>
+<col width="17.5%"></col>
+<col width="17.5%"></col>
+<col width="17.5%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Pediatric Study Population </td>
+<td align="center" stylecode="     Botrule          Toprule          Rrule     "> Number of <br/>Subjects </td>
+<td align="center" stylecode="     Botrule          Toprule          Rrule     "> T<sub>max</sub>  (hr) </td>
+<td align="center" stylecode="     Botrule          Toprule          Rrule     "> t<sub>½</sub>  (hr) </td>
+<td align="center" stylecode="     Botrule          Toprule          Rrule     "> C1/F <br/>(mL/min/kg) </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <content stylecode="bold">Ages 10 months-5.3 years</content>
+</td>
+<td stylecode="     Rrule     ">   </td>
+<td stylecode="     Rrule     ">   </td>
+<td stylecode="     Rrule     ">   </td>
+<td stylecode="     Rrule     ">   </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Patients taking carbamazepine, phenytoin, phenobarbital, or primidone<footnote id="FOOT_5957">Carbamazpine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of Lamotrigine. Estrogen-containing oral contraceptives and rifampin have also been shown to increase the apparent clearance of Lamotrigine <content stylecode="italics">[see Drug Interactions (<linkhtml href="#LINK_aab13d7e-763d-426c-a612-5a5bd47f41bc">7</linkhtml>   )]</content>.</footnote>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 10 </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 3.0 <br/>(1.0<content stylecode="bold">-</content> 5.9) </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 7.7 <br/>(5.7<content stylecode="bold">-</content> 11.4) </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 3.62 <br/>(2.44<content stylecode="bold">-</content> 5.28) </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Patients taking AEDs with no known effect on the apparent clearance of Lamotrigine </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 7 </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 5.2 <br/>(2.9<content stylecode="bold">-</content> 6.1) </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 19.0 <br/>(12.9<content stylecode="bold">-</content> 27.1) </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 1.2 <br/>(0.75<content stylecode="bold">-</content> 2.42) </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Patients taking valproate only </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 8 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 2.9 <br/>(1.0<content stylecode="bold">-</content> 6.0) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 44.9 <br/>(29.5<content stylecode="bold">-</content> 52.5) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.47 <br/>(0.23<content stylecode="bold">-</content> 0.77) </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <content stylecode="bold">Ages 5-11 years</content>
+</td>
+<td align="center" stylecode="     Rrule     ">   </td>
+<td align="center" stylecode="     Rrule     ">   </td>
+<td align="center" stylecode="     Rrule     ">   </td>
+<td align="center" stylecode="     Rrule     ">   </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Patients taking carbamazepine, phenytoin, phenobarbital, or primidone<footnoteref idref="FOOT_5957"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 7 </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 1.6 <br/>(1.0<content stylecode="bold">-</content> 3.0) </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 7.0 <br/>(3.8<content stylecode="bold">-</content> 9.8) </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 2.54 <br/>(1.35<content stylecode="bold">-</content> 5.58) </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Patients taking carbamazepine, phenytoin, phenobarbital, or primidone<footnoteref idref="FOOT_5957"></footnoteref>   plus valproate </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 8 </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 3.3 <br/>(1.0<content stylecode="bold">-</content> 6.4) </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 19.1 <br/>(7.0<content stylecode="bold">-</content> 31.2) </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0.89 <br/>(0.39<content stylecode="bold">-</content> 1.93) </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Patients taking valproate only<footnote id="FOOT_5958">Two subjects were included in the calculation for mean T<sub>max</sub>   .</footnote>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 3 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 4.5 (3.0<content stylecode="bold">-</content> 6.0) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 65.8 (50.7<content stylecode="bold">-</content> 73.7) </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.24 (0.21<content stylecode="bold">-</content> 0.26) </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> <content stylecode="bold">Ages 13-18 years</content>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top">   </td>
+<td align="center" stylecode="     Rrule     " valign="top">   </td>
+<td align="center" stylecode="     Rrule     " valign="top">   </td>
+<td align="center" stylecode="     Rrule     " valign="top">   </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Patients taking carbamazepine, phenytoin, phenobarbital, or primidone<footnoteref idref="FOOT_5957"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 11 </td>
+<td align="center" stylecode="     Rrule     " valign="top"> <footnote id="FOOT_5959">Parameter not estimated.</footnote>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> <footnoteref idref="FOOT_5959"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 1.3 </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> Patients taking carbamazpine, phenytoin, phenobarbital, or primidone<footnoteref idref="FOOT_5957"></footnoteref>   plus valproate </td>
+<td align="center" stylecode="     Rrule     " valign="top"> 8 </td>
+<td align="center" stylecode="     Rrule     " valign="top"> <footnoteref idref="FOOT_5959"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> <footnoteref idref="FOOT_5959"></footnoteref>
+</td>
+<td align="center" stylecode="     Rrule     " valign="top"> 0.5 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Patients taking valproate only </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 4 </td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> <footnoteref idref="FOOT_5959"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> <footnoteref idref="FOOT_5959"></footnoteref>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> 0.3 </td>
+</tr>
+</tbody>
+</table>

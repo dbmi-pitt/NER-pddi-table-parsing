@@ -1,0 +1,98 @@
+<table id="table5" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5: Mean (CV%) Piperacillin and Tazobactam PK  Parameters</caption>
+<col align="left" valign="top" width="15%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="16%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="15%"></col>
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" colspan="7">
+<content stylecode="bold">Piperacillin</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td valign="bottom">Piperacillin/<br/>Tazobactam<br/>Dose<footnote id="t5f1">Piperacillin and tazobactam were given in combination, infused over 30 minutes.</footnote>
+</td>
+<td valign="bottom">C<sub>max </sub>mcg/mL</td>
+<td valign="bottom">AUC<footnote id="t5f2">Numbers in parentheses are coefficients of variation (CV%).</footnote> mcg∙h/mL</td>
+<td valign="bottom">CL mL/min</td>
+<td valign="bottom">V<br/>L</td>
+<td valign="bottom">T<sub>1/2</sub>
+<br/>h</td>
+<td valign="bottom">CL<sub>R </sub>mL/min</td>
+</tr>
+<tr>
+<td>2.25 g</td>
+<td>134</td>
+<td>131 (14)</td>
+<td>257</td>
+<td>17.4</td>
+<td>0.79</td>
+<td>--</td>
+</tr>
+<tr>
+<td>3.375 g</td>
+<td>242</td>
+<td>242 (10)</td>
+<td>207</td>
+<td>15.1</td>
+<td>0.84</td>
+<td>140</td>
+</tr>
+<tr stylecode="Botrule">
+<td>4.5 g</td>
+<td>298</td>
+<td>322 (16)</td>
+<td>210</td>
+<td>15.4</td>
+<td>0.84</td>
+<td>--</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" colspan="7">
+<content stylecode="bold">Tazobactam</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td valign="bottom">Piperacillin/<br/>Tazobactam<br/>Dose<footnoteref idref="t5f1"></footnoteref>
+</td>
+<td valign="bottom">C<sub>max</sub> mcg/mL</td>
+<td valign="bottom">AUC<footnoteref idref="t5f2"></footnoteref> mcg∙h/mL</td>
+<td valign="bottom">CL mL/min</td>
+<td valign="bottom">V<br/>L</td>
+<td valign="bottom">T<sub>1/2</sub>
+<br/>h</td>
+<td valign="bottom">CL<sub>R </sub>mL/min</td>
+</tr>
+<tr>
+<td align="center">2.25 g</td>
+<td>15</td>
+<td>16.0 (21)</td>
+<td>258</td>
+<td>17.0</td>
+<td>0.77</td>
+<td>--</td>
+</tr>
+<tr>
+<td align="center">3.375 g</td>
+<td>24</td>
+<td>25.0 (8)</td>
+<td>251</td>
+<td>14.8</td>
+<td>0.68</td>
+<td>166</td>
+</tr>
+<tr>
+<td align="center">4.5 g</td>
+<td>34</td>
+<td>39.8 (15)</td>
+<td>206</td>
+<td>14.7</td>
+<td>0.82</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>

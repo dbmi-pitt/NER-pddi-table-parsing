@@ -1,0 +1,31 @@
+<table id="SPLSERV-417e9fa8-0749-26bb-fcc5-24ba07322004" width="430" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="SPLSERV-89d53d8b-670a-cbaf-2e9a-c568cd1bff09">TABLE 3: GASTRIC ACID PARAMETERS RABEPRAZOLE VERSUS PLACEBO AFTER 7 DAYS OF ONCE DAILY DOSING</caption>
+<col width="43.3%"></col>
+<col width="31.9%"></col>
+<col width="24.9%"></col>
+<tbody>
+<tr id="SPLSERV-5168029c-2f52-ea67-0608-870717f99710">
+<td align="left" stylecode="Botrule Rrule" valign="middle">Parameter</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Rabeprazole (20 mg QD)</td>
+<td align="center" stylecode="Lrule Botrule" valign="middle">Placebo</td>
+</tr>
+<tr id="SPLSERV-bd5e8612-9107-7f2e-848a-3bbff8e75989">
+<td align="left" stylecode="Botrule Rrule" valign="middle">Basal Acid Output (mmol/hr)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.4<footnote id="SPLSERV-aa1f7c45-2bdf-8743-71fa-2501ec44c52b">(p &lt; 0.01 versus placebo)</footnote>
+</td>
+<td align="center" stylecode="Lrule Botrule" valign="middle">2.8</td>
+</tr>
+<tr id="SPLSERV-b0c1fa4b-6c0c-fc07-e954-47a3351a0366">
+<td align="left" stylecode="Botrule Rrule" valign="middle">Stimulated Acid Output (mmol/hr)</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.6<footnoteref idref="SPLSERV-aa1f7c45-2bdf-8743-71fa-2501ec44c52b"></footnoteref>
+</td>
+<td align="center" stylecode="Lrule Botrule" valign="middle">13.3</td>
+</tr>
+<tr id="SPLSERV-28aa3e7a-eaea-3fb5-6b02-212982c2546b">
+<td align="left" stylecode="Rrule" valign="middle">% Time Gastric pH &gt; 3</td>
+<td align="center" stylecode="Rrule" valign="middle">65<footnoteref idref="SPLSERV-aa1f7c45-2bdf-8743-71fa-2501ec44c52b"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">10</td>
+</tr>
+</tbody>
+</table>

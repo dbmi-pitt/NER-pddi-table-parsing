@@ -1,0 +1,109 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="22%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="17%"></col>
+<col width="9%"></col>
+<col width="16%"></col>
+<col width="9%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="7" stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Table 5: Susceptibility Test Interpretive Criteria for Cefazolin<sup>a</sup>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Pathogen</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Minimum Inhibitory Concentration (mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Disk Diffusion Zone Diameter (mm)b</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>S</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>I</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>R</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>S</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>I</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>R</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Escherichia coli</content>
+</paragraph>
+<paragraph>
+<content stylecode="italics">Proteus mirabilis</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≤1</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>≥4</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>-</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≤8</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>16</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≥32</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≥18</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>15 to 17</paragraph>
+</td>
+<td align="center" stylecode="Botrule Lrule ">
+<paragraph>≤14</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

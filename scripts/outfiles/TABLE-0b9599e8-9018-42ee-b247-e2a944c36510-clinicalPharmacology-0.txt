@@ -1,0 +1,86 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="20%"></col>
+<col width="13%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="18%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Dose</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">C<sub>max</sub>
+</content>
+<br/>
+<content stylecode="bold">(ng/mL)</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">AUC<sub>0-∞</sub>
+</content>
+<br/>
+<content stylecode="bold">(</content>
+<content stylecode="bold">n•gh</content>
+<content stylecode="bold">/mL)</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">T<sub>1/2</sub>(h)</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">CL</content>
+<br/>
+<content stylecode="bold">(L/h/m<sup>2</sup>)</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">AUC<sub>Cumulative</sub>
+</content>
+<content stylecode="bold">*** (</content>
+<content stylecode="bold">n•gh</content>
+<content stylecode="bold">/mL)</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph> 15 mg/m<sup>2</sup> 3-hr infusion every 8 hours for 3 days (Option 1)* </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>73.8<br/>(66)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>163<br/>(62)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>0.62<br/>(49)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>125<br/>(53)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="bottom">
+<paragraph>1332<br/>(1010-1730)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph> 20 mg/m<sup>2</sup> 1-hr infusion daily for 5 days (Option 2)** </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="bottom">
+<paragraph>147<br/>(49)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="bottom">
+<paragraph>115<br/>(43)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="bottom">
+<paragraph>0.54<br/>(43)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="bottom">
+<paragraph>210<br/>(47)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="bottom">
+<paragraph>570<br/>(470-700)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

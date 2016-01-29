@@ -1,0 +1,29 @@
+<table id="id_7f38ef95-d091-45ff-8d7e-9b8db6847d14" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_fa527b99-d6a0-4e1e-95ec-bc98ab1ced96">Using either an Agar Dilution Method<footnote id="idazhfkc">Range applicable only to tests performed using either Brucella blood or Wilkins-Chalgren agar.</footnote> or Using a Broth<footnote id="ida1hfkc">Range applicable only to tests performed in the broth formulation of Wilkins-Chalgren agar<sup>3</sup>.</footnote> Microdilution Method:</caption>
+<col align="left" width="33.0%"></col>
+<col align="center" width="33.0%"></col>
+<col align="center" width="34.0%"></col>
+<thead>
+<tr id="id_515448e6-e976-4de6-86ea-45f313b7d014">
+<td align="left" stylecode="Botrule" valign="top">Microorganism</td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top">MIC (µg/mL)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_38e50c8d-b866-4dbe-9f38-4dd39fff9d99">
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="italics">Bacteroides fragilis</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">ATCC 25285</td>
+<td align="center" valign="top">4-16</td>
+</tr>
+<tr id="id_88b90644-ac10-4ab8-883a-cceb1d7921b1">
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="italics">Bacteroides thetaiotaomicron</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">ATCC 29741</td>
+<td align="center" stylecode="Botrule" valign="top">8-32</td>
+</tr>
+</tbody>
+</table>

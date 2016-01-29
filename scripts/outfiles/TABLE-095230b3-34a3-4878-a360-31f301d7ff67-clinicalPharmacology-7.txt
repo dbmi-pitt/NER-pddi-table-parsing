@@ -1,0 +1,26 @@
+<table border="1" id="inv-7eb115ac-fc35-44a3-8ac6-d225f0a6587b" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="172px"></col>
+<col span="1" width="128px"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="underline">Zone Diameter (mm)</content>
+</td>
+<td>
+<content stylecode="underline">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≥ 23</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>19 to 22</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr>
+<td>≤ 18</td>
+<td>Resistant (R)</td>
+</tr>
+</tbody>
+</table>

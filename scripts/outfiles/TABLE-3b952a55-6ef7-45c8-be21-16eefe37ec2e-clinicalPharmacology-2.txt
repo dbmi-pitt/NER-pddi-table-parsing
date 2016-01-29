@@ -1,0 +1,87 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">QC Strain</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Minimum Inhibitory Concentrations<br/>(MICs = mcg/mL)</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Disk Diffusion<br/>(Zone diameters in mm)</content> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Staphylococcus aureus </content>ATCC® 29213</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.03-0.12 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> —</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Staphylococcus aureus </content>ATCC® 25923</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">—</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">29–37</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="italics">Streptococcus pneumoniae </content>ATCC® 49619</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.06-0.25</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">28–35</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Enterococcus faecalis </content>ATCC® 29212</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">2–8</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Escherichia coli </content>ATCC® 25922</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.008-0.06</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 28–34</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Haemophilus influenzae </content>ATCC® 49766</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.03-0.12 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "></td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Haemophilus influenzae </content>ATCC® 49247</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> —</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 20–28</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Pseudomonas aeruginosa </content>ATCC® 27853</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.25-1</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">27–33</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Bacteroides fragilis</content>
+<content stylecode="bold">
+<footnote id="FOOT_5615">Using the Reference Agar Dilution procedure.</footnote>
+</content> ATCC® 25285</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.03–0.25</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "></td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Bacteroides thetaiotaomicron</content>
+<content stylecode="bold">
+<footnoteref idref="FOOT_5615"></footnoteref>
+</content> ATCC® 29741</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 0.125-0.5</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Eggerthella lenta</content>
+<content stylecode="bold">
+<footnoteref idref="FOOT_5615"></footnoteref>
+</content> ATCC® 43055</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.125-1</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="italics">Clostridium difficile<footnoteref idref="FOOT_5615"></footnoteref> </content>ATCC® 700057</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">0.5-4 </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> </td>
+</tr>
+</tbody>
+</table>

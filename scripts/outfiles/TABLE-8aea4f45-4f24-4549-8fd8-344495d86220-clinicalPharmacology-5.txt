@@ -1,0 +1,39 @@
+<table id="inv-f04f9b3f-704c-4c30-a1d3-da6679bb416d" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="33.32%"></col>
+<col span="1" width="33.32%"></col>
+<col span="1" width="33.35%"></col>
+<tbody>
+<tr>
+<td>
+Zone Diameter (mm)</td>
+<td>
+Interpretation</td>
+<td>
+MIC (mcg/mL)</td>
+</tr>
+<tr>
+<td>
+≥ 19</td>
+<td>
+Susceptible (S)</td>
+<td>
+≤ 4</td>
+</tr>
+<tr>
+<td>
+15 to 18</td>
+<td>
+Intermediate (I)</td>
+<td>
+-</td>
+</tr>
+<tr>
+<td>
+≤ 14</td>
+<td>
+Resistant (R)</td>
+<td>
+≥ 16</td>
+</tr>
+</tbody>
+</table>

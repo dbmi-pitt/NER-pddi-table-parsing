@@ -1,0 +1,41 @@
+<table id="id_a9314827-ba90-4190-a8b2-667190ef60f1" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50%"></col>
+<col width="50%"></col>
+<tbody>
+<tr id="id_5eec4600-90f3-4fd4-ad2d-f691e8ee72e2" stylecode="Toprule">
+<td align="center" valign="top">
+<content stylecode="underline">Zone </content>
+<content stylecode="underline">Diameter </content>
+<content stylecode="underline">(</content>
+<content stylecode="underline">mm</content>
+<content stylecode="underline">)</content> <content stylecode="underline">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">Interpretation</content>
+<content stylecode="underline">
+<br/>
+</content>
+</td>
+</tr>
+<tr id="id_bed63294-f2ce-4a3d-8808-598966087c74">
+<td align="center" valign="top">≥27<br/>
+</td>
+<td align="center" valign="top">(S) Susceptible<br/>
+</td>
+</tr>
+<tr id="id_afff4b89-d654-430d-a89b-34ccdbf39e3d">
+<td align="center" valign="top">25-26<br/>
+</td>
+<td align="center" valign="top">(I) Intermediate<br/>
+</td>
+</tr>
+<tr id="id_8bb154d1-fd18-412a-8c85-838308ab1c25" stylecode="Botrule">
+<td align="center" valign="top">≤24<br/>
+</td>
+<td align="center" valign="top">(R) Resistant<br/>
+</td>
+</tr>
+</tbody>
+</table>

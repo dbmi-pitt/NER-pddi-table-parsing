@@ -1,0 +1,208 @@
+<table border="none" id="id_fb536aa5-0b80-4888-a1e6-d1b8ed22f523" width="624" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_aabb302a-ddf7-40dd-bc40-9264aad9288d">Table 3: Acceptable Quality Control Ranges for Susceptibility Testing  for Doxycycline and Tetracycline </caption>
+<col width="35.7%"></col>
+<col width="25.0%"></col>
+<col width="23.7%"></col>
+<col width="15.5%"></col>
+<tbody>
+<tr id="id_35b789d4-2f38-4550-8409-5d6b70647702" stylecode="Toprule">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">QC Strain</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">Minimal <br/>Inhibitory<br/>Concentration <br/>(mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">Zone <br/>Diameter <br/>(mm)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<paragraph>
+<content stylecode="bold">Agar <br/>Dilution <br/>(mcg/mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr id="id_12477481-a03b-4241-ba9c-6b4aa2e87f7e">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Enterococcus faecalis ATCC 29212</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_80b28ab6-c6cd-4c6b-a1ac-09daeb0af4a2">
+<td align="left" stylecode="Rrule" valign="top">     Doxycycline</td>
+<td align="center" stylecode="Rrule" valign="middle">2 - 8</td>
+<td align="center" stylecode="Rrule" valign="middle">-</td>
+<td align="center" valign="middle">-</td>
+</tr>
+<tr id="id_3c263f6f-04ad-463f-8f58-2973eb7d4634">
+<td align="left" stylecode="Botrule Rrule" valign="top">     Tetracycline</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">8 - 32</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+<td align="center" stylecode="Botrule" valign="middle">-</td>
+</tr>
+<tr id="id_63fbd6f7-3937-4194-9d8e-fe937c67ec15">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Escherichia coli ATCC 25922</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_6514e64b-0109-40d7-96ed-0167036ddfed">
+<td align="left" stylecode="Rrule" valign="top">     Doxycycline</td>
+<td align="center" stylecode="Rrule" valign="middle">0.5 - 2</td>
+<td align="center" stylecode="Rrule" valign="middle">18 - 24</td>
+<td align="center" valign="middle">- </td>
+</tr>
+<tr id="id_f57135e3-5109-4d12-9e44-87e74cc9b843">
+<td align="left" stylecode="Botrule Rrule" valign="top">     Tetracycline</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.5 - 2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">18 - 25</td>
+<td align="center" stylecode="Botrule" valign="middle">-</td>
+</tr>
+<tr id="id_c2a16ce9-a348-4050-9de8-ef047355a76e">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Haemophilus influenzae </content>ATCC 49247</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_34320b80-5410-48b4-9a28-01ca6339f466">
+<td align="left" stylecode="Botrule Rrule" valign="top">     Tetracycline</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4 - 32</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14 - 22</td>
+<td align="center" stylecode="Botrule" valign="middle">-</td>
+</tr>
+<tr id="id_56e0c346-5c64-466d-a752-a521451b2e7a">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Neisseria gonorrhoeae </content>ATCC 49226</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_c5fe7b02-c8b5-4be5-8004-d3719f662ba0">
+<td align="left" stylecode="Botrule Rrule" valign="top">     Tetracycline</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">30 - 42</td>
+<td align="center" stylecode="Botrule" valign="middle">0.25 - 1</td>
+</tr>
+<tr id="id_a46424d6-df22-459d-a2d0-4fb3acff9865">
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus ATCC 25923</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_51f905c0-e887-4c7f-a654-67d9a0221b84">
+<td align="left" stylecode="Rrule" valign="top">     Doxycycline</td>
+<td align="center" stylecode="Rrule" valign="middle">-</td>
+<td align="center" stylecode="Rrule" valign="middle">23 - 29</td>
+<td align="center" valign="middle">- </td>
+</tr>
+<tr id="id_41e038ff-f3b6-4937-816c-6adbc2a269d7">
+<td align="left" stylecode="Botrule Rrule" valign="top">     Tetracycline</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">24 - 30</td>
+<td align="center" stylecode="Botrule" valign="middle">-</td>
+</tr>
+<tr id="id_e925d0ef-aa03-4d6f-9683-5b4f34f27308">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus ATCC 29213</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_56b64e00-b2c3-4fb9-a39e-d8ea52caf77f">
+<td align="left" stylecode="Rrule" valign="top">     Doxycycline</td>
+<td align="center" stylecode="Rrule" valign="middle">0.12 - 0.5</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle">-</td>
+</tr>
+<tr id="id_7498a243-3df4-4576-88f4-c6b3d0e159d2">
+<td align="left" stylecode="Botrule Rrule" valign="top">     Tetracycline</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.12 - 1</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule" valign="middle">-</td>
+</tr>
+<tr id="id_51e7a6d8-b521-4000-86f4-6e3f07c1de49">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">
+<content stylecode="italics">Staphylococcus</content> pneumoniae ATCC 49619  </content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_f31059d2-9cc0-45d8-a9fd-b66cc94e1b74">
+<td align="left" stylecode="Rrule" valign="top">     Doxycycline</td>
+<td align="center" stylecode="Rrule" valign="middle">0.015 - 0.12</td>
+<td align="center" stylecode="Rrule" valign="middle">25 - 34</td>
+<td align="center" valign="middle">-</td>
+</tr>
+<tr id="id_35470c26-20bd-4445-9b70-7435e125889b">
+<td align="left" stylecode="Botrule Rrule" valign="top">     Tetracycline</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.06 - 0.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">27 - 31</td>
+<td align="center" stylecode="Botrule" valign="middle">-</td>
+</tr>
+<tr id="id_0c3f9e55-db0e-411c-b6b7-99d9b298b510">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Bacteroides fragilis </content>ATCC 25285</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_c0ad518a-20c3-41f0-a075-d376d6daa96c">
+<td align="left" stylecode="Botrule Rrule" valign="top">     Tetracycline</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+<td align="center" stylecode="Botrule" valign="middle">0.125 - 0.5</td>
+</tr>
+<tr id="id_d89fb4c6-b6e7-4583-aea0-6b2dead9bbc4">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Bacteroides thetaiotaomicron </content>ATCC 29741</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_15250168-cb6c-42f7-9da3-c2ae6f0a4628">
+<td align="left" stylecode="Botrule Rrule" valign="top">        Tetracycline</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">-</td>
+<td align="center" stylecode="Botrule" valign="middle">8 - 32</td>
+</tr>
+<tr id="id_f1c61e39-2a65-497c-93e1-e6b702396a10">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Mycoplasma pneumoniae </content>ATCC 29342</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_94cc3783-f84b-4388-a486-4735c0f1fff5">
+<td align="left" stylecode="Botrule Rrule" valign="top">     Tetracycline</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.06 - 0.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">- </td>
+<td align="center" stylecode="Botrule" valign="middle">0.06 - 0.5</td>
+</tr>
+<tr id="id_a40ef239-ecce-4a60-8896-7aac980ef160">
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="italics">Ureaplasma urealyticum </content>ATCC 33175</td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" stylecode="Rrule" valign="middle"></td>
+<td align="center" valign="middle"></td>
+</tr>
+<tr id="id_8ed380e4-28ac-45ef-857d-0207a424a6fb" stylecode="Botrule">
+<td align="left" stylecode="Rrule" valign="top">     Tetracycline</td>
+<td align="center" stylecode="Rrule" valign="middle">-</td>
+<td align="center" stylecode="Rrule" valign="middle">- </td>
+<td align="center" stylecode="Botrule" valign="middle">≥8</td>
+</tr>
+</tbody>
+</table>

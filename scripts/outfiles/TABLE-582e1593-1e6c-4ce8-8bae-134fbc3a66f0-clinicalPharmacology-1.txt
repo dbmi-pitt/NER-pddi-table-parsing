@@ -1,0 +1,101 @@
+<table id="id_f1a86fbc-ebd4-4f10-b5b2-a9d5bd739ff6" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_90a744fc-84c5-4b6a-83e4-f4e216bc7492">TABLE 5: Effect of Ezetimibe Co-Administration on Systemic Exposure to Other Drugs</caption>
+<col align="left" width="25%"></col>
+<col align="center" width="25%"></col>
+<col align="center" width="25%"></col>
+<col align="center" width="25%"></col>
+<thead>
+<tr id="id_2d6cb3c3-e0aa-4368-9411-3dffe04c729c" stylecode="Botrule">
+<td align="center" stylecode="Rrule" valign="top">Co-Administered Drug and its Dosage Regimen</td>
+<td align="left" stylecode="Rrule" valign="top">Ezetimibe Dosage Regimen</td>
+<td align="left" stylecode="Rrule" valign="top">Change in AUC of Co-Administered Drug</td>
+<td align="left" valign="top">Change in C<sub>max</sub> of Co-Administered Drug</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_1db0b418-de64-4fb2-ac0e-984a4c36a995" stylecode="Toprule">
+<td align="left" valign="top">Warfarin, 25 mg single dose on day 7 </td>
+<td align="left" stylecode="Toprule" valign="top">10 mg QD, 11 days</td>
+<td align="left" stylecode="Toprule" valign="top">↓2% (R-warfarin)<br/> ↓4% (S-warfarin)</td>
+<td align="left" valign="top">↑3% (R-warfarin)<br/> ↑1% (S-warfarin)</td>
+</tr>
+<tr id="id_4d568c51-2691-4195-a6fb-c899e16d7eae">
+<td align="left" valign="top">Digoxin, 0.5 mg single dose</td>
+<td align="left" valign="top">10 mg QD, 8 days</td>
+<td align="left" valign="top">↑2%</td>
+<td align="left" valign="top">↓7%</td>
+</tr>
+<tr id="id_fff03f85-3299-4bc8-bc34-772f42140d37">
+<td align="left" valign="top">Gemfibrozil, 600 mg BID, 7 days<footnote id="id-3cc9fb77-ecc5-49ab-9329-5ece329148ba">See <linkhtml href="#i4i_interactions_id_8dfd7207-0233-4973-aa49-4780c13af08e">Drug Interactions (7)</linkhtml>
+</footnote>
+</td>
+<td align="left" valign="top">10 mg QD, 7 days</td>
+<td align="left" valign="top">↓1%</td>
+<td align="left" valign="top">↓11%</td>
+</tr>
+<tr id="id_0b0794c5-f798-4807-81fb-738ea3486606">
+<td align="left" valign="top">Ethinyl estradiol &amp; Levonorgestrel, QD, 21 days</td>
+<td align="left" valign="top">10 mg QD, days 8–14 of 21d oral contraceptive cycle</td>
+<td align="left" valign="top">Ethinyl estradiol<br/> 0%<br/> Levonorgestrel<br/> 0%</td>
+<td align="left" valign="top">Ethinyl estradiol<br/> ↓9%<br/> Levonorgestrel<br/> ↓5%</td>
+</tr>
+<tr id="id_807f8b0a-964a-405d-8d38-bb336706f7ed">
+<td align="left" valign="top">Glipizide, 10 mg on days 1 and 9</td>
+<td align="left" valign="top">10 mg QD, days 2–9</td>
+<td align="left" valign="top">↓3%</td>
+<td align="left" valign="top">↓5%</td>
+</tr>
+<tr id="id_e7bd8bdc-3eb5-4829-bae3-9f501488fab9">
+<td align="left" valign="top">Fenofibrate, 200 mg QD, 14 days<footnoteref idref="id-3cc9fb77-ecc5-49ab-9329-5ece329148ba"></footnoteref>
+</td>
+<td align="left" valign="top">10 mg QD, 14 days</td>
+<td align="left" valign="top">↑11%</td>
+<td align="left" valign="top">↑7%</td>
+</tr>
+<tr id="id_edd48546-096a-4fc2-bee2-f22955436e33">
+<td align="left" valign="top">Cyclosporine, 100 mg single dose day 7<footnoteref idref="id-3cc9fb77-ecc5-49ab-9329-5ece329148ba"></footnoteref>
+</td>
+<td align="left" valign="top">20 mg QD, 8 days</td>
+<td align="left" valign="top">↑15%</td>
+<td align="left" valign="top">↑10%</td>
+</tr>
+<tr id="id_4ac177e2-524b-4de1-bff8-cd1409cbeca3">
+<td align="left" valign="top">
+<content stylecode="bold">Statins</content>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_b628126b-d009-4ba9-8797-8401d7275c68">
+<td align="left" valign="top">  Lovastatin 20 mg QD, 7 days</td>
+<td align="left" valign="top">10 mg QD, 7 days</td>
+<td align="left" valign="top">↑19%</td>
+<td align="left" valign="top">↑3%</td>
+</tr>
+<tr id="id_92662c26-df5b-4b36-a48b-5acb9126873e">
+<td align="left" valign="top">  Pravastatin 20 mg QD, 14 days</td>
+<td align="left" valign="top">10 mg QD, 14 days</td>
+<td align="left" valign="top">↓20%</td>
+<td align="left" valign="top">↓24%</td>
+</tr>
+<tr id="id_ee577d94-dc16-4c0d-bc9d-6d38932bdfa5">
+<td align="left" valign="top">  Atorvastatin 10 mg QD, 14 days</td>
+<td align="left" valign="top">10 mg QD, 14 days</td>
+<td align="left" valign="top">↓4%</td>
+<td align="left" valign="top">↑7%</td>
+</tr>
+<tr id="id_7ba21cfa-94bd-4f92-a233-15c2e12e4822">
+<td align="left" valign="top">  Rosuvastatin 10 mg QD, 14 days</td>
+<td align="left" valign="top">10 mg QD, 14 days</td>
+<td align="left" valign="top">↑19%</td>
+<td align="left" valign="top">↑17%</td>
+</tr>
+<tr id="id_1ec18d65-a703-40a9-bb0d-e3a86f835afa" stylecode="Botrule">
+<td align="left" valign="top">  Fluvastatin 20 mg QD, 14 days</td>
+<td align="left" valign="top">10 mg QD, 14 days</td>
+<td align="left" valign="top">↓39%</td>
+<td align="left" valign="top">↓27%</td>
+</tr>
+</tbody>
+</table>

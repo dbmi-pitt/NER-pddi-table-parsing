@@ -1,0 +1,201 @@
+<table id="table3" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Renal Transplantation</caption>
+<col align="left" valign="bottom" width="15%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="top" width="15%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule" valign="middle">Age Group</th>
+<th stylecode="Rrule" valign="middle">(n)</th>
+<th stylecode="Rrule" valign="middle">Time</th>
+<th colspan="2" stylecode="Rrule" valign="middle">T<sub>max</sub>
+<br/>  (h)</th>
+<th colspan="2" stylecode="Rrule" valign="middle">Dose Adjusted<footnote id="t3fta">adjusted to a dose of 600 mg/m<sup>2</sup>
+</footnote>
+<br/>C<sub>max</sub>
+<br/>(µg/mL)</th>
+<th colspan="2" stylecode="Rrule" valign="middle">Dose Adjusted<footnoteref idref="t3fta"></footnoteref>
+<br/>AUC<sub>0-12</sub>
+<br/>  (µg∙h/mL)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">Early (Day 7)</td>
+<td></td>
+<td stylecode="Rrule"></td>
+<td></td>
+<td stylecode="Rrule"></td>
+<td></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule">1 to &lt;2 yr</td>
+<td stylecode="Rrule">(6)<footnote id="t3ftd">a subset of 1 to &lt;6 yr</footnote>
+</td>
+<td stylecode="Rrule"></td>
+<td>3.03</td>
+<td stylecode="Rrule">(4.70)</td>
+<td>10.3</td>
+<td stylecode="Rrule">(5.80)</td>
+<td>22.5</td>
+<td stylecode="Rrule">(6.66)<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule">1 to &lt;6 yr</td>
+<td stylecode="Rrule">(17)</td>
+<td stylecode="Rrule"></td>
+<td>1.63</td>
+<td stylecode="Rrule">(2.85)</td>
+<td>13.2</td>
+<td stylecode="Rrule">(7.16)</td>
+<td>27.4</td>
+<td stylecode="Rrule">(9.54)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">6 to &lt;12 yr</td>
+<td stylecode="Rrule">(16)</td>
+<td stylecode="Rrule"></td>
+<td>0.940</td>
+<td stylecode="Rrule">(0.546)</td>
+<td>13.1</td>
+<td stylecode="Rrule">(6.30)</td>
+<td>33.2</td>
+<td stylecode="Rrule">(12.1)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">12 to 18 yr</td>
+<td stylecode="Rrule">(21)</td>
+<td stylecode="Rrule"></td>
+<td>1.16</td>
+<td stylecode="Rrule">(0.830)</td>
+<td>11.7</td>
+<td stylecode="Rrule">(10.7)</td>
+<td>26.3</td>
+<td stylecode="Rrule">(9.14)<footnote id="t3ftb">n=20</footnote>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">Late (Month 3)</td>
+<td></td>
+<td stylecode="Rrule"></td>
+<td></td>
+<td stylecode="Rrule"></td>
+<td></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule">1 to &lt;2 yr</td>
+<td stylecode="Rrule">(4)<footnoteref idref="t3ftd"></footnoteref>
+</td>
+<td stylecode="Rrule"></td>
+<td>0.725</td>
+<td stylecode="Rrule">(0.276)</td>
+<td>23.8</td>
+<td stylecode="Rrule">(13.4)</td>
+<td>47.4</td>
+<td stylecode="Rrule">(14.7)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">1 to &lt;6 yr</td>
+<td stylecode="Rrule">(15)</td>
+<td stylecode="Rrule"></td>
+<td>0.989</td>
+<td stylecode="Rrule">(0.511)</td>
+<td>22.7</td>
+<td stylecode="Rrule">(10.1)</td>
+<td>49.7</td>
+<td stylecode="Rrule">(18.2)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">6 to &lt;12 yr</td>
+<td stylecode="Rrule">(14)</td>
+<td stylecode="Rrule"></td>
+<td>1.21</td>
+<td stylecode="Rrule">(0.532)</td>
+<td>27.8</td>
+<td stylecode="Rrule">(14.3)</td>
+<td>61.9</td>
+<td stylecode="Rrule">(19.6)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">12 to 18 yr</td>
+<td stylecode="Rrule">(17)</td>
+<td stylecode="Rrule"></td>
+<td>0.978</td>
+<td stylecode="Rrule">(0.484)</td>
+<td>17.9</td>
+<td stylecode="Rrule">(9.57)</td>
+<td>53.6</td>
+<td stylecode="Rrule">(20.3)<footnote>n=16</footnote>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">Late (Month 9)</td>
+<td></td>
+<td stylecode="Rrule"></td>
+<td></td>
+<td stylecode="Rrule"></td>
+<td></td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr>
+<td stylecode="Lrule">1 to &lt;2 yr</td>
+<td stylecode="Rrule">(4)<footnoteref idref="t3ftd"></footnoteref>
+</td>
+<td stylecode="Rrule"></td>
+<td>0.604</td>
+<td stylecode="Rrule">(0.208)</td>
+<td>25.6</td>
+<td stylecode="Rrule">(4.25)</td>
+<td>55.8</td>
+<td stylecode="Rrule">(11.6)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">1 to &lt;6 yr</td>
+<td stylecode="Rrule">(12)</td>
+<td stylecode="Rrule"></td>
+<td>0.869</td>
+<td stylecode="Rrule">(0.479)</td>
+<td>30.4</td>
+<td stylecode="Rrule">(9.16)</td>
+<td>61.0</td>
+<td stylecode="Rrule">(10.7)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">6 to &lt;12 yr</td>
+<td stylecode="Rrule">(11)</td>
+<td stylecode="Rrule"></td>
+<td>1.12</td>
+<td stylecode="Rrule">(0.462)</td>
+<td>29.2</td>
+<td stylecode="Rrule">(12.6)</td>
+<td>66.8</td>
+<td stylecode="Rrule">(21.2)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">12 to 18 yr</td>
+<td stylecode="Rrule">(14)</td>
+<td stylecode="Rrule"></td>
+<td>1.09</td>
+<td stylecode="Rrule">(0.518)</td>
+<td>18.1</td>
+<td stylecode="Rrule">(7.29)</td>
+<td>56.7</td>
+<td stylecode="Rrule">(14.0)</td>
+</tr>
+</tbody>
+</table>

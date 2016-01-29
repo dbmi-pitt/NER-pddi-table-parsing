@@ -1,0 +1,82 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2.  Steady-State Estradiol Pharmacokinetic Parameters for Systems Applied to the Abdomen (mean ± standard deviation) Nonbaseline-corrected Data*</caption>
+<col width="155"></col>
+<col width="155"></col>
+<col width="155"></col>
+<col width="155"></col>
+<tfoot>
+<tr>
+<td colspan="4">
+<sup>*</sup>Mean baseline estradiol concentration =11.7 pg/mL</td>
+</tr>
+<tr>
+<td colspan="4">
+<sup>†</sup>Peak plasma concentration</td>
+</tr>
+<tr>
+<td colspan="4">
+<sup>‡</sup>Average plasma concentration</td>
+</tr>
+<tr>
+<td colspan="4">
+<sup>§</sup>Minimum plasma concentration at 84 hr</td>
+</tr>
+<tr>
+<td colspan="4">
+<sup>#</sup>Measured over 80 hr</td>
+</tr>
+<tr>
+<td colspan="4">
+<sup>¶</sup>Applied to the buttocks</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center">Dosage<br/>(mg/day)</td>
+<td align="center">
+												C<sub>max</sub>
+<sup>†</sup>
+<br/>(pg/mL)</td>
+<td align="center">
+												C<sub>avg</sub>
+<sup>‡</sup>
+<br/>(pg/mL)</td>
+<td align="center">
+												C<sub>min</sub> (84 hr)<sup>§</sup>
+<br/>(pg/mL)</td>
+</tr>
+<tr>
+<td align="center" stylecode="Toprule ">0.0375</td>
+<td align="center" stylecode="Toprule ">46 ± 16</td>
+<td align="center" stylecode="Toprule ">34 ± 10</td>
+<td align="center" stylecode="Toprule ">30 ±10</td>
+</tr>
+<tr>
+<td align="center">0.05</td>
+<td align="center">83 ± 41</td>
+<td align="center">57 ± 23<sup>#</sup>
+</td>
+<td align="center">41 ± 11<sup>#</sup>
+</td>
+</tr>
+<tr>
+<td align="center">0.075</td>
+<td align="center">99 ± 35</td>
+<td align="center">72 ± 24</td>
+<td align="center">60 ± 24</td>
+</tr>
+<tr>
+<td align="center">0.1</td>
+<td align="center">133 ± 51</td>
+<td align="center">89 ± 38</td>
+<td align="center">90 ± 44</td>
+</tr>
+<tr>
+<td align="center">0.1<sup>¶</sup>
+</td>
+<td align="center">145 ± 71</td>
+<td align="center">104 ± 52</td>
+<td align="center">85 ± 47</td>
+</tr>
+</tbody>
+</table>

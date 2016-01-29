@@ -1,0 +1,90 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7 Pharmacokinetic Parameters of Clonidine in Healthy Adult Volunteers </caption>
+<col width="103"></col>
+<col width="65"></col>
+<col width="85"></col>
+<col width="57"></col>
+<col width="57"></col>
+<col width="69"></col>
+<col width="75"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule Lrule Rrule "></td>
+<td align="center" colspan="2" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">CATAPRES-Fasted </content>
+<content stylecode="bold">
+<br/>n=15</content>
+</td>
+<td align="center" colspan="2" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">KAPVAY-Fed </content>
+<content stylecode="bold">
+<br/>n=15</content>
+</td>
+<td align="center" colspan="2" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">KAPVAY-Fasted </content>
+<content stylecode="bold">
+<br/>n=14</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Parameter</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Mean </content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">SD</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Mean</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">SD</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">MEAN</content>
+</td>
+<td align="center" stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">SD</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule "> C<sub>max </sub>(pg/mL)</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 443</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 59.6</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 235</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 34.7</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 258</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 33.3</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule "> AUC<sub>inf</sub>
+<br/>(hr*pg/mL)</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 7313</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 1812</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 6505</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 1728</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 6729</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 1650</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule "> hT<sub>max</sub> (hr)</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 2.07</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 0.5</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 6.80</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 3.61</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 6.50</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 1.23</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule "> T<sub>1/2 </sub>(hr)</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 12.57</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 3.11</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 12.67</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 3.76</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 12.65</td>
+<td align="center" stylecode="Toprule Lrule Rrule "> 3.56</td>
+</tr>
+</tbody>
+</table>

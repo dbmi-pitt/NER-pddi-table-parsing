@@ -1,0 +1,40 @@
+<table id="table1" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Pharmacokinetic Parameters for M1 after Administration of Leflunomide at Doses of 5, 10, and 25 mg/day for 24 Weeks to Patients (n=54) with Rheumatoid Arthritis (Mean ± SD) (Study YU204)</caption>
+<col align="left" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th colspan="4" stylecode="Lrule Rrule">Maintenance (Loading) Dose</th>
+</tr>
+<tr>
+<th stylecode="Lrule Rrule">  Parameter</th>
+<th stylecode="Rrule">5 mg (50 mg)</th>
+<th stylecode="Rrule">10 mg (100 mg)</th>
+<th stylecode="Rrule">25 mg (100 mg)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>24</sub> (Day 1) (μg/mL)<footnote>Concentration at 24 hours after loading dose</footnote>
+</td>
+<td stylecode="Rrule">4.0 ± 0.6</td>
+<td stylecode="Rrule">8.4 ± 2.1</td>
+<td stylecode="Rrule">8.5 ± 2.2</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>24</sub> (ss) (μg/mL)<footnote>Concentration at 24 hours after maintenance doses at steady state</footnote>
+</td>
+<td stylecode="Rrule">8.8 ± 2.9</td>
+<td stylecode="Rrule">18 ± 9.6</td>
+<td stylecode="Rrule">63 ± 36</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">t<sub>1/2</sub>(DAYS)</td>
+<td stylecode="Rrule">15 ± 3</td>
+<td stylecode="Rrule">14 ± 5</td>
+<td stylecode="Rrule">18 ± 9</td>
+</tr>
+</tbody>
+</table>

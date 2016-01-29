@@ -1,0 +1,171 @@
+<table border="single" id="id_88cbadd6-0e89-44b7-8c4a-d322815ab2bc" width="454.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="11.9%"></col>
+<col width="5.3%"></col>
+<col width="15.4%"></col>
+<col width="14.3%"></col>
+<col width="12.6%"></col>
+<col width="14.1%"></col>
+<col width="7.0%"></col>
+<col width="11.0%"></col>
+<col width="8.4%"></col>
+<tfoot id="id_f2ffa04a-758d-4826-88b7-abb48d60fb66">
+<tr>
+<td align="left" colspan="9" stylecode="Lrule Botrule Rrule" valign="top">* not applicable; †  Corrected for individual bioavailability; ‡  AUC<sub>0-120;</sub> § AUC<sub>0-72</sub>; ¶ AUC<sub>0</sub>-inf;  # not available</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_68603672-7126-4dd9-8bbf-f5f724e4041e">
+<td align="justify" rowspan="2" stylecode="Lrule Toprule Rrule" valign="top">
+<content stylecode="bold">Population</content>
+</td>
+<td align="justify" rowspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">N</content>
+</td>
+<td align="justify" rowspan="2" stylecode="Rrule" valign="top">
+<content stylecode="bold">Route (Dose)</content>
+</td>
+<td align="justify" colspan="6" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Parameters</content>
+</td>
+</tr>
+<tr id="id_1105da2b-896b-41d0-b7fa-fb0b68ce3c8c">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</paragraph>
+<content stylecode="bold">(ng/mL)</content>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">T<sub>max</sub>
+</content>
+</paragraph>
+<content stylecode="bold">(hr)</content>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">AUC (ng•hr/mL)</content>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">t</content>
+<sub>1/2</sub>
+<content stylecode="bold">(hr)</content>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">CI (L/hr/kg)</content>
+</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">V</content>
+</paragraph>
+<content stylecode="bold">(L/kg)</content>
+</td>
+</tr>
+<tr id="id_bb213d47-6790-4d17-b5bf-7b51145fbad4">
+<td align="justify" stylecode="Lrule Rrule" valign="top">Healthy Volunteers</td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>IV</paragraph>(0.025 mg/kg/4hr)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">*</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">*</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>598‡ </paragraph>± 125</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>34.2</paragraph>± 7.7</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.04</paragraph>± 0.009</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.91</paragraph>± 0.31</td>
+</tr>
+<tr id="id_edf4b168-8f10-4e14-bdd0-0f98025f1724">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="justify" stylecode="Botrule Rrule" valign="top">16</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>PO</paragraph>(5 mg)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">29.7 ± 7.2</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.6</paragraph>± 0.7</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">243§  ±73</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>34.8</paragraph>± 11.4</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.041† </paragraph>± 0.008</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.94† </paragraph>± 0.53</td>
+</tr>
+<tr id="id_0d765a64-eb8b-40a8-a8af-656a3254f215">
+<td align="justify" stylecode="Lrule Rrule" valign="top">Kidney Transplant Pts</td>
+<td align="justify" stylecode="Rrule" valign="top">26</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>IV</paragraph>(0.02 mg/kg/12hr)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">*</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">*</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">294¶ ±262</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>18.8</paragraph>± 16.7</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.083</paragraph>± 0.05</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>1.41</paragraph>± 0.66</td>
+</tr>
+<tr id="id_0f526e76-098b-4b1e-8a94-ae96bf521d09">
+<td align="justify" stylecode="Lrule Rrule" valign="top"></td>
+<td align="justify" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>PO</paragraph>(0.2 mg/kg/day)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>19.2 </paragraph>± 10.3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">3</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>203¶  </paragraph>± 42</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">#</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">#</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">#</td>
+</tr>
+<tr id="id_fb7d6ac0-c8f1-44d0-8d29-e0226674edb5">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="justify" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>PO</paragraph>(0.3 mg/kg/day)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>24.2</paragraph>± 15.8</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">1.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>288¶  </paragraph>± 93</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">#</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">#</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">#</td>
+</tr>
+<tr id="id_645fb891-fddd-4720-ae1d-fd31f43600d8">
+<td align="justify" stylecode="Lrule Rrule" valign="top">Liver Transplant Pts</td>
+<td align="justify" stylecode="Rrule" valign="top">17</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>IV</paragraph>(0.05 mg/kg/12hr)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">*</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">*</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>3300¶  </paragraph>± 2130</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>11.7 </paragraph>± 3.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.053 </paragraph>± 0.017</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<paragraph>0.85</paragraph>± 0.30</td>
+</tr>
+<tr id="id_17aa89fb-749a-45c6-8e23-90cb93bb7612">
+<td align="justify" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="justify" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>PO</paragraph>(0.3 mg/kg/day)</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>68.5 </paragraph>± 30</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>2.3 </paragraph>± 1.5</td>
+<td align="center" stylecode="Rrule" valign="top">
+<paragraph>519¶ </paragraph>± 179</td>
+<td align="center" stylecode="Rrule" valign="top">#</td>
+<td align="center" stylecode="Rrule" valign="top">#</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">#</td>
+</tr>
+</tbody>
+</table>

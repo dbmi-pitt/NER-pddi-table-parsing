@@ -1,0 +1,284 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4	Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir, Sofosbuvir, and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered Drug<footnote>All interaction studies conducted in healthy volunteers.</footnote>
+</caption>
+<col align="center" valign="middle" width="13%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="10%"></col>
+<col align="center" valign="middle" width="5%"></col>
+<col align="center" valign="middle" width="12%"></col>
+<col align="center" valign="middle" width="12%"></col>
+<col align="center" valign="middle" width="12%"></col>
+<col align="center" valign="middle" width="12%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Lrule Rrule" valign="bottom">Co-administered Drug 													</th>
+<th rowspan="2" stylecode="Rrule Botrule" valign="bottom">														Dose of Co-administered Drug <br/>(mg) 													</th>
+<th rowspan="2" stylecode="Rrule Botrule" valign="bottom">														Ledipasvir Dose<br/>(mg) 													</th>
+<th rowspan="2" stylecode="Rrule Botrule" valign="bottom">Sofosbuvir Dose<br/>(mg) 													</th>
+<th rowspan="2" stylecode="Rrule Botrule" valign="bottom">														N 													</th>
+<th colspan="4" stylecode="Rrule Botrule" valign="bottom">Mean Ratio (90% CI) of Ledipasvir, Sofosbuvir, and GS-331007 PK With/Without Coadministered Drug<br/>No Effect=1.00</th>
+</tr>
+<tr>
+<th stylecode="Rrule"></th>
+<th stylecode="Rrule">C<sub>max</sub>
+</th>
+<th stylecode="Rrule">AUC</th>
+<th stylecode="Rrule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="9" valign="top">NA = not available/not applicable, ND = not dosed.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td rowspan="3" stylecode="Lrule Rrule">Atazanavir/ ritonavir</td>
+<td rowspan="3" stylecode="Rrule">300/100 once daily</td>
+<td rowspan="3" stylecode="Rrule">90 once daily</td>
+<td rowspan="3" stylecode="Rrule">400 once daily</td>
+<td rowspan="3" stylecode="Rrule">30</td>
+<td stylecode="Rrule">ledipasvir</td>
+<td stylecode="Rrule">1.98<br/>(1.78, 2.20)</td>
+<td stylecode="Rrule">2.13<br/>(1.89, 2.40)</td>
+<td stylecode="Rrule">2.36<br/>(2.08, 2.67)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">sofosbuvir</td>
+<td stylecode="Rrule">0.96<br/>(0.88, 1.05)</td>
+<td stylecode="Rrule">1.08<br/> (1.02, 1.15)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">GS-331007</td>
+<td stylecode="Rrule">1.13<br/>(1.08, 1.19)</td>
+<td stylecode="Rrule">1.23<br/> (1.18, 1.29)</td>
+<td stylecode="Rrule">1.28<br/> (1.21, 1.36)</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule">Cyclosporine</td>
+<td rowspan="2" stylecode="Rrule">600 single dose</td>
+<td rowspan="2" stylecode="Rrule">ND</td>
+<td rowspan="2" stylecode="Rrule">400 single dose</td>
+<td rowspan="2" stylecode="Rrule">19</td>
+<td stylecode="Rrule">sofosbuvir</td>
+<td stylecode="Rrule">2.54<br/>(1.87, 3.45)</td>
+<td stylecode="Rrule">4.53<br/>(3.26, 6.30)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">GS-331007</td>
+<td stylecode="Rrule">0.60<br/> (0.53, 0.69)</td>
+<td stylecode="Rrule">1.04<br/>  (0.90, 1.20)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="3" stylecode="Lrule Rrule">Darunavir/ ritonavir</td>
+<td rowspan="3" stylecode="Rrule">800/100 once daily</td>
+<td stylecode="Rrule">90 once daily</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule">23</td>
+<td stylecode="Rrule">ledipasvir</td>
+<td stylecode="Rrule">1.45<br/>  (1.34, 1.56)</td>
+<td stylecode="Rrule">1.39<br/>  (1.28, 1.49)</td>
+<td stylecode="Rrule">1.39<br/>(1.29, 1.51)</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Rrule">ND</td>
+<td rowspan="2" stylecode="Rrule">400 single dose</td>
+<td rowspan="2" stylecode="Rrule">18</td>
+<td stylecode="Rrule">sofosbuvir</td>
+<td stylecode="Rrule">1.45<br/>(1.10, 1.92)</td>
+<td stylecode="Rrule">1.34<br/>(1.12, 1.59)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">GS-331007</td>
+<td stylecode="Rrule">0.97<br/>(0.90, 1.05)</td>
+<td stylecode="Rrule">1.24<br/>(1.18, 1.30)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="3" stylecode="Lrule Rrule">Efavirenz/ emtricitabine/ tenofovir DF<footnote>Administered as ATRIPLA<sup>®</sup> (efavirenz, emtricitabine, tenofovir DF).</footnote>
+</td>
+<td rowspan="3" stylecode="Rrule">600/200/300 once daily</td>
+<td rowspan="3" stylecode="Rrule">90 once daily</td>
+<td rowspan="3" stylecode="Rrule">400 once daily</td>
+<td rowspan="3" stylecode="Rrule">14</td>
+<td stylecode="Rrule">ledipasvir</td>
+<td stylecode="Rrule">0.66<br/> (0.59, 0.75)</td>
+<td stylecode="Rrule">0.66<br/>(0.59, 0.75)</td>
+<td stylecode="Rrule">0.66<br/>(0.57, 0.76)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">sofosbuvir</td>
+<td stylecode="Rrule">1.03<br/> (0.87, 1.23)</td>
+<td stylecode="Rrule">0.94<br/>  (0.81, 1.10)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">GS-331007</td>
+<td stylecode="Rrule">0.86<br/> (0.76, 0.96)</td>
+<td stylecode="Rrule">0.90<br/>  (0.83, 0.97)</td>
+<td stylecode="Rrule">1.07<br/> (1.02, 1.13)</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="3" stylecode="Lrule Rrule">Elvitegravir/ cobicistat</td>
+<td rowspan="3" stylecode="Rrule">150/150 once daily</td>
+<td rowspan="3" stylecode="Rrule">90 once daily</td>
+<td rowspan="3" stylecode="Rrule">400 once daily</td>
+<td rowspan="3" stylecode="Rrule">29</td>
+<td stylecode="Rrule">ledipasvir</td>
+<td stylecode="Rrule">1.63<br/> (1.51, 1.75)</td>
+<td stylecode="Rrule">1.78<br/>   (1.64, 1.94)</td>
+<td stylecode="Rrule">1.91<br/> (1.76, 2.08)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">sofosbuvir</td>
+<td stylecode="Rrule">1.33<br/>  (1.14, 1.56)</td>
+<td stylecode="Rrule">1.36<br/>  (1.21, 1.52)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">GS-331007</td>
+<td stylecode="Rrule">1.33<br/> (1.22, 1.44)</td>
+<td stylecode="Rrule">1.44<br/>  (1.41, 1.48)</td>
+<td stylecode="Rrule">1.53<br/>  (1.47, 1.59)</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="6" stylecode="Lrule Rrule">Famotidine</td>
+<td rowspan="3" stylecode="Rrule">40 single dose simultaneously with HARVONI</td>
+<td rowspan="6" stylecode="Rrule">90 single dose</td>
+<td rowspan="6" stylecode="Rrule">400 single dose</td>
+<td rowspan="3" stylecode="Rrule">12</td>
+<td stylecode="Rrule">ledipasvir</td>
+<td stylecode="Rrule">0.80<br/> (0.69, 0.93)</td>
+<td stylecode="Rrule">0.89<br/>  (0.76, 1.06)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">sofosbuvir</td>
+<td stylecode="Rrule">1.15<br/> (0.88, 1.50)</td>
+<td stylecode="Rrule">1.11<br/>  (1.00, 1.24)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">GS-331007</td>
+<td stylecode="Rrule">1.06<br/> (0.97, 1.14)</td>
+<td stylecode="Rrule">1.06<br/>   (1.02, 1.11)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="3" stylecode="Rrule">40 single dose 12 hours prior to HARVONI</td>
+<td rowspan="3" stylecode="Rrule">12</td>
+<td stylecode="Rrule">ledipasvir</td>
+<td stylecode="Rrule">0.83<br/> (0.69, 1.00)</td>
+<td stylecode="Rrule">0.98<br/>       (0.80, 1.20)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">sofosbuvir</td>
+<td stylecode="Rrule">1.00<br/>  (0.76, 1.32)</td>
+<td stylecode="Rrule">0.95<br/>  (0.82, 1.10)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">GS-331007</td>
+<td stylecode="Rrule">1.13<br/>  (1.07, 1.20)</td>
+<td stylecode="Rrule">1.06<br/>  (1.01, 1.12)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule">Methadone</td>
+<td rowspan="2" stylecode="Rrule">30 to 130 daily</td>
+<td rowspan="2" stylecode="Rrule">ND</td>
+<td rowspan="2" stylecode="Rrule">400 once daily</td>
+<td rowspan="2" stylecode="Rrule">14</td>
+<td stylecode="Rrule">sofosbuvir</td>
+<td stylecode="Rrule">0.95<br/>(0.68, 1.33)</td>
+<td stylecode="Rrule">1.30<br/>  (1.00, 1.69)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">GS-331007</td>
+<td stylecode="Rrule">0.73<br/>(0.65, 0.83)</td>
+<td stylecode="Rrule">1.04<br/>  (0.89, 1.22)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="4" stylecode="Lrule Rrule">Omeprazole</td>
+<td rowspan="3" stylecode="Rrule">20 once daily simultaneously with HARVONI</td>
+<td rowspan="3" stylecode="Rrule">90 single dose</td>
+<td rowspan="3" stylecode="Rrule">400 single dose</td>
+<td rowspan="3" stylecode="Rrule">16</td>
+<td stylecode="Rrule">ledipasvir</td>
+<td stylecode="Rrule">0.89<br/> (0.61, 1.30)</td>
+<td stylecode="Rrule">0.96<br/>  (0.66, 1.39)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">sofosbuvir</td>
+<td stylecode="Rrule">1.12<br/>  (0.88, 1.42)</td>
+<td stylecode="Rrule">1.00<br/>  (0.80, 1.25)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">GS-331007</td>
+<td stylecode="Rrule">1.14<br/> (1.01, 1.29)</td>
+<td stylecode="Rrule">1.03<br/>  (0.96, 1.12)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">20 once daily 2 hours prior to ledipasvir</td>
+<td stylecode="Rrule">30 single dose</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule">17</td>
+<td stylecode="Rrule">ledipasvir</td>
+<td stylecode="Rrule">0.52<br/>(0.41, 0.66)</td>
+<td stylecode="Rrule">0.58<br/>(0.48, 0.71)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifampin<footnote>This study was conducted in the presence of two other investigational HCV direct-acting agents.</footnote>
+</td>
+<td stylecode="Rrule">600 once daily</td>
+<td stylecode="Rrule">90 single dose</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule">31</td>
+<td stylecode="Rrule">ledipasvir</td>
+<td stylecode="Rrule">0.65<br/> (0.56, 0.76)</td>
+<td stylecode="Rrule">0.41<br/>  (0.36, 0.48)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Simeprevir</td>
+<td stylecode="Rrule">150 once daily</td>
+<td stylecode="Rrule">30 once daily</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule">22</td>
+<td stylecode="Rrule">ledipasvir</td>
+<td stylecode="Rrule">1.81<br/> (1.69, 2.94)</td>
+<td stylecode="Rrule">1.92<br/>  (1.77, 2.07)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="2" stylecode="Lrule Rrule">Tacrolimus</td>
+<td rowspan="2" stylecode="Rrule">5 single dose</td>
+<td rowspan="2" stylecode="Rrule">ND</td>
+<td rowspan="2" stylecode="Rrule">400 single dose</td>
+<td rowspan="2" stylecode="Rrule">16</td>
+<td stylecode="Rrule">sofosbuvir</td>
+<td stylecode="Rrule">0.97<br/>(0.65, 1.43)</td>
+<td stylecode="Rrule">1.13<br/>  (0.81, 1.57)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+<tr>
+<td stylecode="Rrule">GS-331007</td>
+<td stylecode="Rrule">0.97<br/>(0.83, 1.14)</td>
+<td stylecode="Rrule">1.00<br/>  (0.87, 1.13)</td>
+<td stylecode="Rrule">NA</td>
+</tr>
+</tbody>
+</table>

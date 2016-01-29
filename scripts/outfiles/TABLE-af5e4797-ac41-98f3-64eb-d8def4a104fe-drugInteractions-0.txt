@@ -1,0 +1,205 @@
+<table xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td colspan="1" rowspan="1" stylecode="Botrule">
+<content stylecode="bold">Drug Name</content>
+</td>
+<td colspan="1" rowspan="1" stylecode="Botrule">
+<content stylecode="bold">Effect on Concentration of </content>
+<content stylecode="bold">Nevirapine or Concomitant Drug</content>
+</td>
+<td colspan="1" rowspan="1" stylecode="Botrule">
+<content stylecode="bold">Clinical Comment</content>
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1" stylecode="Botrule">
+<content stylecode="bold">HIV Antiviral Agents: Protease Inhibitors (PIs)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1" stylecode="Botrule">Atazanavir/Ritonavir*</td>
+<td colspan="1" rowspan="1">↓ Atazanavir<br/>↑ Nevirapine</td>
+<td colspan="1" rowspan="1">Do not co-administer nevirapine with atazanavir because nevirapine substantially decreases atazanavir exposure and there is a potential risk for nevirapine-associated toxicity due to increased nevirapine exposures.</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Fosamprenavir*</td>
+<td colspan="1" rowspan="1">↓ Amprenavir<br/>↑ Nevirapine</td>
+<td colspan="1" rowspan="1">Co-administration of nevirapine and fosamprenavir without ritonavir is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">Fosamprenavir/Ritonavir*</td>
+<td colspan="1" rowspan="1">↓ Amprenavir<br/>
+<br/>↑ Nevirapine</td>
+<td colspan="1" rowspan="1">No dosing adjustments are required when nevirapine is co-administered with 700/100 mg of fosamprenavir/ritonavir twice daily. The combination of nevirapine administered with fosamprenavir/ritonavir once daily has not been studied.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">Indinavir*</td>
+<td colspan="1" rowspan="1">↓ Indinavir</td>
+<td colspan="1" rowspan="1">The appropriate doses of this combination of indinavir and nevirapine with respect to efficacy and safety have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">Lopinavir/Ritonavir*</td>
+<td colspan="1" rowspan="1">↓ Lopinavir</td>
+<td colspan="1" rowspan="1">Dosing in adult patients:<br/>
+<br/>A dose adjustment of lopinavir/ritonavir to 500/125 mg tablets twice daily or 533/133 mg (6.5 mL) oral solution twice daily is recommended when used in combination with nevirapine. Neither lopinavir/ritonavir tablets nor oral solution should be administered once daily in combination with nevirapine.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">Nelfinavir*</td>
+<td colspan="1" rowspan="1">↓ Nelfinavir M8 Metabolite<br/>↓ Nelfinavir C<sub>min</sub>
+</td>
+<td colspan="1" rowspan="1">The appropriate doses of the combination of nevirapine and nelfinavir with respect to safety and efficacy have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">Saquinavir/ritonavir</td>
+<td colspan="1" rowspan="1">The interaction between nevirapine and saquinavir/ritonavir has not been evaluated.</td>
+<td colspan="1" rowspan="1">The appropriate doses of the combination of nevirapine and saquinavir/ritonavir with respect to safety and efficacy have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" rowspan="1">
+<content stylecode="bold">HIV Antiviral Agents: Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)</content>
+</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Efavirenz*</td>
+<td colspan="1" rowspan="1">↓ Efavirenz</td>
+<td colspan="1" rowspan="1">The appropriate doses of these combinations with respect to safety and efficacy have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">Delavirdine<br/>Etravirine<br/>Rilpivirine</td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Plasma concentrations may be altered. Nevirapine should not be coadministered with another NNRTI as this combination has not been shown to be beneficial.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" rowspan="1">
+<content stylecode="bold">Hepatitis C Antiviral Agents </content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">Boceprevir </td>
+<td colspan="1" rowspan="1">Plasma concentrations of boceprevir may be decreased due to induction of CYP3A4/5 by nevirapine. </td>
+<td colspan="1" rowspan="1">Nevirapine and boceprevir should not be coadministered because decreases in boceprevir plasma concentrations may result in a reduction in efficacy. </td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">Telaprevir </td>
+<td colspan="1" rowspan="1">Plasma concentrations of telaprevir may be decreased due to induction of CYP3A4 by nevirapine and plasma concentrations of nevirapine may be increased due to inhibition of CYP3A4 by telaprevir.</td>
+<td colspan="1" rowspan="1">Nevirapine and telaprevir should not be coadministered because changes in plasma concentrations of nevirapine, telaprevir, or both may result in a reduction in telaprevir efficacy or an increase in nevirapine-associated adverse events.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" rowspan="1">
+<content stylecode="bold">Other Agents</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Analgesics:</content>
+<br/>Methadone*</td>
+<td colspan="1" rowspan="1">↓ Methadone</td>
+<td colspan="1" rowspan="1">Methadone levels were decreased; increased dosages may be required to prevent symptoms of opiate withdrawal. Methadone-maintained patients beginning nevirapine therapy should be monitored for evidence of withdrawal and methadone dose should be adjusted accordingly.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Antiarrhythmics:</content>
+<br/>Amiodarone, disopyramide, lidocaine</td>
+<td colspan="1" rowspan="1">Plasma concentrations may be decreased.</td>
+<td colspan="1" rowspan="1">Appropriate doses for this combination have not been established.</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Antibiotics:</content>
+<br/>Clarithromycin*</td>
+<td colspan="1" rowspan="1">↓ Clarithromycin<br/>↑ 14-OH clarithromycin</td>
+<td colspan="1" rowspan="1">Clarithromycin exposure was significantly decreased by nevirapine; however, 14-OH metabolite concentrations were increased. Because clarithromycin active metabolite has reduced activity against <content stylecode="italics">Mycobacterium avium-intracellulare complex</content>, overall activity against this pathogen may be altered. Alternatives to clarithromycin, such as azithromycin, should be considered.</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Rifabutin*</td>
+<td colspan="1" rowspan="1">↑ Rifabutin</td>
+<td colspan="1" rowspan="1">Rifabutin and its metabolite concentrations were moderately increased. Due to high intersubject variability, however, some patients may experience large increases in rifabutin exposure and may be at higher risk for rifabutin toxicity. Therefore, caution should be used in concomitant administration.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">Rifampin*</td>
+<td colspan="1" rowspan="1">↓ Nevirapine</td>
+<td colspan="1" rowspan="1">Nevirapine and rifampin should not be administered concomitantly because decreases in nevirapine plasma concentrations may reduce the efficacy of the drug. Physicians needing to treat patients co-infected with tuberculosis and using a nevirapine-containing regimen may use rifabutin instead.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Anticonvulsants:</content>
+<br/>Carbamazepine, clonazepam, ethosuximide</td>
+<td colspan="1" rowspan="1">Plasma concentrations of nevirapine and the anticonvulsant may be decreased.</td>
+<td colspan="1" rowspan="1">Use with caution and monitor virologic response and levels of anticonvulsants.</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Antifungals:</content>
+<br/>Fluconazole*</td>
+<td colspan="1" rowspan="1">↑ Nevirapine</td>
+<td colspan="1" rowspan="1">Because of the risk of increased exposure to nevirapine, caution should be used in concomitant administration, and patients should be monitored closely for nevirapine-associated adverse events.</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Ketoconazole*</td>
+<td colspan="1" rowspan="1">↓ Ketoconazole</td>
+<td colspan="1" rowspan="1">Nevirapine and ketoconazole should not be administered concomitantly because decreases in ketoconazole plasma concentrations may reduce the efficacy of the drug.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">Itraconazole</td>
+<td colspan="1" rowspan="1">↓ Itraconazole</td>
+<td colspan="1" rowspan="1">Nevirapine and itraconazole should not be administered concomitantly due to potential decreases in itraconazole plasma concentrations that may reduce efficacy of the drug.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Antithrombotics:</content>
+<br/>Warfarin</td>
+<td colspan="1" rowspan="1">Plasma concentrations may be increased.</td>
+<td colspan="1" rowspan="1">Potential effect on anticoagulation. Monitoring of anticoagulation levels is recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Calcium channel blockers:</content>
+<br/>Diltiazem, nifedipine, verapamil</td>
+<td colspan="1" rowspan="1">Plasma concentrations may be decreased.</td>
+<td colspan="1" rowspan="1">Appropriate doses for these combinations have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Cancer chemotherapy:</content>
+<br/>Cyclophosphamide</td>
+<td colspan="1" rowspan="1">Plasma concentrations may be decreased.</td>
+<td colspan="1" rowspan="1">Appropriate doses for this combination have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Ergot alkaloids:</content>
+<br/>Ergotamine</td>
+<td colspan="1" rowspan="1">Plasma concentrations may be decreased.</td>
+<td colspan="1" rowspan="1">Appropriate doses for this combination have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Immunosuppressants:</content>
+<br/>Cyclosporine, tacrolimus, sirolimus</td>
+<td colspan="1" rowspan="1">Plasma concentrations may be decreased.</td>
+<td colspan="1" rowspan="1">Appropriate doses for these combinations have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Motility agents:</content>
+<br/>Cisapride</td>
+<td colspan="1" rowspan="1">Plasma concentrations may be decreased.</td>
+<td colspan="1" rowspan="1">Appropriate doses for this combination have not been established.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Opiate agonists:</content>
+<br/>Fentanyl</td>
+<td colspan="1" rowspan="1">Plasma concentrations may be decreased.</td>
+<td colspan="1" rowspan="1">Appropriate doses for this combination have not been established.</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">
+<content stylecode="bold">Oral contraceptives:</content>
+<br/>Ethinyl estradiol and Norethindrone*</td>
+<td colspan="1" rowspan="1">↓ Ethinyl estradiol<br/>↓ Norethindrone</td>
+<td colspan="1" rowspan="1">Oral contraceptives and other hormonal methods of birth control should not be used as the sole method of contraception in women taking nevirapine, since nevirapine may lower the plasma levels of these medications. An alternative or additional method of contraception is recommended.</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,65 @@
+<table id="T8" width="85%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8:Pharmacokinetic Parameters of Stavudine in HIV-1-Infected Adults: Bioavailability, Distribution, and Clearance</caption>
+<col align="left" valign="top" width="50%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Parameter</th>
+<th stylecode="Rrule">Mean ± SD</th>
+<th stylecode="Rrule">n</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Oral bioavailability (%)</td>
+<td stylecode="Rrule">86.4 ± 18.2</td>
+<td stylecode="Rrule">25</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Volume of distribution (L)<footnote id="t8fn1">Following 1-hour IV infusion.</footnote>
+</td>
+<td stylecode="Rrule">46 ± 21</td>
+<td stylecode="Rrule">44</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Total body clearance (mL/min)<footnoteref idref="t8fn1"></footnoteref>
+</td>
+<td stylecode="Rrule">594 ± 164</td>
+<td stylecode="Rrule">44</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Apparent oral clearance (mL/min)<footnote id="t8fn2">Following single oral dose.</footnote>
+</td>
+<td stylecode="Rrule">560 ± 182<footnote>Assuming a body weight of 70 kg.</footnote>
+</td>
+<td stylecode="Rrule">113</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Renal clearance (mL/min)<footnoteref idref="t8fn1"></footnoteref>
+</td>
+<td stylecode="Rrule">237 ± 98</td>
+<td stylecode="Rrule">39</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Elimination half-life, IV dose (h)<footnoteref idref="t8fn1"></footnoteref>
+</td>
+<td stylecode="Rrule">1.15 ± 0.35</td>
+<td stylecode="Rrule">44</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Elimination half-life, oral dose (h)<footnoteref idref="t8fn2"></footnoteref>
+</td>
+<td stylecode="Rrule">1.6 ± 0.23</td>
+<td stylecode="Rrule">8</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Urinary recovery of stavudine (% of dose)<footnoteref idref="t8fn1"></footnoteref>
+<sup>,</sup>
+<footnote>Over 12–24 hours.</footnote>
+</td>
+<td stylecode="Rrule">42 ± 14</td>
+<td stylecode="Rrule">39</td>
+</tr>
+</tbody>
+</table>

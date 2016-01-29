@@ -1,0 +1,45 @@
+<table frame="box" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<th colspan="6">
+<content stylecode="bold">Clarithromycin Tissue Concentrations 2 hours after Dose (mcg/mL)/(mcg/g)</content>
+</th>
+</tr>
+<tr align="center" valign="top">
+<td>
+<content stylecode="bold">Treatment</content>
+</td>
+<td>
+<content stylecode="bold">N</content>
+</td>
+<td>
+<content stylecode="bold">antrum</content>
+</td>
+<td>
+<content stylecode="bold">fundus</content>
+</td>
+<td>
+<content stylecode="bold">N</content>
+</td>
+<td rowspan="1">
+<content stylecode="bold">mucus</content>
+</td>
+</tr>
+<tr align="center">
+<td>Clarithromycin</td>
+<td>5</td>
+<td>10.48 ± 2.01</td>
+<td>20.81 ± 7.64</td>
+<td>4</td>
+<td rowspan="1">4.15 ± 7.74</td>
+</tr>
+<tr align="center">
+<td>Clarithromycin + Omeprazole</td>
+<td>5</td>
+<td>19.96 ± 4.71</td>
+<td>24.25 ± 6.37</td>
+<td>4</td>
+<td rowspan="1">39.29 ± 32.79</td>
+</tr>
+</tbody>
+</table>

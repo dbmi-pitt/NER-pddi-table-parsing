@@ -1,0 +1,42 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2: Pharmacokinetic Parameters (Median, Range)</caption>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  <content stylecode="bold">Pharmacokinetic Parameter</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  <content stylecode="bold">Week 1</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  <content stylecode="bold">Week 24</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  C<sub>max </sub>(mcg/mL)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  0.8 (0.4 to 1.3)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  1.5 (0.2 to 5.5)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  AUC<sub>0-t</sub> (hr•mcg/mL)<footnote id="FOOT_5800">Area under the plasma galsulfase concentration-time curve from start of infusion to 60 minutes post infusion.</footnote>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  2.3 (1.0 to 3.5)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  4.3 (0.3 to 14.2)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  Vz (mL/kg)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  103 (56 to 323)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  69 (59 to 2,799)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  CL (mL/kg/min)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  7.2 (4.7 to 10.5)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  3.7 (1.1 to 55.9)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  Half-life (min)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  9 (6 to 21)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  26 (8 to 40)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,29 @@
+<table id="id_542bd81f-765f-48d6-be4f-0ffdf6684003" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<tbody>
+<tr id="id_1085bedc-cbca-4610-a6d2-d1de2ec9e998">
+<td align="center" stylecode="Toprule" valign="top"> <content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" valign="top"> <content stylecode="underline">MIC Range (mcg/mL)</content>
+</td>
+</tr>
+<tr id="id_51d49b9d-8a6e-45b2-bbc9-e79944e5ffd4">
+<td align="center" valign="top"> <content stylecode="italics">E. coli </content>ATCC 25922</td>
+<td align="center" valign="top"> 2 to 8</td>
+</tr>
+<tr id="id_497202e2-62b2-4f29-8fa0-0745923c4081">
+<td align="center" valign="top"> <content stylecode="italics">E. faecalis</content> ATCC 29212</td>
+<td align="center" valign="top"> 0.5 to 2</td>
+</tr>
+<tr id="id_f4b7ea7e-4093-43eb-9c02-7de30678aa71">
+<td align="center" valign="top"> <content stylecode="italics">H. influenzae </content>ATCC 49247<sup>d</sup>
+</td>
+<td align="center" valign="top"> 2 to 8</td>
+</tr>
+<tr id="id_0e11e39f-bffe-4070-a09b-4fd76273e419">
+<td align="center" stylecode="Botrule" valign="top"> <content stylecode="italics">S. aureus </content>ATCC 29213</td>
+<td align="center" stylecode="Botrule" valign="top"> 0.25 to 1</td>
+</tr>
+</tbody>
+</table>

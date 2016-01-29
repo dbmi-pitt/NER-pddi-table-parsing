@@ -1,0 +1,53 @@
+<table width="591px" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5. Acceptable QualityControlRanges for Amoxicillin</caption>
+<thead>
+<tr stylecode="First Last">
+<th align="center" stylecode="Lrule Rrule Toprule">Bacteria</th>
+<th align="center" stylecode="Lrule Rrule Toprule">ATCC#</th>
+<th align="center" stylecode="Lrule Rrule Toprule">MICRange (mcg/mL)</th>
+<th align="center" stylecode="Lrule Rrule Toprule">DiskDiffusionZoneRange (mm)</th>
+</tr>
+</thead>
+<tfoot>
+<tr stylecode="First Last">
+<td># ATCC = American Type Culture Collection</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule First">
+<td stylecode="Lrule Rrule" valign="top"> Escherichia coli</td>
+<td align="center" stylecode="Rrule" valign="top">25922</td>
+<td align="center" stylecode="Rrule" valign="top">2 to 8</td>
+<td align="center" stylecode="Rrule" valign="top">16 to 22</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Enterococcus faecalis</td>
+<td align="center" stylecode="Rrule" valign="top">29212</td>
+<td align="center" stylecode="Rrule" valign="top">0.5 to 2</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Haemophilus influenzae</td>
+<td align="center" stylecode="Rrule" valign="top">49247</td>
+<td align="center" stylecode="Rrule" valign="top">2 to 8</td>
+<td align="center" stylecode="Rrule" valign="top">13 to 21</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top"> Staphylococcus aureus</td>
+<td align="center" stylecode="Rrule" valign="top">29213</td>
+<td align="center" stylecode="Rrule" valign="top">0.5 to 2</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">25923</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top">27 to 35</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top"> Streptococcus pneumoniae</td>
+<td align="center" stylecode="Rrule" valign="top">49619</td>
+<td align="center" stylecode="Rrule" valign="top">0.06 to 0.25</td>
+<td align="center" stylecode="Rrule" valign="top"></td>
+</tr>
+</tbody>
+</table>

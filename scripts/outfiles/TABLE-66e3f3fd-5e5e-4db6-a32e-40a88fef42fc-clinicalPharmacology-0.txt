@@ -1,0 +1,47 @@
+<table id="id_f7316539-1d9a-48e9-80e0-d2bee7441118" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_9bea0f6c-315c-4d00-bb36-6a6d574ccee2">TABLE 1. Controlled PHN Studies: Duration, Dosages, and Number of Patients</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_29dd68b9-b6d9-41f9-a865-66b96c4c28f0" stylecode="Botrule">
+<td align="left" valign="top">Study</td>
+<td align="center" valign="top">Study<br/>Duration</td>
+<td align="center" valign="top">Gabapentin<br/>(mg/day)<sup>a</sup>
+<br/>Target Dose</td>
+<td align="center" valign="top">Patients<br/>Receiving<br/>Gabapentin</td>
+<td align="center" valign="top">Patients<br/>Receiving<br/>Placebo</td>
+</tr>
+</thead>
+<tfoot id="id_4137f69d-9a2b-4ff6-a3b0-2be10da771e5">
+<tr>
+<td align="left" colspan="5" valign="top">
+<sup>a</sup> Given in 3 divided doses (TID)</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_cebfcbec-ef4e-4664-96a3-1b918257fdbe" stylecode="Toprule">
+<td align="left" valign="top">1</td>
+<td align="center" stylecode="Toprule" valign="top">8 weeks</td>
+<td align="center" stylecode="Toprule" valign="top">3600</td>
+<td align="center" stylecode="Toprule" valign="top">113</td>
+<td align="center" valign="top">116</td>
+</tr>
+<tr id="id_7796ee5e-d195-43eb-b880-01fef315a8cb">
+<td align="left" valign="top">2</td>
+<td align="center" valign="top">7 weeks</td>
+<td align="center" valign="top">1800, 2400</td>
+<td align="center" valign="top">223</td>
+<td align="center" valign="top">111</td>
+</tr>
+<tr id="id_c40e84d3-2e4a-4022-9c64-a09572501f83">
+<td align="left" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">Total</td>
+<td align="center" valign="top">336</td>
+<td align="center" valign="top">227</td>
+</tr>
+</tbody>
+</table>

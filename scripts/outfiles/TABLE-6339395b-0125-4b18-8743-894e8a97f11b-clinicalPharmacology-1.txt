@@ -1,0 +1,117 @@
+<table width="70%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Clinical Results at Nine Months of Doxycycline Hyclate Capsules, 20 mg, as an Adjunct to SRP(Bioequivalent to Doxycycline Hyclate Tablets, 20 mg)</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th valign="bottom">Parameter</th>
+<th align="center" colspan="2" valign="bottom">Baseline Pocket Depth</th>
+<th align="center" valign="bottom"></th>
+</tr>
+<tr>
+<th valign="bottom"></th>
+<th align="center" valign="bottom">0-3 mm</th>
+<th align="center" valign="bottom">4-6 mm</th>
+<th align="center" valign="bottom">≥ 7 mm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom"> Number of Patients<br/>(Doxycycline Hyclate Tablets 20mg BID)</td>
+<td align="center" valign="bottom"> 90</td>
+<td align="center" valign="bottom"> 90</td>
+<td align="center" valign="bottom"> 79</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="bottom"> Number of Patients<br/>  (Placebo)</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 93</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 93</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 78</td>
+</tr>
+<tr>
+<td valign="bottom"> Mean Gain (SD) in ALv<footnote id="FOOT_1524">Alv=Clinical Attachment Level</footnote>
+</td>
+<td align="center" valign="bottom"> </td>
+<td align="center" valign="bottom"> </td>
+<td align="center" valign="bottom"> </td>
+</tr>
+<tr>
+<td valign="bottom"> Doxycycline Hyclate 20 mg BID</td>
+<td align="center" valign="bottom"> 0.25 (0.29) mm</td>
+<td align="center" valign="bottom"> 1.03 (0.47) mm<footnote id="FOOT_1525">p&lt;0.050 vs. the placebo control group.</footnote>
+</td>
+<td align="center" valign="bottom"> 1.55 (1.16)mm<footnoteref idref="FOOT_1525"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="bottom">   Placebo</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 0.20 (0.29) mm</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 0.86 (0.48) mm</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 1.17 (1.15) mm</td>
+</tr>
+<tr>
+<td valign="bottom"> Mean Decrease (SD<footnote id="FOOT_1526">SD=Standard Deviation</footnote>) in PD<footnote id="FOOT_1527">PD=Pocket Depth</footnote>
+</td>
+<td align="center" valign="bottom"> </td>
+<td align="center" valign="bottom"> </td>
+<td align="center" valign="bottom"> </td>
+</tr>
+<tr>
+<td valign="bottom"> Doxycycline Hyclate 20 mg BID</td>
+<td align="center" valign="bottom"> 0.16 (0.19) mm<footnote id="FOOT_1528">p&lt;0.010 vs. the placebo control group.</footnote>
+</td>
+<td align="center" valign="bottom"> 0.95 (0.47) mm<footnoteref idref="FOOT_1528"></footnoteref>
+</td>
+<td align="center" valign="bottom"> 1.68 (1.07)mm<footnoteref idref="FOOT_1528"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="bottom">   Placebo</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 0.05 (0.19) mm</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 0.69 (0.48) mm</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 1.20 (1.06) mm</td>
+</tr>
+<tr>
+<td valign="bottom"> % of Sites (SD<footnoteref idref="FOOT_1526"></footnoteref>) with loss of ALv<footnoteref idref="FOOT_1524"></footnoteref> ≥ 2 mm</td>
+<td align="center" valign="bottom"> </td>
+<td align="center" valign="bottom"> </td>
+<td align="center" valign="bottom"> </td>
+</tr>
+<tr>
+<td valign="bottom"> Doxycycline Hyclate 20 mg BID</td>
+<td align="center" valign="bottom"> 1.9 (4.2)%</td>
+<td align="center" valign="bottom"> 1.3 (4.5)%</td>
+<td align="center" valign="bottom"> 0.3 (9.4)%<footnoteref idref="FOOT_1525"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="bottom">   Placebo</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 2.2 (4.1)%</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 2.4 (4.4)%</td>
+<td align="center" stylecode="     Botrule     " valign="bottom"> 3.6 (9.4)%</td>
+</tr>
+<tr>
+<td valign="bottom"> % of Sites (SD<footnoteref idref="FOOT_1526"></footnoteref>) with BOP<footnote id="FOOT_1529">BOP=Bleeding on Probing</footnote>
+</td>
+<td align="center" valign="bottom"> </td>
+<td align="center" valign="bottom"> </td>
+<td align="center" valign="bottom"> </td>
+</tr>
+<tr>
+<td valign="bottom"> Doxycycline Hyclate 20 mg BID</td>
+<td align="center" valign="bottom"> 39 (19)%<footnoteref idref="FOOT_1528"></footnoteref>
+</td>
+<td align="center" valign="bottom"> 64 (18)%<footnoteref idref="FOOT_1525"></footnoteref>
+</td>
+<td align="center" valign="bottom"> 75 (29)%</td>
+</tr>
+<tr>
+<td valign="bottom">   Placebo</td>
+<td align="center" valign="bottom"> 46 (19)%</td>
+<td align="center" valign="bottom"> 70 (18)%</td>
+<td align="center" valign="bottom"> 80 (29)%</td>
+</tr>
+</tbody>
+</table>

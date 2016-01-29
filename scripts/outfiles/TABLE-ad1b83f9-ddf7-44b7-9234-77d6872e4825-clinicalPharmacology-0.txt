@@ -1,0 +1,120 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>Dose</paragraph>
+<paragraph>(Infusion</paragraph>
+<paragraph>Rate)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>Maximum</paragraph>
+<paragraph>Concentration</paragraph>
+<paragraph>(mcg/mL)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>Percent</paragraph>
+<paragraph>of Dose</paragraph>
+<paragraph>Excreted</paragraph>
+<paragraph>in Urine</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>Total</paragraph>
+<paragraph>Clearance</paragraph>
+<paragraph>(mL/min)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="bottom">
+<paragraph>Renal</paragraph>
+<paragraph>Clearance</paragraph>
+<paragraph>(mL/min)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>30 mg</paragraph>
+<paragraph>(4 hrs)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>0.73</paragraph>
+<paragraph>(0.14, 19.1%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>43.9</paragraph>
+<paragraph>(14, 31.9%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>136</paragraph>
+<paragraph>(44, 32.4%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>58</paragraph>
+<paragraph>(27, 46.5%)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>60 mg</paragraph>
+<paragraph>(4 hrs)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>1.44</paragraph>
+<paragraph>(0.57, 39.6%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>47.4</paragraph>
+<paragraph>(47.4, 54.4%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>88</paragraph>
+<paragraph>(56, 63.6%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>42</paragraph>
+<paragraph>(28, 66.7%)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>90 mg</paragraph>
+<paragraph>(4 hrs)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>2.61</paragraph>
+<paragraph>(0.74, 28.3%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>45.3</paragraph>
+<paragraph>(25.8, 56.9%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>103</paragraph>
+<paragraph>(37, 35.9%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>44</paragraph>
+<paragraph>(16, 36.4%)</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>90 mg</paragraph>
+<paragraph>(24 hrs)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>1.38</paragraph>
+<paragraph>(1.97, 142.7%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>47.5</paragraph>
+<paragraph>(10.2, 21.5%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>101</paragraph>
+<paragraph>(58, 57.4%)</paragraph>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule Botrule" valign="middle">
+<paragraph>52</paragraph>
+<paragraph>(42, 80.8%)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

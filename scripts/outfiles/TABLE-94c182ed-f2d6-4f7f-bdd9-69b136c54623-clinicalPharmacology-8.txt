@@ -1,0 +1,33 @@
+<table border="1" frame="border" id="inv-d2a956aa-e289-482c-beed-d1749f3aead2" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-d68a5a9e-a57f-4320-bc6c-aead79ab10a9">Susceptibility Test Interpretive Criteria for Staphylococcus aureus</caption>
+<col id="inv-c82fed9a-de1b-423d-9d4e-92cf518c7dc0" width="212.00px"></col>
+<col id="inv-07c44625-0d1e-4f4e-8b08-0e513afa0b25" width="395.00px"></col>
+<tbody id="inv-646f2afe-c297-4ffa-af55-55ab6dd56b45">
+<tr id="inv-b5cfd260-6ed3-401c-9146-c24402f21f0f">
+<td align="center" id="inv-7f5860cb-4f81-4924-801e-64f50115b7b0">
+<content stylecode="bold">Zone diameter (mm)</content>
+</td>
+<td id="inv-f4262cf9-7151-4208-b10d-f5cc09477aaf">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr id="inv-0b826f28-4807-4c16-9222-03f4ae7bddcd">
+<td align="center" id="inv-854fb4c5-754a-49f3-a21e-a9c40429ed0b">
+≥ 18 </td>
+<td id="inv-29901fe1-a297-4582-a6ff-48d0352e83bc">
+Susceptible  (S)</td>
+</tr>
+<tr id="inv-fa7a4528-45ac-4d76-9c0f-b94a198b6a9b">
+<td align="center" id="inv-20d5efab-61ad-41a1-923d-4988194b1209">
+14 to 17 </td>
+<td id="inv-b96c502e-1e70-42d9-9804-2bfefb5980f6">
+Intermediate  (I)</td>
+</tr>
+<tr id="inv-adda7953-64a6-4fb9-a9e7-bdaad8d2f956">
+<td align="center" id="inv-c567ca0b-866d-44c6-920c-8f63929740a8">
+≤ 13</td>
+<td id="inv-098b4c03-627a-44b8-a7fd-e5761b8ec44b">
+Resistant  (R)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,80 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 4: Percent of Excellent or Good Intubating Conditions and Median (Range) Time to Completion of Intubation in Patients with Intubation Initiated at 60 to 70 Seconds</caption>
+<col></col>
+<col></col>
+<col></col>
+<tfoot>
+<tr>
+<td colspan="3" valign="top">
+<paragraph>*Excludes patients undergoing Cesarean section </paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+<paragraph>**Pediatric patients were under halothane anesthesia </paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+<paragraph>Excellent intubating conditions=jaw relaxed, vocal cords apart and immobile, no diaphragmatic movement </paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+<paragraph>Good intubating conditions=same as excellent but with some diaphragmatic movement</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Rocuronium Bromide Dose (mg/kg)<br/>Administered over 5 sec</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Percent of Patients With<br/>Excellent or Good<br/>Intubating Conditions</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Time to Completion<br/>of Intubation<br/>(min)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Adults* 18 to 64 yrs</paragraph>
+<paragraph>0.45 (N=43)</paragraph>
+<paragraph>0.6 (n=51)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>86%</paragraph>
+<paragraph>96%</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>1.6 (1.0-7.0)</paragraph>
+<paragraph>1.6 (1.0-3.2)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Infants** 3 mo to 1 yr</paragraph>
+<paragraph>0.6 (n=18)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>100% </paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>1.0 (1.0-1.5)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Pediatric** 1 to 12 yrs</paragraph>
+<paragraph>0.6 (n=12)</paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>100% </paragraph>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>1.0 (0.5-2.3)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

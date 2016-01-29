@@ -1,0 +1,27 @@
+<table id="id_bb5f348a-7482-44c5-90b6-ee6c870a5972" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_3e42344b-6a5e-493e-afcd-07a127658ee1">Table 2.  Acceptable Quality Control Ranges for Flucytosine to be Used in Validation of Susceptibility Test Results.</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_663061c2-10e8-4cac-a6b3-5629fdfd541e">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">QC Strain</td>
+<td align="center" stylecode="Rrule" valign="top">Macrodilution<br/>(MIC in μg/mL)<br/>@ 48 hours</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Microdilution<br/>(MIC in μg/mL)<br/>@ 48 hours</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_552a3661-d437-4df3-9037-2fc43f577464">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="top">
+<content stylecode="italics">Candida parapsilosis</content> ATCC 22019</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.12-0.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.12-0.5</td>
+</tr>
+<tr id="id_95e9cc80-40a6-417a-8125-e28fc50808f9">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">Candida krusei</content> ATCC 6258</td>
+<td align="center" stylecode="Rrule" valign="top">4.0-16</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">8.0-32</td>
+</tr>
+</tbody>
+</table>

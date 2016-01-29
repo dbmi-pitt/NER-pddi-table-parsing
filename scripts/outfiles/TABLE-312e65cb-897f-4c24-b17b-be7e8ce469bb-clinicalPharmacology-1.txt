@@ -1,0 +1,153 @@
+<table border="1" id="id_b3b496bb-cbbc-4490-afeb-6631bec585fc" width="432.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_259944de-94e1-4a79-8155-6b8f797137b3">Table 11: Susceptibility Interpretive Criteria for Levofloxacin</caption>
+<col width="32.2%"></col>
+<col width="11.6%"></col>
+<col width="9.3%"></col>
+<col width="10.2%"></col>
+<col width="12.3%"></col>
+<col width="9.5%"></col>
+<col width="15.0%"></col>
+<tbody>
+<tr id="id_d69c4ff6-d399-4899-b117-b6377f9dc97d">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="bottom"></td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Disk Diffusion (zone diameter in mm)</content>
+</td>
+</tr>
+<tr id="id_b07a7d85-54a5-4a0b-a9da-d513c8268905">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">R</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">R</content>
+</td>
+</tr>
+<tr id="id_ad3293a1-8d52-4703-a7b0-579f87dec0ef">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14 to 16</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13</td>
+</tr>
+<tr id="id_1fa1b837-dedc-4973-81a7-691b05e6ae40">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14 to 16</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13</td>
+</tr>
+<tr id="id_1804bb69-b98a-4bf4-922d-7d3817bf54dd">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Methicillin-susceptible <content stylecode="italics">Staphylococcus</content> species</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14 to 16</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13</td>
+</tr>
+<tr id="id_ef39409e-dabe-4cd4-aff7-1b0adab08727">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14 to 16</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13</td>
+</tr>
+<tr id="id_ee020489-a0b8-4f2e-a072-90901a8c8340">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2<footnote id="id-7c2ffb52-79be-46ad-a978-08b24215de1c">These interpretive standards are applicable only to broth microdilution susceptibility testing with <content stylecode="italics">Haemophilus influenzae</content> and <content stylecode="italics">Haemophilus parainfluenzae</content> using Haemophilus Test Medium.<sup>1</sup>
+</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--<footnote id="id-299e92b6-10f7-4f07-a5f4-ef9bc436183e">The current absence of data on resistant strains precludes defining any categories other than “Susceptible.” Strains yielding MIC/zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--<footnoteref idref="id-299e92b6-10f7-4f07-a5f4-ef9bc436183e"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 17<footnote id="id-ec4166d0-29e5-4268-a46e-222257123a92">These interpretive standards are applicable only to disk diffusion susceptibility testing with <content stylecode="italics">Haemophilus influenzae</content> and <content stylecode="italics">Haemophilus parainfluenzae</content> using Haemophilus Test Medium.<sup>2</sup>
+</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--<footnoteref idref="id-299e92b6-10f7-4f07-a5f4-ef9bc436183e"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--<footnoteref idref="id-299e92b6-10f7-4f07-a5f4-ef9bc436183e"></footnoteref>
+</td>
+</tr>
+<tr id="id_e391522d-1685-4a11-ab61-916f4bd1b71f">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus parainfluenzae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2<footnoteref idref="id-7c2ffb52-79be-46ad-a978-08b24215de1c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--<footnoteref idref="id-299e92b6-10f7-4f07-a5f4-ef9bc436183e"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--<footnoteref idref="id-299e92b6-10f7-4f07-a5f4-ef9bc436183e"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 17<footnoteref idref="id-ec4166d0-29e5-4268-a46e-222257123a92"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--<footnoteref idref="id-299e92b6-10f7-4f07-a5f4-ef9bc436183e"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">--<footnoteref idref="id-299e92b6-10f7-4f07-a5f4-ef9bc436183e"></footnoteref>
+</td>
+</tr>
+<tr id="id_7bbfc793-3c69-43ce-92c8-2ac773ca1120">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2<footnote id="id-75bd6c11-9d33-4454-a544-26829f599303">These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4<footnoteref idref="id-75bd6c11-9d33-4454-a544-26829f599303"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 8<footnoteref idref="id-75bd6c11-9d33-4454-a544-26829f599303"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 17<footnote id="id-7396182d-164b-44cc-becd-e2a5349f860c">These zone diameter standards for <content stylecode="italics">Streptococcus</content> spp. including <content stylecode="italics">S. pneumoniae</content> apply only to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO<sub>2</sub>.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14 to 16<footnoteref idref="id-7396182d-164b-44cc-becd-e2a5349f860c"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13<footnoteref idref="id-7396182d-164b-44cc-becd-e2a5349f860c"></footnoteref>
+</td>
+</tr>
+<tr id="id_9f9d1896-07df-4a65-a49c-ae93624630bc">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Streptococcus pyogenes</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14 to 16</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13</td>
+</tr>
+<tr id="id_bead33d9-1432-4598-83ac-5d9950625e4d">
+<td align="left" colspan="7" stylecode="Lrule Botrule Rrule" valign="middle">S = Susceptible, I = Intermediate, R = Resistant</td>
+</tr>
+</tbody>
+</table>

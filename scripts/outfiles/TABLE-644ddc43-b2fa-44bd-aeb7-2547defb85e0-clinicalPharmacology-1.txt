@@ -1,0 +1,86 @@
+<table id="id_553efdad-2ce1-44a6-8c31-4a3be0c68a69" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_18d49561-06e6-41c6-b57d-cf235c640a0f">Table 7 Oseltamivir Carboxylate Exposures in Patients With Normal and Reduced Serum Creatinine Clearance</caption>
+<col align="left" width="12%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="18%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<col align="center" width="10%"></col>
+<thead>
+<tr id="id_e3b61ea5-4577-48b3-9bbf-a343bc27d81a" stylecode="Toprule">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Parameter</td>
+<td align="left" colspan="3" stylecode="Botrule Rrule" valign="top">Normal Renal Function</td>
+<td align="left" colspan="5" stylecode="Lrule Botrule Rrule" valign="top">Impaired Renal Function</td>
+</tr>
+<tr id="id_99fe7c69-0e56-46af-b8a8-2921e0caaa81">
+<td align="left" rowspan="3" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="left" rowspan="3" stylecode="Botrule Rrule" valign="top">75 mg<br/>once daily</td>
+<td align="left" rowspan="3" stylecode="Botrule Rrule" valign="top">75 mg<br/>twice daily</td>
+<td align="left" rowspan="3" stylecode="Botrule Rrule" valign="top">150 mg<br/>twice daily</td>
+<td align="left" colspan="2" stylecode="Botrule Rrule" valign="top">Creatinine Clearance<br/>&lt;10 mL/min</td>
+<td align="left" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">Creatinine Clearance<br/>&gt;10 and &lt;30 mL/min</td>
+</tr>
+<tr id="id_fbc30210-c073-40cb-8d14-038516068457">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">CAPD</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Hemodialysis</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="bottom">75 mg<br/>daily</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">75 mg<br/>alternate days</td>
+<td align="left" rowspan="2" stylecode="Lrule Botrule Rrule" valign="bottom">30 mg<br/>daily</td>
+</tr>
+<tr id="id_4ec7b3aa-0983-4879-b3fa-748dc0185c2a" stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">30 mg<br/>weekly</td>
+<td align="left" stylecode="Rrule" valign="top">30 mg alternate<br/>HD cycle</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_a91d1403-15f5-494e-8ffe-e01a91d5e279" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">C<sub>max</sub>
+</td>
+<td align="left" stylecode="Rrule" valign="top">259<footnote id="id-16b38f75-542a-4b11-a28d-3d4e2e81d30b">Observed values. All other values are predicted.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">348<footnoteref idref="id-16b38f75-542a-4b11-a28d-3d4e2e81d30b"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">705<footnoteref idref="id-16b38f75-542a-4b11-a28d-3d4e2e81d30b"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">766</td>
+<td align="left" stylecode="Rrule" valign="top">850</td>
+<td align="left" stylecode="Rrule" valign="top">1638</td>
+<td align="left" stylecode="Rrule" valign="top">1175</td>
+<td align="left" stylecode="Rrule" valign="top">655</td>
+</tr>
+<tr id="id_7bab31dd-d5bc-40d6-96cd-d8019b4b53fb">
+<td align="left" stylecode="Lrule Rrule" valign="top">C<sub>min</sub>
+</td>
+<td align="left" stylecode="Rrule" valign="top">39<footnoteref idref="id-16b38f75-542a-4b11-a28d-3d4e2e81d30b"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">138<footnoteref idref="id-16b38f75-542a-4b11-a28d-3d4e2e81d30b"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">288<footnoteref idref="id-16b38f75-542a-4b11-a28d-3d4e2e81d30b"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">62</td>
+<td align="left" stylecode="Rrule" valign="top">48</td>
+<td align="left" stylecode="Rrule" valign="top">864</td>
+<td align="left" stylecode="Rrule" valign="top">209</td>
+<td align="left" stylecode="Rrule" valign="top">346</td>
+</tr>
+<tr id="id_1552db2f-6518-428e-9c29-10d08e5c2f1d" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">AUC<sub>48</sub>
+<footnote id="id-96605a51-9a9e-4f48-8b3c-3b5c0602d62f">AUC normalized to 48 hours.</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">7476<footnoteref idref="id-16b38f75-542a-4b11-a28d-3d4e2e81d30b"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">10876<footnoteref idref="id-16b38f75-542a-4b11-a28d-3d4e2e81d30b"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">21864<footnoteref idref="id-16b38f75-542a-4b11-a28d-3d4e2e81d30b"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">17381</td>
+<td align="left" stylecode="Rrule" valign="top">12429</td>
+<td align="left" stylecode="Rrule" valign="top">62636</td>
+<td align="left" stylecode="Rrule" valign="top">21999</td>
+<td align="left" stylecode="Rrule" valign="top">25054</td>
+</tr>
+</tbody>
+</table>

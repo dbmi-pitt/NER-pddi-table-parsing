@@ -1,0 +1,48 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" colspan="2" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Time Point</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Amoxicillin concentration in plasma (mcg/mL)</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Amoxicillin concentration in MEF (mcg/mL)</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">1 hour<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">mean<br/>median<br/>range<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">7.7<br/>9.3<br/>1.5 to 14<br/>(n=5)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">3.2<br/>3.5<br/>0.2 to 5.5<br/>(n=4)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">2 hour<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">mean<br/>median<br/>range<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">15.7<br/>13<br/>11 to 25<br/>(n=7)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">3.3<br/>2.4<br/>1.9 to 6<br/>(n=5)<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule" valign="top">3 hour<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">mean<br/>median<br/>range<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">13<br/>12<br/>5.5 to 21<br/>(n=5)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">5.8<br/>6.5<br/>3.9 to 7.4<br/>(n=5)<br/>
+</td>
+</tr>
+</tbody>
+</table>

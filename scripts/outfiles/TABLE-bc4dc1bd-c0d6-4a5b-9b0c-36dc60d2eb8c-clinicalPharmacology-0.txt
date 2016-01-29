@@ -1,0 +1,201 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="16%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="12%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="6%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="12%"></col>
+<tbody>
+<tr>
+<td></td>
+<td>
+<content stylecode="bold">Symptom
+Score           <br/>(Range 0-27)</content>
+</td>
+<td>
+<content stylecode="bold">Peak
+Flow Rate           <br/>(mL/sec)</content>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<content stylecode="bold">N</content>
+</td>
+<td>
+<content stylecode="bold">Mean Baseline</content>
+</td>
+<td>
+<content stylecode="bold">Mean Change</content>
+</td>
+<td>
+<content stylecode="bold">(%)</content>
+</td>
+<td>
+<content stylecode="bold">N</content>
+</td>
+<td>
+<content stylecode="bold">Mean Baseline</content>
+</td>
+<td>
+<content stylecode="bold">Mean Change</content>
+</td>
+<td>
+<content stylecode="bold">(%)</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Study 1</content>
+</td>
+<td>
+<content stylecode="bold">(10 mg)</content>
+<sup>a</sup>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Titration to fixed dose (12 wks)</content>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>    Placebo</td>
+<td>55</td>
+<td>9.7</td>
+<td>-2.3</td>
+<td>(24)</td>
+<td>54</td>
+<td>10.1</td>
+<td>+1.0</td>
+<td>(10)</td>
+</tr>
+<tr>
+<td>    Terazosin</td>
+<td>54</td>
+<td>10.1</td>
+<td>-4.5</td>
+<td>(45)*</td>
+<td>52</td>
+<td>8.8</td>
+<td>+3.0</td>
+<td>(34)*</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Study 2</content>
+</td>
+<td>
+<content stylecode="bold">(2, 5, 10, 20 mg)</content>
+<sup>b</sup>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Titration to response (24 wks)</content>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>    Placebo</td>
+<td>89</td>
+<td>12.5</td>
+<td>-3.8</td>
+<td>(30)</td>
+<td>88</td>
+<td>8.8</td>
+<td>+1.4</td>
+<td>(16)</td>
+</tr>
+<tr>
+<td>    Terazosin</td>
+<td>85</td>
+<td>12.2</td>
+<td>-5.3</td>
+<td>(43)*</td>
+<td>84</td>
+<td>8.4</td>
+<td>+2.9</td>
+<td>(35)*</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Study 3</content>
+</td>
+<td>
+<content stylecode="bold">(1, 2, 5, 10 mg)</content>
+<sup>c</sup>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Titration to response (24 wks)</content>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>    Placebo</td>
+<td>74</td>
+<td>10.4</td>
+<td>-1.1</td>
+<td>(11)</td>
+<td>74</td>
+<td>8.8</td>
+<td>+1.2</td>
+<td>(14)</td>
+</tr>
+<tr>
+<td>    Terazosin</td>
+<td>73</td>
+<td>10.9</td>
+<td>-4.6</td>
+<td>(42)*</td>
+<td>73</td>
+<td>8.6</td>
+<td>+2.6</td>
+<td>(30)*</td>
+</tr>
+</tbody>
+</table>

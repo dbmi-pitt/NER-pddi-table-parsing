@@ -1,0 +1,75 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="31%"></col>
+<col width="22%"></col>
+<col width="22%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Toprule " valign="top">
+<content stylecode="bold">Pharmacokinetic Parameter</content>
+<br/>
+<content stylecode="bold"> [mean (SD)]</content>
+</th>
+<th align="left" stylecode="Toprule " valign="top">
+<content stylecode="bold">3-Day Regimen</content>
+<br/>
+<content stylecode="bold"> (20 mg/kg × 3 days)</content>
+</th>
+<th align="left" stylecode="Toprule " valign="top">
+<content stylecode="bold">5-Day Regimen</content>
+<br/>
+<content stylecode="bold"> (12 mg/kg × 5 days)</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Botrule " valign="top"></th>
+<th align="left" stylecode="Botrule " valign="top"></th>
+<th align="left" stylecode="Botrule " valign="top"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<paragraph>n</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>11</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>17</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>C<sub>max  </sub>(µg/mL)</paragraph>
+</td>
+<td>
+<paragraph>1.1 (0.4)</paragraph>
+</td>
+<td>
+<paragraph>0.5 (0.4)</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>T<sub>max </sub>(hr)</paragraph>
+</td>
+<td>
+<paragraph>2.7 (1.9) </paragraph>
+</td>
+<td>
+<paragraph>2.2 (0.8)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>AUC<sub>0–24</sub>(µg∙hr/mL)</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>7.9 (2.9)</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>3.9 (1.9)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

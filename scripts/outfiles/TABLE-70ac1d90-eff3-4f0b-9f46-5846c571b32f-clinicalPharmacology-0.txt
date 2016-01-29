@@ -1,0 +1,59 @@
+<table id="table6" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6: Mean (CV%) Plasma Pharmacokinetic Parameters of ZERBAXA (ceftolozane and tazobactam) After Single and Multiple Intravenous 1-hour Infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) Every 8 Hours in Healthy Adults</caption>
+<col align="left" valign="middle" width="24%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<col align="center" valign="middle" width="19%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th align="center" rowspan="3" stylecode="Lrule Rrule">PK parameters</th>
+<th colspan="4" stylecode="Rrule">ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) every 8 hours</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" colspan="2" stylecode="Rrule">Ceftolozane</th>
+<th colspan="2" stylecode="Rrule">Tazobactam</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">Day 1<br/>(n=9)<footnote id="t6fa">N=9, one outlier subject excluded from descriptive statistics</footnote>
+</th>
+<th stylecode="Rrule">Day 10<br/>(n=10)</th>
+<th stylecode="Rrule">Day 1<br/>(n=9)<footnoteref idref="t6fa"></footnoteref>
+</th>
+<th stylecode="Rrule">Day 10<br/>(n=10)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>max</sub> (mcg/mL)</td>
+<td stylecode="Rrule">69.1 (11)</td>
+<td stylecode="Rrule">74.4 (14)</td>
+<td stylecode="Rrule">18.4 (16)</td>
+<td stylecode="Rrule">18 (8)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">t<sub>max</sub> (h)<footnote id="t6fb">Median (minimum, maximum) presented</footnote>
+</td>
+<td stylecode="Rrule">1.02 (1.01, 1.1)</td>
+<td stylecode="Rrule">1.07 (1, 1.1)</td>
+<td stylecode="Rrule">1.02 (0.99, 1.03)</td>
+<td stylecode="Rrule">1.01 (1, 1.1)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">AUC (mcg∙h/mL)<footnote id="t6fc">AUC for Day 1 = AUC<sub>last</sub> and AUC for Day 10 = steady state AUC (AUC<sub>Τ,SS</sub>). Daily AUC at steady state is calculated by multiplying the Day 10 AUC values by three (e.g., 546 mcg∙h/mL for ceftolozane and 75 mcg∙h/mL for tazobactam)</footnote>
+</td>
+<td stylecode="Rrule">172 (14)</td>
+<td stylecode="Rrule">182 (15)</td>
+<td stylecode="Rrule">24.4 (18)</td>
+<td stylecode="Rrule">25 (15)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">t<sub>½</sub> (h)</td>
+<td stylecode="Rrule">2.77 (30)</td>
+<td stylecode="Rrule">3.12 (22)</td>
+<td stylecode="Rrule">0.91 (26)<footnote id="t6fd">N=8, one subject excluded from descriptive statistics as the concentration-time profile did not exhibit a terminal log-linear phase and t<sub>½</sub> could not be calculated</footnote>
+</td>
+<td stylecode="Rrule">1.03 (19)</td>
+</tr>
+</tbody>
+</table>

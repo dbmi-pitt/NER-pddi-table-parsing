@@ -1,0 +1,58 @@
+<table id="inv-3175317c-bfd9-4ed8-9c99-05a7a5bd445a" width="615" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_807ab7ee-9121-4eda-b754-7e0d429cca1c">Table 1: Susceptibility Interpretive Criteria for Fluconazole</caption>
+<col align="center" width="13.7%"></col>
+<col align="center" width="15.0%"></col>
+<col align="center" width="15.6%"></col>
+<col align="center" width="13.8%"></col>
+<col align="center" width="13.3%"></col>
+<col align="center" width="16.1%"></col>
+<col align="center" width="12.5%"></col>
+<tbody>
+<tr id="id_cda0d1d6-3ff9-43b5-8aae-e74e52f0e69f">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">   </td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Broth Dilution at 48 hours <br/>(MIC in mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Disk Diffusion at 24 hours <br/>(Zone Diameters in mm)</content>
+</td>
+</tr>
+<tr id="id_c4c6ea7c-1c40-4315-8a10-9d14ffeaf8d2">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="bold">Antifungal agent</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Susceptible (S)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Intermediate (I)</content>
+<footnote id="id-0008b3cc-4ad8-4d52-8a05-fef42d8a8d13">The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both <br/>   categories are equivalent for fluconazole.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Resistant (R)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Susceptible (S)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Intermediate (I)</content>
+<footnoteref idref="id-0008b3cc-4ad8-4d52-8a05-fef42d8a8d13"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Resistant (R)</content>
+</td>
+</tr>
+<tr id="id_6ba4fc81-5bbb-4bf5-9616-5ada76c6b4ee">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">Fluconazole<footnote id="id-d0da5f31-522f-4d47-a89e-12f1df725eb0">Isolates of <content stylecode="italics">C. krusei</content> are assumed to be intrinsically resistant to fluconazole and their MICs and/or <br/>   zone diameters should not be interpreted using this scale.</footnote>
+</td>
+<td align="center" stylecode="Rrule" valign="top"> ≤8.0 </td>
+<td align="center" stylecode="Rrule" valign="top"> 16-32 </td>
+<td align="center" stylecode="Rrule" valign="top"> ≥64 </td>
+<td align="center" stylecode="Rrule" valign="top"> ≥19 </td>
+<td align="center" stylecode="Rrule" valign="top"> 15 – 18 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> ≤14 </td>
+</tr>
+</tbody>
+</table>

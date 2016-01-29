@@ -1,0 +1,60 @@
+<table border="none" id="id_2e06f107-1e82-45b5-be43-115d952af101" width="433.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="42.3%"></col>
+<col width="28.9%"></col>
+<col width="28.9%"></col>
+<tbody>
+<tr id="id_6404232e-c375-4b6a-bfb6-6c012fa20222">
+<td align="justify" stylecode="Toprule" valign="top">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">
+<content stylecode="underline">ATCC<sup>®</sup> #</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+</tr>
+<tr id="id_ae084c41-2161-4e37-ba94-9931c3ece30d">
+<td align="justify" valign="top">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center" valign="top">25922</td>
+<td align="center" valign="top">0.03- 0.12</td>
+</tr>
+<tr id="id_153b2b00-e115-4387-ae83-60cb22f0dae1">
+<td align="justify" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" valign="top">29213</td>
+<td align="center" valign="top">1- 8*</td>
+</tr>
+<tr id="id_bb03502e-d38f-423f-a660-666c6e19af1c">
+<td align="justify" valign="top">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="center" valign="top">27853</td>
+<td align="center" valign="top">8- 64</td>
+</tr>
+<tr id="id_64d3f0b5-b6a7-4138-a292-1fbed9ac04d7">
+<td align="justify" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="center" valign="top">49247</td>
+<td align="center" valign="top">0.06- 0.25</td>
+</tr>
+<tr id="id_1503dd5d-f5c3-47c8-9901-2392831c2b48">
+<td align="justify" valign="top">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+</td>
+<td align="center" valign="top">49226</td>
+<td align="center" valign="top">0.004- 0.015</td>
+</tr>
+<tr id="id_4ccf037e-5e96-46fb-9dc3-296f375d16f4">
+<td align="justify" stylecode="Botrule" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">49619</td>
+<td align="center" stylecode="Botrule" valign="top">0.03- 0.12</td>
+</tr>
+</tbody>
+</table>

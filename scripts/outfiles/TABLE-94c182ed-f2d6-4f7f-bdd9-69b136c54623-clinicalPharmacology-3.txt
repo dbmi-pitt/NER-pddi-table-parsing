@@ -1,0 +1,33 @@
+<table border="1" frame="border" id="inv-02c3f413-457b-443b-9dc9-579489f44496" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-493dfff6-0d3e-40cd-912b-9ffbc9d5d611">Susceptibility Test Interpretive Criteria for Staphylococcus aureus</caption>
+<col id="inv-862d1d81-833c-4cb3-9e9b-b5d27989b236" width="280.00px"></col>
+<col id="inv-6f5d1b44-f08c-4537-87c1-70237ed91ecf" width="328.00px"></col>
+<tbody id="inv-5666a6cd-8579-4982-85d8-5a4b146ba428">
+<tr id="inv-dcca162e-e38d-467b-be0e-4a04dc949397">
+<td align="center" id="inv-dfc02b7f-8f81-469e-85bf-53081b355718">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td id="inv-95cf8e57-1400-4897-bef8-38b0f004eb96">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr id="inv-9b76655f-0926-4035-95a7-822bf9e53a8f">
+<td align="center" id="inv-b334a7ff-1a8e-4996-b05f-9e584281c78c">
+≤ 2</td>
+<td id="inv-724fcc92-5328-44e6-8c5d-cfe1a6627632">
+Susceptible  (S)</td>
+</tr>
+<tr id="inv-dc154fb4-05b2-4630-adf1-2bc978e739af">
+<td align="center" id="inv-22c22301-b928-49cb-a04e-6ca0649cee12">
+4</td>
+<td id="inv-5d8d4fec-4ac1-4b82-a4bf-3e704e06d8f5">
+Intermediate  (I)</td>
+</tr>
+<tr id="inv-ad16d476-4069-462e-aa76-8767b230ebae">
+<td align="center" id="inv-01ee13a2-b816-4ea5-9b0f-ae1c10d22297">
+≥ 8</td>
+<td id="inv-5a3521e8-af75-4870-bd58-0dc03789d5c8">
+Resistant      (R)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,199 @@
+<table border="single" id="id_7d904b21-d94f-450b-af73-d5cd6eb49165" width="431.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_a19da9d8-67f0-40ad-a4d0-fc1dfab76ff1">Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin</caption>
+<col width="42.9%"></col>
+<col width="20.9%"></col>
+<col width="15.8%"></col>
+<col width="20.4%"></col>
+<tbody>
+<tr id="id_4558a232-a58a-4bca-86ad-32a2f60a5a17">
+<td align="left" rowspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Coadministered Drug and Dosing Regimen </content>
+</td>
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="left" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Pravastatin</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_39500dab-add0-42af-b9a5-97142d4c0b73">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">Dose (mg)</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Change in AUC</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Change in C<sub>max</sub>
+</content>
+</td>
+</tr>
+<tr id="id_0b9ad681-d0e5-4d01-842a-7173df96faa5">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Cyclosporine 5 mg/kg single dose </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">40 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑282%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑327%</td>
+</tr>
+<tr id="id_b18d2e91-8590-40e0-b4e2-45109b8c989e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Clarithromycin 500 mg BID for 9 days </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">40 mg OD for 8 days</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑110%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑128%</td>
+</tr>
+<tr id="id_99288415-3264-46f3-ac8d-561f17f4b9ee">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Boceprevir 800 mg TID for 6 days</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">40 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">↑63%</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">↑49%</td>
+</tr>
+<tr id="id_aa49959f-b672-43cb-8f8c-0ff9393ef5fe">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Darunavir 600 mg BID/Ritonavir 100 mg BID for 7 days </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">40 mg single dose </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑81% </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑63%</td>
+</tr>
+<tr id="id_d420e43b-c0f7-47a7-915d-759b52f66a5d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Colestipol 10 g single dose </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓47%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓53%</td>
+</tr>
+<tr id="id_2de4c76e-d573-4fc8-9259-14a22e83ec92">
+<td align="left" stylecode="Lrule Rrule" valign="middle">Cholestyramine 4 g single dose</td>
+<td align="left" stylecode="Rrule" valign="middle">20 mg single dose</td>
+<td align="left" stylecode="Rrule" valign="middle"></td>
+<td align="left" stylecode="Rrule" valign="middle"></td>
+</tr>
+<tr id="id_7eb4e084-b9bb-4fb6-8593-6b7fdb0c448b">
+<td align="left" stylecode="Lrule Rrule" valign="middle"> Administered simultaneously</td>
+<td align="left" stylecode="Rrule" valign="middle"></td>
+<td align="left" stylecode="Rrule" valign="middle">↓40%</td>
+<td align="left" stylecode="Rrule" valign="middle">↓39%</td>
+</tr>
+<tr id="id_ba35e045-3db8-4d61-ab21-2bbe37a21330">
+<td align="left" stylecode="Lrule Rrule" valign="middle"> Administered 1 hour prior to<br/> cholestyramine </td>
+<td align="left" stylecode="Rrule" valign="middle"></td>
+<td align="left" stylecode="Rrule" valign="middle">↑12%</td>
+<td align="left" stylecode="Rrule" valign="middle">↑30%</td>
+</tr>
+<tr id="id_2d4c0382-288a-4ccb-94e2-1b694370862d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle"> Administered 4 hours after<br/> cholestyramine </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓12%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓6.8%</td>
+</tr>
+<tr id="id_294ca955-e810-41b6-8655-8d8a0e65f20c">
+<td align="left" stylecode="Lrule Rrule" valign="middle">Cholestyramine 24 g OD for 4 weeks</td>
+<td align="left" stylecode="Rrule" valign="middle">20 mg BID for 8 weeks</td>
+<td align="left" stylecode="Rrule" valign="middle">↓51%</td>
+<td align="left" stylecode="Rrule" valign="middle">↑4.9%</td>
+</tr>
+<tr id="id_a0b10822-2ba0-4ec5-aed1-4da1572c2124">
+<td align="left" stylecode="Lrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Rrule" valign="middle">5 mg BID for 8 weeks</td>
+<td align="left" stylecode="Rrule" valign="middle">↓38%</td>
+<td align="left" stylecode="Rrule" valign="middle">↑23%</td>
+</tr>
+<tr id="id_413656aa-e5b4-467d-a1be-4bf3c6afcbd5">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle"></td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">10 mg BID for 8 weeks</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓18%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓33%</td>
+</tr>
+<tr id="id_5da50ec0-5ea6-4602-a84c-eb11ec3f2803">
+<td align="left" stylecode="Lrule Rrule" valign="middle">Fluconazole</td>
+<td align="left" stylecode="Rrule" valign="middle"></td>
+<td align="left" stylecode="Rrule" valign="middle"></td>
+<td align="left" stylecode="Rrule" valign="middle"></td>
+</tr>
+<tr id="id_adedf127-f1b9-4f34-8bbe-548fbb3728db">
+<td align="left" stylecode="Lrule Rrule" valign="middle"> 200 mg IV for 6 days</td>
+<td align="left" stylecode="Rrule" valign="middle">20 mg PO + 10 mg IV</td>
+<td align="left" stylecode="Rrule" valign="middle">↓34%</td>
+<td align="left" stylecode="Rrule" valign="middle">↓33%</td>
+</tr>
+<tr id="id_e3d2bccf-b6a2-496a-9f9c-2a260d1b826e">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle"> 200 mg PO for 6 days </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg PO + 10 mg IV</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓16%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓16%</td>
+</tr>
+<tr id="id_e9ea9c2d-a2fb-49c2-a4c7-797951be5ca8">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Kaletra 400 mg/100 mg BID for 14 days</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">20 mg OD for 4 days</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">↑33%</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">↑26%</td>
+</tr>
+<tr id="id_5d9040d5-a633-47bc-a12a-92d728666765">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Verapamil IR 120 mg for 1 day and Verapamil ER 480 mg for 3 days </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">40 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">↑31%</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">↑42%</td>
+</tr>
+<tr id="id_f03aaf0d-f241-47b2-ae99-981badd60a55">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Cimetidine 300 mg QID for 3 days </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑30%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑9.8%</td>
+</tr>
+<tr id="id_18d7be6b-bca9-4f33-ad17-1fd64bfc5de3">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Antacids 15 mL QID for 3 days </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓28%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓24%</td>
+</tr>
+<tr id="id_2d17dffc-90f4-4e28-8396-466a7f4bf161">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Digoxin 0.2 mg OD for 9 days </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg OD for 9 days</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑23%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑26%</td>
+</tr>
+<tr id="id_18300984-a0c5-4314-871c-d3eb3b94fb5b">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Probucol 500 mg single dose </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑14%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑24%</td>
+</tr>
+<tr id="id_252c277b-6dde-4629-9f73-1386ccd2f96b">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Warfarin 5 mg OD for 6 days </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg BID for 6 days</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓13%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓6.7%</td>
+</tr>
+<tr id="id_1dad1119-efb8-4ec5-9ffe-1faaa0534489">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Itraconazole 200 mg OD for 30 days </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">40 mg OD for 30 days</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑11% (compared to Day 1)</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑17% (compared to Day 1)</td>
+</tr>
+<tr id="id_e277ef0a-2a13-4e04-ad3a-f4dfc8f98232">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Gemfibrozil 600 mg single dose </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓7%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓20%</td>
+</tr>
+<tr id="id_b1bf621b-1beb-49b1-8425-7f9d850bbbec">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Aspirin 324 mg single dose </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑4.7%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑8.9%</td>
+</tr>
+<tr id="id_b0383888-6a7c-48f8-8b63-e95f271e1379">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Niacin 1 g single dose </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓3.6%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↓8.2%</td>
+</tr>
+<tr id="id_67ff6e7b-ae55-4248-9823-67327b947ba0">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Diltiazem </td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">20 mg single dose</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑2.7%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑30%</td>
+</tr>
+<tr id="id_1903545b-3073-4841-832c-9626834510ec">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Grapefruit juice </td>
+<td align="left" stylecode="Rrule" valign="middle">40 mg single dose</td>
+<td align="left" stylecode="Rrule" valign="middle">↓1.8%</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">↑3.7%</td>
+</tr>
+</tbody>
+</table>

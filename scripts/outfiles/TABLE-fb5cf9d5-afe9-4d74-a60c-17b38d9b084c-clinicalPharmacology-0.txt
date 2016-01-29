@@ -1,0 +1,91 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="29%"></col>
+<col width="24%"></col>
+<col width="23%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Toprule " valign="top">
+<content stylecode="bold">Pharmacokinetic Parameters (Mean)</content>
+</th>
+<th align="left" stylecode="Toprule " valign="bottom">
+<content stylecode="bold">Total n=12</content>
+</th>
+<th align="left" stylecode="Toprule " valign="bottom"></th>
+</tr>
+<tr>
+<th align="left" valign="top"></th>
+<th align="left" valign="top">
+<content stylecode="bold">
+<content stylecode="underline">Day 1</content>
+</content>
+</th>
+<th align="left" valign="top">
+<content stylecode="bold">
+<content stylecode="underline">Day 5</content>
+</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Botrule " valign="top"></th>
+<th align="left" stylecode="Botrule " valign="top"></th>
+<th align="left" stylecode="Botrule " valign="top"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Toprule ">
+<paragraph>C<sub>max</sub> (µg/mL)</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>0.41</paragraph>
+</td>
+<td stylecode="Toprule ">
+<paragraph>0.24</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>T<sub>max</sub> (h)</paragraph>
+</td>
+<td>
+<paragraph>2.5</paragraph>
+</td>
+<td>
+<paragraph>3.2</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>AUC<sub>0–24</sub> (µg∙h/mL)</paragraph>
+</td>
+<td>
+<paragraph>2.6</paragraph>
+</td>
+<td>
+<paragraph>2.1</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>C<sub>min</sub> (µg/mL)</paragraph>
+</td>
+<td>
+<paragraph>0.05</paragraph>
+</td>
+<td>
+<paragraph>0.05</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Urinary Excret. (% dose)</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>4.5</paragraph>
+</td>
+<td stylecode="Botrule ">
+<paragraph>6.5</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

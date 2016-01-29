@@ -1,0 +1,25 @@
+<table border="1" cellpadding="2" cellspacing="1" frame="box" id="t31071200" rules="all" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>For Streptococcus spp. and Streptococcus pneumoniae:</caption>
+<tbody>
+<tr>
+<td stylecode="Toprule">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+<td stylecode="Toprule">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≥ 21</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>16-20</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr>
+<td>≤ 15</td>
+<td>Resistant (R)</td>
+</tr>
+</tbody>
+</table>

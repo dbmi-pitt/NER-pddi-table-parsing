@@ -1,0 +1,273 @@
+<table id="table_4" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes<sup>a</sup>
+</caption>
+<colgroup>
+<col width="21%"></col>
+<col width="505*"></col>
+<col width="23%"></col>
+<col width="1129*"></col>
+<col width="1069*"></col>
+<col width="832*"></col>
+<col width="1022*"></col>
+</colgroup>
+<tbody>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">Clarithromycin Pretreatment Results</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top"> </td>
+<td align="center" colspan="5" stylecode="Toprule" valign="top">
+<content stylecode="bold">Clarithromycin Post-treatment Results</content>
+</td>
+</tr>
+<tr valign="bottom">
+<td valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top">
+<content stylecode="italics">
+<content stylecode="bold">H. pylori</content>
+</content>
+<content stylecode="bold"> negative - eradicated</content>
+</td>
+<td align="center" colspan="4" valign="top">
+<content stylecode="italics">
+<content stylecode="bold">H. pylori</content>
+</content>
+<content stylecode="bold"> positive - not eradicated                <br/>Post-treatment susceptibility results</content>
+</td>
+</tr>
+<tr valign="bottom">
+<td stylecode="Botrule"> </td>
+<td align="center" stylecode="Botrule"> </td>
+<td align="center" stylecode="Botrule"> </td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">S<sup>b</sup>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">I<sup>b</sup>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">R<sup>b</sup>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">No MIC</content>
+</td>
+</tr>
+<tr>
+<td colspan="7">
+<content stylecode="bold">Omeprazole 40 mg q.d./clarithromycin 500 mg t.i.d. for 14 days followed by omeprazole 20 mg q.d. for another 14 days (M93-067, M93-100)</content>
+</td>
+</tr>
+<tr>
+<td>Susceptible<sup>b</sup>
+</td>
+<td align="center">108</td>
+<td align="center">72</td>
+<td align="center">1</td>
+<td align="center"> </td>
+<td align="center">26</td>
+<td align="center">9</td>
+</tr>
+<tr>
+<td>Intermediate<sup>b</sup>
+</td>
+<td align="center">1</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">1</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td>Resistant<sup>b</sup>
+</td>
+<td align="center">4</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">4</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td colspan="7">
+<content stylecode="bold">Ranitidine bismuth citrate 400 mg b.i.d./clarithromycin 500 mg t.i.d. for 14 days followed by ranitidine bismuth citrate 400 mg b.i.d. for another 14 days (H2BA3001)</content>
+</td>
+</tr>
+<tr>
+<td>Susceptible<sup>b</sup>
+</td>
+<td align="center">124</td>
+<td align="center">98</td>
+<td align="center">4</td>
+<td align="center"> </td>
+<td align="center">14</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td>Intermediate<sup>b</sup>
+</td>
+<td align="center">3</td>
+<td align="center">2</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td>Resistant<sup>b</sup>
+</td>
+<td align="center">17</td>
+<td align="center">1</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">15</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td colspan="7">
+<content stylecode="bold">Ranitidine bismuth citrate 400 mg b.i.d./clarithromycin 500 mg b.i.d. for 14 days followed by ranitidine bismuth citrate 400 mg b.i.d. for another 14 days (H2BA3001)</content>
+</td>
+</tr>
+<tr>
+<td>Susceptible<sup>b</sup>
+</td>
+<td align="center">125</td>
+<td align="center">106</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">12</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td>Intermediate<sup>b</sup>
+</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td>Resistant<sup>b</sup>
+</td>
+<td align="center">20</td>
+<td align="center">1</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">19</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td colspan="7">
+<content stylecode="bold">Omeprazole 20 mg b.i.d./clarithromycin 500 mg b.i.d./amoxicillin 1 g b.i.d. for 10 days (126, 127, M96-446)</content>
+</td>
+</tr>
+<tr>
+<td>Susceptible<sup>b</sup>
+</td>
+<td align="center">171</td>
+<td align="center">153</td>
+<td align="center">7</td>
+<td align="center"> </td>
+<td align="center">3</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td>Intermediate<sup>b</sup>
+</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td>Resistant<sup>b</sup>
+</td>
+<td align="center">14</td>
+<td align="center">4</td>
+<td align="center">1</td>
+<td align="center"> </td>
+<td align="center">6</td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td colspan="7">
+<content stylecode="bold">Lansoprazole 30 mg b.i.d./clarithromycin 500 mg b.i.d./amoxicillin 1 g b.i.d. for 14 days (M95-399, M93-131, M95-392)</content>
+</td>
+</tr>
+<tr>
+<td>Susceptible<sup>b</sup>
+</td>
+<td align="center">112</td>
+<td align="center">105</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">7</td>
+</tr>
+<tr>
+<td>Intermediate<sup>b</sup>
+</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td>Resistant<sup>b</sup>
+</td>
+<td align="center">17</td>
+<td align="center">6</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">7</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td colspan="7">
+<content stylecode="bold">Lansoprazole 30 mg b.i.d./clarithromycin 500 mg b.i.d./amoxicillin 1 g b.i.d. for 10 days (M95-399)</content>
+</td>
+</tr>
+<tr>
+<td>Susceptible<sup>b</sup>
+</td>
+<td align="center">42</td>
+<td align="center">40</td>
+<td align="center">1</td>
+<td align="center"> </td>
+<td align="center">1</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td>Intermediate<sup>b</sup>
+</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td>Resistant<sup>b</sup>
+</td>
+<td align="center">4</td>
+<td align="center">1</td>
+<td align="center"> </td>
+<td align="center"> </td>
+<td align="center">3</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Toprule">a   Includes only patients with pretreatment clarithromycin susceptibility tests<br/>b   Breakpoints for antimicrobial susceptibility testing at the time of studies were: Susceptible (S) MIC &lt; 0.25 mcg/mL, Intermediate (I) MIC 0.5-1.0 mcg/mL, Resistant (R) MIC &gt; 2 mcg/mL. For current antimicrobial susceptibility testing guidelines see <linkhtml href="#REFERENCES">reference 4</linkhtml>. For current susceptibility test interpretive criteria, see <linkhtml href="#Susceptibility_Testing_Methods">Susceptibility Test </linkhtml>for <content stylecode="italics">Helicobacter pylori</content> below.</td>
+</tr>
+</tbody>
+</table>

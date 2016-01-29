@@ -1,0 +1,68 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> Parameter of 5-ASA</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Young Subjects<br/>(18-35 yrs)<br/>(N=28)</content> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold"> Elderly Subjects<br/>(65-75 yrs)<br/>(N=28)</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Elderly Subjects<br/>(&gt;75 yrs)<br/>(N=15)</content> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  AUC<sub>0-t</sub> (ng.h/mL) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  51570 (23870) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  73001 (42608) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  65820 (25283) </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  AUC<sub>0-∞</sub> (ng.h/mL) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  58057<sup>b</sup> (22429) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  89612<sup>c</sup> (40596) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  63067<sup>d</sup> (22531) </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  C<sub>max</sub> (ng/mL) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  2243 (1410) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  4999 (4381) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  4832 (4383) </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  t<sub>max</sub>
+<sup>a</sup> (h) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  22.0 (5.98 - 48.0) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  12.5 (4.00 - 36.0) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  16.0 (4.00 - 26.0) </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  t<sub>lag</sub>
+<sup>a</sup> (h) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  2.00 (1.00 - 6.00) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  2.00 (1.00 - 4.00) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  2.00 (2.00 - 4.00) </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  t<sub>1/2</sub> (h), terminal phase </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  5.68<sup>b</sup> (2.83) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  9.68<sup>c</sup> (7.47) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  8.67<sup>d</sup> (5.84) </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">  Renal clearance (L/h) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  2.05 (1.33) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  2.04 (1.16) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  2.13 (1.20) </td>
+</tr>
+<tr>
+<td colspan="4" stylecode="     Botrule          Toprule         Lrule          Rrule     ">  Arithmetic mean (SD) data are presented, N = Number of subjects<br/>
+<sup>a</sup> Median (min-max), <sup>b</sup>N=15, <sup>c</sup>N=16, <sup>d</sup>N=13 </td>
+</tr>
+</tbody>
+</table>

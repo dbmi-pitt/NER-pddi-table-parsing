@@ -1,0 +1,31 @@
+<table border="1" cellpadding="0" cellspacing="0" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td colspan="1" rowspan="1" valign="top">Concomitant Antiepileptic Drug </td>
+<td valign="top">AUC (<sub>0-24ss</sub>)</td>
+<td valign="top">C<sub>max</sub>
+</td>
+<td valign="top">C<sub>min</sub>
+</td>
+</tr>
+<tr>
+<td valign="top">Enzyme-inducing antiepileptic drugs<sup>a </sup>
+</td>
+<td valign="top">0.79 (0.69, 0.90)</td>
+<td valign="top">0.71 (0.61, 0.82)</td>
+<td valign="top">0.99 (0.89, 1.09)</td>
+</tr>
+<tr>
+<td valign="top">Valproate</td>
+<td valign="top">0.94 (0.81, 1.08)</td>
+<td valign="top">0.88 (0.75, 1.03)</td>
+<td valign="top">0.99 (0.88, 1.10)</td>
+</tr>
+<tr>
+<td valign="top">Antiepileptic drugs other than enzyme-inducing antiepileptic drugs<sup>a</sup> or valproate</td>
+<td valign="top">1.00 (0.88, 1.14)</td>
+<td valign="top">0.89 (0.78, 1.03)</td>
+<td valign="top">1.14 (1.03, 1.25)</td>
+</tr>
+</tbody>
+</table>

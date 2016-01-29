@@ -1,0 +1,70 @@
+<table border="1" id="id_40adf840-4fbe-44aa-868c-0ed33ee015d4" width="405.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_6223f739-4945-4e15-8d23-ab3a96496640">Table 3. Susceptibility Interpretive Criteria for Azithromycin Susceptibility Test Result Interpretive Criteria</caption>
+<col width="23.2%"></col>
+<col width="12.6%"></col>
+<col width="14.6%"></col>
+<col width="12.6%"></col>
+<col width="12.6%"></col>
+<col width="10.4%"></col>
+<col width="14.1%"></col>
+<tbody>
+<tr id="id_760d254f-33ae-426f-b621-32c99d888ec7">
+<td align="left" stylecode="Botrule Toprule Rrule Lrule" valign="middle"></td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">Minimum Inhibitory Concentrations (mcg/mL)</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">Disk Diffusion (zone diameters in mm)</td>
+</tr>
+<tr id="id_642064ed-d0f7-44b2-becb-496d43a308d9">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">S</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">I</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">R<footnote id="id-6f2f10d1-e0b9-447d-bb36-4b3d41a0134e">The current absence of data on resistant strains precludes defining any category other than “susceptible.” If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">S</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">I</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">R<footnoteref idref="id-6f2f10d1-e0b9-447d-bb36-4b3d41a0134e"></footnoteref>
+</td>
+</tr>
+<tr id="id_ff052a99-ca2d-4bd6-b708-81e0cef33abc">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus </content>spp.</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">--</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">--</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 12</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">--</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">--</content>
+</td>
+</tr>
+<tr id="id_bb6eb0dc-4283-46cd-8a90-1c44b68ed309">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 2</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">4</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≥ 18</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">14 to 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13</td>
+</tr>
+<tr id="id_353baf8c-3785-4d7e-ae83-6eb163df731b">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Streptococci including <content stylecode="italics">S. pneumoniae</content>
+<footnote id="id-1ee27a26-1bb5-4e5a-8648-942a3a7a1993">Susceptibility of streptococci including <content stylecode="italics">S. pneumoniae</content> to azithromycin and other macrolides can be predicted by testing erythromycin.</footnote>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">≤ 0.5</td>
+<td align="center" stylecode="Rrule" valign="middle">1</td>
+<td align="center" stylecode="Rrule" valign="middle">≥ 2</td>
+<td align="center" stylecode="Rrule" valign="middle">≥ 18</td>
+<td align="center" stylecode="Rrule" valign="middle">14 to 17</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">≤ 13</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,73 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2. Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs (See <linkhtml href="#ID_4037e656-628a-8ea3-ec29-91ec1be59694">PRECAUTIONS - Drug Interactions</linkhtml>.)</caption>
+<col align="left" span="1" valign="top" width="14%"></col>
+<col align="left" span="1" valign="top" width="18%"></col>
+<col align="left" span="1" valign="top" width="18%"></col>
+<col align="center" span="1" valign="top" width="6%"></col>
+<col align="center" span="1" valign="top" width="22%"></col>
+<col align="center" span="1" valign="top" width="22%"></col>
+<thead>
+<tr>
+<th align="center" colspan="1" rowspan="1" stylecode="Lrule Rrule">Co-administered Drug</th>
+<th align="center" colspan="1" rowspan="1" stylecode="Rrule">Dose of Co-administered Drug</th>
+<th align="center" colspan="1" rowspan="1" stylecode="Rrule">Dose of  Azithromycin</th>
+<th colspan="1" rowspan="1" stylecode="Rrule">n</th>
+<th colspan="2" rowspan="1" stylecode="Rrule Botrule">Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00</th>
+</tr>
+<tr stylecode="Botrule">
+<th colspan="1" rowspan="1" stylecode="Lrule"></th>
+<th colspan="1" rowspan="1" stylecode="Lrule"></th>
+<th colspan="1" rowspan="1" stylecode="Lrule"></th>
+<th colspan="1" rowspan="1" stylecode="Lrule"></th>
+<th colspan="1" rowspan="1" stylecode="Lrule Rrule">Mean C<sub>max</sub>
+</th>
+<th colspan="1" rowspan="1" stylecode="Rrule">Mean AUC</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6" rowspan="1">NA – Not available</td>
+</tr>
+<tr>
+<td align="left" colspan="6" rowspan="1">Mean azithromycin concentrations one day after the last dose were 53 ng/mL when coadministered with 300 mg daily rifabutin and 49 ng/mL when coadministered with placebo.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1" stylecode="Lrule Rrule">
+												Efavirenz</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">400 mg/day × 7 days </td>
+<td colspan="1" rowspan="1" stylecode="Rrule">600 mg PO on day 7</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">14</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">1.22<br/>(1.04 to 1.42)</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">0.92<footnote>- 90% Confidence interval not reported</footnote>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1" stylecode="Lrule Rrule">Fluconazole</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">200 mg PO single dose</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">1,200 mg PO single dose</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">18</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">0.82<br/>(0.66 to 1.02)</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">1.07<br/>(0.94 to 1.22)</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="1" rowspan="1" stylecode="Lrule Rrule">
+												Nelfinavir</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">750 mg TID × 11 days</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">1,200 mg PO on day 9</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">14</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">2.36<br/>(1.77 to 3.15)</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">2.12<br/>(1.80 to 2.50)</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" stylecode="Lrule Rrule">
+												Rifabutin</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">300 mg/day × 10 days</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">500 mg PO on day 1, then 250 mg/day on days 2–10</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">6</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">See footnote below</td>
+<td colspan="1" rowspan="1" stylecode="Rrule">NA</td>
+</tr>
+</tbody>
+</table>

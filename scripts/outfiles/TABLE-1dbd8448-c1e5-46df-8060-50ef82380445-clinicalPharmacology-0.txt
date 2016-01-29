@@ -1,0 +1,99 @@
+<table border="1" frame="border" id="inv-54c88ea4-4625-4331-8407-355e45de5647" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-c4cd07d3-2531-4360-bc82-2c047d657ac2">Table 1. Susceptibility Interpretive Criteria for Clindamycin</caption>
+<col id="inv-61f9ca53-ea7f-4fe0-a8ff-984f561f82b0" width="164.00px"></col>
+<col id="inv-4e6325d1-6d9e-42a8-9467-4bd740f1840e" width="137.00px"></col>
+<col id="inv-b45fd71e-7c58-4bc9-8f17-4fd73ec8d986" width="79.00px"></col>
+<col id="inv-2e54224c-178e-4bb8-8aa5-1aaf5d902d1d" width="78.00px"></col>
+<col id="inv-228f7db2-ac6d-40ee-bc92-41fd50752c46" width="107.00px"></col>
+<col id="inv-372d9272-4044-4e9f-a5cd-61b7bb73a186" width="71.00px"></col>
+<col id="inv-00317c09-a12f-41a6-9e91-5863fee8f40b" width="49.00px"></col>
+<tbody id="inv-8fc1e2a5-2402-4c4e-ab5c-5bc365460408">
+<tr id="inv-1c31f0f3-8d89-4a28-9395-4ce640724e51">
+<td align="center" id="inv-0b10a0bc-a8d7-4d32-8f7b-9d814a9498e7" rowspan="2">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" colspan="6" id="inv-b5a69604-7c15-4171-ba49-9083aa2b27f6">
+<content stylecode="bold">Susceptibility Interpretive Criteria</content>
+</td>
+</tr>
+<tr id="inv-e19d5582-5569-41a6-869d-7d3d08df8b02">
+<td align="center" colspan="3" id="inv-550d31c1-70ba-4e57-afd8-c7648ec0d1d1">
+<content stylecode="bold">Minimal Inhibitory Concentrations </content>
+<content stylecode="bold">(MIC in mcg/mL)</content>
+</td>
+<td align="center" colspan="3" id="inv-f9b99e8a-2482-4d7d-9ed2-cbec17169c25">
+<content stylecode="bold">Disk Diffusion (Zone Diameters in mm)</content>
+</td>
+</tr>
+<tr id="inv-5082b75e-7404-4893-a393-e2d591f4db52">
+<td id="inv-47d9c185-f834-4f13-8d67-5e136049b1fd"></td>
+<td align="center" id="inv-1364c767-db10-4ab9-b4be-e8a0dd18d661" valign="middle">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" id="inv-ad32c7da-eb53-48d1-9d8f-1216a43d2982" valign="middle">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" id="inv-e3000ebb-eaec-497e-a0c3-b394202dd9f4" valign="middle">
+<content stylecode="bold">R</content>
+</td>
+<td align="center" id="inv-9e1bda89-11fb-4ff2-96ef-28b1b91a3b35">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" id="inv-f40d9cca-ce91-4964-8fae-fdd086b5b819">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" id="inv-b46d9699-dd3c-45c3-bce7-f7e03d63d33b">
+<content stylecode="bold">R</content>
+</td>
+</tr>
+<tr id="inv-b148523d-ddf3-4c60-9239-6c4229a4863c">
+<td id="inv-121a6bc9-8217-4fef-99b0-99466a8bebc4">
+<content stylecode="italics"> </content>
+<content stylecode="italics">Staphylococcus </content>spp.</td>
+<td align="center" id="inv-e95c25e5-be92-40c3-bffb-ac993f96f9d2">
+≤ 0.5</td>
+<td align="center" id="inv-31dc0df7-3c0e-44f7-a98a-d9200b2a7777">
+1 to 2</td>
+<td align="center" id="inv-c6fa16d3-ab4c-4b48-9a3a-303922cf87d0">
+≥ 4</td>
+<td align="center" id="inv-23a55baf-8873-49be-a990-8613a76c08f1">
+≥ 21</td>
+<td align="center" id="inv-b2572a97-698e-43b4-988e-3ab96d33b916">
+15 to 20</td>
+<td align="center" id="inv-223d148a-3028-430a-a49b-a0e5cc155de5">
+≤ 14</td>
+</tr>
+<tr id="inv-ee92ab2a-db92-4b09-b758-c573ad15555a">
+<td id="inv-d0774a53-7ec1-44f1-930b-8bfe6d15b850">
+<content stylecode="italics">Streptococcus pneumoniae</content> and other <content stylecode="italics">Streptococcus</content> spp.</td>
+<td align="center" id="inv-0ed5d04e-f4f8-4743-8a24-86057eea12fe">
+≤ 0.25</td>
+<td align="center" id="inv-dc242aae-31c8-449b-826e-366d6bf0933f">
+0.5</td>
+<td align="center" id="inv-4b746ffa-0173-4e48-b742-80f616143a1e">
+≥ 1</td>
+<td align="center" id="inv-0c7b3930-874b-4692-bdc0-a8cdd1e26b11">
+≥ 19</td>
+<td align="center" id="inv-1bb61c6f-5ea0-49af-a5e0-40e421dd5ade">
+16 to 18</td>
+<td align="center" id="inv-d147f145-ebee-4172-b0f6-7666db2252f9">
+≤ 15</td>
+</tr>
+<tr id="inv-9b72e7e2-762e-4055-9a99-d711d510f32b">
+<td id="inv-722b721e-1ba7-4c0e-8226-d2ec0364f368">
+Anaerobic Bacteria</td>
+<td align="center" id="inv-d3dfd2f1-a436-4a3d-81a1-c7abc0b5cc8d">
+≤ 2</td>
+<td align="center" id="inv-b9cb88b8-ba08-4a87-92d5-5659c8c98e93">
+4</td>
+<td align="center" id="inv-a4639bdb-cf89-416d-8bc1-dae1b2f0b025">
+≥ 8</td>
+<td align="center" id="inv-60e4f0bf-4e1d-4f12-8096-b3223d591254">
+NA</td>
+<td align="center" id="inv-19f91235-b1f3-45ad-929d-bd26996eea25">
+NA</td>
+<td align="center" id="inv-938101ee-e0b3-4372-8e07-a7d2c261f67c">
+NA</td>
+</tr>
+</tbody>
+</table>

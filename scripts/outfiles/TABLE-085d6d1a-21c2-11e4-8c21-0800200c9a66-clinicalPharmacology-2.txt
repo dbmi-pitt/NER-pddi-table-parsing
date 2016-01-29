@@ -1,0 +1,43 @@
+<table id="TBL04" stylecode="Noautorules" width="725" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: Acceptable Quality Control Ranges for Oritavancin Susceptibility Testing<sup>a</sup>
+</caption>
+<col align="left" width="50%"></col>
+<col align="center" width="50%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="2">
+<paragraph>ATCC = American Type Culture Collection.</paragraph>
+<paragraph>
+<sup>a</sup> As determined by broth microdilution with 0.002% polysorbate-80 during oritavancin dissolution and dilution and in the final assay.<content stylecode="sup">
+<linkhtml href="#s150">1,2</linkhtml>
+</content>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr valign="middle">
+<td align="center" stylecode="Toprule Botrule Rrule Lrule">
+<content stylecode="bold">Quality Control Organism</content>
+</td>
+<td stylecode="Toprule Botrule Rrule Lrule">
+<content stylecode="bold">Minimum Inhibitory Concentration Range<br/>(MIC in mcg/mL)</content>
+</td>
+</tr>
+<tr valign="top">
+<td stylecode="Botrule Rrule Lrule">
+<content stylecode="italics">Staphylococcus aureus</content> ATCC 29213 </td>
+<td stylecode="Botrule Rrule Lrule">0.015 – 0.12</td>
+</tr>
+<tr valign="top">
+<td stylecode="Botrule Rrule Lrule">
+<content stylecode="italics">Streptococcus pneumoniae</content> ATCC 49619 </td>
+<td stylecode="Botrule Rrule Lrule">0.001 – 0.004</td>
+</tr>
+<tr valign="top">
+<td stylecode="Botrule Rrule Lrule">
+<content stylecode="italics">Enterococcus faecalis</content> ATCC 29212 </td>
+<td stylecode="Botrule Rrule Lrule">0.008 – 0.03</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,40 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="top" width="28%"></col>
+<col align="center" valign="top" width="27%"></col>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="20%"></col>
+<thead>
+<tr>
+<th></th>
+<th valign="bottom">Accumulation Factor:<br/>AUC (0–24 hr, day 15)/AUC<br/>(0–24 hr, day 1)</th>
+<th align="center" valign="bottom">Mean Peak Serum Concentration</th>
+<th align="center" valign="bottom">Mean (SD) Post Steady-State Half-Life</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>7-α-(thiomethyl) spirolactone (TMS)</td>
+<td>1.25</td>
+<td>      391 ng/mL<br/>      at 3.2 hr</td>
+<td>   13.8 hr (6.4)<br/>   (terminal)</td>
+</tr>
+<tr>
+<td>6-β-hydroxy-7-α- (thiomethyl) spirolactone (HTMS)</td>
+<td>1.50</td>
+<td>      125 ng/mL<br/>      at 5.1 hr</td>
+<td>   15.0 hr (4.0)<br/>   (terminal)</td>
+</tr>
+<tr>
+<td>Canrenone (C)</td>
+<td>1.41</td>
+<td>     181 ng/mL <br/>     at 4.3 hr</td>
+<td>   16.5 hr (6.3)<br/>   (terminal)</td>
+</tr>
+<tr>
+<td>Spironolactone</td>
+<td>1.30</td>
+<td>     80 ng/mL <br/>     at 2.6 hr</td>
+<td>   Approximately<br/>    1.4 hr (0.5)<br/>   (β half-life)</td>
+</tr>
+</tbody>
+</table>

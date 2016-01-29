@@ -1,0 +1,53 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3: Summary of AED Interactions with Oxcarbazepine</caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="20%"></col>
+<thead>
+<tr>
+<th valign="bottom">AED Coadministered</th>
+<th valign="bottom">Dose of AED<br/>(mg/day)</th>
+<th valign="bottom">Oxcarbazepine Dose<br/>(mg/day)</th>
+<th valign="bottom">Influence of Oxcarbazepine on AED Concentration (Mean Change, 90% Confidence Interval)</th>
+<th valign="bottom">Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Botrule">Carbamazepine</td>
+<td stylecode="Botrule">400-2000</td>
+<td stylecode="Botrule">900</td>
+<td stylecode="Botrule">nc<footnote id="t3f">nc denotes a mean change of less than 10%</footnote>
+</td>
+<td stylecode="Botrule">40% decrease [CI:17% decrease, 57% decrease]</td>
+</tr>
+<tr>
+<td stylecode="Botrule">Phenobarbital</td>
+<td stylecode="Botrule">100-150</td>
+<td stylecode="Botrule">600-1800</td>
+<td stylecode="Botrule">14% increase<br/> [CI: 2% increase, 24% increase]</td>
+<td stylecode="Botrule">25% decrease<br/>[CI:12% decrease, 51% decrease]</td>
+</tr>
+<tr>
+<td stylecode="Botrule">Phenytoin</td>
+<td stylecode="Botrule">250-500</td>
+<td stylecode="Botrule">600-1800<br/>&gt;1200-2400</td>
+<td stylecode="Botrule">nc<footnoteref idref="t3f"></footnoteref>
+<sup>,</sup>
+<footnote>Pediatrics</footnote>
+<br/>up to 40% increase<footnote>Mean increase in adults at high Oxcarbazepine doses</footnote>
+<br/>[CI: 12% increase, 60% increase]</td>
+<td stylecode="Botrule">30% decrease<br/>[CI: 3% decrease, 48% decrease]</td>
+</tr>
+<tr>
+<td stylecode="Botrule">Valproic acid</td>
+<td stylecode="Botrule">400-2800</td>
+<td stylecode="Botrule">600-1800</td>
+<td stylecode="Botrule">nc<footnoteref idref="t3f"></footnoteref>
+</td>
+<td stylecode="Botrule">18% decrease<br/>[CI:13% decrease, 40% decrease]</td>
+</tr>
+</tbody>
+</table>

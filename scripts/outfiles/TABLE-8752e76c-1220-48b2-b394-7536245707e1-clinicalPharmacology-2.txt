@@ -1,0 +1,104 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="34%"></col>
+<col width="16%"></col>
+<col width="16%"></col>
+<col width="33%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">Single or Repeated Oral Dosing /Parameter</content>
+</th>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">Children† ≤ 20 kg </content>
+<br/>
+<content stylecode="bold">2 to 5 years</content>
+</th>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">Children†&gt; 20 kg </content>
+<br/>
+<content stylecode="bold">6 to 16 years</content>
+</th>
+<th align="left" stylecode="Botrule " valign="top">
+<content stylecode="bold">Adults‡(mean 76 kg) 23 to 29 years(n=12)</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Botrule "></td>
+<td align="center" stylecode="Botrule ">
+<paragraph>10 mg</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>20 mg</paragraph>
+</td>
+<td stylecode="Botrule "></td>
+</tr>
+<tr>
+<td align="center" colspan="4" stylecode="Botrule ">
+<paragraph>Single Dosing</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Cmax*<br/>(ng/mL)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>288 <br/>(n=10)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>495 <br/>(n=49)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>668</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>AUC*<br/>(ng h/mL)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>511 <br/>(n=7)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>1140 <br/>(n=32)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>1220</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="4" stylecode="Botrule ">
+<paragraph>Repeated Dosing</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>Cmax* <br/>(ng/mL)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>539 <br/>(n=4)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>851 <br/>(n=32)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>1458</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule ">
+<paragraph>AUC *<br/>(ng h/mL)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>1179 <br/>(n=2)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>2276 <br/>(n=23)</paragraph>
+</td>
+<td align="center" stylecode="Botrule ">
+<paragraph>3352</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

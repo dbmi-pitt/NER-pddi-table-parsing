@@ -1,0 +1,17 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>PHARMACOKINETIC PROFILE AFTER I.V. AMIODARONE ADMINISTRATION</caption>
+<col align="left" width="27.5%"></col>
+<col align="center" width="27.5%"></col>
+<col align="left" width="15%"></col>
+<col align="left" width="15%"></col>
+<col align="left" width="15%"></col>
+<thead>
+<tr><th valign="bottom">Drug</th><th>Clearance<br/>(mL/h/kg)</th><th>V<sub>c</sub><br/>(L/kg)</th><th>V<sub>ss</sub><br/>(L/kg)</th><th>t <sub>1/2</sub><br/>(days)</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5">Notes: V<sub>c</sub> and V<sub>ss</sub> denote the central and steady-state volumes of distribution from I.V. studies. "—" denotes not available.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Amiodarone</td><td>90–158</td><td>0.2</td><td>40–84</td><td>20–47</td></tr>
+<tr><td>Desethylamiodarone</td><td>197–290</td><td>__</td><td>68–168</td><td>≥AMI t<sub>1/2</sub></td></tr>
+</tbody>
+</table>

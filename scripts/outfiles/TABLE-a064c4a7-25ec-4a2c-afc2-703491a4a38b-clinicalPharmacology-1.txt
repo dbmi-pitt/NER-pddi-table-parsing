@@ -1,0 +1,155 @@
+<table id="_Refid_d6890767-cf84-41f6-99d4-7cf2eef18" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8. Summary (Mean +/- Standard Deviation) of Micafungin Pharmacokinetics in Pediatric Patients 4 Months of Age and older (Steady-State)</caption>
+<col width="21%"></col>
+<col width="6%"></col>
+<col width="8%"></col>
+<col width="14%"></col>
+<col width="15%"></col>
+<col width="13%"></col>
+<col width="17%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Body weight group</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">N</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Dose</content>
+<footnote id="_Refid-eae54291-5849-42b3-adf8-c3f2630ca">Or the equivalent if receiving the adult dose (50, 100, or 150 mg)</footnote>
+<br/>
+<content stylecode="bold">mg/kg</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Cmax.ss</content>
+<footnote id="_Refid-50457880-b0d6-4541-ae54-6774a4895">Derived from simulations from the population PK model. </footnote>
+<br/>
+<content stylecode="bold">(mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">AUC.ss</content>
+<footnoteref idref="_Refid-50457880-b0d6-4541-ae54-6774a4895"></footnoteref>
+<br/>
+<content stylecode="bold">(mcg·h /mL)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">t½</content>
+<footnote id="_Refid-a65a222c-a306-4bf4-95e1-51da9d423">Derived from the population PK model</footnote>
+<content stylecode="bold"> </content>
+<br/>
+<content stylecode="bold">(h)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">CL</content>
+<footnoteref idref="_Refid-a65a222c-a306-4bf4-95e1-51da9d423"></footnoteref>
+<br/>
+<content stylecode="bold">(mL/min/kg)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>30 kg or less</paragraph>
+</td>
+<td align="center" rowspan="3" stylecode="Rrule Botrule " valign="middle">
+<paragraph>149</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>1.0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>7.1 +/- 4.7 </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>55 +/- 16</paragraph>
+</td>
+<td align="center" rowspan="3" stylecode="Rrule Botrule " valign="middle">
+<paragraph>12.5 +/- 4.6</paragraph>
+</td>
+<td align="center" rowspan="3" stylecode="Rrule Botrule " valign="middle">
+<paragraph>0.328 +/- 0.091</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>2.0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>14.2 +/- 9.3</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>109 +/- 31</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>3.0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>21.3 +/- 14.0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>164 +/- 47</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Greater than 30 kg</paragraph>
+</td>
+<td align="center" rowspan="3" stylecode="Rrule Botrule " valign="middle">
+<paragraph>80</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>1.0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>8.7 +/- 5.6</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>67 +/- 17</paragraph>
+</td>
+<td align="center" rowspan="3" stylecode="Rrule Botrule " valign="middle">
+<paragraph>13.6 +/- 8.8</paragraph>
+</td>
+<td align="center" rowspan="3" stylecode="Rrule Botrule " valign="middle">
+<paragraph>0.241 +/- 0.061</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>2.0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>17.5 +/- 11.2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>134 +/- 33</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>2.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>23.0 +/- 14.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>176 +/- 42</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

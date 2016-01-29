@@ -1,0 +1,115 @@
+<table cellpadding="5.75pt" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="17%"></col>
+<col width="21%"></col>
+<col width="17%"></col>
+<col width="4%"></col>
+<col width="21%"></col>
+<col width="20%"></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Coadministered Drug</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Dose of Coadministered Drug</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Dose of Azithromycin</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">n</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Ratio (with/without coadministered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Mean C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Mean AUC</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Efavirenz</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>400 mg/day for 7 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>600 mg orally on day 7</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>14</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.22</paragraph>
+<paragraph>(1.04 to 1.42)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.92*</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>Fluconazole</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>200 mg orally single dose</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1200 mg orally single dose</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>18</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.82</paragraph>
+<paragraph>(0.66 to 1.02)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>1.07</paragraph>
+<paragraph>(0.94 to 1.22)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>Nelfinavir</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>750 mg three times a day for 11 days</paragraph>
+</td>
+<td stylecode="Rrule Botrule ">
+<paragraph>1200 mg orally on day 9</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>14</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.36</paragraph>
+<paragraph>(1.77 to 3.15)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>2.12</paragraph>
+<paragraph>(1.80 to 2.50)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

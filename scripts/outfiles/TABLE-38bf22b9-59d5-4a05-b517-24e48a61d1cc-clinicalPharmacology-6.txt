@@ -1,0 +1,138 @@
+<table id="_Refid_c4ac07d6-cbd0-4c7e-bd8c-878066ed2" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Susceptibility Interpretive Criteria for Azithromycin Susceptibility Test Result Interpretive Criteria</caption>
+<col width="19%"></col>
+<col width="19%"></col>
+<col width="18%"></col>
+<col width="12%"></col>
+<col width="11%"></col>
+<col width="11%"></col>
+<col width="11%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Pathogen</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Minimum InhibitoryConcentrations (mcg/mL)</content>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Disk Diffusion(zone diameters in mm)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">R</content>
+<footnote id="_Refid-e5c3ae8c-584c-47ab-ac6a-e120a4346">The current absence of data on resistant strains precludes defining any category other than “susceptible.” If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">R</content>
+<footnoteref idref="_Refid-e5c3ae8c-584c-47ab-ac6a-e120a4346"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Haemophilus</content> spp</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>≤4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>≥ 12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>--</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>--</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>≤2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>4</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>≥ 8</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>≥ 18</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>14-17</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>≤ 13</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>Streptococci including<br/>
+<content stylecode="italics">S. pneumoniae</content>
+<footnote id="_Refid-b324e746-361d-400c-bcc3-472edaa5b">Susceptibility of streptococci including <content stylecode="italics">S. pneumoniae</content> to azithromycin and other macrolides can be predicted by testing erythromycin.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>≤0.5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>1</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>≥ 2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>≥ 18</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>14-17</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>≤ 13</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

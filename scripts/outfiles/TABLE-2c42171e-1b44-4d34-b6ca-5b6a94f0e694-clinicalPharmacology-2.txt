@@ -1,0 +1,105 @@
+<table border="0" id="ID_E57FC6F8-E473-442A-BAD0-A43525626FA6" width="80%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col width="12.7%"></col>
+<col width="18.4%"></col>
+<col width="12.9%"></col>
+<col width="21%"></col>
+<col width="17%"></col>
+<col width="17.9%"></col>
+</colgroup>
+<tbody>
+<tr id="ID_5F13FFB6-5B54-4BD2-887F-8454060E2D17">
+<td align="center" colspan="6" stylecode="Botrule Lrule Rrule Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">Mean Changes in Blood Pressure from Baseline to Final Visit in all Double-Blind Placebo-Controlled Studies</content>
+</paragraph>
+</td>
+</tr>
+<tr id="ID_16E6AD8E-9678-4318-BD11-E23691257593">
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">Normotensive Patients </content>
+</paragraph>
+<content stylecode="bold">
+<content stylecode="underline">DBP </content>
+<content stylecode="underline">≤ <content stylecode="bold">90mmHg</content>
+</content>
+</content>
+</td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="middle">
+<paragraph>
+<content stylecode="bold">Hypertensive Patients </content>
+</paragraph>
+<content stylecode="bold">
+<content stylecode="underline">DBP </content>
+<content stylecode="underline">&gt; <content stylecode="bold">90mmHg</content>
+</content>
+</content>
+</td>
+</tr>
+<tr id="ID_ABAEB193-4112-4B9F-B5CC-64D219D3BDC8">
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Group</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Mean Change</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">N</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Mean Change</content>
+</td>
+</tr>
+<tr id="ID_E8B0B799-46AC-451F-B25E-9B4373F11328">
+<td align="center" stylecode="Botrule Lrule Rrule" valign="bottom">
+<content stylecode="bold">SBP</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Placebo</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">293</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">-0.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">45</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">-5.8</td>
+</tr>
+<tr id="ID_BB795AD9-3427-4825-8EBD-2F7AC181B17D">
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">(mm Hg)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Terazosin</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">519</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-3.3<footnote id="SPLSERV-1D2091D8-23B5-67BF-4285-7DAB88BA2DC5">p ≤ 0.05 vs . placebo</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">65</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-14.4<footnoteref idref="SPLSERV-1D2091D8-23B5-67BF-4285-7DAB88BA2DC5"></footnoteref>
+</td>
+</tr>
+<tr id="ID_4624BDDF-F1C0-47F6-8C09-5C38D6859EFE">
+<td align="center" stylecode="Botrule Lrule Rrule" valign="bottom">
+<content stylecode="bold">DBP</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="bold">Placebo</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">293</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">+0.4</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">45</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">-7.1</td>
+</tr>
+<tr id="ID_0278328F-BB91-4F81-BFF0-9B1034393408">
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">(mm Hg)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Terazosin</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">519</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-2.2<footnoteref idref="SPLSERV-1D2091D8-23B5-67BF-4285-7DAB88BA2DC5"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">65</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">-15.1<footnoteref idref="SPLSERV-1D2091D8-23B5-67BF-4285-7DAB88BA2DC5"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

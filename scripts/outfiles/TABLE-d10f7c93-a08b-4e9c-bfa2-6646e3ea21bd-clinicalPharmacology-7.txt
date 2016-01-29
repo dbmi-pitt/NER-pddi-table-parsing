@@ -1,0 +1,18 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th align="center" stylecode="     Toprule         Lrule          Rrule     ">Zone Diameter (mm)</th>
+<th stylecode="     Toprule         Lrule          Rrule     ">Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">         ≥ 21 <br/>
+</td>
+<td stylecode="     Rrule     " valign="top">    Susceptible  (S)    <br/>
+</td>
+</tr>
+</tbody>
+</table>

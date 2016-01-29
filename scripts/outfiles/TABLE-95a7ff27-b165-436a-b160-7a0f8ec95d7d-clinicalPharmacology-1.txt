@@ -1,0 +1,92 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6 Drug Interactions:  Pharmacokinetic Parameters for COLCRYS (colchicine, USP) tablets in the Presence of the Co-Administered Drug </caption>
+<col align="left" span="1" valign="top" width="20%"></col>
+<col align="left" span="1" valign="top" width="20%"></col>
+<col align="left" span="1" valign="top" width="15%"></col>
+<col align="left" span="1" valign="top" width="5%"></col>
+<col align="center" span="1" valign="top" width="20%"></col>
+<col align="center" span="1" valign="top" width="20%"></col>
+<tbody>
+<tr>
+<th colspan="1">Co-administered Drug</th>
+<th colspan="1">Dose of Co-administered Drug (mg)</th>
+<th colspan="1">Dose of COLCRYS (mg)</th>
+<th colspan="1">N</th>
+<th colspan="2">% Change in Colchicine Concentrations from Baseline<br/>(Range: Min - Max)</th>
+</tr>
+<tr>
+<th colspan="1"></th>
+<th colspan="1"></th>
+<th colspan="1"></th>
+<th colspan="1"></th>
+<th colspan="1">C<sub>max</sub>
+</th>
+<th colspan="1">AUC<sub>0-t</sub>
+</th>
+</tr>
+<tr>
+<td>Cyclosporine</td>
+<td>100 mg<br/>single-dose</td>
+<td>0.6 mg<br/>single-dose</td>
+<td>23</td>
+<td>270.0<br/>(62.0 to 606.9)</td>
+<td>259.0<br/>(75.8 to 511.9)</td>
+</tr>
+<tr>
+<td>Clarithromycin</td>
+<td>250 mg BID,<br/>7 days</td>
+<td>0.6 mg<br/>single-dose</td>
+<td>23</td>
+<td>227.2<br/>(65.7 to 591.1)</td>
+<td>281.5<br/>(88.7 to 851.6)</td>
+</tr>
+<tr>
+<td>Ketoconazole</td>
+<td>200 mg BID,<br/>5 days</td>
+<td>0.6 mg<br/>single-dose</td>
+<td>24</td>
+<td>101.7<br/>(19.6 to 219.0)</td>
+<td>212.2<br/>(76.7 to 419.6)</td>
+</tr>
+<tr>
+<td>Ritonavir</td>
+<td>100 mg BID,<br/>5 days</td>
+<td>0.6 mg<br/>single-dose</td>
+<td>18</td>
+<td>184.4<br/>(79.2 to 447.4)</td>
+<td>296.0<br/>(53.8 to 924.4)</td>
+</tr>
+<tr>
+<td>Verapamil</td>
+<td>240 mg daily,<br/>5 days</td>
+<td>0.6 mg<br/>single-dose</td>
+<td>24</td>
+<td>40.1<br/>(-47.1 to 149.5)</td>
+<td>103.3<br/>(-9.8 to 217.2)</td>
+</tr>
+<tr>
+<td>Diltiazem</td>
+<td>240 mg daily,<br/>7 days</td>
+<td>0.6 mg<br/>single-dose</td>
+<td>20</td>
+<td>44.2<br/>(-46.0 to 318.3)</td>
+<td>93.4<br/>(-30.2 to 338.6)</td>
+</tr>
+<tr>
+<td>Azithromycin</td>
+<td>500 mg × 1 day, then<br/>250 mg × 4 days</td>
+<td>0.6 mg<br/>single-dose</td>
+<td>21</td>
+<td>21.6<br/> (-41.7 to 222.0)</td>
+<td>57.1<br/>(-24.3 to 241.1)</td>
+</tr>
+<tr>
+<td>Grapefruit Juice</td>
+<td>240 mL BID,<br/>4 days</td>
+<td>0.6 mg<br/>single-dose</td>
+<td>21</td>
+<td>-2.55<br/>(-53.4 to 55.0)</td>
+<td>-2.36<br/>(-46.4 to 62.2)</td>
+</tr>
+</tbody>
+</table>

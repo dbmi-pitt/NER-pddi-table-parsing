@@ -1,0 +1,38 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7. Erosive Esophagitis Patient Healing Rates</caption>
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<col width="33.3%"></col>
+<tbody>
+<tr>
+<td stylecode="    Lrule     "> </td>
+<td align="center" colspan="2" stylecode="     Botrule         Lrule          Rrule     "> Healed/Evaluable</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     "> </td>
+<td align="center" stylecode="     Botrule         Lrule     " valign="bottom"> Placebo<footnote id="FOOT_544">All patients were permitted antacids as needed for relief of pain.</footnote>
+<br/>n = 229</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> Ranitidine<br/>150 mg 4 times daily<footnoteref idref="FOOT_544"></footnoteref>
+<br/>n = 215</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">   Week 4</td>
+<td align="center" stylecode="     Botrule         Lrule     "> 43/198 (22%)</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> 96/206 (47%)<footnote id="FOOT_545">
+<content stylecode="italics">P</content>&lt;0.001 versus placebo.</footnote>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">   Week 8</td>
+<td align="center" stylecode="     Botrule         Lrule     "> 63/176 (36%)</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> 142/200 (71%)<footnoteref idref="FOOT_545"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     ">   Week 12</td>
+<td align="center" stylecode="     Botrule         Lrule     "> 92/159 (58%)</td>
+<td align="center" stylecode="     Botrule         Lrule          Rrule     "> 162/192 (84%)<footnoteref idref="FOOT_545"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

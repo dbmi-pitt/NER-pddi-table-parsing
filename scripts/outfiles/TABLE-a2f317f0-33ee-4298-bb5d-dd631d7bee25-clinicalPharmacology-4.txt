@@ -1,0 +1,26 @@
+<table border="single" id="id_85d29c30-741e-4b51-9192-d12ef85d0050" width="356" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_d464cf11-ea22-4f06-962d-ab10c5d6e995">Table 8</caption>
+<col width="36.8%"></col>
+<col width="35.4%"></col>
+<col width="27.8%"></col>
+<tbody>
+<tr id="id_2dbafab6-84ae-4b14-a5f6-250eb4c1b8b4">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">Microorganism</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Antimicrobial Agent</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">MIC (mcg/mL)
+                                       </td>
+</tr>
+<tr id="id_2d5a540d-0098-4fb1-bd66-833ae0abfa7a">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">H. pylori</content> ATCC 43504</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Clarithromycin</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.015 to 0.12</td>
+</tr>
+<tr id="id_21e57a0b-ba9e-4439-944b-ac0802c04914">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">H. pylori</content> ATCC 43504</td>
+<td align="center" stylecode="Rrule" valign="top">Amoxicillin</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">0.015 to 0.12</td>
+</tr>
+</tbody>
+</table>

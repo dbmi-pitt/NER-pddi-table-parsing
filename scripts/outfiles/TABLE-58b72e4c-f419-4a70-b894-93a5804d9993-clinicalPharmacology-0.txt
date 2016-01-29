@@ -1,0 +1,56 @@
+<table border="1" id="id_96dbfa35-bd58-4f15-aa78-146ca579f28f" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="304px"></col>
+<col width="180px"></col>
+<col width="136px"></col>
+<thead>
+<tr id="id_e47a4c60-499b-4a3e-bbce-84a07c78aed0">
+<td align="center" stylecode="Toprule Botrule Lrule" valign="bottom">Pharmacokinetic Parameters (Mean)</td>
+<td align="center" stylecode="Botrule" valign="bottom">Total n = 12</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom"></td>
+</tr>
+<tr id="id_a6dbdcda-0f13-45e4-9898-4b66121dac2b">
+<td align="center" stylecode="Lrule Botrule" valign="bottom"></td>
+<td align="center" stylecode="Botrule" valign="bottom">
+<content stylecode="underline">Day 1</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="bottom">
+<content stylecode="underline">Day 5</content>
+</td>
+</tr>
+<tr id="id_e6e1ff8a-5fa0-4647-a6cb-54fce18e0b53">
+<td align="left" stylecode="Lrule Botrule" valign="middle">C<sub>max</sub> (mcg/mL)</td>
+<td align="center" stylecode="Botrule" valign="middle">0.41</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.24</td>
+</tr>
+<tr id="id_fe838d8d-7ca1-41df-96c9-4cc2ceb98a9a">
+<td align="left" stylecode="Lrule Botrule" valign="middle">T<sub>max</sub> (h)</td>
+<td align="center" stylecode="Botrule" valign="middle">2.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">3.2</td>
+</tr>
+<tr id="id_9ca76261-62f3-4a36-ab9c-2840debc748d">
+<td align="left" stylecode="Lrule Botrule" valign="middle">AUC<sub>0-24</sub> (mcg•h/mL)</td>
+<td align="center" stylecode="Botrule" valign="middle">2.6</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">2.1</td>
+</tr>
+</thead>
+<tfoot id="id_72bf2231-e9a3-4875-a395-37e47ce0c75e">
+<tr>
+<td align="left" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<sup>*</sup> Azithromycin 250 mg tablets are bioequivalent to 250 mg capsules in the fasted state. Azithromycin 250 mg capsules are no longer commercially available.</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_9963865e-83ab-4a1b-8da3-a11739bf8994">
+<td align="left" stylecode="Toprule Botrule Lrule" valign="middle">C<sub>min</sub> (mcg/mL)</td>
+<td align="center" stylecode="Botrule" valign="middle">0.05</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.05</td>
+</tr>
+<tr id="id_da3b13c3-12ad-4bfd-8465-2c3647b6cc25">
+<td align="left" stylecode="Lrule Botrule" valign="middle">Urinary Excret. (% dose)</td>
+<td align="center" stylecode="Botrule" valign="middle">4.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">6.5</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,151 @@
+<table id="t9" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9: Acceptable Quality Control Ranges for Piperacillin/Tazobactam to Be Used in Validation of Susceptibility Test
+</caption>
+<col align="left" width="34.000%"></col>
+<col align="left" width="34.000%"></col>
+<col align="left" width="32.000%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">
+<sup>a</sup> This quality control range for <content stylecode="italics">Haemophilus influenzae</content> is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours.
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="3" valign="top">
+<paragraph stylecode="footnote">
+<sup>b</sup> The quality control ranges for <content stylecode="italics">Bacteroides fragilis</content> and <content stylecode="italics">Bacteroides thetaiotaomicron</content> are applicable only to tests performed using the agar dilution method.
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="justify" rowspan="2" stylecode="Toprule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Toprule" valign="top">
+<content stylecode="bold">Acceptable Quality Control Ranges</content>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">Minimal Inhibitory<br/>Concentration
+</td>
+<td align="center" valign="top">
+<br/>Disk Diffusion
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="middle">QC Strain
+</td>
+<td align="center" stylecode="Botrule" valign="top">Range (MIC in mcg/mL)
+</td>
+<td align="center" stylecode="Botrule" valign="top">Zone Diameter Range in mm
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+<br/>ATCC 25922
+</td>
+<td align="center" valign="top">1 to 4
+</td>
+<td align="center" valign="top">24 to 30
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+<br/>ATCC 35218
+</td>
+<td align="center" valign="top">0.5 to 2
+</td>
+<td align="center" valign="top">24 to 30
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+<br/>ATCC 27853
+</td>
+<td align="center" valign="top">1 to 8
+</td>
+<td align="center" valign="top">25 to 33
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="italics">Haemophilus influenzae</content>
+<sup>a</sup>
+<br/>ATCC 49247
+</td>
+<td align="center" valign="top">0.06 to 0.5
+</td>
+<td align="center" valign="top">33 to 38
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 29213
+</td>
+<td align="center" valign="top">0.25 to 2
+</td>
+<td align="center" valign="top">-
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+<br/>ATCC 25923
+</td>
+<td align="center" valign="top">-
+</td>
+<td align="center" valign="top">27 to 36
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="italics">Bacteroides fragilis</content>
+<sup>b</sup>
+<br/>ATCC 25285
+</td>
+<td align="center" valign="top">0.12 to 0.5
+</td>
+<td align="center" valign="top">-
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="italics">Bacteroides thetaiotaomicron</content>
+<sup>b</sup>
+<br/>ATCC 29741
+</td>
+<td align="center" valign="top">4 to 16
+</td>
+<td align="center" valign="top">-
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<content stylecode="italics">Clostridium difficile</content>
+<sup>b</sup>
+<br/>ATCC 700057
+</td>
+<td align="center" valign="top">4 to 16
+</td>
+<td align="center" valign="top">-
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="middle">
+<content stylecode="italics">Eubacterium lentum</content>
+<sup>b</sup>
+<br/>ATCC 43055
+</td>
+<td align="center" stylecode="Botrule" valign="top">4 to 16
+</td>
+<td align="center" stylecode="Botrule" valign="top">-
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,72 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="4" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Mean Placebo-Subtracted Change in HbA1c in Fixed-Dose Monotherapy Studies</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">
+<br/>Dose of acarbose tablets<footnote id="fn629">Acarbose tablets were statistically significantly different from placebo at all doses. Although there were no statistically significant differences among the mean results for doses ranging from 50 to 300 mg t.i.d., some patients may derive benefit by increasing the dosage from 50 to 100 mg t.i.d.</footnote>
+</td>
+<td align="center" stylecode="Rrule" valign="top">N<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">Change in HbA1c<br/>%<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">p-Value<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">25 mg t.i.d.<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">110<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">-0.44<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.0307<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">50 mg t.i.d.<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">131<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">-0.77<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.0001<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">100 mg t.i.d.<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">244<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">-0.74<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.0001<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">200 mg t.i.d.<footnote id="fn630">Although studies utilized a maximum dose of 200 or 300 mg t.i.d., the maximum recommended dose for patients &lt;60 kg is 50 mg t.i.d.; the maximum recommended dose for patients &gt; 60 kg is 100 mg t.i.d.</footnote>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">231<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">-0.86<br/>
+</td>
+<td stylecode="Rrule" valign="top">
+<br/>0.0001</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule" valign="top">300 mg t.i.d.<footnoteref idref="fn630"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">53<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">-1.00<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.0001<br/>
+</td>
+</tr>
+</tbody>
+</table>

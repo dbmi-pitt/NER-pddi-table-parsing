@@ -1,0 +1,305 @@
+<table id="id_5ee46c12-daf5-432b-9867-5daff2876dc2" width="807.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_c543d1b5-b22a-40d8-be4e-c54eb0098bc0">Table 3: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drug in the Presence of Indinavir (See <linkhtml href="#id_475b25fa-86e3-4b92-b606-66a613746db9">PRECAUTIONS, Table 9 </linkhtml>for Recommended Alterations in Dose or Regimen)</caption>
+<col align="left" width="14.3%"></col>
+<col width="10.2%"></col>
+<col width="17.7%"></col>
+<col width="8.2%"></col>
+<col width="17.7%"></col>
+<col width="15.6%"></col>
+<col width="16.4%"></col>
+<thead>
+<tr id="id_c37268eb-6125-4d6a-b275-d0cd70bbdc30" stylecode="BotRule">
+<td align="center" stylecode="Toprule" valign="bottom">
+<content stylecode="bold">Coadministered drug </content>
+</td>
+<td align="center" stylecode="Toprule" valign="bottom">
+<content stylecode="bold">Dose of Coadministered drug (mg) </content>
+</td>
+<td align="center" stylecode="Toprule" valign="bottom">
+<content stylecode="bold">Dose of CRIXIVAN (mg)</content>
+</td>
+<td align="center" stylecode="Toprule" valign="bottom">
+<content stylecode="bold">n</content>
+</td>
+<td align="center" colspan="3" valign="bottom">
+<content stylecode="bold">Ratio (with/without CRIXIVAN) of Coadministered Drug<br/>Pharmacokinetic Parameters <br/>(90% CI); No Effect = 1.00</content>
+</td>
+</tr>
+<tr id="id_3150dfbd-e7c0-4cf6-af56-ce5ab7a8f229">
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top">C<sub>max</sub>
+</td>
+<td align="center" stylecode="Botrule" valign="top">AUC</td>
+<td align="center" stylecode="Botrule" valign="top">C<sub>min</sub>
+</td>
+</tr>
+</thead>
+<tfoot id="id_7aa0a699-7dfe-44e9-a0fb-5ef885759661">
+<tr>
+<td align="left" colspan="7" valign="top">All interaction studies conducted in healthy, HIV-negative adult subjects, unless otherwise indicated.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_b4f31e4e-459b-41e5-abc2-8bb7dac850cd">
+<td align="left" stylecode="Toprule Botrule" valign="top">Clarithromycin</td>
+<td align="center" stylecode="Botrule" valign="top">500 twice daily, <br/>7 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">12</td>
+<td align="center" stylecode="Botrule" valign="top">1.19<br/>(1.02, 1.39)</td>
+<td align="center" stylecode="Botrule" valign="top">1.47<br/>(1.30, 1.65)</td>
+<td align="center" stylecode="Botrule" valign="top">1.97<br/>(1.58, 2.46)<br/>n=11</td>
+</tr>
+<tr id="id_86a4a92b-bf27-40e5-bfbe-2e45874eea23">
+<td align="left" stylecode="Botrule" valign="top">Efavirenz</td>
+<td align="center" stylecode="Botrule" valign="top">200 once daily, <br/>14 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 14 days</td>
+<td align="center" stylecode="Botrule" valign="top">20</td>
+<td align="center" stylecode="Botrule" valign="top">No significant change</td>
+<td align="center" stylecode="Botrule" valign="top">No significant change</td>
+<td align="center" stylecode="Botrule" valign="top">--</td>
+</tr>
+<tr id="id_44de9cf2-658c-4176-8657-1eb20f230a65">
+<td align="left" stylecode="Botrule" valign="top">Ethinyl Estradiol<br/>(ORTHO-NOVUM 1/35)<footnote id="id-aa66d922-10b3-4db8-939d-afbed9683874">Registered trademark of Ortho Pharmaceutical Corporation</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">35 mcg, 8 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 8 days</td>
+<td align="center" stylecode="Botrule" valign="top">18</td>
+<td align="center" stylecode="Botrule" valign="top">1.02<br/>(0.96, 1.09)</td>
+<td align="center" stylecode="Botrule" valign="top">1.22<br/>(1.15, 1.30)</td>
+<td align="center" stylecode="Botrule" valign="top">1.37<br/>(1.24, 1.51)</td>
+</tr>
+<tr id="id_2f95f26a-01ac-4f8e-b019-a710c69d0232">
+<td align="left" stylecode="Botrule" valign="top">Isoniazid</td>
+<td align="center" stylecode="Botrule" valign="top">300 once daily in the morning, <br/>8 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 8 days</td>
+<td align="center" stylecode="Botrule" valign="top">11</td>
+<td align="center" stylecode="Botrule" valign="top">1.34<br/>(1.12, 1.60)</td>
+<td align="center" stylecode="Botrule" valign="top">1.12<br/>(1.03, 1.22)</td>
+<td align="center" stylecode="Botrule" valign="top">1.00<br/>(0.92, 1.08) </td>
+</tr>
+<tr id="id_1ec1698d-0586-43e1-9156-aa107bb1b20a">
+<td align="left" stylecode="Botrule" valign="top">Methadone<footnote id="id-a12f95ab-4848-42de-99e7-08cb5ddb2248">Study conducted in subjects on methadone maintenance.</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">20-60 once daily in the morning, <br/>8 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 8 days</td>
+<td align="center" stylecode="Botrule" valign="top">12</td>
+<td align="center" stylecode="Botrule" valign="top">0.93<br/>(0.84, 1.03)</td>
+<td align="center" stylecode="Botrule" valign="top">0.96<br/>(0.86, 1.06)</td>
+<td align="center" stylecode="Botrule" valign="top">1.06<br/> (0.94, 1.19)</td>
+</tr>
+<tr id="id_a6fdf88e-7a50-4d31-b5a9-71a91883adf5">
+<td align="left" stylecode="Botrule" valign="top">Norethindrone<br/>(ORTHO-NOVUM 1/35)<footnoteref idref="id-aa66d922-10b3-4db8-939d-afbed9683874"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">1 mcg, 8 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 8 days</td>
+<td align="center" stylecode="Botrule" valign="top">18</td>
+<td align="center" stylecode="Botrule" valign="top">1.05<br/>(0.95, 1.16)</td>
+<td align="center" stylecode="Botrule" valign="top">1.26<br/>(1.20, 1.31)</td>
+<td align="center" stylecode="Botrule" valign="top">1.44<br/>(1.32, 1.57)</td>
+</tr>
+<tr id="id_0791a21e-d8b9-469c-bc45-92943d461bf6">
+<td align="left" stylecode="Botrule" valign="top">Rifabutin<br/>
+<sup>•</sup>150 mg once daily in the morning, 11 days + indinavir compared to 300 mg once daily in the morning, 11 days alone</td>
+<td align="center" stylecode="Botrule" valign="top">150 once daily in the morning, <br/>10 days<br/>
+<br/>300 once daily in the morning, <br/>10 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 10 days<br/>
+<br/>
+<br/>800 three times daily, 10 days</td>
+<td align="center" stylecode="Botrule" valign="top">14<br/>
+<br/>
+<br/>
+<br/>10</td>
+<td align="center" stylecode="Botrule" valign="top">1.29<br/>(1.05, 1.59)<br/>
+<br/>
+<br/>2.34<br/>(1.64, 3.35)</td>
+<td align="center" stylecode="Botrule" valign="top">1.54<br/>(1.33, 1.79)<br/>
+<br/>
+<br/>2.73<br/>(1.99, 3.77)</td>
+<td align="center" stylecode="Botrule" valign="top">1.99<br/>(1.71, 2.31)<br/>n=13<br/>
+<br/>3.44<br/>(2.65, 4.46)<br/>n=9</td>
+</tr>
+<tr id="id_e823f2c9-4544-42ab-8cc0-aca42a9a7220">
+<td align="left" valign="top">Ritonavir</td>
+<td align="center" valign="top">100 twice daily, <br/>14 days</td>
+<td align="center" valign="top">800 twice daily, <br/>14 days</td>
+<td align="center" valign="top">10, 4<footnote id="id-4fae4802-7b1a-4304-bf67-dd03863375e2">Parallel group design; n for coadministered drug + indinavir, n for coadministered drug alone.</footnote>
+</td>
+<td align="center" valign="top">1.61<br/>(1.13, 2.29)</td>
+<td align="center" valign="top">1.72<br/>(1.20, 2.48)</td>
+<td align="center" valign="top">1.62<br/>(0.93, 2.85)</td>
+</tr>
+<tr id="id_69191db4-e4da-4d12-a82c-f5d38aeb5489">
+<td align="left" stylecode="Botrule" valign="top"></td>
+<td align="center" stylecode="Botrule" valign="top">200 twice daily, <br/>14 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 twice daily, <br/>14 days</td>
+<td align="center" stylecode="Botrule" valign="top">9, 5<footnoteref idref="id-4fae4802-7b1a-4304-bf67-dd03863375e2"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">1.19<br/>(0.85, 1.66)</td>
+<td align="center" stylecode="Botrule" valign="top"> 1.96<br/>(1.39, 2.76)</td>
+<td align="center" stylecode="Botrule" valign="top">4.71<br/>(2.66, 8.33)<br/>n=9, 4</td>
+</tr>
+<tr id="id_07b6ccdb-64ec-4fb1-a54a-c98e2af0631f">
+<td align="left" valign="top">Saquinavir</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_cf4ad82c-561f-44f1-bbd1-9204e578831c">
+<td align="left" valign="top">   Hard gel formulation</td>
+<td align="center" valign="top">600 single dose </td>
+<td align="center" valign="top">800 three times daily, 2 days</td>
+<td align="center" valign="top">6</td>
+<td align="center" valign="top">4.7<br/>(2.7, 8.1)</td>
+<td align="center" valign="top">6.0<br/>(4.0, 9.1)</td>
+<td align="center" valign="top">2.9<br/>(1.7, 4.7)<footnote id="id-9e4d6b91-cf88-4352-bfc9-c251cddcdd91">C<sub>6hr</sub>
+</footnote>
+</td>
+</tr>
+<tr id="id_05f30b26-94c8-4baf-8a8a-bd8bfd0d5b4f">
+<td align="left" valign="top">   Soft gel formulation</td>
+<td align="center" valign="top">800 single dose</td>
+<td align="center" valign="top">800 three times daily, 2 days</td>
+<td align="center" valign="top">6</td>
+<td align="center" valign="top">6.5<br/>(4.7, 9.1)</td>
+<td align="center" valign="top">7.2<br/>(4.3, 11.9)</td>
+<td align="center" valign="top">5.5<br/>(2.2, 14.1)<footnoteref idref="id-9e4d6b91-cf88-4352-bfc9-c251cddcdd91"></footnoteref>
+</td>
+</tr>
+<tr id="id_ae6fcc5a-79b3-4deb-a1c8-ff00f32fd713">
+<td align="left" stylecode="Botrule" valign="top">   Soft gel formulation</td>
+<td align="center" stylecode="Botrule" valign="top">1200 single dose</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 2 days</td>
+<td align="center" stylecode="Botrule" valign="top">6</td>
+<td align="center" stylecode="Botrule" valign="top">4.0<br/>(2.7, 5.9)</td>
+<td align="center" stylecode="Botrule" valign="top">4.6<br/>(3.2, 6.7)</td>
+<td align="center" stylecode="Botrule" valign="top">5.5<br/>(3.7, 8.3)<footnoteref idref="id-9e4d6b91-cf88-4352-bfc9-c251cddcdd91"></footnoteref>
+</td>
+</tr>
+<tr id="id_9007e770-e24c-4c00-995d-11bc48f80260">
+<td align="left" stylecode="Botrule" valign="top">Sildenafil</td>
+<td align="center" stylecode="Botrule" valign="top">25 single dose</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily</td>
+<td align="center" stylecode="Botrule" valign="top">6</td>
+<td align="center" colspan="3" stylecode="Botrule" valign="top">See text below for discussion of interaction.</td>
+</tr>
+<tr id="id_5a6d55ef-3472-469e-a929-df0ca3afdd10">
+<td align="left" stylecode="Botrule" valign="top">Stavudine<footnote id="id-aac83839-3373-458f-bc43-9643d5a088bb">Study conducted in HIV-positive subjects.</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top">40 twice daily, <br/>7 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">13</td>
+<td align="center" stylecode="Botrule" valign="top">0.86<br/>(0.73, 1.03)</td>
+<td align="center" stylecode="Botrule" valign="top">1.21<br/>(1.09, 1.33)</td>
+<td align="center" stylecode="Botrule" valign="top">Not Done</td>
+</tr>
+<tr id="id_72a34bc2-e381-4535-ac35-66030c78e249">
+<td align="left" stylecode="Botrule" valign="top">Theophylline</td>
+<td align="center" stylecode="Botrule" valign="top">250 single dose (on Days 1 and 7)</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 6 days (Days 2 to 7)</td>
+<td align="center" stylecode="Botrule" valign="top">12, 4<footnoteref idref="id-4fae4802-7b1a-4304-bf67-dd03863375e2"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">0.88<br/>(0.76, 1.03)</td>
+<td align="center" stylecode="Botrule" valign="top">1.14<br/>(1.04, 1.24)</td>
+<td align="center" stylecode="Botrule" valign="top">1.13<br/>(0.86, 1.49)<br/>n=7, 3</td>
+</tr>
+<tr id="id_1bb4a9f3-e24a-4317-8d71-99bc1b60623c">
+<td align="left" valign="top">Trimethoprim/<br/>Sulfamethoxazole</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_a999c4bd-1758-4e51-908a-39579cda92a0">
+<td align="left" stylecode="Botrule" valign="top">   Trimethoprim</td>
+<td align="center" stylecode="Botrule" valign="top">800 Trimethoprim/<br/> 160 Sulfamethoxazole q12h, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">400 q6h, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">12</td>
+<td align="center" stylecode="Botrule" valign="top">1.18<br/>(1.05, 1.32)</td>
+<td align="center" stylecode="Botrule" valign="top">1.18<br/>(1.05, 1.33)</td>
+<td align="center" stylecode="Botrule" valign="top">1.18<br/>(1.00, 1.39)</td>
+</tr>
+<tr id="id_893cc040-e55a-4364-9f56-acde9d3d697c">
+<td align="left" valign="top">Trimethoprim/<br/>Sulfamethoxazole</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_e633b853-2552-4e56-bae3-000d3fb9304a">
+<td align="left" stylecode="Botrule" valign="top">   Sulfamethoxazole</td>
+<td align="center" stylecode="Botrule" valign="top">800 Trimethoprim/<br/>160 Sulfamethoxazole q12h, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">400 q6h, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">12</td>
+<td align="center" stylecode="Botrule" valign="top">1.01<br/>(0.95, 1.08)</td>
+<td align="center" stylecode="Botrule" valign="top">1.05<br/>(1.01, 1.09)</td>
+<td align="center" stylecode="Botrule" valign="top">1.05<br/>(0.97, 1.14)</td>
+</tr>
+<tr id="id_dc0bc253-f3e1-42d0-b70a-9858f60e731e">
+<td align="left" stylecode="Botrule" valign="top">Vardenafil</td>
+<td align="center" stylecode="Botrule" valign="top">10 single dose</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily</td>
+<td align="center" stylecode="Botrule" valign="top">18</td>
+<td align="center" colspan="3" stylecode="Botrule" valign="top">See text below for discussion of interaction.</td>
+</tr>
+<tr id="id_583550f7-bde4-4c42-aa09-766304810848">
+<td align="left" stylecode="Botrule" valign="top">Zidovudine<footnoteref idref="id-aac83839-3373-458f-bc43-9643d5a088bb"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">200 three times daily, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">1000 three times daily, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">12</td>
+<td align="center" stylecode="Botrule" valign="top">0.89<br/>(0.73, 1.09)</td>
+<td align="center" stylecode="Botrule" valign="top">1.17<br/>(1.07, 1.29)</td>
+<td align="center" stylecode="Botrule" valign="top">1.51<br/>(0.71, 3.20)<br/>n=4</td>
+</tr>
+<tr id="id_90876889-43a9-4933-828a-22d995201eef">
+<td align="left" valign="top">Zidovudine/<br/>Lamivudine<footnoteref idref="id-aac83839-3373-458f-bc43-9643d5a088bb"></footnoteref>
+</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_1b6dda91-d35e-438e-8c2a-0f87008e9a97">
+<td align="left" stylecode="Botrule" valign="top">   Zidovudine</td>
+<td align="center" stylecode="Botrule" valign="top">200/150 three times daily, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">6, 7<footnoteref idref="id-4fae4802-7b1a-4304-bf67-dd03863375e2"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">1.23<br/>(0.74, 2.03)</td>
+<td align="center" stylecode="Botrule" valign="top">1.39<br/>(1.02, 1.89)</td>
+<td align="center" stylecode="Botrule" valign="top">1.08<br/>(0.77, 1.50)<br/>n=5, 5</td>
+</tr>
+<tr id="id_542558ef-1747-4191-84f1-523cbcf147c5">
+<td align="left" valign="top">Zidovudine/<br/>Lamivudine<footnoteref idref="id-aac83839-3373-458f-bc43-9643d5a088bb"></footnoteref>
+</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_c27ecdca-d428-4703-a046-cbd93fbd127e">
+<td align="left" stylecode="Botrule" valign="top">   Lamivudine</td>
+<td align="center" stylecode="Botrule" valign="top">200/150 three times daily, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">800 three times daily, 7 days</td>
+<td align="center" stylecode="Botrule" valign="top">6, 7<footnoteref idref="id-4fae4802-7b1a-4304-bf67-dd03863375e2"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top">0.73<br/>(0.52, 1.02)</td>
+<td align="center" stylecode="Botrule" valign="top">0.91<br/>(0.66, 1.26)</td>
+<td align="center" stylecode="Botrule" valign="top">0.88<br/>(0.59, 1.33)</td>
+</tr>
+</tbody>
+</table>

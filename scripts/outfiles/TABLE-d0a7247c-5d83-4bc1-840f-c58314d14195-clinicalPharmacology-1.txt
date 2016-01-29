@@ -1,0 +1,105 @@
+<table id="_RefID0EMNBG" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: Effect of Fluvastatin Coadministration on Systemic Exposure of Other Drugs</caption>
+<col width="29%"></col>
+<col width="33%"></col>
+<col width="23%"></col>
+<col width="19%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Fluvastatin dosage regimen</content>
+</paragraph>
+</td>
+<td stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Coadministered drug</content>
+</paragraph>
+</td>
+<td stylecode="Botrule Toprule " valign="top"></td>
+<td stylecode="Botrule Toprule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top"></td>
+<td stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Name and Dose (mg)</content>
+<footnote id="_Refid-2c9d20cd-7502-4106-b869-853bd155c">Single dose unless otherwise noted</footnote>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Change in AUC</content>
+<footnote id="_Refid-bb4be37b-5112-4988-8dfc-cd15cc72e">Mean ratio (with/without coadministered drug and no change = 1-fold) or % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively.</footnote>
+</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Change in C<sub>max</sub>
+</content>
+<footnoteref idref="_Refid-bb4be37b-5112-4988-8dfc-cd15cc72e"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>40 mg QD for 5 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>Phenytoin 300 mg QD<footnote id="_Refid-6525bb8a-270b-409b-9770-af54862f7">Considered clinically significant <content stylecode="italics">[see <linkhtml href="#i4i_dosage_admin_id_834aeb2f-2fa9-4435-a35f-e279116d3462">Dosage and Administration (2)</linkhtml> and <linkhtml href="#i4i_interactions_id_72d3a49a-3593-41e8-99a2-e4ef70347049">Drug Interactions (7)</linkhtml>]</content>.</footnote>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 20%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 5%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>40 mg b.i.d for 21 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>Glyburide 5 mg to 20 mg QD for <br/>22 days<footnoteref idref="_Refid-6525bb8a-270b-409b-9770-af54862f7"></footnoteref>
+</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 70%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 50%</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>40 mg QD for 8 days</paragraph>
+</td>
+<td valign="top">
+<paragraph>Diclofenac 25 mg QD</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 25%</paragraph>
+</td>
+<td valign="top">
+<paragraph>↑ 60%</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>40 mg QD for 8 days</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>Warfarin 30 mg QD</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>S-warfarin: ↑ 7%</paragraph>
+<paragraph>R-warfarin: no change</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>S-warfarin: ↑ 10%</paragraph>
+<paragraph>R-warfarin: ↑ 6%</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

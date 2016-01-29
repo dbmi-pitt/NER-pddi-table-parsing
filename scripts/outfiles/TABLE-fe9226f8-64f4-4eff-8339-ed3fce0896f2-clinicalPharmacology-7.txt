@@ -1,0 +1,22 @@
+<table border="none" id="id_0a1e3630-58fd-4b9e-a485-0c698a1303a4" width="432" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50.0%"></col>
+<col width="50.0%"></col>
+<tbody>
+<tr id="id_9442bdae-6372-4dbf-8751-2332ee1b8cdd" stylecode="Toprule">
+<td align="center" valign="top">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Interpretation </content>
+</td>
+</tr>
+<tr id="id_c6e8dfaf-c906-444b-8dc3-468d8461c8bb">
+<td align="center" valign="top">≥ 18</td>
+<td align="center" valign="top">Susceptible (S)</td>
+</tr>
+<tr id="id_5c3e1f95-a581-46e0-84b7-ff47617de84d" stylecode="Botrule">
+<td align="left" colspan="2" valign="top">
+<sup>e</sup>This zone diameter standard is applicable only to tests with <content stylecode="italics">Haemophilus influenzae </content>and <content stylecode="italics">Haemophilus parainfluenzae</content> using <content stylecode="italics">Haemophilus</content> Test Medium (HTM)<sup>2</sup>.</td>
+</tr>
+</tbody>
+</table>

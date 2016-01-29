@@ -1,0 +1,148 @@
+<table border="1" id="id_da3b26ef-12ce-45bc-b17c-adaf9694a247" width="462.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="37.0%"></col>
+<col width="24.2%"></col>
+<col width="18.4%"></col>
+<col width="20.3%"></col>
+<tbody>
+<tr id="id_dbd30854-2ce6-4552-92ec-631e4646cefb" stylecode="Toprule">
+<td align="left" rowspan="2" valign="top">
+<content stylecode="bold">Coadministered Drug and Dosing Regimen</content>
+</td>
+<td align="left" colspan="3" valign="top">
+<content stylecode="bold">Pravastatin</content>
+</td>
+</tr>
+<tr id="id_7d45818f-1974-466d-a543-63280a4f8169">
+<td align="left" valign="top">
+<content stylecode="bold">Dose (mg)</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">Change in AUC</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">Change in C<sub>max</sub>
+</content>
+</td>
+</tr>
+<tr id="id_5c497491-25af-4e9b-ba4c-738516cac175">
+<td align="left" valign="top">Cyclosporine 5 mg/kg single dose</td>
+<td align="left" valign="top">40 mg single dose</td>
+<td align="left" valign="top">↑282%</td>
+<td align="left" valign="top">↑327%</td>
+</tr>
+<tr id="id_60ace2ef-0550-4bc9-81b4-a2e9d1db365b">
+<td align="left" valign="top">Clarithromycin 500 mg BID for 9 days</td>
+<td align="left" valign="top">40 mg OD for 8 days</td>
+<td align="left" valign="top">↑110%</td>
+<td align="left" valign="top">↑128%</td>
+</tr>
+<tr id="id_d69b7d8b-a36c-40fc-90b7-804f6c93c943">
+<td align="left" valign="top">Darunavir 600 mg BID/ Ritonavir 100 mg BID for 7 days</td>
+<td align="left" valign="top">40 mg single dose</td>
+<td align="left" valign="top">↑81%</td>
+<td align="left" valign="top">↑63%</td>
+</tr>
+<tr id="id_ee5df379-cfac-458d-875f-db27e341cdde">
+<td align="left" valign="top">Colestipol 10 g single dose</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">↓47%</td>
+<td align="left" valign="top">↓53%</td>
+</tr>
+<tr id="id_51181ce8-b592-414b-ba30-6abf549fb9c3">
+<td align="left" valign="top">Cholestyramine 4 g single dose<br/>Administered simultaneously<br/>Administered 1 hour prior to cholestyramine<br/>Administered 4 hours after cholestyramine</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">↓40%↑12% ↓12%</td>
+<td align="left" valign="top"> ↓39%↑30% ↓6.8%</td>
+</tr>
+<tr id="id_efde5d36-95ec-4b22-a271-598727be6e65">
+<td align="left" valign="top">Cholestyramine 24 g OD for 4 weeks</td>
+<td align="left" valign="top">20 mg BID for 8 weeks<br/>5 mg BID for 8 weeks<br/>10 mg BID for 8 weeks</td>
+<td align="left" valign="top">↓51%↓38%↓18%</td>
+<td align="left" valign="top">↓4.9%↑23%↓33%</td>
+</tr>
+<tr id="id_4fb81d96-8304-44fc-86b3-1c1ae67879b7">
+<td align="left" valign="top">Fluconazole <br/>200 mg IV for 6 days<br/>200 mg PO for 6 days</td>
+<td align="left" valign="top">20 mg PO+10 mg IV<br/>20 mg PO+10 mg IV</td>
+<td align="left" valign="top"> ↓34%↓16%</td>
+<td align="left" valign="top"> ↓33%↓16%</td>
+</tr>
+<tr id="id_d6f795ea-787c-4f80-9ac7-c6179fdd1cba">
+<td align="left" valign="top">Kaletra 400 mg/100 mg BID for 14 days</td>
+<td align="left" valign="top">20 mg OD for 4 days</td>
+<td align="left" valign="top">­33%</td>
+<td align="left" valign="top">­26%</td>
+</tr>
+<tr id="id_af52c26c-a500-4db8-9d6e-3dc54074f582">
+<td align="left" valign="top">Verapamil IR 120 mg for 1 day an Verapamil ER 480 mg for 3 days</td>
+<td align="left" valign="top">40 mg single dose</td>
+<td align="left" valign="top">↑31% </td>
+<td align="left" valign="top">↑42%</td>
+</tr>
+<tr id="id_74fa143a-0be3-4348-b9a7-ef59f2116ec6">
+<td align="left" valign="top">Cimetidine 300 mg QID for 3 days</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">↑30%</td>
+<td align="left" valign="top">↑9.8%</td>
+</tr>
+<tr id="id_7838a565-57df-46e2-924d-c3637d6b3c28">
+<td align="left" valign="top">Antacids 15 mL QID for 3 days</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">↓28%</td>
+<td align="left" valign="top">↓24%</td>
+</tr>
+<tr id="id_3d8177ea-e01b-4500-80c8-bef66fc4716b">
+<td align="left" valign="top">Digoxin 0.2 mg OD for 9 days</td>
+<td align="left" valign="top">20 mg OD for 9 days</td>
+<td align="left" valign="top">↑23%</td>
+<td align="left" valign="top">↑26%</td>
+</tr>
+<tr id="id_18708fad-42fd-44cf-9c7c-2abfeaaefe72">
+<td align="left" valign="top">Probucol 500 mg single dose</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">↑14%</td>
+<td align="left" valign="top">↑24%</td>
+</tr>
+<tr id="id_65daaff5-4e20-4e36-a6ba-6961e5f0c91d">
+<td align="left" valign="top">Warfarin 5 mg OD for 6 days</td>
+<td align="left" valign="top">20 mg BID for 6 days</td>
+<td align="left" valign="top">↓13%</td>
+<td align="left" valign="top">↑6.7%</td>
+</tr>
+<tr id="id_0689675a-2b75-40b4-b434-9009d2f22780">
+<td align="left" valign="top">Itraconazole 200 mg OD for 30 days</td>
+<td align="left" valign="top">40 mg OD for 30 days</td>
+<td align="left" valign="top">↑11% (compared to Day 1)</td>
+<td align="left" valign="top">↑17% (compared to Day 1)</td>
+</tr>
+<tr id="id_0ca4bbd9-5bd5-4add-b497-0f8210c34a13">
+<td align="left" valign="top">Gemfibrozil 600 mg single dose</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">↓7.0%</td>
+<td align="left" valign="top">↓20%</td>
+</tr>
+<tr id="id_91c85b54-e2fd-482f-8682-4868a64bd1c5">
+<td align="left" valign="top">Aspirin 324 mg single dose</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">↑4.7%</td>
+<td align="left" valign="top">↑8.9%</td>
+</tr>
+<tr id="id_da792c0f-f52f-4c3a-8b5b-cdbd55b86270">
+<td align="left" valign="top">Niacin1 g single dose</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">↓3.6%</td>
+<td align="left" valign="top">↓8.2%</td>
+</tr>
+<tr id="id_eb780cbc-77f1-4ffa-87d8-982fe3901de4">
+<td align="left" valign="top">Diltiazem</td>
+<td align="left" valign="top">20 mg single dose</td>
+<td align="left" valign="top">↑2.7%</td>
+<td align="left" valign="top">↑30%</td>
+</tr>
+<tr id="id_e1b12b58-40e4-4016-8550-5efa560f6d53" stylecode="Botrule">
+<td align="left" valign="top">Grapefruit juice</td>
+<td align="left" valign="top">40 mg single dose</td>
+<td align="left" valign="top">↓1.8%</td>
+<td align="left" valign="top">↑3.7%</td>
+</tr>
+</tbody>
+</table>

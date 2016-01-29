@@ -1,0 +1,94 @@
+<table border="none" id="id_5cb994a7-bb86-4a6a-aaef-914a7ebfed52" width="323" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="28.8%"></col>
+<col width="28.5%"></col>
+<col width="18.6%"></col>
+<col width="24.1%"></col>
+<tbody>
+<tr id="id_a5745d81-24b6-4ab7-a454-027ac4f0d3a7" stylecode="Toprule">
+<td align="center" colspan="4" valign="middle">
+<content stylecode="bold">Table 10: Quality Control Ranges for Susceptibility Testing</content>
+</td>
+</tr>
+<tr id="id_59ed976d-e7b1-4943-8185-08f5ba7df119">
+<td align="left" colspan="4" valign="middle"> </td>
+</tr>
+<tr id="id_fb6cb20e-83a3-4d9a-8058-eb2cc044562a">
+<td align="left" valign="top">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">Microorganism QC Number</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">MIC (mcg/mL)</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">Disk Diffusion (zone diameter in mm)</content>
+</td>
+</tr>
+<tr id="id_02ea2ebf-8545-4f55-9431-c5845f2732eb">
+<td align="left" valign="top">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td align="left" valign="top">ATCC 29212</td>
+<td align="left" valign="top">0.25 – 2</td>
+<td align="left" valign="top">--</td>
+</tr>
+<tr id="id_72b30e06-b5dd-4b41-bb51-d4596feab9ca">
+<td align="left" valign="top">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="left" valign="top">ATCC 25922</td>
+<td align="left" valign="top">0.008 – 0.06</td>
+<td align="left" valign="top">29 – 37</td>
+</tr>
+<tr id="id_4500f5c7-df30-4897-8c66-d47149fefe59">
+<td align="left" valign="top">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="left" valign="top">ATCC 35218</td>
+<td align="left" valign="top">0.015 – 0.06</td>
+<td align="left" valign="top">--</td>
+</tr>
+<tr id="id_62692b57-0cd3-46ad-9e6a-6aed821b6fce">
+<td align="left" valign="top">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td align="left" valign="top">ATCC 49247</td>
+<td align="left" valign="top">0.008 – 0.03</td>
+<td align="left" valign="top">32 – 40</td>
+</tr>
+<tr id="id_fc8608c4-0955-4b36-b956-b08b7d5ce2eb">
+<td align="left" valign="top">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td align="left" valign="top">ATCC 27853</td>
+<td align="left" valign="top">0.5 – 4</td>
+<td align="left" valign="top">19 – 26</td>
+</tr>
+<tr id="id_6c8066e7-c401-448a-a16b-d23e1334c4a5">
+<td align="left" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="left" valign="top">ATCC 29213</td>
+<td align="left" valign="top">0.06 – 0.5</td>
+<td align="left" valign="top">--</td>
+</tr>
+<tr id="id_4fbdb5c8-039a-4387-b20a-f844e2e318c2">
+<td align="left" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="left" valign="top">ATCC 25923</td>
+<td align="left" valign="top">--</td>
+<td align="left" valign="top">25 – 30</td>
+</tr>
+<tr id="id_437e6fa9-d8ee-421d-9e85-75201803a305" stylecode="Botrule">
+<td align="left" valign="top">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td align="left" valign="top">ATCC 49619</td>
+<td align="left" valign="top">0.5 – 2</td>
+<td align="left" valign="top">20 – 25</td>
+</tr>
+</tbody>
+</table>

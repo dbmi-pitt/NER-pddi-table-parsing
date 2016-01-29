@@ -1,0 +1,69 @@
+<table id="table1" width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Mean (SD) Values for Pharmacokinetic Parameters in Healthy Adults </caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<thead>
+<tr>
+<th></th>
+<th colspan="2" stylecode="Botrule">Single Dose</th>
+<th colspan="2" stylecode="Botrule">Cumulative Dose</th>
+</tr>
+<tr>
+<th></th>
+<th>Levalbuterol Hcl 1.25 mg</th>
+<th>Racemic albuterol sulfate 2.5 mg</th>
+<th>Levalbuterol Hcl  5 mg</th>
+<th>Racemic albuterol sulfate 10 mg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5">C<sub>max </sub>(ng/mL)</td>
+</tr>
+<tr>
+<td>  (R)-albuterol</td>
+<td>1.1 (0.45)</td>
+<td>0.8 (0.41)<footnote id="t1fn1">Values reflect only (R)-albuterol and do not include (S)-albuterol.</footnote>
+</td>
+<td>4.5 (2.20)</td>
+<td>4.2 (1.51)<footnoteref idref="t1fn1"></footnoteref>
+</td>
+</tr>
+<tr>
+<td colspan="5">T<sub>max</sub> (h)<footnote id="t1fn2">Median (Min, Max) reported for T<sub>max</sub>. </footnote>
+</td>
+</tr>
+<tr>
+<td>  (R)-albuterol</td>
+<td>0.2 (0.17, 0.37)</td>
+<td>0.2 (0.17, 1.50)</td>
+<td>0.2 (–0.18<footnote id="t1fn3">A negative T<sub>max</sub> indicates C<sub>max</sub> occurred between first and last nebulizations. </footnote>, 1.25)</td>
+<td>0.2 (–0.28<footnoteref idref="t1fn3"></footnoteref>, 1.00)</td>
+</tr>
+<tr>
+<td colspan="5">AUC (ng∙h/mL)</td>
+</tr>
+<tr>
+<td>  (R)-albuterol</td>
+<td>3.3 (1.58)</td>
+<td>1.7 (0.99)<footnoteref idref="t1fn1"></footnoteref>
+</td>
+<td>17.4 (8.56)</td>
+<td>16.0 (7.12)<footnoteref idref="t1fn1"></footnoteref>
+</td>
+</tr>
+<tr>
+<td colspan="5">T<sub>½</sub> (h)</td>
+</tr>
+<tr>
+<td stylecode="Botrule">  (R)-albuterol</td>
+<td stylecode="Botrule">3.3 (2.48)</td>
+<td stylecode="Botrule">1.5 (0.61)</td>
+<td stylecode="Botrule">4.0 (1.05)</td>
+<td stylecode="Botrule">4.1 (0.97)</td>
+</tr>
+</tbody>
+</table>

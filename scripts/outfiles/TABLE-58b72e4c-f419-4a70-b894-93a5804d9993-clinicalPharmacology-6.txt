@@ -1,0 +1,99 @@
+<table border="1" id="id_f823ec47-d70a-4221-8cbd-d37bde1da4c2" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_f08c12c4-02f8-4248-bf23-ec565ee566ff">Table 3. Susceptibility Interpretive Criteria for Azithromycin Susceptibility Test Result Interpretive Criteria</caption>
+<col width="204px"></col>
+<col width="72px"></col>
+<col width="60px"></col>
+<col width="72px"></col>
+<col width="72px"></col>
+<col width="72px"></col>
+<col width="64px"></col>
+<tfoot id="id_5c190e9c-9b15-4e89-b9c1-8c5540dddf8b">
+<tr>
+<td align="left" colspan="7" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<sup>a</sup> The current absence of data on resistant strains precludes defining any category other than “susceptible.” If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing.</paragraph>
+<paragraph>
+<sup>b</sup> Susceptibility of streptococci including <content stylecode="italics">S. pneumoniae</content> to azithromycin and other macrolides can be predicted by testing erythromycin.</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_d45043e2-28d2-4ba3-b19d-7a4f2c42ba1c">
+<td align="left" stylecode="Toprule Botrule Lrule" valign="top">   </td>
+<td align="center" colspan="3" stylecode="Botrule" valign="top">
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Disk Diffusion</content>
+<content stylecode="bold">(zone diameters in mm)</content>
+</td>
+</tr>
+<tr id="id_1a70c113-9f32-4028-a39d-66755b49d256">
+<td align="left" stylecode="Lrule Botrule" valign="top">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="left" stylecode="Botrule" valign="top">   </td>
+<td align="left" stylecode="Botrule" valign="top">   </td>
+<td align="left" stylecode="Botrule" valign="top">   </td>
+<td align="left" stylecode="Botrule" valign="top">   </td>
+<td align="left" stylecode="Botrule" valign="top">   </td>
+<td align="left" stylecode="Botrule Rrule" valign="top">   </td>
+</tr>
+<tr id="id_2ff9e9b2-d96b-4420-9dfd-86bad2d6f28c">
+<td align="left" stylecode="Lrule Botrule" valign="top">   </td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">R<sup>a</sup>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">R<sup>a</sup>
+</content>
+</td>
+</tr>
+<tr id="id_7f0ec4a2-ec4f-411d-bea1-93def70c81e8">
+<td align="left" stylecode="Lrule Botrule" valign="top">
+<content stylecode="italics">Haemophilus</content> spp. </td>
+<td align="center" stylecode="Botrule" valign="top"> ≤ 4 </td>
+<td align="center" stylecode="Botrule" valign="top"> -- </td>
+<td align="center" stylecode="Botrule" valign="top"> -- </td>
+<td align="center" stylecode="Botrule" valign="top"> ≥ 12 </td>
+<td align="center" stylecode="Botrule" valign="top"> -- </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> -- </td>
+</tr>
+<tr id="id_9124fbf7-d7bc-4050-9042-7ddf2c3f6d26">
+<td align="left" stylecode="Lrule Botrule" valign="top">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top"> ≤ 2 </td>
+<td align="center" stylecode="Botrule" valign="top"> 4 </td>
+<td align="center" stylecode="Botrule" valign="top"> ≥ 8 </td>
+<td align="center" stylecode="Botrule" valign="top"> ≥ 18 </td>
+<td align="center" stylecode="Botrule" valign="top">14 to 17 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> ≤ 13 </td>
+</tr>
+<tr id="id_de4e2632-c126-4e65-abc9-9a35d5d59661">
+<td align="left" stylecode="Lrule Botrule" valign="top"> Streptococci including <content stylecode="italics">S.</content>
+<content stylecode="italics">pneumoniae</content>
+<sup>b</sup>
+</td>
+<td align="center" stylecode="Botrule" valign="top"> ≤ 0.5 </td>
+<td align="center" stylecode="Botrule" valign="top">1 </td>
+<td align="center" stylecode="Botrule" valign="top"> ≥ 2 </td>
+<td align="center" stylecode="Botrule" valign="top">≥ 18 </td>
+<td align="center" stylecode="Botrule" valign="top">14 to 17 </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> ≤ 13 </td>
+</tr>
+</tbody>
+</table>

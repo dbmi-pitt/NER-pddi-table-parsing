@@ -1,0 +1,81 @@
+<table id="id_e6dff950-7f53-4d1f-9f6b-7278c7f08029" width="593" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_a188e17a-3554-4e9c-a304-27dec0359e05">Table 1.</caption>
+<col width="28.7%"></col>
+<col width="14.8%"></col>
+<col width="13.8%"></col>
+<col width="14.8%"></col>
+<col width="14.8%"></col>
+<col width="13.0%"></col>
+<tbody>
+<tr id="id_588cea23-02f3-462d-afab-dc1b32272e6f">
+<td align="center" colspan="6" stylecode="Botrule" valign="top">
+<content stylecode="bold">Mean (SD) Single-Dose (Day 1) and Steady-State (Day 87) Pharmacokinetic Parameters Following Administration of 1 mg NA/10 mcg EE Tablets</content>
+</td>
+</tr>
+<tr id="id_af5f5f78-13d5-4e2b-abc6-0a4838c00757">
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule Rrule" valign="top">C<sub>max</sub>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">t<sub>max</sub>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">AUC(0-24)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">CL/F</td>
+<td align="left" stylecode="Botrule" valign="top">t<sub>½</sub>
+</td>
+</tr>
+<tr id="id_ea071c85-9f62-4d47-8393-97fa61b1367b">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Norethindrone</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">ng/mL</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">hr</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">ng·hr/mL</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">mL/min</td>
+<td align="left" stylecode="Botrule" valign="top">hr</td>
+</tr>
+<tr id="id_3d251df9-34a7-40a8-88f9-738b38fd4b22">
+<td align="left" stylecode="Botrule Rrule" valign="top">Day 1</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">6.0 (3.3)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">1.8 (0.8)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">29.7 (16.5)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">588 (416)</td>
+<td align="left" stylecode="Botrule" valign="top">10.3 (3.7)</td>
+</tr>
+<tr id="id_a35f4f9d-aeeb-4001-9827-ad8d19ad7937">
+<td align="left" stylecode="Botrule Rrule" valign="top">Day 87</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">10.7 (3.6)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">1.8 (0.8)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">81.8 (36.7)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">226 (139)</td>
+<td align="left" stylecode="Botrule" valign="top">13.3 (4.5)</td>
+</tr>
+<tr id="id_2563a7b2-f4ed-44c8-a0d3-dbd67b7448d4">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Ethinyl Estradiol</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">pg/mL</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">hr</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">pg·hr/mL</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">mL/min</td>
+<td align="left" stylecode="Botrule" valign="top">hr</td>
+</tr>
+<tr id="id_4830da8c-faf4-4a03-a6ec-526dd1fb33b9">
+<td align="left" stylecode="Botrule Rrule" valign="top">Day 1</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">33.5 (13.7)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">2.2 (1.0)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">339 (113)</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">ND<footnote id="id-9166647c-6f75-4b9e-946c-9f8a16fdd60c">ND = Not determined</footnote>
+</td>
+<td align="left" stylecode="Botrule" valign="top">ND<footnoteref idref="id-9166647c-6f75-4b9e-946c-9f8a16fdd60c"></footnoteref>
+</td>
+</tr>
+<tr id="id_c49c1e6c-8d33-4f36-ab12-abda7b2c415a">
+<td align="left" stylecode="Botrule Rrule" valign="top">Day 87</td>
+<td align="left" stylecode="Rrule" valign="top">38.3 (11.9)</td>
+<td align="left" stylecode="Rrule" valign="top">1.8 (0.7)</td>
+<td align="left" stylecode="Rrule" valign="top">471 (132)</td>
+<td align="left" stylecode="Rrule" valign="top">383 (119)</td>
+<td align="left" stylecode="Botrule" valign="top">23.9 (7.1)</td>
+</tr>
+</tbody>
+</table>

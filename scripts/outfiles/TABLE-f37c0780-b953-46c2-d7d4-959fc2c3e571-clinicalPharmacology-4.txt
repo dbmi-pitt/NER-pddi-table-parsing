@@ -1,0 +1,64 @@
+<table border="1" cellpadding="4" cellspacing="0" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td valign="top">
+<content stylecode="bold">Coadministered Drug </content>
+</td>
+<td valign="top">
+<content stylecode="bold">Ganciclovir Dosage </content>
+</td>
+<td>
+<content stylecode="bold">N </content>
+</td>
+<td valign="top">
+<content stylecode="bold">Ganciclovir Pharmacokinetic (PK) Parameter</content>
+</td>
+</tr>
+<tr>
+<td valign="top">Zidovudine 100 mg every 4 hours </td>
+<td valign="top">1000 mg every 8 hours </td>
+<td valign="top">12 </td>
+<td valign="top">AUC ↓ 17 ± 25% <br/>(range: -52% to 23%) </td>
+</tr>
+<tr>
+<td valign="top">Probenecid 500 mg every 6 hours </td>
+<td valign="top">1000 mg every 8 hours </td>
+<td valign="top">10 </td>
+<td valign="top">AUC ↑ 53 ± 91% <br/>(range: -14% to 299%) <br/>Ganciclovir renal clearance ↓ 22 ± 20% <br/>(range: -54% to -4%) </td>
+</tr>
+<tr>
+<td valign="top">Mycophenolate Mofetil (MMF) 1.5 g single dose </td>
+<td valign="top">IV ganciclovir 5 mg/kg single dose </td>
+<td valign="top">12 </td>
+<td valign="top">No effect on ganciclovir PK parameters observed(patients with normal renal function) </td>
+</tr>
+<tr>
+<td valign="top">Didanosine 200 mg every 12 hours administered 2 hours before ganciclovir </td>
+<td valign="top">1000 mg every 8 hours </td>
+<td valign="top">12 </td>
+<td valign="top">AUC ↓ 21 ± 17% <br/>(range: -44% to 5%) </td>
+</tr>
+<tr>
+<td rowspan="3" valign="top">Didanosine 200 mg every 12 hours simultaneously administered with ganciclovir </td>
+<td valign="top">1000 mg every 8 hours </td>
+<td valign="top">12 </td>
+<td valign="top">No effect on ganciclovir PK parameters observed</td>
+</tr>
+<tr>
+<td valign="top">IV ganciclovir 5 mg/kg twice daily </td>
+<td valign="top">11 </td>
+<td valign="top">No effect on ganciclovir PK parameters observed</td>
+</tr>
+<tr>
+<td valign="top">IV ganciclovir 5 mg/kg once daily </td>
+<td valign="top">11 </td>
+<td valign="top">No effect on ganciclovir PK parameters observed</td>
+</tr>
+<tr>
+<td valign="top">Trimethoprim 200 mg once daily </td>
+<td valign="top">1000 mg every 8 hours </td>
+<td valign="top">12 </td>
+<td valign="top">Ganciclovir renal clearance ↓ 16.3% <br/>Half-life ↑15% </td>
+</tr>
+</tbody>
+</table>

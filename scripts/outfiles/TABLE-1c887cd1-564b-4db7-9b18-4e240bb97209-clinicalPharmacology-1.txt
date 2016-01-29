@@ -1,0 +1,87 @@
+<table border="1" id="id_ad3881a1-312b-401b-a985-a31100781df2" width="400" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_5c1cf120-6cd4-4ed7-a993-6eeed36321a3">Table 2. IDNT: Primary Efficacy Outcome Within Subgroups</caption>
+<col width="17.8%"></col>
+<col width="17.8%"></col>
+<col width="13.8%"></col>
+<col width="19.3%"></col>
+<col width="31.5%"></col>
+<tbody>
+<tr id="id_313396bb-46df-408d-bf4e-35fb36958c4f">
+<td align="left" rowspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Baseline Factors</content>
+</td>
+<td align="center" rowspan="2" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Irbesartan</content>
+<content stylecode="bold">N = 579</content>
+<content stylecode="bold">(%)</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule Toprule Rrule Lrule" valign="middle">
+<content stylecode="bold">Comparison With Placebo</content>
+</td>
+</tr>
+<tr id="id_01ec37f9-5a19-4569-8310-fef7db4281bb">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">Placebo</content>
+<content stylecode="bold">N = 569</content>
+<content stylecode="bold">(%)</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Hazard Ratio</content>
+</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">
+<content stylecode="bold">95% Cl</content>
+</td>
+</tr>
+<tr id="id_d7c27269-17f7-43e3-90f9-9008cac44f6a">
+<td align="left" colspan="5" stylecode="Lrule Botrule Rrule" valign="middle">Gender</td>
+</tr>
+<tr id="id_aa8bd4ac-852c-4a07-b3e8-c00c00cc2bbb">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Male</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">27.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">36.7</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.68</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.53 to 0.88</td>
+</tr>
+<tr id="id_8e97793e-a26c-4cbb-a6c7-d48fbadaeccc">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Female</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">42.3</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">44.6</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.98</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.72 to 1.34</td>
+</tr>
+<tr id="id_0f4a0766-0394-4c86-af32-40e2d793e6f2">
+<td align="left" colspan="5" stylecode="Lrule Botrule Rrule" valign="middle">Race</td>
+</tr>
+<tr id="id_f6b0ccc1-fb9a-4dd3-9295-015cf0340565">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">White</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">29.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">37.3</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.75</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.60 to 0.95</td>
+</tr>
+<tr id="id_4d1a72a1-3c74-4f26-a5fa-a9db20731e88">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">Non-White</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">42.6</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">43.5</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.95</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.67 to 1.34</td>
+</tr>
+<tr id="id_9f8da792-0165-43f2-8138-517fd0095d88">
+<td align="left" colspan="5" stylecode="Lrule Botrule Rrule" valign="middle">Age (years)</td>
+</tr>
+<tr id="id_c9626405-1f34-4d58-86c5-ea9a3899b58f">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">&lt; 65</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">31.8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">39.9</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.77</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.62 to 0.97</td>
+</tr>
+<tr id="id_f50a2a00-a2e6-4c57-be74-d3175d698207">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="middle">≥ 65</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">35.1</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">36.8</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.88</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">0.61 to 1.29</td>
+</tr>
+</tbody>
+</table>

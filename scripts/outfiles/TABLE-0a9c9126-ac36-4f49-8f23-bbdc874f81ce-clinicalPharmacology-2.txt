@@ -1,0 +1,110 @@
+<table id="_Reftable3" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Susceptibility Test Result Interpretive Criteria for Amoxicillin/Clavulanate Potassium</caption>
+<col width="30%"></col>
+<col width="15%"></col>
+<col width="12%"></col>
+<col width="15%"></col>
+<col width="10%"></col>
+<col width="9%"></col>
+<col width="10%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Pathogen</content>
+</th>
+<th align="left" colspan="3" stylecode="Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Minimum Inhibitory Concentration</content>
+<br/>
+<content stylecode="bold"> (mcg/mL)</content>
+</th>
+<th align="left" colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Disk Diffusion</content>
+<br/>
+<content stylecode="bold"> (Zone Diameter in mm)</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">Pathogen</content>
+</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td stylecode="Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae </content>
+<br/>(non-meningitis isolates)</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>≤ 2/1</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>4/2</paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>≥ 8/4</paragraph>
+</td>
+<td colspan="3" stylecode="Rrule Lrule Botrule ">
+<paragraph>Not Applicable (NA)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae</content>
+</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>≤ 4/2</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>NA</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>≥ 8/4</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>≥ 20</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>NA</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>≤ 19</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

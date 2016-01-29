@@ -1,0 +1,46 @@
+<table id="table2" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2: FSH Pharmacokinetic Parameters [Mean (SD)] Following MENOPUR<sup>®</sup> Administration (Study 2000-03)</caption>
+<col align="left" valign="middle" width="30%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="17%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<col align="center" valign="middle" width="18%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th rowspan="2" stylecode="Lrule Rrule">PK Parameters</th>
+<th colspan="2" stylecode="Rrule">Single Dose<br/>(225 IU)</th>
+<th colspan="2" stylecode="Rrule">Multiple Dose<br/>(225 IU × 1 day then 150 IU × 6 days)</th>
+</tr>
+<tr>
+<th align="center" stylecode="Rrule">Subcutaneous</th>
+<th stylecode="Rrule">Intramuscular</th>
+<th stylecode="Rrule">Subcutaneous</th>
+<th stylecode="Rrule">Intramuscular</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>max</sub>
+<footnote id="t2f1">Single dose C<sub>max</sub>, AUC<sub>120</sub> and multiple dose C<sub>maxss</sub>, AUC<sub>ss</sub>
+</footnote> (mIU/mL)</td>
+<td stylecode="Rrule">8.5 (2.5)</td>
+<td stylecode="Rrule">7.8 (2.4)</td>
+<td stylecode="Rrule">15.0 (3.6)</td>
+<td stylecode="Rrule">12.5 (2.3)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">T<sub>max</sub> (hr)</td>
+<td stylecode="Rrule">17.9 (5.8)</td>
+<td stylecode="Rrule">27.5 (25.4)</td>
+<td stylecode="Rrule">8.0 (3.0)</td>
+<td stylecode="Rrule">9.0 (7.0)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">AUC†<br/>(hr-mlU/mL)</td>
+<td stylecode="Rrule">726.2 (243.0)</td>
+<td stylecode="Rrule">656.1 (233.7)</td>
+<td stylecode="Rrule">622.7 (153.0)</td>
+<td stylecode="Rrule">546.2 (91.2)</td>
+</tr>
+</tbody>
+</table>

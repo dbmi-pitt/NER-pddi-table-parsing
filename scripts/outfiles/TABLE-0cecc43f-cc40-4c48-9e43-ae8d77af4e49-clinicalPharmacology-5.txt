@@ -1,0 +1,86 @@
+<table frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="159px"></col>
+<col align="left" width="159px"></col>
+<col align="left" width="159px"></col>
+<col align="left" width="159px"></col>
+<tfoot>
+<tr>
+<td colspan="4">
+<paragraph stylecode="footnote">a. Range applicable only to tests 
+performed by disk diffusion method using a 30 mcg tetracycline-class disk and using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).
+<sup>2,3</sup>
+</paragraph>
+<paragraph stylecode="footnote">b. Range applicable only to tests performed by disk diffusion method using a 30 mcg 
+tetracycline-class disk and using GC agar base with 1% defined growth supplement.<sup>2,3</sup>
+</paragraph>
+<paragraph stylecode="footnote">c. Range applicable only to tests performed by disk diffusion method using a 30 mcg 
+tetracycline-class disk and using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated with 5% CO<sub>2</sub>.<sup>2,3</sup>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody valign="top">
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">Microorganism</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" colspan="2" stylecode="Botrule" valign="middle">
+<content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"></td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="bold">tetracycline</content>
+</td>
+<td align="center" stylecode="Botrule" valign="middle">
+<content stylecode="bold">doxycycline</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> ATCC 25922 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> 18-25 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 18-24 </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="italics">Haemophilus influenzae<sup>a</sup>
+</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> ATCC 49247 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> 14-22 </td>
+<td align="center" stylecode="Botrule" valign="middle"> --- </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+<sup>b</sup>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> ATCC 49226 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> 30-42 </td>
+<td align="center" stylecode="Botrule" valign="middle"> --- </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Botrule Rrule" valign="middle">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> ATCC 25923 </td>
+<td align="center" stylecode="Botrule Rrule" valign="middle"> 24-30 </td>
+<td align="center" stylecode="Botrule" valign="middle"> 23-29 </td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Rrule" valign="middle">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<sup>c</sup>
+</td>
+<td align="center" stylecode="Rrule" valign="middle"> ATCC 49619 </td>
+<td align="center" stylecode="Rrule" valign="middle"> 27-31 </td>
+<td align="center" valign="middle"> --- </td>
+</tr>
+</tbody>
+</table>

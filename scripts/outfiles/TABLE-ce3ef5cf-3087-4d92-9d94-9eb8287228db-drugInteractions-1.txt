@@ -1,0 +1,206 @@
+<table id="Table_8" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see <linkhtml href="#S12.3">Clinical Pharmacology (12.3)</linkhtml>]</caption>
+<col align="center" valign="top" width="35%"></col>
+<col align="center" valign="top" width="30%"></col>
+<col align="center" valign="top" width="35%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule Botrule">Drug/Drug Class<br/>(Mechanism of Interaction by Voriconazole)</th>
+<th stylecode="Rrule Botrule">Drug Plasma Exposure<br/>(C<sub>max</sub> and AUC<sub>τ</sub>)</th>
+<th stylecode="Rrule Botrule">Recommendations for Drug Dosage Adjustment/Comments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Sirolimus<footnote id="fn1">Results based on <content stylecode="italics">in vivo</content> clinical studies generally following repeat oral dosing with 200 mg BID voriconazole to healthy subjects</footnote>
+<br/>(CYP3A4 Inhibition) </td>
+<td stylecode="Rrule Botrule">Significantly Increased</td>
+<td stylecode="Rrule Botrule">
+<content stylecode="bold">Contraindicated</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Rifabutin<footnoteref idref="fn1"></footnoteref>
+<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">Significantly Increased</td>
+<td stylecode="Rrule Botrule">
+<content stylecode="bold">Contraindicated</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule">Efavirenz (400 mg q24h)<footnote id="fn2">Results based on <content stylecode="italics">in vivo</content> clinical study following repeat oral dosing with 400 mg q12h for 1 day, then 200 mg q12h for at least 2 days voriconazole to healthy subjects</footnote>
+<br/>(CYP3A4 Inhibition) </td>
+<td stylecode="Rrule">Significantly Increased</td>
+<td stylecode="Rrule">
+<content stylecode="bold">Contraindicated</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule" valign="top">
+<br/>Efavirenz (300 mg q24h)<footnoteref idref="ft2"></footnoteref>
+<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">
+<br/>Slight Increase in AUC<sub>τ</sub>
+</td>
+<td stylecode="Rrule Botrule">
+<br/>When voriconazole is coadministered with efavirenz, voriconazole oral maintenance dose should be increased to 400 mg q12h and efavirenz should be decreased to 300 mg q24h</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule">High-dose Ritonavir (400 mg q12h)<footnoteref idref="fn2"></footnoteref>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule">No Significant Effect of Voriconazole on Ritonavir C<sub>max</sub> or AUC<sub>τ</sub>
+</td>
+<td stylecode="Rrule">
+<content stylecode="bold">Contraindicated</content> because of significant reduction of voriconazole C<sub>max</sub> and AUC<sub>τ</sub>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Low-dose Ritonavir (100 mg q12h)<footnoteref idref="fn2"></footnoteref>
+</td>
+<td stylecode="Rrule Botrule">Slight Decrease in Ritonavir C<sub>max</sub> and AUC<sub>τ</sub>
+</td>
+<td stylecode="Rrule Botrule">Coadministration of voriconazole and low-dose ritonavir (100 mg q12h) should be avoided (due to the reduction in voriconazole C<sub>max</sub> and AUC<sub>τ</sub>) unless an assessment of the benefit/risk to the patient justifies the use of voriconazole</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Terfenadine, Astemizole, Cisapride, Pimozide, Quinidine<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">Not Studied <content stylecode="italics">In Vivo</content> or <content stylecode="italics">In Vitro</content>, but Drug Plasma Exposure Likely to be Increased</td>
+<td stylecode="Rrule Botrule">
+<content stylecode="bold">Contraindicated</content> because of potential for QT prolongation and rare occurrence of <content stylecode="italics">torsade de pointes</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Ergot Alkaloids<br/>(CYP450 Inhibition)</td>
+<td stylecode="Rrule Botrule">Not Studied <content stylecode="italics">In Vivo</content> or <content stylecode="italics">In Vitro</content>, but Drug Plasma Exposure Likely to be Increased</td>
+<td stylecode="Rrule Botrule">
+<content stylecode="bold">Contraindicated</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Cyclosporine<footnoteref idref="fn1"></footnoteref>
+<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">AUC<sub>τ</sub> Significantly Increased; No Significant Effect on C<sub>max</sub>
+</td>
+<td stylecode="Rrule Botrule">When initiating therapy with VFEND in patients already receiving cyclosporine, reduce the cyclosporine dose to one-half of the starting dose and follow with frequent monitoring of cyclosporine blood levels. Increased cyclosporine levels have been associated with nephrotoxicity. When VFEND is discontinued, cyclosporine concentrations must be frequently monitored and the dose increased as necessary.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Methadone<footnote>Results based on <content stylecode="italics">in vivo</content> clinical study following repeat oral dosing with 400 mg q12h for 1 day, then 200 mg q12h for 4 days voriconazole to subjects receiving a methadone maintenance dose (30–100 mg q24h)</footnote> (CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">Increased</td>
+<td stylecode="Rrule Botrule">Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation. Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration. Dose reduction of methadone may be needed</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Fentanyl (CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">Increased</td>
+<td stylecode="Rrule Botrule">Reduction in the dose of fentanyl and other long-acting opiates metabolized by CYP3A4 should be considered when coadministered with VFEND. Extended and frequent monitoring for opiate-associated adverse events may be necessary [<content stylecode="italics">see <linkhtml href="#S7">Drug Interactions (7)</linkhtml>
+</content>]</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Alfentanil (CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">Significantly Increased</td>
+<td stylecode="Rrule Botrule">Reduction in the dose of alfentanil and other opiates metabolized by CYP3A4 (e.g., sufentanil) should be considered when coadministered with VFEND. A longer period for monitoring respiratory and other opiate-associated adverse events may be necessary [<content stylecode="italics">see <linkhtml href="#S7">Drug Interactions (7)</linkhtml>
+</content>].</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Oxycodone (CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">Significantly Increased</td>
+<td stylecode="Rrule Botrule">Reduction in the dose of oxycodone and other long-acting opiates metabolized by CYP3A4 should be considered when coadministered with VFEND. Extended and frequent monitoring for opiate-associated adverse events may be necessary [<content stylecode="italics">see <linkhtml href="#S7">Drug Interactions (7)</linkhtml>
+</content>].</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">NSAIDs<footnote>Non-Steroidal Anti-Inflammatory Drug</footnote> including. ibuprofen and diclofenac<br/> <br/>(CYP2C9 Inhibition)</td>
+<td stylecode="Rrule Botrule">Increased</td>
+<td stylecode="Rrule Botrule">Frequent monitoring for adverse events and toxicity related to NSAIDs. Dose reduction of NSAIDs may be needed [<content stylecode="italics">see <linkhtml href="#S7">Drug Interactions (7)</linkhtml>
+</content>].</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Tacrolimus<footnoteref idref="fn1"></footnoteref>
+<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">Significantly Increased</td>
+<td stylecode="Rrule Botrule">When initiating therapy with VFEND in patients already receiving tacrolimus, reduce the tacrolimus dose to one-third of the starting dose and follow with frequent monitoring of tacrolimus blood levels. Increased tacrolimus levels have been associated with nephrotoxicity. When VFEND is discontinued, tacrolimus concentrations must be frequently monitored and the dose increased as necessary.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Phenytoin<footnoteref idref="fn1"></footnoteref>
+<br/>(CYP2C9 Inhibition)</td>
+<td stylecode="Rrule Botrule">Significantly Increased</td>
+<td stylecode="Rrule Botrule">Frequent monitoring of phenytoin plasma concentrations and frequent monitoring of adverse effects related to phenytoin.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Oral Contraceptives containing ethinyl estradiol and norethindrone (CYP3A4 Inhibition)<footnoteref idref="fn2"></footnoteref>
+</td>
+<td stylecode="Rrule Botrule">Increased</td>
+<td stylecode="Rrule Botrule">Monitoring for adverse events related to oral contraceptives is recommended during coadministration.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Warfarin<footnoteref idref="fn1"></footnoteref>
+<br/>									(CYP2C9 Inhibition)<br/>
+</td>
+<td stylecode="Rrule Botrule">Prothrombin Time Significantly Increased</td>
+<td stylecode="Rrule Botrule">Monitor PT or other suitable anti-coagulation tests. Adjustment of warfarin dosage may be needed.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Omeprazole<footnoteref idref="fn1"></footnoteref>
+<br/>(CYP2C19/3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">Significantly Increased</td>
+<td stylecode="Rrule Botrule">When initiating therapy with VFEND in patients already receiving omeprazole doses of 40 mg or greater, reduce the omeprazole dose by one-half. The metabolism of other proton pump inhibitors that are CYP2C19 substrates may also be inhibited by voriconazole and may result in increased plasma concentrations of other proton pump inhibitors.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule">Other HIV Protease Inhibitors<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule">
+<content stylecode="italics">In Vivo</content> Studies Showed No Significant Effects on Indinavir Exposure</td>
+<td stylecode="Rrule">No dosage adjustment for indinavir when coadministered with VFEND</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule"> </td>
+<td stylecode="Rrule"> </td>
+<td stylecode="Rrule"> </td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule"></td>
+<td stylecode="Rrule Botrule">
+<content stylecode="italics">In Vitro</content> Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism<br/>(Increased Plasma Exposure)</td>
+<td stylecode="Rrule Botrule">Frequent monitoring for adverse events and toxicity related to other HIV protease inhibitors</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Other NNRTIs<footnote>Non-Nucleoside Reverse Transcriptase Inhibitors</footnote>
+<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">A Voriconazole-Efavirenz Drug Interaction Study Demonstrated the Potential for Voriconazole to Inhibit Metabolism of Other NNRTIs<br/>(Increased Plasma Exposure)</td>
+<td stylecode="Rrule Botrule">Frequent monitoring for adverse events and toxicity related to NNRTI</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Benzodiazepines<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">
+<content stylecode="italics">In Vitro</content> Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism<br/>(Increased Plasma Exposure)</td>
+<td stylecode="Rrule Botrule">Frequent monitoring for adverse events and toxicity (i.e., prolonged sedation) related to benzodiazepines metabolized by CYP3A4 (e.g., midazolam, triazolam, alprazolam). Adjustment of benzodiazepine dosage may be needed.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">HMG-CoA Reductase Inhibitors (Statins)<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">
+<content stylecode="italics">In Vitro</content> Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism<br/>(Increased Plasma Exposure)</td>
+<td stylecode="Rrule Botrule">Frequent monitoring for adverse events and toxicity related to statins. Increased statin concentrations in plasma have been associated with rhabdomyolysis. Adjustment of the statin dosage may be needed.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Dihydropyridine Calcium Channel Blockers<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">
+<content stylecode="italics">In Vitro</content> Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism<br/>(Increased Plasma Exposure)</td>
+<td stylecode="Rrule Botrule">Frequent monitoring for adverse events and toxicity related to calcium channel blockers. Adjustment of calcium channel blocker dosage may be needed.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Sulfonylurea Oral Hypoglycemics<br/>(CYP2C9 Inhibition)</td>
+<td stylecode="Rrule Botrule">Not Studied <content stylecode="italics">In Vivo</content> or <content stylecode="italics"> In Vitro</content>, but Drug Plasma Exposure Likely to be Increased</td>
+<td stylecode="Rrule Botrule">Frequent monitoring of blood glucose and for signs and symptoms of hypoglycemia. Adjustment of oral hypoglycemic drug dosage may be needed.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Botrule">Vinca Alkaloids<br/>(CYP3A4 Inhibition)</td>
+<td stylecode="Rrule Botrule">Not Studied <content stylecode="italics">In Vivo</content> or <content stylecode="italics">In Vitro</content>, but Drug Plasma Exposure Likely to be Increased</td>
+<td stylecode="Rrule Botrule">Frequent monitoring for adverse events and toxicity (i.e., neurotoxicity) related to vinca alkaloids. Adjustment of vinca alkaloid dosage may be needed.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule">Everolimus<br/>(CYP3A4 Inhibition)</td>
+<td align="center" stylecode="Rrule">Not Studied <content stylecode="italics">In Vivo</content> or <content stylecode="italics">In Vitro</content>, but Drug Plasma Exposure Likely to be Increased </td>
+<td align="center" stylecode="Rrule">Concomitant administration of voriconazole and everolimus is not recommended.</td>
+</tr>
+</tbody>
+</table>

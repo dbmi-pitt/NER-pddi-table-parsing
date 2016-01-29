@@ -1,0 +1,57 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td> </td>
+<td align="center" colspan="3">Minimum Inhibitory Concentrations (mcg/mL)</td>
+<td align="center" colspan="3">Disk Diffusion Diameters (mm)</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule     "> Pathogen</td>
+<td align="center" stylecode="     Botrule     "> S</td>
+<td align="center" stylecode="     Botrule     ">I </td>
+<td align="center" stylecode="     Botrule     "> R</td>
+<td align="center" stylecode="     Botrule     "> S</td>
+<td align="center" stylecode="     Botrule     "> I</td>
+<td align="center" stylecode="     Botrule     "> R</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Enterobacteriaceae</content>
+</td>
+<td align="center"> <content stylecode="underline">&lt;</content> 8</td>
+<td align="center"> 16</td>
+<td align="center"> <content stylecode="underline">&gt;</content> 32</td>
+<td align="center">
+<content stylecode="underline">&gt;</content> 18 </td>
+<td align="center">15 – 17 </td>
+<td align="center"> <content stylecode="underline">&lt;</content> 14</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Neisseria gonorrhoeae</content>
+</td>
+<td align="center"> <content stylecode="underline">&lt;</content> 2</td>
+<td align="center"> 4</td>
+<td align="center"> <content stylecode="underline">&gt;</content> 8</td>
+<td align="center">
+<content stylecode="underline">&gt;</content> 28 </td>
+<td align="center">24 – 27 </td>
+<td align="center"> <content stylecode="underline">&lt;</content> 23</td>
+</tr>
+<tr>
+<td>anaerobic bacteria (Agar Method)</td>
+<td align="center"> <content stylecode="underline">&lt;</content> 16</td>
+<td align="center"> 32</td>
+<td align="center"> <content stylecode="underline">&gt;</content> 64</td>
+<td colspan="3"> <content stylecode="underline">Not applicable</content>
+</td>
+</tr>
+</tbody>
+</table>

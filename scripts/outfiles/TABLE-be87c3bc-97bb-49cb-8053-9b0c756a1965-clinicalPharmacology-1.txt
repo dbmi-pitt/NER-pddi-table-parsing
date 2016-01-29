@@ -1,0 +1,184 @@
+<table id="table6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6	Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravir/Ritonavir in the Presence of the Coadministered Drug<footnote>All interaction studies conducted in healthy volunteers</footnote>
+</caption>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="15%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<col align="center" valign="middle" width="12%"></col>
+<col align="center" valign="middle" width="5%"></col>
+<col align="center" valign="middle" width="14%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<col align="center" valign="middle" width="13%"></col>
+<thead>
+<tr>
+<th rowspan="2" stylecode="Lrule Rrule">Coadministered Drug</th>
+<th rowspan="2" stylecode="Rrule">Dose of Coadministered Drug (mg)</th>
+<th rowspan="2" stylecode="Rrule">Elvitegravir Dose (mg)</th>
+<th rowspan="2" stylecode="Rrule">Ritonavir Dose (mg)</th>
+<th rowspan="2" stylecode="Rrule">N</th>
+<th align="center" colspan="3" stylecode="Rrule">Mean Ratio of Elvitegravir/Ritonavir Pharmacokinetic Parameters<footnote>The pharmacokinetic parameters of elvitegravir were compared with elvitegravir coadministered with ritonavir 100 mg once daily unless specified otherwise.</footnote> (90% CI); No Effect = 1.00</th>
+</tr>
+<tr>
+<th align="center" stylecode="Lrule Rrule Toprule">C<sub>max</sub>
+</th>
+<th stylecode="Rrule Toprule">AUC</th>
+<th stylecode="Rrule Toprule">C<sub>min</sub>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4" stylecode="Lrule Rrule">Antacids</td>
+<td stylecode="Rrule">20 mL single dose given 4 hours before elvitegravir</td>
+<td rowspan="4" stylecode="Rrule">50 once daily</td>
+<td rowspan="4" stylecode="Rrule">100 once daily</td>
+<td stylecode="Rrule">8</td>
+<td stylecode="Rrule">0.95   <br/>(0.84, 1.07)</td>
+<td stylecode="Rrule">0.96   <br/>(0.88, 1.04)</td>
+<td stylecode="Rrule">1.04 <br/>(0.93, 1.17)</td>
+</tr>
+<tr>
+<td stylecode="Rrule Toprule">20 mL single dose given 4 hours after elvitegravir</td>
+<td stylecode="Rrule Toprule">10</td>
+<td stylecode="Rrule Toprule">0.98<br/> (0.88, 1.10)</td>
+<td stylecode="Rrule Toprule">0.98<br/>(0.91, 1.06)</td>
+<td stylecode="Rrule Toprule">1.00 <br/>(0.90, 1.11)</td>
+</tr>
+<tr>
+<td stylecode="Rrule Toprule">20 mL single dose given 2 hours before  elvitegravir</td>
+<td stylecode="Rrule Toprule">11</td>
+<td stylecode="Rrule Toprule">0.82   <br/>(0.74, 0.91)</td>
+<td stylecode="Rrule Toprule">0.85   <br/>(0.79, 0.91)</td>
+<td stylecode="Rrule Toprule">0.90 <br/>(0.82, 0.99)</td>
+</tr>
+<tr>
+<td stylecode="Rrule Toprule">20 mL single dose given 2 hours after elvitegravir</td>
+<td stylecode="Rrule Toprule">10</td>
+<td stylecode="Rrule Toprule">0.79  <br/>(0.71, 0.88)</td>
+<td stylecode="Rrule Toprule">0.80   <br/>(0.75, 0.86)</td>
+<td stylecode="Rrule Toprule">0.80 <br/>(0.73, 0.89)</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="Lrule Rrule Toprule">Atazanavir</td>
+<td stylecode="Rrule Toprule">300 once daily</td>
+<td stylecode="Rrule Toprule">200 once daily</td>
+<td stylecode="Rrule Toprule">100 once daily</td>
+<td stylecode="Rrule Toprule">33</td>
+<td stylecode="Rrule Toprule">1.85<br/>(1.69, 2.03)</td>
+<td stylecode="Rrule Toprule">2.00<br/>(1.85, 2.16)</td>
+<td stylecode="Rrule Toprule">2.88<br/>(2.53, 3.27)</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Rrule Toprule">300 once daily</td>
+<td stylecode="Rrule Toprule">85 once daily</td>
+<td stylecode="Rrule Toprule">100 once daily</td>
+<td stylecode="Rrule Toprule">20</td>
+<td stylecode="Rrule Toprule">0.91<br/>(0.81, 1.02)<footnote id="tb6ft">Comparison based on elvitegravir/ritonavir 150/100 mg once daily.</footnote>
+</td>
+<td stylecode="Rrule Toprule">1.07 <br/>(0.95, 1.21)<footnoteref idref="tb6ft"></footnoteref>
+</td>
+<td stylecode="Rrule Toprule">1.38 <br/>(1.18, 1.61)<footnoteref idref="tb6ft"></footnoteref>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule Toprule">Carbamazepine</td>
+<td stylecode="Rrule Toprule">200 twice daily </td>
+<td stylecode="Rrule Toprule">150 daily</td>
+<td stylecode="Rrule Toprule">150 once daily<footnoteref idref="ft2"></footnoteref>
+</td>
+<td stylecode="Rrule Toprule">12</td>
+<td stylecode="Rrule Toprule">0.55<br/>(0.49,0.61)</td>
+<td stylecode="Rrule Toprule">0.31<br/>(0.28,0.33)</td>
+<td stylecode="Rrule Toprule">0.03<br/>(0.02,0.04)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule Toprule">Darunavir</td>
+<td stylecode="Rrule">600 twice daily</td>
+<td stylecode="Rrule">125 once daily</td>
+<td stylecode="Rrule">100 twice daily</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">1.13<br/>(1.03, 1.24)</td>
+<td stylecode="Rrule">1.10<br/>(0.99, 1.22)</td>
+<td stylecode="Rrule">1.18<br/>(1.06, 1.31)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Didanosine</td>
+<td stylecode="Rrule">400 single dose</td>
+<td stylecode="Rrule">200 once daily</td>
+<td stylecode="Rrule">100 once daily</td>
+<td stylecode="Rrule">32</td>
+<td stylecode="Rrule">0.95<br/>(0.90, 1.01)</td>
+<td stylecode="Rrule">0.97<br/>(0.92, 1.01)</td>
+<td stylecode="Rrule">1.06<br/>(1.01, 1.12)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ketoconazole</td>
+<td stylecode="Rrule">200 twice daily</td>
+<td stylecode="Rrule">150 once daily</td>
+<td stylecode="Rrule">100 once daily</td>
+<td stylecode="Rrule">18</td>
+<td stylecode="Rrule">1.17<br/>(1.04, 1.33)</td>
+<td stylecode="Rrule">1.48<br/>(1.36, 1.62)</td>
+<td stylecode="Rrule">1.67<br/>(1.48, 1.88)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Lopinavir/ritonavir</td>
+<td stylecode="Rrule">400 twice daily</td>
+<td stylecode="Rrule">125 once daily</td>
+<td stylecode="Rrule">100 twice daily</td>
+<td stylecode="Rrule">14</td>
+<td stylecode="Rrule">1.52<br/>(1.29, 1.79)</td>
+<td stylecode="Rrule">1.75<br/>(1.50, 2.05)</td>
+<td stylecode="Rrule">2.38<br/>(1.81, 3.13)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Maraviroc</td>
+<td stylecode="Rrule">150 twice daily</td>
+<td stylecode="Rrule">150 once daily</td>
+<td stylecode="Rrule">100 once daily</td>
+<td stylecode="Rrule">17</td>
+<td stylecode="Rrule">1.01<br/>(0.89, 1.15)</td>
+<td stylecode="Rrule">1.07<br/>(0.96, 1.18)</td>
+<td stylecode="Rrule">1.09<br/>(0.95, 1.26)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rifabutin</td>
+<td stylecode="Rrule">150 once every other day</td>
+<td stylecode="Rrule">300 once daily</td>
+<td stylecode="Rrule">100 once daily</td>
+<td stylecode="Rrule">19</td>
+<td stylecode="Rrule">0.92<br/>(0.84, 1.00)</td>
+<td stylecode="Rrule">0.96<br/>(0.90, 1.02)</td>
+<td stylecode="Rrule">0.94<br/>(0.82, 1.09)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Rosuvastatin</td>
+<td stylecode="Rrule">10 single dose</td>
+<td stylecode="Rrule">150 single dose</td>
+<td stylecode="Rrule">NA<footnote id="ft2">Study was conducted in the presence of 150 mg cobicistat.</footnote>
+<sup>,</sup>
+<footnote>NA = Not Applicable</footnote>
+</td>
+<td stylecode="Rrule">10</td>
+<td stylecode="Rrule">0.94<br/>(0.83, 1.07)<footnote id="tb6ft1">Comparison based on elvitegravir/cobicistat 150/150 mg once daily.</footnote>
+</td>
+<td stylecode="Rrule">1.02<br/>(0.91, 1.14)<footnoteref idref="tb6ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">0.98<br/>(0.83, 1.16)<footnoteref idref="tb6ft1"></footnoteref>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Tipranavir</td>
+<td stylecode="Rrule">500 twice daily</td>
+<td stylecode="Rrule">200 once daily</td>
+<td stylecode="Rrule">200 twice daily</td>
+<td stylecode="Rrule">26</td>
+<td stylecode="Rrule">1.06<br/>(0.89, 1.26)<footnoteref idref="tb6ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">0.92<br/>(0.79, 1.08)<footnoteref idref="tb6ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">0.90<br/>(0.70, 1.17)<footnoteref idref="tb6ft1"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

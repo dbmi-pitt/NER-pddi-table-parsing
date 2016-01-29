@@ -1,0 +1,57 @@
+<table id="table2" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2 Mean SC Pharmacokinetic Parameters in Adult GHD Patients</caption>
+<col align="center" valign="top" width="16%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="16%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule"></th>
+<th stylecode="Rrule">Bioavailability<br/>(%)<br/>(N=15)</th>
+<th stylecode="Rrule">T<sub>max</sub>
+<br/>(hours)<br/>(N=16)</th>
+<th stylecode="Rrule">CL/F<br/>(L/hr × kg)<br/>(N=16)</th>
+<th stylecode="Rrule">Vss/F<br/>(L/kg)<br/>(N=16)</th>
+<th>T<sub>1/2</sub>
+<br/>(hours)<br/>(N=16)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="6">T<sub>max</sub> = time of maximum plasma concentration<br/>CL/F = plasma clearance<br/>Vss/F = volume of distribution</td>
+</tr>
+<tr>
+<td align="left" colspan="6">T <sub>1/2</sub> = terminal half-life<br/>SD = standard deviation<br/>CI = confidence interval</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Rrule">Mean</td>
+<td stylecode="Rrule">80.5</td>
+<td stylecode="Rrule">5.9</td>
+<td stylecode="Rrule">0.3</td>
+<td stylecode="Rrule">1.3</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td stylecode="Rrule">(± SD)</td>
+<td stylecode="Rrule">
+<footnote>The absolute bioavailability was estimated under the assumption that the log-transformed data follow a normal distribution. The mean and standard deviation of the log-transformed data were mean = 0.22 (± 0.241).</footnote>
+</td>
+<td stylecode="Rrule">(± 1.65)</td>
+<td stylecode="Rrule">(± 0.11)</td>
+<td stylecode="Rrule">(± 0.80)</td>
+<td>(± 1.44)</td>
+</tr>
+<tr>
+<td stylecode="Rrule Toprule">95% CI</td>
+<td stylecode="Rrule Toprule">70.5 – 92.1</td>
+<td stylecode="Rrule Toprule">5.0 – 6.7</td>
+<td stylecode="Rrule Toprule">0.2 – 0.4</td>
+<td stylecode="Rrule Toprule">0.9 – 1.8</td>
+<td stylecode="Toprule">2.2 – 3.7</td>
+</tr>
+</tbody>
+</table>

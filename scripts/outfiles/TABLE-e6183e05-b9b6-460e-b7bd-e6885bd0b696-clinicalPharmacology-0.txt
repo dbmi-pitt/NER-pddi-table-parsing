@@ -1,0 +1,55 @@
+<table id="table1" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>TABLE 1:	PHARMACOKINETIC MEAN ESTIMATES FOLLOWING SINGLE ESTRING APPLICATION</caption>
+<col align="left" width="30%"></col>
+<col align="left" width="17.5%"></col>
+<col align="left" width="17.5%"></col>
+<col align="left" width="17.5%"></col>
+<col align="left" width="17.5%"></col>
+<thead>
+<tr>
+<th>Estrogen</th>
+<th>C<sub>max</sub>
+<br/>(pg/mL)</th>
+<th>C<sub>ss–48 hr</sub>
+<br/>(pg/mL)</th>
+<th>C<sub>ss–4w</sub>
+<br/>(pg/mL)</th>
+<th>C<sub>ss–12w</sub>
+<br/>(pg/mL)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Estradiol (E<sub>2</sub>)</td>
+<td>63.2<footnote>n=14</footnote>
+</td>
+<td>11.2</td>
+<td>9.5</td>
+<td>8.0</td>
+</tr>
+<tr>
+<td>Baseline-adjusted E<sub>2</sub>
+<footnote>Based on means</footnote>
+</td>
+<td>55.6</td>
+<td>3.6</td>
+<td>2.0</td>
+<td>0.4</td>
+</tr>
+<tr>
+<td>Estrone (E<sub>1</sub>)</td>
+<td>66.3</td>
+<td>52.5</td>
+<td>43.8</td>
+<td>47.0</td>
+</tr>
+<tr>
+<td>Baseline-adjusted E<sub>1</sub>
+</td>
+<td>20.0</td>
+<td>6.2</td>
+<td>-2.4</td>
+<td>0.8</td>
+</tr>
+</tbody>
+</table>

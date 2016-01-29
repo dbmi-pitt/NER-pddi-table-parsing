@@ -1,0 +1,13 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><col align="left" valign="middle" width="50%"></col>
+<col align="left" valign="middle" width="50%"></col>
+<thead>
+<tr stylecode="Toprule"><td align="left" colspan="2">For testing <content stylecode="italics">Neisseria gonorrhoeae</content><footnote>This zone diameter standard is applicable only to disk diffusion tests with GC agar base and 1% defined growth supplement.</footnote>:</td></tr>
+<tr><td colspan="2"> </td></tr>
+<tr><td><content stylecode="bold underline">Zone Diameter (mm)</content></td><td><content stylecode="bold underline">Interpretation</content></td></tr>
+</thead>
+<tbody>
+<tr stylecode="Toprule"><td>≥ 41</td><td>Susceptible (S)</td></tr>
+<tr><td>28 – 40</td><td>Intermediate (I)</td></tr>
+<tr stylecode="Botrule"><td>≤ 27</td><td>Resistant (R)</td></tr>
+</tbody>
+</table>

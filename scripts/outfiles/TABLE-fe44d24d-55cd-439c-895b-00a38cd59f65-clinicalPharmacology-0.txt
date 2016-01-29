@@ -1,0 +1,250 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="22%"></col>
+<col width="19%"></col>
+<col width="34%"></col>
+<col width="25%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Botrule Toprule " valign="bottom">
+<paragraph> </paragraph>
+<paragraph>Tissue or Fluid</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="bottom">
+<paragraph> </paragraph>
+<paragraph>N</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="bottom">
+<paragraph>Imipenem Level</paragraph>
+<paragraph>mcg/mL or mcg/g</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="bottom">
+<paragraph> </paragraph>
+<paragraph>Range</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Vitreous Humor</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>3</paragraph>
+</td>
+<td valign="top">
+<paragraph>3.4 (3.5 hours post dose)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2.88 to 3.6</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Aqueous Humor</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>5</paragraph>
+</td>
+<td valign="top">
+<paragraph>2.99 (2 hours post dose)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2.4 to 3.9</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Lung Tissue</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>8</paragraph>
+</td>
+<td valign="top">
+<paragraph>5.6 (median)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>3.5 to 15.5</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Sputum</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1</paragraph>
+</td>
+<td valign="top">
+<paragraph>2.1</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Pleural</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1</paragraph>
+</td>
+<td valign="top">
+<paragraph>22</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Peritoneal</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>12</paragraph>
+</td>
+<td valign="top">
+<paragraph>23.9 S.D.±5.3 (2 hours post dose)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Bile</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2</paragraph>
+</td>
+<td valign="top">
+<paragraph>5.3 (2.25 hours post dose)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>4.6 to 6</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>CSF (uninflamed)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>5</paragraph>
+</td>
+<td valign="top">
+<paragraph>1 (4 hours post dose)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>0.26 to 2</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>CSF (inflamed)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>7</paragraph>
+</td>
+<td valign="top">
+<paragraph>2.6 (2 hours post dose)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>0.5 to 5.5</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Fallopian Tubes</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1</paragraph>
+</td>
+<td valign="top">
+<paragraph>13.6</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Endometrium</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1</paragraph>
+</td>
+<td valign="top">
+<paragraph>11.1</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Myometrium</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>1</paragraph>
+</td>
+<td valign="top">
+<paragraph>5</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>—</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Bone</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>10</paragraph>
+</td>
+<td valign="top">
+<paragraph>2.6</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>0.4 to 5.4</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Interstitial Fluid</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>12</paragraph>
+</td>
+<td valign="top">
+<paragraph>16.4</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>10 to 22.6</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Skin</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>12</paragraph>
+</td>
+<td valign="top">
+<paragraph>4.4</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>NA</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Fascia</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>12</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>4.4</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>NA</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

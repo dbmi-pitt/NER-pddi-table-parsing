@@ -1,0 +1,199 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="18%"></col>
+<col width="17%"></col>
+<col width="13%"></col>
+<col width="14%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<thead>
+<tr>
+<th align="left" colspan="7" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">PERCENT OF PATIENTS WHO CONVERTED (Second Trial)</content>
+</th>
+</tr>
+<tr>
+<th align="left" rowspan="3" stylecode="Rrule Lrule Botrule " valign="top"></th>
+<th align="left" stylecode="Rrule Botrule " valign="top"></th>
+<th align="left" stylecode="Rrule Botrule " valign="top"></th>
+<th align="left" colspan="4" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">Ibutilide</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top"></th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">Placebo</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">0.005 mg/mg</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">0.01 mg/kg</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">0.015 mg/kg</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">0.025 mg/kg</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">n</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">41</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">41</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">40</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">38</content>
+</th>
+<th align="left" stylecode="Rrule Botrule " valign="top">
+<content stylecode="bold">40</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Both</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>Initially<footnote id="_Reffootnote1">Percent of patients who converted within 70 minutes after the start of infusion.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>33</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>45</paragraph>
+</td>
+<td align="center" stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>48</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>At 24 hours<footnote id="_Reffootnote2">Percent of patients who remained in sinus rhythm 24 hours after dosing.</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>2</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>12</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>28</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>42</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>43</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Atrial flutter</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>Initially<footnoteref idref="_Reffootnote1"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>14</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>30</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>58</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>55</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>At 24 hours<footnoteref idref="_Reffootnote2"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>0</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>14</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>30</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>58</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>50</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Atrial Fibrillation</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>Initially<footnoteref idref="_Reffootnote1"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>10</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>35</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>32</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>40</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>At 24 hours<footnoteref idref="_Reffootnote2"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>5</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>10</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>25</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>26</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph>35</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

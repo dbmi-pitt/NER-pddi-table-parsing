@@ -1,0 +1,52 @@
+<table id="id_ac2f11e0-8a5d-4f91-b815-a001a0f666ed" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_680f2994-3f0b-4e3e-898c-28b1406c66be">Table 3.</caption>
+<col align="left" width="60%"></col>
+<col align="center" width="20%"></col>
+<col align="center" width="20%"></col>
+<thead>
+<tr id="id_381c2a9c-ee56-4053-a6d0-bca04df74de1" stylecode="Botrule">
+<td align="left" stylecode="Botrule Rrule" valign="top">Parameter</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Mean</td>
+<td align="left" stylecode="Lrule Botrule" valign="top">Standard Deviation</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_801806ed-9984-48ee-b993-6b45b18e004a" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="bold">Normal Males (n=30)</content>
+</td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_5d525ec5-7c46-45db-90e1-1e529b46d54b">
+<td align="left" valign="top">  Apparent Oral Clearance (L/hr)</td>
+<td align="left" valign="top">0.320</td>
+<td align="left" valign="top">0.103</td>
+</tr>
+<tr id="id_3ea8348e-c643-4877-a4c9-78ca29d8eed6">
+<td align="left" valign="top">  Single Dose Peak Concentration (µg/mL)</td>
+<td align="left" valign="top">0.768</td>
+<td align="left" valign="top">0.178</td>
+</tr>
+<tr id="id_e7ba07aa-080f-42dc-a2bb-8f992977f845">
+<td align="left" valign="top">  Single Dose Time to Peak Concentration (hours)</td>
+<td align="left" valign="top">31.3</td>
+<td align="left" valign="top">14.6</td>
+</tr>
+<tr id="id_a260b6ba-96e3-463d-88a1-418717766985">
+<td align="left" valign="top">  Half-life (days)</td>
+<td align="left" valign="top">5.8</td>
+<td align="left" valign="top">2.29</td>
+</tr>
+<tr id="id_b1282b30-5db6-4582-ae28-39696eba42d7">
+<td align="left" colspan="3" valign="top">
+<content stylecode="bold">Patients with Prostate Cancer (n=40)</content>
+</td>
+</tr>
+<tr id="id_e77f320e-c9f5-444a-8640-3c6d94e506e6" stylecode="Botrule">
+<td align="left" valign="top">  C<sub>ss</sub> (µg/mL)</td>
+<td align="left" valign="top">8.939</td>
+<td align="left" valign="top">3.504</td>
+</tr>
+</tbody>
+</table>

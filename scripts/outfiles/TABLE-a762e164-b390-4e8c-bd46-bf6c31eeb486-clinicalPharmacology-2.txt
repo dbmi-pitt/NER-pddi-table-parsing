@@ -1,0 +1,57 @@
+<table frame="box" id="table5" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5: Mean Bismuth Pharmacokinetic Parameters following PYLERA Administration<footnote>PYLERA given as 3 capsules four times daily for 6 days with or without 20 mg omeprazole twice daily</footnote> With and Without Omeprazole (N=34)</caption>
+<colgroup>
+<col align="left"></col>
+<col align="left"></col>
+<col align="left"></col>
+<col align="left"></col>
+<col align="left"></col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">
+<content stylecode="bold">Parameter</content>
+</td>
+<td align="left" colspan="2">
+<content stylecode="bold">Without omeprazole</content>
+</td>
+<td align="left" colspan="2">
+<content stylecode="bold">With omeprazole</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Mean</content>
+</td>
+<td>
+<content stylecode="bold">%C.V.<footnote id="t5f2">C.V. – Coefficient Variation</footnote>
+</content>
+</td>
+<td>
+<content stylecode="bold">Mean</content>
+</td>
+<td>
+<content stylecode="bold">%C.V.<footnoteref idref="t5f2"></footnoteref>
+</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">C<sub>max</sub>(ng/mL)</content>
+</td>
+<td>8.1</td>
+<td>84</td>
+<td>25.5</td>
+<td>69</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">AUC<sub>T</sub>(ng · h/mL)</content>
+</td>
+<td>48.5</td>
+<td>28</td>
+<td>140.9</td>
+<td>42</td>
+</tr>
+</tbody>
+</table>

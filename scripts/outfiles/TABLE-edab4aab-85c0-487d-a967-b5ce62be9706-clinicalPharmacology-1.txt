@@ -1,0 +1,62 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: Effect of Pravastatin on the Pharmacokinetics of Coadministered Drugs</caption>
+<col width="28.0%"></col>
+<col width="33.5%"></col>
+<col width="19.2%"></col>
+<col width="19.2%"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Pravastatin Dosing Regimen </content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> <content stylecode="bold">Name and Dose</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> <content stylecode="bold">Change in AUC</content>
+</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> <content stylecode="bold">Change in C<sub>max</sub>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> 20 mg BID for 6 days </td>
+<td align="center" stylecode="     Rrule     "> Warfarin 5 mg OD for 6 days</td>
+<td align="center" stylecode="     Rrule     "> ↑17%</td>
+<td align="center" stylecode="     Rrule     " valign="top"> ↑15%</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Rrule     "> Change in mean prothrombin time</td>
+<td align="center" stylecode="     Botrule          Rrule     "> ↑0.4 sec</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     "> 20 mg OD for 9 days </td>
+<td align="center" stylecode="     Botrule          Rrule     "> Digoxin 0.2 mg OD for 9 days</td>
+<td align="center" stylecode="     Botrule          Rrule     "> ↑4.6%</td>
+<td align="center" stylecode="     Botrule          Rrule     "> ↑5.3%</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> 20 mg BID for 4 weeks </td>
+<td align="center" stylecode="     Rrule     "> Antipyrine 1.2 g single dose</td>
+<td align="center" stylecode="     Rrule     "> ↑3.0%</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Not Reported</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> 10 mg BID for 4 weeks</td>
+<td align="center" stylecode="     Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Rrule     "> ↑1.6%</td>
+<td align="center" stylecode="     Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     "> 5 mg BID for 4 weeks</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Rrule     "> ↑ Less than 1%</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     "> 20 mg OD for 4 days</td>
+<td align="center" stylecode="     Rrule     " valign="top"> Kaletra 400 mg/100 mg BID for 14 days</td>
+<td align="center" stylecode="     Rrule     "> No change</td>
+<td align="center" stylecode="     Botrule          Rrule     " valign="top"> No change</td>
+</tr>
+</tbody>
+</table>

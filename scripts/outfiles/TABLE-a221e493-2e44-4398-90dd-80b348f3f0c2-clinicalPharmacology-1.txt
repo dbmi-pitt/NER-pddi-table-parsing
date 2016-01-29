@@ -1,0 +1,275 @@
+<table id="ID20" width="101%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Study 2</caption>
+<col width="51%"></col>
+<col width="14%"></col>
+<col width="20%"></col>
+<col width="16%"></col>
+<thead>
+<tr>
+<td align="center" colspan="1" stylecode=" Botrule Toprule" valign="top">
+<content stylecode="bold">MRS </content>
+<content stylecode="bold">Total </content>
+<content stylecode="bold">Score</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="left" colspan="1" stylecode=" Botrule Toprule" valign="top">
+<br/>
+</td>
+<td align="center" colspan="1" stylecode=" Botrule Toprule" valign="top">
+<br/>
+</td>
+<td align="center" colspan="1" stylecode=" Botrule Toprule" valign="top">
+<br/>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" stylecode=" Botrule Toprule" valign="top">
+<content stylecode="bold">Group</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="left" stylecode=" Botrule Toprule" valign="top">
+<content stylecode="bold">Baseline</content>
+<content stylecode="bold">
+<footnote id="ID20_1">Mean score at baseline</footnote>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">
+<content stylecode="bold">BL </content>
+<content stylecode="bold">to </content>
+<content stylecode="bold">Day </content>
+<content stylecode="bold">21</content>
+<content stylecode="bold">
+<footnote id="ID20_2">Change from baseline to day 21 (LOCF)</footnote>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Botrule Toprule" valign="top">
+<content stylecode="bold">Difference</content>
+<content stylecode="bold">
+<footnote id="ID20_3">Difference in change from baseline to day 21 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo and lithium and placebo</footnote>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Toprule" valign="top">Placebo<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">38.9 <br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">-4.4 <br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">Lithium<br/>
+</td>
+<td align="center" valign="top">37.9 <br/>
+</td>
+<td align="center" valign="top">-10.5 <br/>
+</td>
+<td align="center" valign="top">6.1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">Divalproex sodium delayed-release tablets<br/>
+</td>
+<td align="center" valign="top">38.1 <br/>
+</td>
+<td align="center" valign="top">-9.5 <br/>
+</td>
+<td align="center" valign="top">5.1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<content stylecode="bold">MSS </content>
+<content stylecode="bold">Total </content>
+<content stylecode="bold">Score</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="right" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Botrule" valign="top">
+<content stylecode="bold">Group </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="left" stylecode=" Botrule" valign="top">
+<content stylecode="bold">Baseline</content>
+<content stylecode="bold">
+<footnoteref idref="ID20_1"></footnoteref>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">
+<content stylecode="bold">BL </content>
+<content stylecode="bold">to </content>
+<content stylecode="bold">Day </content>
+<content stylecode="bold">21</content>
+<content stylecode="bold">
+<footnoteref idref="ID20_2"></footnoteref>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">
+<content stylecode="bold">Difference</content>
+<content stylecode="bold">
+<footnoteref idref="ID20_3"></footnoteref>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Toprule" valign="top">Placebo <br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">18.9 <br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">-2.5 <br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">Lithium <br/>
+</td>
+<td align="center" valign="top">18.5 <br/>
+</td>
+<td align="center" valign="top">-6.2 <br/>
+</td>
+<td align="center" valign="top">3.7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">Divalproex sodium delayed-release tablets<br/>
+</td>
+<td align="center" valign="top">18.9 <br/>
+</td>
+<td align="center" valign="top">-6.0 <br/>
+</td>
+<td align="center" valign="top">3.5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<content stylecode="bold">BIS </content>
+<content stylecode="bold">Total </content>
+<content stylecode="bold">Score</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="right" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Botrule" valign="top">
+<content stylecode="bold">Group </content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="left" stylecode=" Botrule" valign="top">
+<content stylecode="bold">Baseline</content>
+<content stylecode="bold">
+<footnoteref idref="ID20_1"></footnoteref>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">
+<content stylecode="bold">BL </content>
+<content stylecode="bold">to </content>
+<content stylecode="bold">Day </content>
+<content stylecode="bold">21</content>
+<content stylecode="bold">
+<footnoteref idref="ID20_2"></footnoteref>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">
+<content stylecode="bold">Difference</content>
+<content stylecode="bold">
+<footnoteref idref="ID20_3"></footnoteref>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Toprule" valign="top">Placebo <br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">16.4 <br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">-1.4 <br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">Lithium <br/>
+</td>
+<td align="center" valign="top">16.0 <br/>
+</td>
+<td align="center" valign="top">-3.8 <br/>
+</td>
+<td align="center" valign="top">2.4 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode=" Botrule" valign="top">Divalproex sodium delayed-release tablets <br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">15.7 <br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">-3.2 <br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">1.8 <br/>
+</td>
+</tr>
+</tbody>
+</table>

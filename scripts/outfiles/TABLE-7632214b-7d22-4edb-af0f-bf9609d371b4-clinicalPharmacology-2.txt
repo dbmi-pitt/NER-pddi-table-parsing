@@ -1,0 +1,51 @@
+<table width="80%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Mortality in the Helsinki Heart Study, Years 0-8.5<footnote>Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions.</footnote>
+</caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<col align="center" valign="bottom" width="20%"></col>
+<thead>
+<tr>
+<th>Event</th>
+<th align="left">Gemfibrozil tablets at Study Start</th>
+<th align="left">Placebo at Study Start</th>
+<th align="left">Gemfibrozil tablets:Placebo Hazard Ratio<footnote>Hazard ration for risk event in the group originally randomized to gemfibrozil tablets compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study condition.</footnote>
+</th>
+<th align="left">CI Hazard Ratio<footnote>95% confidence intervals of gemfibrozil tablets:placebo group hazard ratio</footnote>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td>Cardiac Events<footnote>Fatal and non-fatal myocardial infarctions plus sudden cardiac deaths over the 8.5 year period.</footnote>
+</td>
+<td>110</td>
+<td>131</td>
+<td>0.80</td>
+<td>0.62-1.03</td>
+</tr>
+<tr stylecode="Botrule">
+<td>Cardiac Deaths</td>
+<td>36</td>
+<td>38</td>
+<td>0.98</td>
+<td>0.63-1.54</td>
+</tr>
+<tr stylecode="Botrule">
+<td>Non-Cardiac Deaths</td>
+<td>65</td>
+<td>45</td>
+<td>1.40</td>
+<td>0.95-2.05</td>
+</tr>
+<tr>
+<td>All-Cause Mortality</td>
+<td>101</td>
+<td>83</td>
+<td>1.20</td>
+<td>0.90-1.61</td>
+</tr>
+</tbody>
+</table>

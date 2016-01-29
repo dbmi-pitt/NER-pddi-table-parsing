@@ -1,0 +1,182 @@
+<table id="id_c013f726-44e9-421b-9067-a9436497c47f" width="311.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_c069d6b4-5c3a-4a4d-bfe9-b496c6f98392">Table 2. Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs (See <linkhtml href="#i4i_interactions_id_8bcb5296-b7cf-4f94-bca9-36acc059a9bc">PRECAUTIONS: Drug Interactions</linkhtml>) </caption>
+<col width="20.9%"></col>
+<col width="22.2%"></col>
+<col width="22.2%"></col>
+<col width="7.1%"></col>
+<col width="15.1%"></col>
+<col width="12.5%"></col>
+<thead>
+<tr id="id_78b63044-2703-4fae-bd18-4ab8427e3a60">
+<td align="left" rowspan="2" stylecode="Botrule Toprule Rrule" valign="top">
+<content stylecode="bold">Co-</content>
+<br/>
+<content stylecode="bold">administered</content>
+<br/>
+<content stylecode="bold">Drug</content>
+</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Dose of Co-</content>
+<br/>
+<content stylecode="bold">Administered</content>
+<br/>
+<content stylecode="bold">Drug</content>
+</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Dose of</content>
+<br/>
+<content stylecode="bold">Azithromycin</content>
+</td>
+<td align="left" rowspan="2" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">n</content>
+</td>
+<td align="left" colspan="2" stylecode="Botrule" valign="top">
+<content stylecode="bold">Ratio (with/with-</content>
+<br/>
+<content stylecode="bold">out Co-</content>
+<content stylecode="bold">adminis</content>
+<content stylecode="bold">-</content>
+<br/>
+<content stylecode="bold">tered</content>
+<content stylecode="bold"> Drug) of</content>
+<br/>
+<content stylecode="bold">Azithromycin</content>
+<br/>
+<content stylecode="bold">Pharmacokinetic</content>
+<br/>
+<content stylecode="bold">Parameters</content>
+<br/>
+<content stylecode="bold">(90% CI);</content>
+<br/>
+<content stylecode="bold">No Effect = 1.00</content>
+</td>
+</tr>
+<tr id="id_df418240-a2ba-4171-a647-f80fc798919d">
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Mean</content>
+<br/>
+<content stylecode="bold">Cmax</content>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<content stylecode="bold">Mean</content>
+<br/>
+<content stylecode="bold">AUC</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_965b0ca0-cbe1-4965-8cc8-211e04fab323">
+<td align="left" stylecode="Toprule Botrule" valign="top">
+<paragraph>Efavirenz</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>400 mg/day</paragraph>
+<paragraph>x 7 days</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>600 mg PO</paragraph>
+<paragraph>on day 7</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>14</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>1.22</paragraph>
+<paragraph>(1.04 to</paragraph>
+<paragraph>1.42)</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>0.92<footnote id="id-bd1bbf21-279a-4d07-aaff-992925fddca1">-90% Confidence interval not reported</footnote>
+</paragraph>
+</td>
+</tr>
+<tr id="id_5ed3a8f2-67e2-4cad-9116-fb5d34156220">
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>Fluconazole</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>200 mg PO</paragraph>
+<paragraph>single dose</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>1,200 mg PO</paragraph>
+<paragraph>single dose</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>18</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>0.82</paragraph>
+<paragraph>(0.66 to</paragraph>
+<paragraph>1.02)</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>1.07</paragraph>
+<paragraph>(0.94 to</paragraph>
+<paragraph>1.22)</paragraph>
+</td>
+</tr>
+<tr id="id_a0fd7fd9-ac65-4de4-be2e-3cf05578d138">
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>Nelfinavir</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>750 mg t.i.d.</paragraph>
+<paragraph>x 11 days</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>1,200 mg PO</paragraph>
+<paragraph>on day 9</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>14</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>2.36</paragraph>
+<paragraph>(1.77 to</paragraph>
+<paragraph>3.15)</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>2.12</paragraph>
+<paragraph>(1.80 to</paragraph>
+<paragraph>2.50)</paragraph>
+</td>
+</tr>
+<tr id="id_0fc6fb27-ffa0-44e1-8919-f2b2ba2f1ce2">
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>Rifabutin</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>300 mg/day</paragraph>
+<paragraph>x 10 days</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>500 mg PO</paragraph>
+<paragraph>on day 1, then</paragraph>
+<paragraph>250 mg/day</paragraph>
+<paragraph>on days 2-10</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>6</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>See</paragraph>
+<paragraph>Footnote</paragraph>
+<paragraph>Below</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>NA</paragraph>
+</td>
+</tr>
+<tr id="id_d40ca9cc-01a3-4e66-b99e-50d1b6976bbe">
+<td align="left" colspan="6" valign="top">
+<paragraph>NA - Not Available</paragraph>
+</td>
+</tr>
+<tr id="id_3358d840-a57d-4d39-9642-47c40afc9910">
+<td align="left" colspan="6" stylecode="Lrule Botrule" valign="top">
+<paragraph>Mean azithromycin concentrations one day after the last dose were 53 ng/mL when coadministered with 300 mg daily rifabutin and 49 ng/mL when coadministered with placebo.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

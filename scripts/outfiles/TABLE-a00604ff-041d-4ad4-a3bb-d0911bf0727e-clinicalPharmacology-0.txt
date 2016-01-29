@@ -1,0 +1,104 @@
+<table id="id_e16fc50b-bed5-4b94-b7e1-a9e75427fb4c" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_c598fa89-fe99-4c51-b182-e594f05823f2" stylecode="Toprule">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Botrule Rrule" valign="top"> Symptom Score<br/>(Range 0–27)</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"></td>
+<td align="center" colspan="2" stylecode="Lrule Botrule Rrule" valign="top"> Peak Flow Rate<br/>(mL/Sec)</td>
+</tr>
+<tr id="id_fc8ab2fb-ccee-4686-a654-3d37e9ee3d36" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top"></td>
+<td align="center" stylecode="Rrule" valign="top"> N</td>
+<td align="center" stylecode="Rrule" valign="top"> Mean<br/>Baseline</td>
+<td align="center" stylecode="Rrule" valign="top"> Mean<br/>Change (%)</td>
+<td align="center" stylecode="Rrule" valign="top"> N</td>
+<td align="center" stylecode="Rrule" valign="top"> Mean<br/>Baseline</td>
+<td align="center" stylecode="Rrule" valign="top"> Mean<br/>Change (%)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_fd66b4ed-bd62-47d6-b12b-db1370459057" stylecode="Toprule">
+<td align="left" colspan="4" stylecode="Lrule Botrule Rrule" valign="top"> Study 1 <br/>  (10 mg)<footnote id="id-28cda67d-cfa4-4e56-bd98-3b3b4fc96f09">Highest dose 10 mg shown.</footnote>
+<br/>Titration to fixed dose (12 wks) </td>
+<td align="center" colspan="3" stylecode="Lrule Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_34927b2e-aac6-437f-a60b-df3e6529e78d">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">   Placebo</td>
+<td align="center" valign="top"> 55</td>
+<td align="center" valign="top"> 9.7</td>
+<td align="center" stylecode="Rrule" valign="top"> -2.3 (24)</td>
+<td align="center" valign="top"> 54</td>
+<td align="center" valign="top"> 10.1</td>
+<td align="center" stylecode="Rrule" valign="top"> +1.0 (10)</td>
+</tr>
+<tr id="id_cec6b7d5-dcea-42c5-abd5-d57572a332ba">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">   Terazosin</td>
+<td align="center" stylecode="Botrule" valign="top"> 54</td>
+<td align="center" stylecode="Botrule" valign="top"> 10.1</td>
+<td align="center" stylecode="Rrule" valign="top"> -4.5 (45)<footnote id="id-9326b232-6415-49ce-b0a8-4aa8a95d272a">Significantly (p ≤0.05) more improvement than placebo.</footnote>
+</td>
+<td align="center" stylecode="Botrule" valign="top"> 52</td>
+<td align="center" stylecode="Botrule" valign="top"> 8.8</td>
+<td align="center" stylecode="Rrule" valign="top"> +3.0 (34)<footnoteref idref="id-9326b232-6415-49ce-b0a8-4aa8a95d272a"></footnoteref>
+</td>
+</tr>
+<tr id="id_6a649cef-64c8-4384-b688-4fd4076d70c1">
+<td align="left" colspan="4" stylecode="Lrule Botrule Rrule" valign="top"> Study 2 <br/>  (2, 5, 10, 20 mg)<footnote id="id-43aab87b-f3c6-4aad-8f1a-c385abeeef21">23% of patients on 10 mg, 41% of patients on 20 mg.</footnote>
+<br/>Titration to response (24 wks) </td>
+<td align="center" colspan="3" stylecode="Lrule Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_da829626-24cb-4309-94af-32dbb9837083">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">   Placebo</td>
+<td align="center" valign="top"> 89</td>
+<td align="center" valign="top"> 12.5</td>
+<td align="center" stylecode="Rrule" valign="top"> -3.8 (30)</td>
+<td align="center" valign="top"> 88</td>
+<td align="center" valign="top"> 8.8</td>
+<td align="center" stylecode="Rrule" valign="top"> +1.4 (16)</td>
+</tr>
+<tr id="id_3e854547-01eb-4479-925c-6f04faf8f026">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">   Terazosin</td>
+<td align="center" stylecode="Botrule" valign="top"> 85</td>
+<td align="center" stylecode="Botrule" valign="top"> 12.2</td>
+<td align="center" stylecode="Rrule" valign="top"> -5.3 (43)<footnoteref idref="id-9326b232-6415-49ce-b0a8-4aa8a95d272a"></footnoteref>
+</td>
+<td align="center" stylecode="Botrule" valign="top"> 84</td>
+<td align="center" stylecode="Botrule" valign="top"> 8.4</td>
+<td align="center" stylecode="Rrule" valign="top"> +2.9 (35)<footnoteref idref="id-9326b232-6415-49ce-b0a8-4aa8a95d272a"></footnoteref>
+</td>
+</tr>
+<tr id="id_749e9467-eab4-4907-a3d8-10940d4ddff7">
+<td align="left" colspan="4" stylecode="Lrule Botrule Rrule" valign="top"> Study 3 <br/>  (1, 2, 5, 10 mg)<footnote id="id-5977e01e-9f66-41c4-a4d4-89a915168202">67% of patients on 10 mg.</footnote>
+<br/>Titration to response (24 wks) </td>
+<td align="center" colspan="3" stylecode="Lrule Botrule Rrule" valign="top"></td>
+</tr>
+<tr id="id_3c108df7-3322-4e7a-be6f-13b6caa71071">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">   Placebo</td>
+<td align="center" valign="top"> 74</td>
+<td align="center" valign="top"> 10.4</td>
+<td align="center" stylecode="Rrule" valign="top"> -1.1 (11)</td>
+<td align="center" valign="top"> 74</td>
+<td align="center" valign="top"> 8.8</td>
+<td align="center" stylecode="Rrule" valign="top"> +1.2 (14)</td>
+</tr>
+<tr id="id_6ce1949c-7964-4b89-832c-1122f730be1f" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">   Terazosin</td>
+<td align="center" valign="top"> 73</td>
+<td align="center" valign="top"> 10.9</td>
+<td align="center" stylecode="Rrule" valign="top"> -4.6 (42)<footnoteref idref="id-9326b232-6415-49ce-b0a8-4aa8a95d272a"></footnoteref>
+</td>
+<td align="center" valign="top"> 73</td>
+<td align="center" valign="top"> 8.6</td>
+<td align="center" stylecode="Rrule" valign="top"> +2.6 (30)<footnoteref idref="id-9326b232-6415-49ce-b0a8-4aa8a95d272a"></footnoteref>
+</td>
+</tr>
+</tbody>
+</table>

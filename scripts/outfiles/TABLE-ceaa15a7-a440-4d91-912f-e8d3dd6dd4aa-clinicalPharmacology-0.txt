@@ -1,0 +1,157 @@
+<table cellpadding="0pt" cellspacing="0pt" id="_RefID0EREAC" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>     Table 1: SUSCEPTIBILITY TEST INTERPRETIVE CRITERIA</caption>
+<col width="45%"></col>
+<col width="10%"></col>
+<col width="3%"></col>
+<col width="10%"></col>
+<col width="9%"></col>
+<col width="13%"></col>
+<col width="9%"></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<br/>
+<content stylecode="bold">Pathogen</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" colspan="6" stylecode="Rrule Botrule Toprule ">
+<paragraph>
+<content stylecode="bold">Susceptibility Test Result Interpretive Criteria</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">Disk diffusion</content>
+<br/>
+<content stylecode="bold"> (Zone diameter in mm)</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" colspan="3" stylecode="Rrule Botrule ">
+<paragraph>
+<content stylecode="bold">Minimal Inhibitory Concentration </content>
+<br/>
+<content stylecode="bold">(MIC in mcg/mL)</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule "></td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>S<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>I<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>R<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>S<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>I<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>R<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Staphylococcus </content>spp<content stylecode="italics">.</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥29<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤28<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤0.12<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥0.25<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus </content>spp.<br/>(beta-hemolytic group)<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥24<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤0.12<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>-<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae</content> (non-meningitis isolates)<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td stylecode="Rrule Botrule "></td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≤0.06<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>0.12 to 1<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule ">
+<paragraph>≥2<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

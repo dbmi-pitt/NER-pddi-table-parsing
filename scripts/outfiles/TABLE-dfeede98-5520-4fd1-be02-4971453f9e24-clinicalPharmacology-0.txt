@@ -1,0 +1,139 @@
+<table frame="void" width="650" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption> EFFECT OF TREATMENT ON SEVERITY OF DISEASE DATA FROM U.S.-CANADA TRIAL COMBINED RESULTS OF EIGHT CENTERS Activity Indices, Mean</caption>
+<thead>
+<tr>
+<td align="center" stylecode="BotruleLruleRrule" valign="top"></td>
+<td align="center" stylecode="BotruleLruleRrule" valign="middle"></td>
+<td align="center" stylecode="BotruleLruleRrule" valign="middle">
+<content stylecode="bold">N</content>
+</td>
+<td align="center" stylecode="BotruleLruleRrule" valign="middle">
+<content stylecode="bold">Baseline</content>
+</td>
+<td align="center" stylecode="BotruleLruleRrule" valign="middle">
+<content stylecode="bold">Day</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">22</content>
+</td>
+<td align="center" stylecode="BotruleLruleRrule" valign="middle">
+<content stylecode="bold">End</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">Point</content>
+</td>
+<td align="center" stylecode="BotruleLruleRrule" valign="middle">
+<content stylecode="bold">Change Baseline to End point*</content>
+</td>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7" stylecode="Toprule" valign="middle"> Each parameter has a 4-point scale with a numerical rating: </td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="middle"> 0 = normal, 1 = mild, 2 = moderate, 3 = severe. The four parameters are added together to produce a maximum overall DAI of 12. </td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="middle"> * Percent change for overall DAI only (calculated by taking the average of the change for each individual patient). </td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="middle"> † Significant Mesalamine Rectal Suspension Enema/placebo difference. p &amp;lt; 0.01 </td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="middle"> ‡ Significant Mesalamine Rectal Suspension Enema/placebo difference. p &amp;lt; 0.001 </td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="middle"> § Significant Mesalamine Rectal Suspension Enema/placebo difference. p &amp;lt; 0.05 </td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" rowspan="2" stylecode="BotruleLruleRruleToprule" valign="middle">Overall DAI </td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">Mesalamine</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">76</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">7.42</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">4.05†</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">3.37‡</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">-55.07%‡</td>
+</tr>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">Placebo</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">77</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">7.40</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">6.03</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">5.83</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">-21.58%</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" stylecode="BotruleLruleRruleToprule" valign="middle">Stool Frequency</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">Mesalamine</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle"></td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.58</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.11§</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.01†</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">-0.57§</td>
+</tr>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">Placebo</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle"></td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.92</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.47</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.50</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">-0.41</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" stylecode="BotruleLruleRruleToprule" valign="middle">Rectal Bleeding</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">Mesalamine</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle"></td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.82</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">0.59‡</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">0.51‡</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">-1.30‡</td>
+</tr>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">Placebo</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle"></td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.73</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.21</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.11</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">-0.61</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" stylecode="BotruleLruleRruleToprule" valign="middle">Mucosal Inflammation</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">Mesalamine</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle"></td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">2.17</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.22†</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">0.96‡</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">-1.21†</td>
+</tr>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">Placebo</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle"></td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">2.18</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.74</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.61</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">-0.56</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" stylecode="BotruleLruleRruleToprule" valign="middle">Physician's Assessment of Disease Severity</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">Mesalamine</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle"></td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.86</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.13‡</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">0.88‡</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">-0.97‡</td>
+</tr>
+<tr>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle">Placebo</td>
+<td align="left" stylecode="BotruleLruleRruleToprule" valign="middle"></td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.87</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.62</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">1.55</td>
+<td align="center" stylecode="BotruleLruleRruleToprule" valign="middle">-0.30</td>
+</tr>
+</tbody>
+</table>

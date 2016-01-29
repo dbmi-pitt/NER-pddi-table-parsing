@@ -1,0 +1,95 @@
+<table frame="void" id="INV-36aa091b-2a2d-4565-bd55-a918fa513acf" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="184px"></col>
+<col width="72px"></col>
+<col width="72px"></col>
+<col width="72px"></col>
+<col width="72px"></col>
+<col width="72px"></col>
+<col width="72px"></col>
+<tbody>
+<tr>
+<td align="center" colspan="7" stylecode="Botrule">
+<content stylecode="bold">Table 1. Susceptibility Interpretive Criteria for Azithromycin</content>
+<content stylecode="bold">Susceptibility Test Result Interpretive Criteria</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">Pathogen</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule">
+<content stylecode="bold">Minimum Inhibitory Concentrations (mcg/mL)</content>
+</td>
+<td align="center" colspan="3" stylecode="Botrule">
+<content stylecode="bold">Disk Diffusion</content>
+<content stylecode="bold">(zone diameters in mm)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule">   </td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">R<sup>a</sup>
+</content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">S</content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">I</content>
+</td>
+<td align="center" stylecode="Botrule">
+<content stylecode="bold">R<sup>a</sup>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule">
+<content stylecode="italics">Haemophilus </content>spp.
+                      </td>
+<td align="center" stylecode="Botrule"> ≤4 </td>
+<td align="center" stylecode="Botrule"> -- </td>
+<td align="center" stylecode="Botrule"> -- </td>
+<td align="center" stylecode="Botrule"> ≥12 </td>
+<td align="center" stylecode="Botrule">
+ -- </td>
+<td align="center" stylecode="Botrule"> -- </td>
+</tr>
+<tr>
+<td stylecode="Botrule">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td align="center" stylecode="Botrule"> ≤2 </td>
+<td align="center" stylecode="Botrule"> 4 </td>
+<td align="center" stylecode="Botrule"> ≥8 </td>
+<td align="center" stylecode="Botrule"> ≥18 </td>
+<td align="center" stylecode="Botrule"> 14-17 </td>
+<td align="center" stylecode="Botrule"> ≤13 </td>
+</tr>
+<tr>
+<td stylecode="Botrule">Streptococci including S. pneumoniae
+                        <sup>b</sup> 
+                      </td>
+<td align="center" stylecode="Botrule">   ≤0.05 </td>
+<td align="center" stylecode="Botrule">   1 </td>
+<td align="center" stylecode="Botrule">   ≥2 </td>
+<td align="center" stylecode="Botrule">   ≥18 </td>
+<td align="center" stylecode="Botrule">   14-17 </td>
+<td align="center" stylecode="Botrule">   ≤13 </td>
+</tr>
+<tr>
+<td colspan="7" stylecode="Botrule">
+<sup>a</sup>The current absence of data on resistant strains precludes defining any category other than “susceptible”. If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing.
+                        <sup>
+b</sup>Susceptibility of streptococci including
+                        <content stylecode="italics"> S</content>.
+                        <content stylecode="italics">pneumoniae</content> to azithromycin and other macrolides can be predicted by testing erythromycin.
+                      </td>
+</tr>
+</tbody>
+</table>

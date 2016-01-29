@@ -1,0 +1,72 @@
+<table border="1" id="table1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=32).</caption>
+<colgroup>
+<col align="left"></col>
+<col align="center"></col>
+<col align="center"></col>
+<col align="center"></col>
+<col align="center"></col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">
+<content stylecode="bold">Pharmacokinetic Parameter</content>
+</td>
+<td align="center" colspan="2">
+<content stylecode="bold">Tramadol</content>
+</td>
+<td align="center" colspan="2">
+<content stylecode="bold">M1 Metabolite</content>
+</td>
+</tr>
+<tr>
+<td align="center">
+<content stylecode="bold">Tramadol Hydrochloride Extended-Release<br/>200 mg Tablet<br/>Once-Daily</content>
+</td>
+<td>
+<content stylecode="bold">Immediate-Release Tramadol<br/> 50 mg Tablet<br/> Every 6 Hours</content>
+</td>
+<td>
+<content stylecode="bold">Tramadol Hydrochloride Extended-Release<br/>200 mg Tablet<br/> Once-Daily</content>
+</td>
+<td>
+<content stylecode="bold">Immediate-Release Tramadol<br/> 50 mg Tablet<br/> Every 6 Hours</content>
+</td>
+</tr>
+<tr>
+<td>AUC<sub>0-24</sub> (ng∙h/mL)</td>
+<td>5975 (34)</td>
+<td>6613 (27)</td>
+<td>1890 (25)</td>
+<td>2095 (26)</td>
+</tr>
+<tr>
+<td>C<sub>max</sub> (ng/mL)</td>
+<td>335 (35)</td>
+<td>383 (21)</td>
+<td>95 (24)</td>
+<td>104 (24)</td>
+</tr>
+<tr>
+<td>C<sub>min</sub> (ng/mL)</td>
+<td>187 (37)</td>
+<td>228 (32)</td>
+<td>69 (30)</td>
+<td>82 (27)</td>
+</tr>
+<tr>
+<td>T<sub>max</sub> (h)</td>
+<td>12 (27)</td>
+<td>1.5 (42)</td>
+<td>15 (27)</td>
+<td>1.9 (57)</td>
+</tr>
+<tr>
+<td>% Fluctuation</td>
+<td>61 (57)</td>
+<td>59 (35)</td>
+<td>34 (72)</td>
+<td>26 (47)</td>
+</tr>
+</tbody>
+</table>

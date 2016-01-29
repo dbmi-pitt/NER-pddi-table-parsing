@@ -1,0 +1,30 @@
+<table border="single" frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>For testing aerobic microorganisms <footnote id="FOOT_676">Staphylococci exhibiting resistance to methicillin/oxacillin should be reported as also resistant to cefoxitin despite apparent <content stylecode="italics">in vitro</content> susceptibility.</footnote>
+<footnote id="FOOT_677">For testing <content stylecode="italics">Haemophilus influenzae</content> these interpretative criteria applicable only to tests performed by disk diffusion method using Haemophilus Test Medium (HTM) <linkhtml href="#LINK_00f87138-f22b-a9be-fe3e-032f260fed1b">(1)</linkhtml>.</footnote>
+<footnote id="FOOT_678">For testing streptococci these interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO<sub>2</sub>
+<linkhtml href="#LINK_00f87138-f22b-a9be-fe3e-032f260fed1b">(2)</linkhtml>.</footnote> other than Neisseria gonorrhoeae:</caption>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td valign="top">  <content stylecode="bold">Zone Diameter (mm)</content>
+</td>
+<td valign="top">  <content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">  ≥ 18</td>
+<td valign="top">  Susceptible (S)</td>
+</tr>
+<tr>
+<td valign="top">  15-17</td>
+<td valign="top">  Intermediate (I)</td>
+</tr>
+<tr>
+<td valign="top">  ≤ 14</td>
+<td valign="top">  Resistant (R)</td>
+</tr>
+</tbody>
+</table>

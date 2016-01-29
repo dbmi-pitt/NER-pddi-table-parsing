@@ -1,0 +1,753 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="18%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="9%"></col>
+<col span="1" width="9%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Bacteria*</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Minimal Inhibitory Concentration (mcg per mL)</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Zone Diameter (mm)</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">Agar Dilution (mcg per mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">I </content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">S</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">I</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">R</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Acinetobacter spp.</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Doxycyline</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+</td>
+<td> 8 8</td>
+<td>
+<paragraph>
+<content stylecode="bold">≥16</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">≥16</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≥13</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">≥15</content>
+</paragraph>
+</td>
+<td>
+<paragraph>10-12</paragraph>
+<paragraph>12-14</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤9</content>
+</paragraph>
+<paragraph>≤11</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Anaerobes</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>-</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td> -</td>
+<td> -</td>
+<td> -</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">8</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤16</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Bacillus anthracis</content>
+</content>†</paragraph>
+<paragraph>
+<content stylecode="bold">Doxycycline</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline </content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤1</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">≤1</content>
+</paragraph>
+</td>
+<td> - -</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td> - -</td>
+<td> - -</td>
+<td> - -</td>
+<td> - -</td>
+<td>
+<paragraph>-</paragraph>
+<paragraph>-</paragraph>
+</td>
+<td> - -</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Brucella speci</content>es</content>†</paragraph>
+<paragraph>
+<content stylecode="bold">Doxycycline</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤1</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">≤1</content>
+</paragraph>
+</td>
+<td> - -</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td> - -</td>
+<td> - -</td>
+<td> - -</td>
+<td> - -</td>
+<td>
+<paragraph>-</paragraph>
+<paragraph>-</paragraph> -</td>
+<td> - -</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Enterobacteriaceae</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Doxycycline</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+</td>
+<td> 8 8</td>
+<td>
+<paragraph>
+<content stylecode="bold">≥16</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">≥16</content>
+</paragraph>
+</td>
+<td>
+<paragraph>≥14</paragraph>
+<paragraph>≥15</paragraph>
+</td>
+<td>
+<paragraph>11-13</paragraph>
+<paragraph>12-14</paragraph>
+</td>
+<td>
+<paragraph>≤10</paragraph>
+<paragraph>≤11</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Franciscella tularensis</content>
+</content>†</paragraph>
+<paragraph>
+<content stylecode="bold">Doxycyline</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+</td>
+<td> - -</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td> - -</td>
+<td> - -</td>
+<td> - -</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Haemophilus influenzae</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤2</content>
+</paragraph>
+</td>
+<td> 4</td>
+<td>
+<paragraph>
+<content stylecode="bold">≥8</content>
+</paragraph>
+</td>
+<td> -<paragraph>≥29</paragraph>
+</td>
+<td> -<paragraph>26-28</paragraph>
+</td>
+<td> -<paragraph>≤25</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Mycoplasma pneumoniae</content>
+</content>†</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td> -</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td> -</td>
+<td> -</td>
+<td> -</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤2</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="italics">Neisseria gonorrhoeae</content>‡</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline </content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td> -</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>≥38</paragraph>
+</td>
+<td>
+<paragraph>31-37</paragraph>
+</td>
+<td>
+<paragraph>≤30</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤0.25</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">0.5-1</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≥2</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Norcardiae and other aerobic Actinomyces </content>species</content>†</paragraph>
+<paragraph>
+<content stylecode="bold">Doxycycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤1</content>
+</paragraph>
+</td>
+<td>
+<paragraph>2-4</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≥8</content>
+</paragraph>
+</td>
+<td> -</td>
+<td> -</td>
+<td> -</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤2</content>
+</paragraph>
+</td>
+<td> 4</td>
+<td>
+<paragraph>≥8</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≥23</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">19-22</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤18</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Vibrio cholerae</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Doxycycline</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+</td>
+<td> 8 8</td>
+<td>
+<paragraph>≥16</paragraph>
+<paragraph>≥16</paragraph>
+</td>
+<td> -</td>
+<td> -</td>
+<td> -</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Yersinia pestis</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Doxycycline</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">≤4</content>
+</paragraph>
+</td>
+<td> 8 8</td>
+<td>
+<paragraph>≥16</paragraph>
+<paragraph>≥16</paragraph>
+</td>
+<td> -</td>
+<td> -</td>
+<td> -</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Ureaplasma urealyticum</content>
+</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Tetracycline</content>
+</paragraph>
+</td>
+<td> -</td>
+<td> -</td>
+<td> -</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">-</content>
+</paragraph>
+</td>
+<td>
+<paragraph>≤1</paragraph>
+</td>
+<td> -</td>
+<td>
+<paragraph>≥2</paragraph> -</td>
+</tr>
+</tbody>
+</table>

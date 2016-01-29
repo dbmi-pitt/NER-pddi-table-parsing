@@ -1,0 +1,109 @@
+<table id="T9" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9: Pharmacokinetic Parameters (Mean ± SD) of Stavudine in HIV-1-Exposed or - Infected Pediatric Patients</caption>
+<col align="left" valign="top" width="34%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="5%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="5%"></col>
+<col align="center" valign="top" width="17%"></col>
+<col align="center" valign="top" width="5%"></col>
+<thead>
+<tr valign="bottom">
+<th stylecode="Lrule Rrule">Parameter</th>
+<th stylecode="Rrule">Ages 5 weeks to 15 years</th>
+<th stylecode="Rrule">n</th>
+<th stylecode="Rrule">Ages 14 to 28 days</th>
+<th stylecode="Rrule">n</th>
+<th stylecode="Rrule">Day of Birth</th>
+<th stylecode="Rrule">n</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7" valign="top">ND = Not determined.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Oral bioavailability (%)</td>
+<td stylecode="Rrule">76.9 ± 31.7</td>
+<td stylecode="Rrule">20</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Volume of distribution (L/kg)<footnote id="t9fn1">Following 1-hour IV infusion.</footnote>
+</td>
+<td stylecode="Rrule">0.73 ± 0.32</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Ratio of CSF: plasma concentrations (as %)<footnote>At median time of 2.5 hours (range 2–3 hours) following multiple oral doses.</footnote>
+</td>
+<td stylecode="Rrule">59 ± 35</td>
+<td stylecode="Rrule">8</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Total body clearance<br/>(mL/min/kg)<footnoteref idref="t9fn1"></footnoteref>
+</td>
+<td stylecode="Rrule">9.75 ± 3.76</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Apparent oral clearance<br/>(mL/min/kg)<footnote id="t9fn3">Following single oral dose.</footnote>
+</td>
+<td stylecode="Rrule">13.75 ± 4.29</td>
+<td stylecode="Rrule">20</td>
+<td stylecode="Rrule">11.52 ± 5.93</td>
+<td stylecode="Rrule">30</td>
+<td stylecode="Rrule">5.08 ± 2.80</td>
+<td stylecode="Rrule">17</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Elimination half-life, IV dose (h)<footnoteref idref="t9fn1"></footnoteref>
+</td>
+<td stylecode="Rrule">1.11 ± 0.28</td>
+<td stylecode="Rrule">21</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Elimination half-life, oral dose (h)<footnoteref idref="t9fn3"></footnoteref>
+</td>
+<td stylecode="Rrule">0.96 ± 0.26</td>
+<td stylecode="Rrule">20</td>
+<td stylecode="Rrule">1.59 ± 0.29</td>
+<td stylecode="Rrule">30</td>
+<td stylecode="Rrule">5.27 ± 2.01</td>
+<td stylecode="Rrule">17</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Urinary recovery of stavudine<br/>(% of dose)<footnoteref idref="t9fn3"></footnoteref>
+<sup>,</sup>
+<footnote>Over 8 hours.</footnote>
+</td>
+<td stylecode="Rrule">34 ± 16</td>
+<td stylecode="Rrule">19</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule"></td>
+</tr>
+</tbody>
+</table>

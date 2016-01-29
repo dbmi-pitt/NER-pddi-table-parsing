@@ -1,0 +1,55 @@
+<table id="table1" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Pharmacokinetics in Normal Volunteers: Single 8-mg Ondansetron HCl Tablet Dose</caption>
+<col align="right" valign="top" width="13%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="13%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<col align="center" valign="top" width="12%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Lrule Rrule">Age-group (years)</th>
+<th align="left" stylecode="Rrule">Mean Weight (kg)</th>
+<th stylecode="Rrule">n</th>
+<th align="left" stylecode="Rrule">Peak Plasma Concentration (ng/mL)</th>
+<th align="left" stylecode="Rrule">Time of Peak Plasma Concentration<br/>(h)</th>
+<th align="left" stylecode="Rrule">Mean Elimination Half-life<br/>(h)</th>
+<th align="left" stylecode="Rrule">Systemic Plasma Clearance L/h/kg</th>
+<th align="left" stylecode="Rrule">Absolute Bioavailability</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">18-40 M<br/>F</td>
+<td stylecode="Rrule">69.0<br/>62.7</td>
+<td stylecode="Rrule">6<br/>5</td>
+<td stylecode="Rrule">26.2<br/>42.7</td>
+<td stylecode="Rrule">2.0<br/>1.7</td>
+<td stylecode="Rrule">3.1<br/>3.5</td>
+<td stylecode="Rrule">0.403<br/>0.354</td>
+<td stylecode="Rrule">0.483<br/>0.663</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">61-74 M<br/>F</td>
+<td stylecode="Rrule">77.5<br/>60.2</td>
+<td stylecode="Rrule">6<br/>6</td>
+<td stylecode="Rrule">24.1<br/>52.4</td>
+<td stylecode="Rrule">2.1<br/>1.9</td>
+<td stylecode="Rrule">4.1<br/>4.9</td>
+<td stylecode="Rrule">0.384<br/>0.255</td>
+<td stylecode="Rrule">0.585<br/>0.643</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">≥ 75 M<br/>F</td>
+<td stylecode="Rrule">78.0<br/>67.6</td>
+<td stylecode="Rrule">5<br/>6</td>
+<td stylecode="Rrule">37.0<br/>46.1</td>
+<td stylecode="Rrule">2.2<br/>2.1</td>
+<td stylecode="Rrule">4.5<br/>6.2</td>
+<td stylecode="Rrule">0.277<br/>0.249</td>
+<td stylecode="Rrule">0.619<br/>0.747</td>
+</tr>
+</tbody>
+</table>

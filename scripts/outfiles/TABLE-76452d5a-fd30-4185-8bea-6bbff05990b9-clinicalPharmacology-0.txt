@@ -1,0 +1,34 @@
+<table id="table1" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1. Comparisons of the Systemic Availability and Equivalent Doses for Oral Preparations of Digoxin</caption>
+<col align="left" valign="bottom" width="35%"></col>
+<col align="center" valign="bottom" width="25%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<col align="center" valign="bottom" width="10%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Lrule Rrule">Product</th>
+<th stylecode="Rrule">Absolute Bioavailability</th>
+<th colspan="4" stylecode="Rrule">Equivalent Doses (mcg)<footnote>For example, 125-mcg digoxin tablets equivalent to 100-mcg digoxin injection/IV.</footnote> Among Dosage Forms</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule">Digoxin Tablets</td>
+<td stylecode="Rrule">60 to 80%</td>
+<td stylecode="Rrule">62.5</td>
+<td stylecode="Rrule">125</td>
+<td stylecode="Rrule">250</td>
+<td stylecode="Rrule">500</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Digoxin Injection/IV</td>
+<td stylecode="Rrule">100%</td>
+<td stylecode="Rrule">50</td>
+<td stylecode="Rrule">100</td>
+<td stylecode="Rrule">200</td>
+<td stylecode="Rrule">400</td>
+</tr>
+</tbody>
+</table>

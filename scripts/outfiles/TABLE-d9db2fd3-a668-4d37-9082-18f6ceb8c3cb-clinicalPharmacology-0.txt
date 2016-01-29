@@ -1,0 +1,24 @@
+<table id="i4e785b9b-edf0-47b6-8ddb-53f856177daa" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>CONCENTRATION (after 250 mg q12h)</caption>
+<col width="42.1%"></col>
+<col width="32.9%"></col>
+<col width="25%"></col>
+<tbody>
+<tr>
+<td stylecode="    Lrule     " valign="bottom"> <content stylecode="bold">Tissue Type</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule     "> <content stylecode="bold">Tissue </content>(μg/g)</td>
+<td align="center" stylecode="     Botrule          Toprule          Rrule     "> <content stylecode="bold">Serum </content>(μg/mL)</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule     " valign="top"> Tonsil</td>
+<td align="center"> 1.6</td>
+<td align="center" stylecode="     Rrule     "> 0.8</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule     " valign="top"> Lung</td>
+<td align="center" stylecode="     Botrule     "> 8.8</td>
+<td align="center" stylecode="     Botrule          Rrule     "> 1.7</td>
+</tr>
+</tbody>
+</table>

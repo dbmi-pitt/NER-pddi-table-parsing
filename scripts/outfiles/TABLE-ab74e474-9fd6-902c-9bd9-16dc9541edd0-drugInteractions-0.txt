@@ -1,0 +1,198 @@
+<table frame="box" id="table_5" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5. Established Drug Interactions Based on Drug Interaction Trials</caption>
+<colgroup>
+<col width="24%"></col>
+<col width="25%"></col>
+<col width="49%"></col>
+</colgroup>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Concomitant Drug Class: Drug Name</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Effect on Concentration</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Clinical Comments</content>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">ANTIPSYCHOTIC</content>
+</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Toprule Botrule Lrule Rrule">quetiapine<sup>*</sup>
+</td>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule">↑ quetiapine</td>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule">
+<list id="l77241291432297064" listtype="unordered" stylecode="Disc">
+<item>Initiation of VIEKIRA PAK in patients taking quetiapine: Consider alternative anti-HCV therapy to avoid increases in quetiapine exposures. If coadministration is necessary, reduce the quetiapine dose to 1/6<sup>th</sup> of the current dose and monitor for quetiapine-associated adverse reactions. Refer to the quetiapine prescribing information for the recommendations on adverse reaction monitoring.</item>
+<item>Initiation of quetiapine in patients taking VIEKIRA PAK: Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine.</item>
+</list>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">ANTIARRHYTHMICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule">amiodarone<sup>*</sup>,<br/>bepridil<sup>*</sup>,<br/>disopyramide<sup>*</sup>,<br/>flecainide<sup>*</sup>,<br/>lidocaine (systemic)<sup>*</sup>,<br/>mexiletine<sup>*</sup>,<br/>propafenone<sup>*</sup>,<br/>quinidine<sup>*</sup>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ antiarrhythmics</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Caution is warranted and therapeutic concentration monitoring (if available) is recommended for antiarrhythmics when co-administered with VIEKIRA PAK. </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">ANTIFUNGALS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">ketoconazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ ketoconazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule">When VIEKIRA PAK is co-administered with ketoconazole, the maximum daily dose of ketoconazole should be limited to 200 mg per day.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">voriconazole<sup>*</sup>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ voriconazole </td>
+<td stylecode="Toprule Botrule Lrule Rrule">Co-administration of VIEKIRA PAK with voriconazole is not recommended unless an assessment of the benefit-to-risk ratio justifies the use of voriconazole.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">CALCIUM CHANNEL BLOCKERS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">amlodipine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ amlodipine</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Consider dose reduction for amlodipine.  Clinical monitoring is recommended.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">CORTICOSTEROIDS (INHALED/NASAL)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">fluticasone<sup>*</sup>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ fluticasone</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Concomitant use of VIEKIRA PAK with inhaled or nasal fluticasone may reduce serum cortisol concentrations.  Alternative corticosteroids should be considered, particularly for long term use.  </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">DIURETICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">furosemide</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ furosemide (C<sub>max</sub>)</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Clinical monitoring of patients is recommended and therapy should be individualized based on patient’s response.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">HIV-ANTIVIRAL AGENTS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">atazanavir/ritonavir once daily </td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ paritaprevir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">When coadministered with VIEKIRA PAK, atazanavir 300 mg (without ritonavir) should only be given in the morning.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">darunavir/ritonavir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ darunavir (C<sub>trough</sub>)</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Co-administration of VIEKIRA PAK with darunavir/ritonavir  is not recommended.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">lopinavir/ritonavir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ paritaprevir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Co-administration of VIEKIRA PAK with lopinavir/ritonavir is not recommended.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">rilpivirine </td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ rilpivirine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Co-administration of VIEKIRA PAK with rilpivirine once daily is not recommended due to potential for QT interval prolongation with higher concentrations of rilpivirine.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">HMG CoA REDUCTASE INHIBITORS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">rosuvastatin</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ rosuvastatin</td>
+<td stylecode="Toprule Botrule Lrule Rrule">When VIEKIRA PAK is co-administered with rosuvastatin, the dose of rosuvastatin should not exceed 10 mg per day.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">pravastatin</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ pravastatin</td>
+<td stylecode="Toprule Botrule Lrule Rrule">When VIEKIRA PAK is co-administered with pravastatin, the dose of pravastatin should not exceed 40 mg per day.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">IMMUNOSUPPRESSANTS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">cyclosporine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ cyclosporine</td>
+<td stylecode="Toprule Botrule Lrule Rrule">When initiating therapy with VIEKIRA PAK, reduce cyclosporine dose to 1/5<sup>th</sup> of the patient’s current cyclosporine dose. Measure cyclosporine blood concentrations to determine subsequent dose modifications.  Upon completion of VIEKIRA PAK therapy, the appropriate time to resume pre-VIEKIRA PAK dose of cyclosporine should be guided by assessment of cyclosporine blood concentrations. Frequent assessment of renal function and cyclosporine-related side effects is recommended. </td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">tacrolimus</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ tacrolimus</td>
+<td stylecode="Toprule Botrule Lrule Rrule">When initiating therapy with VIEKIRA PAK, the dose of tacrolimus needs to be reduced.  Do not administer tacrolimus on the day VIEKIRA PAK is initiated. Beginning the day after VIEKIRA PAK is initiated; reinitiate tacrolimus at a reduced dose based on tacrolimus blood concentrations.  Typical tacrolimus dosing is 0.5 mg every 7 days.<br/> Measure tacrolimus blood concentrations and adjust dose or dosing frequency to determine subsequent dose modifications.  Upon completion of VIEKIRA PAK therapy, the appropriate time to resume pre-VIEKIRA PAK dose of tacrolimus should be guided by assessment of tacrolimus blood concentrations. Frequent assessment of renal function and tacrolimus related side effects is recommended. </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">LONG ACTING BETA-ADRENOCEPTOR AGONIST</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">salmeterol<sup>*</sup>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ salmeterol</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Concurrent administration of VIEKIRA PAK and salmeterol is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">NARCOTIC ANALGESICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">buprenorphine/naloxone</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ buprenorphine<br/>↑ norbuprenorphine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">No dose adjustment of buprenorphine/naloxone is required upon co-administration with VIEKIRA PAK.  Patients should be closely monitored for sedation and cognitive effects.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">PROTON PUMP INHIBITORS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">omeprazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ omeprazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Monitor patients for decreased efficacy of omeprazole. Consider increasing the omeprazole dose in patients whose symptoms are not well controlled; avoid use of more than 40 mg per day of omeprazole.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">SEDATIVES/HYPNOTICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">alprazolam</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ alprazolam</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Clinical monitoring of patients is recommended. A decrease in alprazolam dose can be considered based on clinical response.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">See Clinical Pharmacology, Tables <linkhtml href="#table_6">6</linkhtml> and <linkhtml href="#table_7">7</linkhtml>
+</content>.<br/>The direction of the arrow indicates the direction of the change in exposures (C<sub>max</sub> and AUC) (↑ =<content stylecode="italics"> increase of more than 20%,</content> ↓ = <content stylecode="italics">decrease of more than 20%,</content> ↔ = <content stylecode="italics">no change or change less than 20%).</content>
+<br/>
+<sup>*</sup>not studied.</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,38 @@
+<table id="id_3a6b569a-711d-4272-9f31-9ff135c0ce62" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_730a3d77-9ba5-44b6-a95e-eea8061e4fb3">Steady-state Pharmacokinetic Parameter Following Multiple Oral and I.V. Doses</caption>
+<col align="left" width="24%"></col>
+<col align="center" width="19%"></col>
+<col align="center" width="19%"></col>
+<col align="center" width="19%"></col>
+<col align="center" width="19%"></col>
+<thead>
+<tr id="id_655ec772-b37c-4586-8215-a509a3021c19" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Parameters </td>
+<td align="left" stylecode="Rrule" valign="top">500 mg<br/>q12h, P.O.</td>
+<td align="left" stylecode="Rrule" valign="top">400 mg<br/>q12h, IV</td>
+<td align="left" stylecode="Rrule" valign="top">750 mg<br/>q12h, P.O.</td>
+<td align="left" stylecode="Rrule" valign="top">400 mg<br/>q8h, IV</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_cdbe3232-d6fd-473e-be14-b9e502ea452c" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">AUC (mcg∙hr/mL) </td>
+<td align="left" stylecode="Rrule" valign="top">13.7<footnote id="id-3c6e630a-48e6-4f8c-bc10-28d46dda00c7">AUC<sub>0–12h</sub>
+</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">12.7<footnoteref idref="id-3c6e630a-48e6-4f8c-bc10-28d46dda00c7"></footnoteref>
+</td>
+<td align="left" stylecode="Rrule" valign="top">31.6<footnote id="id-88dbfc4c-e968-473e-97d5-79d7d7573f41">AUC 24h=AUC<sub>0–12h</sub>×2</footnote>
+</td>
+<td align="left" stylecode="Rrule" valign="top">32.9<footnote id="id-3b8d5610-b790-485e-8f86-5e24a30c3027">AUC 24h=AUC<sub>0–8h</sub>×3</footnote>
+</td>
+</tr>
+<tr id="id_9fe9efc2-3124-4735-b04c-5cce870c5075" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">C<sub>max</sub>(mcg/mL) </td>
+<td align="left" stylecode="Rrule" valign="top">2.97</td>
+<td align="left" stylecode="Rrule" valign="top">4.56</td>
+<td align="left" stylecode="Rrule" valign="top">3.59</td>
+<td align="left" stylecode="Rrule" valign="top">4.07</td>
+</tr>
+</tbody>
+</table>

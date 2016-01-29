@@ -1,0 +1,30 @@
+<table frame="void" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="295"></col>
+<col width="295"></col>
+<tbody>
+<tr>
+<td valign="top"> 
+                                                <content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" valign="top"> 
+                                                <content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+</tr>
+<tr>
+<td valign="top">  ATCC 25922
+                                                <content stylecode="italics">E. coli</content>
+</td>
+<td align="center" valign="top"> 0.5 - 2.0</td>
+</tr>
+<tr>
+<td valign="top">  ATCC 29213
+                                                <content stylecode="italics">S. aureus</content>
+</td>
+<td align="center" valign="top"> 1.0 - 4.0</td>
+</tr>
+<tr>
+<td valign="top"> ªVery medium-dependent.</td>
+<td align="center" valign="top"> </td>
+</tr>
+</tbody>
+</table>

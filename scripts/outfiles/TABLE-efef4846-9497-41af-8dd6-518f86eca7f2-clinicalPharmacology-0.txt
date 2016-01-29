@@ -1,0 +1,128 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 1: Susceptibility Test Interpretive Criteria for Penicillin</caption>
+<col align="left" valign="top" width="16%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<col align="center" valign="top" width="14%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th stylecode="Lrule Rrule"></th>
+<th colspan="3" stylecode="Rrule">MIC (mcg/mL)</th>
+<th colspan="3" stylecode="Rrule">Disk Diffusion (zone diameter in mm)<footnote>Organisms for which no values for disk susceptibility appear cannot be reliably tested with this method.</footnote>
+</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Lrule Rrule">Pathogen</th>
+<th stylecode="Rrule">Susceptible<br/>(S)</th>
+<th stylecode="Rrule">Intermediate<br/>(I)</th>
+<th stylecode="Rrule">Resistant<br/>(R)</th>
+<th stylecode="Rrule">Susceptible<br/>(S)</th>
+<th stylecode="Rrule">Intermediate<br/>(I)</th>
+<th stylecode="Rrule">Resistant<br/>(R)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Staphylococcus </content>spp.</td>
+<td stylecode="Rrule">≤0.12<footnote id="ft1">Penicillin-resistant strains of staphylococci produce β-lactamase. An induced β-lactamase test should be performed on all <content stylecode="italics">S. aureus</content> isolates for which the penicillin MIC is ≤0.12 mcg/mL or zone diameter is ≥29 mm before reporting as penicillin susceptible. Rare isolates of staphylococci that contains genes for β-lactamase production may not produce a positive induced β-lactamase test. For serious infections requiring penicillin therapy, laboratories should perform MIC tests and induced β-lactamase testing on all subsequent isolates from the same patient.<sup>2</sup>
+</footnote>
+</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">≥0.25</td>
+<td stylecode="Rrule">≥29<footnoteref idref="ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">≤28</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Neisseria Gonorrhoeae</content>
+<footnote>A positive <content stylecode="italics">N. gonorrhoeae</content> β-lactamase test predicts one form of resistance to penicillin. Strains with chromosomally mediated resistance can be detected only by agar dilution or disk diffusion susceptibility test methods.<sup>2</sup> Isolates with zone diameters ≤19 mm generally produced β-lactamase.<sup>2,4</sup>
+</footnote>
+</td>
+<td stylecode="Rrule">≤0.06</td>
+<td stylecode="Rrule">0.12 – 1</td>
+<td stylecode="Rrule">≥2</td>
+<td stylecode="Rrule">≥47</td>
+<td stylecode="Rrule">27 − 46</td>
+<td stylecode="Rrule">≤26</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Listeria Monocytogenes</content>
+</td>
+<td stylecode="Rrule">≤2<footnote id="ft2">The current absence of resistant isolates precludes defining results other than "Susceptible". Isolates yielding results suggestive of "Non-susceptible" should be submitted to a reference laboratory for further testing.</footnote>
+</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<br/>
+<content stylecode="bold">(</content>meningitis)</td>
+<td stylecode="Rrule">≤0.06</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">≥0.12</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+<br/>(non-meningitis)</td>
+<td stylecode="Rrule">≤2</td>
+<td stylecode="Rrule">4</td>
+<td stylecode="Rrule">≥8</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus </content>spp., Beta-hemolytic Group<footnote>Susceptibility testing of penicillins for treatment of β-hemolytic streptococcal infections need not be performed routinely, because non-susceptible isolates are extremely rare in any β-hemolytic streptococcus and have not been reported from <content stylecode="italics">Streptococcus pyogenes</content>. Any β-hemolytic streptococcal isolate found to be non-susceptible to penicillin should be re-identified, retested, and, if confirmed, submitted to a public health authority.<sup>2,4</sup>
+</footnote>
+</td>
+<td stylecode="Rrule">≤0.12<footnoteref idref="ft2"></footnoteref>
+</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">≥24<footnoteref idref="ft2"></footnoteref>
+</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus </content>spp., Viridans Group</td>
+<td stylecode="Rrule">≤0.12</td>
+<td stylecode="Rrule">0.25–2</td>
+<td stylecode="Rrule">≥4</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Bacillus anthracis</content>
+<footnote>
+<content stylecode="italics">B. anthracis</content> strains may contain inducible β-lactamases. <content stylecode="italics">In vitro</content> penicillinase induction studies suggest that penicillin MICs may increase during therapy. However, β-lactamase testing of clinical isolates of <content stylecode="italics">B. anthracis </content>is unreliable and should not be performed.<sup>3</sup>
+</footnote>
+</td>
+<td stylecode="Rrule">≤0.12</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">≥0.25</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+<td stylecode="Rrule">−</td>
+</tr>
+</tbody>
+</table>

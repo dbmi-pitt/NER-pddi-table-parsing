@@ -1,0 +1,50 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td align="center" colspan="5" stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<content stylecode="bold">Table 1. Ranitidine Pharmacokinetics in Pediatric </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">Patients Following Oral Dosing</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Population<br/>(age) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> n </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Dosage Form<br/>(dose)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">C<sub>max </sub>
+<br/>(ng/mL)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">T<sub>max </sub>
+<br/>(hours)</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Gastric or duodenal ulcer(3.5 to 16 years)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">12</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Tablets(1 to 2 mg/kg)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">54 to 492</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">2</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Otherwise healthy requiring Ranitidine Oral Solution(0.7 to 14 years, Single dose)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">10</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Oral Solution(2 mg/kg)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">244</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1.61</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Otherwise healthy requiring Ranitidine Oral Solution(0.7 to 14 years, Multiple dose)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">10</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">Oral Solution(2 mg/kg)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">320</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     ">1.66</td>
+</tr>
+</tbody>
+</table>

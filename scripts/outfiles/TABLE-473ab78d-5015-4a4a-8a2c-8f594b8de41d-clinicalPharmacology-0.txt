@@ -1,0 +1,136 @@
+<table id="id_046b36e8-142e-4058-a7d4-87b0e52e4b5c" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_7ac6f43c-38d3-4688-ac98-44dd8953be46">TABLE 1 Ceftriaxone Plasma Concentrations After Single Dose Administration</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_6d677cd4-d072-4e34-91fb-f5b9f5825655" stylecode="Botrule">
+<td align="center" valign="top">Dose/Route</td>
+<td align="center" colspan="9" valign="top"> Average Plasma Concentrations (mcg/mL)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_4ff2a084-6cd7-48c7-a97e-a9046a40fb21" stylecode="Toprule">
+<td align="center" valign="top"> </td>
+<td align="center" stylecode="Toprule" valign="top">0.5 hr</td>
+<td align="center" stylecode="Toprule" valign="top">1 hr</td>
+<td align="center" stylecode="Toprule" valign="top">2 hr</td>
+<td align="center" stylecode="Toprule" valign="top">4 hr</td>
+<td align="center" stylecode="Toprule" valign="top">6 hr</td>
+<td align="center" stylecode="Toprule" valign="top">8 hr</td>
+<td align="center" stylecode="Toprule" valign="top">12 hr</td>
+<td align="center" stylecode="Toprule" valign="top">16 hr</td>
+<td align="center" valign="top">24 hr</td>
+</tr>
+<tr id="id_475022ae-3a32-43bb-9e5f-7030494e7046">
+<td align="center" valign="top">0.5 gm IV<footnote id="id-041c74ff-4a3c-49a1-91e1-ce9a93d3faf3">IV doses were infused at a constant rate over 30 minutes.</footnote>
+</td>
+<td align="center" valign="top">82</td>
+<td align="center" valign="top">59</td>
+<td align="center" valign="top">48</td>
+<td align="center" valign="top">37</td>
+<td align="center" valign="top">29</td>
+<td align="center" valign="top">23</td>
+<td align="center" valign="top">15</td>
+<td align="center" valign="top">10</td>
+<td align="center" valign="top">5</td>
+</tr>
+<tr id="id_e3195a34-312f-426d-a68c-5b970df1d387">
+<td align="center" valign="top">0.5 gm IM</td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr id="id_ec5e5643-fea1-4d23-b4eb-ccbbd7d5c049">
+<td align="center" valign="top">250 mg/mL</td>
+<td align="center" valign="top">22</td>
+<td align="center" valign="top">33</td>
+<td align="center" valign="top">38</td>
+<td align="center" valign="top">35</td>
+<td align="center" valign="top">30</td>
+<td align="center" valign="top">26</td>
+<td align="center" valign="top">16</td>
+<td align="center" valign="top"> ND<footnote id="id-93686821-be1f-43dd-a263-3eb2ffbd8c7a">Not Determined</footnote>
+</td>
+<td align="center" valign="top">5</td>
+</tr>
+<tr id="id_c8dd826a-2a8b-45b9-8db0-22c82f9bf1c2">
+<td align="center" valign="top">0.5 gm IM</td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr id="id_ac6c4372-33b8-45e8-acd5-c134656ba205">
+<td align="center" valign="top">350 mg/mL</td>
+<td align="center" valign="top">20</td>
+<td align="center" valign="top">32</td>
+<td align="center" valign="top">38</td>
+<td align="center" valign="top">34</td>
+<td align="center" valign="top">31</td>
+<td align="center" valign="top">24</td>
+<td align="center" valign="top">16</td>
+<td align="center" valign="top"> ND <footnoteref idref="id-93686821-be1f-43dd-a263-3eb2ffbd8c7a"></footnoteref>
+</td>
+<td align="center" valign="top">5</td>
+</tr>
+<tr id="id_5032b52b-8a64-418e-905e-3059fdc5659f">
+<td align="center" valign="top">1 gm IV <footnoteref idref="id-041c74ff-4a3c-49a1-91e1-ce9a93d3faf3"></footnoteref>
+</td>
+<td align="center" valign="top">151</td>
+<td align="center" valign="top">111</td>
+<td align="center" valign="top">88</td>
+<td align="center" valign="top">67</td>
+<td align="center" valign="top">53</td>
+<td align="center" valign="top">43</td>
+<td align="center" valign="top">28</td>
+<td align="center" valign="top">18</td>
+<td align="center" valign="top">9</td>
+</tr>
+<tr id="id_b23f340a-6008-4c35-9939-decc23b612df">
+<td align="center" valign="top">1 gm IM</td>
+<td align="center" valign="top">40</td>
+<td align="center" valign="top">68</td>
+<td align="center" valign="top">76</td>
+<td align="center" valign="top">68</td>
+<td align="center" valign="top">56</td>
+<td align="center" valign="top">44</td>
+<td align="center" valign="top">29</td>
+<td align="center" valign="top"> ND <footnoteref idref="id-93686821-be1f-43dd-a263-3eb2ffbd8c7a"></footnoteref>
+</td>
+<td align="center" valign="top"> ND <footnoteref idref="id-93686821-be1f-43dd-a263-3eb2ffbd8c7a"></footnoteref>
+</td>
+</tr>
+<tr id="id_328a07ef-857f-4a6d-bb03-838249b51342" stylecode="Botrule">
+<td align="center" valign="top">2 gm IV <footnoteref idref="id-041c74ff-4a3c-49a1-91e1-ce9a93d3faf3"></footnoteref>
+</td>
+<td align="center" valign="top">257</td>
+<td align="center" valign="top">192</td>
+<td align="center" valign="top">154</td>
+<td align="center" valign="top">117</td>
+<td align="center" valign="top">89</td>
+<td align="center" valign="top">74</td>
+<td align="center" valign="top">46</td>
+<td align="center" valign="top">31</td>
+<td align="center" valign="top">15</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,50 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="29%"></col>
+<col width="26%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="italics">Factors:</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="italics">Dosage Adjustments for REXULTI (<linkhtml href="#S2.5">2.5</linkhtml>)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Rrule Lrule Botrule ">
+<paragraph>Strong CYP2D6* or CYP3A4 inhibitors </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Administer half of usual dose</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Rrule Lrule Botrule ">
+<paragraph>Strong/moderate CYP2D6 with Strong/moderate CYP3A4 inhibitors </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Administer a quarter of usual dose</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Rrule Lrule Botrule ">
+<paragraph>Known CYP2D6 Poor Metabolizers taking strong/moderate CYP3A4 inhibitors </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule ">
+<paragraph>Administer a quarter of usual dose</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Strong CYP3A4 inducers </paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>Double the usual dose and further adjust based on clinical response</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

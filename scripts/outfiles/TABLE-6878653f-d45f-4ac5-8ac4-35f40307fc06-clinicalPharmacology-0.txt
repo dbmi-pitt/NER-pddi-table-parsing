@@ -1,0 +1,52 @@
+<table id="id_591493f3-8bff-45fb-ac0b-77468bea0a43" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_1aa60e15-e672-4c4c-920b-75f0cba9be50" stylecode="Botrule">
+<td align="left" stylecode="Botrule" valign="bottom">
+<content stylecode="bold">Accumulation Factor:</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">AUC (0-24 hr, day 15)/AUC (0-24 hr, day 1)</content>
+</td>
+<td align="left" stylecode="Botrule" valign="bottom">
+<content stylecode="bold">Mean Peak Serum Concentration</content>
+</td>
+<td align="left" colspan="2" stylecode="Botrule" valign="bottom">
+<content stylecode="bold">Mean (SD) Post-Steady State Half-Life</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_8d8014eb-c71a-4326-b9f6-ef27f83b38c6" stylecode="Toprule">
+<td align="left" colspan="4" stylecode="Botrule" valign="top"></td>
+</tr>
+<tr id="id_ec26133f-2cd2-4173-a71d-36793d6d26fc">
+<td align="left" valign="top">7-α-(thiomethyl)<br/>spironolactone (TMS)</td>
+<td align="center" valign="top">1.25</td>
+<td align="left" valign="top">391 ng/Ml<br/>at 3.2 hr</td>
+<td align="left" valign="top">13.8 hr (6.4)<br/>(terminal)</td>
+</tr>
+<tr id="id_943817e8-a86b-49a6-835f-1053d4fe484a">
+<td align="left" valign="top">6-β-hydroxy-7-α-<br/>(thiomethyl)<br/>spironolactone (HTMS) </td>
+<td align="center" valign="top">1.50</td>
+<td align="left" valign="top">125 ng/mL<br/>at 5.1 hr</td>
+<td align="left" valign="top">15.0 hr (4.0)<br/>(terminal)</td>
+</tr>
+<tr id="id_f5754d6f-3718-436b-bf6a-2123e909f1b8">
+<td align="left" valign="top">Canrenone (C)</td>
+<td align="center" valign="top">1.41</td>
+<td align="left" valign="top">181 ng/mL<br/>at 4.3 hr</td>
+<td align="left" valign="top">16.5 hr (6.3)<br/>(terminal)</td>
+</tr>
+<tr id="id_f995c2d0-db57-4139-a446-48a27b87cf91" stylecode="Botrule">
+<td align="left" stylecode="Lrule" valign="top">Spironolactone</td>
+<td align="center" valign="top">1.30</td>
+<td align="left" valign="top">80 ng/mL<br/>at 2.6 hr</td>
+<td align="left" stylecode="Botrule" valign="top">Approximately 1.4 hr (0.5) <br/>(β half-life)</td>
+</tr>
+</tbody>
+</table>

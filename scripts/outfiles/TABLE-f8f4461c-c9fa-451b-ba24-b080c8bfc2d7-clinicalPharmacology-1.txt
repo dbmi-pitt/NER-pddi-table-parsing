@@ -1,0 +1,144 @@
+<table id="ID282" width="99%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="34%"></col>
+<col width="19%"></col>
+<col width="14%"></col>
+<col width="16%"></col>
+<col width="16%"></col>
+<tbody>
+<tr>
+<td align="justify" colspan="5" stylecode=" Botrule Toprule" valign="top">
+<content stylecode="bold">Steady</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">state </content>
+<content stylecode="bold">Pharmacokinetic </content>
+<content stylecode="bold">Parameters </content>
+<content stylecode="bold">Following </content>
+<content stylecode="bold">Multiple </content>
+<content stylecode="bold">Oral </content>
+<content stylecode="bold">and </content>
+<content stylecode="bold">IV </content>
+<content stylecode="bold">Doses</content>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Toprule" valign="top">Parameters<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">500 mg<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">400 mg<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">750 mg<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">400 mg<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" valign="top">AUC (mcg•hr/mL)<br/>
+</td>
+<td align="center" valign="top">q12h, P.O.<br/>
+</td>
+<td align="center" valign="top">q12h, IV<br/>
+</td>
+<td align="center" valign="top">q12h, P.O.<br/>
+</td>
+<td align="center" valign="top">q8h, IV<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">13.7<sup>a</sup>
+<br/>
+</td>
+<td align="center" valign="top">12.7<sup>a</sup>
+<br/>
+</td>
+<td align="center" valign="top">31.6<sup>b</sup>
+<br/>
+</td>
+<td align="center" valign="top">32.9<sup>c</sup>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="justify" stylecode=" Botrule" valign="top">C<sub>m</sub>
+<sub>a</sub>
+<sub>x</sub>
+<sub> </sub>(mcg/mL)<br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">2.97<br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">4.56<br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">3.59<br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">4.07<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Toprule" valign="top">
+<sup>a</sup>AUC <sub>0</sub>
+<sub>-</sub>
+<sub>1</sub>
+<sub>2</sub>
+<sub>h</sub>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode=" Toprule" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<sup>b</sup>AUC 24h=AUC<sub>0</sub>
+<sub>-</sub>
+<sub>1</sub>
+<sub>2</sub>
+<sub>h</sub>
+<sub> </sub>x 2<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode=" Botrule" valign="top">
+<sup>c</sup>AUC 24h=AUC<sub>0</sub>
+<sub>-</sub>
+<sub>8</sub>
+<sub>h</sub> x 3<br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode=" Botrule" valign="top">
+<br/>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,33 @@
+<table id="table_15" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col span="1" width="57%"></col>
+<col span="1" width="42%"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Susceptibility Test Interpretive Criteria for <content stylecode="italics">H. pylori</content>
+</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Clarithromycin MIC (mcg/mL)  <sup>j</sup>
+</content>
+</td>
+<td>
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+<tr>
+<td>≤ 0.25</td>
+<td>Susceptible (S)</td>
+</tr>
+<tr>
+<td>0.5</td>
+<td>Intermediate (I)</td>
+</tr>
+<tr>
+<td>≥ 1.0</td>
+<td>Resistant (R)</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,667 @@
+<table id="_RefID0EXPAG" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7. Established and Other Potentially Significant Drug Interactions</caption>
+<col span="1" width="38%"></col>
+<col span="1" width="26%"></col>
+<col span="1" width="51%"></col>
+<tbody>
+<tr>
+<td>
+<paragraph>Concomitant Drug Class: Drug Name</paragraph>
+</td>
+<td>
+<paragraph>Effect on Concentration of Amprenavir or Concomitant Drug</paragraph>
+</td>
+<td>
+<paragraph>Clinical Comment</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">HCV/HIV-Antiviral Agents</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">HCV protease inhibitor:</content>
+</paragraph>
+<paragraph>Telaprevir<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>↓Telaprevir</paragraph>
+</td>
+<td>
+<paragraph>Coadministration of LEXIVA/ritonavir and telaprevir is not recommended. </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">HCV protease inhibitor:</content>
+</paragraph>
+<paragraph>Boceprevir</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↓Amprenavir (predicted)</paragraph>
+<paragraph>↓Boceprevir (predicted)</paragraph>
+</td>
+<td>
+<paragraph>Coadministration of LEXIVA/ritonavir and boceprevir is not recommended.</paragraph>
+<paragraph>A pharmacokinetic interaction has been reported between boceprevir and some HIV protease inhibitors in combination with ritonavir, leading to decreased HIV protease inhibitor concentrations and, in some cases, decreased boceprevir concentrations. </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Non-nucleoside reverse transcriptase inhibitor:</content> Efavirenz<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+</td>
+<td>
+<paragraph>Appropriate doses of the combinations with respect to safety and efficacy have not been established. </paragraph>
+<paragraph>An additional 100 mg/day (300 mg total) of ritonavir is recommended when efavirenz is administered with LEXIVA/ritonavir once daily. No change in the ritonavir dose is required when efavirenz is administered with LEXIVA plus ritonavir twice daily. </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Non-nucleoside reverse transcriptase inhibitor:</content>
+</paragraph>
+<paragraph>Nevirapine<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>↓Amprenavir </paragraph>
+<paragraph>↑Nevirapine</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>↑Nevirapine</paragraph>
+</td>
+<td>
+<paragraph>Coadministration of nevirapine and LEXIVA without ritonavir is not recommended.</paragraph>
+<paragraph>No dosage adjustment required when nevirapine is administered with LEXIVA/ritonavir twice daily. </paragraph>
+<paragraph>The combination of nevirapine administered with LEXIVA/ritonavir once-daily regimen has not been studied.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">HIV protease inhibitor:</content>
+</paragraph>
+<paragraph>Atazanavir<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>Interaction has not been evaluated.</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↓Atazanavir</paragraph>
+<paragraph>↔Amprenavir</paragraph>
+</td>
+<td>
+<paragraph>Appropriate doses of the combinations with respect to safety and efficacy have not been established.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">HIV protease inhibitors:</content>
+</paragraph>
+<paragraph>Indinavir<sup>a</sup>, nelfinavir<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>↑Amprenavir</paragraph>
+<paragraph>Effect on indinavir and nelfinavir is not well established.</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content> Interaction has not been evaluated.</paragraph>
+</td>
+<td>
+<paragraph>Appropriate doses of the combinations with respect to safety and efficacy have not been established. </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">HIV protease inhibitors:</content>
+</paragraph>
+<paragraph>Lopinavir/ritonavir<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>↓Lopinavir</paragraph>
+</td>
+<td>
+<paragraph>An increased rate of adverse events has been observed. Appropriate doses of the combinations with respect to safety and efficacy have not been established.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">HIV protease inhibitor:</content>
+</paragraph>
+<paragraph>Saquinavir<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>Effect on saquinavir is not well established.</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content> Interaction has not been evaluated.</paragraph>
+</td>
+<td>
+<paragraph>Appropriate doses of the combination with respect to safety and efficacy have not been established.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">HIV integrase inhibitor:</content>
+</paragraph>
+<paragraph>Raltegravir<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>↓Raltegravir</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>↓Raltegravir</paragraph>
+</td>
+<td>
+<paragraph>Appropriate doses of the combination with respect to safety and efficacy have not been established.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">HIV CCR5 co-receptor antagonist:</content>
+</paragraph>
+<paragraph>Maraviroc<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>↑Maraviroc</paragraph>
+</td>
+<td>
+<paragraph>No dosage adjustment required for LEXIVA/ritonavir. The recommended dose of maraviroc is 150 mg twice daily when coadministered with LEXIVA/ritonavir. LEXIVA should be given with ritonavir when coadministered with maraviroc.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">
+<content stylecode="italics">Other Agents</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Antiarrhythmics:</content>
+</paragraph>
+<paragraph>Amiodarone, bepridil, lidocaine (systemic), and quinidine</paragraph>
+</td>
+<td>
+<paragraph>↑Antiarrhythmics</paragraph>
+</td>
+<td>
+<paragraph>Use with caution. Increased exposure may be associated with life-threatening reactions such as cardiac arrhythmias. Therapeutic concentration monitoring, if available, is recommended for antiarrhythmics. </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Anticoagulant:</content>
+</paragraph>
+<paragraph>Warfarin</paragraph>
+</td>
+<td></td>
+<td>
+<paragraph>Concentrations of warfarin may be affected. It is recommended that INR (international normalized ratio) be monitored. </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Anticonvulsants:</content>
+</paragraph>
+<paragraph>Carbamazepine, phenobarbital, phenytoin</paragraph>
+<paragraph>Phenytoin<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↑Amprenavir</paragraph>
+<paragraph>↓Phenytoin</paragraph>
+</td>
+<td>
+<paragraph>Use with caution. LEXIVA may be less effective due to decreased amprenavir plasma concentrations in patients taking these agents concomitantly. </paragraph>
+<paragraph>Plasma phenytoin concentrations should be monitored and phenytoin dose should be increased as appropriate. No change in LEXIVA/ritonavir dose is recommended.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Antidepressant:</content>
+</paragraph>
+<paragraph>Paroxetine, trazodone</paragraph>
+</td>
+<td>
+<paragraph>↓Paroxetine</paragraph>
+<paragraph>↑Trazodone</paragraph>
+</td>
+<td>
+<paragraph>Coadministration of paroxetine with LEXIVA/ritonavir significantly decreased plasma levels of paroxetine. Any paroxetine dose adjustment should be guided by clinical effect (tolerability and efficacy).</paragraph>
+<paragraph>Concomitant use of trazodone and LEXIVA with or without ritonavir may increase plasma concentrations of trazodone. Adverse events of nausea, dizziness, hypotension, and syncope have been observed following coadministration of trazodone and ritonavir. If trazodone is used with a CYP3A4 inhibitor such as LEXIVA, the combination should be used with caution and a lower dose of trazodone should be considered.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Antifungals:</content>
+</paragraph>
+<paragraph>Ketoconazole<sup>a</sup>, itraconazole</paragraph>
+</td>
+<td>
+<paragraph>↑Ketoconazole</paragraph>
+<paragraph>↑Itraconazole</paragraph>
+</td>
+<td>
+<paragraph>Increase monitoring for adverse events. </paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>Dose reduction of ketoconazole or itraconazole may be needed for patients receiving more than 400 mg ketoconazole or itraconazole per day. </paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>High doses of ketoconazole or itraconazole (greater than 200 mg/day) are not recommended.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Anti-gout:</content>
+</paragraph>
+<paragraph>Colchicine</paragraph>
+</td>
+<td>
+<paragraph>↑Colchicine</paragraph>
+</td>
+<td>
+<paragraph>Patients with renal or hepatic impairment should not be given colchicine with LEXIVA/ritonavir.</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir and coadministration of colchicine:</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Treatment of gout flares:</content>
+</paragraph>
+<paragraph>0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Dose to be repeated no earlier than 3 days.</paragraph>
+<paragraph>
+<content stylecode="bold">Prophylaxis of gout flares:</content>
+</paragraph>
+<paragraph>If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. <br/>If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day.</paragraph>
+<paragraph>
+<content stylecode="bold">Treatment of familial Mediterranean fever (FMF):</content>
+</paragraph>
+<paragraph>Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day).</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA and coadministration of colchicine:</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Treatment of gout flares:</content>
+</paragraph>
+<paragraph>1.2 mg (2 tablets) x 1 dose. Dose to be repeated no earlier than 3 days.</paragraph>
+<paragraph>
+<content stylecode="bold">Prophylaxis of gout flares</content>:</paragraph>
+<paragraph>If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg twice a day or 0.6 mg once a day. <br/>If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once a day.</paragraph>
+<paragraph>
+<content stylecode="bold">Treatment of FMF:</content>
+</paragraph>
+<paragraph>Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day).</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Antimycobacterial:</content>
+</paragraph>
+<paragraph>Rifabutin<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>↑Rifabutin and rifabutin metabolite</paragraph>
+</td>
+<td>
+<paragraph>A complete blood count should be performed weekly and as clinically indicated to monitor for neutropenia. </paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>A dosage reduction of rifabutin by at least half the recommended dose is required. </paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>Dosage reduction of rifabutin by at least 75% of the usual dose of 300 mg/day is recommended (a maximum dose of 150 mg every other day or 3 times per week).</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Benzodiazepines: </content>
+</paragraph>
+<paragraph>Alprazolam, clorazepate, diazepam, flurazepam</paragraph>
+</td>
+<td>
+<paragraph>↑Benzodiazepines</paragraph>
+</td>
+<td>
+<paragraph>Clinical significance is unknown. A decrease in benzodiazepine dose may be needed. </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Calcium channel blockers:</content>
+</paragraph>
+<paragraph>Diltiazem, felodipine, nifedipine, nicardipine, nimodipine, verapamil, amlodipine, nisoldipine, isradipine</paragraph>
+</td>
+<td>
+<paragraph>↑Calcium channel blockers</paragraph>
+</td>
+<td>
+<paragraph>Use with caution. Clinical monitoring of patients is recommended. </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Corticosteroid:</content> Dexamethasone</paragraph>
+</td>
+<td>
+<paragraph>↓Amprenavir</paragraph>
+</td>
+<td>
+<paragraph>Use with caution. LEXIVA may be less effective due to decreased amprenavir plasma concentrations. </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Endothelin-receptor antagonists:</content>
+</paragraph>
+<paragraph>Bosentan</paragraph>
+</td>
+<td>
+<paragraph>↑Bosentan</paragraph>
+</td>
+<td>
+<paragraph>Coadministration of bosentan in patients on LEXIVA:</paragraph>
+<paragraph>In patients who have been receiving LEXIVA for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability.</paragraph>
+<paragraph>Coadministration of LEXIVA in patients on bosentan:</paragraph>
+<paragraph>Discontinue use of bosentan at least 36 hours prior to initiation of LEXIVA.</paragraph>
+<paragraph>After at least 10 days following the initiation of LEXIVA, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Histamine H<sub>2</sub>-receptor antagonists:</content>
+</paragraph>
+<paragraph>Cimetidine, famotidine, nizatidine, ranitidine<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>Interaction not evaluated</paragraph>
+</td>
+<td>
+<paragraph>Use with caution. LEXIVA may be less effective due to decreased amprenavir plasma concentrations.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">HMG-CoA reductase inhibitors:</content>
+</paragraph>
+<paragraph>Atorvastatin<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>↑Atorvastatin</paragraph>
+</td>
+<td>
+<paragraph>Titrate atorvastatin dose carefully and use the lowest necessary dose; do not exceed atorvastatin 20 mg/day.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Immunosuppressants:</content>
+</paragraph>
+<paragraph>Cyclosporine, tacrolimus, rapamycin</paragraph>
+</td>
+<td>
+<paragraph>↑Immunosuppressants</paragraph>
+</td>
+<td>
+<paragraph>Therapeutic concentration monitoring is recommended for immunosuppressant agents. </paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Inhaled beta-agonist:</content>
+</paragraph>
+<paragraph>Salmeterol</paragraph>
+</td>
+<td>
+<paragraph>↑Salmeterol</paragraph>
+</td>
+<td>
+<paragraph>Concurrent administration of salmeterol with LEXIVA is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations, and sinus tachycardia.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Inhaled/nasal steroid:</content>
+</paragraph>
+<paragraph>Fluticasone</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>↑Fluticasone</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↑Fluticasone</paragraph>
+</td>
+<td>
+<paragraph>Use with caution. Consider alternatives to fluticasone, particularly for long-term use.</paragraph>
+<paragraph>May result in significantly reduced serum cortisol concentrations. Systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression have been reported during postmarketing use in patients receiving ritonavir and inhaled or intranasally administered fluticasone. Coadministration of fluticasone and LEXIVA/ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Narcotic analgesic:</content>
+</paragraph>
+<paragraph>Methadone</paragraph>
+</td>
+<td>
+<paragraph>↓Methadone</paragraph>
+</td>
+<td>
+<paragraph>Data suggest that the interaction is not clinically relevant; however, patients should be monitored for opiate withdrawal symptoms.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Oral contraceptives:</content>
+</paragraph>
+<paragraph>Ethinyl estradiol/norethindrone<sup>a</sup>
+</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>↓Amprenavir</paragraph>
+<paragraph>↓Ethinyl estradiol</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↓Ethinyl estradiol</paragraph>
+</td>
+<td>
+<paragraph>Alternative methods of non-hormonal contraception are recommended.</paragraph>
+<paragraph>May lead to loss of virologic response. <sup>a</sup>
+</paragraph>
+<paragraph>Increased risk of transaminase elevations. No data are available on the use of LEXIVA/ritonavir with other hormonal therapies, such as hormone replacement therapy (HRT) for postmenopausal women.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">PDE5 inhibitors:</content>
+</paragraph>
+<paragraph>Sildenafil, tadalafil, vardenafil</paragraph>
+</td>
+<td>
+<paragraph>↑Sildenafil</paragraph>
+<paragraph>↑Tadalafil</paragraph>
+<paragraph>↑Vardenafil</paragraph>
+</td>
+<td>
+<paragraph>May result in an increase in PDE5 inhibitor-associated adverse events, including hypotension, syncope, visual disturbances, and priapism.</paragraph>
+<paragraph>
+<content stylecode="underline">Use of PDE5 inhibitors for pulmonary arterial hypertension (PAH):</content>
+</paragraph>•Use of sildenafil (REVATIO) is contraindicated when used for the treatment of PAH <content stylecode="italics">[see Contraindications (4)]. </content>•<content stylecode="underline">The following dose adjustments are recommended for use of tadalafil (ADCIRCA<sup>®</sup>) with LEXIVA:</content>
+<paragraph>
+<content stylecode="underline">Coadministration of ADCIRCA in patients on LEXIVA:</content>
+</paragraph>
+<paragraph>In patients receiving LEXIVA for at least one week, start ADCIRCA at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.</paragraph>
+<paragraph>
+<content stylecode="underline">Coadministration of LEXIVA in patients on ADCIRCA:</content>
+</paragraph>
+<paragraph>Avoid use of ADCIRCA during the initiation of LEXIVA. Stop ADCIRCA at least 24 hours prior to starting LEXIVA. After at least one week following the initiation of LEXIVA, resume ADCIRCA at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.</paragraph>
+<paragraph>
+<content stylecode="underline">Use of PDE5 inhibitors for erectile dysfunction:</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>Sildenafil: 25 mg every 48 hours. </paragraph>
+<paragraph>Tadalafil: no more than 10 mg every 72 hours. </paragraph>
+<paragraph>Vardenafil: no more than 2.5 mg every 24 hours. </paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>Sildenafil: 25 mg every 48 hours.</paragraph>
+<paragraph>Tadalafil: no more than 10 mg every 72 hours.</paragraph>
+<paragraph>Vardenafil: no more than 2.5 mg every 72 hours.</paragraph>
+<paragraph>Use with increased monitoring for adverse events.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Proton pump inhibitors:</content>
+</paragraph>
+<paragraph>Esomeprazole<sup>a</sup>, lansoprazole, omeprazole, pantoprazole, rabeprazole</paragraph>
+</td>
+<td>
+<paragraph>
+<content stylecode="bold">LEXIVA:</content>
+</paragraph>
+<paragraph>↔Amprenavir</paragraph>
+<paragraph>↑Esomeprazole</paragraph>
+<paragraph>
+<content stylecode="bold">LEXIVA/ritonavir:</content>
+</paragraph>
+<paragraph>↔Amprenavir</paragraph>
+<paragraph>↔Esomeprazole</paragraph>
+</td>
+<td>
+<paragraph>Proton pump inhibitors can be administered at the same time as a dose of LEXIVA with no change in plasma amprenavir concentrations.</paragraph>
+</td>
+</tr>
+<tr>
+<td>
+<paragraph>
+<content stylecode="bold">Tricyclic antidepressants:</content>
+</paragraph>
+<paragraph>Amitriptyline, imipramine</paragraph>
+</td>
+<td>
+<paragraph>↑Tricyclics</paragraph>
+</td>
+<td>
+<paragraph>Therapeutic concentration monitoring is recommended for tricyclic antidepressants. </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

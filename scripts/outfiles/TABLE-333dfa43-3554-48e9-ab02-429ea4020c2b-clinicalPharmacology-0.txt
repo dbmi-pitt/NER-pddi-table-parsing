@@ -1,0 +1,345 @@
+<table id="id_f69448fb-ba5f-41af-80fc-a981e9865f7a" width="428.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="16.1%"></col>
+<col width="9.1%"></col>
+<col width="12.1%"></col>
+<col width="12.1%"></col>
+<col width="9.1%"></col>
+<col width="9.1%"></col>
+<col width="10.0%"></col>
+<col width="10.0%"></col>
+<col width="12.1%"></col>
+<thead>
+<tr id="id_0dbe664b-680b-4162-abbd-023666fa0f2f">
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" colspan="4" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Symptom Score </content>
+<br/>
+<content stylecode="bold">(Range 0-27)</content>
+</td>
+<td align="left" colspan="4" stylecode="Lrule Botrule" valign="top">
+<content stylecode="bold">Peak Flow Rate </content>
+<br/>
+<content stylecode="bold">(mL/sec)</content>
+</td>
+</tr>
+<tr id="id_d3b552b6-65fd-46ca-807e-8d8fa944ce8b">
+<td align="left" stylecode="Botrule Rrule" valign="top"></td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">N</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Mean Baseline</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Mean Change</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">(%)</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">N</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Mean Baseline</content>
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<content stylecode="bold">Mean Change</content>
+</td>
+<td align="left" stylecode="Lrule Botrule" valign="top">
+<content stylecode="bold">(%)</content>
+</td>
+</tr>
+</thead>
+<tfoot id="id_4aebb737-c5d5-48f6-8d5d-a6f19d1d165e">
+<tr>
+<td align="left" colspan="9" stylecode="Botrule" valign="top">a   Highest dose 10 mg shown.</td>
+</tr>
+<tr>
+<td align="left" colspan="9" stylecode="Botrule" valign="top">b   23% of patients on 10 mg, 41% of patients on 20 mg.</td>
+</tr>
+<tr>
+<td align="left" colspan="9" stylecode="Botrule" valign="top">c  67% of patients on 10 mg.</td>
+</tr>
+<tr>
+<td align="left" colspan="9" stylecode="Lrule Botrule" valign="top">*   Significantly (p ≤ 0.05) more improvement than placebo.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_9abedb60-9729-42c1-9d91-9218f6201231">
+<td align="left" stylecode="Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">Study 1</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">(10 mg)</content>
+<sup>a</sup>
+</paragraph>
+</td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_6466908c-c877-4eef-ac3c-fae6c4110ca4">
+<td align="left" valign="top">
+<paragraph>
+<content stylecode="bold">Titration to fixed dose (12 wks)</content>
+</paragraph>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_2e7b5aa5-0be8-448a-ad36-3c9236de8d0e">
+<td align="left" valign="top">
+<paragraph>    Placebo</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>55</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>9.7</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>-2.3</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(24)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>54</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>10.1</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>+1.0</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(10)</paragraph>
+</td>
+</tr>
+<tr id="id_e262f85b-685b-4f97-aae7-c76620f151af">
+<td align="left" valign="top">
+<paragraph>    Terazosin</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>54</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>10.1</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>-4.5</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(45)*</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>52</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>8.8</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>+3.0</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(34)*</paragraph>
+</td>
+</tr>
+<tr id="id_bfd0bf2e-0942-41a9-941d-c272fae70ea1">
+<td align="left" valign="top">
+<paragraph>
+<content stylecode="bold">Study 2</content>
+</paragraph>
+</td>
+<td align="left" colspan="2" valign="top">
+<paragraph>
+<content stylecode="bold">(2, 5, 10, 20 mg)</content>
+<sup>b</sup>
+</paragraph>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_8403c2f3-a907-4468-b1af-89ef108a5dd4">
+<td align="left" valign="top">
+<paragraph>
+<content stylecode="bold">Titration to response (24 wks)</content>
+</paragraph>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_16b5dfaa-bbae-4211-9ea4-44b7eac6a46d">
+<td align="left" valign="top">
+<paragraph>    Placebo</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>89</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>12.5</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>-3.8</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(30)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>88</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>8.8</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>+1.4</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(16)</paragraph>
+</td>
+</tr>
+<tr id="id_336f7497-a69b-47e7-a170-a9c65da4c64f">
+<td align="left" valign="top">
+<paragraph>    Terazosin</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>85</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>12.2</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>-5.3</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(43)*</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>84</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>8.4</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>+2.9</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(35)*</paragraph>
+</td>
+</tr>
+<tr id="id_13b9e73a-dc8e-4edf-8f13-f426c4905787">
+<td align="left" valign="top">
+<paragraph>
+<content stylecode="bold">Study 3</content>
+</paragraph>
+</td>
+<td align="left" colspan="2" valign="top">
+<paragraph>
+<content stylecode="bold">(1, 2, 5, 10 mg)</content>
+<sup>c</sup>
+</paragraph>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_d24782b7-073d-4013-85e2-68448e6023b8">
+<td align="left" valign="top">
+<paragraph>
+<content stylecode="bold">Titration to response (24 wks)</content>
+</paragraph>
+</td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_fe95d806-59df-489a-8e1c-6bf34c320fb6">
+<td align="left" valign="top">
+<paragraph>    Placebo</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>74</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>10.4</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>-1.1</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(11)</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>74</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>8.8</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>+1.2</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>(14)</paragraph>
+</td>
+</tr>
+<tr id="id_a6d0c62c-e64c-4426-9e84-4ebd4668199e">
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>    Terazosin</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>73</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>10.9</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>-4.6</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>(42)*</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>73</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>8.6</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>+2.6</paragraph>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<paragraph>(30)*</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

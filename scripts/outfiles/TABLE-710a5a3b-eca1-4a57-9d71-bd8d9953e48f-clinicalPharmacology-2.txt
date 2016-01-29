@@ -1,0 +1,45 @@
+<table id="ID22" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="67%"></col>
+<col width="33%"></col>
+<tbody>
+<tr>
+<td align="center" valign="top">
+<content stylecode="underline">Microorganism</content>
+<content stylecode="underline">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">MIC </content>
+<content stylecode="underline">(</content>
+<content stylecode="underline">mcg</content>
+<content stylecode="underline">/</content>
+<content stylecode="underline">mL</content>
+<content stylecode="underline">)</content>
+<content stylecode="underline">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">ATCC 25922
+                                                <content stylecode="italics">Escherichia </content>
+<content stylecode="italics">coli </content>
+<br/>
+</td>
+<td align="center" valign="top">2-8
+                                                <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">ATCC 29213
+                                                <content stylecode="italics">Staphylococcus </content>
+<content stylecode="italics">aureus </content>
+<br/>
+</td>
+<td align="center" valign="top">0.5-2
+                                                <br/>
+</td>
+</tr>
+</tbody>
+</table>

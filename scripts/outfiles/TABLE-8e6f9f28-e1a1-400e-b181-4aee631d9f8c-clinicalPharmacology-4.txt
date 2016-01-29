@@ -1,0 +1,72 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="40%"></col>
+<col width="23%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="underline">Microorganism</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="underline">MIC Range (mcg/mL)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Escherichia coli </content>ATCC 25922</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>2 to 8</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Escherichia coli </content>ATCC 35218</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>4 to 16</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Enterococcus faecalis </content>ATCC 29212</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>0.25 to 1.0</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Haemophilus influenzae </content>ATCC 49247</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>2 to 16</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Staphylococcus aureus </content>ATCC 29213</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>0.12 to 0.5</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Streptococcus pneumoniae </content>ATCC 49619</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="middle">
+<paragraph>0.03 to 0.12</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

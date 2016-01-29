@@ -1,0 +1,63 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td valign="top"> </td>
+<td align="center" colspan="2" valign="top"> Adults given 50 mg once daily for 7 days N=12</td>
+<td align="center" colspan="2" valign="top"> Age 6 to 16 given 0.7 mg/kg once daily for 7 days N=25</td>
+</tr>
+<tr>
+<td valign="top"> </td>
+<td align="center" valign="top"> Parent</td>
+<td align="center" valign="top"> Active Metabolite</td>
+<td align="center" valign="top"> Parent</td>
+<td align="center" valign="top"> Active Metabolite</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"> AUC<sub>0 to 24</sub> (ng·h/mL)<footnote id="FOOT_6615">Mean ± standard deviation</footnote>
+</td>
+<td align="center" valign="top"> 442 ± 173</td>
+<td align="center" valign="top"> 1685 ± 452</td>
+<td align="center" valign="top"> 368 ± 169</td>
+<td align="center" valign="top"> 1866 ± 1076</td>
+</tr>
+<tr>
+<td valign="top"> C<sub>MAX</sub> (ng/mL)<footnoteref idref="FOOT_6615"></footnoteref>
+</td>
+<td align="center" valign="top"> 224 ± 82</td>
+<td align="center" valign="top"> 212 ± 73</td>
+<td align="center" valign="top"> 141 ± 88</td>
+<td align="center" valign="top"> 222 ± 127</td>
+</tr>
+<tr>
+<td valign="top"> T<sub>1/2</sub> (h)<footnote id="FOOT_6616">Harmonic mean and standard deviation</footnote>
+</td>
+<td align="center" valign="top"> 2.1 ± 0.70</td>
+<td align="center" valign="top"> 7.4 ± 2.4</td>
+<td align="center" valign="top"> 2.3 ± 0.8</td>
+<td align="center" valign="top"> 5.6 ± 1.2</td>
+</tr>
+<tr>
+<td valign="top"> T<sub>PEAK</sub> (h)<footnote id="FOOT_6617">Median</footnote>
+</td>
+<td align="center" valign="top"> 0.9</td>
+<td align="center" valign="top"> 3.5</td>
+<td align="center" valign="top"> 2.0</td>
+<td align="center" valign="top"> 4.1</td>
+</tr>
+<tr>
+<td valign="top"> CL<sub>REN</sub> (mL/min)<footnoteref idref="FOOT_6615"></footnoteref>
+</td>
+<td align="center" valign="top"> 56 ± 23</td>
+<td align="center" valign="top"> 20 ± 3</td>
+<td align="center" valign="top"> 53 ± 33</td>
+<td align="center" valign="top"> 17 ± 8</td>
+</tr>
+</tbody>
+</table>

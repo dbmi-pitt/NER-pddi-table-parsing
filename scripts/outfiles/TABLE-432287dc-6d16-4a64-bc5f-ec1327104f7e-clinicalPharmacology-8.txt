@@ -1,0 +1,19 @@
+<table border="1" id="id_4689c9ac-848f-4f50-a715-217d7d0f6995" width="345.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="49.9%"></col>
+<col width="25.5%"></col>
+<col width="24.6%"></col>
+<tbody>
+<tr id="id_8e1e56e7-7c62-47be-87d0-275542efcc4e">
+<td align="center" colspan="2" stylecode="Botrule Toprule Rrule Lrule" valign="top"> Microorganism </td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> MIC Range (mcg/mL) </td>
+</tr>
+<tr id="id_20c8eef8-3d5c-4068-8483-3cd6a38a6579">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<content stylecode="italics">S. pneumoniae</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top"> ATCC 49619<footnote id="id-ce70f1d8-fa89-464c-a1b9-958f799f98c9">This quality control range is applicable to only <content stylecode="italics">S. pneumoniae</content> ATCC 49619 tested by the broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="top"> 0.03 to 0.12 </td>
+</tr>
+</tbody>
+</table>

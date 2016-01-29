@@ -1,0 +1,815 @@
+<table id="id_8c193e3b-edeb-4535-82af-39f69cd358db" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_133efa17-f183-4822-a987-327257c3e779">Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes<sup>a</sup>
+</caption>
+<col width="16%"></col>
+<col width="17%"></col>
+<col width="20%"></col>
+<col width="13%"></col>
+<col width="13%"></col>
+<col width="12%"></col>
+<col width="9%"></col>
+<tfoot id="id_15a325f6-ab9b-435d-9682-c9c4a1a0f5cb">
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph>a Includes only patients with pretreatment clarithromycin susceptibility tests <br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" valign="top">
+<paragraph>b Susceptible (S) MIC &lt; 0.25 mcg/mL, Intermediate (I) MIC 0.5 - 1.0 mcg/mL, Resistant<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="7" stylecode="Lrule Botrule" valign="top">
+<paragraph>(R) MIC &gt; 2 mcg/mL<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_aa0b1802-d727-4384-bcf8-0f29bfca4680">
+<td align="right" colspan="2" stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">Clarithromycin</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">Pretreatment </content>
+<content stylecode="bold">Results</content>
+<br/>
+</td>
+<td align="center" colspan="5" stylecode="Botrule" valign="top">
+<content stylecode="bold">Clarithromycin</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">Post</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">treatment </content>
+<content stylecode="bold">Results</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr id="id_922f0935-aa7b-41f4-bc38-3b2f326ca329">
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">
+<content stylecode="italics">H</content>
+</content>
+<content stylecode="bold">
+<content stylecode="italics">. </content>
+</content>
+<content stylecode="bold">
+<content stylecode="italics">pylori </content>
+</content>
+<content stylecode="bold">negative </content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">eradicated</content>
+<br/>
+</td>
+<td align="center" colspan="3" valign="top">
+<content stylecode="bold">
+<content stylecode="italics">H</content>
+</content>
+<content stylecode="bold">
+<content stylecode="italics">. </content>
+</content>
+<content stylecode="bold">
+<content stylecode="italics">pylori </content>
+</content>
+<content stylecode="bold">positive </content>
+<content stylecode="bold">- </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">not </content>
+<content stylecode="bold">eradicated</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">Post</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">treatment </content>
+<content stylecode="bold">susceptibility</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">results</content>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr id="id_206c38ef-ef58-462c-bf3e-aef57e6eeaa7">
+<td align="left" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">S<sup>b</sup>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">I<sup>b</sup>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">R<sup>b</sup>
+</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">No </content>
+<content stylecode="bold">MIC</content>
+<br/>
+</td>
+</tr>
+<tr id="id_2e9aa12f-4365-44e6-8924-84a13a3f903e">
+<td align="left" colspan="7" stylecode="Botrule" valign="top">
+<content stylecode="bold">Omeprazole </content>
+<content stylecode="bold">40 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">q</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">/ </content>
+<content stylecode="bold">clarithromycin </content>
+<content stylecode="bold">500 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">t</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">for </content>
+<content stylecode="bold">14 </content>
+<content stylecode="bold">days </content>
+<content stylecode="bold">followed </content>
+<content stylecode="bold">by</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">omeprazole </content>
+<content stylecode="bold">20 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">q</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">for </content>
+<content stylecode="bold">another </content>
+<content stylecode="bold">14 </content>
+<content stylecode="bold">days </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">M93</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">067</content>
+<content stylecode="bold">, </content>
+<content stylecode="bold">M93</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">100</content>
+<content stylecode="bold">)</content>
+<br/>
+</td>
+</tr>
+<tr id="id_6b29c57b-3292-4a82-be12-17af31534c90">
+<td align="left" valign="top">Susceptible<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">108<br/>
+</td>
+<td align="center" valign="top">72<br/>
+</td>
+<td align="center" valign="top">1<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">26<br/>
+</td>
+<td align="center" valign="top">9<br/>
+</td>
+</tr>
+<tr id="id_23c7f528-7f10-4aee-a7e5-6d47ac910b7e">
+<td align="left" valign="top">Intermediate<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">1<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">1<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+</tr>
+<tr id="id_addaa678-c833-4c70-ab69-27286e9fca72">
+<td align="left" stylecode="Botrule" valign="top">Resistant<sup>b</sup>
+<br/>
+</td>
+<td align="right" stylecode="Botrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+</tr>
+<tr id="id_1b0481dc-5e3e-42a5-a629-17c13ea87fa2">
+<td align="left" colspan="7" stylecode="Botrule" valign="top">
+<content stylecode="bold">Ranitidine </content>
+<content stylecode="bold">bismuth </content>
+<content stylecode="bold">citrate </content>
+<content stylecode="bold">400 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">/ </content>
+<content stylecode="bold">clarithromycin </content>
+<content stylecode="bold">500 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">t</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">for</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">14 </content>
+<content stylecode="bold">days </content>
+<content stylecode="bold">followed </content>
+<content stylecode="bold">by </content>
+<content stylecode="bold">ranitidine </content>
+<content stylecode="bold">bismuth </content>
+<content stylecode="bold">citrate </content>
+<content stylecode="bold">400 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">for </content>
+<content stylecode="bold">another </content>
+<content stylecode="bold">14 </content>
+<content stylecode="bold">days</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">H2BA3001</content>
+<content stylecode="bold">)</content>
+<br/>
+</td>
+</tr>
+<tr id="id_8b806956-7715-4eed-9597-8ca0673ff2c8">
+<td align="left" valign="top">Susceptible<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">124<br/>
+</td>
+<td align="center" valign="top">98<br/>
+</td>
+<td align="center" valign="top">4<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">14<br/>
+</td>
+<td align="center" valign="top">8<br/>
+</td>
+</tr>
+<tr id="id_1d5edb9b-3742-45cf-9676-4230e6039520">
+<td align="left" valign="top">Intermediate<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">3<br/>
+</td>
+<td align="center" valign="top">2<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">1<br/>
+</td>
+</tr>
+<tr id="id_85d40bd0-9c9a-4885-9bf9-93ea1f47d6b5">
+<td align="left" stylecode="Botrule" valign="top">Resistant<sup>b</sup>
+<br/>
+</td>
+<td align="right" stylecode="Botrule" valign="top">17<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">1<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">15<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">1<br/>
+</td>
+</tr>
+<tr id="id_df4bd0e3-d3cb-45ec-beb9-4acb8a47b2d1">
+<td align="left" colspan="7" stylecode="Botrule" valign="top">
+<content stylecode="bold">Ranitidine </content>
+<content stylecode="bold">bismuth </content>
+<content stylecode="bold">citrate </content>
+<content stylecode="bold">400 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">/ </content>
+<content stylecode="bold">clarithromycin </content>
+<content stylecode="bold">500 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">for </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">14 </content>
+<content stylecode="bold">days </content>
+<content stylecode="bold">followed </content>
+<content stylecode="bold">by </content>
+<content stylecode="bold">ranitidine </content>
+<content stylecode="bold">bismuth </content>
+<content stylecode="bold">citrate </content>
+<content stylecode="bold">400 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">for </content>
+<content stylecode="bold">another </content>
+<content stylecode="bold">14 </content>
+<content stylecode="bold">days</content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">H2BA3001</content>
+<content stylecode="bold">)</content>
+<br/>
+</td>
+</tr>
+<tr id="id_02ef42c9-3691-4999-9e53-cca33889f164">
+<td align="left" valign="top">Susceptible<br/>
+</td>
+<td align="right" valign="top">125<br/>
+</td>
+<td align="center" valign="top">106<br/>
+</td>
+<td align="center" valign="top">1<br/>
+</td>
+<td align="center" valign="top">1<br/>
+</td>
+<td align="center" valign="top">12<br/>
+</td>
+<td align="center" valign="top">5<br/>
+</td>
+</tr>
+<tr id="id_639623ce-a5bf-47d2-ae36-34f786196ca2">
+<td align="left" valign="top">Intermediate<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">2<br/>
+</td>
+<td align="center" valign="top">2<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+</tr>
+<tr id="id_bd741620-119b-49dd-bdee-3af65d463427">
+<td align="left" stylecode="Botrule" valign="top">Resistant<sup>b</sup>
+<br/>
+</td>
+<td align="right" stylecode="Botrule" valign="top">20<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">1<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">19<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+</tr>
+<tr id="id_ad38cab6-8958-4d1e-800d-41d2c325c65a">
+<td align="left" colspan="7" stylecode="Botrule" valign="top">
+<content stylecode="bold">Omeprazole </content>
+<content stylecode="bold">20 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">/ </content>
+<content stylecode="bold">clarithromycin </content>
+<content stylecode="bold">500 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">/ </content>
+<content stylecode="bold">amoxicillin </content>
+<content stylecode="bold">1 </content>
+<content stylecode="bold">g </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">for </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">10 </content>
+<content stylecode="bold">days </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">126</content>
+<content stylecode="bold">, </content>
+<content stylecode="bold">127</content>
+<content stylecode="bold">, </content>
+<content stylecode="bold">M96</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">446</content>
+<content stylecode="bold">)</content>
+<br/>
+</td>
+</tr>
+<tr id="id_6f44c3ea-6c6e-4112-8580-3bbeea7de5de">
+<td align="left" valign="top">Susceptible<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">171<br/>
+</td>
+<td align="center" valign="top">153<br/>
+</td>
+<td align="center" valign="top">7<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">3<br/>
+</td>
+<td align="center" valign="top">8<br/>
+</td>
+</tr>
+<tr id="id_e8c632d5-cf41-4f95-b329-026248f59f69">
+<td align="left" valign="top">Intermediate<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+</tr>
+<tr id="id_a4de64ad-bad8-481a-b330-37d66afb692a">
+<td align="left" stylecode="Botrule" valign="top">Resistant<sup>b</sup>
+<br/>
+</td>
+<td align="right" stylecode="Botrule" valign="top">14<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">1<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">6<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">3<br/>
+</td>
+</tr>
+<tr id="id_dcdcffca-10b0-467c-b43c-bafd36c15e6c">
+<td align="left" colspan="7" stylecode="Botrule" valign="top">
+<content stylecode="bold">Lansoprazole </content>
+<content stylecode="bold">30 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">/ </content>
+<content stylecode="bold">clarithromycin </content>
+<content stylecode="bold">500 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">/ </content>
+<content stylecode="bold">amoxicillin </content>
+<content stylecode="bold">1 </content>
+<content stylecode="bold">g </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">for </content>
+<content stylecode="bold">14 </content>
+<content stylecode="bold">days </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">M95</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">399</content>
+<content stylecode="bold">, </content>
+<content stylecode="bold">M93</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">131</content>
+<content stylecode="bold">, </content>
+<content stylecode="bold">M95</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">392</content>
+<content stylecode="bold">)</content>
+<br/>
+</td>
+</tr>
+<tr id="id_3e30b583-d2bf-47ec-9a07-2f6aef7990f9">
+<td align="left" valign="top">Susceptible<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">112<br/>
+</td>
+<td align="center" valign="top">105<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">7<br/>
+</td>
+</tr>
+<tr id="id_403cdec4-3ba2-4370-9c11-1d0bc378fe02">
+<td align="left" valign="top">Intermediate<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">3<br/>
+</td>
+<td align="center" valign="top">3<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+</tr>
+<tr id="id_4e97d367-ea3c-4c50-9c77-8a0dfe2346e3">
+<td align="left" stylecode="Botrule" valign="top">Resistant<sup>b</sup>
+<br/>
+</td>
+<td align="right" stylecode="Botrule" valign="top">17<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">6<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">7<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">4<br/>
+</td>
+</tr>
+<tr id="id_bf336dc7-1fde-4123-9f35-b83dd3c7cedf">
+<td align="left" colspan="7" stylecode="Botrule" valign="top">
+<content stylecode="bold">Lansoprazole </content>
+<content stylecode="bold">30 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">/ </content>
+<content stylecode="bold">clarithromycin </content>
+<content stylecode="bold">500 </content>
+<content stylecode="bold">mg </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">/ </content>
+<content stylecode="bold">amoxicillin </content>
+<content stylecode="bold">1 </content>
+<content stylecode="bold">g </content>
+<content stylecode="bold">b</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">i</content>
+<content stylecode="bold">.</content>
+<content stylecode="bold">d</content>
+<content stylecode="bold">. </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">for </content>
+<content stylecode="bold">10 </content>
+<content stylecode="bold">days </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">M95</content>
+<content stylecode="bold">-</content>
+<content stylecode="bold">399</content>
+<content stylecode="bold">)</content>
+<br/>
+</td>
+</tr>
+<tr id="id_f89275ea-aebb-4884-95c8-08f95e9cb699">
+<td align="left" valign="top">Susceptible<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">42<br/>
+</td>
+<td align="center" valign="top">40<br/>
+</td>
+<td align="center" valign="top">1<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">1<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+</tr>
+<tr id="id_d380929b-80e2-4b7a-847c-4670b915652c">
+<td align="left" valign="top">Intermediate<sup>b</sup>
+<br/>
+</td>
+<td align="right" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+<td align="center" valign="top">
+<br/>
+</td>
+</tr>
+<tr id="id_bb7dd1bc-715e-48a5-90c3-71cb54e99d32">
+<td align="left" stylecode="Botrule" valign="top">Resistant<sup>b</sup>
+<br/>
+</td>
+<td align="right" stylecode="Botrule" valign="top">4<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">1<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">3<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<br/>
+</td>
+</tr>
+</tbody>
+</table>

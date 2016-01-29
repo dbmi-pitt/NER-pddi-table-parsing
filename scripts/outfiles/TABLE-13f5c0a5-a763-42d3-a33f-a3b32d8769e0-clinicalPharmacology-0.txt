@@ -1,0 +1,29 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Adult Pharmacokinetic Data</caption>
+<col width="50.6%"></col>
+<col width="49.4%"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Parameter</content>
+</td>
+<td stylecode="     Botrule          Rrule     " valign="top"> <content stylecode="bold">Value</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     "> Vd (L/kg)</td>
+<td stylecode="     Botrule          Rrule     "> ~ 3.5</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> Plasma Protein Binding</td>
+<td stylecode="     Botrule          Rrule     " valign="top"> ~ 30%</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     "> t<sub>1/2</sub> (hr)</td>
+<td stylecode="     Botrule          Rrule     "> 5 to 6</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     "> Oral Bioavailability</td>
+<td stylecode="     Botrule          Rrule     "> 80% ± 15.5%</td>
+</tr>
+</tbody>
+</table>

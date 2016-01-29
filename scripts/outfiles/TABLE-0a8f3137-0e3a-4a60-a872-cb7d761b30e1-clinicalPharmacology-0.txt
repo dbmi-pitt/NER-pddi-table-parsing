@@ -1,0 +1,36 @@
+<table id="table12" width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 12: SVR Rates by IL28B Genotype<footnote>The SVR rates are the overall rates for subjects treated with PegIntron 1.0 mcg/kg/REBETOL, PegIntron 1.5 mcg/kg/REBETOL and Pegasys 180 mcg/Copegus according to self-reported race/ethnicity.</footnote>
+</caption>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Population</th>
+<th stylecode="Rrule">CC</th>
+<th stylecode="Rrule">CT</th>
+<th stylecode="Rrule">TT</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Caucasian</td>
+<td stylecode="Rrule">69% (301/436)</td>
+<td stylecode="Rrule">33% (196/596)</td>
+<td stylecode="Rrule">27% (38/139)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">African-American</td>
+<td stylecode="Rrule">48% (20/42)</td>
+<td stylecode="Rrule">15% (22/146)</td>
+<td stylecode="Rrule">13% (15/112)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Hispanic</td>
+<td stylecode="Rrule">56% (19/34)</td>
+<td stylecode="Rrule">38% (21/56)</td>
+<td stylecode="Rrule">27% (7/26)</td>
+</tr>
+</tbody>
+</table>

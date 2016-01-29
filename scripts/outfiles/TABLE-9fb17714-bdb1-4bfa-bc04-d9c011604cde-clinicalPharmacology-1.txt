@@ -1,0 +1,156 @@
+<table id="id_b5d75a5f-15c0-4837-b357-3510246e549c" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_2949c060-9b2f-4619-9dc6-86640107335a">Study 2</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_1e722391-5083-48fc-a7a4-b87fb427cb2a">
+<td align="center" colspan="5" stylecode="Botrule" valign="top">
+<content stylecode="bold">MRS Total Score</content>
+</td>
+</tr>
+<tr id="id_f6344075-ebbc-4ddd-9829-b6ce57118351">
+<td align="left" valign="top">
+<content stylecode="bold">Group</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Baseline</content>
+<footnote id="ftnid_582b9d5d-57df-4fc9-9797-89e78db51ae8">
+<paragraph>Mean score at baseline</paragraph>
+</footnote>
+</td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top">
+<content stylecode="bold">BL to Day 21</content>
+<footnote id="ftnid_6c31f957-c5ee-4037-b9d6-f8be442adefd">
+<paragraph>Change from baseline to Day 21 (LOCF)</paragraph>
+</footnote>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Difference</content>
+<footnote id="ftnid_2647b374-752c-4b95-99ae-bae60e8915a7">
+<paragraph>Difference in change from baseline to Day 21 endpoint (LOCF) between Divalproex Sodium Delayed-release Tablets and placebo and lithium and placebo</paragraph>
+</footnote>
+</td>
+</tr>
+<tr id="id_0c80eec1-0576-41a3-aa2c-5e94acaf98e1">
+<td align="left" valign="top">Placebo</td>
+<td align="center" valign="top">38.9</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">- 4.4</td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_5e00fd2a-96f7-42bb-a449-a212341af83d">
+<td align="left" valign="top">Lithium</td>
+<td align="center" valign="top">37.9</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">- 10.5</td>
+<td align="center" valign="top">6.1</td>
+</tr>
+<tr id="id_c80d0209-a3cc-47bd-ae0a-cebfec6a060e">
+<td align="left" valign="top">Divalproex Sodium Delayed-Release Tablets</td>
+<td align="center" valign="top">38.1</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">- 9.5</td>
+<td align="center" valign="top">5.1</td>
+</tr>
+<tr id="id_9c869128-e81f-45ae-a5f5-a76d6d640644">
+<td align="left" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top">
+<content stylecode="bold">MSS Total Score</content>
+</td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr id="id_ab7532fc-461e-43a1-90ec-457b62212c23">
+<td align="left" valign="top">
+<content stylecode="bold">Group</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Baseline</content>
+<sup>*</sup>
+</td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top">
+<content stylecode="bold">BL to Day 21<sup>†</sup>
+</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Difference<sup>‡</sup>
+</content>
+</td>
+</tr>
+<tr id="id_3369a132-4471-47ce-b0f4-5bdacf278a1f">
+<td align="left" valign="top">Placebo</td>
+<td align="center" valign="top">18.9</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">- 2.5</td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_fd76471b-3866-4468-92ea-b5569c93f649">
+<td align="left" valign="top">Lithium</td>
+<td align="center" valign="top">18.5</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">- 6.2</td>
+<td align="center" valign="top">3.7</td>
+</tr>
+<tr id="id_bef2039a-524b-4c31-a11d-93c2e5b715ba">
+<td align="left" valign="top">Divalproex Sodium Delayed-Release Tablets</td>
+<td align="center" valign="top">18.9</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">- 6</td>
+<td align="center" valign="top">3.5</td>
+</tr>
+<tr id="id_1888c807-ae9c-436e-8c71-01570145ae17">
+<td align="left" valign="top"> </td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top">
+<content stylecode="bold">BIS Total Score</content>
+</td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top"> </td>
+</tr>
+<tr id="id_3e9c935c-32fb-4f8e-b3bb-827a370c4d52">
+<td align="left" valign="top">
+<content stylecode="bold">Group</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Baseline</content>
+<sup>*</sup>
+</td>
+<td align="center" valign="top"> </td>
+<td align="center" valign="top">
+<content stylecode="bold">BL to Day 21<sup>†</sup>
+</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="bold">Difference</content>
+<sup>‡</sup>
+</td>
+</tr>
+<tr id="id_238e3ee4-0885-4c84-966e-c67381398430">
+<td align="left" valign="top">Placebo</td>
+<td align="center" valign="top">16.4</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">- 1.4</td>
+<td align="center" valign="top"></td>
+</tr>
+<tr id="id_0065e559-0e60-4dfd-87ee-3d112b3ef434">
+<td align="left" valign="top">Lithium</td>
+<td align="center" valign="top">16</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">- 3.8</td>
+<td align="center" valign="top">2.4</td>
+</tr>
+<tr id="id_bdb0a801-7a2b-48d1-9f2d-4080ccbd50d1">
+<td align="left" valign="top">Divalproex Sodium Delayed-Release Tablets</td>
+<td align="center" valign="top">15.7</td>
+<td align="center" valign="top"></td>
+<td align="center" valign="top">- 3.2</td>
+<td align="center" valign="top">1.8</td>
+</tr>
+</tbody>
+</table>

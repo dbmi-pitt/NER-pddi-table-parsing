@@ -1,0 +1,14 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><caption>Effect of Nasacort HFA Nasal Aerosol on Total Symptom Score in a 2-Week Clinical Trial  in Patients with Seasonal Allergic Rhinitis.</caption>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<col align="center" valign="top" width="25%"></col>
+<thead>
+<tr><th stylecode="Lrule" valign="middle">Treatment Group (n)</th><th stylecode="Lrule" valign="middle">Baseline Mean Score (SEM)<footnote>Baseline score was an average of the morning and evening scores of 3 symptoms of allergic rhinitis (nasal discharge, nasal stuffiness, and sneezing) for 3 days preceding randomization and the morning of randomization. Each symptom was scored by patients 2 times a day by reflection over the preceding 12 hours on a scale of 0 to 3 where 0=no symptom and 3=severe symptoms.</footnote></th><th stylecode="Lrule">Mean Change From Baseline (SEM)<footnote>Changes were averaged over the 2-week treatment period compared to the baseline. Symptom scoring during treatment period was the same as that for the baseline.</footnote></th><th stylecode="Lrule Rrule">Placebo Comparison (p-value)  </th></tr>
+</thead>
+<tbody>
+<tr><td stylecode="Lrule Botrule">Nasacort HFA 440 mcg<br/>Once Daily (111)</td><td stylecode="Lrule Botrule">6.78 (0.1)</td><td stylecode="Lrule Botrule">-2.64 (0.18)</td><td stylecode="Lrule Botrule Rrule">&lt; 0.05</td></tr>
+<tr><td stylecode="Lrule Botrule">Nasacort HFA 110 mcg<br/>Once Daily (105)</td><td stylecode="Lrule Botrule">6.41 (0.1)</td><td stylecode="Lrule Botrule">-2.29 (0.18)</td><td stylecode="Lrule Botrule Rrule">&lt; 0.05</td></tr>
+<tr><td stylecode="Lrule Botrule">Placebo (109)</td><td stylecode="Lrule Botrule">6.75 (0.1) </td><td stylecode="Lrule Botrule">-1.39 (0.18)</td><td stylecode="Lrule Botrule Rrule"></td></tr>
+</tbody>
+</table>

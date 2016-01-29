@@ -1,0 +1,26 @@
+<table id="sakhg" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr>
+<td stylecode="Lrule">
+<content stylecode="bold">Zone diameter (mm)</content>
+</td>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">≥ 18</td>
+<td stylecode="Lrule Rrule">Susceptible (S)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule">15 to 17</td>
+<td stylecode="Lrule Rrule">Intermediate (I)</td>
+</tr>
+<tr>
+<td stylecode="Lrule">≤14</td>
+<td stylecode="Lrule Rrule">Resistant (R)</td>
+</tr>
+</tbody>
+</table>

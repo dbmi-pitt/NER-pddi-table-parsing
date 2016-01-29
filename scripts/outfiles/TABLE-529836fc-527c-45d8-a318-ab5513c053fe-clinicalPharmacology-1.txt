@@ -1,0 +1,43 @@
+<table id="inv-560ca1e1-3e99-489d-99fd-92c708878724" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="inv-74beaa05-5550-4a2b-bf32-c6453f253002">TABLE B RANGE OF PHARMACOKINETIC PARAMETERS OF INTRAVENOUS FENTANYL IN PATIENTS</caption>
+<col width="208px"></col>
+<col width="120px"></col>
+<col width="128px"></col>
+<col width="132px"></col>
+<tfoot id="id_7978f9c4-3a83-4e58-8faf-5d528bcca627">
+<tr>
+<td align="left" colspan="4" stylecode="Botrule" valign="top">
+<sup>+</sup>Estimated<br/>
+<content stylecode="bold">NOTE:</content>Information on volume of distribution and half-life not available for renally impaired patients.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_b97363fc-b5ca-408e-b1a1-e0066264af17">
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" stylecode="Toprule" valign="top">Clearance (L/hr) Range [70 kg]</td>
+<td align="left" stylecode="Toprule" valign="top">Volume of Distribution V<sub>ss</sub>(L/kg) Range</td>
+<td align="left" valign="top">Half-Life t<sub>1/2</sub>(hr) Range</td>
+</tr>
+<tr id="id_981f7dd9-d77f-4e70-ad6a-809469dbdd01">
+<td align="left" valign="top">Surgical Patients</td>
+<td align="left" valign="top">27–75</td>
+<td align="left" valign="top">3–8</td>
+<td align="left" valign="top">3–12</td>
+</tr>
+<tr id="id_c22fd36a-b235-40f0-b568-afd9c4250448">
+<td align="left" valign="top">Hepatically Impaired Patients</td>
+<td align="left" valign="top">3–80<sup>+</sup>
+</td>
+<td align="left" valign="top">0.8–8<sup>+</sup>
+</td>
+<td align="left" valign="top">4–12<sup>+</sup>
+</td>
+</tr>
+<tr id="id_2f9313d3-cb98-48c3-b64c-6109cd77e5e9">
+<td align="left" stylecode="Botrule" valign="top">Renally Impaired Patients</td>
+<td align="left" stylecode="Botrule" valign="top">30–78</td>
+<td align="left" stylecode="Botrule" valign="top">–</td>
+<td align="left" stylecode="Botrule" valign="top">–</td>
+</tr>
+</tbody>
+</table>

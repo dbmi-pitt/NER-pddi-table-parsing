@@ -1,0 +1,355 @@
+<table id="id_77702593-55dd-42ce-924b-3ffba9eea60a" width="471.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="12.7%"></col>
+<col width="10.0%"></col>
+<col width="12.7%"></col>
+<col width="12.7%"></col>
+<col width="10.0%"></col>
+<col width="11.9%"></col>
+<col width="10.0%"></col>
+<col width="10.0%"></col>
+<col width="10.0%"></col>
+<tbody>
+<tr id="id_b58acd8e-ad59-4c1d-bdf9-a158f9a70bf4">
+<td align="left" stylecode="Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">Population </content>
+</paragraph>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">N </content>
+</paragraph>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">Route (Dose) </content>
+</paragraph>
+</td>
+<td align="left" stylecode="Toprule" valign="top">
+<paragraph>
+<content stylecode="bold">Parameters</content>
+</paragraph>
+</td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" stylecode="Toprule" valign="top"></td>
+<td align="left" valign="top"></td>
+</tr>
+<tr id="id_29136876-6568-41ea-9b05-557ed9f51549">
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top"></td>
+<td align="left" valign="top">
+<paragraph>C<sub>max</sub> (ng/mL)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>T<sub>max</sub> (hr)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>AUC (ng•hr/mL)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>t<sub>1/2</sub> (hr)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>CI (L/hr/kg)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>V (L/kg)</paragraph>
+</td>
+</tr>
+<tr id="id_16ddcdfc-43ea-4377-9674-335f421d62dd">
+<td align="left" valign="top">
+<paragraph>Healthy Volunteers</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>8</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>IV(0.025 mg/kg/4hr)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>a</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>a</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>598<sup>b</sup> ± 125 </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>34.2 ± 7.7</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>0.040 ± 0.009</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>1.91 ± 0.31</paragraph>
+</td>
+</tr>
+<tr id="id_5cbf3849-f2a8-4478-964a-669c079392f1">
+<td align="left" valign="top"></td>
+<td align="left" valign="top">
+<paragraph>16</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>PO(5 mg)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>29.7 ± 7.2</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>1.6 ± 0.7</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>243<sup>c</sup> ± 73 </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>34.8 ± 11.4</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>0.041<sup>d</sup> ± 0.008</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>1.94<sup>d</sup> ± 0.53</paragraph>
+</td>
+</tr>
+<tr id="id_5e6bc767-ac07-4e61-8a2c-6b3df0a636fb">
+<td align="left" valign="top">
+<paragraph>Kidney Transplant Patients </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>26 </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>IV(0.02 mg/kg/12 hr)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>a</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>a</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>294<sup>e</sup> ± 262</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>18.8 ± 16.7</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>0.083 ± 0.050</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>1.41 ± 0.66</paragraph>
+</td>
+</tr>
+<tr id="id_ff778588-ff80-432c-a844-02a77b3b78e6">
+<td align="left" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>PO(0.2 mg/kg/day)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>19.2 ± 10.3</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>3.0</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>203<sup>e</sup> ± 42</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+</tr>
+<tr id="id_4d02a61b-ed9a-48e4-98ee-a701c4476d9b">
+<td align="left" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>PO(0.3 mg/kg/day)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>24.2 ± 15.8</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>1.5</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>288<sup>e</sup> ± 93</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+</tr>
+<tr id="id_d21916d8-3da5-42a3-b0f9-8b1a39012f1a">
+<td align="left" valign="top">
+<paragraph>Liver Transplant Patients </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>17 </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>IV(0.05 mg/kg/12 hr)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>a</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>a</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>3300<sup>e</sup> ± 2130</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>11.7 ± 3.9</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>0.053 ± 0.017</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>0.85 ± 0.30</paragraph>
+</td>
+</tr>
+<tr id="id_df859bb9-d88d-491d-96e5-1194d35409a2">
+<td align="left" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>PO(0.3 mg/kg/day)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>68.5 ± 30.0</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>2.3 ± 1.5</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>519<sup>e</sup> ± 179</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+</tr>
+<tr id="id_4da8c8a7-a26b-4604-bb4a-b495235881a4">
+<td align="left" valign="top">
+<paragraph>Heart Transplant Patients</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>11</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>IV (0.01 mg/kg/day as a continuous infusion)</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>a</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>a</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>954g ± 334</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>23.6 ± 9.22</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>0.051 ± 0.015</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+</tr>
+<tr id="id_4ae3fe7c-b7d1-4884-a2c1-8d73f799cd7d">
+<td align="left" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>11</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>PO (0.075 mg/kg/day)<sup>h</sup>
+</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>14.7 ± 7.79</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>2.1 [0.5-6.0]<sup>i</sup>
+</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>82.7j ± 63.2</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>a</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+<td align="left" valign="top">
+<paragraph>f</paragraph>
+</td>
+</tr>
+<tr id="id_a9c18410-38ea-44ad-abcd-ff849750af89">
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph> </paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>14</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>PO(0.15 mg/kg/day)<sup>h</sup>
+</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>24.5 ±13.7</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>1.5 [0.4-4.0]<sup>i</sup>
+</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>142<sup>j </sup>± 116</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>a</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>f</paragraph>
+</td>
+<td align="left" stylecode="Botrule" valign="top">
+<paragraph>f</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

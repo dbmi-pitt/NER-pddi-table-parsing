@@ -1,0 +1,26 @@
+<table border="0" id="id_7aa2f18e-5303-4b68-bb74-368c98123c34" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<thead>
+<tr id="id_d50b8d4c-8d46-4137-bd42-05647fc24af5" stylecode="Botrule">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">Microorganism</td>
+<td align="center" stylecode="Lrule Botrule Rrule" valign="top">MIC(mcg/mL)</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_8ad1acaa-593c-4b1d-bda7-06b2de24e7bd" stylecode="Toprule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">E. coli</content>     ATCC 25922<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">4 to 16<br/>
+</td>
+</tr>
+<tr id="id_1f734329-4746-4fa2-86b2-ab2d097700d2" stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="italics">S. aureus</content> ATCC 29213<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">0.12 to 0.5<br/>
+</td>
+</tr>
+</tbody>
+</table>

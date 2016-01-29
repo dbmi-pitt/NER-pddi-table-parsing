@@ -1,0 +1,65 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<tfoot>
+<tr>
+<td> * Placebo response subtracted<br/>
+<sup> †</sup> Different number of patients available for peak and trough measurements</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td> Dose</td>
+<td align="center"> N</td>
+<td align="center"> Systolic/Diastolic<br/>Mean Peak<br/>Response</td>
+<td align="center" valign="top"> Mean Trough<br/>Response</td>
+<td align="center" valign="top"> Trough/Peak<br/>Ratios (%<sub>s</sub>)</td>
+</tr>
+<tr>
+<td align="center" colspan="5"> Study 1 (8 weeks)</td>
+</tr>
+<tr>
+<td> 2.5 mg</td>
+<td align="center"> 68</td>
+<td align="center"> 9.4/4.7</td>
+<td align="center"> 2.7/2.5</td>
+<td align="center"> 29/53</td>
+</tr>
+<tr>
+<td> 5 mg</td>
+<td align="center"> 69</td>
+<td align="center"> 9.5/6.3</td>
+<td align="center"> 2.4/3.7</td>
+<td align="center"> 25/59</td>
+</tr>
+<tr>
+<td> 10 mg</td>
+<td align="center"> 67</td>
+<td align="center"> 18/10.8</td>
+<td align="center"> 10/6</td>
+<td align="center"> 56/56</td>
+</tr>
+<tr>
+<td align="center" colspan="5"> Study 2 (4 weeks)</td>
+</tr>
+<tr>
+<td> 10 mg</td>
+<td align="center"> 50</td>
+<td align="center"> 5.3/7.2</td>
+<td align="center"> 1.5/3.2</td>
+<td align="center"> 33/40<sup>†</sup>
+</td>
+</tr>
+<tr>
+<td> 20 mg</td>
+<td align="center"> 50</td>
+<td align="center"> 11.3/10.2</td>
+<td align="center"> 4.5/3.2</td>
+<td align="center"> 43/34<sup>†</sup>
+</td>
+</tr>
+</tbody>
+</table>

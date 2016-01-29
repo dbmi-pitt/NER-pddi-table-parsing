@@ -1,0 +1,47 @@
+<table id="id_2c75c4bb-8e72-4bc5-9d98-b3af0f2612d8" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr id="id_f752f2d0-7a07-4827-afa8-6423f8f9aa9e" stylecode="Botrule">
+<td align="center" valign="top">
+<content stylecode="underline">Method</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">Microorganism</content>
+</td>
+<td align="center" valign="top">
+<content stylecode="underline">ATCC </content>
+<sup>®</sup> #</td>
+<td align="center" valign="top">
+<content stylecode="underline">MIC (mcg/mL)</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_88022ee4-a637-4365-a7b9-629d0a809faf" stylecode="Toprule">
+<td align="left" valign="top">Agar</td>
+<td align="left" stylecode="Toprule" valign="top">
+<content stylecode="italics">Bacteroides fragilis</content>
+</td>
+<td align="center" stylecode="Toprule" valign="top">25285</td>
+<td align="center" valign="top">32 -128</td>
+</tr>
+<tr id="id_bc3af8d7-f340-4bd6-a8bd-e00936651e46">
+<td align="left" valign="top"> </td>
+<td align="left" valign="top">
+<content stylecode="italics">Bacteroides thetaiotaomicron</content>
+</td>
+<td align="center" valign="top">29741</td>
+<td align="center" valign="top">64 -256</td>
+</tr>
+<tr id="id_222c0962-03a2-4d73-baf9-4b599c8c1081" stylecode="Botrule">
+<td align="left" valign="top">Broth</td>
+<td align="left" valign="top">
+<content stylecode="italics">Bacteroides thetaiotaomicron</content> </td>
+<td align="center" valign="top">29741</td>
+<td align="center" valign="top">32 -128</td>
+</tr>
+</tbody>
+</table>

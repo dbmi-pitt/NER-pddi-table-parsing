@@ -1,0 +1,42 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: % Endoscopic Healing - U.S. Study</caption>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th></th>
+<th align="center"> Famotidine<br/>
+<content stylecode="underline">40 mg b.i.d</content>.<br/>(N = 127)</th>
+<th align="center"> Famotidine<br/>
+<content stylecode="underline">20 mg b.i.d</content>
+<br/>(N = 125)</th>
+<th align="center">
+<br/>
+<content stylecode="underline">Placebo</content>
+<br/>(N = 66)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Week 6</td>
+<td align="center"> 48 <footnote id="FOOT_368">p ≤ 0.01 vs Placebo</footnote>
+<sup>,</sup>
+<footnote id="FOOT_369">p ≤ 0.01 vs famotidine 20 mg b.i.d.</footnote>
+</td>
+<td align="center"> 32</td>
+<td align="center"> 18</td>
+</tr>
+<tr>
+<td> Week 12</td>
+<td align="center"> 69<footnoteref idref="FOOT_368"></footnoteref>
+<sup>,</sup>
+<footnote id="FOOT_370">p ≤ 0.05 vs famotidine 20 mg b.i.d.</footnote>
+</td>
+<td align="center"> 54<footnoteref idref="FOOT_368"></footnoteref>
+</td>
+<td align="center"> 29</td>
+</tr>
+</tbody>
+</table>

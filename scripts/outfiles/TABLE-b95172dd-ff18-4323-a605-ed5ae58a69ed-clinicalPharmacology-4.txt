@@ -1,0 +1,88 @@
+<table id="i084903c7-fb64-44a2-845c-83ebcfe5c2ba" width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 12: Quality Control for Susceptibility Testing</caption>
+<col align="left" valign="top" width="30%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="23%"></col>
+<col align="center" valign="top" width="27%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Microorganism</th>
+<th stylecode="Rrule">Microorganism<br/> QC Number</th>
+<th stylecode="Rrule">MIC (mcg/mL)</th>
+<th stylecode="Rrule">Disk Diffusion<br/> (zone diameter in mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Enterococcus faecalis</content>
+</td>
+<td stylecode="Rrule">ATCC 29212</td>
+<td stylecode="Rrule">0.25 – 2</td>
+<td stylecode="Rrule">--</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Escherichia coli</content>
+</td>
+<td stylecode="Rrule">ATCC 25922</td>
+<td stylecode="Rrule">0.008 – 0.06</td>
+<td stylecode="Rrule">29 – 37</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Escherichia coli</content>
+<footnote>Careful maintenance of this organism is required as the strain may lose its plasmid.</footnote>
+</td>
+<td stylecode="Rrule">ATCC 35218</td>
+<td stylecode="Rrule">0.015 – 0.06</td>
+<td stylecode="Rrule">--</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Haemophilus influenzae</content>
+</td>
+<td stylecode="Rrule">ATCC 49247</td>
+<td stylecode="Rrule">0.008 – 0.03<footnote>This quality control range is applicable to only<content stylecode="italics"> H. influenzae</content> ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).<sup>1</sup>
+</footnote>
+</td>
+<td stylecode="Rrule">32 – 40<footnote>This quality control range is applicable to only <content stylecode="italics">H. influenzae</content> ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).<sup>2</sup>
+</footnote>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Pseudomonas aeruginosa</content>
+</td>
+<td stylecode="Rrule">ATCC 27853</td>
+<td stylecode="Rrule">0.5 – 4</td>
+<td stylecode="Rrule">19 – 26</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td stylecode="Rrule">ATCC 29213</td>
+<td stylecode="Rrule">0.06 – 0.5</td>
+<td stylecode="Rrule">--</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Staphylococcus aureus</content>
+</td>
+<td stylecode="Rrule">ATCC 25923</td>
+<td stylecode="Rrule">--</td>
+<td stylecode="Rrule">25 – 30</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="italics">Streptococcus pneumoniae</content>
+</td>
+<td stylecode="Rrule">ATCC 49619</td>
+<td stylecode="Rrule">0.5 – 2<footnote>This quality control range is applicable to only<content stylecode="italics"> S. pneumoniae</content> ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood.</footnote>
+</td>
+<td stylecode="Rrule">20 – 25<footnote>This quality control range is applicable to only<content stylecode="italics"> S. pneumoniae</content> ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO<sub>2</sub>.</footnote>
+</td>
+</tr>
+</tbody>
+</table>

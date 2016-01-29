@@ -1,0 +1,39 @@
+<table id="id_7b19a367-a696-4cc2-9e38-0d2c8549dd82" width="396" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_3687aaad-9a9f-49cf-8fbb-e1caa7270965">Table 7</caption>
+<col align="center" width="52.8%"></col>
+<col align="center" width="47.2%"></col>
+<thead>
+<tr id="id_2f8d546c-82e7-4d3e-b267-2c069cd2b75c" stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Clarithromycin MIC<br/>(mcg/mL)<footnote id="t7f">These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.</footnote>
+</content>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Interpretation</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_be39327b-9b99-47ec-9f10-ae4e6cbb0c11" stylecode="Toprule">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≤0.25</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Susceptible (S)</td>
+</tr>
+<tr id="id_8d66ee8b-4605-467f-a499-6f0906a42de8">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">0.5-1.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Intermediate (I)</td>
+</tr>
+<tr id="id_722d880f-c6a7-422d-8965-489a7fdc348e">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">≥2.0</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Resistant (R)</td>
+</tr>
+<tr id="id_ddfa23b4-cfce-4c5a-8f59-9e8fb1ff3d2b">
+<td align="center" stylecode="Lrule Botrule Rrule" valign="middle">Amoxicillin MIC<br/>(mcg/mL)<footnoteref idref="t7f"></footnoteref>,<footnote id="idafpilg">There were not enough organisms with MICs greater than 0.25 mcg/mL to determine a resistance breakpoint.</footnote>
+</td>
+<td align="center" stylecode="Botrule Rrule" valign="middle">Interpretation</td>
+</tr>
+<tr id="id_2af1479a-9e3a-4886-8a69-e8023969b46b" stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="middle">≤0.25</td>
+<td align="center" stylecode="Rrule" valign="middle">Susceptible (S)</td>
+</tr>
+</tbody>
+</table>

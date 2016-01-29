@@ -1,0 +1,36 @@
+<table border="0" frame="box" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td stylecode="     Botrule          Toprule     ">   Microorganism</td>
+<td align="center" stylecode="     Botrule          Toprule     "> </td>
+<td align="center" stylecode="     Botrule          Toprule     "> Zone Diameter Ranges (mm)</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>   <content stylecode="italics">Escherichia coli</content>
+</td>
+<td align="center"> ATCC 25922</td>
+<td align="center"> 23–29</td>
+</tr>
+<tr>
+<td>   <content stylecode="italics">Haemophilus influenzae</content>
+<footnote id="FOOT_1220">This quality control range is applicable only to <content stylecode="italics">Haemophilus influenzae</content> ATCC 49247 tested by a disk diffusion procedure using <content stylecode="italics">Haemophilus</content> Test Medium (HTM).<sup>5</sup>
+</footnote>
+</td>
+<td align="center"> ATCC 49247</td>
+<td align="center"> 24–32</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     ">   <content stylecode="italics">Streptococcus pneumoniae</content>
+<footnote id="FOOT_1221">This quality control range is applicable only to tests performed by disk diffusion using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood when incubated in 5% CO<sub>2</sub>.<sup>5</sup>
+</footnote>
+</td>
+<td align="center" stylecode="     Botrule     "> ATCC 49619</td>
+<td align="center" stylecode="     Botrule     "> 20–28</td>
+</tr>
+</tbody>
+</table>

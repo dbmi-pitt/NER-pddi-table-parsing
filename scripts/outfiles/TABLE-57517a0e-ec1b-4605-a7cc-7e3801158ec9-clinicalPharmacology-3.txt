@@ -1,0 +1,52 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8. Acceptable Quality Control Ranges for Cefepime</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">
+<content stylecode="underline">QC Strain</content>
+</th>
+<th align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">Minimum Inhibitory Concentrations (mcg/mL)</th>
+<th align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">Disk Diffusion (zone diameters in mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="italics">Escherichia coli</content> ATCC® 25922</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> 0.015 – 0.12</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">31-37</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="italics">Staphylococcus aureus </content>ATCC® 29213</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> 1–4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> -</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="italics">Staphylococcus aureus </content>ATCC® 25923</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> -</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> 23–29</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="italics">Pseudomonas aeruginosa </content>ATCC® 27853</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> 0.5–4</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> 24–30</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="italics">Streptococcus pneumoniae </content>ATCC® 49619</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> 0.03–0.25</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">28-35</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="italics">Haemophilus influenzae </content>ATCC® 49247</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">0.5 – 2 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">25 – 31 </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom"> <content stylecode="italics">Neisseria gonorrhoeae </content>ATCC® 49226</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">0.015 –  0.06 </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="bottom">37 - 46 </td>
+</tr>
+</tbody>
+</table>

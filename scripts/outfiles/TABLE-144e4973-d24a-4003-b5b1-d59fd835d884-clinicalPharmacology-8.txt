@@ -1,0 +1,56 @@
+<table id="id_41bc8c7e-4e77-4438-90d3-2ed05108699f" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_d63693da-e742-40a1-9472-7a252c17d88c">For testing Streptococcus spp. including Streptococcus pneumoniae<sup>e</sup>
+</caption>
+<col width="43%"></col>
+<col width="57%"></col>
+<tfoot id="id_df0e6d4b-23da-45ea-b428-be807dbdb923">
+<tr>
+<td align="left" colspan="2" stylecode="Lrule Botrule" valign="top">
+<paragraph>e These zone diameter standards only apply to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO<sub>2</sub>.<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_12abedeb-0af4-4caa-8de6-038645d6c9bb">
+<td align="center" stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">Zone </content>
+<content stylecode="bold">diameter </content>
+<content stylecode="bold">(</content>
+<content stylecode="bold">mm</content>
+<content stylecode="bold">)</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="Botrule" valign="top">
+<content stylecode="bold">Interpretation</content>
+<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr id="id_f1f9bdc0-9177-40fc-a64f-fe2e1e89ac0e">
+<td align="center" valign="top">≥ 21<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" valign="top">Susceptible (S)<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr id="id_e344eff9-e830-4bd0-b89e-38b6b2653c81">
+<td align="center" valign="top">17 to 20<br/>
+</td>
+<td align="center" valign="top">Intermediate (I)<br/>
+</td>
+</tr>
+<tr id="id_dc2f2438-f76a-4942-b6b1-a70305bc4f70">
+<td align="center" stylecode="Botrule" valign="top">≤ 16<br/>
+</td>
+<td align="center" stylecode="Botrule" valign="top">Resistant (R)<br/>
+</td>
+</tr>
+</tbody>
+</table>

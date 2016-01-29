@@ -1,0 +1,194 @@
+<table id="SPLSERV-af6fca03-a460-9ecf-6eb9-681532708671" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 19: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure </caption>
+<col width="16%"></col>
+<col width="16%"></col>
+<col width="12%"></col>
+<col width="29%"></col>
+<col width="28%"></col>
+<tbody>
+<tr>
+<td align="center" rowspan="2" stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Coadministered Drug</content>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Dose of Coadministered Drug</content>
+<footnote id="SPLSERV-de0239f3-2733-a94e-24cc-00496ee0c841">All metformin and coadministered drugs were given as single doses</footnote>
+</paragraph>
+</td>
+<td align="center" rowspan="2" stylecode="Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Dose of Metformin</content>
+<footnoteref idref="SPLSERV-de0239f3-2733-a94e-24cc-00496ee0c841"></footnoteref>
+</paragraph>
+</td>
+<td colspan="2" stylecode="Rrule Botrule Lrule Toprule ">
+<paragraph>
+<content stylecode="bold">Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">AUC</content>
+<footnote id="SPLSERV-c576c244-da78-401f-e304-d70d4b19bfdb">AUC = AUC<sub>0–∞</sub>
+</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>
+<content stylecode="bold">C<sub>max</sub>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="5" stylecode="Rrule Lrule Botrule ">
+<paragraph>No dosing adjustments required for the following:</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Glyburide </paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>5 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>500 mg<footnote id="SPLSERV-6eda71dc-4ffa-1336-127a-148d1cf09057">Metformin hydrochloride extended-release tablets, 500 mg</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.98<footnote id="SPLSERV-de1bb11b-0805-9929-ddd0-779d63a9fa16">Ratio of arithmetic means</footnote>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.99<footnoteref idref="SPLSERV-de1bb11b-0805-9929-ddd0-779d63a9fa16"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Furosemide </paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>40 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1.09<footnoteref idref="SPLSERV-de1bb11b-0805-9929-ddd0-779d63a9fa16"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.22<footnoteref idref="SPLSERV-de1bb11b-0805-9929-ddd0-779d63a9fa16"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Nifedipine </paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>10 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1.16</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.21</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Propranolol </paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>40 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>0.90</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>0.94</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Ibuprofen </paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>400 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>850 mg</paragraph>
+</td>
+<td align="center" stylecode="Lrule Botrule ">
+<paragraph>1.05<footnoteref idref="SPLSERV-de1bb11b-0805-9929-ddd0-779d63a9fa16"></footnoteref>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Botrule ">
+<paragraph>1.07<footnoteref idref="SPLSERV-de1bb11b-0805-9929-ddd0-779d63a9fa16"></footnoteref>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="5" stylecode="Rrule Lrule Botrule ">
+<paragraph>Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [<content stylecode="italics">see Warnings and Precautions (<linkhtml href="#ID_88735ec3-f139-54cd-d5a0-65febdef3554">5</linkhtml>) and Drug Interactions (<linkhtml href="#ID_a359f192-46e7-044f-cdc9-89d9bcc0ed55">7</linkhtml>)</content>].</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule ">
+<paragraph>Cimetidine </paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>400 mg </paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>850 mg </paragraph>
+</td>
+<td stylecode="Lrule Botrule ">
+<paragraph>1.40 </paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule ">
+<paragraph>1.61 </paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="5" stylecode="Rrule Lrule Botrule ">
+<paragraph>Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution [<content stylecode="italics">see Warnings and Precautions (<linkhtml href="#ID_88735ec3-f139-54cd-d5a0-65febdef3554">5</linkhtml>) and Drug Interactions (<linkhtml href="#ID_a359f192-46e7-044f-cdc9-89d9bcc0ed55">7</linkhtml>)</content>].</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule ">
+<paragraph>Topiramate </paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>100 mg<footnote id="SPLSERV-0b289fa5-8ee6-278f-9793-1096bae696ab">At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC<sub>0-12h</sub>
+</footnote>
+</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>500 mg<footnoteref idref="SPLSERV-0b289fa5-8ee6-278f-9793-1096bae696ab"></footnoteref>
+</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph>1.25<footnoteref idref="SPLSERV-0b289fa5-8ee6-278f-9793-1096bae696ab"></footnoteref>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule ">
+<paragraph>1.17 </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

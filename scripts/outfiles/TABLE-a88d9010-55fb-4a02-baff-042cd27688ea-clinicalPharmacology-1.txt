@@ -1,0 +1,46 @@
+<table id="table5" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5: Mean (%CV) Steady State Pharmacokinetic Parameters of Anidulafungin Following IV Administration of Anidulafungin in Patients with Fungal Infections Estimated Using Population Pharmacokinetic Modeling</caption>
+<col align="left" valign="middle" width="34%"></col>
+<col align="center" valign="middle" width="33%"></col>
+<col align="center" valign="middle" width="33%"></col>
+<thead>
+<tr stylecode="Botrule">
+<th align="center" rowspan="2" stylecode="Lrule Rrule">PK Parameter<footnote>All the parameters were estimated by population modeling using a two-compartment model with first order elimination; AUC<sub>ss</sub>, C<sub>max,ss</sub> and C<sub>min,ss</sub> (steady state trough plasma concentration) were estimated using individual PK parameters and infusion rate of 1 mg/min to administer recommended doses of 50 and 100 mg/day.</footnote>
+</th>
+<th colspan="2" stylecode="Rrule">Anidulafungin IV Dosing Regimen (LD/MD, mg)<footnote>LD/MD: loading dose/daily maintenance dose</footnote>
+</th>
+</tr>
+<tr stylecode="Botrule">
+<th align="center" stylecode="Rrule">100/50</th>
+<th stylecode="Rrule">200/100</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>max, ss</sub> [mg/L]</td>
+<td stylecode="Rrule">4.2 (22.4)</td>
+<td stylecode="Rrule">7.2 (23.3)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">C<sub>min, ss</sub> [mg/L]</td>
+<td stylecode="Rrule">1.6 (42.1)</td>
+<td stylecode="Rrule">3.3 (41.8)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">AUC<sub>ss</sub> [mg∙h/L]</td>
+<td stylecode="Rrule">55.2 (32.5)</td>
+<td stylecode="Rrule">110.3 (32.5)</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">CL [L/h]</td>
+<td colspan="2" stylecode="Rrule">1.0 (33.5)</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">t<sub>1/2, </sub>
+<sub>β</sub> [h]<footnote>t<sub>1/2, </sub>
+<sub>β</sub> is the predominant elimination half-life that characterizes the majority of the concentration-time profile.</footnote>
+</td>
+<td colspan="2" stylecode="Rrule">26.5 (28.5)</td>
+</tr>
+</tbody>
+</table>

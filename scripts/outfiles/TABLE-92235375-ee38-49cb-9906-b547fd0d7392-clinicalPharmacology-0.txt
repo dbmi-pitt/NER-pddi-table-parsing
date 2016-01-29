@@ -1,0 +1,43 @@
+<table id="id_4ec67d07-cba0-45e8-a094-171fe05b190c" width="430.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="34.0%"></col>
+<col align="center" width="33.0%"></col>
+<col align="center" width="33.0%"></col>
+<thead>
+<tr id="id_b1d10417-f228-4085-8fb2-dbb09640139a" stylecode="Botrule">
+<td align="left" stylecode="Rrule" valign="top">Pharmacokinetic Parameters (Mean)</td>
+<td align="left" stylecode="Rrule" valign="bottom">Total n=12<br/>
+<content stylecode="underline">Day 1</content>
+</td>
+<td align="left" valign="bottom"> <br/>
+<content stylecode="underline">Day 5</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr id="id_95d25a66-bda0-4cab-958b-1ac3e63a1a2c" stylecode="Toprule">
+<td align="left" valign="top">C<sub>max</sub> (µg/mL)</td>
+<td align="left" stylecode="Toprule" valign="top">0.41</td>
+<td align="left" valign="top">0.24</td>
+</tr>
+<tr id="id_40ebbc72-0606-4e00-b41b-efa402dc9247">
+<td align="left" valign="top">T<sub>max</sub> (h)</td>
+<td align="left" valign="top">2.5</td>
+<td align="left" valign="top">3.2</td>
+</tr>
+<tr id="id_f94b6657-291b-427a-9cad-86cc8d05ae1b">
+<td align="left" valign="top">AUC<sub>0–24</sub> (µg∙h/mL)</td>
+<td align="left" valign="top">2.6</td>
+<td align="left" valign="top">2.1</td>
+</tr>
+<tr id="id_e70570c1-b0a1-4d75-acb1-26040d9ae9f5">
+<td align="left" valign="top">C<sub>min</sub> (µg/mL)</td>
+<td align="left" valign="top">0.05</td>
+<td align="left" valign="top">0.05</td>
+</tr>
+<tr id="id_4c81ef52-cd30-45f4-8272-cf97ec211a30" stylecode="Botrule">
+<td align="left" valign="top">Urinary Excret. (% dose)</td>
+<td align="left" valign="top">4.5</td>
+<td align="left" valign="top">6.5</td>
+</tr>
+</tbody>
+</table>
