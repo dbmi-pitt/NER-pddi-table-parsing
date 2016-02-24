@@ -1,9 +1,0 @@
-<table border="1" frame="border" id="INV-e3398b63-3caf-45b5-b665-8499d9260ef0" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><col width="200px"></col>
-<col width="252px"></col>
-<tbody>
-<tr><td align="center" stylecode="Botrule Lrule"><content stylecode="underline">Zone Diameter (mm)</content><content stylecode="bold"> </content></td><td stylecode="Botrule Rrule"><content stylecode="underline">Interpretation</content><content stylecode="bold"> </content></td></tr>
-<tr><td align="center" stylecode="Botrule Lrule"> ≥ 23  </td><td stylecode="Botrule Rrule"> (S)  Susceptible </td></tr>
-<tr><td align="center" stylecode="Botrule Lrule"> 15 to<content stylecode="bold"> </content>22  </td><td stylecode="Botrule Rrule"> (I )  Intermediate </td></tr>
-<tr><td align="center" stylecode="Botrule Lrule"> ≤ 14  </td><td stylecode="Botrule Rrule"> (R) Resistant </td></tr>
-</tbody>
-</table>
