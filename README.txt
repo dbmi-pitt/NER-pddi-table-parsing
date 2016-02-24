@@ -16,6 +16,7 @@ SELECT DISTINCT ?setid WHERE {
 3) Copy the results to scripts/setIDS.txt and remove any quotes
 
 4) remove all text files from scripts/outfiles/
+   If there is no folder outfiles, then create one for holding outputs
 
 5) In the scripts folder, run retrieveSPLSquery.py
 

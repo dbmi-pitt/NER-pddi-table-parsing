@@ -194,7 +194,7 @@ if __name__ == "__main__":
     sparql = SPARQLWrapper("http://dbmi-icode-01.dbmi.pitt.edu/sparql")
 
     lspls = []
-    for line in fileinput.input('setIDs-full.txt'):
+    for line in fileinput.input('setIDs.txt'):
         if not line or line == "":
             break
 
