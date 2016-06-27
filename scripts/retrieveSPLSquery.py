@@ -210,7 +210,6 @@ if __name__ == "__main__":
                 continue
 
             #print "[DEBUG] process " + sp.setID.strip() + " - " + key
-
             # extract HTML tables and split text into sub-files as necessary
             sectTxt = dic[key]
 
@@ -226,7 +225,7 @@ if __name__ == "__main__":
             for tbl in tables:
 
                 #print "[DEBUG] find table: " + str(tbl)
-                
+                print "Table found for setid:" + sp.setID.strip()
                 i += 1
                 tbl.replaceWith("")
                 f = codecs.open("outfiles/TABLE-%s-%s-%d.txt" % (sp.setID.strip(), key, i) ,encoding = 'utf-8', mode ='w+') 
