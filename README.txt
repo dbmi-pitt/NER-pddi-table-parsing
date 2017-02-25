@@ -1,3 +1,10 @@
+
+TableHeadingAnnotations - a folder with annotations on table headings
+extracted from drug interaction sections of SPLs
+
+The rest of the stuff here is for extract SPL tables from text/HTML
+pulled from LinkedSPLs.
+
 ------------
 
 To get tables from SPLs you first have to assemble a list of all setIds:
