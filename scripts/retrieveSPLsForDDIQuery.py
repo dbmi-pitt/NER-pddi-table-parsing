@@ -87,7 +87,7 @@ class SPL:
 
 
 
-def getAllSPLSectionsSparql(spl, sparql):
+def getDDISPLSectionsSparql(spl, sparql):
     sID = spl
     #print sID
 
@@ -101,7 +101,7 @@ PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX linkedspls_vocabulary: <http://bio2rdf.org/linkedspls_vocabulary:>
 PREFIX loinc: <http://www.hipaaspace.com/Medical_Billing/Coding/Logical.Observation.Identifiers.Names.and.Codes/>
 
-SELECT ?drugName ?medicine ?drugInteractions ?adverseReactions ?boxedWarning ?clinicalPharmacology ?clinicalStudies ?contraindications ?description ?dosageAndAdministration ?indicationAndUsage ?patientInformation ?patientCounseling  ?precautions ?specialPopulations ?warningsAndPrecautions ?warnings
+SELECT ?drugName ?medicine ?drugInteractions 
 
 FROM <http://purl.org/net/nlprepository/spl-core>
 WHERE {
@@ -110,23 +110,9 @@ WHERE {
      linkedspls_vocabulary:genericMedicine ?medicine.
 
 OPTIONAL { <%s> loinc:34073-7 ?drugInteractions }
-OPTIONAL { <%s> loinc:34084-4 ?adverseReactions }
-OPTIONAL { <%s> loinc:34066-1 ?boxedWarning }
-OPTIONAL { <%s> loinc:34090-1 ?clinicalPharmacology }
-OPTIONAL { <%s> loinc:34092-7 ?clinicalStudies }
-OPTIONAL { <%s> loinc:34070-3 ?contraindications }
-OPTIONAL { <%s> loinc:34089-3 ?description }
-OPTIONAL { <%s> loinc:34068-7 ?dosageAndAdministration }
-OPTIONAL { <%s> loinc:34067-9 ?indicationAndUsage }
-OPTIONAL { <%s> loinc:68498-5 ?patientInformation }
-OPTIONAL { <%s> loinc:34076-0 ?patientCounseling  }
-OPTIONAL { <%s> loinc:34072-9 ?precautions }
-OPTIONAL { <%s> loinc:43684-0 ?specialPopulations }
-OPTIONAL { <%s> loinc:43685-7 ?warningsAndPrecautions }
-OPTIONAL { <%s> loinc:34071-1 ?warnings}
 }
 
-''' % (splUri, splUri, splUri, splUri, splUri, splUri, splUri, splUri, splUri, splUri,splUri, splUri, splUri, splUri, splUri, splUri)
+''' % (splUri, splUri)
 
     
     #print "QUERY: %s" % qry
@@ -151,39 +137,11 @@ OPTIONAL { <%s> loinc:34071-1 ?warnings}
         # if res.has_key("medicine"):
         #    sp.medicine = unicode(res['medicine']["value"])
         
-        if res.has_key("boxedWarning"):
-            sp.boxedWarning = unicode(res['boxedWarning']["value"])
-        if res.has_key("clinicalPharmacology"):
-            sp.clinicalPharmacology = unicode(res['clinicalPharmacology']["value"])                                    
-        if res.has_key("warnings"):
-            sp.warnings = unicode(res['warnings']["value"])
-        if res.has_key("warningsAndPrecautions"):
-            sp.warningsAndPrecautions = unicode(res['warningsAndPrecautions']["value"])
-        if res.has_key("precautions"):
-            sp.precautions = unicode(res['precautions']["value"])
-        if res.has_key("contraindications"):
-            sp.contraindications = unicode(res['contraindications']["value"])
         if res.has_key("drugInteractions"):
             sp.drugInteractions = unicode(res['drugInteractions']["value"])
-            
-        if res.has_key("indicationAndUsage"):
-           sp.indicationAndUsage = unicode(res['indicationAndUsage']["value"])
-        if res.has_key("adverseReactions"):
-           sp.adverseReactions = unicode(res['adverseReactions']["value"])    
-        if res.has_key("clinicalStudies"):
-           sp.clinicalStudies = unicode(res['clinicalStudies']["value"])
-        if res.has_key("specialPopulations"):
-           sp.specialPopulations = unicode(res['specialPopulations']["value"])
-        if res.has_key("patientCounseling"):
-           sp.patientCounseling = unicode(res['patientCounseling']["value"])
-        if res.has_key("patientInformation"):
-           sp.patientInformation = unicode(res['patientInformation']["value"])
-        if res.has_key("dosageAndAdministration"):
-           sp.dosageAndAdministration = unicode(res['dosageAndAdministration']["value"])
-        # if res.has_key("description"):
-        #    sp.description = unicode(res['description']["value"])
 
-    if sp.clinicalPharmacology or sp.drugInteractions:
+
+    if sp.drugInteractions:
         spDDI = SPL()
         spDDI.setID = spl
         spDDI.clinicalPharmacology = sp.clinicalPharmacology
@@ -207,8 +165,7 @@ if __name__ == "__main__":
         if not line or line == "":
             break
 
-        #lspls.append(getDDISPLSectionsSparql(line.strip(), sparql))	
-        lspls.append(getAllSPLSectionsSparql(line.strip(), sparql))	
+        lspls.append(getDDISPLSectionsSparql(line.strip(), sparql))	
 
     for sp in lspls:
 
