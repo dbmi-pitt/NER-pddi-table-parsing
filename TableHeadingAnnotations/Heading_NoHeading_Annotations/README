@@ -1,0 +1,18 @@
+Headings were extracted using queries to TableAnnotator loaded with
+SPLs in December of 2016. Two students worked together to mark the
+data for table headers related to drug drug interactions.
+
+- the first sheet has 449 headers and stub cells. Most of these look like column headers. These marked for ones that ARE NOT headers
+
+- the second sheet has header cells that are not also stub cells. Maybe half or more of these do not look like true column headers. These were marked for which ones ARE headers
+
+------ QUERIES USED IN TABLE ANNOTATOR --------
+
+;; Header and stub cells - 449
+SELECT Cell.Content, count(Cell.idCell) cnt INTO OUTFILE '/tmp/cellHeadersAndStubs-1128
+
+    2016.txt' CHARACTER SET utf8 FIELDS TERMINATED BY '\t' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n'  FROM Cell left join CellRoles cr1 on Cell.idCell=cr1.Cell_idCell left join CellRoles cr2 on Cell.idCell=cr2.Cell_idCell left join ArtTable on ArtTable.idTable=Cell.Table_idTable  where cr1.CellRole_idCellRole=1 and cr2.CellRole_idCellRole=2 and ArtTable.Section="34073-7"  Group by Cell.Content;
+
+;; Header only cells -- 886
+    SELECT Cell.Content, count(Cell.idCell) cnt INTO OUTFILE '/tmp/cellHeadersOnly-11282016.txt' CHARACTER SET utf8 FIELDS TERMINATED BY '\t' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n'  FROM Cell left outer join CellRoles cr1 on Cell.idCell=cr1.Cell_idCell left join ArtTable on ArtTable.idTable=Cell.Table_idTable  where cr1.CellRole_idCellRole=1 and ArtTable.Section="34073-7" and Cell.idCell not in (select cr2.Cell_idCell from CellRoles cr2 where cr2.CellRole_idCellRole = 2) Group by Cell.Content;
+    

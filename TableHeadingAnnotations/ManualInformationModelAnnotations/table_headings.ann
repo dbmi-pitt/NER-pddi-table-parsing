@@ -1,0 +1,251 @@
+T1  ClinicalConsequencePK 0 68  % Change of Co-administered Drug Pharmacokinetic Parameters (90% CI)
+T2  ClinicalConsequencePK 272 275   AUC
+T3  DrugIndividual 70 89    AED Co-administered
+T4  DrugIndividual 91 109   AED Coadministered
+T5  ClinicalConsequencePK 111 128   AED Concentration
+T6  DrugIndividual 593 600  Alcohol
+T7  ClinicalConsequencePK 485 488   AUC
+T8  ManagementOption 578 591    Adjusted Dose
+T9  DrugIndividual 602 615  Alpha-Blocker
+T10 DrugIndividual 617 627  Analgesics
+T11 DrugIndividual 641 661  Anti-coagulant drugs
+T12 DrugIndividual 663 679  Antiarrhythmics:
+T13 DrugIndividual 717 728  Antibiotics
+T14 ClinicalConsequencePK 277 310   AUC ofCoadministeredDrug (95% CI)
+T15 ClinicalConsequencePK 312 344   AUC ofCoadministeredDrug(90% CI)
+T16 ClinicalConsequencePK 346 369   AUC ofDidanosine(90% CI
+T17 ClinicalConsequencePK 373 396   UC ofDidanosine(95% CI)
+T18 ClinicalConsequencePK 398 422   AUC ofStavudine (95% CI)
+T19 ClinicalConsequencePK 462 465   AUC
+T20 DrugIndividual 730 741  Antibiotics
+T22 ClinicalConsequencePK 793 807   Anticoagulants
+T23 DrugIndividual 933 948  Anticonvulsants
+T24 DrugIndividual 968 989  Antiretroviral agents
+T25 DrugIndividual 991 1006 Antiretrovirals
+T26 DrugGroup 1009 1023 enzodiazapines
+T27 DrugGroup 1025 1038 Beta-Blockers
+T28 ClinicalConsequenceOther 1040 1058  CLINICAL EFFECT(S)
+T29 DrugIndividual 1088 1105    CONCOMITANT  DRUG
+T30 DrugGroup 1107 1136 Caffeine/Xanthine Derivatives
+T31 DrugGroup 1158 1198 Central Nervous System (CNS) Depressants
+T32 DrugGroup 1200 1216 Classes of Drugs
+T33 ContextualInformation 1253 1269 Clinical Comment
+T21 DrugGroup 777 791   Anticoagulants
+T34 ClinicalConsequenceOther 1291 1305  linical Impact
+T35 ClinicalConsequencePK 1437 1441 Cmax
+T36 ClinicalConsequenceOther 1308 1329  Clinical Implications
+T37 ManagementOption 1385 1408  Clinical Recommendation
+T38 ClinicalConsequencePK 1354 1383 Magnitude of Drug Interaction
+T39 Mechanism 1331 1349 Clinical Rationale
+T40 ClinicalConsequencePK 1443 1478 Cmax SS (Peak plasma concentration)
+T41 ClinicalConsequencePK 1480 1514 Cmax ofCoadministeredDrug (95% CI)
+T42 ClinicalConsequencePK 1516 1549 Cmax ofCoadministeredDrug(90% CI)
+#1  AnnotatorNotes T10  heading title is a drug group but refers to individual drugs in subgroup
+#2  AnnotatorNotes T11  heading title is a drug group but refers to individual drugs in subgroup
+#3  AnnotatorNotes T12  heading title is a drug group but refers to individual drugs in subgroup
+#4  AnnotatorNotes T13  heading title is a drug group but refers to individual drugs in subgroup
+#5  AnnotatorNotes T20  heading title is a drug group but refers to individual drugs in subgroup
+#6  AnnotatorNotes T21  heading title is a drug group, refers to its derivatives
+#7  AnnotatorNotes T23  heading title is a drug group but refers to individual drugs in subgroup
+#8  AnnotatorNotes T24  heading title is a drug group but refers to individual drugs in subgroup
+#9  AnnotatorNotes T25  heading title is a drug group but refers to individual drugs in subgroup
+T43 ClinicalConsequencePK 1551 1576 Cmax ofDidanosine(90% CI)
+T44 ClinicalConsequencePK 1578 1603 Cmax ofDidanosine(95% CI)
+T45 ClinicalConsequencePK 1644 1669 Cmax of Stavudine(95% CI)
+T46 ClinicalConsequencePK 1671 1675 Cmax
+T47 ClinicalConsequencePK 1727 1730 min
+T48 ClinicalConsequencePK 1719 1723 Cmax
+T49 DrugIndividual 1732 1752    Co-administered Drug
+T50 ManagementOption 1754 1789  Co-administered Drug Dose (Schedule
+T51 ContextualInformation 1901 1909 Comments
+T52 DrugGroup 1929 1959 Concomitant Drug Class or Food
+T53 DrugGroup 1961 1983 Concomitant Drug Class
+T54 DrugIndividual 1985 1994    Drug Name
+T55 DrugGroup 2030 2052 Concomitant Drug Class
+T56 DrugIndividual 2053 2067    Specific Drugs
+T57 DrugGroup 2069 2104 Concomitant Drug Name or Drug Class
+T58 ClinicalConsequencePK 2143 2163 Conjugated Estrogens
+T59 ClinicalConsequencePK 2165 2210 Conjugated Estrogens plus PROMETRIUM Capsules
+T60 DrugGroup 2261 2276 Corticosteroids
+T61 DrugGroup 2278 2290 Cyclosporine
+T62 ClinicalConsequenceOther 2292 2318  DESCRIPTION OF INTERACTION
+T63 ManagementOption 2348 2365  Didanosine Dosage
+T64 ContextualInformation 2385 2392 Diluent
+T65 ManagementOption 2394 2427  Dosage Adjustment of Aripiprazole
+T66 ManagementOption 2503 2507  Dose
+T67 ManagementOption 2524 2528  Dose
+T68 ManagementOption 2547 2550  ose
+T69 ClinicalConsequencePK 2569 2573 Dose
+T70 ManagementOption 2725 2740  Dosing Schedule
+T71 ManagementOption 2701 2723  Dosing Recommendations
+T72 DrugGroup 2783 2793 Drug Class
+T73 DrugGroup 2795 2805 Drug Class
+T74 DrugIndividual 2807 2816    Drug Name
+T75 DrugIndividual 3032 3041    Drug Name
+T76 ContextualInformation 2818 2893 Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
+#10 AnnotatorNotes T76  table title
+T77 ClinicalConsequencePK 3056 3076 Drug Plasma Exposure
+T78 DrugGroup 3151 3158 Drug(s)
+#11 AnnotatorNotes T78  lists both individual drugs and drug groups
+T79 DrugGroup 3139 3149 Drug Class
+T80 DrugIndividual 3131 3135    Drug
+T81 DrugGroup 3160 3206 Drug(s) Affecting Pharmacokinetics of CIPRO XR
+#12 AnnotatorNotes T81  also includes some individual drugs
+T82 DrugGroup 3208 3272 Drug(s) Affecting Pharmacokinetics of Ciprofloxacin Tablets, USP
+#13 AnnotatorNotes T82  also includes some individual drugs
+T83 DrugGroup 3274 3321 Drug(s) with Pharmacokinetics Affected by KETEK
+#14 AnnotatorNotes T83  also includes some individual drugs
+T84 Mechanism 3322 3346 Mechanism of interaction
+T85 DrugIndividual 3359 3363    Drug
+T86 DrugGroup 3364 3374 Drug Class
+T87 Mechanism 3375 3399 Mechanism of Interaction
+T88 DrugIndividual 3418 3422    Drug
+T89 DrugGroup 3423 3433 Drug Class
+T90 Mechanism 3434 3458 Mechanism of Interaction
+T91 ContextualInformation 3585 3619 Drugs Known to Prolong QT Interval
+T92 DrugIndividual 3621 3653    Drugs That Are Affected By KETEK
+T93 ContextualInformation 3655 3691 Drugs That Interfere with Hemostasis
+T94 DrugGroup 3693 3707 Drugs That May
+T95 DrugGroup 3743 3766 Drugs That are Affected
+#15 AnnotatorNotes T95  also provides management options
+T96 DrugGroup 3777 3800 Drugs That are Affected
+#16 AnnotatorNotes T96  also provides management options
+T97 DrugGroup 3814 3837 Drugs That are Affected
+#17 AnnotatorNotes T97  also provides management options
+T98 DrugGroup 3856 3909 Drugs That are Affected by Ciprofloxacin Tablets, USP
+#18 AnnotatorNotes T98  also provides management options
+T99 Mechanism 3911 3945 Drugs known to prolong QT interval
+T100    ClinicalConsequencePK 8296 8304 Mean AUC
+T101    ClinicalConsequencePK 8306 8315 Mean Cmax
+T102    DrugGroup 4002 4018 Drugs that alter
+T103    DrugGroup 4046 4066 Drugs that may alter
+#19 AnnotatorNotes T103 also includes some individual drugs
+T104    DrugGroup 4091 4111 Drugs that may alter
+#20 AnnotatorNotes T104 also includes some individual drugs
+T105    DrugGroup 4271 4291 Drugs that may alter
+#21 AnnotatorNotes T105 also includes some individual drugs
+T106    DrugGroup 4404 4418 Drugs that may
+#22 AnnotatorNotes T106 also includes some individual drugs
+T107    DrugGroup 4460 4474 Drugs that may
+#23 AnnotatorNotes T107 also includes some individual drugs
+T108    DrugGroup 4485 4498 Drugs that ma
+#24 AnnotatorNotes T108 also includes some individual drugs
+T109    DrugGroup 4539 4553 Drugs that may
+#25 AnnotatorNotes T109 also includes some individual drugs
+T110    DrugGroup 4741 4755 Drugs that may
+#26 AnnotatorNotes T110 also includes some individual drugs
+T111    DrugGroup 4790 4804 Drugs that may
+#27 AnnotatorNotes T111 also includes some individual drugs
+T112    DrugGroup 4963 4977 Drugs that may
+#28 AnnotatorNotes T112 also includes some individual drugs
+T113    DrugGroup 4988 5002 Drugs that may
+#29 AnnotatorNotes T113 also includes some individual drugs
+T114    DrugGroup 5146 5160 Drugs that may
+#30 AnnotatorNotes T114 also includes some individual drugs
+T115    DrugGroup 5195 5209 Drugs that may
+#31 AnnotatorNotes T115 also includes some individual drugs
+T116    DrugGroup 5370 5384 Drugs that may
+#32 AnnotatorNotes T116 also includes some individual drugs
+T117    DrugGroup 5703 5733 Drugs with a known interaction
+#33 AnnotatorNotes T117 also includes some individual drugs
+T118    DrugGroup 5890 5895 Drugs
+#34 AnnotatorNotes T118 also includes some individual drugs
+T119    ClinicalConsequenceOther 5898 5904  EFFECT
+T120    ClinicalConsequencePK 5914 5937 Effect on Active Moiety
+T121    ClinicalConsequencePK 6084 6107 Effect on Concentration
+T122    ClinicalConsequencePK 6109 6132 Effect on Concentration
+T123    ClinicalConsequencePK 6168 6191 Effect on Concentration
+T124    ClinicalConsequencePK 6227 6250 Effect on Concentration
+T125    ClinicalConsequencePK 6287 6310 Effect on Concentration
+T126    ClinicalConsequencePK 6346 6369 Effect on Concentration
+T127    ClinicalConsequencePK 6406 6429 Effect on Concentration
+T128    ClinicalConsequencePK 6614 6636 Effect onConcentration
+T129    DrugIndividual 7013 7019    Enzyme
+#35 AnnotatorNotes T129 lists different CYP inhibitors
+T130    DrugIndividual 7021 7047    Enzyme (CYP2D6) Inhibitors
+T131    DrugIndividual 7133 7158    Enzyme (CYP3A) Inhibitors
+T132    DrugIndividual 7186 7223    Enzyme (CYP3A/ PgP inducers) Inducers
+T133    FrequencyExposure 7225 7233 Exposure
+T134    ContextualInformation 7235 7242 Factors
+T135    DrugIndividual 7269 7284    Glucocorticoids
+T136    DrugIndividual 7286 7306    HIV Antiviral Agents
+T137    DrugIndividual 7308 7328    HIV Antiviral Agents
+T138    DrugIndividual 7388 7408    HIV Antiviral Agents
+T139    DrugIndividual 7437 7459    HIV-1-Antiviral Agents
+T140    DrugIndividual 7514 7542    Hepatitis C Antiviral Agents
+T141    DrugIndividual 7576 7584    Inducers
+T142    ClinicalConsequencePK 7586 7661 Influence of AED on MHD Concentration(Mean Change, 90% Confidence Interval)
+T143    ClinicalConsequencePK 7663 7748 Influence of Oxcarbazepine on AED Concentration(Mean Change, 90% Confidence Interval)
+T144    DrugIndividual 7750 7760    Inhibitors
+T145    DrugIndividual 7762 7780    Interacting Agents
+T146    DrugIndividual 7782 7798    Interacting Drug
+T147    Mechanism 7935 7946 Interaction
+T148    ContextualInformation 8004 8034 Known CYP2D6 Poor Metabolizers
+#36 AnnotatorNotes T148 not a header but provides specific information for the interaction
+T149    ContextualInformation 8036 8095 Known CYP2D6 Poor Metabolizers and strong CYP3A4 inhibitors
+#37 AnnotatorNotes T149 not a header but provides specific information for the interaction
+T150    ClinicalConsequencePK 8111 8210 Mean (SD) Noncompartmental Pharmacokinetic Parameters After Multiple Doses of 5 mg/day in Older Men
+T151    ClinicalConsequencePK 8212 8281 Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15)
+T152    ClinicalConsequencePK 8283 8294 Mean (± SD)
+T153    DrugIndividual 8317 8329    Methotrexate
+#38 AnnotatorNotes T153 not an actual header
+T154    DrugGroup 8331 8344 Miscellaneous
+#39 AnnotatorNotes T154 main heading with "drug name" and "effect" subheadings
+T155    ManagementOption 8346 8352  NSAIDs
+#40 AnnotatorNotes T155 not a heading but recommendations are given in the adjacent column
+T156    DrugIndividual 8354 8382    Name of the Concomitant Drug
+T157    Mechanism 8384 8412 Noted or anticipated Outcome
+T158    DrugIndividual 8414 8432    OATP1B1 Inhibitors
+#41 AnnotatorNotes T158 also explains the clinical impact and recommendations on use
+T159    DrugIndividual 8434 8460    OATP1B1 and BCRP Substrate
+#42 AnnotatorNotes T159 also explains the clinical impact and recommendations on use
+T160    ManagementOption 8462 8485  Oral antidiabetic drugs
+#43 AnnotatorNotes T160 not a heading but recommendations are given in the adjacent column
+T161    DrugIndividual 8487 8497    Oral drugs
+T162    DrugIndividual 8586 8596    Oral drugs
+T163    DrugIndividual 8647 8657    Oral drugs
+T164    DrugIndividual 8753 8763    Oral drugs
+T165    DrugIndividual 8859 8869    Oral drugs
+T166    DrugIndividual 8920 8930    Oral drugs
+T167    DrugGroup 9077 9089 Other Agents
+#44 AnnotatorNotes T167 also includes individual drugs
+T168    DrugIndividual 9128 9159    Other Drugs/Dietary Supplements
+T169    ManagementOption 9163 9189  Oxcarbazepine Dose(mg/day)
+T170    ManagementOption 9191 9218  Prescribing Recommendations
+T171    ManagementOption 9220 9247  Prescribing Recommendations
+T172    ClinicalConsequenceOther 9355 9374  Radiographic Agents
+#45 AnnotatorNotes T172 not a heading but the effect are given in the adjacent column
+T173    ManagementOption 10075 10088    ecommendation
+T174    ManagementOption 10090 10104    Recommendation
+T175    ManagementOption 10116 10131    Recommendations
+T176    ManagementOption 10221 10236    Recommendations
+T177    ManagementOption 10419 10433    Recommendation
+T178    ManagementOption 10452 10466    Recommendation
+T179    ManagementOption 10486 10500    Recommendation
+T180    DrugIndividual 10534 10548  Specific Drugs
+T181    DrugIndividual 10550 10573  Specific Drugs Reported
+T182    ManagementOption 10575 10592    Stavudine  Dosage
+T183    DrugGroup 10594 10616   Strong CYP3A4 Inducers
+#46 AnnotatorNotes T183 not a heading
+T184    DrugGroup 10650 10674   Strong CYP3A4 Inhibitors
+#47 AnnotatorNotes T184 not a heading
+T185    DrugGroup 10715 10739   strong CYP2D6 inhibitors
+#48 AnnotatorNotes T185 not a heading
+T186    DrugGroup 10783 10807   Strong CYP3A4 inhibitors
+#49 AnnotatorNotes T186 not a heading
+T187    DrugGroup 11013 11037   Strong CYP3A4 inhibitors
+#50 AnnotatorNotes T187 not a heading
+T188    DrugGroup 11276 11292   Sympathomimetics
+#51 AnnotatorNotes T188 not a heading
+T189    ClinicalConsequencePK 11294 11315   TOPAMAX Concentration
+T190    ClinicalConsequencePK 11317 11325   Tmax(hr)
+T191    Mechanism 11431 11450   Type Of Interaction
+T192    ContextualInformation 11473 11507   Vardenafil 10 mgPlacebo-subtracted
+#52 AnnotatorNotes T192 refers to blood pressure outcome
+T193    ContextualInformation 11509 11543   Vardenafil 20 mgPlacebo-subtracted
+#53 AnnotatorNotes T193 refers to blood pressure outcome
+T194    ClinicalConsequencePK 11615 11677   Voriconazole Plasma Exposure (Cmax and AUC? after 200 mg q12h)
+T195    ContextualInformation 11865 11881   blood dyscrasias
+T196    ContextualInformation 12160 12209   edema hereditary coumarin resistance hyperlipemia
+T197    DrugIndividual 12263 12286  serum TBG concentration
+#54 AnnotatorNotes T197 not a heading but drugs that may increase serum TBG concentration are listed
