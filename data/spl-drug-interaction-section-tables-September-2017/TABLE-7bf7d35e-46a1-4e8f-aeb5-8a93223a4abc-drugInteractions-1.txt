@@ -1,0 +1,63 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 25: Clinically Important Drug Interactions with Aripiprazole: 
+			</caption>
+<colgroup>
+<col width="28.2%"></col>
+<col width="39.76%"></col>
+<col width="32.04%"></col>
+</colgroup>
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Concomitant Drug Name or Drug Class</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Clinical Rationale</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Clinical Recommendation</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Strong CYP3A4 Inhibitors (e.g., itraconazole, clarithromycin) or strong CYP2D6 inhibitors (e.g., quinidine, fluoxetine, paroxetine)      <br/> <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">The concomitant use of aripiprazole with strong CYP 3A4 or CYP2D6 inhibitors increased the exposure of aripiprazole compared to the use of aripiprazole alone <content stylecode="italics">[see <linkhtml href="#Section_12.3">CLINICAL PHARMACOLOGY (12.3)</linkhtml>].</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">With concomitant use of aripiprazole with a strong CYP3A4 inhibitor or CYP2D6 inhibitor, reduce the aripiprazole dosage <content stylecode="italics">[see <linkhtml href="#Section_2.5">DOSAGE AND ADMINISTRATION (2.7)</linkhtml>].</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Strong CYP3A4 Inducers (e.g., carbamazepine, rifampin)         <br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">The concomitant use of aripiprazole and carbamazepine decreased the exposure of aripiprazole compared to the use of aripiprazole alone <content stylecode="italics">[see  <linkhtml href="#Section_12.3">CLINICAL PHARMACOLOGY (12.3)</linkhtml>].</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">With concomitant use of aripiprazole with a strong CYP3A4 inducer, consider increasing the aripiprazole dosage <content stylecode="italics">[see D<linkhtml href="#Section_2.5">OSAGE AND ADMINISTRATION (2.7)</linkhtml>].</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Antihypertensive Drugs<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">Due to its alpha adrenergic antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive agents.<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">Monitor blood pressure and adjust dose accordingly <content stylecode="italics">[see <linkhtml href="#Section_5.6">WARNINGS AND PRECAUTIONS (5.8)</linkhtml>].</content>
+<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Benzodiazepines (e.g., lorazepam)<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">The intensity of sedation was greater with the combination of oral aripiprazole and lorazepam as compared to that observed with aripiprazole alone. The orthostatic hypotension observed was greater with the combination as compared to that observed with lorazepam alone <content stylecode="italics">[see <linkhtml href="#Section_5.6">WARNINGS AND PRECAUTIONS (5.8)</linkhtml>].</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">Monitor sedation and blood pressure. Adjust dose accordingly.<br/> <br/>
+</td>
+</tr>
+</tbody>
+</table>

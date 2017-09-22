@@ -1,0 +1,69 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 13. Established and Other Potentially Significant Drug Interactions</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Concomitant Drug</th>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Effect on Concentration of Lamotrigine or Concomitant Drug</th>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Clinical Comment</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↓= Decreased (induces lamotrigine gluronidation).</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↑= Increased (inhibits lamotrigine glucuronidation).</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ?= Conflicting data.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Estrogen-containing oral contraceptive preparations containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↓ lamotrigine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreased lamotrigine levels approximately 50%.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↓ levonorgestrel </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decrease in levonorgestrel component by 19%.</td>
+</tr>
+<tr>
+<td rowspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Carbamazepine and carbamazepine epoxide</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↓ lamotrigine </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Addition of carbamazepine decreases lamotrigine concentration approximately 40%.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ? carbamazepine epoxide</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> May increase carbamazepine epoxide levels.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Phenobarbital/Primidone </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↓ lamotrigine </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreased lamotrigine concentration approximately 40%.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Phenytoin (PHT) </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↓ lamotrigine </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreased lamotrigine concentration approximately 40%.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Rifampin</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↓ lamotrigine </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreased lamotrigine AUC approximately 40%.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Valproate </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ↑ lamotrigine </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Increased lamotrigine concentrations slightly more than 2-fold.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> ? valproate </td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreased valproate concentrations an average of 25% over a 3-week period then stabilized in healthy volunteers; no change in controlled clinical trials in epilepsy patients.</td>
+</tr>
+</tbody>
+</table>

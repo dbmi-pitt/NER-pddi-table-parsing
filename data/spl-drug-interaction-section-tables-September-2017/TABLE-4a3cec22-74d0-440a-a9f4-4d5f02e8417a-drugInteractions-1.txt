@@ -1,0 +1,74 @@
+<table width="90.04%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="40%"></col>
+<col width="60%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Interacting Drug</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Interaction</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Theophylline</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Serious and fatal reactions. Avoid concomitant use. Monitor serum level. (<linkhtml href="#ID_d751a9b8-1e1c-4afa-bda1-a08af9f7735d">5.9</linkhtml>, <linkhtml href="#ID_25fdfceb-5547-44db-ab8d-22efd2edb806">7</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Warfarin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Anticoagulant effect enhanced. Monitor prothrombin time, INR, and bleeding. (<linkhtml href="#ID_25fdfceb-5547-44db-ab8d-22efd2edb806">7</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Antidiabetic agents</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Hypoglycemia including fatal outcomes have been reported. Monitor blood glucose. (<linkhtml href="#ID_25fdfceb-5547-44db-ab8d-22efd2edb806">7</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Phenytoin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Monitor phenytoin level (<linkhtml href="#ID_25fdfceb-5547-44db-ab8d-22efd2edb806">7</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Methotrexate </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Monitor for methotrexate toxicity (7)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Cyclosporine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>May increase serum creatinine. Monitor serum creatinine. (<linkhtml href="#ID_25fdfceb-5547-44db-ab8d-22efd2edb806">7</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>Multivalent cation-containing products including antacids, metal cations or didanosine</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>Decreased CIPRO absorption. Take 2 hours before or 6 hours after CIPRO (<linkhtml href="#ID_24ccef4d-eb3e-4f8b-9410-552cd1a6daea">2.2</linkhtml>, <linkhtml href="#ID_25fdfceb-5547-44db-ab8d-22efd2edb806">7</linkhtml>)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

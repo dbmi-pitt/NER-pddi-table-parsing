@@ -1,0 +1,128 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: Drugs Having Clinically Important Interactions with Amphetamines</caption>
+<col align="left" valign="top" width="15%"></col>
+<col align="left" valign="top" width="85%"></col>
+<thead>
+<tr>
+<th colspan="2" stylecode="Lrule Rrule">
+<content stylecode="underline">Monoamine Oxidase Inhibitors (MAOIs)</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clinical Impact</td>
+<td stylecode="Rrule">Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Intervention</td>
+<td stylecode="Rrule">Do not administer MAS-ER Capsules concomitantly or within 14 days after discontinuing MAOI <content stylecode="italics">[see <linkhtml href="#S4">CONTRAINDICATIONS (4)</linkhtml> and <linkhtml href="#S5.6">WARNINGS AND PRECAUTIONS (5.6)</linkhtml>]</content>.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Examples</td>
+<td stylecode="Rrule">selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="2" stylecode="Lrule Rrule">
+<content stylecode="bold underline">Serotonergic Drugs</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clinical Impact</td>
+<td stylecode="Rrule">The concomitant use of MAS-ER Capsules and serotonergic drugs increases the risk of serotonin syndrome.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Intervention</td>
+<td stylecode="Rrule">Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during MAS-ER Capsules initiation or dosage increase. If serotonin syndrome occurs, discontinue MAS-ER Capsules and the concomitant serotonergic drug(s) <content stylecode="italics">[see <linkhtml href="#S5.6">WARNINGS AND PRECAUTIONS (5.6)</linkhtml>]</content>.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Examples</td>
+<td stylecode="Rrule">selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="2" stylecode="Lrule Rrule">
+<content stylecode="bold underline">CYP2D6 Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clinical Impact</td>
+<td stylecode="Rrule">The concomitant use of MAS-ER Capsules and CYP2D6 inhibitors may increase the exposure of MAS-ER Capsules compared to the use of the drug alone and increase the risk of serotonin syndrome.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Intervention</td>
+<td stylecode="Rrule">Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during MAS-ER Capsules initiation and after a dosage increase. If serotonin syndrome occurs, discontinue MAS-ER Capsules and the CYP2D6 inhibitor <content stylecode="italics">[see <linkhtml href="#S5.6">WARNINGS AND PRECAUTIONS (5.6)</linkhtml> and <linkhtml href="#S10">OVERDOSAGE (10)</linkhtml>]</content>.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Examples</td>
+<td stylecode="Rrule">paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="2" stylecode="Lrule Rrule">
+<content stylecode="bold underline">Alkalinizing Agents</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clinical Impact</td>
+<td stylecode="Rrule">Increase blood levels and potentiate the action of amphetamine.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Intervention</td>
+<td stylecode="Rrule">Co-administration of MAS-ER Capsules and gastrointestinal or urinary alkalinizing agents should be avoided.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Examples</td>
+<td stylecode="Rrule">Gastrointestinal alkalinizing agents (e.g., sodium bicarbonate). Urinary alkalinizing agents (e.g. acetazolamide, some thiazides).</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="2" stylecode="Lrule Rrule">
+<content stylecode="bold underline">Acidifying Agents</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clinical Impact</td>
+<td stylecode="Rrule">Lower blood levels and efficacy of amphetamines.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Intervention</td>
+<td stylecode="Rrule">Increase dose based on clinical response.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Examples</td>
+<td stylecode="Rrule">Gastrointestinal acidifying agents (e.g., guanethidine, reserpine, glutamic acid HCl, ascorbic acid). Urinary acidifying agents (e.g., ammonium chloride, sodium acid phosphate, methenamine salts).</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="2" stylecode="Lrule Rrule">
+<content stylecode="bold underline">Tricyclic Antidepressants</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clinical Impact</td>
+<td stylecode="Rrule">May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Intervention</td>
+<td stylecode="Rrule">Monitor frequently and adjust or use alternative therapy based on clinical response.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Examples</td>
+<td stylecode="Rrule">desipramine, protriptyline</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="2" stylecode="Lrule Rrule">
+<content stylecode="bold underline">Proton Pump Inhibitors</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Clinical Impact</td>
+<td stylecode="Rrule">Time to maximum concentration (Tmax) of amphetamine is decreased compared to when administered alone.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Intervention</td>
+<td stylecode="Rrule">Monitor patients for changes in clinical effect and adjust therapy based on clinical response.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Examples</td>
+<td stylecode="Rrule">omeprazole</td>
+</tr>
+</tbody>
+</table>

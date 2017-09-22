@@ -1,0 +1,514 @@
+<table width="508.2pt" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="33%"></col>
+<col width="22%"></col>
+<col width="45%"></col>
+<tbody>
+<tr>
+<td colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Table 8: Clinically Significant Drug Interactions with Clarithromycin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Drugs That Are Affected By Clarithromycin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Drug(s) with Pharmacokinetics Affected by Clarithromycin</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Recommendation</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Comments</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antiarrhythmics: </paragraph>
+<paragraph>Disopyramide </paragraph>
+<paragraph>Quinidine </paragraph>
+<paragraph>Dofetilide </paragraph>
+<paragraph>Amiodarone </paragraph>
+<paragraph>Sotalol </paragraph>
+<paragraph>Procainamide </paragraph>
+<paragraph>Digoxin </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Not Recommended</paragraph>
+<paragraph>Use With Caution</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Disopyramide, Quinidine:</content> There have been postmarketing reports of <content stylecode="italics">torsades de pointes</content> occurring with concurrent use of clarithromycin and quinidine or disopyramide. Electrocardiograms should be monitored for QTc prolongation during coadministration of clarithromycin with these drugs <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#ID_b9725df8-b16f-47d0-a30d-3b3753bac377">5.3</linkhtml>)].</content>
+</paragraph>
+<paragraph>Serum concentrations of these medications should also be monitored. There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with disopyramide and quinidine. </paragraph>
+<paragraph>There have been postmarketing reports of hypoglycemia with the concomitant administration of clarithromycin and disopyramide. Therefore, blood glucose levels should be monitored during concomitant administration of clarithromycin and disopyramide. </paragraph>
+<paragraph>
+<content stylecode="underline">Digoxin:</content> Digoxin is a substrate for P-glycoprotein (Pgp) and clarithromycin is known to inhibit Pgp. When clarithromycin and digoxin are coadministered, inhibition of Pgp by clarithromycin may lead to increased exposure of digoxin. Elevated digoxin serum concentrations in patients receiving clarithromycin and digoxin concomitantly have been reported in postmarketing surveillance. Some patients have shown clinical signs consistent with digoxin toxicity, including potentially fatal arrhythmias. Monitoring of serum digoxin concentrations should be considered, especially for patients with digoxin concentrations in the upper therapeutic range. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Oral Anticoagulants: </paragraph>
+<paragraph>Warfarin </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Oral anticoagulants:</content> Spontaneous reports in the postmarketing period suggest that concomitant administration of clarithromycin and oral anticoagulants may potentiate the effects of the oral anticoagulants. Prothrombin times should be carefully monitored while patients are receiving clarithromycin and oral anticoagulants simultaneously <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#ID_75fe8426-6fe1-4354-83ce-d524bce66867">5.4</linkhtml>)].</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antiepileptics: </paragraph>
+<paragraph>Carbamazepine </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Carbamazepine:</content> Concomitant administration of single doses of clarithromycin and carbamazepine has been shown to result in increased plasma concentrations of carbamazepine. Blood level monitoring of carbamazepine may be considered. Increased serum concentrations of carbamazepine were observed in clinical trials with clarithromycin. There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with carbamazepine. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antifungals: </paragraph>
+<paragraph>Itraconazole </paragraph>
+<paragraph>Fluconazole </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+<paragraph>No Dose Adjustment </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Itraconazole:</content> Both clarithromycin and itraconazole are substrates and inhibitors of CYP3A, potentially leading to a bi-directional drug interaction when administered concomitantly (see also Itraconazole under “<linkhtml href="">Drugs That Affect Clarithromycin</linkhtml>” in the table below). Clarithromycin may increase the plasma concentrations of itraconazole. Patients taking itraconazole and clarithromycin concomitantly should be monitored closely for signs or symptoms of increased or prolonged adverse reactions. </paragraph>
+<paragraph>
+<content stylecode="underline">Fluconazole:</content>
+<content stylecode="italics">[see Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Anti-Gout Agents: </paragraph>
+<paragraph>Colchicine (in patients with renal or hepatic impairment) </paragraph>
+<paragraph>Colchicine (in patients with normal renal and hepatic function) </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Contraindicated </paragraph>
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Colchicine:</content> Colchicine is a substrate for both CYP3A and the efflux transporter, P-glycoprotein (Pgp). Clarithromycin and other macrolides are known to inhibit CYP3A and Pgp. The dose of colchicine should be reduced when coadministered with clarithromycin in patients with normal renal and hepatic function <content stylecode="italics">[see Contraindications (<linkhtml href="#ID_b2a2652d-2fde-4008-8c82-03498ea3c228">4.4</linkhtml>) and Warnings and Precautions (<linkhtml href="#ID_75fe8426-6fe1-4354-83ce-d524bce66867">5.4</linkhtml>)].</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antipsychotics: </paragraph>
+<paragraph>Pimozide </paragraph>
+<paragraph>Quetiapine </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Contraindicated </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Pimozide:</content>
+<content stylecode="italics">[see Contraindications (<linkhtml href="#ID_da39d6f0-269e-48b0-8c20-aa44ecea75f0">4.2</linkhtml>)]</content>
+</paragraph>
+<paragraph>
+<content stylecode="underline">Quetiapine:</content> Quetiapine is a substrate for CYP3A4, which is inhibited by clarithromycin. Coadministration with clarithromycin could result in increased quetiapine exposure and possible quetiapine related toxicities. There have been postmarketing reports of somnolence, orthostatic hypotension, altered state of consciousness, neuroleptic malignant syndrome, and QT prolongation during concomitant administration. Refer to quetiapine prescribing information for recommendations on dose reduction if coadministered with CYP3A4 inhibitors such as clarithromycin.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antispasmodics: </paragraph>
+<paragraph>Tolterodine (patients deficient in CYP2D6 activity) </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Tolterodine:</content> The primary route of metabolism for tolterodine is via CYP2D6. However, in a subset of the population devoid of CYP2D6, the identified pathway of metabolism is via CYP3A. In this population subset, inhibition of CYP3A results in significantly higher serum concentrations of tolterodine. Tolterodine 1 mg twice daily is recommended in patients deficient in CYP2D6 activity (poor metabolizers) when coadministered with clarithromycin. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antivirals: </paragraph>
+<paragraph>Atazanavir </paragraph>
+<paragraph>Saquinavir (in patients with decreased renal function) </paragraph>
+<paragraph>Ritonavir </paragraph>
+<paragraph>Etravirine </paragraph>
+<paragraph>Maraviroc </paragraph>
+<paragraph>Boceprevir (in patients with normal renal function) </paragraph>
+<paragraph>Didanosine </paragraph>
+<paragraph>Zidovudine </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+<paragraph>No Dose Adjustment </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Atazanavir:</content> Both clarithromycin and atazanavir are substrates and inhibitors of CYP3A, and there is evidence of a bi-directional drug interaction (see Atazanavir under “<linkhtml href="">Drugs That Affect Clarithromycin</linkhtml>” in the table below) <content stylecode="italics">[see Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)].</content>
+</paragraph>
+<paragraph>
+<content stylecode="underline">Saquinavir:</content> Both clarithromycin and saquinavir are substrates and inhibitors of CYP3A and there is evidence of a bi-directional drug interaction (see Saquinavir under “<linkhtml href="">Drugs That Affect Clarithromycin</linkhtml>” in the table below) <content stylecode="italics">[see Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)].</content>
+</paragraph>
+<paragraph>
+<content stylecode="underline">Ritonavir, Etravirine:</content> (see Ritonavir and Etravirine under “<linkhtml href="">Drugs That Affect Clarithromycin</linkhtml>” in the table below) <content stylecode="italics">[see Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)].</content>
+</paragraph>
+<paragraph>
+<content stylecode="underline">Maraviroc:</content> Clarithromycin may result in increases in maraviroc exposures by inhibition of CYP3A metabolism. See Selzentry<sup>®</sup> prescribing information for dose recommendation when given with strong CYP3A inhibitors such as clarithromycin. </paragraph>
+<paragraph>
+<content stylecode="underline">Boceprevir:</content> Both clarithromycin and boceprevir are substrates and inhibitors of CYP3A, potentially leading to a bi-directional drug interaction when coadministered. No dose adjustments are necessary for patients with normal renal function (see Victrelis<sup>®</sup> prescribing information). </paragraph>
+<paragraph>
+<content stylecode="underline">Zidovudine:</content> Simultaneous oral administration of clarithromycin immediate-release tablets and zidovudine to HIV-infected adult patients may result in decreased steady-state zidovudine concentrations. Administration of clarithromycin and zidovudine should be separated by at least two hours<content stylecode="italics"> [see Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)]</content>. <br/>
+<br/>The impact of coadministration of clarithromycin extended-release tablets or granules and zidovudine has not been evaluated. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Calcium Channel Blockers: </paragraph>
+<paragraph>Verapamil </paragraph>
+<paragraph>Amlodipine </paragraph>
+<paragraph>Diltiazem </paragraph>
+<paragraph>Nifedipine </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Verapamil:</content> Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent verapamil, <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#ID_75fe8426-6fe1-4354-83ce-d524bce66867">5.4</linkhtml>)]. </content>
+</paragraph>
+<paragraph>
+<content stylecode="underline">Amlodipine, Diltiazem:</content>
+<content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#ID_75fe8426-6fe1-4354-83ce-d524bce66867">5.4</linkhtml>)] </content>
+</paragraph>
+<paragraph>
+<content stylecode="underline">Nifedipine:</content> Nifedipine is a substrate for CYP3A. Clarithromycin and other macrolides are known to inhibit CYP3A. There is potential of CYP3A-mediated interaction between nifedipine and clarithromycin. Hypotension and peripheral edema were observed when clarithromycin was taken concomitantly with nifedipine <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#ID_75fe8426-6fe1-4354-83ce-d524bce66867">5.4</linkhtml>)]. </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Ergot Alkaloids: </paragraph>
+<paragraph>Ergotamine </paragraph>
+<paragraph>Dihydroergotamine </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Contraindicated </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Ergotamine, Dihydroergotamine:</content> Postmarketing reports indicate that coadministration of clarithromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system <content stylecode="italics">[see Contraindications (<linkhtml href="#ID_1e2247a3-8e40-401a-9949-c26d27b329c5">4.6</linkhtml>)]. </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Gastroprokinetic Agents: </paragraph>
+<paragraph>Cisapride </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Contraindicated </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Cisapride:</content>
+<content stylecode="italics">[see Contraindications (<linkhtml href="#ID_da39d6f0-269e-48b0-8c20-aa44ecea75f0">4.2</linkhtml>)]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>HMG-CoA Reductase Inhibitors:</paragraph>
+<paragraph>Lovastatin </paragraph>
+<paragraph>Simvastatin </paragraph>
+<paragraph>Atorvastatin </paragraph>
+<paragraph>Pravastatin </paragraph>
+<paragraph>Fluvastatin </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Contraindicated </paragraph>
+<paragraph>Use With Caution </paragraph>
+<paragraph>No Dose Adjustment </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Lovastatin, Simvastatin, Atorvastatin, Pravastatin, Fluvastatin:</content>
+<content stylecode="italics">[see Contraindications (<linkhtml href="#ID_7836a072-d7b2-4551-b22d-08ba3d04ea98">4.5</linkhtml>) and Warnings and Precautions (<linkhtml href="#ID_75fe8426-6fe1-4354-83ce-d524bce66867">5.4</linkhtml>)]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Hypoglycemic Agents: </paragraph>
+<paragraph>Nateglinide </paragraph>
+<paragraph>Pioglitazone </paragraph>
+<paragraph>Repaglinide </paragraph>
+<paragraph>Rosiglitazone </paragraph>
+<paragraph>Insulin </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Nateglinide, Pioglitazone, Repaglinide, Rosiglitazone:</content>
+<content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#ID_75fe8426-6fe1-4354-83ce-d524bce66867">5.4</linkhtml>) and Adverse Reactions (<linkhtml href="#ID_e90dcb67-eaa8-40aa-b9e7-7c86806508fb">6.2</linkhtml>)]</content>
+</paragraph>
+<paragraph>
+<content stylecode="underline">Insulin:</content>
+<content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#ID_75fe8426-6fe1-4354-83ce-d524bce66867">5.4</linkhtml>) and Adverse Reactions (<linkhtml href="#ID_e90dcb67-eaa8-40aa-b9e7-7c86806508fb">6.2</linkhtml>)]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Immunosuppressants: </paragraph>
+<paragraph>Cyclosporine </paragraph>
+<paragraph>Tacrolimus </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Cyclosporine:</content> There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with cyclosporine. </paragraph>
+<paragraph>
+<content stylecode="underline">Tacrolimus:</content> There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with tacrolimus. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Phosphodiesterase inhibitors: </paragraph>
+<paragraph>Sildenafil </paragraph>
+<paragraph>Tadalafil </paragraph>
+<paragraph>Vardenafil </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Sildenafil, Tadalafil, Vardenafil:</content> Each of these phosphodiesterase inhibitors is primarily metabolized by CYP3A, and CYP3A will be inhibited by concomitant administration of clarithromycin. Coadministration of clarithromycin with sildenafil, tadalafil, or vardenafil will result in increased exposure of these phosphodiesterase inhibitors. Coadministration of these phosphodiesterase inhibitors with clarithromycin is not recommended. Increased systemic exposure of these drugs may occur with clarithromycin; reduction of dosage for phosphodiesterase inhibitors should be considered (see their respective prescribing information). </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Proton Pump Inhibitors: </paragraph>
+<paragraph>Omeprazole </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>No Dose Adjustment </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Omeprazole:</content> The mean 24-hour gastric pH value was 5.2 when omeprazole was administered alone and 5.7 when coadministered with clarithromycin as a result of increased omeprazole exposures <content stylecode="italics">[see Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)]</content> (see also Omeprazole under “<linkhtml href="">Drugs That Affect Clarithromycin</linkhtml>” in the table below). </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Xanthine Derivatives: </paragraph>
+<paragraph>Theophylline </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Theophylline:</content> Clarithromycin use in patients who are receiving theophylline may be associated with an increase of serum theophylline concentrations <content stylecode="italics">[see Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)]. </content>Monitoring of serum theophylline concentrations should be considered for patients receiving high doses of theophylline or with baseline concentrations in the upper therapeutic range. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Triazolobenzodiazepines and Other Related Benzodiazepines: </paragraph>
+<paragraph>Midazolam </paragraph>
+<paragraph>Alprazolam </paragraph>
+<paragraph>Triazolam </paragraph>
+<paragraph>Temazepam </paragraph>
+<paragraph>Nitrazepam </paragraph>
+<paragraph>Lorazepam </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+<paragraph>No Dose Adjustment </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Midazolam:</content> When oral midazolam is coadministered with clarithromycin, dose adjustments may be necessary and possible prolongation and intensity of effect should be anticipated <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#ID_75fe8426-6fe1-4354-83ce-d524bce66867">5.4</linkhtml>) and Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)].</content>
+</paragraph>
+<paragraph>
+<content stylecode="underline">Triazolam, Alprazolam:</content> Caution and appropriate dose adjustments should be considered when triazolam or alprazolam is coadministered with clarithromycin. There have been postmarketing reports of drug interactions and central nervous system (CNS) effects (e.g., somnolence and confusion) with the concomitant use of clarithromycin and triazolam. Monitoring the patient for increased CNS pharmacological effects is suggested. </paragraph>
+<paragraph>In postmarketing experience, erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines. </paragraph>
+<paragraph>
+<content stylecode="underline">Temazepam, Nitrazepam, Lorazepam:</content> For benzodiazepines which are not metabolized by CYP3A (e.g., temazepam, nitrazepam, lorazepam), a clinically important interaction with clarithromycin is unlikely. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Cytochrome P450 Inducers: </paragraph>
+<paragraph>Rifabutin </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Rifabutin:</content> Concomitant administration of rifabutin and clarithromycin resulted in an increase in rifabutin, and decrease in clarithromycin serum levels together with an increased risk of uveitis (see Rifabutin under “<linkhtml href="">Drugs That Affect Clarithromycin</linkhtml>” in the table below). </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Other Drugs Metabolized by CYP3A:</paragraph>
+<paragraph>Alfentanil </paragraph>
+<paragraph>Bromocriptine </paragraph>
+<paragraph>Cilostazol </paragraph>
+<paragraph>Methylprednisole </paragraph>
+<paragraph>Vinblastine </paragraph>
+<paragraph>Phenobarbital </paragraph>
+<paragraph>St. John’s Wort </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with alfentanil, methylprednisolone, cilostazol, bromocriptine, vinblastine, phenobarbital, and St. John’s Wort. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Other Drugs Metabolized by CYP450 Isoforms Other than CYP3A: </paragraph>
+<paragraph>Hexobarbital </paragraph>
+<paragraph>Phenytoin </paragraph>
+<paragraph>Valproate </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>There have been postmarketing reports of interactions of clarithromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate. </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Drugs that Affect Clarithromycin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Drug(s) that Affect the Pharmacokinetics of Clarithromycin</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Recommendation</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Comments</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antifungals: </paragraph>
+<paragraph>Itraconazole </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Itraconazole:</content> Itraconazole may increase the plasma concentrations of clarithromycin. Patients taking itraconazole and clarithromycin concomitantly should be monitored closely for signs or symptoms of increased or prolonged adverse reactions (see also Itraconazole under “<linkhtml href="">Drugs That Are Affected By Clarithromycin</linkhtml>” in the table above). </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antivirals: </paragraph>
+<paragraph>Atazanavir </paragraph>
+<paragraph>Ritonavir (in patients with decreased renal function) </paragraph>
+<paragraph>Saquinavir (in patients with decreased renal function) </paragraph>
+<paragraph>Etravirine </paragraph>
+<paragraph>Saquinavir (in patients with normal renal function) </paragraph>
+<paragraph>Ritonavir (in patients with normal renal function) </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+<paragraph>No Dose Adjustments</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Atazanavir:</content> When clarithromycin is coadministered with atazanavir, the dose of clarithromycin should be decreased by 50% <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)]. </content>
+</paragraph>
+<paragraph>Since concentrations of 14-OH clarithromycin are significantly reduced when clarithromycin is coadministered with atazanavir, alternative antibacterial therapy should be considered for indications other than infections due to <content stylecode="italics">Mycobacterium avium</content> complex. Doses of clarithromycin greater than 1000 mg per day should not be coadministered with protease inhibitors. </paragraph>
+<paragraph>
+<content stylecode="underline">Ritonavir:</content> Since concentrations of 14-OH clarithromycin are significantly reduced when clarithromycin is coadministered with ritonavir, alternative antibacterial therapy should be considered for indications other than infections due to <content stylecode="italics">Mycobacterium avium</content>
+<content stylecode="italics">[see Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)]. </content>
+</paragraph>
+<paragraph>Doses of clarithromycin greater than 1000 mg per day should not be coadministered with protease inhibitors. </paragraph>
+<paragraph>
+<content stylecode="underline">Saquinavir:</content> When saquinavir is coadministered with ritonavir, consideration should be given to the potential effects of ritonavir on clarithromycin (refer to ritonavir above) <content stylecode="italics">[see Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)]. </content>
+</paragraph>
+<paragraph>
+<content stylecode="underline">Etravirine:</content> Clarithromycin exposure was decreased by etravirine; however, concentrations of the active metabolite, 14-OH-clarithromycin, were increased. Because 14-OH-clarithromycin has reduced activity against <content stylecode="italics">Mycobacterium avium </content>complex (MAC), overall activity against this pathogen may be altered; therefore alternatives to clarithromycin should be considered for the treatment of MAC. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Proton Pump Inhibitors: </paragraph>
+<paragraph>Omeprazole </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="underline">Omeprazole:</content> Clarithromycin concentrations in the gastric tissue and mucus were also increased by concomitant administration of omeprazole <content stylecode="italics">[see Pharmacokinetics (<linkhtml href="#ID_b8c968b8-845f-40e9-a2ab-e6863a6358e5">12.3</linkhtml>)]. </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Miscellaneous Cytochrome P450 Inducers: </paragraph>
+<paragraph>Efavirenz </paragraph>
+<paragraph>Nevirapine </paragraph>
+<paragraph>Rifampicin </paragraph>
+<paragraph>Rifabutin </paragraph>
+<paragraph>Rifapentine </paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Use With Caution </paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Inducers of CYP3A enzymes, such as efavirenz, nevirapine, rifampicin, rifabutin, and rifapentine will increase the metabolism of clarithromycin, thus decreasing plasma concentrations of clarithromycin, while increasing those of 14-OH-clarithromycin. Since the microbiological activities of clarithromycin and 14-OH-clarithromycin are different for different bacteria, the intended therapeutic effect could be impaired during concomitant administration of clarithromycin and enzyme inducers. Alternative antibacterial treatment should be considered when treating patients receiving inducers of CYP3A. There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with rifabutin (see Rifabutin under “<linkhtml href="">Drugs That Are Affected By Clarithromycin</linkhtml>” in the table above). </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

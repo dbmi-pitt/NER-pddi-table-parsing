@@ -1,0 +1,59 @@
+<table id="table13" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule First">
+<td stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Concomitant Drug </content>
+</td>
+<td stylecode="Rrule" valign="top">
+<content stylecode="bold">Effect on Concentration of Lamotrigine or Concomitant Drug</content>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Clinical Comment</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Estrogen-containing oral contraceptive preparations containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel</td>
+<td stylecode="Rrule" valign="top">↓ lamotrigine<br/>
+<br/>↓ levonorgestrel</td>
+<td stylecode="Rrule" valign="top">Decreased lamotrigine concentrations approximately 50%.<br/>Decrease in levonorgestrel component by 19%.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Carbamazepine and carbamazepine epoxide</td>
+<td stylecode="Rrule" valign="top">↓ lamotrigine<br/>
+<br/>
+<br/>? carbamazepine epoxide</td>
+<td stylecode="Rrule" valign="top">Addition of carbamazepine decreases lamotrigine concentration approximately 40%.<br/>May increase carbamazepine epoxide levels.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Lopinavir/ritonavir</td>
+<td stylecode="Rrule" valign="top">↓ lamotrigine</td>
+<td stylecode="Rrule" valign="top">Decreased lamotrigine concentration approximately 50%.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Atazanavir/ritonavir</td>
+<td stylecode="Rrule" valign="top">↓ lamotrigine</td>
+<td stylecode="Rrule" valign="top">Decreased lamotrigine AUC approximately 32%.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Phenobarbital/Primidone</td>
+<td stylecode="Rrule" valign="top">↓ lamotrigine</td>
+<td stylecode="Rrule" valign="top">Decreased lamotrigine concentration approximately 40%.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Phenytoin</td>
+<td stylecode="Rrule" valign="top">↓ lamotrigine</td>
+<td stylecode="Rrule" valign="top">Decreased lamotrigine concentration approximately 40%.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Rifampin</td>
+<td stylecode="Rrule" valign="top">↓ lamotrigine</td>
+<td stylecode="Rrule" valign="top">Decreased lamotrigine AUC approximately 40%.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Valproate</td>
+<td stylecode="Rrule" valign="top">↑ lamotrigine<br/>
+<br/>? valproate</td>
+<td stylecode="Rrule" valign="top">Increased lamotrigine concentrations slightly more than 2-fold. <br/>There are conflicting study results regarding effect of lamotrigine on valproate concentrations: 1) a mean 25% decrease in valproate concentrations in healthy volunteers, 2) no change in valproate concentrations in controlled clinical trials in patients with epilepsy.</td>
+</tr>
+</tbody>
+</table>

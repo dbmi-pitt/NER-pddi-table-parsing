@@ -1,0 +1,47 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50%"></col>
+<col width="50%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule " valign="top">
+<paragraph> <content stylecode="bold">Interacting Agents</content>
+</paragraph>
+</td>
+<td stylecode="Toprule " valign="top">
+<paragraph> <content stylecode="bold">Prescribing Recommendations</content> </paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> Strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, Posaconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, nefazodone, cobicistat-containing products), gemfibrozil, cyclosporine,danazol</paragraph>
+</td>
+<td valign="top">
+<paragraph> Contraindicated with simvastatin </paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> Verapamil, diltiazem</paragraph>
+</td>
+<td valign="top">
+<paragraph> Do not exceed 10 mg simvastatin daily</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph> Amiodarone, amlodipine, ranolazine </paragraph>
+</td>
+<td valign="top">
+<paragraph> Do not exceed 20 mg simvastatin daily</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph> Grapefruit juice</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph> Avoid large quantities of grapefruit juice (&gt;1 quart daily)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

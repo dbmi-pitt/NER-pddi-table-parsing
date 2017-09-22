@@ -1,0 +1,50 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="43%"></col>
+<col width="48%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Interacting Drug</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Interaction</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Multivalent cation-containing products including: antacids, sucralfate, multivitamins</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Decreased moxifloxacin absorption. Take moxifloxacin hydrochloride tablet at least 4 hours before or 8 hours after these products. (<linkhtml href="#i4i_section_id_bf6599d8-ea5d-4767-acae-2a47918501a7">2.2</linkhtml>, <linkhtml href="#i4i_section_id_b11dba24-d2d8-4725-88e9-7d5e327f10fb">7.1</linkhtml>, <linkhtml href="#i4i_pharmacokinetics_id_63933dff-87f0-41ca-af10-b7795c0ee053">12.3</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Warfarin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Anticoagulant effect enhanced. Monitor prothrombin time/INR, and bleeding. (<linkhtml href="#i4i_adverse_effects_id_913f0a5e-ebe9-473a-a6d3-35624554600d">6</linkhtml>, <linkhtml href="#i4i_section_id_07d05fbb-f694-43fc-8b52-69f30e8c4ff5">7.2</linkhtml>, <linkhtml href="#i4i_pharmacokinetics_id_63933dff-87f0-41ca-af10-b7795c0ee053">12.3</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Class IA and Class III antiarrhythmics:</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Proarrhythmic effect may be enhanced. Avoid concomitant use. (<linkhtml href="#i4i_section_id_ce330467-7c4a-4049-a035-3fd3b3b0f79e">5.6</linkhtml>, <linkhtml href="#i4i_section_id_5dad347d-3444-4628-a9bd-c04d10b6c288">7.5</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Antidiabetic agents</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Carefully monitor blood glucose. (<linkhtml href="#i4i_section_id_e5a0efea-f4ea-4c1a-9b42-62f0be9ea9cb">5.11</linkhtml>, <linkhtml href="#ID_938203e4-be5d-405d-af42-2d03714a7e3f">7.3</linkhtml>)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

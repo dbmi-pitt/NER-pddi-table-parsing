@@ -1,0 +1,37 @@
+<table id="table2" width="90%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2 Steady-State Plasma Concentrations of Felbamate When Coadministered With Other AEDs</caption>
+<col align="center" valign="top" width="30%"></col>
+<col align="center" valign="top" width="35%"></col>
+<col align="center" valign="top" width="35%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">AED Coadministered</th>
+<th stylecode="Rrule">AED Concentration</th>
+<th stylecode="Rrule">Felbamate Concentration</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Phenytoin</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">↓</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Valproate</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">↔<footnote>No significant effect.</footnote>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">Carbamazepine (CBZ)<br/>
+<footnote>Not administered but an active metabolite of carbamazepine.</footnote>CBZ epoxide</td>
+<td stylecode="Rrule">↓<br/>↑</td>
+<td stylecode="Rrule">↓</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Phenobarbital</td>
+<td stylecode="Rrule">↑</td>
+<td stylecode="Rrule">↓</td>
+</tr>
+</tbody>
+</table>

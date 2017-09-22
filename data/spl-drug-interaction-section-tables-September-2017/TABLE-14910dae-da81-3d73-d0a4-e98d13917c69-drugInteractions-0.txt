@@ -1,0 +1,36 @@
+<table border="1" width="60%" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="40%"></col>
+<col width="30%"></col>
+<thead>
+<tr>
+<td>
+<content stylecode="bold">Factors</content>
+</td>
+<td align="center">
+<content stylecode="bold">Dosage Adjustments for Aripiprazole</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Known CYP2D6 Poor Metabolizers</td>
+<td>Administer half of usual dose</td>
+</tr>
+<tr>
+<td>Known CYP2D6 Poor Metabolizers and strong CYP3A4 inhibitors</td>
+<td>Administer a quarter of usual dose</td>
+</tr>
+<tr>
+<td>Strong CYP2D6 or CYP3A4 inhibitors</td>
+<td>Administer half of usual dose</td>
+</tr>
+<tr>
+<td>Strong CYP2D6 and CYP3A4 inhibitors</td>
+<td>Administer a quarter of usual dose</td>
+</tr>
+<tr>
+<td>Strong CYP3A4 inducers</td>
+<td>Double usual dose over 1 to 2 weeks</td>
+</tr>
+</tbody>
+</table>

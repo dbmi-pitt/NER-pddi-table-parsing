@@ -1,0 +1,95 @@
+<table border="1" cellpadding="0" cellspacing="0" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="148.5pt"></col>
+<col width="121.5pt"></col>
+<col width="168.65pt"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Concomitant Drug Name</content>
+</paragraph>
+</td>
+<td stylecode="    Lrule     ">
+<paragraph>
+<content stylecode="bold">Effect of Carbamazepine on
+  Other Drugs</content>
+</paragraph>
+</td>
+<td stylecode="    Lrule     ">
+<paragraph>
+<content stylecode="bold">Clinical Recommendation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>Lithium</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>May increase the
+  risk of neurotoxic side effects</paragraph>
+</td>
+<td rowspan="3" stylecode="     Toprule         Lrule     ">
+<paragraph>Use
+  with intensive monitoring</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>Isoniazid</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>May increase
+  isoniazid-induced hepatotoxicity</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>Diuretics
+  (e.g., hydrochlorothiazide, furosemide)</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>May
+  lead to symptomatic hyponatremia</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>Hormonal
+  contraceptives (e.g., oral and levonorgestrel subdermal implant
+  contraceptives)</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>May
+  render the contraceptives less effective because the plasma concentrations of
+  the hormones may be decreased; breakthrough bleeding and unintended
+  pregnancies have been reported</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>Consider
+  alternative or back-up methods of contraception</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>Neuromuscular
+  blocking agents (e.g., pancuronium, vecuronium, rocuronium, and cisatracurium)</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>Resistance to the
+  neuromuscular blocking action of the non-depolarizing neuromuscular blocking
+  agents</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>Closely
+  monitor patients for more rapid recovery from neuromuscular blockade than
+  expected; infusion rate may need to be higher</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     "> Delavirdine or other non-nucleoside reverse transcriptase inhibitors (NNRTIs)</td>
+<td stylecode="     Toprule         Lrule     "> Decrease in delavirdine or NNRTI levels</td>
+<td stylecode="     Toprule         Lrule     "> Contraindicated with carbamazepine</td>
+</tr>
+</tbody>
+</table>

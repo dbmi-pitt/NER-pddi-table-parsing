@@ -1,0 +1,36 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Concomitant Drug Class or  Food</content>
+</td>
+<td>
+<content stylecode="bold">Noted or Anticipated Outcome</content>
+</td>
+<td>
+<content stylecode="bold">Clinical Comment</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">HMG-Co A Reductase<br/> Inhibitors:</content>
+<br/> atorvastatin, fluvastatin, lovastatin, pravastatin, simvastatin</td>
+<td rowspan="2">Pharmacokinetic and/or pharmacodynamic<br/> interaction: the addition of one drug to a  stable long-term regimen of the other has  resulted in myopathy and rhabdomyolysis (including a fatality)</td>
+<td rowspan="3">Weigh the potential benefits and risks and<br/> carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during initial<br/> therapy; monitoring CPK (creatine<br/> phosphokinase) will not necessarily prevent  the occurrence of severe myopathy.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Other Lipid-Lowering Drugs:<br/>
+</content>fibrates, gemfibrozil</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Digitalis Glycosides:<br/>
+</content>digoxin</td>
+<td>P-gp substrate; rhabdomyolysis has been<br/> reported</td>
+</tr>
+</tbody>
+</table>

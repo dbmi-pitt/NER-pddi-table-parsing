@@ -1,0 +1,34 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Interacting Drug</content>
+</td>
+<td align="left" stylecode="Rrule" valign="top">
+<content stylecode="bold">Interaction</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Multivalent cation-containing products including antacids, metal cations or didanosine<br/>
+</td>
+<td align="left" stylecode="Rrule" valign="top">Do not co-administer the intravenous formulation in the same IV line with an multivalent cation, e.g., magnesium (<linkhtml href="#S2.4">2.4</linkhtml>
+<content stylecode="italics">, </content>
+<linkhtml href="#S7.1">7.1</linkhtml>)<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="left" stylecode="Lrule Rrule" valign="top">Warfarin<br/>
+</td>
+<td align="left" stylecode="Rrule" valign="top">Effect may be enhanced. Monitor prothrombin time, INR, watch for bleeding (<linkhtml href="#S7.2">7.2</linkhtml>)<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule" valign="top">Antidiabetic agents<br/>
+</td>
+<td align="left" stylecode="Rrule" valign="top">Carefully monitor blood glucose (<linkhtml href="#S5.12">5.12</linkhtml>
+<content stylecode="italics">, </content>
+<linkhtml href="#S7.3">7.3</linkhtml>)<br/>
+</td>
+</tr>
+</tbody>
+</table>

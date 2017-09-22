@@ -1,0 +1,214 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table II. Clinically significant drug interactions with theophylline*.</caption>
+<col width="115"></col>
+<col width="246"></col>
+<col width="277"></col>
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Drug</content>
+</td>
+<td>
+<content stylecode="bold">Type of Interaction </content>
+</td>
+<td>
+<content stylecode="bold">Effect**</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule ">Adenosine </td>
+<td stylecode="Toprule ">Theophylline blocks adenosine receptors.</td>
+<td stylecode="Toprule ">Higher doses of adenosine may be required to achieve desired effect. </td>
+</tr>
+<tr>
+<td>Alcohol</td>
+<td>A single large dose of alcohol (3 ml/kg of whiskey) decreases theophylline clearance for up to 24 hours.</td>
+<td>30% increase</td>
+</tr>
+<tr>
+<td>Allopurinol</td>
+<td>Decreases theophylline clearance at allopurinol doses ≥ 600 mg/day.</td>
+<td>25% increase</td>
+</tr>
+<tr>
+<td>Amino glutethimide</td>
+<td>Increases theophylline clearance by induction of microsomal enzyme activity.</td>
+<td>25% increase</td>
+</tr>
+<tr>
+<td>Carbamazepine</td>
+<td>Similar to aminoglutethimide</td>
+<td>30% increase</td>
+</tr>
+<tr>
+<td>Cimetidine</td>
+<td>Decreases theophylline clearance by inhibiting cytochrome P450 1A2. </td>
+<td>70% increase</td>
+</tr>
+<tr>
+<td>Ciprofloxacin</td>
+<td>Similar to cimetidine.</td>
+<td>40% increase</td>
+</tr>
+<tr>
+<td>Clarithromycin</td>
+<td>Similar to erythromycin.</td>
+<td>25% increase</td>
+</tr>
+<tr>
+<td>Diazepam</td>
+<td>Benzodiazepines increase CNS concentrations of adenosine, a potent CNS depressant, while theophylline blocks adenosine receptors.</td>
+<td>Larger diazepam doses may be required to produce desired level of sedation.<br/>Discontinuation of theophylline without reduction of diazepam dose may result in respiratory depression.</td>
+</tr>
+<tr>
+<td>Disulfiram</td>
+<td>Decreases theophylline clearance by inhibiting hydroxylation and demethylation.</td>
+<td>50% increase</td>
+</tr>
+<tr>
+<td>Enoxacin</td>
+<td>Similar to cimetidine.</td>
+<td>300% increase</td>
+</tr>
+<tr>
+<td>Ephedrine</td>
+<td>Synergistic CNS effect</td>
+<td>Increased frequency of nausea, nervousness, and insomnia.</td>
+</tr>
+<tr>
+<td>Erythromycin</td>
+<td>Erythromycin metabolite decreases theophylline clearance by inhibiting cytochrome P450 3A3</td>
+<td>35% increase. Erythromycin steady-state serum concentrations decrease by a similar amount. </td>
+</tr>
+<tr>
+<td>Estrogen</td>
+<td>Estrogen containing oral contraceptives decrease theophylline clearance in a dose-dependent fashion. The effect of progesterone on theophylline clearance is unknown.</td>
+<td>30% increase</td>
+</tr>
+<tr>
+<td>Flurazepam</td>
+<td>Similar to diazepam.</td>
+<td>Similar to diazepam.</td>
+</tr>
+<tr>
+<td>Fluvoxamine</td>
+<td>Similar to cimetidine.</td>
+<td>Similar to cimetidine</td>
+</tr>
+<tr>
+<td>Halothane</td>
+<td>Halothane sensitizes the myocardium to catecholamines, theophylline increases release of endogenous catecholamines. </td>
+<td>Increase risk of ventricular arrhythmias.</td>
+</tr>
+<tr>
+<td>Interferon,<br/>human<br/>recombinant<br/>alpha-A</td>
+<td>Decreases theophylline clearance.</td>
+<td>100% increase</td>
+</tr>
+<tr>
+<td>Isoproterenol<br/>(IV)</td>
+<td>Increases theophylline clearance.</td>
+<td>20% decrease</td>
+</tr>
+<tr>
+<td>Ketamine</td>
+<td>Pharmacologic </td>
+<td>May lower theophylline seizure threshold.</td>
+</tr>
+<tr>
+<td>Lithium</td>
+<td>Theophylline increases renal lithium clearance.</td>
+<td>Lithium dose required to achieve a therapeutic serum concentration increased an average of 60%</td>
+</tr>
+<tr>
+<td>Lorazepam</td>
+<td>Similar to diazepam.</td>
+<td>Similar to diazepam.</td>
+</tr>
+<tr>
+<td>Methotrexate<br/>(MTX)</td>
+<td>Decreases theophylline clearance. </td>
+<td>20% increase after low dose MTX, higher dose MTX may have greater effect.</td>
+</tr>
+<tr>
+<td>Mexiletine</td>
+<td>Similar to disulfiram.</td>
+<td>80% increase</td>
+</tr>
+<tr>
+<td>Midazolam</td>
+<td>Similar to diazepam.</td>
+<td>Similar to diazepam.</td>
+</tr>
+<tr>
+<td>Moricizine</td>
+<td>Increases theophylline clearance.</td>
+<td>25% decrease </td>
+</tr>
+<tr>
+<td>Pancuronium</td>
+<td>Theophylline may antagonize non-depolarizing neuromuscular blocking effects; possibly due to phosphodiesterase inhibition. </td>
+<td>Larger dose of pancuronium may be required to achieve neuromuscular blockade.</td>
+</tr>
+<tr>
+<td>Pentoxifylline</td>
+<td>Decreases theophylline clearance.</td>
+<td>30% increase</td>
+</tr>
+<tr>
+<td>Phenobarbital (PB)</td>
+<td>Similar to aminoglutethimide.</td>
+<td>25% decrease after two weeks of concurrent PB.</td>
+</tr>
+<tr>
+<td>Phenytoin</td>
+<td>Phenytoin increase theophylline clearance by increasing microsomal enzyme activity. Theophylline decreases phenytoin absorption.</td>
+<td>Serum theophylline and phenytoin concentrations decrease about 40%.</td>
+</tr>
+<tr>
+<td>Propafenone</td>
+<td>Decreases theophylline clearance and pharmacologic interaction. </td>
+<td>40% increase. Beta-2 blocking effect may decrease efficacy of theophylline.</td>
+</tr>
+<tr>
+<td>Propranolol</td>
+<td>Similar to cimetidine and pharmacologic interaction.</td>
+<td>100% increase. Beta-2 blocking effect may decrease efficacy of theophylline. </td>
+</tr>
+<tr>
+<td>Rifampin</td>
+<td>Increases theophylline clearance by increasing cytochrome P450 1A2 and 3A3 activity.</td>
+<td>20-40% decrease</td>
+</tr>
+<tr>
+<td>Sulfinpyrazone</td>
+<td>Increases theophylline clearance by increasing demethylation and hydroxylation. Decreases renal clearance of theophylline. </td>
+<td>20% decrease</td>
+</tr>
+<tr>
+<td>Tacrine</td>
+<td>Similar to cimetidine, also increases renal clearance of theophylline. </td>
+<td>90% increase</td>
+</tr>
+<tr>
+<td>Thiabendazole</td>
+<td>Decreases theophylline clearance.</td>
+<td>190% increase</td>
+</tr>
+<tr>
+<td>Ticlopidine</td>
+<td>Decreases theophylline clearance.</td>
+<td>60% increase</td>
+</tr>
+<tr>
+<td>Troleandomycin </td>
+<td>Similar to erythromycin.</td>
+<td>33-100% increase depending on troleandomycin dose. </td>
+</tr>
+<tr>
+<td>Verapamil</td>
+<td>Similar to disulfiram.</td>
+<td>20% increase</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,31 @@
+<table frame="void" width="504" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td align="left" colspan="2" stylecode="Toprule" valign="top"> Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis (<linkhtml href="#b3308fbc-5c32-44d7-bf8d-347fa43e3d38">2.6</linkhtml>, <linkhtml href="#b1c39207-6a20-47b9-bfc7-ebd40a10a79d">5.1</linkhtml>, <linkhtml href="#b6a9b57a-19dd-48da-ab39-b4d0a1f66960">7</linkhtml>, <linkhtml href="#be6b6c8f-00be-46f4-9ac2-77051fddac81">12.3</linkhtml>)</td>
+</tr>
+<tr>
+<td align="left" valign="top">Interacting Agents </td>
+<td align="left" valign="top">Prescribing Recommendations </td>
+</tr>
+<tr>
+<td align="left" valign="top">Cyclosporine, HIV protease inhibitors (tipranavir plus ritonavir), hepatitis C protease inhibitor (telaprevir) </td>
+<td align="left" valign="bottom">Avoid atorvastatin</td>
+</tr>
+<tr>
+<td align="left" valign="top">HIV protease inhibitor (lopinavir plus ritonavir)</td>
+<td align="left" valign="top">Use with caution and lowest dose necessary</td>
+</tr>
+<tr>
+<td align="left" valign="top">Clarithromycin, itraconazole, HIV protease inhibitors (saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir) </td>
+<td align="left" valign="middle">Do not exceed 20 mg atorvastatin daily</td>
+</tr>
+<tr>
+<td align="left" valign="top">HIV protease inhibitor (nelfinavir)</td>
+<td align="left" valign="top">Do not exceed 40 mg atorvastatin daily</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule" valign="top">Hepatitis C Protease inhibitor (boceprevir)</td>
+<td align="left" stylecode="Botrule" valign="middle"></td>
+</tr>
+</tbody>
+</table>

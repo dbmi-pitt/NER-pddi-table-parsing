@@ -1,0 +1,36 @@
+<table id="table_3" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affecting Free Thyroxine (FT4) Concentration (Euthyroidism)</caption>
+<colgroup align="left">
+<col></col>
+<col></col>
+</colgroup>
+<tbody valign="top">
+<tr valign="top">
+<td align="center" stylecode="Toprule Botrule Rrule Lrule">
+<content stylecode="bold">Drug or Drug Class</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Rrule Lrule">
+<content stylecode="bold">Effect</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Rrule Lrule" valign="top">Clofibrate<br/>Estrogen-containing oral contraceptives<br/>Estrogens (oral)<br/>Heroin / Methadone<br/>5-Fluorouracil<br/>Mitotane<br/>Tamoxifen</td>
+<td stylecode="Toprule Botrule Rrule Lrule" valign="top">These drugs may increase serum thyroxine-binding globulin (TBG) concentration.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Rrule Lrule">Androgens / Anabolic Steroids<br/>Asparaginase<br/>Glucocorticoids<br/>Slow-Release Nicotinic Acid</td>
+<td stylecode="Toprule Botrule Rrule Lrule" valign="top">These drugs may decrease serum TBG concentration.</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Toprule Botrule Rrule Lrule">Potential impact (below): Administration of these agents with SYNTHROID results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Botrule Rrule Lrule">Salicylates (&gt; 2 g/day)</td>
+<td stylecode="Toprule Botrule Rrule Lrule">Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total T4 levels may decrease by as much as 30%.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Botrule Rrule Lrule">Other drugs:<br/>Carbamazepine<br/>Furosemide (&gt; 80 mg IV)<br/>Heparin <br/>Hydantoins<br/>Non-Steroidal Anti-inflammatory Drugs<br/>- Fenamates</td>
+<td stylecode="Toprule TOTTOM Rrule">These drugs may cause protein-binding site displacement. Furosemide has been shown to inhibit the protein binding of T4 to TBG and albumin, causing an increase free T4 fraction in serum. Furosemide competes for T4-binding sites on TBG, prealbumin, and albumin, so that a single high dose can acutely lower the total T4 level. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total and free T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. Closely monitor thyroid hormone parameters.</td>
+</tr>
+</tbody>
+</table>

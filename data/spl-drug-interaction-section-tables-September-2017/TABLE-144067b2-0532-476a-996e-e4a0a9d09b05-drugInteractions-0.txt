@@ -1,0 +1,212 @@
+<table id="t6" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 6          Established and Other Potentially Significant<footnote>This table is not all inclusive.</footnote> Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction </caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="60%"></col>
+<thead>
+<tr valign="middle">
+<th align="center" stylecode="Lrule Rrule">Concomitant Drug Class: Drug Name</th>
+<th align="center" stylecode="Rrule">Effect on Concentration<footnote>   ↑ = Increase, ↓ = Decrease, ⇔ = No Effect</footnote>
+</th>
+<th align="center" stylecode="Rrule">Clinical Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Acid Reducing Agents:</content>
+<br/>Antacids<footnote id="ft6.1">Indicates that a drug-drug interaction trial was conducted.</footnote> (for example aluminum and magnesium hydroxide)</td>
+<td stylecode="Rrule">↓ elvitegravir</td>
+<td stylecode="Rrule">Elvitegravir plasma concentrations are lower when STRIBILD is administered simultaneously with antacids. It is recommended to separate STRIBILD and antacid administration by at least 2 hours.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule Toprule">
+<content stylecode="bold">Antiarrhythmics:</content>
+<br/>e.g.<br/>amiodarone<br/>bepridil<br/>digoxin<footnoteref idref="ft6.1"></footnoteref>
+<br/>disopyramide<br/>flecainide<br/>systemic lidocaine mexiletine<br/>propafenone<br/>quinidine</td>
+<td stylecode="Rrule Toprule">↑ antiarrhythmics<br/>↑ digoxin</td>
+<td stylecode="Rrule Toprule">Concentrations of these antiarrhythmic drugs may be increased when coadministered with STRIBILD. Caution is warranted and therapeutic concentration monitoring, if available, is recommended for antiarrhythmics when coadministered with STRIBILD.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antibacterials:</content>
+<br/>clarithromycin<br/>telithromycin</td>
+<td stylecode="Rrule">↑ clarithromycin<br/>↑ telithromycin<br/>↑ cobicistat</td>
+<td stylecode="Rrule">Concentrations of clarithromycin and/or cobicistat may be altered when clarithromycin is coadministered with STRIBILD.<br/>
+<content stylecode="underline">Patients with CLcr greater than or equal to 60 mL/min: </content>
+<br/>No dose adjustment of clarithromycin is required.<br/>
+<content stylecode="underline">Patients with CLcr between 50 mL/min and 60 mL/min: </content>
+<br/>The dose of clarithromycin should be reduced by 50%.<br/>Concentrations of telithromycin and/or cobicistat may be increased when telithromycin is coadministered with STRIBILD.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anticoagulants:</content>
+<br/>warfarin</td>
+<td stylecode="Rrule">Effect on warfarin unknown</td>
+<td stylecode="Rrule">Concentrations of warfarin may be affected upon coadministration with STRIBILD. It is recommended that the international normalized ratio (INR) be monitored upon coadministration with STRIBILD.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anticonvulsants:</content>
+<br/>carbamazepine<br/>oxcarbazepine phenobarbital<br/>phenytoin</td>
+<td stylecode="Rrule">↑ carbamazepine<br/>↓ elvitegravir<br/>↓ cobicistat</td>
+<td stylecode="Rrule">Coadministration of carbamazepine, oxcarbazepine, phenobarbital, or phenytoin with STRIBILD may significantly decrease cobicistat and elvitegravir plasma concentrations, which may result in loss of therapeutic effect and development of resistance. Alternative anticonvulsants should be considered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">clonazepam<br/>ethosuximide</td>
+<td stylecode="Rrule">↑ clonazepam<br/>↑ ethosuximide</td>
+<td stylecode="Rrule">Concentrations of clonazepam and ethosuximide may be increased when coadministered with STRIBILD. Clinical monitoring is recommended upon coadministration with STRIBILD.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antidepressants:</content>
+<br/>Selective Serotonin Reuptake Inhibitors (SSRIs)<br/>e.g.<br/>paroxetine<br/>
+<br/>Tricyclic<br/>Antidepressants (TCAs)<br/>e.g.<br/>amitriptyline<br/>desipramine<br/>imipramine<br/>nortriptyline<br/>buproprion<br/>trazodone</td>
+<td stylecode="Rrule">↑ SSRIs<br/>↑ TCAs<br/>↑ trazodone</td>
+<td stylecode="Rrule">Concentrations of these antidepressant agents may be increased when coadministered with STRIBILD. Careful dose titration of the antidepressant and monitoring for antidepressant response are recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antifungals</content>:<br/>itraconazole ketoconazole<footnoteref idref="ft6.1"></footnoteref>
+<br/>voriconazole</td>
+<td stylecode="Rrule">↑ elvitegravir<br/>↑ cobicistat<br/>↑ itraconazole<br/>↑ ketoconazole<br/>↑voriconazole</td>
+<td stylecode="Rrule">Concentrations of ketoconazole, itraconazole and voriconazole may increase upon coadministration with STRIBILD. When administering with STRIBILD, the maximum daily dose of ketoconazole or itraconazole should not exceed 200 mg per day.<br/>An assessment of benefit/risk ratio is recommended to justify use of voriconazole with STRIBILD.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anti-gout:</content>
+<br/>colchicine</td>
+<td stylecode="Rrule">↑ colchicine</td>
+<td stylecode="Rrule">STRIBILD is not recommended to be  coadministered with colchicine to patients with renal or hepatic impairment.<br/>
+<content stylecode="underline">Treatment of gout-flares – coadministration of colchicine in patients receiving STRIBILD:</content>
+<br/>0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Treatment course to be repeated no earlier than 3 days.<br/>
+<content stylecode="underline">Prophylaxis of gout-flares – coadministration of colchicine in patients receiving STRIBILD:</content>
+<br/>If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day.<br/>
+<content stylecode="underline">Treatment of familial Mediterranean fever – coadministration of colchicine in patients receiving STRIBILD:</content>
+<br/>Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day).</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antimycobacterial:</content>
+<br/>rifabutin<footnoteref idref="ft6.1"></footnoteref>
+<br/>rifapentine</td>
+<td stylecode="Rrule">↓ elvitegravir<br/>↓ cobicistat</td>
+<td stylecode="Rrule">Coadministration of rifabutin and rifapentine with STRIBILD may significantly decrease elvitegravir and cobicistat plasma concentrations, which may result in loss of therapeutic effect and development of resistance.<br/>Coadministration of STRIBILD with rifabutin or rifapentine is not recommended.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Beta-Blockers:</content>
+<br/>e.g.<br/>metoprolol<br/>timolol</td>
+<td stylecode="Rrule">↑ beta-blockers</td>
+<td stylecode="Rrule">Concentrations of beta-blockers may be increased when coadministered with STRIBILD. Clinical monitoring is recommended and a dose decrease of the beta blocker may be necessary when these agents are coadministered with STRIBILD.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Calcium Channel Blockers:</content>
+<br/>e.g. amlodipine<br/>diltiazem<br/>felodipine<br/>nicardipine<br/>nifedipine<br/>verapamil</td>
+<td stylecode="Rrule">↑ calcium channel blockers</td>
+<td stylecode="Rrule">Concentrations of calcium channel blockers may be increased when coadministered with STRIBILD. Caution is warranted and clinical monitoring is recommended upon coadministration with STRIBILD.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Corticosteroid:<br/>Systemic:</content>
+<br/>dexamethasone</td>
+<td stylecode="Rrule">↓ elvitegravir<br/>↓ cobicistat</td>
+<td stylecode="Rrule">Systemic dexamethasone, a CYP3A inducer, may significantly decrease elvitegravir and cobicistat  plasma concentrations, which may result in loss of therapeutic effect and development of resistance.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Corticosteroid:<br/>Inhaled/Nasal:</content>
+<br/>fluticasone</td>
+<td stylecode="Rrule">↑ fluticasone</td>
+<td stylecode="Rrule">Concomitant use of inhaled or nasal fluticasone and STRIBILD may increase plasma concentrations of fluticasone, resulting in reduced serum cortisol concentrations. Alternative corticosteroids should be considered, particularly for long term use.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Endothelin Receptor Antagonists:</content>
+<br/>bosentan</td>
+<td stylecode="Rrule">↑ bosentan</td>
+<td stylecode="Rrule">
+<content stylecode="underline">Coadministration of bosentan in patients on  STRIBILD:</content>
+<br/>In patients who have been receiving STRIBILD for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability.<br/>
+<content stylecode="underline">Coadministration of STRIBILD in patients on bosentan:</content>
+<br/>Discontinue use of bosentan at least 36 hours prior to initiation of STRIBILD. After at least 10 days following the initiation of STRIBILD, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">HMG-CoA Reductase Inhibitors:</content>
+<br/>atorvastatin</td>
+<td stylecode="Rrule">↑ atorvastatin</td>
+<td stylecode="Rrule">Initiate with the lowest starting dose of atorvastatin and titrate carefully while monitoring for safety.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Hormonal Contraceptives:</content>
+<br/>norgestimate/ethinyl estradiol<footnoteref idref="ft6.1"></footnoteref>
+</td>
+<td stylecode="Rrule">↑ norgestimate<br/>↓ ethinyl estradiol</td>
+<td stylecode="Rrule">The effects of increases in the concentration of the progestational component norgestimate are not fully known and can include increased risk of insulin resistance, dyslipidemia, acne, and venous thrombosis. The potential risks and benefits associated with coadministration of norgestimate/ethinyl estradiol with STRIBILD should be considered, particularly in women who have risk factors for these events.<br/>Coadministration of STRIBILD with other hormonal contraceptives (e.g., contraceptive patch, contraceptive vaginal ring, or injectable contraceptives) or oral contraceptives containing progestogens other than norgestimate has not been studied; therefore, alternative (non-hormonal) methods of contraception can be considered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Immuno-suppressants:</content>
+<br/>e.g.<br/>cyclosporine<br/>sirolimus<br/>tacrolimus</td>
+<td stylecode="Rrule">↑ immuno-suppressants</td>
+<td stylecode="Rrule">Concentrations of these immunosuppressant agents may be increased when coadministered with STRIBILD. Therapeutic monitoring of the immunosuppressive agents is recommended upon coadministration with STRIBILD.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Narcotic Analgesics: </content>
+<br/>buprenorphine/<br/>naloxone<footnoteref idref="ft6.1"></footnoteref>
+</td>
+<td stylecode="Rrule">
+<br/>↑ buprenorphine<br/>↑ norbuprenorphine<br/>↓ naloxone</td>
+<td stylecode="Rrule">Concentrations of buprenorphine and norbuprenorphine are increased when coadministered with STRIBILD. No dose adjustment of buprenorphine/naloxone is required upon coadministration with STRIBILD. Patients should be closely monitored for sedation and cognitive effects.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Inhaled Beta Agonist:</content>
+<br/>salmeterol</td>
+<td stylecode="Rrule">↑ salmeterol</td>
+<td stylecode="Rrule">Coadministration of salmeterol and STRIBILD is not recommended. Coadministration of salmeterol with STRIBILD may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations, and sinus tachycardia.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Neuroleptics</content>:<br/>e.g.<br/>perphenazine<br/>risperidone<br/>thioridazine</td>
+<td stylecode="Rrule">↑ neuroleptics</td>
+<td stylecode="Rrule">A decrease in dose of the neuroleptic may be needed when coadministered with STRIBILD.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Phosphodiesterase-5 (PDE5) Inhibitors: </content>
+<br/>sildenafil<br/>tadalafil<br/>vardenafil</td>
+<td stylecode="Rrule">↑ PDE5 inhibitors</td>
+<td stylecode="Rrule">Coadministration with STRIBILD may result in an increase in PDE-5 inhibitor associated adverse reactions, including hypotension, syncope, visual disturbances, and priapism.<br/>
+<content stylecode="underline">Use of PDE-5 inhibitors for pulmonary arterial hypertension (PAH):</content>
+<list listtype="unordered" stylecode="disc">
+<item>Use of sildenafil is contraindicated when used for the treatment of pulmonary arterial hypertension (PAH).</item>
+<item>The following dose adjustments are recommended for the use of tadalafil with STRIBILD:<br/>
+<content stylecode="italics">Coadministration of tadalafil in patients on STRIBILD:</content>
+<list listtype="unordered">
+<item>
+<caption> </caption>In patients receiving STRIBILD for at least 1 week, start tadalafil at 20 mg once daily. Increase tadalafil dose to 40 mg once daily based upon individual tolerability.</item>
+</list>
+<content stylecode="italics">Coadministration of STRIBILD in patients on tadalafil:</content>
+<list listtype="unordered">
+<item>
+<caption> </caption>Avoid use of tadalafil during the initiation of STRIBILD. Stop tadalafil at least 24 hours prior to starting STRIBILD. After at least one week following initiation of STRIBILD, resume tadalafil at 20 mg once daily. Increase tadalafil dose to 40 mg once daily based upon individual tolerability.</item>
+</list>
+</item>
+</list>
+<content stylecode="underline">Use of PDE-5 inhibitors for erectile dysfunction:</content>
+<br/>Sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg in 72 hours, or tadalafil at a single dose not exceeding 10 mg in 72 hours can be used with increased monitoring for PDE-5 inhibitor associated with adverse events.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Sedative/hypnotics:</content>
+<br/>Benzodiazepines:<br/>e.g.<br/>Parenterally administered  midazolam<br/>clorazepate<br/>diazepam<br/>estazolam<br/>flurazepam<br/>buspirone<br/>zolpidem</td>
+<td stylecode="Rrule">↑ sedatives/hypnotics</td>
+<td stylecode="Rrule">Concomitant use of parenteral midazolam with STRIBILD may increase plasma concentrations of midazolam. Coadministration should be done in a setting that ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage reduction for midazolam should be considered, especially if more than a single dose of midazolam is administered. Coadministration of oral midazolam with STRIBILD is contraindicated.<br/>With other sedative/hypnotics, dose reduction may be necessary and clinical monitoring is recommended.</td>
+</tr>
+</tbody>
+</table>

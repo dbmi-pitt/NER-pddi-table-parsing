@@ -1,0 +1,102 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="58%"></col>
+<col width="21%"></col>
+<col width="21%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Botrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Diluent</content>
+</paragraph>
+</td>
+<td align="center" colspan="2" stylecode="Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Storage</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Room Temp.</content>
+<br/>
+<content stylecode="bold">(25°C)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Refrigerated</content>
+<br/>
+<content stylecode="bold">(4°C)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule " valign="top">
+<paragraph>Sterile Water</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2 days</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>10 days</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>0.9% Sodium Chloride Solution</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2 days</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>10 days</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>5% Dextrose Solution</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2 days</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>10 days</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>10% Dextrose Solution</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2 days</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>10 days</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>5% Dextrose + 0.9% Sodium Chloride Solution<footnote id="_Ref408820272">Data available for 10 to 40 mg/mL concentrations in this diluent in PVC containers only.</footnote>
+</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>2 days</paragraph>
+</td>
+<td align="center" valign="top">
+<paragraph>Incompatible</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>5% Dextrose + 0.45% Sodium Chloride Solution</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>2 days</paragraph>
+</td>
+<td align="center" stylecode="Botrule " valign="top">
+<paragraph>Incompatible</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

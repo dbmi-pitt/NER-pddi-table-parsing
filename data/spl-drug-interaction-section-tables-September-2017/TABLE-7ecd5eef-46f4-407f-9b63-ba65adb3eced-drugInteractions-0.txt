@@ -1,0 +1,103 @@
+<table border="0" cellpadding="0" cellspacing="0" width="626" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7 Summary of AED Interactions with Oxcarbazepine 
+			</caption>
+<colgroup>
+<col width="19.8083067092652%"></col>
+<col width="15.1757188498403%"></col>
+<col width="17.5825346112886%"></col>
+<col width="24.7177848775293%"></col>
+<col width="22.7156549520767%"></col>
+</colgroup>
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">AED Coadministered</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Dose of AED (mg/day)</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Oxcarbazepine</content>
+<content stylecode="bold">Dose (mg/day)</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Influence of </content>
+<content stylecode="bold">Oxcarbazepine</content>
+<content stylecode="bold">on AED Concentration  (Mean Change, 90% Confidence Interval)</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">
+<content stylecode="bold">Influence of AED on MHD Concentration  (Mean Change, 90% Confidence Interval)</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="middle">Carbamazepine<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">400 to 2,000<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">900<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">nc<footnote id="fn10738">¹nc denotes a mean change of less than 10%</footnote>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">40% decrease [CI: 17% decrease,  57% decrease]<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="middle">Phenobarbital<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">100 to 150<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">600 to 1,800<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">14% increase [CI: 2% increase, 24% increase]<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">25% decrease [CI: 12% decrease,  51% decrease]<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="middle">Phenytoin<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">250 to 500<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">600 to 1,800 &gt;1,200 to 2,400<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">nc<footnoteref idref="fn10738"></footnoteref> <footnote id="fn10739">²Pediatrics</footnote>
+<br/>up to 40% increase<footnote id="fn10740">³Mean increase in adults at high oxcarbazepine doses</footnote>[CI: 12% increase, 60% increase]<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">30% decrease [CI: 3% decrease,  48% decrease]<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="middle">Valproic acid<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">400 to 2,800<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">600 to 1,800<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">nc<footnoteref idref="fn10738"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">18% decrease [CI: 13% decrease,  40% decrease]<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Lrule Rrule" valign="middle">Lamotrigine<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">200<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">1200<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">nc<footnoteref idref="fn10738"></footnoteref>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="middle">nc<footnoteref idref="fn10738"></footnoteref>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>

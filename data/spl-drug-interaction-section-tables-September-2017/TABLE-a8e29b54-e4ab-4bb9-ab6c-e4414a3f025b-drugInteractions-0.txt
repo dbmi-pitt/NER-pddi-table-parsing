@@ -1,0 +1,94 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="18%"></col>
+<col width="12%"></col>
+<col width="14%"></col>
+<col width="15%"></col>
+<col width="12%"></col>
+<col width="14%"></col>
+<col width="14%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule " valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="underline">Antibiotics</content>
+</content>
+</paragraph>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="underline">Antineo-plastic</content>
+</content>
+</paragraph>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="underline">Antifungals</content>
+</content>
+</paragraph>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="underline">Anti-inflammatory Drugs</content>
+</content>
+</paragraph>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="underline">Gastro-intestinal <br/>Agents </content>
+</content>
+</paragraph>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="underline">Immuno-suppres-<br/>sives</content> </content>
+</paragraph>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="underline">Other Drugs</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>ciprofloxacin</paragraph>
+<paragraph>gentamicin</paragraph>
+<paragraph>tobramycin</paragraph>
+<paragraph>trimethoprim with</paragraph>
+<paragraph>sulfamethoxazole</paragraph>
+<paragraph>vancomycin </paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>melphalan </paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>amphotericin B</paragraph>
+<paragraph>ketoconazole</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>azapropazon</paragraph>
+<paragraph>colchicine</paragraph>
+<paragraph>diclofenac</paragraph>
+<paragraph>naproxen sulindac</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>cimetidine</paragraph>
+<paragraph>ranitidine </paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>tacrolimus </paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>fibric acid <br/>derivatives (e.g., bezafibrate, <br/>fenofibrate) methotrexate</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,49 @@
+<table width="800px" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 9 Established and Other Potentially Significant Drug Interactions with Ganciclovir</caption>
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Name of </content>
+<content stylecode="bold">the</content>
+<content stylecode="bold"> <br/>
+</content>
+<content stylecode="bold">Concomit</content>
+<content stylecode="bold">a</content>
+<content stylecode="bold">nt Drug</content>
+</paragraph>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="bold">Change in the Concentration of</content>
+<content stylecode="bold"> </content>
+<content stylecode="bold">Ganciclovir or </content>
+<br/>
+<content stylecode="bold">Concomitant Drug</content>
+</td>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Clinical Comment</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Zidovudine</td>
+<td stylecode="     Toprule         Lrule          Rrule     ">↓ Ganciclovir <br/>↑ Zidovudine</td>
+<td stylecode="     Toprule         Lrule          Rrule     ">Zidovudine and Valganciclovir each have the potential to cause neutropenia and anemia</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Probenecid</td>
+<td stylecode="     Toprule         Lrule          Rrule     ">↑ Ganciclovir</td>
+<td stylecode="     Toprule         Lrule          Rrule     ">Patients taking probenecid and Valganciclovir should be monitored for evidence of ganciclovir toxicity</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     " valign="top"> Mycophenolate <br/> Mofetil (MMF)</td>
+<td stylecode="     Toprule         Lrule          Rrule     ">↔ Ganciclovir (in patients with normal renal function)<br/>↔ MMF (in patients with normal renal function)</td>
+<td stylecode="     Toprule         Lrule          Rrule     ">Patients with renal impairment should be monitored carefully as levels of MMF metabolites and ganciclovir may increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> Didanosine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">↓ Ganciclovir <br/>↑ Didanosine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Patients should be closely monitored for didanosine toxicity</td>
+</tr>
+</tbody>
+</table>

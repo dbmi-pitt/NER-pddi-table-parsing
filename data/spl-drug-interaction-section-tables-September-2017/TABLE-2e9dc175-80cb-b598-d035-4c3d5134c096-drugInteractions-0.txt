@@ -1,0 +1,254 @@
+<table border="1" frame="box" id="table_5" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5. Established Drug Interactions Based on Drug Interaction Trials</caption>
+<colgroup>
+<col width="24%"></col>
+<col width="25%"></col>
+<col width="50%"></col>
+</colgroup>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Concomitant Drug Class:<br/>Drug Name</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Effect on Concentration</content>
+</td>
+<td align="center" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">Clinical Comments</content>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">ANGIOTENSIN RECEPTOR BLOCKERS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">valsartan<sup>*</sup>
+<br/> losartan<sup>*</sup>
+<br/>candesartan<sup>*</sup>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ angiotensin receptor blockers 	</td>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="top">Decrease the dose of the angiotensin receptor blockers and monitor patients for signs and symptoms of hypotension and/or worsening renal function. If such events occur, consider further dose reduction of the angiotensin receptor blocker or switching to an alternative to the angiotensin receptor blocker.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">ANTIARRHYTHMICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule">amiodarone<sup>*</sup>,<br/>bepridil<sup>*</sup>,<br/>disopyramide<sup>*</sup>,<br/>flecainide<sup>*</sup>,<br/>lidocaine (systemic)<sup>*</sup>,<br/>mexiletine<sup>*</sup>,<br/>propafenone<sup>*</sup>,<br/>quinidine<sup>*</sup>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ antiarrhythmics</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Contraindicated antiarrhythmics <content stylecode="italics">[see Contraindications (<linkhtml href="#section_4">4</linkhtml>)]</content>.<br/>
+<br/>Therapeutic concentration monitoring (if available) is recommended for antiarrhythmics when co-administered with VIEKIRA XR. </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">ANTIDIABETIC DRUGS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">metformin</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↔ metformin</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Monitor for signs of onset of lactic acidosis such as respiratory distress, somnolence, and non-specific abdominal distress or worsening renal function. Concomitant metformin use in patients with renal insufficiency or hepatic impairment is not recommended. Refer to the prescribing information of metformin for further guidance.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">ANTIFUNGALS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">ketoconazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ ketoconazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule">When VIEKIRA XR is co-administered with ketoconazole, the maximum daily dose of ketoconazole should be limited to 200 mg per day.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">voriconazole<sup>*</sup>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ voriconazole </td>
+<td stylecode="Toprule Botrule Lrule Rrule">Co-administration of VIEKIRA XR with voriconazole is not recommended unless an assessment of the benefit-to-risk ratio justifies the use of voriconazole.</td>
+</tr>
+<tr>
+<td align="left" colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">ANTIPSYCHOTIC</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="top">quetiapine<sup>*</sup>
+</td>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ quetiapine</td>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="top">Contraindicated antipsychotics <content stylecode="italics">[see Contraindications (<linkhtml href="#section_4">4</linkhtml>)]</content>.<br/>
+<br/>Quetiapine:<list id="l77241291432297064" listtype="unordered" stylecode="Disc">
+<item>Initiation of VIEKIRA XR in patients taking quetiapine: Consider alternative anti-HCV therapy to avoid increases in quetiapine exposures. If coadministration is necessary, reduce the quetiapine dose to 1/6<sup>th</sup> of the current dose and monitor for quetiapine-associated adverse reactions. Refer to the quetiapine prescribing information for the recommendations on adverse reaction monitoring.</item>
+<item>Initiation of quetiapine in patients taking VIEKIRA XR: Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine.</item>
+</list>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">CALCIUM CHANNEL BLOCKERS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">amlodipine  <br/>nifedipine<sup>*</sup>
+<br/>diltiazem<sup>*</sup>
+<br/>verapamil<sup>*</sup>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ calcium channel blockers</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Decrease the dose of the calcium channel blocker. The dose of amlodipine should be decreased by at least 50%.  Clinical monitoring of patients is recommended for edema and/or signs and symptoms of hypotension. If such events occur, consider further dose reduction of the calcium channel blocker or switching to an alternative to the calcium channel blocker.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">CORTICOSTEROIDS (INHALED/NASAL)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">fluticasone<sup>*</sup>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ fluticasone</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Concomitant use of VIEKIRA XR with inhaled or nasal fluticasone may reduce serum cortisol concentrations.  Alternative corticosteroids should be considered, particularly for long term use.  </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">DIURETICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">furosemide</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ furosemide (C<sub>max</sub>)</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Clinical monitoring of patients is recommended and therapy should be individualized based on patient’s response.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">ANTIRETROVIRAL AGENTS: PROTEASE INHIBITORS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">atazanavir/ritonavir<br/>once daily </td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ paritaprevir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">When coadministered with VIEKIRA XR, atazanavir 300 mg (without ritonavir) should only be given in the morning.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">darunavir/ritonavir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ darunavir (C<sub>trough</sub>)</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Treatment naïve patients or treatment experienced  patients with no darunavir associated substitutions: <br/>
+<br/>Darunavir 800 mg once daily (without ritonavir) can be co-administered with VIEKIRA XR.<br/>
+<br/>Treatment experienced patients with at least one darunavir resistance associated substitution or with no baseline resistance information:   <br/>
+<br/>Co-administration of darunavir/ritonavir 600/100 mg twice daily with VIEKIRA XR is not recommended.   </td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">lopinavir/ritonavir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ paritaprevir</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Co-administration of VIEKIRA XR with lopinavir/ritonavir is not recommended.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">ANTIRETROVIRAL AGENTS: NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">rilpivirine </td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ rilpivirine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Contraindicated non-nucleoside reverse transcriptase inhibitors <content stylecode="italics">[see Contraindications (<linkhtml href="#section_4">4</linkhtml>)]</content>.<br/>
+<br/>Rilpivirine:<br/>Co-administration of VIEKIRA XR with rilpivirine once daily is not recommended due to potential for QT interval prolongation with higher concentrations of rilpivirine.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">HMG CoA REDUCTASE INHIBITORS:</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">pravastatin<br/>rosuvastatin</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ pravastatin<br/>↑ rosuvastatin</td>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="top">Contraindicated HMG CoA Reductase Inhibitors <content stylecode="italics">[see Contraindications (<linkhtml href="#section_4">4</linkhtml>)]</content>.<br/>
+<br/>Rosuvastatin:<br/>Dose of rosuvastatin should not exceed 10 mg per day.<br/>
+<br/>Pravastatin:<br/>Dose of pravastatin should not exceed 40 mg per day.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">IMMUNOSUPPRESSANTS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">cyclosporine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ cyclosporine</td>
+<td stylecode="Toprule Botrule Lrule Rrule">For contraindicated immunosuppressants <content stylecode="italics">[see Contraindications (<linkhtml href="#section_4">4</linkhtml>)].</content>
+<br/>
+<br/>When initiating therapy with VIEKIRA XR, reduce cyclosporine dose to 1/5<sup>th</sup> of the patient’s current cyclosporine dose. Measure cyclosporine blood concentrations to determine subsequent dose modifications.  Upon completion of VIEKIRA XR therapy, the appropriate time to resume pre-VIEKIRA XR dose of cyclosporine should be guided by assessment of cyclosporine blood concentrations. Frequent assessment of renal function and cyclosporine-related side effects is recommended. </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">LONG ACTING BETA-ADRENOCEPTOR AGONIST</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">salmeterol<sup>*</sup>
+</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ salmeterol</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Concurrent administration of VIEKIRA XR and salmeterol is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="bold">MUSCLE RELAXANTS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">carisoprodol</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ carisoprodol<br/>↔ mepobramate<br/>(metabolite of<br/>carisoprodol)</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Increase dose if clinically indicated.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">cyclobenzaprine</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓cyclobenzaprine<br/>↓norcyclobenzaprine<br/>(metabolite of<br/>cyclobenzaprine)</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Increase dose if clinically indicated.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">NARCOTIC ANALGESICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">acetaminophen/hydrocodone</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ hydrocodone<br/>↔ acetaminophen</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Reduce the dose of hydrocodone by 50% and monitor patients for respiratory depression and sedation at frequent intervals. Upon completion of VIEKIRA XR therapy, adjust the hydrocodone dose and monitor for signs of opioid withdrawal.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">buprenorphine/naloxone</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ buprenorphine<br/>↑ norbuprenorphine<br/>(metabolite of<br/>buprenorphine)</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Patients should be closely monitored for sedation and cognitive effects.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">PROTON PUMP INHIBITORS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">omeprazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ omeprazole</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Monitor patients for decreased efficacy of omeprazole. Consider increasing the omeprazole dose in patients whose symptoms are not well controlled; avoid use of more than 40 mg per day of omeprazole.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule">
+<content stylecode="bold">SEDATIVES/HYPNOTICS</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">alprazolam</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↑ alprazolam</td>
+<td stylecode="Toprule Botrule Lrule Rrule">Contraindicated Sedatives/Hypnotics <content stylecode="italics">[see Contraindications (<linkhtml href="#section_4">4</linkhtml>)]</content>.<br/>
+<br/>Alprazolam:<br/>Clinical monitoring of patients is recommended. A decrease in alprazolam dose can be considered based on clinical response.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">diazepam</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">↓ diazepam<br/>↓ nordiazepam<br/>(metabolite of<br/>diazepam)</td>
+<td stylecode="Toprule Botrule Lrule Rrule" valign="top">Increase dose if clinically indicated.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule Lrule Rrule" valign="top">
+<content stylecode="italics">See Clinical Pharmacology, Tables <linkhtml href="#table_7">7</linkhtml> and <linkhtml href="#table_8">8</linkhtml>
+</content>.<br/>The direction of the arrow indicates the direction of the change in exposures (C<sub>max</sub> and AUC) (↑ =<content stylecode="italics"> increase of more than 20%,</content> ↓ = <content stylecode="italics">decrease of more than 20%,</content> ↔ = <content stylecode="italics">no change or change less than 20%).</content>
+<br/>
+<sup>*</sup>not studied.</td>
+</tr>
+</tbody>
+</table>

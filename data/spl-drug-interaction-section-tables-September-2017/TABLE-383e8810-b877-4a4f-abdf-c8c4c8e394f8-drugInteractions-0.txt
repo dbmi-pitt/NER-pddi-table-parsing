@@ -1,0 +1,52 @@
+<table border="0" cellpadding="0" cellspacing="0" width="890" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr stylecode="Botrule">
+<td align="center" stylecode="Lrule Rrule" valign="top">
+<content stylecode="bold">Name of the</content>
+<br/>
+<content stylecode="bold">Concomitant Drug</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Change in the Concentration of Ganciclovir or <br/>            Concomitant Drug</content>
+<br/>
+</td>
+<td align="center" stylecode="Rrule" valign="top">
+<content stylecode="bold">Clinical Comment</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Zidovudine<br/>
+</td>
+<td stylecode="Rrule" valign="top">↓ Ganciclovir<br/>↑ Zidovudine<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Zidovudine and valganciclovir tablets each have the potential to cause neutropenia and anemia<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Probenicid<br/>
+</td>
+<td stylecode="Rrule" valign="top">↑ Ganciclovir<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Patients taking probenicid and valganciclovir tablets should be monitored for evidence of ganciclovir toxicity<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Mycophenolate  Mofetil<br/>(MMF)<br/>
+</td>
+<td stylecode="Rrule" valign="top">↔  Ganciclovir (in patients with normal renal function)<br/>↔ MMF (in patients with normal renal function)<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Patients with renal impairment should be monitored carefully as levels of MMF metabolites and ganciclovir may increase<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Didanosine<br/>
+</td>
+<td stylecode="Rrule" valign="top">↓ Ganciclovir<br/>↑ Didanosine<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Patients should be closely monitored for didanosine toxicity<br/>
+</td>
+</tr>
+</tbody>
+</table>

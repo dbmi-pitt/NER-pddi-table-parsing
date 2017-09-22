@@ -1,0 +1,198 @@
+<table id="_RefID88" width="85%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>  Table 7:  Summary of AED Interactions with Oxcarbazepine </caption>
+<col width="21%"></col>
+<col width="15%"></col>
+<col width="20%"></col>
+<col width="21%"></col>
+<col width="21%"></col>
+<tfoot>
+<tr>
+<td align="left" colspan="5" stylecode="Botrule" valign="top">
+<sup>1</sup>nc denotes a mean change of less than 10%</td>
+</tr>
+<tr>
+<td align="left" colspan="5" stylecode="Botrule" valign="top">
+<sup>2</sup>Pediatrics</td>
+</tr>
+<tr>
+<td align="left" colspan="5" stylecode="Botrule" valign="top">
+<sup>3</sup>Mean increase in adults at high oxcarbazepine doses</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold"> AED </content>
+<br/>
+<content stylecode="bold"> Coadministered</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold"> Dose of AED </content>
+<br/>
+<content stylecode="bold"> (mg/day)</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold"> Oxcarbazepine Dose </content>
+<br/>
+<content stylecode="bold"> (mg/day)</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold"> Influence of </content>
+<br/>
+<content stylecode="bold"> Oxcarbazepine on AED </content>
+<br/>
+<content stylecode="bold"> Concentration </content>
+<br/>
+<content stylecode="bold"> (Mean Change, </content>
+<br/>
+<content stylecode="bold"> 90% Confidence </content>
+<br/>
+<content stylecode="bold"> Interval)</content>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Toprule " valign="bottom">
+<paragraph>
+<content stylecode="bold"> Influence of </content>
+<br/>
+<content stylecode="bold"> AED on MHD </content>
+<br/>
+<content stylecode="bold"> Concentration </content>
+<br/>
+<content stylecode="bold"> (Mean Change, </content>
+<br/>
+<content stylecode="bold"> 90% Confidence </content>
+<br/>
+<content stylecode="bold"> Interval)</content>
+<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph> Carbamazepine<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 400 to 2000<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 900<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> nc<sup>1</sup>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 40% decrease <br/> [CI: 17% decrease, <br/> 57% decrease]<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph> Phenobarbital<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 100 to150<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 600 to 1800<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 14% increase <br/> [CI: 2% increase, <br/> 24% increase]<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 25% decrease <br/> [CI: 12% decrease, <br/> 51% decrease]<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph> Phenytoin<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 250 to 500<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 600 to 1800 <br/> &gt;1200 to 2400<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> nc<sup>1,2</sup>
+<br/> up to 40% <br/> increase<sup>3</sup>
+<br/> [CI: 12% increase, <br/> 60% increase]<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 30% decrease <br/> [CI: 3% decrease, <br/> 48% decrease]<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph> Valproic acid<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 400 to 2800<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 600 to 1800<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> nc<sup>1</sup>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 18% decrease <br/> [CI: 13% decrease, <br/> 40% decrease]<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph> Lamotrigine<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 200<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> 1200<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> nc<sup>1</sup>
+<br/>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule " valign="top">
+<paragraph> nc<sup>1</sup>
+<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

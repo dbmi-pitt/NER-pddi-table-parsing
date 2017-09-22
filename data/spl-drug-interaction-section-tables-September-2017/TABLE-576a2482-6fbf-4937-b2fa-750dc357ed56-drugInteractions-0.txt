@@ -1,0 +1,73 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis (                    
+          
+  
+     <linkhtml href="#s2.3">2.3</linkhtml>,                     
+          
+  
+     <linkhtml href="#s4">4</linkhtml>,                     
+          
+  
+     <linkhtml href="#s5.1">5.1</linkhtml>,                     
+          
+  
+     <linkhtml href="#s7.1">7.1</linkhtml>,                     
+          
+  
+     <linkhtml href="#s7.2">7.2</linkhtml>,                     
+          
+  
+     <linkhtml href="#s7.3">7.3</linkhtml>,                     
+          
+  
+     <linkhtml href="#s12.3">12.3</linkhtml>)                 
+         
+ 
+    </caption>
+<col width="50%"></col>
+<col width="50%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Interacting Agents</content>
+</th>
+<th align="left" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Prescribing Recommendations</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Toprule " valign="top">
+<paragraph>Strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, nefazodone), gemfibrozil, cyclosporine, danazol</paragraph>
+</td>
+<td stylecode="Lrule Toprule " valign="top">
+<paragraph>Contraindicated with simvastatin</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule " valign="top">
+<paragraph>Verapamil, diltiazem, dronedarone</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>Do not exceed 10 mg simvastatin daily</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule " valign="top">
+<paragraph>Amiodarone, amlodipine, ranolazine</paragraph>
+</td>
+<td stylecode="Lrule " valign="top">
+<paragraph>Do not exceed 20 mg simvastatin daily</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Grapefruit juice</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>Avoid grapefruit juice</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,243 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4: Drugs That are Affected by and Affecting Ciprofloxacin </caption>
+<col width="30%"></col>
+<col width="35%"></col>
+<col width="33%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Drugs That are Affected by Ciprofloxacin</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Drug(s) </content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Recommendation</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Comments</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Tizanidine </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Contraindicated</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Concomitant administration of tizanidine and ciprofloxacin extended-release tablets is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine <content stylecode="italics">[see <linkhtml href="#ID_07ef5011-5e88-4c99-b460-40fcfe88427c">Contraindications (4.2)</linkhtml>]. </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Theophylline </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Avoid use</paragraph>
+<paragraph>(Plasma exposure likely to be increased and prolonged)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Concurrent administration of ciprofloxacin extended-release tablets with theophylline may result in increased risk of a patient developing central nervous system (CNS) or other adverse reactions. If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate <content stylecode="italics">[see </content>
+<content stylecode="italics">
+<linkhtml href="#ID_feddc503-b7ba-475b-81cb-e5f608f65308">Warnings and Precautions (5.9)</linkhtml>
+</content>
+<content stylecode="italics">]</content>.<content stylecode="italics"></content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Drugs Known to Prolong QT Interval </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Avoid use</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Ciprofloxacin extended-release tablets may further prolong the QT interval in patients receiving drugs known to prolong the QT interval (for example, class IA or III antiarrhythmics, tricyclic antidepressants, macrolides, antipsychotics) <content stylecode="italics">[see </content>
+<content stylecode="italics">
+<linkhtml href="#ID_9e060463-64a7-416e-a5ed-d2856835a723">Warnings and Precautions (5.11)</linkhtml>
+</content>
+<content stylecode="italics"> and <linkhtml href="#ID_41f2cfa6-3c16-4e23-96d2-b03c54034430">Use in Specific Populations (8.5)</linkhtml>]. </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Oral Antidiabetic Drugs </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use with caution</paragraph>
+<paragraph>Glucose-lowering effect potentiated</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Hypoglycemia sometimes severe has been reported when ciprofloxacin extended-release tablets and oral antidiabetic agents, mainly sulfonylureas (for example, glyburide, glimepiride), were co-administered, presumably by intensifying the action of the oral antidiabetic agent. Fatalities have been reported<content stylecode="italics">. </content>Monitor blood glucose when ciprofloxacin extended-release tablets are co-administered with oral antidiabetic drugs <content stylecode="italics">[see <linkhtml href="#ID_b0686176-e418-47ff-91b6-123f91d16674">Adverse Reactions (6.1)</linkhtml>]</content>.<content stylecode="italics"></content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Phenytoin </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use with caution</paragraph>
+<paragraph>Altered serum levels of phenytoin (increased and decreased)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>To avoid the loss of seizure control associated with decreased phenytoin levels and to prevent phenytoin overdose-related adverse reactions upon ciprofloxacin extended-release tablets discontinuation in patients receiving both agents, monitor phenytoin therapy, including phenytoin serum concentration during and shortly after co-administration of ciprofloxacin extended-release tablets with phenytoin.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Cyclosporine </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use with caution</paragraph>
+<paragraph>(Transient elevations in serum creatinine)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Monitor renal function (in particular serum creatinine) when ciprofloxacin extended-release tablets are co-administered with cyclosporine. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Anticoagulant Drugs </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use with caution</paragraph>
+<paragraph>(Increase in anticoagulant effect)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>The risk may vary with the underlying infection, age and general status of the patient so that the contribution of ciprofloxacin extended-release tablets to the increase in INR (international normalized ratio) is difficult to assess. Monitor prothrombin time and INR frequently during and shortly after co-administration of ciprofloxacin extended-release tablets with an oral anticoagulant (for example, warfarin). </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Methotrexate </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use with caution</paragraph>
+<paragraph>Inhibition of methotrexate renal tubular transport potentially leading to increased methotrexate plasma levels</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>Potential increase in the risk of methotrexate associated toxic reactions. Therefore, carefully monitor patients under methotrexate therapy when concomitant ciprofloxacin extended-release tablets therapy is indicated. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Ropinirole </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use with caution</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin extended-release tablets<content stylecode="italics"> [see <linkhtml href="#ID_caceaf1b-25be-402a-b058-da1c1cb0babf">Warnings and Precautions (5.15)</linkhtml>]. </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Clozapine </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use with caution</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Careful monitoring of clozapine associated adverse reactions and appropriate adjustment of clozapine dosage during and shortly after co-administration with ciprofloxacin extended-release tablets is advised. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>NSAIDs </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use with caution</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Nonsteroidal anti-inflammatory drugs (but not acetyl salicylic acid) in combination of very high doses of quinolones have been shown to provoke convulsions in pre-clinical studies and in postmarketing. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Sildenafil </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use with caution</paragraph>
+<paragraph>2-fold increase in exposure</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Monitor for sildenafil toxicity <content stylecode="italics">[see </content>
+<content stylecode="italics">
+<linkhtml href="#ID_aff44073-3236-4bcf-8ff0-514648c31e2f">Clinical Pharmacology (12.3)</linkhtml>
+</content>
+<content stylecode="italics">]</content>. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Duloxetine </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Avoid use</paragraph>
+<paragraph>5-fold increase in duloxetine exposure</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="middle">
+<paragraph>If unavoidable, monitor for duloxetine toxicity. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Caffeine/Xanthine Derivatives </paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Use with caution</paragraph>
+<paragraph>Reduced clearance resulting in elevated levels and prolongation of serum half-life</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Ciprofloxacin extended-release tablets inhibit the formation of paraxanthine after caffeine administration (or pentoxifylline containing products). Monitor for xanthine toxicity and adjust dose as necessary. </paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Drug(s) Affecting Pharmacokinetics of Ciprofloxacin Extended-Release Tablets</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antacids, Sucralfate, Multivitamins and Other Products Containing Multivalent Cations (magnesium/aluminum antacids; polymeric phosphate binders (for example, sevelamer, lanthanum carbonate); sucralfate; Videx<sup>®</sup> (didanosine) chewable/buffered tablets or pediatric powder; other highly buffered drugs; or products containing calcium, iron, or zinc and dairy products)</paragraph>
+</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Ciprofloxacin extended-release tablets should be taken at least 2 hours before or 6 hours after multivalent cation-containing products administration <content stylecode="italics">[see <linkhtml href="#ID_60fcde81-8986-42af-9873-9f9805f84b4d">Dosage and Administration (2)</linkhtml>]</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Decrease ciprofloxacin extended-release tablets absorption, resulting in lower serum and urine levels considerably lower than desired for concurrent administration of these agents with ciprofloxacin extended-release.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Probenecid </paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Use with caution</paragraph>
+<paragraph>(Interferes with renal tubular secretion of ciprofloxacin extended-release tablets and increases ciprofloxacin extended-release tablets serum levels)</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>Potentiation of ciprofloxacin extended-release tablets toxicity may occur. </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

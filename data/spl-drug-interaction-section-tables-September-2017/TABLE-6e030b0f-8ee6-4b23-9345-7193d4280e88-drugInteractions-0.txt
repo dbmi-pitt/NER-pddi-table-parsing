@@ -1,0 +1,33 @@
+<table border="1" id="id_9ce9d8d9-fe8a-491e-bde7-6fd0a8970e46" width="0.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr id="id_8a653460-9c82-4e45-9456-ed4fff721f98" stylecode="Toprule">
+<td align="left" valign="top">
+<content stylecode="bold">Interacting Agents</content>
+</td>
+<td align="left" valign="top">
+<content stylecode="bold">Prescribing Recommendations</content> </td>
+</tr>
+<tr id="id_bc058da6-6e1d-43f8-b2dc-d6830897046c">
+<td align="left" valign="top">Itraconazole, ketoconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, nefazodone</td>
+<td align="left" valign="top">Avoid simvastatin </td>
+</tr>
+<tr id="id_db79e7bf-63a6-4b3d-88b0-2e26e0ee14a6">
+<td align="left" valign="top">Gemfibrozil, cyclosporine,danazol </td>
+<td align="left" valign="top">Do not exceed 10 mg simvastatindaily </td>
+</tr>
+<tr id="id_2778c64c-b0ae-4aec-8046-2ab2045d4b99">
+<td align="left" valign="top">Amiodarone, verapamil</td>
+<td align="left" valign="top">Do not exceed 20 mg simvastatin daily </td>
+</tr>
+<tr id="id_ea062f59-f41a-48d7-a943-88cb59fbfb75">
+<td align="left" valign="top">Diltiazem</td>
+<td align="left" valign="top">Do not exceed 40 mg simvastatin daily</td>
+</tr>
+<tr id="id_aaa3695e-5b9a-4118-a9b6-13bd8cd3c1bf" stylecode="Botrule">
+<td align="left" valign="top">Grapefruit juice</td>
+<td align="left" valign="top">Avoid large quantities of grapefruit juice (&gt;1 quart daily)</td>
+</tr>
+</tbody>
+</table>

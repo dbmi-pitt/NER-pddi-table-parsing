@@ -1,0 +1,285 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table II. Clinically significant drug interactions with theophylline*.</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     "> Drug</th>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     "> Type of Interaction</th>
+<th stylecode="     Botrule          Toprule         Lrule          Rrule     "> Effect†</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="3"> *    <content stylecode="bold">Refer to <linkhtml href="#LINK_e2db892d-1321-4cf4-b96c-16f1b5ac0aee">PRECAUTIONS, Drug Interactions</linkhtml> for further information regarding table.</content>
+<br/>†    <content stylecode="bold">Average effect on steady state theophylline concentration or other clinical effect for pharmacologic
+														<br/>      interactions. Individual patients may experience larger changes in serum theophylline concentration
+														<br/>      than the value listed.</content>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Adenosine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Theophylline blocks adenosine
+														<br/>receptors.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Higher doses of adenosine may be required to achieve
+														<br/>desired effect.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Alcohol</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> A single large dose of alcohol (3
+														<br/>mL/kg of whiskey) decreases
+														<br/>theophylline clearance for up to
+														<br/>24 hours.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 30% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Allopurinol</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreases theophylline clearance
+														<br/>at allopurinol doses ≥600 mg/day.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 25% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Aminoglutethimide</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Increases theophylline clearance
+														<br/>by induction of microsomal
+														<br/>enzyme activity.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 25% decrease</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Carbamazepine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to aminoglutethimide.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 30% decrease</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Cimetidine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreases theophylline clearance
+														<br/>by inhibiting cytochrome P450
+														<br/>1A2.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 70% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Ciprofloxacin</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to cimetidine.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 40% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Clarithromycin</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to erythromycin.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 25% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Diazepam</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Benzodiazepines increase CNS
+														<br/>concentrations of adenosine, a
+														<br/>potent CNS depressant, while
+														<br/>theophylline blocks adenosine
+														<br/>receptors.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Larger diazepam doses may be required to produce
+														<br/>desired level of sedation. Discontinuation of
+														<br/>theophylline without reduction of diazepam dose may
+														<br/>result in respiratory depression.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Disulfiram</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreases theophylline clearance
+														<br/>by inhibiting hydroxylation and
+														<br/>demethylation.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 50% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Enoxacin</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to cimetidine.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 300% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Ephedrine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Synergistic CNS effects.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Increased frequency of nausea, nervousness, and
+														<br/>insomnia.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Erythromycin</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Erythromycin metabolite
+														<br/>decreases theophylline clearance
+														<br/>by inhibiting cytochrome P450
+														<br/>3A3.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 35% increase. Erythromycin steady-state serum
+														<br/>concentrations decrease by a similar amount.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Estrogen</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Estrogen containing oral
+														<br/>contraceptives decrease
+														<br/>theophylline clearance in a dose-
+														<br/>dependent fashion. The effect of
+														<br/>progesterone on theophylline
+														<br/>clearance is unknown.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 30% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Flurazepam</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to diazepam.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to diazepam.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Fluvoxamine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to cimetidine.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to cimetidine</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Halothane</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Halothane sensitizes the
+														<br/>myocardium to catecholamines,
+														<br/>theophylline increases release of
+														<br/>endogenous catecholamines.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Increased risk of ventricular arrhythmias.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Interferon, human
+														<br/>recombinant alpha-A</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreases theophylline clearance.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 100% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Isoproterenol (IV)</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Increases theophylline clearance.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 20% decrease</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Ketamine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Pharmacologic.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> May lower theophylline seizure threshold.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Lithium</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Theophylline increases renal
+														<br/>lithium clearance.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Lithium dose required to achieve a therapeutic serum
+														<br/>concentration increased an average of 60%.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Lorazepam</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to diazepam.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to diazepam.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Methotrexate (MTX)</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreases theophylline clearance.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 20% increase after low dose MTX, higher dose MTX
+														<br/>may have a greater effect.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Mexiletine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to disulfiram.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 80% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Midazolam</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to diazepam.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to diazepam.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Moricizine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Increases theophylline clearance.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 25% decrease</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Pancuronium</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Theophylline may antagonize
+														<br/>non-depolarizing neuromuscular
+														<br/>blocking effects, possibly due to
+														<br/>phosphodiesterase inhibition.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Larger dose of pancuronium may be required to
+														<br/>achieve neuromuscular blockade</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Pentoxifylline</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreases theophylline clearance.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 30% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Phenobarbital (PB)</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to aminoglutethimide.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 25% decrease after two weeks of concurrent PB.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Phenytoin</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Phenytoin increases theophylline
+														<br/>clearance by increasing
+														<br/>microsomal enzyme activity.
+														<br/>Theophylline decreases
+														<br/>phenytoin absorption.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Serum theophylline <content stylecode="underline">and</content> phenytoin concentrations
+														<br/>decrease about 40%.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Propafenone</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreases theophylline clearance
+														<br/>and pharmacologic interaction.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 40% increase. Beta<sub>2</sub> blocking effect may decrease
+														<br/>efficacy of theophylline</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Propranolol</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to cimetidine and
+														<br/>pharmacologic interaction.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 100% increase. Beta<sub>2</sub> blocking effect may decrease
+														<br/>efficacy of theophylline</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Rifampin</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Increases theophylline clearance
+														<br/>by increasing cytochrome P450
+														<br/>1A2 and 3A3 activity.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 20-40% decrease</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> St. John's Wort
+														<br/>(Hypericum
+														<br/>Perforatum)</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decrease in theophylline plasma
+														<br/>concentrations.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Higher doses of theophylline may be required to
+														<br/>achieve desired effect. Stopping St. John's Wort may
+														<br/>result in theophylline toxicity.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Sulfinpyrazone</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Increases theophylline clearance
+														<br/>by increasing demethylation and
+														<br/>hydroxylation. Decreases renal
+														<br/>clearance of theophylline.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 20% decrease</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Tacrine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to cimetidine, also
+														<br/>increases renal clearance of
+														<br/>theophylline.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 90% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Thiabendazole</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreases theophylline clearance.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 190% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Ticlopidine</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Decreases theophylline clearance.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 60% increase</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Troleandomycin</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to erythromycin.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 33-100% increase depending on troleandomycin dose.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Verapamil</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Similar to disulfiram.</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> 20% increase</td>
+</tr>
+</tbody>
+</table>

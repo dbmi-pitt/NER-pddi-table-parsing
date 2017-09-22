@@ -1,0 +1,76 @@
+<table id="t3" width="85%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3. Clinically Significant Drug Interactions Involving Drugs that Affect Cabozantinib</caption>
+<col align="right" valign="middle" width="33%"></col>
+<col align="left" valign="middle" width="67%"></col>
+<thead>
+<tr>
+<th align="left" colspan="2" stylecode="Lrule Botrule Rrule">   Strong CYP3A4 Inhibitors</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="italics">Clinical Implications:  </content>
+</paragraph>
+</td>
+<td stylecode="Lrule Botrule Rrule">
+<list listtype="unordered">
+<item>Concomitant use of CABOMETYX with a strong CYP3A4 inhibitor increased the exposure of cabozantinib compared to the use of CABOMETYX alone <content stylecode="italics">[see <linkhtml href="#s12.3">Clinical Pharmacology (12.3)</linkhtml>].</content>
+</item>
+<item>Increased cabozantinib exposure may increase the risk of exposure-related toxicity.</item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="italics">Prevention or Management:  </content>
+</paragraph>
+</td>
+<td stylecode="Lrule Botrule Rrule">Reduce the dosage of CABOMETYX if concomitant use with strong CYP3A4 inhibitors cannot be avoided <content stylecode="italics">[see <linkhtml href="#s2.2">Dosage and Administration (2.2)</linkhtml>]</content>.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="italics">Examples:  </content>
+</paragraph>
+</td>
+<td stylecode="Lrule Botrule Rrule">Boceprevir, clarithromycin, conivaptan, grapefruit juice<footnote id="table_3_footnote1">The effect of grapefruit juice varies widely among brands and is concentration-, dose-, and preparation dependent. Studies have shown that it can be classified as a "strong CYP3A inhibitor" when a certain preparation was used (e.g., high dose, double strength) or as a "moderate CYP3A inhibitor" when another preparation was used (e.g., low dose, single strength).</footnote>, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telithromycin, and voriconazole</td>
+</tr>
+<tr>
+<th align="left" colspan="2" stylecode="Lrule Botrule Rrule">   Strong CYP3A4 Inducers</th>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="italics">Clinical Implications:  </content>
+</paragraph>
+</td>
+<td stylecode="Lrule Botrule Rrule">
+<list listtype="unordered">
+<item>Concomitant use of CABOMETYX with a strong CYP3A4 inducer decreased the exposure of cabozantinib compared to the use of CABOMETYX alone <content stylecode="italics">[see <linkhtml href="#s12.3">Clinical Pharmacology (12.3)</linkhtml>].</content>
+</item>
+<item>Decreased cabozantinib exposure may lead to reduced efficacy.</item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="italics">Prevention or Management:  </content>
+</paragraph>
+</td>
+<td stylecode="Lrule Botrule Rrule">Increase the dosage of CABOMETYX if concomitant use with strong CYP3A4 inducers cannot be avoided <content stylecode="italics">[see <linkhtml href="#s2.2">Dosage and Administration (2.2)</linkhtml>]</content>.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>
+<content stylecode="italics">Examples:  </content>
+</paragraph>
+</td>
+<td stylecode="Lrule Botrule Rrule">Rifampin, phenytoin, carbamazepine, phenobarbital, rifabutin, rifapentine, and St. John’s Wort<footnote id="table_3_footnote2">The effect of St. John’s Wort varies widely and is preparation-dependent</footnote>
+</td>
+</tr>
+</tbody>
+</table>

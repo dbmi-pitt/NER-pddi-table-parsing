@@ -1,0 +1,28 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<th align="center" stylecode="Lrule Botrule">Interacting Drug</th>
+<th align="center" stylecode="Lrule Botrule Rrule">Interaction</th>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">Drugs known to prolong QT interval (e.g., Class IA and Class III anti-arrhythmic agents).</td>
+<td stylecode="Lrule Botrule Rrule">Quinine Sulfate Capsules prolong QT interval, ECG abnormalities including QT prolongation and Torsades de Pointes. Avoid concomitant use (<linkhtml href="#section-5.3">5.3</linkhtml>).</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">Other antimalarials (e.g., halofantrine, mefloquine).</td>
+<td stylecode="Lrule Botrule Rrule">ECG abnormalities including QT prolongation. Avoid concomitant use (<linkhtml href="#section-5.3">5.3</linkhtml>, <linkhtml href="#section-7.2">7.2</linkhtml>).</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">CYP3A4 inducers or inhibitors</td>
+<td stylecode="Lrule Botrule Rrule">Alteration in plasma quinine concentration. Monitor for lack of efficacy or increased adverse events of quinine (<linkhtml href="#section-7.1">7.1</linkhtml>).</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">CYP3A4 and CYP2D6 substrates</td>
+<td stylecode="Lrule Botrule Rrule">Quinine is an inhibitor of CYP3A4 and CYP2D6. Monitor for lack of efficacy or increased adverse events of the co-administered drug (<linkhtml href="#section-7.2">7.2</linkhtml>).</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule">Digoxin</td>
+<td stylecode="Lrule Botrule Rrule">Increased digoxin plasma concentration (<linkhtml href="#section-5.8">5.8</linkhtml>, <linkhtml href="#section-7.1">7.1</linkhtml>).</td>
+</tr>
+</tbody>
+</table>

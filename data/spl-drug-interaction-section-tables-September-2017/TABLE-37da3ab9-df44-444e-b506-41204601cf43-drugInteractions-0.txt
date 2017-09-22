@@ -1,0 +1,110 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="28%"></col>
+<col width="39%"></col>
+<col width="33%"></col>
+<tfoot>
+<tr>
+<td colspan="3"> <paragraph>a = Plasma concenrtration increased 25% in some patients, generally those on a twice a day dosing regimen<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3"> <paragraph>of phenytoin.<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3"> <paragraph>b = Is not administered but is an active metabolite of carbamazepine.<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3"> <paragraph>NC = Less than 10% change in plasma concentration.<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="3"> <paragraph>NE = Not Evaluated<br/>
+</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> AED Co-administered<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> AED Concentration<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Topiramate Concentration<content stylecode="bold">
+<br/>
+</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Phenytoin<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NC or 25% increase<sup>a</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 48% decrease<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Carbamazepine (CBZ)<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NC<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 40% decrease<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> CBZ epoxide<sup>b</sup>
+<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NC<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NE<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Valproic acid<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 11% decrease<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 14% decrease<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Phenobarbital<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NC<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NE<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Primidone<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NC<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NE<br/>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> Lamotrigine<content stylecode="bold">
+<br/>
+</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> NC at TPM doses up to 400 mg/day<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 13% decrease<br/>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,123 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="27%"></col>
+<col width="27%"></col>
+<col width="46%"></col>
+<tbody>
+<tr>
+<td rowspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Antiarrhythmics</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>Dofetilide</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Concomitant administration with digoxin was associated with a higher rate of <content stylecode="italics">torsades de pointes</content>.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Sotalol</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Proarrhythmic events were more common in patients receiving sotalol and digoxin than on either alone; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in patients receiving digoxin. </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Parathyroid Hormone Analog</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Teriparatide</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity. Teriparatide transiently increases serum calcium.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Thyroid Supplement</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Thyroid</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Treatment of hypothyroidism in patients taking digoxin may increase the dose requirements of digoxin.</paragraph>
+</td>
+</tr>
+<tr>
+<td rowspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Sympathomimetics</content>
+</paragraph>
+</td>
+<td stylecode="Rrule " valign="middle">
+<paragraph>Epinepherine</paragraph>
+</td>
+<td rowspan="3" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Can increase the risk of cardiac arrhythmias.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule " valign="middle">
+<paragraph>Norepinephrine</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Dopamine</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Neuromuscular Blocking Agents</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Succinylcholine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>May cause sudden extrusion of potassium from muscle cells causing arrhythmias in patients taking digoxin.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Supplements</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Calcium</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Beta-adrenergic Blockers and Calcium Channel Blockers</content>
+</paragraph>
+</td>
+<td colspan="2" stylecode="Rrule Botrule " valign="top">
+<paragraph>Additive effects on AV node conduction can result in complete heart block.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Hyperpolarization-Activated Cyclic Nucleotide-Gated Channel Blocker</content>
+</paragraph>
+</td>
+<td colspan="2" stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>Ivabradine can increase the risk of bradycardia.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

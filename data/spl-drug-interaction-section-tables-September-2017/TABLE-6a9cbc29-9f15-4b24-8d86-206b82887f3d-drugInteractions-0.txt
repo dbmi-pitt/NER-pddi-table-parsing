@@ -1,0 +1,301 @@
+<table id="table3" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [See <linkhtml href="#S12.3">Clinical Pharmacology (12.3)</linkhtml>] </caption>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="55%"></col>
+<thead>
+<tr>
+<th stylecode="Lrule Rrule">Concomitant Drug Class:<br/>Drug Name</th>
+<th stylecode="Rrule">Effect on Concentration of Etravirine or Concomitant Drug</th>
+<th stylecode="Rrule">Clinical Comment</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="3">↑ = increase, ↓ = decrease, ↔ = no change</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">HIV-Antiviral Agents: Integrase Strand Inhibitors</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">dolutegravir<footnote id="t3ft1">The interaction between INTELENCE<sup>®</sup> and the drug was evaluated in a clinical study. All other drug interactions shown are predicted.</footnote>
+</td>
+<td stylecode="Rrule">↓ dolutegravir<br/>↔ etravirine</td>
+<td stylecode="Rrule">Etravirine significantly reduced plasma concentrations of dolutegravir. Using cross-study comparisons to historical pharmacokinetic data for etravirine, dolutegravir did not appear to affect the pharmacokinetics of etravirine. </td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">dolutegravir/darunavir/ritonavir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↓ dolutegravir<br/>↔ etravirine</td>
+<td rowspan="2" stylecode="Rrule Botrule">The effect of etravirine on dolutegravir plasma concentrations was mitigated by co-administration of darunavir/ritonavir or lopinavir/ritonavir, and is expected to be mitigated by atazanavir/ritonavir. Dolutegravir  should only be used with INTELENCE<sup>®</sup> when co-administered with atazanavir/ritonavir, darunavir/ritonavir, or lopinavir/ritonavir.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule Botrule">dolutegravir/lopinavir/ritonavir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule Botrule">↔ dolutegravir<br/>↔ etravirine</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">HIV-Antiviral Agents: Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">efavirenz<footnoteref idref="t3ft1"></footnoteref>
+<br/> nevirapine<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↓ etravirine</td>
+<td stylecode="Rrule">Combining two NNRTIs has not been shown to be beneficial. Concomitant use of INTELENCE<sup>®</sup> with efavirenz or nevirapine may cause a significant decrease in the plasma concentrations of etravirine and loss of therapeutic effect of INTELENCE<sup>®</sup>. INTELENCE<sup>®</sup> and other NNRTIs should not be co-administered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">delavirdine</td>
+<td stylecode="Rrule">↑ etravirine</td>
+<td stylecode="Rrule">Combining two NNRTIs has not been shown to be beneficial. INTELENCE<sup>®</sup> and delavirdine should not be co-administered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">rilpivirine</td>
+<td stylecode="Rrule">↓ rilpivirine<br/>↔ etravirine</td>
+<td stylecode="Rrule">Combining two NNRTIs has not been shown to be beneficial. INTELENCE<sup>®</sup> and rilpivirine should not be coadministered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">HIV-Antiviral Agents: Protease Inhibitors (PIs)</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">atazanavir<footnoteref idref="t3ft1"></footnoteref>
+<br/>(without ritonavir)</td>
+<td stylecode="Rrule">↓ atazanavir</td>
+<td stylecode="Rrule">INTELENCE<sup>®</sup> should not be co-administered with atazanavir without low-dose ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">atazanavir/ritonavir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Lrule Rrule">↓ atazanavir<br/>↔ etravirine</td>
+<td stylecode="Rrule">Concomitant use of INTELENCE<sup>®</sup> with atazanavir/ritonavir decreased atazanavir C<sub>min</sub> but it is not considered clinically relevant.. The mean systemic exposure (AUC) of etravirine after co-administration of INTELENCE<sup>®</sup> with atazanavir/ritonavir in HIV-infected patients was similar to the mean systemic exposure of etravirine observed in the Phase 3 trials after co-administration of INTELENCE<sup>®</sup> and darunavir/ritonavir (as part of the background regimen).  INTELENCE<sup>®</sup> and atazanavir/ritonavir can be co-administered without dose adjustments.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">darunavir/ritonavir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↓ etravirine</td>
+<td stylecode="Rrule">The mean systemic exposure (AUC) of etravirine was reduced when INTELENCE<sup>®</sup> was co-administered with darunavir/ritonavir. Because all subjects in the Phase 3 trials received darunavir/ritonavir as part of the background regimen and etravirine exposures from these trials were determined to be safe and effective, INTELENCE<sup>®</sup> and darunavir/ritonavir can be co-administered without dose adjustments.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">fosamprenavir<br/>(without ritonavir)</td>
+<td stylecode="Rrule">↑ amprenavir</td>
+<td stylecode="Rrule">Concomitant use of INTELENCE<sup>®</sup> with fosamprenavir without low-dose ritonavir may cause a significant alteration in the plasma concentration of amprenavir. INTELENCE<sup>®</sup> should not be co-administered with fosamprenavir without low-dose ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">fosamprenavir/ritonavir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↑ amprenavir</td>
+<td stylecode="Rrule">Due to a significant increase in the systemic exposure of amprenavir, the appropriate doses of the combination of INTELENCE<sup>®</sup> and fosamprenavir/ritonavir have not been established. INTELENCE<sup>®</sup> and fosamprenavir/ritonavir should not be co-administered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">indinavir<footnoteref idref="t3ft1"></footnoteref>
+<br/>(without ritonavir)</td>
+<td stylecode="Rrule">↓ indinavir</td>
+<td stylecode="Rrule">Concomitant use of INTELENCE<sup>®</sup> with indinavir without low-dose ritonavir may cause a significant alteration in the plasma concentration of indinavir. INTELENCE<sup>®</sup> should not be co-administered with indinavir without low-dose ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">lopinavir/ritonavir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↓ etravirine</td>
+<td stylecode="Rrule">The mean systemic exposure (AUC) of etravirine was reduced after co-administration of INTELENCE<sup>®</sup> with lopinavir/ritonavir (tablet). Because the reduction in the mean systemic exposures of etravirine in the presence of lopinavir/ritonavir is similar to the reduction in mean systemic exposures of etravirine in the presence of darunavir/ritonavir, INTELENCE<sup>®</sup> and lopinavir/ritonavir can be co-administered without dose adjustments.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">nelfinavir<br/>(without ritonavir)</td>
+<td stylecode="Rrule">↑ nelfinavir</td>
+<td stylecode="Rrule">Concomitant use of INTELENCE<sup>®</sup> with nelfinavir without low-dose ritonavir may cause a significant alteration in the plasma concentration of nelfinavir. INTELENCE<sup>®</sup> should not be co-administered with nelfinavir without low-dose ritonavir.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">ritonavir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↓ etravirine</td>
+<td stylecode="Rrule">Concomitant use of INTELENCE<sup>®</sup> with ritonavir 600 mg twice daily may cause a significant decrease in the plasma concentration of etravirine and loss of therapeutic effect of INTELENCE<sup>®</sup>. INTELENCE<sup>®</sup> and ritonavir 600 mg twice daily should not be co-administered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">saquinavir/ritonavir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↓ etravirine</td>
+<td stylecode="Rrule">The mean systemic exposure (AUC) of etravirine was reduced when INTELENCE<sup>®</sup> was co-administered with saquinavir/ritonavir. Because the reduction in the mean systemic exposures of etravirine in the presence of saquinavir/ritonavir is similar to the reduction in mean systemic exposures of etravirine in the presence of darunavir/ritonavir, INTELENCE<sup>®</sup> and saquinavir/ritonavir can be co-administered without dose adjustments.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">tipranavir/ritonavir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↓ etravirine</td>
+<td stylecode="Rrule">Concomitant use of INTELENCE<sup>®</sup> with tipranavir/ritonavir may cause a significant decrease in the plasma concentrations of etravirine and loss of therapeutic effect of INTELENCE<sup>®</sup>. INTELENCE<sup>®</sup> and tipranavir/ritonavir should not be co-administered.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">CCR5 Antagonists</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">maraviroc<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↔ etravirine<br/>↓ maraviroc </td>
+<td stylecode="Rrule">When INTELENCE<sup>®</sup> is co-administered with maraviroc in the absence of a potent CYP3A inhibitor (e.g., ritonavir boosted protease inhibitor), the recommended dose of maraviroc is 600 mg twice daily. No dose adjustment of INTELENCE<sup>®</sup> is needed.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">maraviroc/darunavir/ritonavir<footnoteref idref="t3ft1"></footnoteref>
+<footnote id="t3ft3">The reference for etravirine exposure is the pharmacokinetic parameters of etravirine in the presence of darunavir/ritonavir</footnote>
+</td>
+<td stylecode="Rrule">↔ etravirine<br/>↑ maraviroc</td>
+<td stylecode="Rrule">When INTELENCE<sup>®</sup> is co-administered with maraviroc in the presence of a potent CYP3A inhibitor (e.g., ritonavir boosted protease inhibitor), the recommended dose of maraviroc is 150 mg twice daily. No dose adjustment of INTELENCE<sup>®</sup> is needed.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="3" stylecode="Lrule Rrule">
+<content stylecode="bold">Other Agents</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antiarrhythmics</content>:<br/>digoxin<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↔ etravirine<br/>↑ digoxin</td>
+<td stylecode="Rrule">For patients who are initiating a combination of INTELENCE<sup>®</sup> and digoxin, the lowest dose of digoxin should initially be prescribed. For patients on a stable digoxin regimen and initiating INTELENCE<sup>®</sup>, no dose adjustment of either INTELENCE<sup>®</sup> or digoxin is needed. The serum digoxin concentrations should be monitored and used for titration of the digoxin dose to obtain the desired clinical effect.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">										amiodarone,<br/> bepridil,<br/> disopyramide,<br/> flecainide,<br/> lidocaine (systemic),<br/> mexiletine,<br/> propafenone,<br/> quinidine</td>
+<td stylecode="Rrule">↓ antiarrhythmics</td>
+<td stylecode="Rrule">Concentrations of these antiarrhythmics may be decreased when co-administered with INTELENCE<sup>®</sup>. INTELENCE<sup>®</sup> and antiarrhythmics should be co-administered with caution. Drug concentration monitoring is recommended, if available.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anticoagulants</content>:<br/> warfarin</td>
+<td stylecode="Rrule Toprule">↑ anticoagulants</td>
+<td stylecode="Rrule Toprule">Warfarin concentrations may be increased when co-administered with INTELENCE<sup>®</sup>. The international normalized ratio (INR) should be monitored when warfarin is combined with INTELENCE<sup>®</sup>.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Anticonvulsants</content>:<br/> carbamazepine,<br/> phenobarbital,<br/> phenytoin</td>
+<td stylecode="Rrule Toprule">↓ etravirine</td>
+<td stylecode="Rrule Toprule">Carbamazepine, phenobarbital and phenytoin are inducers of CYP450 enzymes. INTELENCE<sup>®</sup> should not be used in combination with carbamazepine, phenobarbital, or phenytoin as co-administration may cause significant decreases in etravirine plasma concentrations and loss of therapeutic effect of INTELENCE<sup>®</sup>.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antifungals</content>:<br/>  fluconazole<footnoteref idref="t3ft1"></footnoteref>,<br/>  voriconazole<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↑ etravirine<br/>  ↔ fluconazole<br/>  ↑ voriconazole</td>
+<td stylecode="Rrule">Co-administration of etravirine and fluconazole significantly increased etravirine exposures. The amount of safety data at these increased etravirine exposures is limited, therefore, etravirine and fluconazole should be co-administered with caution. No dose adjustment of INTELENCE<sup>®</sup> or fluconazole is needed.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule"></td>
+<td stylecode="Rrule"></td>
+<td stylecode="Rrule">Co-administration of etravirine and voriconazole significantly increased etravirine exposures. The amount of safety data at these increased etravirine exposures is limited, therefore, etravirine and voriconazole should be co-administered with caution. No dose adjustment of INTELENCE<sup>®</sup> or voriconazole is needed.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antifungals</content>:<br/>itraconazole,<br/>ketoconazole,<br/>posaconazole</td>
+<td stylecode="Rrule">↑ etravirine<br/>↓ itraconazole<br/>↓ ketoconazole<br/>↔ posaconazole</td>
+<td stylecode="Rrule">Posaconazole, a potent inhibitor of CYP3A4, may increase plasma concentrations of etravirine. Itraconazole and ketoconazole are potent inhibitors as well as substrates of CYP3A4. Concomitant systemic use of itraconazole or ketoconazole and INTELENCE<sup>®</sup> may increase plasma concentrations of etravirine. Simultaneously, plasma concentrations of itraconazole or ketoconazole may be decreased by INTELENCE<sup>®</sup>. Dose adjustments for itraconazole, ketoconazole or posaconazole may be necessary depending on the other co-administered drugs.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antiinfectives</content>:<br/> clarithromycin<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Lrule Rrule">↑ etravirine<br/> ↓ clarithromycin<br/> ↑ 14-OH-clarithromycin</td>
+<td stylecode="Rrule">Clarithromycin exposure was decreased by INTELENCE<sup>®</sup>; however, concentrations of the active metabolite, 14-hydroxy-clarithromycin, were increased. Because 14-hydroxy-clarithromycin has reduced activity against <content stylecode="italics">Mycobacterium avium</content> complex (MAC), overall activity against this pathogen may be altered. Alternatives to clarithromycin, such as azithromycin, should be considered for the treatment of MAC.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antimalarials</content>:<br/> artemether/lumefantrine<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Lrule Rrule">↔ etravirine<br/>↓ artemether<br/>↓ dihydroartemisinin<br/>↓ lumefantrine</td>
+<td stylecode="Rrule">Caution is warranted when co-administering INTELENCE® and artemether/lumefantrine as it is unknown whether the decrease in exposure of artemether or its active metabolite, dihydroartemisinin, could result in decreased antimalarial efficacy. No dose adjustment is needed for INTELENCE<sup>®</sup>.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antimycobacterials:</content>
+<br/> rifampin,<br/> rifapentine</td>
+<td stylecode="Rrule">↓ etravirine</td>
+<td stylecode="Rrule">Rifampin and rifapentine are potent inducers of CYP450 enzymes. INTELENCE<sup>®</sup> should not be used with rifampin or rifapentine as co-administration may cause significant decreases in etravirine plasma concentrations and loss of therapeutic effect of INTELENCE<sup>®</sup>.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Antimycobacterials:</content>
+<br/> rifabutin<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Lrule Rrule">↓ etravirine<br/> ↓ rifabutin<br/> ↓ 25-<content stylecode="italics">O</content>-desacetylrifabutin</td>
+<td stylecode="Rrule">If INTELENCE<sup>®</sup> is NOT co-administered with a protease inhibitor/ritonavir, then rifabutin at a dose of 300 mg once daily is recommended.<br/>If INTELENCE<sup>®</sup> is co-administered with darunavir/ritonavir, lopinavir/ritonavir or saquinavir/ritonavir, then rifabutin should not be co-administered due to the potential for significant reductions in etravirine exposure.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Benzodiazepines:</content>
+<br/> diazepam</td>
+<td stylecode="Rrule">↑ diazepam</td>
+<td stylecode="Rrule">Concomitant use of INTELENCE<sup>®</sup> with diazepam may increase plasma concentrations of diazepam. A decrease in diazepam dose may be needed.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Corticosteroids</content>:<br/> dexamethasone (systemic)</td>
+<td stylecode="Rrule">↓ etravirine</td>
+<td stylecode="Rrule">Systemic dexamethasone induces CYP3A and can decrease etravirine plasma concentrations. This may result in loss of therapeutic effect of INTELENCE<sup>®</sup>. Systemic dexamethasone should be used with caution or alternatives should be considered, particularly for long-term use.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Herbal Products</content>:<br/> St. John's wort (<content stylecode="italics">Hypericum perforatum</content>)</td>
+<td stylecode="Rrule">↓ etravirine</td>
+<td stylecode="Rrule">Concomitant use of INTELENCE<sup>®</sup> with products containing St. John's wort may cause significant decreases in etravirine plasma concentrations and loss of therapeutic effect of INTELENCE<sup>®</sup>. INTELENCE<sup>®</sup> and products containing St. John's wort should not be co-administered.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Hepatitis C Virus (HCV) Direct-Acting Antivirals</content>:<br/> boceprevir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↓etravirine<br/>↑ boceprevir</td>
+<td stylecode="Rrule">The combination of INTELENCE<sup>®</sup> and boceprevir can be used without dose adjustments.<br/>However, co-administration of INTELENCE® and boceprevir is not recommended in the presence of other drugs which may further decrease etravirine exposure. This includes, but is not limited to, darunavir/ritonavir, lopinavir/ritonavir, saquinavir/ritonavir,  tenofovir disoproxil fumarate, or rifabutin.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">telaprevir<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↔ etravirine<br/>↓ telaprevir</td>
+<td stylecode="Rrule">There are insufficient data to make a dosing recommendation for telaprevir when used with INTELENCE<sup>®</sup>.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">HMG-CoA</content>
+<br/>
+<content stylecode="bold">Reductase Inhibitors</content>:<br/> atorvastatin<footnoteref idref="t3ft1"></footnoteref>
+<br/>
+<br/> fluvastatin,<br/> lovastatin,<br/> pitavastatin,<br/>pravastatin,<br/> rosuvastatin,<br/> simvastatin</td>
+<td stylecode="Rrule">↔ etravirine<br/> ↓ atorvastatin<br/> ↑ 2-OH-atorvastatin<br/>
+<br/> ↔ etravirine<br/> ↑ fluvastatin,<br/> ↓ lovastatin,<br/>↑ pitavastatin,<br/> ↔ pravastatin,<br/> ↔ rosuvastatin,<br/> ↓ simvastatin</td>
+<td stylecode="Rrule">The combination of INTELENCE<sup>®</sup> and atorvastatin can be given without dose adjustments, however, the dose of atorvastatin may need to be altered based on clinical response.<br/>
+<br/> No interaction between pravastatin, rosuvastatin and INTELENCE<sup>®</sup> is expected.<br/>
+<br/> Lovastatin and simvastatin are CYP3A substrates and co-administration with INTELENCE<sup>®</sup> may result in lower plasma concentrations of the HMG-CoA reductase inhibitor. Fluvastatin and pitavastatin are metabolized by CYP2C9 and co-administration with INTELENCE<sup>®</sup> may result in higher plasma concentrations of the HMG-CoA reductase inhibitor. Dose adjustments for these HMG-CoA reductase inhibitors may be necessary.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Immunosuppressants</content>:<br/> cyclosporine,<br/> sirolimus,<br/> tacrolimus</td>
+<td stylecode="Rrule">↓ immunosuppressant</td>
+<td stylecode="Rrule">INTELENCE<sup>®</sup> and systemic immunosuppressants should be co-administered with caution because plasma concentrations of cyclosporine, sirolimus, or tacrolimus may be affected.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Narcotic Analgesics/Treatment of Opioid Dependence</content>:<br/> buprenorphine, buprenorphine/naloxone<footnoteref idref="t3ft1"></footnoteref>, <br/>methadone<footnoteref idref="t3ft1"></footnoteref>
+</td>
+<td stylecode="Rrule">↔ etravirine<br/>↓ buprenorphine <br/>↔ norbuprenorphine<br/>↔ methadone</td>
+<td stylecode="Rrule">INTELENCE<sup>®</sup> and buprenorphine (or buprenorphine/naloxone) can be co-administered without dose adjustments, however, clinical monitoring for withdrawal symptoms is recommended as buprenorphine (or buprenorphine/naloxone) maintenance therapy may need to be adjusted in some patients.<br/>
+<br/> INTELENCE<sup>®</sup> and methadone can be co-administered without dose adjustments, however, clinical monitoring for withdrawal symptoms is recommended as methadone maintenance therapy may need to be adjusted in some patients.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Phosphodiesterase Type 5</content>
+<br/>
+<content stylecode="bold">(PDE-5) Inhibitors</content>:<br/> sildenafil<footnoteref idref="t3ft1"></footnoteref>,<br/> tadalafil, <br/>vardenafil</td>
+<td stylecode="Rrule">↓ sildenafil<br/> ↓ N-desmethyl-sildenafil</td>
+<td stylecode="Rrule">INTELENCE<sup>®</sup> and sildenafil can be co-administered without dose adjustments, however, the dose of sildenafil may need to be altered based on clinical effect.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">
+<content stylecode="bold">Platelet Aggregation Inhibitors:</content>
+<br/>clopidogrel</td>
+<td stylecode="Rrule">↓ clopidogrel (active) metabolite</td>
+<td stylecode="Rrule">Activation of clopidogrel to its active metabolite may be decreased when clopidogrel is co-administered with INTELENCE<sup>®</sup>. Alternatives to clopidogrel should be considered.</td>
+</tr>
+</tbody>
+</table>

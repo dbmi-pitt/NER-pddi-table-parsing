@@ -1,0 +1,50 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" width="38.550%"></col>
+<col align="left" width="61.450%"></col>
+<tbody>
+<tr>
+<td align="left" stylecode="Toprule Botrule Lrule Rrule" valign="middle">
+<content stylecode="bold">Interacting Drug</content>
+</td>
+<td align="left" stylecode="Toprule Botrule Rrule" valign="middle">
+<content stylecode="bold">Interaction</content>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Theophylline
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Serious and fatal reactions. Avoid concomitant use. Monitor serum level (<linkhtml href="#s56">7</linkhtml>)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Warfarin
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Anticoagulant effect enhanced. Monitor prothrombin time, INR, and bleeding (<linkhtml href="#s56">7</linkhtml>)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Antidiabetic agents
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Hypoglycemia including fatal outcomes have been reported. Monitor blood glucose (<linkhtml href="#s56">7</linkhtml>)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Phenytoin
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Monitor phenytoin level (<linkhtml href="#s56">7</linkhtml>)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Methotrexate
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="middle">Monitor for methotrexate toxicity (<linkhtml href="#s56">7</linkhtml>)
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="middle">Cyclosporine
+</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">May increase serum creatinine. Monitor serum creatinine (<linkhtml href="#s56">7</linkhtml>)
+</td>
+</tr>
+</tbody>
+</table>

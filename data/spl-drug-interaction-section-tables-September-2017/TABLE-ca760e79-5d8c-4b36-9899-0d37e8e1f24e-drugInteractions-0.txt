@@ -1,0 +1,52 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>                     Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis (<linkhtml href="#dosing3">2.3</linkhtml>, <linkhtml href="#contraindications">4</linkhtml>, <linkhtml href="#i4i_section_ID_4FD678AF-6EB7-455F-BCB8-E75468F55FF2">5.1</linkhtml>, <linkhtml href="#i4i_section_ID_7E1615A3-A89A-4732-AA79-E6D67B4C43DA">7.1</linkhtml>, <linkhtml href="#i4i_section_ID_179D3C13-C346-4247-B12B-046258E855CA">7.2</linkhtml>, <linkhtml href="#blockers">7.3</linkhtml>, <linkhtml href="#i4i_pharmacokinetics_ID_25B1B3F5-7F81-4DB6-A229-FC827A32BB83">12.3</linkhtml>)                   </caption>
+<col width="49%"></col>
+<col width="51%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Interacting Agents</content>
+</th>
+<th align="center" stylecode="Botrule Toprule " valign="top">
+<content stylecode="bold">Prescribing Recommendations</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Toprule " valign="top">
+<list listtype="ordered">
+<item>
+<caption> </caption>	  Strong CYP3A4 inhibitors 	  (e.g. itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, nefazodone), gemfibrozil, cyclosporine, danazol </item>
+</list>
+</td>
+<td stylecode="Toprule " valign="top">
+<paragraph>Contraindicated with simvastatin</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Verapamil, diltiazem, dronedarone</paragraph>
+</td>
+<td valign="top">
+<paragraph>Do not exceed 10 mg simvastatin daily</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Amiodarone, amlodipine, ranolazine</paragraph>
+</td>
+<td valign="top">
+<paragraph>Do not exceed 20 mg simvastatin daily</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="top">
+<paragraph>Grapefruit juice</paragraph>
+</td>
+<td stylecode="Botrule " valign="top">
+<paragraph>Avoid grapefruit juice </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

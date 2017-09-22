@@ -1,0 +1,45 @@
+<table border="single" id="id_eb58c4c7-c626-44fb-b8cb-e5410ee902d4" width="454.000" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption id="id_8e82573a-aef0-4e79-aef6-eae16379b8cc">Table 5: Established Drug Interactions Based on Studies with Didanosine Delayed-Release Capsules or Studies with Buffered Formulations of Didanosine and Expected to Occur with Didanosine Delayed-Release Capsules </caption>
+<col width="23.8%"></col>
+<col width="28.9%"></col>
+<col width="47.4%"></col>
+<tfoot id="id_901c3dc3-82df-49bd-a60b-dba8700d521f">
+<tr>
+<td align="left" colspan="3" stylecode="Lrule Botrule Rrule" valign="top">↑ Indicates increase. <br/>↓ Indicates decrease. </td>
+</tr>
+</tfoot>
+<tbody>
+<tr id="id_4cdaf06d-c81f-4d42-ae65-9e2646848697">
+<td align="center" stylecode="Botrule Toprule Rrule Lrule" valign="top">Drug</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Effect</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">Clinical Comment</td>
+</tr>
+<tr id="id_3a796850-2e16-41f2-b11a-e819ac0776d6">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">ganciclovir</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">↑didanosine concentration</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">If there is no suitable alternative to ganciclovir, then use in combination with didanosine delayed-release capsules with caution. Monitor for didanosine-associated toxicity.</td>
+</tr>
+<tr id="id_e533cd72-8265-4a4a-833c-8d05b5a9e8d8">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">methadone</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">↓didanosine concentration</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">If coadministration of methadone and didanosine is necessary, the recommended formulation of didanosine is didanosine delayed-release capsules. Patients should be closely monitored for adequate clinical response when didanosine delayed-release capsules are coadministered with methadone, including monitoring for changes in HIV RNA viral load. Do not coadminister methadone with didanosine pediatric powder due to significant decreases in didanosine concentrations. </td>
+</tr>
+<tr id="id_374d9463-dbf5-4c47-998b-32ad3102efb4">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">nelfinavir</td>
+<td align="center" stylecode="Botrule Rrule" valign="top">No interaction 1 hour after didanosine</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">Administer nelfinavir 1 hour after didanosine delayed-release capsules. </td>
+</tr>
+<tr id="id_fce32008-3e9e-46b6-9307-0b73d943fbe5">
+<td align="left" stylecode="Lrule Botrule Rrule" valign="top">
+<paragraph>tenofovir disoproxil</paragraph>fumarate</td>
+<td align="center" stylecode="Rrule" valign="top">↑didanosine concentration</td>
+<td align="left" stylecode="Botrule Rrule" valign="top">
+<paragraph>A dose reduction of didanosine delayed-release capsules to the following dosage once daily taken together with tenofovir disoproxil fumarate and a light meal (400 kcalories or less and 20% fat or less ) or in the fasted state is recommended.
+                                    </paragraph>
+<list id="ifb47add6-b807-43df-8207-834908779a7e" listtype="unordered">
+<item>250 mg (adults weighing at least 60 kg with creatinine clearance of at least 60 mL/min)</item>
+<item>200 mg (adults weighing less than 60 kg with creatinine clearance of at least 60 mL/min)</item>
+</list>Patients should be monitored for didanosine-associated toxicities and clinical response.</td>
+</tr>
+</tbody>
+</table>

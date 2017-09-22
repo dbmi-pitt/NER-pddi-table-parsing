@@ -1,0 +1,138 @@
+<table border="1" cellpadding="0" cellspacing="0" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Concomitant Drug Name or Drug Class</content>
+</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Clinical Rationale</content>
+</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Clinical Recommendation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Strong CYP3A4 Inhibitors (e.g., itraconazole, clarithromycin) or strong CYP2D6 inhibitors (e.g., quinidine, fluoxetine, paroxetine) </paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>The concomitant use of aripiprazole with strong CYP 3A4 or CYP2D6 inhibitors increased the exposure of aripiprazole compared to the use of aripiprazole alone 
+             
+     
+      <content stylecode="italics">[see 
+              
+      
+       <linkhtml href="#LINK_7a307f67-04d9-4298-a6b2-71755d4fd0a5">CLINICAL PHARMACOLOGY (12.3)</linkhtml>]
+             
+     
+      </content>. 
+            
+    
+     </paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>With concomitant use of aripiprazole with a strong CYP3A4 inhibitor or CYP2D6 inhibitor, reduce the aripiprazole dosage 
+             
+     
+      <content stylecode="italics">[see 
+              
+      
+       <linkhtml href="#LINK_f65fa3c7-b755-4078-8a23-b02b673d8922">DOSAGE AND ADMINISTRATION (2.7)</linkhtml>]
+             
+     
+      </content>. 
+            
+    
+     </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Strong CYP3A4 Inducers (e.g., carbamazepine, rifampin) </paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>The concomitant use of aripiprazole and carbamazepine decreased the exposure of aripiprazole compared to the use of aripiprazole alone 
+             
+     
+      <content stylecode="italics">[see 
+              
+      
+       <linkhtml href="#LINK_7a307f67-04d9-4298-a6b2-71755d4fd0a5">CLINICAL PHARMACOLOGY (12.3)</linkhtml>]
+             
+     
+      </content>. 
+            
+    
+     </paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>With concomitant use of aripiprazole with a strong CYP3A4 inducer, consider increasing the aripiprazole dosage 
+             
+     
+      <content stylecode="italics">[see 
+              
+      
+       <linkhtml href="#LINK_f65fa3c7-b755-4078-8a23-b02b673d8922">DOSAGE AND ADMINISTRATION (2.7)</linkhtml>]
+             
+     
+      </content>. 
+            
+    
+     </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Antihypertensive Drugs </paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Due to its alpha adrenergic antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive agents. </paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Monitor blood pressure and adjust dose accordingly 
+             
+     
+      <content stylecode="italics">[see 
+              
+      
+       <linkhtml href="#LINK_eb3edb2a-acd3-4d93-96b1-a3c29af60d37">WARNINGS AND PRECAUTIONS (5.7)</linkhtml>]
+             
+     
+      </content>. 
+            
+    
+     </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Benzodiazepines (e.g., lorazepam) </paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>The intensity of sedation was greater with the combination of oral aripiprazole and lorazepam as compared to that observed with aripiprazole alone. The orthostatic hypotension observed was greater with the combination as compared to that observed with lorazepam alone 
+             
+     
+      <content stylecode="italics">[see 
+              
+      
+       <linkhtml href="#LINK_eb3edb2a-acd3-4d93-96b1-a3c29af60d37">WARNINGS AND PRECAUTIONS (5.7)</linkhtml>].
+             
+     
+      </content>
+</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>Monitor sedation and blood pressure. Adjust dose accordingly. </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

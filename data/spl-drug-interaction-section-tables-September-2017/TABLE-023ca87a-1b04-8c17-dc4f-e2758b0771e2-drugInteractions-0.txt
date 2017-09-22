@@ -1,0 +1,33 @@
+<table frame="box" rules="all" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td>
+<content stylecode="bold">Interacting Agents</content>
+</td>
+<td>
+<content stylecode="bold">Prescribing Recommendations</content>
+</td>
+</tr>
+<tr>
+<td>   Strong CYP3A4   Inhibitors, (e.g., itraconazole, ketoconazole, posaconazole, voriconazole,   erythromycin, clarithromycin, telithromycin, HIV protease inhibitors,   boceprevir, telaprevir, nefazodone, cobicistat-containing products),   gemfibrozil, cyclosporine, danazol   </td>
+<td>   Contraindicated   with ezetimibe and simvastatin tablets   </td>
+</tr>
+<tr>
+<td>   Verapamil,   diltiazem, dronedarone   </td>
+<td>   Do not exceed   ezetimibe and simvastatin tablets, 10 mg/10 mg daily   </td>
+</tr>
+<tr>
+<td>   Amiodarone,   amlodipine, ranolazine   </td>
+<td>   Do not exceed   ezetimibe and simvastatin tablets, 10 mg/20 mg daily   </td>
+</tr>
+<tr>
+<td>   Lomitapide   </td>
+<td>   For patients with HoFH, do not exceed 10 mg/20 mg ezetimibe and simvastatin   tablets<sup>1</sup>
+</td>
+</tr>
+<tr>
+<td>   Grapefruit   juice   </td>
+<td>   Avoid   grapefruit juice    </td>
+</tr>
+</tbody>
+</table>

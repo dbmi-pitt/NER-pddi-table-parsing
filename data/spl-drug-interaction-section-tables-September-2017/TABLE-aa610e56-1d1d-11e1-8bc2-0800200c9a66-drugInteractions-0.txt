@@ -1,0 +1,51 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 5: AED Drug Interactions with Oxcarbazepine</caption>
+<col align="left" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<col align="center" valign="top" width="20%"></col>
+<thead>
+<tr>
+<th align="center" stylecode="Rrule Lrule" valign="middle">AED Coadministered<br/>(daily dose)</th>
+<th stylecode="Rrule" valign="middle">IR-Oxcarbazepine<br/>(daily dose)</th>
+<th stylecode="Rrule" valign="middle">Influence of IR-Oxcarbazepine on AED Concentration Mean Change [90%  Confidence Interval]</th>
+<th stylecode="Rrule" valign="middle">Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval)</th>
+<th stylecode="Rrule" valign="middle">Recommendation</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="botrule">
+<td stylecode="Lrule Rrule">Carbamazepine<br/>(400 – 2000 mg)</td>
+<td stylecode="Rrule">900 mg</td>
+<td stylecode="Rrule">nc<footnote id="t5f1">nc denotes a mean change of less than 10%</footnote>
+</td>
+<td stylecode="Rrule">40% decrease <br/>[CI: 17% decrease, 57% decrease]</td>
+<td align="center" rowspan="3" stylecode="Rrule" valign="middle">Consider initiating Oxtellar XR<sup>®</sup> at a higher dose. Monitor and titrate dose to desired clinical effect (see <linkhtml href="#S2.6">2.6</linkhtml>)</td>
+</tr>
+<tr stylecode="botrule">
+<td stylecode="Lrule Rrule">Phenobarbital<br/>(100 – 150 mg)</td>
+<td stylecode="Rrule">600 – 1800 mg</td>
+<td stylecode="Rrule">14% increase<br/>[CI: 2% increase, 24% increase]</td>
+<td stylecode="Rrule">25% decrease <br/>[CI: 12% decrease, 51% decrease]</td>
+</tr>
+<tr stylecode="botrule">
+<td stylecode="Lrule Rrule">Phenytoin<br/>(250 – 500 mg)</td>
+<td stylecode="Rrule">600 – 1800<br/>&gt;1200-2400</td>
+<td stylecode="Rrule">nc<footnoteref idref="t5f1"></footnoteref>
+<sup>,</sup>
+<footnote>Pediatrics</footnote>
+<br/>up to 40% increase<footnote>Mean increase in adults at high doses of immediate-release oxcarbazepine</footnote>
+<br/>[CI: 12% increase, 60% increase]</td>
+<td stylecode="Rrule">30% decrease<br/>[CI: 3% decrease, 48% decrease]</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule">Valproic Acid<br/>(400 – 2800 mg)</td>
+<td stylecode="Rrule">600-1800</td>
+<td stylecode="Rrule">nc<footnoteref idref="t5f1"></footnoteref>
+</td>
+<td stylecode="Rrule">18% decrease <br/>[CI: 13% decrease, 40% decrease]</td>
+<td stylecode="Rrule">Monitor. Dose adjustment of Oxtellar XR<sup>®</sup> may not be needed.</td>
+</tr>
+</tbody>
+</table>

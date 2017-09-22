@@ -1,0 +1,133 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption> Table 6: Effect of Other Drugs on Voriconazole Pharmacokinetics [see <linkhtml href="#LINK_041d0b56-f7e9-4b9b-8d34-988e9b8a1581">Clinical Pharmacology (12.3)</linkhtml>]</caption>
+<col></col>
+<col></col>
+<col></col>
+<thead>
+<tr>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Drug/Drug Class </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(Mechanism of Interaction by the Drug)</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Voriconazole Plasma Exposure </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">(C</content>
+<content stylecode="bold">
+<sub>max</sub>
+</content>
+<content stylecode="bold"> and AUC</content>
+<content stylecode="bold">
+<sub>τ</sub>
+</content>
+<content stylecode="bold"> after </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">200 mg q12h)</content>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold"> Recommendations for Voriconazole </content>
+<content stylecode="bold">
+<br/>
+</content>
+<content stylecode="bold">Dosage Adjustment/Comments</content>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Rifampin<sup>*</sup> and Rifabutin<sup>*</sup>
+<br/> (CYP450 Induction) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Significantly Reduced</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Contraindicated</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Efavirenz (400 mg q24h)<sup>**</sup>
+<br/> (CYP450 Induction) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Significantly Reduced</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Contraindicated</content> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Efavirenz (300 mg q24h)<sup>**</sup>
+<br/> (CYP450 Induction)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">Slight Decrease in AUC<sub>τ</sub> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">When voriconazole is coadministered <br/>with efavirenz, voriconazole oral <br/>maintenance dose should be increased <br/>to 400 mg q12h and efavirenz should <br/>be decreased to 300 mg q24h </td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> High-dose Ritonavir (400 mg q12h)<sup>**</sup>
+<br/>(CYP450 Induction)<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Significantly Reduced</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Contraindicated</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Low-dose Ritonavir (100 mg q12h)<sup>**</sup>
+<br/>(CYP450 Induction) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Reduced</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Coadministration of voriconazole and <br/>low-dose ritonavir (100 mg q12h) <br/>should be avoided, unless an <br/>assessment of the benefit/risk to the <br/>patient justifies the use of voriconazole</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Carbamazepine <br/>(CYP450 Induction) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Not Studied <content stylecode="italics">In Vivo</content> or <content stylecode="italics">In Vitro</content>, <br/>but Likely to Result in <br/>Significant Reduction</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Contraindicated</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Long Acting Barbiturates <br/>(CYP450 Induction) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Not Studied <content stylecode="italics">In Vivo</content> or <content stylecode="italics">In Vitro</content>, <br/>but Likely to Result in <br/>Significant Reduction</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Contraindicated</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Phenytoin<sup>*</sup>
+<br/>(CYP450 Induction) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Significantly Reduced</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top">Increase voriconazole maintenance dose from 4 mg/kg to 5 mg/kg IV q12h or from 200 mg to 400 mg orally q12h <br/> (100 mg to 200 mg orally q12h in patients weighing less than 40 kg)</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> St. John’s Wort <br/>(CYP450 inducer; P-gp inducer) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Significantly Reduced</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="bold">Contraindicated</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Oral Contraceptives<sup>**</sup>
+<br/>containing ethinyl estradiol and <br/>norethindrone (CYP2C19 Inhibition) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Increased</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Monitoring for adverse events and <br/>toxicity related to voriconazole is <br/>recommended when coadministered <br/>with oral contraceptives</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Fluconazole<sup>**</sup> (CYP2C9, CYP2C19 and <br/>CYP3A4 Inhibition) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Significantly Increased</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Avoid concomitant administration of <br/>voriconazole and fluconazole. <br/>Monitoring for adverse events and <br/>toxicity related to voriconazole is <br/>started within 24 h after the last dose of <br/>fluconazole.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Other HIV Protease Inhibitors <br/>(CYP3A4 Inhibition)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="italics">In Vivo</content> Studies Showed No <br/>Significant Effects of Indinavir <br/>on Voriconazole Exposure<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> No dosage adjustment in the <br/>voriconazole dosage needed when <br/>coadministered with indinavir</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="italics">In Vitro</content> Studies Demonstrated <br/>Potential for Inhibition of <br/>Voriconazole Metabolism <br/>(Increased Plasma Exposure)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Frequent monitoring for adverse events <br/>and toxicity related to voriconazole <br/>when coadministered with other HIV <br/>protease inhibitors</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Other NNRTIs<sup>***</sup>
+<br/>(CYP3A4 Inhibition or CYP450 Induction) </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> <content stylecode="italics">In Vitro</content> Studies Demonstrated <br/>Potential for Inhibition of <br/>Voriconazole Metabolism by <br/>Delavirdine and Other NNRTIs <br/>(Increased Plasma Exposure)<br/>
+</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Frequent monitoring for adverse events <br/>and toxicity related to voriconazole</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> </td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> A Voriconazole-Efavirenz Drug <br/>Interaction Study Demonstrated <br/>the Potential for the Metabolism <br/>of Voriconazole to be Induced by <br/>Efavirenz and Other NNRTIs <br/>(Decreased Plasma Exposure)</td>
+<td align="center" stylecode="     Botrule          Toprule         Lrule          Rrule     " valign="top"> Careful assessment of voriconazole <br/>effectiveness</td>
+</tr>
+</tbody>
+</table>

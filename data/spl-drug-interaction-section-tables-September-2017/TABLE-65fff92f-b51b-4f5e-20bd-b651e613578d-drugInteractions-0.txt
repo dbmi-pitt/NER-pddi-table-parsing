@@ -1,0 +1,104 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 8: Drugs That are Affected by and Affecting Ciprofloxacin</caption>
+<col align="left" valign="top" width="18%"></col>
+<col align="center" valign="top" width="27%"></col>
+<col align="left" valign="top" width="55%"></col>
+<thead>
+<tr>
+<th align="center" colspan="3" stylecode="Botrule " valign="top">										Drugs That are Affected by Ciprofloxacin 									</th>
+</tr>
+<tr>
+<th align="left" stylecode="Rrule Botrule " valign="top">										Drug(s) 									</th>
+<th align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Recommendation 									</th>
+<th align="center" stylecode="Lrule Toprule Botrule " valign="top">										Comments 									</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Tizanidine 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Contraindicated 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Concomitant administration of tizanidine and ciprofloxacin is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine [<content stylecode="italics">see <linkhtml href="#S4.2">Contraindications (4.2)</linkhtml>
+</content>]</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Theophylline 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Avoid Use <br/>										(Plasma Exposure Likely to be Increased and Prolonged) 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Concurrent administration of ciprofloxacin with theophylline may result in increased risk of a patient developing central nervous system (CNS) or other adverse reactions. If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [<content stylecode="italics">see <linkhtml href="#S5.9">Warnings and Precautions (5.9)</linkhtml>
+</content>]. 										 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Drugs Known to Prolong QT Interval 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Avoid Use 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Ciprofloxacin may further prolong the QT interval in patients receiving drugs known to prolong the QT interval (for example, class IA or III antiarrhythmics, tricyclic antidepressants, macrolides, antipsychotics) [<content stylecode="italics">see <linkhtml href="#S5.11">Warnings and Precautions (5.11)</linkhtml> and <linkhtml href="#S8.5">Use in Specific Populations (8.5)</linkhtml>
+</content>]. 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Oral antidiabetic drugs 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Use with caution <br/>										Glucose-lowering effect potentiated 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Hypoglycemia sometimes severe has been reported when ciprofloxacin and oral antidiabetic agents, mainly sulfonylureas (for example, glyburide, glimepiride), were co-administered, presumably by intensifying the action of the oral antidiabetic agent. Fatalities have been reported<content stylecode="italics">. </content>Monitor blood glucose when ciprofloxacin is co-administered with oral antidiabetic drugs [<content stylecode="italics">see <linkhtml href="#S6.1">Adverse Reactions (6.1)</linkhtml>
+</content>]. 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Phenytoin 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Use with caution <br/>										Altered serum levels of phenytoin (increased and decreased) 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										To avoid the loss of seizure control associated with decreased phenytoin levels and to prevent phenytoin overdose-related adverse reactions upon ciprofloxacin discontinuation in patients receiving both agents, monitor phenytoin therapy, including phenytoin serum concentration during and shortly after co-administration of ciprofloxacin with phenytoin. 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Cyclosporine 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Use with caution <br/>										(transient elevations in serum creatinine) 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Monitor renal function (in particular serum creatinine) when ciprofloxacin is co-administered with cyclosporine. 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Anti-coagulant drugs 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Use with caution <br/>										(Increase in anticoagulant effect) 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										The risk may vary with the underlying infection, age and general status of the patient so that the contribution of ciprofloxacin to the increase in INR (international normalized ratio) is difficult to assess. Monitor prothrombin time and INR frequently during and shortly after co-administration of ciprofloxacin with an oral anticoagulant (for example, warfarin). 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Methotrexate 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Use with caution <br/>										Inhibition of methotrexate renal tubular transport potentially leading to increased methotrexate plasma levels 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Potential increase in the risk of methotrexate associated toxic reactions. Therefore, carefully monitor patients under methotrexate therapy when concomitant ciprofloxacin therapy is indicated. 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Ropinirole 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Use with caution 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin [<content stylecode="italics">see <linkhtml href="#S5.15">Warnings and Precautions (5.15)</linkhtml>
+</content>]. 										 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Clozapine 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Use with caution 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Careful monitoring of clozapine associated adverse reactions and appropriate adjustment of clozapine dosage during and shortly after co-administration with ciprofloxacin are advised. 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										NSAIDs 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Use with caution 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Non-steroidal anti-inflammatory drugs (but not acetyl salicylic acid) in combination of very high doses of quinolones have been shown to provoke convulsions in pre-clinical studies and in postmarketing. 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Sildenafil 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Use with caution <br/>										Two-fold increase in exposure 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Monitor for sildenafil toxicity [<content stylecode="italics">see <linkhtml href="#S12.3">Clinical Pharmacology (12.3)</linkhtml>
+</content>]. 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Duloxetine 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Avoid Use <br/>										Five-fold increase in duloxetine exposure 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										If unavoidable, monitor for duloxetine toxicity. 									</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">										Caffeine/Xanthine Derivatives 									</td>
+<td align="center" stylecode="Rrule Lrule Toprule Botrule " valign="top">										Use with caution <br/>										Reduced clearance resulting in elevated levels and prolongation of serum half-life 									</td>
+<td stylecode="Lrule Toprule Botrule " valign="top">										Ciprofloxacin inhibits the formation of paraxanthine after caffeine administration (or pentoxifylline containing products). Monitor for xanthine toxicity and adjust dose as necessary. 									</td>
+</tr>
+<tr>
+<td align="center" colspan="3" stylecode="Toprule Botrule " valign="top">
+<content stylecode="bold">Drug(s) Affecting Pharmacokinetics of Ciprofloxacin</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Toprule " valign="top">										Probenecid 									</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">										Use with caution (interferes with renal tubular secretion of ciprofloxacin and increases ciprofloxacin serum levels) 									</td>
+<td stylecode="Botrule Lrule Toprule " valign="top">										Potentiation of ciprofloxacin toxicity may occur. 									</td>
+</tr>
+</tbody>
+</table>

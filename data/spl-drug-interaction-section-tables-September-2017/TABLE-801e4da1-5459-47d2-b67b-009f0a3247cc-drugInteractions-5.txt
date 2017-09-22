@@ -1,0 +1,24 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="25%"></col>
+<col align="left" valign="top" width="25%"></col>
+<thead>
+<tr>
+<th colspan="4" stylecode="Lrule Rrule">Specific Drugs Reported</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="4">also: diet high in vitamin K<br/>        unreliable PT/INR determinations<br/>†Increased and decreased PT/INR responses have been reported.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td stylecode="Lrule Rrule">alcohol†<br/>aminoglutethimide<br/>amobarbital<br/>atorvastatin†<br/>azathioprine<br/>butabarbital<br/>butalbital<br/>carbamazepine<br/>chloral hydrate†<br/>chlordiazepoxide<br/>chlorthalidone</td>
+<td stylecode="Rrule">cholestyramine†<br/>clozapine<br/>corticotropin<br/>cortisone<br/>cyclophosphamide†<br/>dicloxacillin<br/>ethchlorvynol<br/>glutethimide<br/>griseofulvin<br/>haloperidol<br/>meprobamate</td>
+<td stylecode="Rrule">6-mercaptopurine<br/>methimazole†<br/>moricizine hydrochloride†<br/>nafcillin<br/>paraldehyde<br/>pentobarbital<br/>phenobarbital<br/>phenytoin†<br/>pravastatin†<br/>prednisone†<br/>primidone</td>
+<td stylecode="Rrule">propylthiouracil†<br/>raloxifene<br/>ranitidine†<br/>rifampin<br/>secobarbital<br/>spironolactone<br/>sucralfate<br/>trazodone<br/>vitamin C (high dose)<br/>vitamin K<br/>warfarin underdosage</td>
+</tr>
+</tbody>
+</table>

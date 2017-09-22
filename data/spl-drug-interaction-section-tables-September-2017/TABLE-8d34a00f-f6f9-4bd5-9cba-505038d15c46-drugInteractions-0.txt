@@ -1,0 +1,477 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="21%"></col>
+<col width="20%"></col>
+<col width="18%"></col>
+<col width="21%"></col>
+<col width="20%"></col>
+<thead>
+<tr>
+<th align="left" colspan="5" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<content stylecode="bold">Table 1:  Drugs that may have their plasma concentrations increased by itraconazole</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Drug Class</content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Contraindicated</content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Not Recommended</content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Use with Caution</content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Comments</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Under no circumstances is</content>
+</paragraph>
+<paragraph>
+<content stylecode="italics">the drug to be coadministered with itraconazole, and up to two weeks after discontinuation of treatment with itraconazole.</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">It is recommended that the use of the drug be avoided during and up to two weeks after discontinuation of treatment with itraconazole, unless the benefits outweigh the potentially increased risks of side effects. If coadministration cannot be avoided, clinical monitoring for signs or symptoms of increased or prolonged effects or side effects of the interacting drug is recommended, and its dosage be reduced or interrupted as deemed necessary. When appropriate, it is recommended that plasma concentrations be measured. The label of the coadministered drug should be consulted for information on dose adjustment and adverse effects.</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="italics">Careful monitoring is recommended when the drug is coadministered with itraconazole. Upon coadministration, it is recommended that patients be monitored closely for signs or symptoms of increased or prolonged effects or side effects of the interacting drug, and its dosage be reduced as deemed necessary. When appropriate, it is recommended that plasma concentrations be measured. The label of the coadministered drug should be consulted for information on dose adjustment and adverse effects.</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Alpha Blockers</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>tamsulosin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Analgesics</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>methadone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>alfentanil, </paragraph>
+<paragraph>buprenorphine IV and sublingual, fentanyl, </paragraph>
+<paragraph>oxycodone, </paragraph>
+<paragraph>sufentanil</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Methadone:</content>  The potential increase in plasma concentrations of methadone when coadministered with itraconazole may increase the risk of serious cardiovascular events including QTc prolongation and <content stylecode="italics">torsade de pointes</content>.</paragraph>
+<paragraph>
+<content stylecode="bold">Fentanyl:</content> The potential increase in plasma concentrations of fentanyl when coadministered with itraconazole may increase the risk of potentially fatal respiratory depression.</paragraph>
+<paragraph>
+<content stylecode="bold">Sufentanil:</content> No human pharmacokinetic data of an interaction with itraconazole are available.  In vitro data suggest that sufentanil is metabolized by CYP3A4 and so potentially increased sufentanil plasma concentrations would be expected when coadministered with itraconazole.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antiarrhythmics</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>disopyramide,</paragraph>
+<paragraph>dofetilide, </paragraph>
+<paragraph>dronedarone, </paragraph>
+<paragraph>quinidine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>digoxin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Disopyramide, dofetilide, dronedarone</content>, <content stylecode="bold">quinidine:</content> The potential increase in plasma concentrations of these drugs when coadministered with itraconazole may increase the risk of serious cardiovascular events including QTc prolongation.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antibacterials</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>telithromycin, in</paragraph>
+<paragraph>subjects with severe renal impairment or severe hepatic impairment</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>rifabutin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>telithromycin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Telithromycin:</content> The potential increase in plasma concentrations of telithromycin in subjects with severe renal impairment or severe hepatic impairment, when coadministered with itraconazole may increase the risk of serious cardiovascular events including QT prolongation and<content stylecode="italics"> torsade de pointes</content>.</paragraph>
+<paragraph>
+<content stylecode="bold">Rifabutin:</content> See also under ‘Drugs that may decrease itraconazole plasma concentrations’.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Anticoagulants and</paragraph>
+<paragraph>Antiplatelet Drugs</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>ticagrelor</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>apixaban,</paragraph>
+<paragraph>rivaroxaban</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>coumarins,</paragraph>
+<paragraph>cilostazol, </paragraph>
+<paragraph>dabigatran</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Ticagrelor:</content> The potential Increase in plasma concentrations of ticagrelor may increase the risk of bleeding.</paragraph>
+<paragraph>
+<content stylecode="bold">Coumarins:</content> Itraconazole may enhance the anticoagulant effect of coumarin-like drugs, such as warfarin.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Anticonvulsants</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>carbamazepine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Carbamazepine:</content>
+<content stylecode="italics">In vivo</content> studies have demonstrated an increase in plasma carbamazepine concentrations in subjects concomitantly receiving ketoconazole. Although there are no data regarding the effect of itraconazole on carbamazepine metabolism, because of the similarities between ketoconazole and itraconazole, concomitant administration of itraconazole and carbamazepine may inhibit the metabolism of carbamazepine. See also under ‘Drugs that may decrease itraconazole plasma concentrations’.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antidiabetics</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>repaglinide,</paragraph>
+<paragraph>saxagliptin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antihelmintics and</paragraph>
+<paragraph>Antiprotozoals</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>praziquantel</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antimigraine Drugs</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>ergot alkaloids, such as</paragraph>
+<paragraph>dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>eletriptan</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Ergot Alkaloids: </content> The potential increase in plasma concentrations of ergot alkaloids when coadministered with itraconazole may increase the risk of ergotism, ie. a risk for vasospasm potentially leading to cerebral  ischemia  and/or ischemia of the extremities.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antineoplastics</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>irinotecan</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>axitinib,</paragraph>
+<paragraph>dabrafenib, </paragraph>
+<paragraph>dasatinib, </paragraph>
+<paragraph>ibrutinib, </paragraph>
+<paragraph>nilotinib, </paragraph>
+<paragraph>sunitinib</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>bortezomib,</paragraph>
+<paragraph>busulphan,</paragraph>
+<paragraph> docetaxel,</paragraph>
+<paragraph> erlotinib, </paragraph>
+<paragraph>imatinib, </paragraph>
+<paragraph>ixabepilone, lapatinib, </paragraph>
+<paragraph>ponatinib, </paragraph>
+<paragraph>trimetrexate, </paragraph>
+<paragraph>vinca alkaloids</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Irinotecan:</content> The potential increase in plasma concentrations of irinotecan when coadministered with itraconazole may increase the risk of potentially fatal adverse events.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antipsychotics,</paragraph>
+<paragraph>Anxiolytics and</paragraph>
+<paragraph>Hypnotics</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>lurasidone,</paragraph>
+<paragraph>oral midazolam,</paragraph>
+<paragraph>pimozide, </paragraph>
+<paragraph>triazolam</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>alprazolam,</paragraph>
+<paragraph>aripiprazole,</paragraph>
+<paragraph>buspirone, </paragraph>
+<paragraph>diazepam, </paragraph>
+<paragraph>haloperidol, </paragraph>
+<paragraph>midazolam IV, </paragraph>
+<paragraph>perospirone, </paragraph>
+<paragraph>quetiapine, </paragraph>
+<paragraph>ramelteon, </paragraph>
+<paragraph>risperidone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Midazolam, triazolam:</content>
+</paragraph>
+<paragraph>Coadministration of itraconazole and oral midazolam, or triazolam may cause several-fold increases in Plasma concentrations of these drugs. This may potentiate and prolong hypnotic and sedative effects, especially with repeated dosing or chronic administration of these agents.</paragraph>
+<paragraph>
+<content stylecode="bold">Pimozide:</content> The potential increase in plasma concentrations of pimozide when coadministered with itraconazole may increase the risk of serious cardiovascular events including QTc prolongation and <content stylecode="italics">torsade de pointes.</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Antivirals</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>simeprevir</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>maraviroc,</paragraph>
+<paragraph>indinavir, </paragraph>
+<paragraph>ritonavir, </paragraph>
+<paragraph>saquinavir</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Indinavir, ritonavir:</content> See also under ‘Drugs that may increase itraconazole plasma concentrations’.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Beta Blockers</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>nadolol</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Calcium Channel</paragraph>
+<paragraph>Blockers</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>felodipine,</paragraph>
+<paragraph>nisoldipine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>other dihydropyridines,</paragraph>
+<paragraph>verapamil</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Calcium channel blockers </content>can have a negative inotropic effect which may be additive to those of itraconazole. The potential increase in plasma concentrations of calcium channel blockers when co-administered with itraconazole may increase the risk of congestive heart failure. <content stylecode="bold">Dihydropyridines</content>: Concomitant administration of itraconazole may cause several-fold increases inplasma concentrations of dihydropyridines. Edema has been reported in patients concomitantly receiving itraconazole and dihydropyridine calcium channel blockers.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Cardiovascular</paragraph>
+<paragraph>Drugs, Miscellaneous</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>ranolazine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>aliskiren,</paragraph>
+<paragraph>sildenafil, for the treatment of</paragraph>
+<paragraph>pulmonary hypertension</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>bosentan,</paragraph>
+<paragraph>riociguat</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Ranolazine:</content> The potential increase in plasma concentrations of ranolazine when coadministered with itraconazole may increase the risk of serious cardiovascular events including QTc prolongation.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Diuretics</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>eplerenone</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Eplerenone:</content> The potential increase in plasma concentrations of eplerenone when coadministered with itraconazole may increase the risk of hyperkalemia and hypotension.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Gastrointestinal</paragraph>
+<paragraph>Drugs</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>cisapride</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>aprepitant</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Cisapride:</content> The potential increase in plasma concentrations of cisapride when coadministered with itraconazole may increase the risk of serious cardiovascular events including QTc prolongation.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Immunosuppressants</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>everolimus,</paragraph>
+<paragraph>temsirolimus</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>budesonide,</paragraph>
+<paragraph>ciclesonide, </paragraph>
+<paragraph>cyclosporine, </paragraph>
+<paragraph>dexamethasone, </paragraph>
+<paragraph>fluticasone, </paragraph>
+<paragraph>methylprednisolone, </paragraph>
+<paragraph>rapamycin (also known as</paragraph>
+<paragraph>sirolimus),</paragraph>
+<paragraph>tacrolimus</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Lipid Regulating</paragraph>
+<paragraph>Drugs</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>lovastatin,</paragraph>
+<paragraph>simvastatin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>atorvastatin</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>The potential increase in plasma concentrations of atorvastatin, lovastatin, and simvastatin when coadministered with itraconazole may increase the risk of skeletal muscle toxicity, including rhabdomyolysis.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Respiratory Drugs</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>salmeterol</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+<td stylecode="Rrule Lrule Botrule " valign="top"></td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Urological Drugs</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>fesoterodine, in</paragraph>
+<paragraph>subjects with moderate to severe renal impairment, or moderate to severe hepatic impairment, solifenacin, in subjects with severe renal impairment or moderate to severe hepatic impairment</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>darifenacin,</paragraph>
+<paragraph>vardenafil</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>fesoterodine.</paragraph>
+<paragraph>oxybutynin,</paragraph>
+<paragraph>sildenafil, for the treatment of erectile dysfunction,</paragraph>
+<paragraph>solifenacin,</paragraph>
+<paragraph>tadalafil, </paragraph>
+<paragraph>tolterodine</paragraph>
+</td>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">Fesoterodine:</content> The potential increase in plasma concentrations of the fesoterodine active metabolite may be greater in subjects with moderate to severe renal impairment, or moderate to severe hepatic impairment, which may lead to an increased risk of adverse reactions.</paragraph>
+<paragraph>
+<content stylecode="bold">Solifenacin:</content> The potential increase in plasma concentrations of solifenacin in subjects with severe renal impairment or moderate to severe hepatic impairment, when coadministered with itraconazole may increase the risk of serious cardiovascular events including QT prolongation.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>Other</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>colchicine, in subjects</paragraph>
+<paragraph>with renal or hepatic impairment</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>colchicine,</paragraph>
+<paragraph>conivaptan, </paragraph>
+<paragraph>tolvaptan</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>cinacalcet</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>
+<content stylecode="bold">Colchicine:</content> The potential increase in plasma concentrations of colchicine when coadministered with itraconazole may increase the risk of potentially fatal adverse events.</paragraph>
+<paragraph>
+<content stylecode="bold">Conivaptan and Tolvaptan:</content> A safe and effective dose of either conivaptan or tolvaptan has not been established when coadministered with itraconazole.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,93 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="27%"></col>
+<col width="29%"></col>
+<col width="23%"></col>
+<col width="21%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule " valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="underline">Antibiotics</content>
+</content>
+</paragraph>
+</td>
+<td stylecode="Toprule " valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="underline">Anticonvulsants</content>
+</content>
+</paragraph>
+</td>
+<td colspan="2" stylecode="Toprule " valign="bottom">
+<paragraph>
+<content stylecode="italics">
+<content stylecode="underline">Other Drugs/DietarySupplements</content>
+</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<paragraph>nafcillin</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>carbamazepine</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>bosentan </paragraph>
+</td>
+<td valign="bottom">
+<paragraph>St. John’s Wort</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<paragraph>rifampin</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>oxcarbazepine</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>octreotide</paragraph>
+</td>
+<td valign="bottom"></td>
+</tr>
+<tr>
+<td valign="bottom"></td>
+<td valign="bottom">
+<paragraph>phenobarbital</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>orlistat</paragraph>
+</td>
+<td valign="bottom"></td>
+</tr>
+<tr>
+<td valign="bottom"></td>
+<td valign="bottom">
+<paragraph>phenytoin</paragraph>
+</td>
+<td valign="bottom">
+<paragraph>sulfinpyrazone</paragraph>
+</td>
+<td valign="bottom"></td>
+</tr>
+<tr>
+<td valign="bottom"></td>
+<td valign="bottom"></td>
+<td valign="bottom">
+<paragraph>terbinafine</paragraph>
+</td>
+<td valign="bottom"></td>
+</tr>
+<tr>
+<td stylecode="Botrule " valign="bottom"></td>
+<td stylecode="Botrule " valign="bottom"></td>
+<td stylecode="Botrule " valign="bottom">
+<paragraph>ticlopidine</paragraph>
+</td>
+<td stylecode="Botrule " valign="bottom"></td>
+</tr>
+</tbody>
+</table>

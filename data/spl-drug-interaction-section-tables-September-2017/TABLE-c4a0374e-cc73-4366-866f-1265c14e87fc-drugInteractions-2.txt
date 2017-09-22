@@ -1,0 +1,38 @@
+<table width="65.98%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="28%"></col>
+<col width="39%"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule " valign="top">
+<paragraph>DRUG</paragraph>
+</td>
+<td stylecode="Toprule " valign="top">
+<paragraph>DESCRIPTION OF INTERACTION</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Heparin</paragraph>
+</td>
+<td valign="top">
+<paragraph>Salicylate decreases platelet adhesiveness and interferes with hemostasis in heparin treated patients.</paragraph>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<paragraph>Pyrazinamide</paragraph>
+</td>
+<td valign="top">
+<paragraph>Inhibits pyrazinamide-induced hyperuricemia.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Toprule " valign="top">
+<paragraph>Uricosuric Agents</paragraph>
+</td>
+<td stylecode="Botrule Toprule " valign="top">
+<paragraph>Effect of probenemide, sulfinpyrazone and phenylbutazone inhibited.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

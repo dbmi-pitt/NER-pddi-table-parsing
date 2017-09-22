@@ -1,0 +1,33 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis (<linkhtml href="#LINK_45565159-12b9-4649-b6bf-355b66e094df">2.3</linkhtml>, <linkhtml href="#LINK_018935c1-374a-41b8-88be-9037ccbff7e6">2.4</linkhtml>, <linkhtml href="#LINK_fffcca79-a483-4afa-808b-c5da15de1249">4</linkhtml>, <linkhtml href="#LINK_881ca375-1606-4013-8902-c15a2605aa40">5.1</linkhtml>, <linkhtml href="#LINK_58f1bf18-4b23-441b-a8ea-a950e5778326">7.1</linkhtml>, <linkhtml href="#LINK_dd8222bd-d1dc-454f-8620-df4e937cf341">7.2</linkhtml>, <linkhtml href="#LINK_f2c3b525-19ff-48a3-bf76-f263ba37e2ac">7.3</linkhtml>, <linkhtml href="#LINK_625a3d5b-6cc5-4f43-abc3-ac8c9df70eae">7.8</linkhtml>, <linkhtml href="#LINK_40e05f46-d65b-47e2-8c7e-50ad0e303863">12.3</linkhtml>)</caption>
+<col width="1px"></col>
+<col width="1px"></col>
+<thead>
+<tr>
+<th stylecode="     Botrule          Toprule     " valign="bottom"> Interacting Agents</th>
+<th stylecode="     Botrule          Toprule     " valign="bottom"> Prescribing Recommendations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="     Botrule     " valign="top"> Strong CYP3A4 Inhibitors, (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, nefazodone, cobicistat-containing products), gemfibrozil, cyclosporine, danazol</td>
+<td stylecode="     Botrule     " valign="top"> Contraindicated with ezetimibe and simvastatin tablets </td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="top"> Verapamil, diltiazem, dronedarone</td>
+<td stylecode="     Botrule     " valign="top"> Do not exceed 10 mg/10 mg ezetimibe and simvastatin tablets daily </td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="top"> Amiodarone, amlodipine, ranolazine </td>
+<td stylecode="     Botrule     " valign="top"> Do not exceed 10 mg/20 mg ezetimibe and simvastatin tablets daily </td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="top"> Lomitapide</td>
+<td stylecode="     Botrule     " valign="top"> For patients with HoFH, do not exceed 10 mg/20 mg ezetimibe and simvastatin tablets daily<footnoteref idref="FOOT_8185"></footnoteref> </td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="top"> Grapefruit juice </td>
+<td stylecode="     Botrule     " valign="top"> Avoid grapefruit juice</td>
+</tr>
+</tbody>
+</table>

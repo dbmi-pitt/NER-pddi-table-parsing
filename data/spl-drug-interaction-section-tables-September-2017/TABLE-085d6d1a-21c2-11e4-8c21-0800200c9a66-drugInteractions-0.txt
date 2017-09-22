@@ -1,0 +1,37 @@
+<table id="table2" stylecode="Noautorules" width="600" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2: Coagulation Tests Affected and Unaffected by ORBACTIV</caption>
+<tbody>
+<tr>
+<td align="center" stylecode="Toprule Botrule">
+<content stylecode="bold">Elevated by ORBACTIV</content>
+</td>
+<td align="center" stylecode="Toprule Botrule">
+<content stylecode="bold">Unaffected by ORBACTIV</content>
+</td>
+</tr>
+<tr>
+<td>Prothrombin time (PT) up to 12 hours</td>
+<td>Chromogenic Factor Xa Assay</td>
+</tr>
+<tr>
+<td>International normalized ratio (INR) up to 12 hours</td>
+<td>Thrombin Time (TT)</td>
+</tr>
+<tr>
+<td>Activated partial thromboplastin time (aPTT) up to 120 hours</td>
+</tr>
+<tr>
+<td>Activated clotting time (ACT) up to 24 hours</td>
+</tr>
+<tr>
+<td>Silica clot time (SCT) up to 18 hours</td>
+</tr>
+<tr>
+<td>Dilute Russell’s viper venom time (DRVVT) up to 72 hours</td>
+</tr>
+<tr>
+<td stylecode="Botrule">D-dimer up to 72 hours</td>
+<td stylecode="Botrule"></td>
+</tr>
+</tbody>
+</table>

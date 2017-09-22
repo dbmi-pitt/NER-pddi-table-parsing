@@ -1,0 +1,145 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 7  Summary of AED Interactions with Oxcarbazepine</caption>
+<col width="23%"></col>
+<col width="20%"></col>
+<col width="21%"></col>
+<col width="24%"></col>
+<col width="26%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">AED</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Coadministered</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Dose of AED</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(mg/day)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">
+<content stylecode="xmChange">Oxcarbazepine</content> Dose</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(mg/day)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Influence of </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Oxcarbazepine on AED Concentration </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Mean Change, </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">90% Confidence</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Interval)</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Influence of </content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">AED on MHD</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Concentration</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">(Mean Change,</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">90% Confidence</content>
+</paragraph>
+<paragraph>
+<content stylecode="bold">Interval)</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule " valign="top">
+<paragraph>Carbamazepine</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>400-2000</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>900</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>nc<sup>1</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>40% decrease <br/>[CI: 17% decrease, <br/>57% decrease]</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule " valign="top">
+<paragraph>Phenobarbital</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>100-150</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>600-1800</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>14% increase <br/>[CI: 2% increase, <br/>24% increase]</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>25% decrease <br/>[CI: 12% decrease, <br/>51% decrease]</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule " valign="top">
+<paragraph>Phenytoin</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>250-500</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>600-1800 <br/>&gt;1200-2400</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>nc<sup>1,2 </sup>
+<br/>up to 40% <br/>increase<sup>3</sup> <br/>[CI: 12% increase, <br/>60% increase]</paragraph>
+</td>
+<td align="center" stylecode="Toprule Botrule " valign="top">
+<paragraph>30% decrease <br/>[CI: 3% decrease, <br/>48% decrease]</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Toprule " valign="top">
+<paragraph>Valproic acid</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="top">
+<paragraph>400-2800</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="top">
+<paragraph>600-1800</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="top">
+<paragraph>nc<sup>1</sup>
+</paragraph>
+</td>
+<td align="center" stylecode="Botrule Toprule " valign="top">
+<paragraph>18% decrease <br/>[CI: 13% decrease, <br/>40% decrease]</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

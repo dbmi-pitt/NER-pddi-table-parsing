@@ -1,0 +1,134 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Antiretrovirals</content> </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>
+<paragraph>The effect of PPI on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. </paragraph>
+<list listtype="unordered" stylecode="Disc">
+<item>
+<paragraph>Decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir, and nelfinavir) when used concomitantly with rabeprazole may reduce antiviral effect and promote the development of drug resistance.</paragraph>
+</item>
+<item>
+<paragraph>Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with rabeprazole may increase toxicity<content stylecode="italics">.</content>
+</paragraph>
+</item>
+<item>
+<paragraph>There are other antiretroviral drugs which do not result in clinically relevant interactions with rabeprazole.  </paragraph>
+</item>
+</list>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>
+<paragraph>
+<content stylecode="underline">Rilpivirine-containing products</content>: Concomitant use with Rabeprazole Sodium Delayed-Release Tablets is contraindicated <content stylecode="italics">[see Contraindications (<linkhtml href="#LINK_93e1f725-79f4-452a-bd57-9254b81b6f76">4</linkhtml>)]</content>. See prescribing information. </paragraph>
+<paragraph>
+<content stylecode="underline">Atazanavir</content>: See prescribing information for atazanavir for dosing information. </paragraph>
+<paragraph>
+<content stylecode="underline">Nelfinavir</content>: Avoid concomitant use with Rabeprazole Sodium Delayed-Release Tablets. See prescribing information for nelfinavir. </paragraph>
+<paragraph>
+<content stylecode="underline">Saquinavir</content>: See the prescribing information for saquinavir and monitor for potential saquinavir toxicities. </paragraph>
+<content stylecode="underline">Other antiretrovirals</content>: See prescribing information. </td>
+</tr>
+<tr>
+<td colspan="2"> <content stylecode="bold">Warfarin</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>Increased INR and prothrombin time in patients receiving PPIs, including rabeprazole, and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#LINK_90fc2cd5-20f5-4904-857d-da112f44051d">5.2</linkhtml>)]</content>. </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>Monitor INR and prothrombin time. Dose adjustment of warfarin may be needed to maintain target INR range. See prescribing information for warfarin. </td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Methotrexate</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>Concomitant use of rabeprazole with methotrexate (primarily at high dose) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of methotrexate with PPIs have been conducted <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#LINK_1e433fb1-8fde-4eaf-a68b-3ca713b5a7fd">5.9</linkhtml>)]. </content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>A temporary withdrawal of Rabeprazole Sodium Delayed-Release Tablets may be considered in some patients receiving high dose methotrexate administration.</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Digoxin</content>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>Potential for increased exposure of digoxin <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#LINK_f77c576a-adb2-44f1-b0ae-b5ae20adb42d">12.3</linkhtml>)].</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>Monitor digoxin concentrations. Dose adjustment of digoxin may be needed to maintain therapeutic drug concentrations. See prescribing information for digoxin. </td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole, itraconazole)</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>Rabeprazole can reduce the absorption of drugs due to its effect on reducing intragastric acidity. </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>
+<paragraph>Mycophenolate mofetil (MMF): Co-administration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving PPIs and MMF. Use Rabeprazole Sodium Delayed-Release Tablets with caution in transplant patients receiving MMF. </paragraph> See the prescribing information for other drugs dependent on gastric pH for absorption. </td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Combination Therapy with Clarithromycin and Amoxicillin </content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>
+<paragraph>Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions, including potentially fatal arrhythmias, and are contraindicated. </paragraph> Amoxicillin also has drug interactions. </td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>See <content stylecode="italics">Contraindications </content>and <content stylecode="italics">Warnings and Precautions </content>in prescribing information for clarithromycin. See <content stylecode="italics">Drug Interactions </content>in prescribing information for amoxicillin. </td>
+</tr>
+</tbody>
+</table>

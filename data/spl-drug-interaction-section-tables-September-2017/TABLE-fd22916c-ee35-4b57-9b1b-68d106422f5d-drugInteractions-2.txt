@@ -1,0 +1,70 @@
+<table border="1" cellpadding="0" cellspacing="0" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="148.5pt"></col>
+<col width="121.5pt"></col>
+<col width="167.4pt"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">
+<paragraph>
+<content stylecode="bold">Concomitant Drug Name</content>
+</paragraph>
+</td>
+<td stylecode="    Lrule     ">
+<paragraph>
+<content stylecode="bold">Effect of Concomitant Drug on
+  Carbamazepine</content>
+</paragraph>
+</td>
+<td stylecode="    Lrule     ">
+<paragraph>
+<content stylecode="bold">Clinical Recommendation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>Aprepitant,
+  cimetidine, ciprofloxacin, danazol, diltiazem, delavirdine, macrolides, erythromycin,
+  troleandomycin, clarithromycin, fluoxetine, fluvoxamine, trazodone,
+  olanzapine, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene,
+  isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g.,
+  ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide,
+  verapamil, ticlopidine, grapefruit juice, protease inhibitors</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>Increase
+  in carbamazepine level (by CYP3A4 inhibition)</paragraph>
+</td>
+<td rowspan="2" stylecode="     Toprule         Lrule     ">
+<paragraph>Closely
+  monitor carbamazepine levels; dosage adjustment may be required</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>Cisplatin,
+  doxorubicin HCl, felbamate, fosphenytoin, rifampin, phenobarbital, phenytoin,
+  primidone, methsuximide, theophylline, aminophylline</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>Decrease
+  in carbamazepine level (by CYP3A4 induction)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule     ">
+<paragraph>Loxapine,
+  quetiapine and valproic acid</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>
+  Decrease in carbamazepine level and increase in metabolite
+  (carbamazepine-10,11-epoxide) levels (both by inhibition of human microsomal
+  epoxide hydrolase)</paragraph>
+</td>
+<td stylecode="     Toprule         Lrule     ">
+<paragraph>Closely monitor carbamazepine levels; dosage adjustment may be required</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

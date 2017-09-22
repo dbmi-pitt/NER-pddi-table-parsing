@@ -1,0 +1,792 @@
+<table cellpadding="2" cellspacing="0" frame="void" id="t10265122" rules="none" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<colgroup>
+<col width="30%"></col>
+<col width="30%"></col>
+<col width="40%"></col>
+</colgroup>
+<tfoot>
+<tr>
+<td align="left" colspan="3">↑ increase, ↓ decrease, ↔ no change,
+↕ unable to predict</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Concomitant Drug Class:<br/>Drug name</content>
+</content>
+</td>
+<td stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Effect on
+Concentration of Tipranavir or Concomitant Drug</content>
+</content>
+</td>
+<td stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Clinical Comment</content>
+</content>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule Botrule">
+<br/>HIV-1 Antiviral
+Agents</td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">
+<content stylecode="emphasis">Fusion Inhibitors:</content>
+</content> </td>
+<td colspan="2"> </td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top">
+<br/>Enfuvirtide</td>
+<td stylecode="Botrule" valign="top">
+<br/>↑ Tipranavir</td>
+<td stylecode="Botrule">At steady state, tipranavir trough concentrations
+were approximately 45% higher in patients co-administered enfuvirtide
+in the Phase 3 trials.  The mechanism for this increase is not known.
+ Dose adjustments are not recommended.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule" valign="top">
+<content stylecode="bold">Non-Nucleoside
+Reverse Transcriptase</content>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<content stylecode="bold">Inhibitors:</content>
+</td>
+<td valign="top"> </td>
+<td> </td>
+</tr>
+<tr>
+<td valign="top">
+<br/>Etravirine</td>
+<td valign="top">
+<br/>↓ Etravirine</td>
+<td>
+<br/>APTIVUS/ritonavir when coadministered with etravirine
+may cause a significant decrease in the plasma concentrations of etravirine
+and loss of therapeutic effect of etravirine.  Etravirine and APTIVUS/ritonavir
+should not be coadministered.</td>
+</tr>
+<tr>
+<td colspan="3" valign="top"> </td>
+</tr>
+<tr>
+<td valign="top">Rilpivirine</td>
+<td valign="top">The use of rilpivirine co-administered with APTIVUS/ritonavir
+has not been studied.</td>
+<td>Concomitant use of rilpivirine with Aptivus/ritonavir may cause
+an increase in the plasma concentrations of rilpivirine (inhibition
+of CYP3A enzymes).  Rilpivirine is not expected to affect the plasma
+concentrations of Aptivus/ritonavir.</td>
+</tr>
+<tr>
+<td colspan="3" valign="top"> </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule">
+<content stylecode="bold">
+<content stylecode="emphasis">Nucleoside Reverse
+Transcriptase </content>
+</content>   </td>
+</tr>
+<tr>
+<td>
+<content stylecode="bold">Inhibitors:</content>
+</td>
+<td colspan="2"> </td>
+</tr>
+<tr>
+<td valign="top">
+<br/>Abacavir</td>
+<td valign="top">
+<br/>↓ Abacavir AUC by approximately 40%</td>
+<td>
+<br/>Clinical relevance of reduction in abacavir levels
+not established. Dose adjustment of abacavir cannot be recommended
+at this time.</td>
+</tr>
+<tr>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td valign="top">Didanosine (EC)</td>
+<td valign="top">↓ Didanosine</td>
+<td>Clinical relevance of reduction in didanosine levels not established.
+For optimal absorption, didanosine should be separated from APTIVUS/ritonavir
+dosing by at least 2 hours.</td>
+</tr>
+<tr>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td valign="top">Zidovudine</td>
+<td valign="top">↓ Zidovudine AUC by approximately 35%. ZDV glucuronide
+concentrations were unaltered.</td>
+<td>Clinical relevance of reduction in zidovudine levels not established.
+Dose adjustment of zidovudine cannot be recommended at this time.</td>
+</tr>
+<tr>
+<td stylecode="Toprule">
+<content stylecode="bold">
+<content stylecode="emphasis">Protease Inhibitors (co-administered
+with 200 mg of ritonavir):</content>
+</content>
+<br/> </td>
+<td colspan="2" stylecode="Toprule"> </td>
+</tr>
+<tr>
+<td valign="top">Fosamprenavir<br/>Lopinavir<br/>Saquinavir</td>
+<td valign="top">↓ Amprenavir<br/>↓ Lopinavir<br/>↓
+Saquinavir</td>
+<td valign="top">Combining a protease inhibitor with APTIVUS/ritonavir
+is not recommended.</td>
+</tr>
+<tr>
+<td>
+<br/>
+<content stylecode="bold">
+<content stylecode="emphasis">Protease Inhibitors (co-administered
+with 100 mg of ritonavir):</content>
+</content>
+<br/> </td>
+<td colspan="2"> </td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top">Atazanavir</td>
+<td stylecode="Botrule" valign="top">↓ Atazanavir<br/>↑ Tipranavir</td>
+<td stylecode="Botrule"> </td>
+</tr>
+<tr>
+<td valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Virus Integrase Strand Transfer Inhibitors:</content>
+</content>
+<br/> </td>
+<td valign="top"> </td>
+<td valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top">Raltegravir</td>
+<td stylecode="Botrule" valign="top">↓ Raltegravir</td>
+<td stylecode="Botrule" valign="top">APTIVUS/ritonavir reduces plasma
+concentrations of raltegravir.  Since comparable efficacy was observed
+for this combination in phase 3 studies, dose adjustment is not recommended.</td>
+</tr>
+<tr>
+<td stylecode="Botrule">
+<br/>Agents for Opportunistic Infections</td>
+<td colspan="2" stylecode="Botrule"> </td>
+</tr>
+<tr>
+<td valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Antifungals:</content>
+</content>
+<br/> </td>
+<td colspan="2"> </td>
+</tr>
+<tr>
+<td rowspan="5" stylecode="Botrule" valign="top">Fluconazole<br/>Itraconazole<br/>Ketoconazole<br/>Voriconazole</td>
+<td valign="top">↑ Tipranavir, ↔ Fluconazole</td>
+<td valign="top">Fluconazole increases tipranavir concentrations but
+dose adjustments are not needed. Fluconazole doses &gt;200 mg/day are
+not recommended.</td>
+</tr>
+<tr>
+<td>↑ Itraconazole (not studied)</td>
+<td> </td>
+</tr>
+<tr>
+<td valign="top">↑ Ketoconazole (not studied)</td>
+<td valign="top">Based on theoretical considerations itraconazole
+and ketoconazole should be used with caution. High doses (&gt;200 mg/day)
+are not recommended.</td>
+</tr>
+<tr>
+<td>↕ Voriconazole (not studied)</td>
+<td> </td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top"> </td>
+<td stylecode="Botrule" valign="top">Due to multiple enzymes involved
+with voriconazole metabolism, it is difficult to predict the interaction.</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Antimycobacterials:</content>
+</content>
+<br/> </td>
+<td colspan="2"> </td>
+</tr>
+<tr>
+<td valign="top">Clarithromycin</td>
+<td valign="top">↑ Tipranavir, ↑ Clarithromycin, <br/>↓ 14-hydroxy-clarithromycin
+metabolite</td>
+<td valign="top">No dose adjustment of APTIVUS or clarithromycin for
+patients with normal renal function is necessary.<br/> </td>
+</tr>
+<tr>
+<td colspan="2"> </td>
+<td>For patients with renal impairment the following dosage adjustments
+should be considered: <list id="l12035122" listtype="unordered" stylecode="Disc">
+<item>For patients with CL<sub>CR</sub> 30 to 60 mL/min
+the dose of clarithromycin should be reduced by 50%.</item>
+<item>For patients with CL<sub>CR</sub> &lt;30 mL/min
+the dose of clarithromycin should be decreased by 75%. </item>
+</list>
+</td>
+</tr>
+<tr>
+<td valign="top">Rifabutin</td>
+<td valign="top">Tipranavir not changed, <br/>↑ Rifabutin <br/>↑ Desacetyl-rifabutin</td>
+<td>Single dose study. Dosage reductions of rifabutin by 75% are recommended
+(e.g., 150 mg every other day). Increased monitoring for adverse events
+in patients receiving the combination is warranted. Further dosage
+reduction may be necessary. </td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="bottom"> <br/>Other Agents
+Commonly Used</td>
+<td colspan="2" stylecode="Toprule Botrule"> </td>
+</tr>
+<tr>
+<td colspan="3">
+<content stylecode="bold">
+<content stylecode="emphasis">Anticonvulsants:</content>
+</content>
+<br/> </td>
+</tr>
+<tr>
+<td valign="top">Carbamazepine<br/>Phenobarbital<br/>Phenytoin</td>
+<td valign="top">↓ Tipranavir</td>
+<td valign="top">Caution should be used when prescribing carbamazepine,
+phenobarbital and/or phenytoin. APTIVUS may be less effective due
+to decreased tipranavir plasma concentration in patients taking these
+agents concomitantly.</td>
+</tr>
+<tr>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top">Valproic Acid</td>
+<td stylecode="Botrule" valign="top">↓ Valproic Acid</td>
+<td stylecode="Botrule">Caution should be used when prescribing valproic
+acid. Valproic acid may be less effective due to decreased valproic
+acid plasma concentration in patients taking APTIVUS concomitantly.</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Antidepressants:</content>
+</content>
+</td>
+<td stylecode="Toprule" valign="top"> </td>
+<td stylecode="Toprule"> </td>
+</tr>
+<tr>
+<td colspan="3" valign="top"> </td>
+</tr>
+<tr>
+<td valign="top">Trazodone</td>
+<td valign="top">↑ Trazodone</td>
+<td>Concomitant use of trazodone and APTIVUS/ritonavir may increase
+plasma concentrations of trazodone. Adverse events of nausea, dizziness,
+hypotension, and syncope have been observed following co-administration
+of trazodone and ritonavir. If trazodone is used with a CYP 3A4 inhibitor
+such as APTIVUS/ritonavir, the combination should be used with caution
+and a lower dose of trazodone should be considered.</td>
+</tr>
+<tr>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td valign="top">Desipramine</td>
+<td valign="top">Combination with APTIVUS/ritonavir not studied<br/>↑ Desipramine</td>
+<td valign="top">Dosage reduction and concentration monitoring of
+desipramine is recommended.</td>
+</tr>
+<tr>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td valign="top">Selective Serotonin-Reuptake Inhibitors:</td>
+<td valign="top">Combination with APTIVUS/ritonavir not studied</td>
+<td valign="top">Antidepressants have a wide therapeutic index, but
+doses may need to be adjusted upon initiation of APTIVUS/ritonavir
+therapy.</td>
+</tr>
+<tr>
+<td valign="top">Fluoxetine<br/>Paroxetine<br/>Sertraline</td>
+<td valign="top">↑ Fluoxetine<br/>↑ Paroxetine<br/>↑
+Sertraline</td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule" valign="top">
+<content stylecode="bold">Anti-HCV agents:</content>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top"> </td>
+</tr>
+<tr>
+<td valign="top">Boceprevir</td>
+<td valign="top">Co-administration of APTIVUS and boceprevir has not
+been studied.</td>
+<td>With concomitant use, changes in exposure were observed both for
+boceprevir and certain protease inhibitors used for the treatment
+of HIV-1 infection or either medication.  Information is not available
+regarding tipranavir or boceprevir exposure with concomitant use.
+  It is not recommended to co-administer boceprevir with APTIVUS/ritonavir.<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top">Telaprevir</td>
+<td valign="top">Co-administration of APTIVUS and telaprevir has not
+been studied.</td>
+<td>With concomitant use, changes in exposure were observed both for
+telaprevir and certain protease inhibitors used for the treatment
+of HIV-1 infection or telaprevir.  Information is not available regarding
+tipranavir or telaprevir exposure with concomitant use.  It is not
+recommended to co-administer telaprevir with APTIVUS/ritonavir.</td>
+</tr>
+<tr>
+<td colspan="3" valign="top"> </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Anti-gout:</content>
+</content>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top"> </td>
+</tr>
+<tr>
+<td valign="top">Colchicine</td>
+<td valign="top">↑ Colchicine</td>
+<td>In patients with renal or hepatic impairment, coadministration
+of colchicine in patients on APTIVUS/ritonavir is contraindicated.<br/>
+<br/>In combination with APTIVUS/ritonavir, the following
+dosage adjustments are recommended in patients with normal renal and
+hepatic function:<br/>
+<br/>
+<content stylecode="underline">
+<content stylecode="emphasis">Treatment
+of gout flares: Co-administration of colchicine in patients on APTIVUS/ritonavir:</content>
+</content>
+<list id="l12845122" listtype="unordered" stylecode="Disc">
+<item>0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (half tablet)
+1 hour later. Dose to be repeated no earlier than 3 days.</item>
+</list>
+<content stylecode="underline">
+<content stylecode="emphasis">Prophylaxis of gout flares:  Co-administration
+of colchicine in patients on APTIVUS/ritonavir</content>
+</content>:<list id="l13062122" listtype="unordered" stylecode="Disc">
+<item>If the original colchicine regimen was 0.6 mg twice a day,
+the regimen should be adjusted to 0.3 mg once a day.</item>
+<item>If the original colchicine regimen was 0.6 mg once a day,
+the regimen should be adjusted to 0.3 mg once every other day.</item>
+</list>
+<content stylecode="underline">
+<content stylecode="emphasis">Treatment of familial Mediterranean fever
+(FMF):  Co-administration of colchicine in patients on APTIVUS/ritonavir:</content>
+</content>
+<list id="l13075122" listtype="unordered" stylecode="Disc">
+<item>Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice
+a day).</item>
+</list>
+</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Toprule" valign="top">
+<content stylecode="bold">Antipsychotics:</content>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top"> </td>
+</tr>
+<tr>
+<td valign="top">Quetiapine</td>
+<td valign="top">↑ Quetiapine</td>
+<td>
+<content stylecode="underline">Initiation of APTIVUS with ritonavir in patients taking
+quetiapine:</content>
+<br/>
+<br/>Consider alternative
+antiretroviral therapy to avoid increases in quetiapine exposures.
+If coadministration is necessary, reduce the quetiapine dose to 1/6
+of the current dose and monitor for quetiapine-associated adverse
+reactions. Refer to the quetiapine prescribing information for recommendations
+on adverse reaction monitoring.<br/>
+<br/>
+<content stylecode="underline">Initiation of quetiapine in patients taking APTIVUS with ritonavir:</content>
+<br/>
+<br/>Refer to the quetiapine prescribing information
+for initial dosing and titration of quetiapine. </td>
+</tr>
+<tr>
+<td colspan="3" stylecode="Botrule" valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Benzodiazepines:</content>
+</content>
+</td>
+<td colspan="2"> </td>
+</tr>
+<tr>
+<td colspan="3" valign="top"> </td>
+</tr>
+<tr>
+<td valign="top">Parenterally administered midazolam</td>
+<td valign="top">↑ Midazolam</td>
+<td valign="top">Midazolam is extensively metabolized by CYP 3A4.
+Increases in the concentration of midazolam are expected to be significantly
+higher with oral than parenteral administration. Therefore, APTIVUS
+should not be given with orally administered midazolam [<content stylecode="italics">
+<content stylecode="emphasis">see Contraindications <linkhtml href="#Section_4">(4)</linkhtml>
+</content>
+</content>]. If APTIVUS is co-administered with parenteral midazolam,
+close clinical monitoring for respiratory depression and/or prolonged
+sedation should be exercised and dosage adjustments should be considered.</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">Buprenorphine/naloxone</td>
+<td stylecode="Toprule" valign="top">↔ Buprenorphine<br/>↓ Tipranavir</td>
+<td stylecode="Toprule" valign="top">APTIVUS/ritonavir did not result
+in changes in the clinical efficacy of buprenorphine/naloxone.  Compared
+to historical controls tipranavir C<sub>min</sub> was
+decreased approximately 40% with this combination.  Dose adjustments
+cannot be recommended.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Calcium Channel
+Blockers:</content>
+</content>
+<br/>
+<br/>Diltiazem<br/>Felodipine<br/>Nicardipine<br/>Nisoldipine<br/>Verapamil</td>
+<td stylecode="Toprule  Botrule" valign="top">Combination with APTIVUS/ritonavir
+not studied. Cannot predict effect of TPV/ritonavir on calcium channel
+blockers that are dual substrates of CYP3A and P-gp due to conflicting
+effect of TPV/ritonavir on CYP3A and P-gp.<br/>
+<br/>↕
+Diltiazem<br/>↑ Felodipine (CYP3A substrate but not P-gp substrate)<br/>↕ Nicardipine<br/>↕ Nisoldipine (CYP3A substrate but not
+clear whether it is a P-gp substrate)<br/>↕ Verapamil</td>
+<td stylecode="Toprule Botrule" valign="top">Caution is warranted and clinical
+monitoring of patients is recommended.</td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top">Disulfiram/Metronidazole</td>
+<td stylecode="Botrule" valign="top">Combination with TPV/ritonavir
+not studied</td>
+<td stylecode="Botrule">APTIVUS capsules contain alcohol that can produce
+disulfiram-like reactions when co-administered with disulfiram or
+other drugs which produce this reaction (e.g., metronidazole).</td>
+</tr>
+<tr>
+<td valign="top">
+<content stylecode="bold">Endothelin receptor antagonists</content>
+<br/>
+<br/>Bosentan</td>
+<td valign="top">
+<br/>
+<br/>↑ Bosentan</td>
+<td>
+<content stylecode="underline">
+<content stylecode="emphasis">Co-administration of bosentan in patients
+on APTIVUS/ritonavir:</content>
+</content>
+<br/>In patients
+who have been receiving APTIVUS/ritonavir for at least 10 days, start
+bosentan at 62.5 mg once daily or every other day based upon individual
+tolerability.<br/>
+<br/>
+<content stylecode="underline">
+<content stylecode="emphasis">Co-administration
+of APTIVUS/ritonavir in patients on bosentan:</content>
+</content>
+<br/>
+<br/>Discontinue use of bosentan at least 36 hours
+prior to initiation of APTIVUS/ritonavir.<br/>
+<br/>After
+at least 10 days following the initiation of APTIVUS/ritonavir, resume
+bosentan at 62.5 mg once daily or every other day based upon individual
+tolerability.</td>
+</tr>
+<tr>
+<td colspan="3" valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">HMG-CoA Reductase
+Inhibitors:</content>
+</content>
+<br/> </td>
+<td colspan="2" stylecode="Toprule"> </td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top">Atorvastatin<br/>Rosuvastatin</td>
+<td stylecode="Botrule" valign="top">↑ Atorvastatin<br/>↓ Hydroxy-atorvastatin
+metabolites<br/>↑ Rosuvastatin</td>
+<td stylecode="Botrule" valign="top">Avoid co-administration with atorvastatin.</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Hypoglycemics:</content>
+</content>
+<br/> </td>
+<td colspan="2" stylecode="Toprule"> </td>
+</tr>
+<tr>
+<td> </td>
+<td valign="top">Combination with APTIVUS/ritonavir not studied</td>
+<td valign="top">Careful glucose monitoring is warranted.</td>
+</tr>
+<tr>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td valign="top">Glimepiride<br/>Glipizide<br/>Glyburide<br/>Pioglitazone</td>
+<td>↔ Glimepiride (CYP 2C9)<br/>↔ Glipizide (CYP 2C9)<br/>↔ Glyburide (CYP 2C9)<br/>↕ Pioglitazone (CYP 2C8 and CYP
+3A4)</td>
+<td> </td>
+</tr>
+<tr>
+<td valign="top">Repaglinide</td>
+<td valign="top">↕ Repaglinide (CYP 2C8 and CYP 3A4)</td>
+<td> </td>
+</tr>
+<tr>
+<td valign="top">Tolbutamide</td>
+<td valign="top">↔ Tolbutamide (CYP 2C9)<br/>
+<br/>The
+effect of TPV/ritonavir on CYP 2C8 substrate is not known.</td>
+<td> </td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Immunosuppressants:</content>
+</content> </td>
+<td colspan="2" stylecode="Toprule"> </td>
+</tr>
+<tr>
+<td> </td>
+<td valign="top">Combination with APTIVUS/ritonavir not studied. Cannot
+predict effect of TPV/ritonavir on immunosuppressants due to conflicting
+effect of TPV/ritonavir on CYP 3A and P-gp.</td>
+<td valign="top">Increased frequency of monitoring of plasma levels
+of immunosuppressant drugs is recommended.</td>
+</tr>
+<tr>
+<td stylecode="Botrule">Cyclosporine<br/>Sirolimus<br/>Tacrolimus</td>
+<td stylecode="Botrule">↕ Cyclosporine <br/>↕ Sirolimus<br/>↕ Tacrolimus</td>
+<td stylecode="Botrule"> </td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Inhaled beta
+agonist:</content>
+</content>
+<br/>
+<br/>Salmeterol</td>
+<td stylecode="Toprule Botrule" valign="top">
+<br/>
+<br/>↑
+Salmeterol</td>
+<td stylecode="Toprule Botrule">Concurrent administration of APTIVUS/ritonavir
+is not recommended. The combination may result in increased risk of
+cardiovascular adverse events associated with salmeterol, including
+QT prolongation, palpitations, and sinus tachycardia.</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Inhaled/Nasal Steroids:</content>
+</content>
+<br/> </td>
+<td colspan="2" stylecode="Toprule"> </td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top">Fluticasone</td>
+<td stylecode="Botrule" valign="top">↑ Fluticasone</td>
+<td stylecode="Botrule" valign="top">Concomitant use of fluticasone
+propionate and APTIVUS/ritonavir may increase plasma concentrations
+of fluticasone propionate, resulting in significantly reduced serum
+cortisol concentrations. Co-administration of fluticasone propionate
+and APTIVUS/ritonavir is not recommended unless the potential benefit
+to the patient outweighs the risk of systemic corticosteroid side
+effects.</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Narcotic Analgesics:</content>
+</content>
+<br/> </td>
+<td colspan="2" stylecode="Toprule" valign="top"> </td>
+</tr>
+<tr>
+<td valign="top"> </td>
+<td valign="top">Combinations with APTIVUS/ritonavir not studied</td>
+<td rowspan="2" valign="top">Dosage increase and long-term use of
+meperidine are not recommended due to increased concentrations of
+the metabolite normeperidine which has both analgesic activity and
+CNS stimulant activity (e.g., seizures).</td>
+</tr>
+<tr>
+<td valign="top">Meperidine </td>
+<td valign="top">↓ Meperidine, ↑ Normeperidine</td>
+</tr>
+<tr>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td valign="top">Methadone</td>
+<td valign="top">↓ Methadone<br/>
+<br/>↓ S-Methadone,
+↓ R-Methadone</td>
+<td valign="top">Dosage of methadone may need to be increased when
+co-administered with APTIVUS and 200 mg of ritonavir.</td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Oral Contraceptives/Estrogens:</content>
+</content>
+<br/> </td>
+<td colspan="2" stylecode="Toprule"> </td>
+</tr>
+<tr>
+<td valign="top">Ethinyl estradiol</td>
+<td valign="top">↓ Ethinyl estradiol concentrations by 50%</td>
+<td valign="top">Alternative methods of nonhormonal contraception
+should be used when estrogen based oral contraceptives are co-administered
+with APTIVUS and 200 mg of ritonavir. Patients using estrogens as
+hormone replacement therapy should be clinically monitored for signs
+of estrogen deficiency. Women using estrogens may have an increased
+risk of non-serious rash. </td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">Proton Pump Inhibitors:</content>
+</content> </td>
+<td colspan="2" stylecode="Toprule" valign="top"> </td>
+</tr>
+<tr>
+<td valign="top">
+<br/>Omeprazole</td>
+<td valign="top">
+<br/>↓ Omeprazole, ↔ Tipranavir</td>
+<td valign="top">Dosage of omeprazole may need to be increased when
+co-administered with APTIVUS and ritonavir.</td>
+</tr>
+<tr>
+<td colspan="3" valign="top"> </td>
+</tr>
+<tr>
+<td stylecode="Toprule" valign="top">
+<content stylecode="bold">
+<content stylecode="emphasis">PDE-5 Inhibitors:</content>
+</content>
+</td>
+<td colspan="2" stylecode="Toprule"> </td>
+</tr>
+<tr>
+<td rowspan="3" valign="top">
+<br/>
+<br/>
+<br/>Sildenafil<br/>Tadalafil<br/>Vardenafil</td>
+<td valign="top">Only the combination of tadalafil with APTIVUS/ritonavir
+has been studied (at doses used for treatment of erectile dysfunction). </td>
+<td valign="top">Co-administration with APTIVUS/ritonavir may result
+in an increase in PDE-5 inhibitor-associated adverse events, including
+hypotension, syncope, visual disturbances, and priapism.</td>
+</tr>
+<tr valign="top">
+<td valign="top">
+<br/>↑ Sildenafil (not studied)<br/>↑ Tadalafil with first dose APTIVUS/ritonavir<br/>↔ Tadalafil
+at APTIVUS/ritonavir steady-state<br/>↑ Vardenafil (not studied)</td>
+<td>
+<content stylecode="underline">
+<content stylecode="emphasis">Use of PDE-5 inhibitors for pulmonary arterial
+hypertension (PAH):</content>
+</content>
+<list id="l566181281398090117" listtype="unordered" stylecode="None">
+<item>
+<caption> </caption>
+<list id="l15623122" listtype="unordered" stylecode="Disc">
+<item>Use of sildenafil (Revatio) is contraindicated when used
+for the treatment of pulmonary arterial hypertension (PAH) [<content stylecode="italics">see Contraindications (<linkhtml href="#Section_4.2">4.2</linkhtml>)</content>].<br/>
+<br/>
+</item>
+<item>The following dose adjustments are recommended for use of
+tadalafil (Adcirca) with APTIVUS/ritonavir:</item>
+</list>
+<content stylecode="underline">
+<content stylecode="emphasis">Co-administration of tadalafil (Adcirca)
+in patients on APTIVUS/ritonavir:</content>
+</content>
+<br/>
+<br/>In patients receiving APTIVUS/ritonavir for at least
+one week, start Adcirca at 20 mg once daily. Increase to 40 mg once
+daily based upon individual tolerability.<br/>
+<br/>
+<content stylecode="underline">
+<content stylecode="emphasis">Co-administration of APTIVUS/ritonavir in patients on tadalafil
+(Adcirca):</content>
+</content>
+<br/>
+<br/> Avoid use
+of tadalafil (Adcirca) during the initiation of APTIVUS/ritonavir.
+Stop Adcirca at least 24 hours prior to starting APTIVUS/ritonavir.
+After at least one week following the initiation of APTIVUS/ritonavir,
+resume Adcirca at 20 mg once daily. Increase to 40 mg once daily based
+upon individual tolerability.</item>
+</list>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule" valign="top"> </td>
+<td stylecode="Botrule" valign="top">
+<content stylecode="underline">
+<content stylecode="emphasis">Use of PDE-5
+inhibitors for erectile dysfunction:</content>
+</content>
+<br/>
+<br/>Concomitant use of PDE-5 inhibitors with APTIVUS/ritonavir
+should be used with caution and in no case should the starting dose
+of:<list id="l15895122" listtype="unordered" stylecode="Disc">
+<item>sildenafil exceed 25 mg within 48 hours </item>
+<item>tadalafil exceed 10 mg every 72 hours</item>
+<item>vardenafil exceed 2.5 mg every 72 hours</item>
+</list>Use with increased monitoring for adverse events.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Botrule" valign="top">Warfarin</td>
+<td stylecode="Toprule Botrule" valign="top">↔ S-Warfarin</td>
+<td stylecode="Toprule Botrule" valign="top">Frequent INR (international
+normalized ratio) monitoring upon initiation of APTIVUS/ritonavir
+therapy.</td>
+</tr>
+</tbody>
+</table>

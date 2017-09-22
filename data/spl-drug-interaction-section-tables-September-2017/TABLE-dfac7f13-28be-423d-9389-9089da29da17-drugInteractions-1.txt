@@ -1,0 +1,58 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="1px"></col>
+<col width="1px"></col>
+<col width="1px"></col>
+<thead>
+<tr>
+<th stylecode="     Botrule         Lrule          Rrule     " valign="top"> Drugs that Affect Renal Function</th>
+<th colspan="2" stylecode="     Botrule          Rrule     " valign="top"> A decline in GFR or tubular secretion, as from ACE inhibitors, angiotensin receptor blockers, nonsteroidal anti-inflammatory drugs [NSAIDS], COX-2 inhibitors may impair the excretion of digoxin.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">Antiarrhythmics</td>
+<td stylecode="     Botrule     " valign="top">Dofetilide</td>
+<td stylecode="     Botrule          Rrule     " valign="top">Concomitant administration with digoxin was associated with a higher rate of torsades de pointes.</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top"> </td>
+<td stylecode="     Botrule     " valign="top">Sotalol</td>
+<td stylecode="     Botrule          Rrule     " valign="top">Proarrhythmic events were more common in patients receiving sotalol and digoxin than on either alone; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in patients receiving digoxin.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top"> </td>
+<td stylecode="     Botrule     " valign="top">Dronedarone</td>
+<td stylecode="     Botrule          Rrule     " valign="top">Sudden death was more common in patients receiving digoxin with dronedarone than on either alone; it is not clear whether this represents an interaction or is related to the presence of advanced heart disease, a known risk factor for sudden death in patients receiving digoxin.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">Parathyroid Hormone Analog</td>
+<td stylecode="     Botrule     " valign="top">Teriparatide</td>
+<td stylecode="     Botrule          Rrule     " valign="top">Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity. Teriparatide transiently increases serum calcium.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">Thyroid supplement</td>
+<td stylecode="     Botrule     " valign="top">Thyroid</td>
+<td stylecode="     Botrule          Rrule     " valign="top">Treatment of hypothyroidism in patients taking digoxin may increase the dose requirements of digoxin.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">Sympathomimetics</td>
+<td stylecode="     Botrule     " valign="top">Epinephrine<br/>Norepinephrine<br/>Dopamine</td>
+<td stylecode="     Botrule          Rrule     " valign="top">Can increase the risk of cardiac arrhythmias</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">Neuromuscular Blocking Agents</td>
+<td stylecode="     Botrule     " valign="top">Succinylcholine</td>
+<td stylecode="     Botrule          Rrule     " valign="top">May cause sudden extrusion of potassium from muscle cells causing arrhythmias in patients taking digoxin.</td>
+</tr>
+<tr>
+<td stylecode="     Botrule         Lrule          Rrule     " valign="top">Supplements</td>
+<td stylecode="     Botrule     " valign="top">Calcium</td>
+<td stylecode="     Botrule          Rrule     " valign="top">If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients.</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     " valign="top">Beta-adrenergic blockers and calcium channel blockers</td>
+<td valign="top"> </td>
+<td stylecode="     Rrule     " valign="top">Additive effects on AV node conduction can result in bradycardia and advanced or complete heart block.</td>
+</tr>
+</tbody>
+</table>

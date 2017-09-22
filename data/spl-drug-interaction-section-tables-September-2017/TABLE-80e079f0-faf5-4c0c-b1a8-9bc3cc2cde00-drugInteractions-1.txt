@@ -1,0 +1,78 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 15: Clinically Important Drug Interactions with Aripiprazole Tablets:</caption>
+<col width="26%"></col>
+<col width="43%"></col>
+<col width="31%"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Concomitant Drug<br/>Name or Drug Class</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Clinical Rationale</content>
+</paragraph>
+</td>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="bold">Clinical Recommendation</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Strong CYP3A4 Inhibitors<br/>(e.g., itraconazole,<br/>clarithromycin) or strong<br/>CYP2D6 inhibitors<br/>(e.g., quinidine, fluoxetine,<br/>paroxetine)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>The concomitant use of aripiprazole<br/>tablets with strong CYP3A4 or CYP2D6<br/>inhibitors increased the exposure of<br/>aripiprazole tablets compared to the use<br/>of aripiprazole tablets alone <content stylecode="italics">[see CLINICAL<br/>PHARMACOLOGY (<linkhtml href="#ID_7678c5d2-6811-4e06-af8c-377eaeabb430">12.3</linkhtml>)].</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>With concomitant use of<br/>aripiprazole tablets with a<br/>strong CYP3A4 inhibitor or<br/>CYP2D6 inhibitor, reduce<br/>the aripiprazole tablets<br/>dosage<content stylecode="italics">[see DOSAGE AND<br/>ADMINISTRATION (<linkhtml href="#ID_20967f62-6f07-406a-b388-65d53e158122">2.7</linkhtml>)].</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Strong CYP3A4 Inducers<br/>(e.g., carbamazepine,<br/>rifampin)</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>The concomitant use of aripiprazole<br/>tablets and carbamazepine decreased the<br/>exposure of aripiprazole tablets compared<br/>to the use of aripiprazole tablets alone<br/>
+<content stylecode="italics">[see CLINICAL PHARMACOLOGY (<linkhtml href="#ID_7678c5d2-6811-4e06-af8c-377eaeabb430">12.3</linkhtml>)].</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>With concomitant use of<br/>aripiprazole tablets with<br/>a strong CYP3A4 inducer,<br/>consider increasing<br/>the aripiprazole tablets<br/>dosage <content stylecode="italics">[see DOSAGE AND<br/>ADMINISTRATION (<linkhtml href="#ID_20967f62-6f07-406a-b388-65d53e158122">2.7</linkhtml>)].</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>Antihypertensive Drugs</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Due to its alpha adrenergic antagonism,<br/>aripiprazole tablets has the potential<br/>to enhance the effect of certain<br/>antihypertensive agents.</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Monitor blood pressure and<br/>adjust dose accordingly<br/>
+<content stylecode="italics">[see WARNINGS AND<br/>PRECAUTIONS (<linkhtml href="#ID_bcb43da4-7381-4677-a60c-e191341d2f7e">5.7</linkhtml>)].</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph> <br/>Benzodiazepines<br/>(e.g., lorazepam)<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>The intensity of sedation was greater with<br/>the combination of oral aripiprazole and<br/>lorazepam as compared to that observed<br/>with aripiprazole alone.The orthostatic<br/>hypotension observed was greater with<br/>the combination as compared to that<br/>observed with lorazepam alone <content stylecode="italics">[see<br/>WARNINGS AND PRECAUTIONS (<linkhtml href="#ID_bcb43da4-7381-4677-a60c-e191341d2f7e">5.7</linkhtml>)]</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Monitor sedation and blood<br/>pressure. Adjust dose<br/>accordingly.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

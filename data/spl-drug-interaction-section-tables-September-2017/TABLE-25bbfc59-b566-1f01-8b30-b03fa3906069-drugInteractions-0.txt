@@ -1,0 +1,193 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 13. Established and Other Potentially Significant Drug Interactions</caption>
+<col width="170"></col>
+<col width="166"></col>
+<col width="259"></col>
+<tbody>
+<tr>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> </td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> <content stylecode="bold">Effect on</content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     "> </td>
+<td align="center" stylecode="    Lrule          Rrule     "> <content stylecode="bold">Concentration of</content>
+</td>
+<td align="center" stylecode="    Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     "> </td>
+<td align="center" stylecode="    Lrule          Rrule     "> <content stylecode="bold">Lamotrigine or</content>
+</td>
+<td align="center" stylecode="    Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td align="center" stylecode="    Lrule          Rrule     " valign="bottom"> <content stylecode="bold">Concomitant Drug</content>
+</td>
+<td align="center" stylecode="    Lrule          Rrule     " valign="bottom"> <content stylecode="bold">Concomitant Drug</content>
+</td>
+<td align="center" stylecode="    Lrule          Rrule     " valign="bottom"> <content stylecode="bold">Clinical Comment</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Estrogen-containing oral</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> ↓ lamotrigine</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Decreased lamotrigine concentrations </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> contraceptive</td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> approximately 50%.</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> preparations containing</td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> 30 mcg ethinylestradiol</td>
+<td stylecode="    Lrule          Rrule     "> ↓ levonorgestrel</td>
+<td stylecode="    Lrule          Rrule     "> Decrease in levonorgestrel </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> and 150 mcg</td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> component by 19%.</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> levonorgestrel</td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Carbamazepine </td>
+<td stylecode="     Toprule         Lrule          Rrule     "> ↓ lamotrigine</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Addition of carbamazepine decreases</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> and carbamazepine epoxide</td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> lamotrigine concentration </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> approximately 40%.</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> ? carbamazepine epoxide </td>
+<td stylecode="    Lrule          Rrule     "> May increase carbamazepine epoxide levels. </td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Lopinavir/ritonavir</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> ↓ lamotrigine</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Decreased lamotrigine concentration</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> approximately 50%.</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Atazanavir/ritonavir</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> ↓ lamotrigine</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Decreased lamotrigine AUC</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> approximately 32%.</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Phenobarbital/primidone </td>
+<td stylecode="     Toprule         Lrule          Rrule     "> ↓ lamotrigine</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Decreased lamotrigine concentration</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> approximately 40%. </td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Phenytoin </td>
+<td stylecode="     Toprule         Lrule          Rrule     "> ↓ lamotrigine </td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Decreased lamotrigine concentration </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> approximately 40%.</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Rifampin </td>
+<td stylecode="     Toprule         Lrule          Rrule     "> ↓ lamotrigine </td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Decreased lamotrigine AUC </td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> approximately 40%.</td>
+</tr>
+<tr>
+<td stylecode="     Toprule         Lrule          Rrule     "> Valproate</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> ↑ lamotrigine</td>
+<td stylecode="     Toprule         Lrule          Rrule     "> Increased lamotrigine concentrations</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> slightly more than 2-fold.</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> There are conflicting study results</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> ? valproate</td>
+<td stylecode="    Lrule          Rrule     "> regarding effect of lamotrigine on</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> valproate concentrations: 1) a mean 25%</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> decrease in valproate concentrations in</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> healthy volunteers, 2) no change in</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> valproate concentrations in controlled</td>
+</tr>
+<tr>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> </td>
+<td stylecode="    Lrule          Rrule     "> clinical trials in patients with epilepsy.</td>
+</tr>
+<tr>
+<td colspan="3" stylecode="     Toprule     "> ↓ = Decreased (induces lamotrigine glucuronidation).</td>
+</tr>
+<tr>
+<td colspan="3"> ↑ = Increased (inhibits lamotrigine glucuronidation).</td>
+</tr>
+<tr>
+<td colspan="3"> ? = Conflicting data.</td>
+</tr>
+</tbody>
+</table>

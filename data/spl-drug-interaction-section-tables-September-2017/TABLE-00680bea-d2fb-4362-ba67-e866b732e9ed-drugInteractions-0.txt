@@ -1,0 +1,55 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="1px"></col>
+<col width="1px"></col>
+<tbody>
+<tr>
+<td align="center" colspan="2">
+<content stylecode="bold"> Drug Interactions Associated with Increased<br/>Risk of Myopathy/Rhabdomyolysis (<linkhtml href="#LINK_2b341aa2-2d5d-4a86-a65f-26795ea8622b">2.3</linkhtml>, <linkhtml href="#LINK_ae107bc8-c63d-483f-a429-e24b4711ee67">2.4</linkhtml>, <linkhtml href="#LINK_d89b2c38-bd22-44c2-b8e6-75f86d0e2328">4</linkhtml>, <linkhtml href="#LINK_75df0c26-6f7b-417b-b2d8-c3415238c1ba">5.1</linkhtml>, <linkhtml href="#LINK_43258432-2883-4ddf-8756-dbd6a6284f2f">7.1</linkhtml>, <linkhtml href="#LINK_5b8a14e9-724f-4ae7-a3a9-5aa79ac2c3b6">7.2</linkhtml>,<br/>
+<linkhtml href="#LINK_748a73ad-4d49-42f1-861b-77dc3c22d8fa">7.3</linkhtml>, <linkhtml href="#LINK_679a2e2c-6f62-4539-9451-062156eac971">7.8</linkhtml>, <linkhtml href="#LINK_4f15a28f-c53a-4f55-8edf-0bb545c4bfb4">12.3</linkhtml>)</content>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="     Toprule          Rrule     ">
+<content stylecode="bold"> Interacting Agents</content>
+</td>
+<td align="center" stylecode="     Toprule         Lrule     ">
+<content stylecode="bold"> Prescribing</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Rrule     ">
+<content stylecode="bold"> </content>
+</td>
+<td align="center" stylecode="    Lrule     ">
+<content stylecode="bold"> Recommendations</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Toprule          Rrule     "> Strong CYP3A4 Inhibitors, (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, nefazodone, cobicistat­containing products), gemfibrozil, cyclosporine, danazol</td>
+<td stylecode="     Toprule         Lrule     "> Contraindicated with ezetimibe and simvastatin</td>
+</tr>
+<tr>
+<td stylecode="     Rrule     "> </td>
+<td stylecode="    Lrule     "> </td>
+</tr>
+<tr>
+<td stylecode="     Toprule          Rrule     "> Verapamil, diltiazem, dronedarone</td>
+<td stylecode="     Toprule         Lrule     "> Do not exceed 10 mg/10 mg ezetimibe and simvastatin daily</td>
+</tr>
+<tr>
+<td stylecode="     Toprule          Rrule     "> Amiodarone, amlodipine, ranolazine</td>
+<td stylecode="     Toprule         Lrule     "> Do not exceed 10 mg/20 mg ezetimibe and simvastatin daily</td>
+</tr>
+<tr>
+<td stylecode="     Toprule          Rrule     "> Lomitapide</td>
+<td stylecode="     Toprule         Lrule     "> For patients with HoFH, do not exceed 10 mg/20 mg ezetimibe and simvastatin daily*</td>
+</tr>
+<tr>
+<td stylecode="     Toprule          Rrule     "> Grapefruit juice</td>
+<td stylecode="     Toprule         Lrule     "> Avoid grapefruit juice</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="     Toprule     "> * For patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 10 mg/40 mg ezetimibe and simvastatin when taking lomitapide.</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,110 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 3: Drugs Affected by Phenytoin   
+			</caption>
+<colgroup>
+<col width="43.42%"></col>
+<col width="56.58%"></col>
+</colgroup>
+<tfoot>
+<tr>
+<td colspan="2">* The effect of phenytoin on phenobarbital, valproic acid and sodium valproate serum levels is unpredictable  </td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Interacting Agent</content>
+<content stylecode="bold"></content>
+<br/>
+</td>
+<td stylecode="Rrule" valign="middle">
+<content stylecode="bold">Examples</content>
+<content stylecode="bold"></content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="2" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Drugs whose efficacy is impaired by phenytoin</content>
+<content stylecode="bold"></content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Azoles<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Fluconazole, ketoconazole, itraconazole, posaconazole, voriconazole<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Antineoplastic agents<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Irinotecan, paclitaxel, teniposide<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Delavirdine<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Phenytoin can substantially reduce the concentrations of delavirdine. This can lead to loss of virologic response and possible resistance <content stylecode="italics">[see <linkhtml href="#Section_4">Contraindications (4)</linkhtml>].</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Neuromuscular blocking agents<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Cisatracurium, pancuronium, rocuronium and vecuronium: resistance to the neuromuscular blocking action of the nondepolarizing neuromuscular blocking agents has occurred in patients chronically administered phenytoin. Whether or not phenytoin has the same effect on other non-depolarizing agents is unknown.<br/>
+<content stylecode="italics">
+<content stylecode="underline">Prevention or Management:</content>
+</content>  Patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected, and infusion rate requirements may be higher.<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Warfarin<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Increased and decreased PT/INR responses have been reported when phenytoin is coadministered with warfarin<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Other<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Corticosteroids, doxycycline, estrogens, furosemide, oral contraceptives, paroxetine, quinidine, rifampin, sertraline, theophylline, and vitamin D<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td align="justify" colspan="2" stylecode="Lrule Rrule" valign="middle">
+<content stylecode="bold">Drugs whose level is decreased by phenytoin</content>
+<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Antiepileptic drugs*<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Carbamazepine, felbamate, lamotrigine, topiramate, oxcarbazepine,<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="middle">Antilipidemic agents<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="middle">Atorvastatin, fluvastatin, simvastatin<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">Antiviral agents<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Efavirenz, lopinavir/ritonavir, indinavir, nelfinavir, ritonavir, saquinavir Fosamprenavir: phenytoin when given with fosamprenavir alone may decrease the concentration of amprenavir, the active metabolite. Phenytoin when given with the combination of fosamprenavir and ritonavir may increase the concentration of amprenavir<br/>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="middle">Calcium channel blockers<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="middle">Nifedipine, nimodipine, nisoldipine, verapamil<br/>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">Other<br/>
+</td>
+<td align="justify" stylecode="Rrule" valign="top">Albendazole (decreases active metabolite), chlorpropamide, clozapine, cyclosporine, digoxin, folic acid, methadone, mexiletine, praziquantel, quetiapine<br/>
+</td>
+</tr>
+</tbody>
+</table>

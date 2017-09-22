@@ -1,0 +1,25 @@
+<table width="75%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="top" width="30%"></col>
+<col align="left" valign="top" width="34%"></col>
+<col align="left" valign="top" width="36%"></col>
+<thead>
+<tr>
+<th>
+<content stylecode="italics">Antibiotics</content>
+</th>
+<th>
+<content stylecode="italics">Anticonvulsants</content>
+</th>
+<th>
+<content stylecode="italics">Other Drugs/Dietary Supplements</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>nafcillin<br/>rifampin </td>
+<td>carbamazepine<br/>oxcarbazepine<br/>phenobarbital<br/>phenytoin</td>
+<td>bosentan<br/>octreotide<br/>orlistat<br/>sulfinpyrazone<br/>St. John's Wort<br/>terbinafine<br/>ticlopidine</td>
+</tr>
+</tbody>
+</table>

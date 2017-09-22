@@ -1,0 +1,293 @@
+<table id="table2" width="85%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 2 Rifabutin Interaction Studies</caption>
+<col align="left" valign="top" width="15%"></col>
+<col align="left" valign="top" width="12%"></col>
+<col align="left" valign="top" width="12%"></col>
+<col align="left" valign="top" width="12%"></col>
+<col align="left" valign="top" width="12%"></col>
+<col align="left" valign="top" width="12%"></col>
+<col align="left" valign="top" width="25%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule Lrule">Coadministered drug</th>
+<th stylecode="Rrule">Dosing regimen of coadministered drug</th>
+<th stylecode="Rrule">Dosing regimen of rifabutin</th>
+<th stylecode="Rrule">Study population (n)</th>
+<th stylecode="Rrule">Effect on rifabutin</th>
+<th align="center" stylecode="Rrule">Effect on coadministered drug</th>
+<th stylecode="Rrule">Recommendation</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td align="left" colspan="7">↑ indicates increase; ↓ indicates decrease; ↔ indicates no significant change</td>
+</tr>
+<tr>
+<td align="left" colspan="7">QD- once daily; BID- twice daily; TID – thrice daily</td>
+</tr>
+<tr>
+<td align="left" colspan="7">ND - No Data</td>
+</tr>
+<tr>
+<td align="left" colspan="7">AUC - Area under the Concentration vs. Time Curve; C<sub>max</sub> - Maximum serum concentration</td>
+</tr>
+</tfoot>
+<tbody>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Rrule Lrule">
+<content stylecode="bold">ANTIVIRALS</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Amprenavir</td>
+<td stylecode="Rrule">1200 mg BID × 10 days</td>
+<td stylecode="Rrule">300 mg QD × 10 days</td>
+<td stylecode="Rrule">Healthy male subjects (6)</td>
+<td stylecode="Rrule">↑ AUC by 193%,<br/>↑ Cmax by 119%</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule">Reduce rifabutin dose by at least 50%. Monitor closely for adverse reactions.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Delavirdine</td>
+<td stylecode="Rrule">400 mg TID</td>
+<td stylecode="Rrule">300 mg QD</td>
+<td stylecode="Rrule">HIV-infected patients (7)</td>
+<td stylecode="Rrule">↑ AUC by 230%,<br/>↑ Cmax by 128%</td>
+<td stylecode="Rrule">↓ AUC by 80%,<br/>↓ Cmax by 75%,<br/>↓ Cmin by 17%</td>
+<td stylecode="Rrule">
+<content stylecode="bold">CONTRAINDICATED</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Didanosine</td>
+<td stylecode="Rrule">167 or 250 mg BID × 12 days</td>
+<td stylecode="Rrule">300 or 600 mg QD × 1</td>
+<td stylecode="Rrule">HIV-infected patients (11)</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Fosamprenavir/ ritonavir</td>
+<td stylecode="Rrule">700 mg BID plus ritonavir 100 mg BID × 2 weeks</td>
+<td stylecode="Rrule">150 mg every other day × 2 weeks</td>
+<td stylecode="Rrule">Healthy subjects (15)</td>
+<td stylecode="Rrule">↔ AUC<footnote id="t2fa">compared to rifabutin 300 mg QD alone</footnote>
+<br/>↓ Cmax by 15%</td>
+<td stylecode="Rrule">↑ AUC by 35%<footnote id="t2fb">compared to historical control (fosamprenavir/ritonavir 700/100 mg BID)</footnote>,<br/>↑ Cmax by 36%,<br/>↑ Cmin by 36%,</td>
+<td stylecode="Rrule">Reduce rifabutin dose by at least 75% (to a maximum 150 mg every other day or three times per week) when given with fosamprenavir/ritonavir combination.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Indinavir</td>
+<td stylecode="Rrule">800 mg TID × 10 days</td>
+<td stylecode="Rrule">300 mg QD × 10 days</td>
+<td stylecode="Rrule">Healthy subjects (10)</td>
+<td stylecode="Rrule">↑ AUC by 173%,<br/>↑ Cmax by 134%</td>
+<td stylecode="Rrule">↓ AUC by 34%,<br/>↓ Cmax by 25%,<br/>↓ Cmin by 39%</td>
+<td stylecode="Rrule">Reduce rifabutin dose by 50%, and increase indinavir dose from 800 mg to 1000 mg TID.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Lopinavir/ ritonavir</td>
+<td stylecode="Rrule">400/100 mg BID × 20 days</td>
+<td stylecode="Rrule">150 mg QD × 10 days</td>
+<td stylecode="Rrule">Healthy subjects (14)</td>
+<td stylecode="Rrule">↑ AUC by 203% <footnote stylecode="t2fc">also taking zidovudine 500 mg QD</footnote>
+<br/>↓ Cmax by 112%</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule">Reduce rifabutin dose by at least 75% (to a maximum 150 mg every other day or three times per week) when given with lopinavir/ritonavir combination. Monitor closely for adverse reactions. Reduce rifabutin dosage further, as needed.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Saquinavir/ ritonavir</td>
+<td stylecode="Rrule">1000/100 mg BID × 14 or 22 days</td>
+<td stylecode="Rrule">150 mg every 3 days × 21–22 days</td>
+<td stylecode="Rrule">Healthy subjects</td>
+<td stylecode="Rrule">↑ AUC by 53% <footnote id="t2fd">compared to rifabutin 150 mg QD alone</footnote>
+<br/>↑ Cmax by 88% (n=11)</td>
+<td stylecode="Rrule">↓ AUC by 13%,<br/>↓ Cmax by 15%,<br/>        (n=19)</td>
+<td stylecode="Rrule">Reduce rifabutin dose by at least 75% (to a maximum 150 mg every other day or three times per week) when given with saquinavir/ritonavir combination. Monitor closely for adverse reactions.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Ritonavir</td>
+<td stylecode="Rrule">500 mg BID × 10 days</td>
+<td stylecode="Rrule">150 mg QD × 16 days</td>
+<td stylecode="Rrule">Healthy subjects (5)</td>
+<td stylecode="Rrule">↑ AUC by 300%,<br/>↑ Cmax by 150%</td>
+<td align="center" stylecode="Rrule">ND</td>
+<td stylecode="Rrule">Reduce rifabutin dose by at least 75% (to a maximum 150 mg every other day or three times per week) when given with lopinavir/ritonavir combination. Monitor closely for adverse reactions. Reduce rifabutin dosage further, as needed.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Tipranavir/ ritonavir</td>
+<td stylecode="Rrule">500/200 BID × 15 doses</td>
+<td stylecode="Rrule">150 mg single dose</td>
+<td stylecode="Rrule">Healthy subjects (20)</td>
+<td stylecode="Rrule">↑ AUC by 190%,<br/>↑ Cmax by 70%</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule">Reduce rifabutin dose by at least 75% (to a maximum 150 mg every other day or three times per week) when given with tipranavir/ritonavir combination. Monitor closely for adverse reactions. Reduce rifabutin dosage further, as needed.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Nelfinavir</td>
+<td stylecode="Rrule">1250 mg BID × 7–8 days</td>
+<td stylecode="Rrule">150 mg QD × 8 days</td>
+<td stylecode="Rrule">HIV-infected patients (11)</td>
+<td stylecode="Rrule">↑ AUC by 83%, <footnote id="t2fe">compared to rifabutin 300 mg QD alone</footnote>
+<br/>↑ Cmax by 19%</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule">Reduce rifabutin dose by 50% (to 150 mg QD) and increase the nelfinavir dose to 1250 mg BID</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Zidovudine</td>
+<td stylecode="Rrule">100 or 200 mg q4h</td>
+<td stylecode="Rrule">300 or 450 mg QD</td>
+<td stylecode="Rrule">HIV-infected patients (16)</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule">↓ AUC by 32%,<br/>↓ Cmax by 48%,</td>
+<td stylecode="Rrule">Because zidovudine levels remained within the therapeutic range during coadministration of rifabutin, dosage adjustments are not necessary.</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Rrule Lrule">
+<content stylecode="bold">ANTIFUNGALS</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Fluconazole</td>
+<td stylecode="Rrule">200 mg QD × 2 weeks</td>
+<td stylecode="Rrule">300 mg QD × 2 weeks</td>
+<td stylecode="Rrule">HIV-infected patients (12)</td>
+<td stylecode="Rrule">↑ AUC by 82%,<br/>↑ Cmax by 88%</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule">Monitor for rifabutin associated adverse events. Reduce rifabutin dose or suspend rifabutin use if toxicity is suspected.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Posaconazole</td>
+<td stylecode="Rrule">200 mg QD × 10 days</td>
+<td stylecode="Rrule">300 mg QD × 17 days</td>
+<td stylecode="Rrule">Healthy subjects (8)</td>
+<td stylecode="Rrule">↑ AUC by 72%,<br/>↑ Cmax by 31%</td>
+<td stylecode="Rrule">↓ AUC by 49%,<br/>↓ Cmax by 43%</td>
+<td stylecode="Rrule">If co-administration of these two drugs cannot be avoided, patients should be monitored for adverse events associated with rifabutin administration, and lack of posaconazole efficacy.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Itraconazole</td>
+<td stylecode="Rrule">200 mg QD</td>
+<td stylecode="Rrule">300 mg QD</td>
+<td stylecode="Rrule">HIV-Infected patients (6)</td>
+<td align="center" stylecode="Rrule">↑<footnote id="t2ff">data from a case report</footnote>
+</td>
+<td stylecode="Rrule">↓ AUC by 70%,<br/>↓ Cmax by 75%,</td>
+<td stylecode="Rrule">If co-administration of these two drugs cannot be avoided, patients should be monitored for adverse events associated with rifabutin administration, and lack of itraconazole efficacy. In a separate study, one case of uveitis was associated with increased serum rifabutin levels following co-administration of rifabutin (300 mg QD) with itraconazole (600–900 mg QD).</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Voriconazole</td>
+<td stylecode="Rrule">400 mg BID × 7 days (maintenance dose)</td>
+<td stylecode="Rrule">300 mg QD × 7 days</td>
+<td stylecode="Rrule">Healthy male subjects (12)</td>
+<td stylecode="Rrule">↑ AUC by 331%,<br/>↑ Cmax by 195%</td>
+<td stylecode="Rrule">↑ AUC by ~100%,<br/>↑ Cmax by ~100%<footnote id="t2fg">compared to voriconazole 200 mg BID alone</footnote>
+</td>
+<td stylecode="Rrule">
+<content stylecode="bold">CONTRAINDICATED</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Rrule Lrule">
+<content stylecode="bold">ANTI-PCP (Pneumocystis carinii pneumonia)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Dapsone</td>
+<td stylecode="Rrule">50 mg QD</td>
+<td stylecode="Rrule">300 mg QD</td>
+<td stylecode="Rrule">HIV-infected patients (16)</td>
+<td stylecode="Rrule">ND</td>
+<td align="center" stylecode="Rrule">↓ AUC by  27 –40%</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Sulfamethoxazole-Trimethoprim</td>
+<td stylecode="Rrule">800/160 mg</td>
+<td stylecode="Rrule">300 mg QD</td>
+<td stylecode="Rrule">HIV-infected patients (12)</td>
+<td stylecode="Rrule">↔</td>
+<td align="center" stylecode="Rrule">↓ AUC by 15–20%</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Rrule Lrule">
+<content stylecode="bold">ANTI-MAC (Mycobacterium avium intracellulare complex)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Azithromycin</td>
+<td stylecode="Rrule">500 mg QD × 1 day, then 250 mg QD × 9 days</td>
+<td stylecode="Rrule">300 mg QD</td>
+<td stylecode="Rrule">Healthy subjects (6)</td>
+<td stylecode="Rrule">↔</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Clarithromycin</td>
+<td stylecode="Rrule">500 mg BID</td>
+<td stylecode="Rrule">300 mg QD</td>
+<td stylecode="Rrule">HIV-infected patients (12)</td>
+<td stylecode="Rrule">↑ AUC by 75%</td>
+<td align="center" stylecode="Rrule">↓ AUC by 50%</td>
+<td stylecode="Rrule">Monitor for rifabutin associated adverse events. Reduce dose or suspend use of rifabutin if toxicity is suspected. Alternative treatment for clarithromycin should be considered when treating patients receiving rifabutin</td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Rrule Lrule">
+<content stylecode="bold">ANTI-TB (Tuberculosis)</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Ethambutol</td>
+<td stylecode="Rrule">1200 mg</td>
+<td stylecode="Rrule">300 mg QD × 7 days</td>
+<td stylecode="Rrule">Healthy subjects (10)</td>
+<td stylecode="Rrule">ND</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Isoniazid</td>
+<td stylecode="Rrule">300 mg</td>
+<td stylecode="Rrule">300 mg QD × 7 days</td>
+<td stylecode="Rrule">Healthy subjects (6)</td>
+<td stylecode="Rrule">ND</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td colspan="7" stylecode="Rrule Lrule">
+<content stylecode="bold">OTHER</content>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Methadone</td>
+<td stylecode="Rrule">20 – 100 mg QD</td>
+<td stylecode="Rrule">300 mg QD × 13 days</td>
+<td stylecode="Rrule">HIV-infected patients (24)</td>
+<td stylecode="Rrule">ND</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule"></td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Ethinylestradiol (EE)/ Norethindrone (NE)</td>
+<td stylecode="Rrule">35 mg EE / 1 mg NE × 21 days</td>
+<td stylecode="Rrule">300 mg QD × 10 days</td>
+<td stylecode="Rrule">Healthy female subjects (22)</td>
+<td stylecode="Rrule">ND</td>
+<td stylecode="Rrule">EE: ↓ AUC by 35%, ↓ C<sub>max</sub> by 20%<br/>NE: ↓ AUC by 46%</td>
+<td stylecode="Rrule">Patients should be advised to use additional or alternative methods of contraception.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">Theophylline</td>
+<td stylecode="Rrule">5 mg/kg</td>
+<td stylecode="Rrule">300 mg × 14 days</td>
+<td stylecode="Rrule">Healthy subjects (11)</td>
+<td stylecode="Rrule">ND</td>
+<td align="center" stylecode="Rrule">↔</td>
+<td stylecode="Rrule"></td>
+</tr>
+</tbody>
+</table>

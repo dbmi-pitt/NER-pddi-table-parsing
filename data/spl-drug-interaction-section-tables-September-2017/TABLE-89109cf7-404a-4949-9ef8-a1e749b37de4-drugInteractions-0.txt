@@ -1,0 +1,50 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Summary of antiepileptic drug (AED) interactions with topiramate (7.1).</caption>
+<col width="31.9%"></col>
+<col width="35.2%"></col>
+<col width="32.9%"></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Rrule     " valign="top"> AED co-administered</td>
+<td stylecode="     Botrule          Rrule     " valign="top"> AED Concentration</td>
+<td stylecode="     Botrule         Lrule     " valign="top"> Topiramate Concentration</td>
+</tr>
+<tr>
+<td valign="top"> Phenytoin</td>
+<td valign="top"> NC or 25% increase<footnote id="FOOT_6201">Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin.</footnote>
+</td>
+<td valign="top"> 48% decrease</td>
+</tr>
+<tr>
+<td valign="top"> Carbamazaepine (CBZ)</td>
+<td valign="top"> NC</td>
+<td valign="top"> 40% decrease</td>
+</tr>
+<tr>
+<td valign="top"> CBZ epoxide<footnote id="FOOT_6202">Is not administered but is an active metabolite of carbamazepine</footnote>
+</td>
+<td valign="top"> NC</td>
+<td valign="top"> NE</td>
+</tr>
+<tr>
+<td valign="top"> Valproic acid</td>
+<td valign="top"> 11% decrease</td>
+<td valign="top"> 14% decrease</td>
+</tr>
+<tr>
+<td valign="top"> Phenobarbital</td>
+<td valign="top"> NC</td>
+<td valign="top"> NE</td>
+</tr>
+<tr>
+<td valign="top"> Primidone</td>
+<td valign="top"> NC</td>
+<td valign="top"> NE</td>
+</tr>
+<tr>
+<td stylecode="     Botrule     " valign="top"> Lamotrigine</td>
+<td stylecode="     Botrule     " valign="top"> NC at TPM doses up to 400mg/day</td>
+<td stylecode="     Botrule     " valign="top"> 13% decrease </td>
+</tr>
+</tbody>
+</table>

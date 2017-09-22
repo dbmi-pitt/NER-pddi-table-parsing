@@ -1,0 +1,59 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="16%"></col>
+<col width="19%"></col>
+<tbody>
+<tr>
+<td align="center" colspan="2" stylecode="Botrule Toprule ">
+<paragraph> <br/>Drug Interactions Associated with Increased <br/>Risk of Myopathy/Rhabdomyolysis (<linkhtml href="#LINK_e4ec9b63-5714-451a-aca9-f5a4f1ce36ec">2.3</linkhtml> <linkhtml href="#LINK_36735159-7a95-4438-9c5f-6b52643aa04a">5.1</linkhtml>, <linkhtml href="#LINK_835f75d4-57f0-471e-9819-5a0d5e94f00e">7</linkhtml>, <linkhtml href="#LINK_d3aa4645-a624-4599-a91d-2de12c221b2e">12.3</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Toprule ">
+<paragraph>Interacting Agents </paragraph>
+</td>
+<td stylecode="Lrule Toprule ">
+<paragraph> Prescribing Recommendations </paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule ">
+<paragraph>Strong CYP3A inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, and nefazodone), Erythromycin</paragraph>
+</td>
+<td stylecode="Lrule ">
+<paragraph> Contraindicated with lovastatin</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule ">
+<paragraph>Gemfibrozil, cyclosporine</paragraph>
+</td>
+<td stylecode="Lrule ">
+<paragraph> Avoid with lovastatin</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule ">
+<paragraph>Danazol,  diltiazem, dronedarone, verapamil</paragraph>
+</td>
+<td stylecode="Lrule ">
+<paragraph> Do not exceed 20 mg  lovastatin daily</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule ">
+<paragraph>Amiodarone</paragraph>
+</td>
+<td stylecode="Lrule ">
+<paragraph> Do not exceed 40 mg lovastatin daily</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule ">
+<paragraph>Grapefruit juice</paragraph>
+</td>
+<td stylecode="Botrule Lrule ">
+<paragraph> Avoid grapefruit juice </paragraph>
+</td>
+</tr>
+</tbody>
+</table>

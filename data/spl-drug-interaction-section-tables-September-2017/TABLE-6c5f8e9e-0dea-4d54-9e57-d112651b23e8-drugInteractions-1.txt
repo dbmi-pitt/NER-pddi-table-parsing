@@ -1,0 +1,71 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col align="left" valign="top" width="20%"></col>
+<col align="left" valign="top" width="10%"></col>
+<col align="left" valign="top" width="70%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule">
+<content stylecode="bold">Antiarrhythmics</content>
+</td>
+<td stylecode="Rrule Botrule">Dofetilide</td>
+<td stylecode="Rrule Botrule">Concomitant administration with digoxin was associated with a higher rate of torsades de pointes.</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule"></td>
+<td stylecode="Rrule Botrule">Moricizine</td>
+<td stylecode="Rrule Botrule">Reported to increase PR interval and QRS duration. There are reports of first degree atrioventricular block or bundle branch block developing with digitalis administration. The known effects of moricizine on calcium conductance may explain the effects on atrioventricular node conduction.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule"></td>
+<td stylecode="Rrule">Sotalol</td>
+<td stylecode="Rrule">Proarrhythmic events even more common in patients receiving sotalol and digoxin than on either alone; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in patients receiving dioxin.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">
+<content stylecode="bold">Parathyroid Hormone Analog</content>
+</td>
+<td stylecode="Rrule">Teriparatide</td>
+<td stylecode="Rrule">Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity. Teriparatide transiently increases serum calcium.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">
+<content stylecode="bold">Thyroid Supplement</content>
+</td>
+<td stylecode="Rrule">Thyroid</td>
+<td stylecode="Rrule">Treatment of hyperthyroidism in patients taking digoxin may increase the dose requirements of digoxin.</td>
+</tr>
+<tr stylecode="Botrule">
+<td rowspan="3" stylecode="Rrule Lrule">
+<content stylecode="bold">Sympathomimetics</content>
+</td>
+<td stylecode="Rrule">Epinepherine</td>
+<td rowspan="3" stylecode="Rrule">Can increase the risk of cardiac arrhythmias.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">Norepinephrine</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule">Dopamine</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">
+<content stylecode="bold">Neuromuscular Blocking Agents</content>
+</td>
+<td stylecode="Rrule">Succinylcholine</td>
+<td stylecode="Rrule">May cause sudden extrusion of potassium from muscle cells causing arrhythmias in patients taking digoxin.</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Rrule Lrule">
+<content stylecode="bold">Supplements</content>
+</td>
+<td stylecode="Rrule">Calcium</td>
+<td stylecode="Rrule">If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients.</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule">
+<content stylecode="bold">Beta-adrenergic blockers and calcium channel blockers</content>
+</td>
+<td colspan="2" stylecode="Rrule">Additive effects on AV node conduction can result in complete heart block.</td>
+</tr>
+</tbody>
+</table>

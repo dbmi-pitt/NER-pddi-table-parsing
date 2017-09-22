@@ -1,0 +1,356 @@
+<table border="1" frame="box" id="table_4" rules="all" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 4. Established and Other Potentially Significant Drug Interactions</caption>
+<colgroup align="left">
+<col width="20%"></col>
+<col width="20%"></col>
+<col width="59%"></col>
+</colgroup>
+<tbody>
+<tr valign="top">
+<td stylecode="Lrule Toprule">
+<content stylecode="bold">Concomitant Drug Class:</content>
+<br/>
+<content stylecode="bold">Drug Name</content>
+</td>
+<td stylecode="Toprule Lrule">
+<content stylecode="bold">Effect on Concentration of Ritonavir or Concomitant Drug</content>
+</td>
+<td stylecode="Lrule Toprule Rrule">
+<content stylecode="bold">Clinical Comments</content>
+</td>
+</tr>
+<tr valign="top">
+<td colspan="3" stylecode="Lrule Toprule">
+<content stylecode="italics">
+<content stylecode="bold">HIV-Antiviral Agents</content>
+</content>
+</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">HIV-1 Protease Inhibitor:<br/>atazanavir<br/>darunavir<br/>fosamprenavir</td>
+<td stylecode="Toprule Lrule">↑ amprenavir<br/>↑ atazanavir<br/>↑ darunavir</td>
+<td stylecode="Lrule Toprule Rrule">See the complete prescribing information for fosamprenavir, atazanavir, darunavir, for details on co-administration with ritonavir.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">HIV-1 Protease Inhibitor:<br/>indinavir</td>
+<td stylecode="Toprule Lrule">↑ indinavir</td>
+<td stylecode="Lrule Toprule Rrule">Appropriate doses for this combination, with respect to efficacy and safety, have not been established.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">HIV-1 Protease Inhibitor:<br/>saquinavir</td>
+<td stylecode="Toprule Lrule">↑ saquinavir</td>
+<td stylecode="Lrule Toprule Rrule">See the complete prescribing information for saquinavir for details on co-administration of saquinavir and ritonavir.<br/>Saquinavir/ritonavir in combination with rifampin is not recommended, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three drugs are given together.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">HIV-1 Protease Inhibitor:<br/>tipranavir</td>
+<td stylecode="Toprule Lrule">↑ tipranavir</td>
+<td stylecode="Lrule Toprule Rrule">See the complete prescribing information for tipranavir for details on co-administration of tipranavir and ritonavir.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Non-Nucleoside Reverse Transcriptase Inhibitor:<br/>delavirdine</td>
+<td stylecode="Toprule Lrule">↑ ritonavir</td>
+<td stylecode="Lrule Toprule Rrule">Appropriate doses of this combination with respect to safety and efficacy have not been established.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">HIV-1 CCR5 – antagonist: maraviroc</td>
+<td stylecode="Toprule Lrule">↑ maraviroc</td>
+<td stylecode="Lrule Toprule Rrule">See the complete prescribing information for maraviroc for details on co-administration of maraviroc and ritonavir-containing protease inhibitors.</td>
+</tr>
+<tr>
+<td stylecode="Lrule Toprule" valign="top">Integrase Inhibitor: <br/>raltegravir</td>
+<td stylecode="Toprule Lrule" valign="top">↓ raltegravir</td>
+<td stylecode="Lrule Toprule Rrule" valign="top">The effects of ritonavir on raltegravir with ritonavir dosage regimens greater than 100 mg twice daily have not been evaluated, however raltegravir concentrations may be decreased with ritonavir coadministration.</td>
+</tr>
+<tr valign="top">
+<td colspan="3" stylecode="Lrule Toprule Rrule">
+<content stylecode="italics">
+<content stylecode="bold">Other Agents</content>
+</content>
+</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Analgesics, Narcotic:<br/>tramadol, propoxyphene, <br/>methadone,<br/>
+<br/>fentanyl</td>
+<td stylecode="Toprule Lrule">↑ analgesics<br/>
+<br/>↓ methadone<br/>
+<br/>
+<br/>↑ fentanyl</td>
+<td stylecode="Lrule Toprule Rrule">A dose decrease may be needed for these drugs when co-administered with ritonavir.<br/>
+<br/>Dosage increase of methadone may be considered.<br/>
+<br/>
+<br/>Careful monitoring of therapeutic and adverse effects (including potentially fatal respiratory depression) is recommended when fentanyl is concomitantly administered with NORVIR.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Anesthetic:<br/>meperidine</td>
+<td stylecode="Toprule Lrule">↓ meperidine/ ↑ normeperidine (metabolite)</td>
+<td stylecode="Lrule Toprule Rrule">Dosage increase and long-term use of meperidine with ritonavir are not recommended due to the increased concentrations of the metabolite normeperidine which has both analgesic activity and CNS stimulant activity (e.g., seizures).</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Antialcoholics:<br/>disulfiram/metronidazole</td>
+<td stylecode="Toprule Lrule"> </td>
+<td stylecode="Lrule Toprule Rrule">Ritonavir formulations contain ethanol, which can produce disulfiram-like reactions when co-administered with disulfiram or other drugs that produce this reaction (e.g., metronidazole).</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Antiarrhythmics:<br/>disopyramide, lidocaine, mexiletine</td>
+<td stylecode="Toprule Lrule">↑ antiarrhythmics</td>
+<td stylecode="Lrule Toprule Rrule">For contraindicated antiarrhythmics <content stylecode="italics">[see Contraindications<linkhtml href="#section_4"> (4)</linkhtml>].</content>
+<br/>Caution is warranted and therapeutic concentration monitoring is recommended for antiarrhythmics when co-administered with ritonavir, if available.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Anticancer Agents: <br/>dasatinib, nilotinib,<br/>venetoclax, <br/>vincristine, vinblastine </td>
+<td stylecode="Toprule Lrule">↑ anticancer agents</td>
+<td stylecode="Lrule Toprule Rrule">For vincristine and vinblastine, consideration should be given to temporarily withholding the ritonavir containing antiretroviral regimen in patients who develop significant hematologic or gastrointestinal side effects when ritonavir is administered concurrently with vincristine or vinblastine. Clinicians should be aware that if the ritonavir containing regimen is withheld for a prolonged period, consideration should be given to altering the regimen to not include a CYP3A or P-gp inhibitor in order to control HIV-1 viral load.A decrease in the dosage or an adjustment of the dosing interval of nilotinib and dasatinib may be necessary for patients requiring co-administration with strong CYP3A inhibitors such as NORVIR. Please refer to the nilotinib and dasatinib prescribing information for dosing instructions.<br/>
+<br/>Coadministration of venetoclax and NORVIR  may increase the risk of tumor lysis syndrome.  Refer to the venetoclax prescribing information for dosing instructions.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule Rrule">Anticoagulant:  <br/>warfarin</td>
+<td stylecode="Toprule Lrule">↑↓ warfarin</td>
+<td stylecode="Toprule Lrule">Initial frequent monitoring of the INR during ritonavir and warfarin co-administration is recommended.</td>
+</tr>
+<tr valign="top">
+<td align="left" stylecode="Lrule Toprule">Anticoagulant: <br/>rivaroxaban</td>
+<td align="left" stylecode="Toprule Lrule">↑ rivaroxaban</td>
+<td align="left" stylecode="Lrule Toprule Rrule">Avoid concomitant use of rivaroxaban and ritonavir. Co-administration of ritonavir and rivaroxaban may lead to risk of increased bleeding.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Anticonvulsants:<br/>carbamazepine, clonazepam, ethosuximide</td>
+<td stylecode="Toprule Lrule">↑ anticonvulsants</td>
+<td stylecode="Lrule Toprule Rrule">A dose decrease may be needed for these drugs when co-administered with ritonavir and therapeutic concentration monitoring is recommended for these anticonvulsants, if available.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Anticonvulsants:<br/>divalproex, lamotrigine, phenytoin</td>
+<td stylecode="Toprule Lrule">↓ anticonvulsants</td>
+<td stylecode="Lrule Toprule Rrule">A dose increase may be needed for these drugs when co-administered with ritonavir and therapeutic concentration monitoring is recommended for these anticonvulsants, if available.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Antidepressants:<br/>nefazodone, <br/>selective serotonin <br/>reuptake inhibitors <br/>(SSRIs): e.g.<br/>fluoxetine,<br/>paroxetine,<br/>tricyclics: e.g.<br/>amitriptyline,<br/>nortriptyline</td>
+<td stylecode="Toprule Lrule">↑ antidepressants</td>
+<td stylecode="Lrule Toprule Rrule">A dose decrease may be needed for these drugs when co-administered with ritonavir.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Antidepressant:<br/>bupropion</td>
+<td stylecode="Toprule Lrule">↓ bupropion <br/>↓ active metabolite, hydroxybupropion</td>
+<td stylecode="Lrule Toprule Rrule">Patients receiving ritonavir and bupropion concurrently should be monitored for an adequate clinical response to bupropion.  </td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Antidepressant:<br/>desipramine</td>
+<td stylecode="Toprule Lrule">↑ desipramine</td>
+<td stylecode="Lrule Toprule Rrule">Dosage reduction and concentration monitoring of desipramine is recommended.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Lrule Toprule">Antidepressant:<br/>trazodone</td>
+<td stylecode="Toprule Lrule">↑ trazodone</td>
+<td stylecode="Lrule Toprule Rrule">Adverse events of nausea, dizziness, hypotension and syncope have been observed following co-administration of trazodone and NORVIR. A lower dose of trazodone should be considered.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Antiemetic:<br/>dronabinol</td>
+<td stylecode="Toprule Lrule">↑ dronabinol</td>
+<td stylecode="Lrule Toprule Rrule">A dose decrease of dronabinol may be needed when co-administered with ritonavir.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Antifungal:<br/>ketoconazole<br/>itraconazole<br/>voriconazole</td>
+<td stylecode="Toprule Lrule">↑ ketoconazole<br/>↑ itraconazole<br/>↓ voriconazole</td>
+<td stylecode="Lrule Toprule Rrule">For contraindicated antifungals, <content stylecode="italics">[see Contraindications <linkhtml href="#section_4">(4)</linkhtml>].</content>
+<br/>High doses of ketoconazole or itraconazole (greater than 200 mg per day) are not recommended.<br/>
+<br/>Co-administration of voriconazole and ritonavir doses of 400 mg every 12 hours or greater is contraindicated <content stylecode="italics">[see Contraindications <linkhtml href="#section_4">(4)</linkhtml>]</content>. Co-administration of voriconazole and ritonavir 100 mg should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Anti-gout: <br/>colchicine</td>
+<td stylecode="Toprule Lrule">↑ colchicine</td>
+<td stylecode="Lrule Toprule Rrule">
+<paragraph id="p422506291476481996">Concomitant administration with colchicine is contraindicated in patients with renal and/or hepatic impairment <content stylecode="italics">[see Contraindications <linkhtml href="#section_4">(4)</linkhtml>]</content>.</paragraph>
+<br/>
+<content stylecode="underline">For patients with normal renal or hepatic function:</content>
+<br/>
+<br/>
+<content stylecode="italics">Treatment of gout flares-co-administration of colchicine in patients on ritonavir:</content>
+<br/>
+<br/>
+<paragraph id="p412331291426857182">0.6 mg (one tablet) for one dose, followed by 0.3 mg (half tablet) one hour later. Dose to be repeated no earlier than three days.<br/>
+<br/>
+</paragraph>
+<paragraph id="p412351291426857201">
+<content stylecode="italics">Prophylaxis of gout flares-co-administration of colchicine in patients on ritonavir:</content>
+<br/>
+<br/>
+</paragraph>
+<paragraph id="p412391291426857285">If the original colchicine regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day.<br/>
+<br/>
+</paragraph>
+<paragraph id="p412421291426857314">If the original colchicine regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day.<br/>
+<br/>
+</paragraph>
+<paragraph id="p412442291426857338">
+<content stylecode="italics">Treatment of familial Mediterranean fever (FMF)-co-administration of colchicine in patients on ritonavir:</content>
+<br/>
+<br/>
+</paragraph>Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day).</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Anti-infective:<br/>clarithromycin</td>
+<td stylecode="Toprule Lrule">↑ clarithromycin</td>
+<td stylecode="Lrule Toprule Rrule">For patients with renal impairment, adjust clarithromycin dose as follows:<br/>
+<list id="l176921465" listtype="unordered" stylecode="Disc">
+<item>For patients with CL<sub>CR</sub> 30 to 60 mL per min the dose of clarithromycin should be reduced by 50%.</item>
+<item>For patients with CL<sub>CR</sub> less than 30 mL per min the dose of clarithromycin should be decreased by 75%.</item>
+</list>No dose adjustment for patients with normal renal function is necessary.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule" valign="top">Antimycobacterial:<br/>bedaquiline		</td>
+<td stylecode="Toprule Lrule" valign="top">↑ bedaquiline </td>
+<td stylecode="Lrule Toprule Rrule" valign="top">Bedaquiline should only be used with ritonavir if the benefit of co-administration outweighs the risk.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Antimycobacterial:<br/>rifabutin</td>
+<td stylecode="Toprule Lrule">↑ rifabutin and rifabutin metabolite</td>
+<td stylecode="Lrule Toprule Rrule">Dosage reduction of rifabutin by at least three-quarters of the usual dose of 300 mg per day is recommended (e.g., 150 mg every other day or three times a week).  Further dosage reduction may be necessary.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Antimycobacterial:<br/>rifampin</td>
+<td stylecode="Toprule Lrule">↓ ritonavir</td>
+<td stylecode="Lrule Toprule Rrule">May lead to loss of virologic response. Alternate antimycobacterial agents such as rifabutin should be considered.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Antiparasitic:<br/>atovaquone	</td>
+<td stylecode="Toprule Lrule">↓ atovaquone</td>
+<td stylecode="Lrule Toprule Rrule">Clinical significance is unknown; however, increase in atovaquone dose may be needed.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Antiparasitic:<br/>quinine	</td>
+<td stylecode="Toprule Lrule">↑ quinine</td>
+<td stylecode="Lrule Toprule Rrule">A dose decrease of quinine may be needed when co-administered with ritonavir.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule" valign="top">Antipsychotics: perphenazine,<br/>risperidone,<br/> thioridazine </td>
+<td stylecode="Toprule Lrule" valign="top">↑ antipsychotics</td>
+<td stylecode="Lrule Toprule Rrule" valign="top">For contraindicated antipsychotics, <content stylecode="italics">[see Contraindications <linkhtml href="#section_4">(4)</linkhtml>]</content>.<br/>A dose decrease may be needed for these drugs when co-administered with ritonavir.</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule" valign="top">Antipsychotics:<br/> quetiapine	</td>
+<td stylecode="Toprule Lrule" valign="top">↑ quetiapine</td>
+<td stylecode="Lrule Toprule Rrule" valign="top">
+<paragraph id="p412571291426857471">
+<content stylecode="underline">Initiation of NORVIR in patients taking quetiapine:</content>
+<br/>
+<br/>Consider alternative antiretroviral therapy to avoid increases in quetiapine exposures. If coadministration is necessary, reduce the quetiapine dose to 1/6 of the current dose and monitor for quetiapine-associated adverse reactions. Refer to the quetiapine prescribing information for recommendations on adverse reaction monitoring.  <br/>
+<br/>
+<content stylecode="underline">Initiation of quetiapine in patients taking NORVIR:</content>
+<br/>
+<br/> Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine.</paragraph>
+</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">β-Blockers:<br/>metoprolol, timolol</td>
+<td stylecode="Toprule Lrule">↑ beta-blockers</td>
+<td stylecode="Lrule Toprule Rrule">Caution is warranted and clinical monitoring of patients is recommended.  A dose decrease may be needed for these drugs when co-administered with ritonavir.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Bronchodilator:<br/>theophylline</td>
+<td stylecode="Toprule Lrule">↓ theophylline</td>
+<td stylecode="Lrule Toprule Rrule">Increased dosage of theophylline may be required; therapeutic monitoring should be considered.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Calcium channel blockers:<br/>diltiazem, nifedipine, verapamil</td>
+<td stylecode="Toprule Lrule">↑ calcium channel blockers</td>
+<td stylecode="Lrule Toprule Rrule">Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with ritonavir.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Digoxin	</td>
+<td stylecode="Toprule Lrule">↑ digoxin	</td>
+<td stylecode="Lrule Toprule Rrule">Concomitant administration of ritonavir with digoxin may increase digoxin levels.  Caution should be exercised when co-administering ritonavir with digoxin, with appropriate monitoring of serum digoxin levels.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Endothelin receptor antagonists: bosentan</td>
+<td stylecode="Toprule Lrule">↑ bosentan</td>
+<td stylecode="Lrule Toprule Rrule">
+<paragraph id="p414821291426857736">
+<content stylecode="underline">Co-administration of bosentan in patients on ritonavir:</content>
+<br/>
+<br/>In patients who have been receiving ritonavir for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability.<br/>
+<br/>
+<content stylecode="underline">Co-administration of ritonavir in patients on bosentan:</content>
+<br/>
+<br/>Discontinue use of bosentan at least 36 hours prior to initiation of ritonavir.<br/>
+<br/>After at least 10 days following the initiation of ritonavir, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability.</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule" valign="top">Hepatitis C direct acting antiviral:<br/>simeprevir</td>
+<td stylecode="Toprule Lrule" valign="top">↑simeprevir</td>
+<td stylecode="Lrule Toprule Rrule" valign="top">It is not recommended to co-administer ritonavir with simeprevir.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">HMG-CoA Reductase Inhibitor:<br/>atorvastatin	<br/>rosuvastatin	</td>
+<td stylecode="Toprule Lrule">↑ atorvastatin<br/>↑ rosuvastatin</td>
+<td stylecode="Lrule Toprule Rrule">For contraindicated HMG-CoA Reductase inhibitors, <content stylecode="italics">[see Contraindications <linkhtml href="#section_4">(4)</linkhtml>]</content>.<br/>Titrate atorvastatin and rosuvastatin dose carefully and use the lowest necessary dose.<br/>If NORVIR is used with another protease inhibitor, see the complete prescribing information for the concomitant protease inhibitor for details on co-administration with atorvastatin and rosuvastatin.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Immunosuppressants:<br/>cyclosporine, tacrolimus, sirolimus (rapamycin)</td>
+<td stylecode="Toprule Lrule">↑ immunosuppressants</td>
+<td stylecode="Lrule Toprule Rrule">Therapeutic concentration monitoring is recommended for immunosuppressant agents when co-administered with ritonavir.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Systemic/Inhaled/ Nasal/Ophthalmic Corticosteroids:<br/>e.g.,<br/>betamethasone<br/>budesonide<br/>ciclesonide<br/>dexamethasone<br/>fluticasone<br/>methylprednisolone<br/>mometasone<br/>prednisone<br/>triamcinolone</td>
+<td stylecode="Toprule Lrule">↑ glucocorticoids</td>
+<td stylecode="Lrule Toprule Rrule">
+<paragraph id="p414851291426857783">Coadministration with corticosteroids whose exposures are significantly increased by strong CYP3A inhibitors can increase the risk for Cushing’s syndrome and adrenal suppression.<br/>
+<br/>Alternative corticosteroids including beclomethasone and prednisolone (whose PK and/or PD are less affected by strong CYP3A inhibitors relative to other studied steroids) should be considered, particularly for long-term use. </paragraph>
+</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Long-acting beta-adrenoceptor agonist: salmeterol	</td>
+<td stylecode="Toprule Lrule">↑ salmeterol	</td>
+<td stylecode="Lrule Toprule Rrule">Concurrent administration of salmeterol and ritonavir is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Oral Contraceptives or Patch Contraceptives:<br/>  ethinyl estradiol</td>
+<td stylecode="Toprule Lrule">↓ ethinyl estradiol</td>
+<td stylecode="Lrule Toprule Rrule">Alternate methods of contraception should be considered.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">PDE5 Inhibitors:<br/>avanafil<br/> sildenafil, <br/>tadalafil,<br/>vardenafil</td>
+<td stylecode="Toprule Lrule">↑ avanafil<br/>↑ sildenafil<br/>↑ tadalafil<br/>↑ vardenafil</td>
+<td stylecode="Lrule Toprule Rrule">For contraindicated PDE5 inhibitors, <content stylecode="italics">[see Contraindications <linkhtml href="#Section_4">(4)</linkhtml>]</content>.<br/>
+<paragraph id="p415011291426857980">Do not use ritonavir with avanafil because a safe and effective avanafil dosage regimen has not been established. <br/>
+<br/>Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil in patients receiving ritonavir. Coadministration of ritonavir with these drugs may result in an increase in PDE5 inhibitor associated adverse events, including hypotension, syncope, visual changes, and prolonged erection.<br/>
+<br/>Use of PDE5 inhibitors for pulmonary arterial hypertension (PAH): <br/>
+<br/>Sildenafil (Revatio<sup>®</sup>) is contraindicated <content stylecode="italics">[see Contraindications <linkhtml href="#section_4">(4)</linkhtml>]</content>.<br/>
+<br/>The following dose adjustments are recommended for use of tadalafil (Adcirca<sup>®</sup>) with ritonavir:  <br/>
+<br/>
+<content stylecode="underline">Co-administration of ADCIRCA in patients on ritonavir:</content>
+<br/>
+<br/>In patients receiving ritonavir for at least one week, start ADCIRCA at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.<br/>
+<br/>
+<content stylecode="underline">Co-administration of ritonavir in patients on ADCIRCA:</content>
+<br/>
+<br/>Avoid use of ADCIRCA during the initiation of ritonavir. Stop ADCIRCA at least 24 hours prior to starting ritonavir. After at least one week following the initiation of ritonavir, resume ADCIRCA at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability.<br/>
+<br/>Use of PDE5 inhibitors for the treatment of erectile dysfunction: <br/>
+<br/>It is recommended not to exceed the following doses:<br/>
+</paragraph>
+<list id="l192381465" listtype="unordered" stylecode="Disc">
+<item>Sildenafil: 25 mg every 48 hours</item>
+<item>Tadalafil: 10 mg every 72 hours</item>
+<item>Vardenafil: 2.5 mg every 72 hours</item>
+</list>
+<paragraph id="p419853291426874382">Use with increased monitoring for adverse events.</paragraph>
+</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Sedative/hypnotics:<br/>buspirone, clorazepate, diazepam, estazolam, flurazepam, zolpidem </td>
+<td stylecode="Toprule Lrule">↑ sedative/hypnotics </td>
+<td stylecode="Lrule Toprule Rrule">A dose decrease may be needed for these drugs when co-administered with ritonavir.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Lrule">Sedative/hypnotics: Parenteral midazolam<br/>
+</td>
+<td stylecode="Toprule Lrule">↑ midazolam</td>
+<td stylecode="Lrule Toprule Rrule">For contraindicated sedative/hypnotics, <content stylecode="italics">[see Contraindications <linkhtml href="#section_4">(4)</linkhtml>
+</content>].<br/>Co-administration should be done in a setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage reduction for midazolam should be considered, especially if more than a single dose of midazolam is administered.</td>
+</tr>
+<tr valign="top">
+<td stylecode="Toprule Botrule Lrule">Stimulant:<br/>methamphetamine</td>
+<td stylecode="Toprule Botrule Lrule">↑ methamphetamine</td>
+<td stylecode="Lrule Toprule Rrule Botrule">Use with caution. A dose decrease of methamphetamine may be needed when co-administered with ritonavir.</td>
+</tr>
+</tbody>
+</table>

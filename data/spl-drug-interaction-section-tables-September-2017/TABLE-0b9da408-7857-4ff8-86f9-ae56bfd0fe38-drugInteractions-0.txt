@@ -1,0 +1,84 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 13. Established and Other Potentially Significant Drug Interactions</caption>
+<colgroup>
+<col width="34%"></col>
+<col width="33%"></col>
+<col width="33%"></col>
+</colgroup>
+<thead>
+<tr stylecode="First Last">
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Concomitant Drug</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Effect on Concentration of Lamotrigine or  <br/>Concomitant Drug</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Clinical Comment </td>
+</tr>
+</thead>
+<tfoot>
+<tr stylecode="First Last">
+<td align="left">
+<paragraph></paragraph>
+<paragraph stylecode="Footnote">↓= Decreased (induces lamotrigine gluronidation).</paragraph>
+<paragraph stylecode="Footnote">↑= Increased (inhibits lamotrigine glucuronidation).</paragraph>
+<paragraph stylecode="Footnote">?= Conflicting data.</paragraph>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule" valign="top">Estrogen-containing oral <br/>contraceptive preparations <br/>containing 30 mcg ethinylestradiol <br/>and 150 mcg levonorgestrel</td>
+<td align="center" stylecode="Lrule Rrule Toprule" valign="top">↓ lamotrigine<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule" valign="top">Decreased lamotrigine levels <br/>approximately 50%.<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">↓ levonorgestrel</td>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">Decrease in levonorgestrel component by 19%.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule" valign="top">Carbamazepine (CBZ) and <br/>CBZ epoxide</td>
+<td align="center" stylecode="Lrule Rrule Toprule" valign="top">↓ lamotrigine<br/>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule" valign="top">Addition of carbamazepine decreases lamotrigine <br/>concentration approximately 40%.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">? CBZ epoxide</td>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">May increase CBZ epoxide levels</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Phenobarbital/Primidone</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">↓ lamotrigine</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Decreased lamotrigine <br/>concentration approximately 40%.</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Phenytoin (PHT)</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">↓ lamotrigine</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Decreased lamotrigine <br/>concentration approximately 40%</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule Toprule" valign="top">Rifampin</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">↓ lamotrigine</td>
+<td align="center" stylecode="Botrule Lrule Rrule Toprule" valign="top">Decreased lamotrigine AUC <br/>approximately 40%</td>
+</tr>
+<tr>
+<td align="left" stylecode="Lrule Rrule Toprule" valign="top">Valproate</td>
+<td align="center" stylecode="Lrule Rrule Toprule" valign="top">↑ lamotrigine<br/>
+</td>
+<td align="center" stylecode="Lrule Rrule Toprule" valign="top">Increased lamotrigine concentrations slightly <br/>more than 2-fold.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" stylecode="Botrule Lrule Rrule" valign="top"></td>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">? valproate</td>
+<td align="center" stylecode="Botrule Lrule Rrule" valign="top">Decreased valproate concentrations an average of <br/>25% over a 3-week period then stabilized in healthy volunteers; <br/>no change in controlled clinical trials in epilepsy patients.<br/>
+</td>
+</tr>
+</tbody>
+</table>

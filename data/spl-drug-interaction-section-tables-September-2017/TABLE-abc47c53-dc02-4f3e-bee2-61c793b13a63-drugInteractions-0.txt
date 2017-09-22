@@ -1,0 +1,54 @@
+<table cellpadding="0pt" cellspacing="0pt" width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="49%"></col>
+<col width="51%"></col>
+<thead>
+<tr>
+<th align="left" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">Interacting DrugInteracting Drug</content>
+</th>
+<th align="left" stylecode="Rrule Lrule Toprule " valign="top">
+<content stylecode="bold">InteractionInteraction</content>
+</th>
+</tr>
+<tr>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Interacting Drug</content>
+</th>
+<th align="left" stylecode="Rrule Lrule Botrule " valign="top">
+<content stylecode="bold">Interaction</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Multivalent cation-containing products including antacids, metal cations or didanosine<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Toprule Botrule " valign="top">
+<paragraph>Absorption of levofloxacin is decreased when the tablet formulation is taken within 2 hours of these products (<linkhtml href="#Section_2.4">2.4</linkhtml>, <linkhtml href="#Section_7.1">7.1</linkhtml>)<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>Warfarin<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Effect may be enhanced. Monitor prothrombin time, INR, watch for bleeding (<linkhtml href="#Section_7.2">7.2</linkhtml>)<br/>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>Antidiabetic agents<br/>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Carefully monitor blood glucose (<linkhtml href="#Section_5.12">5.12</linkhtml>, <linkhtml href="#Section_7.3">7.3</linkhtml>)<br/>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

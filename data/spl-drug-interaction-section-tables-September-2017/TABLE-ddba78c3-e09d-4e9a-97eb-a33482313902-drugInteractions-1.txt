@@ -1,0 +1,66 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="31%"></col>
+<col width="69%"></col>
+<tbody>
+<tr>
+<td stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Interacting Drug</content>
+</paragraph>
+</td>
+<td stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Interaction</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Theophylline </paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Serious and fatal reactions. Avoid concomitant use. Monitor serum level (<linkhtml href="#ID_7d14ce0b-fb30-4a87-b38c-ea96dfa89f0d">7</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Warfarin</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Anticoagulant effect enhanced. Monitor prothrombin time, INR, and bleeding (<linkhtml href="#ID_7d14ce0b-fb30-4a87-b38c-ea96dfa89f0d">7</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Antidiabetic agents</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Hypoglycemia including fatal outcomes have been reported. Monitor blood glucose (<linkhtml href="#ID_7d14ce0b-fb30-4a87-b38c-ea96dfa89f0d">7</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Phenytoin</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Monitor phenytoin level (<linkhtml href="#ID_7d14ce0b-fb30-4a87-b38c-ea96dfa89f0d">7</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Methotrexate</paragraph>
+</td>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Monitor for methotrexate toxicity (<linkhtml href="#ID_7d14ce0b-fb30-4a87-b38c-ea96dfa89f0d">7</linkhtml>)</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Cyclosporine</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>May increase serum creatinine. Monitor serum creatinine (<linkhtml href="#ID_7d14ce0b-fb30-4a87-b38c-ea96dfa89f0d">7</linkhtml>)</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

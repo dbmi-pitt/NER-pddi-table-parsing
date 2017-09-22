@@ -1,0 +1,25 @@
+<table cellpadding="0" cellspacing="0" width="100%" xmlns="urn:hl7-org:v3" xmlns:v="http://validator.pragmaticdata.com/result" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<thead>
+<tr stylecode="First Last">
+<th stylecode="Lrule Rrule Toprule">Interacting Drug</th>
+<th stylecode="Lrule Rrule Toprule">Interaction</th>
+</tr>
+</thead>
+<tbody>
+<tr stylecode="Botrule First">
+<td stylecode="Lrule Rrule" valign="top">   Multivalent cation-containing products<br/>   including antacids, metal cations or didanosine </td>
+<td stylecode="Rrule" valign="top">   Absorption of levofloxacin is decreased when the tablet<br/>   formulation  is taken within 2 hours of this product. <linkhtml href="#Section_2.5">(2.4</linkhtml>, <linkhtml href="#Section_7.1">7.1)</linkhtml>
+</td>
+</tr>
+<tr stylecode="Botrule">
+<td stylecode="Lrule Rrule" valign="top">   Warfarin </td>
+<td stylecode="Rrule" valign="top">   Effect may be enhanced. Monitor prothrombin time,<br/>   INR, watch for bleeding <linkhtml href="#Section_7.2">(7.2)</linkhtml>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Rrule" valign="top">   Antidiabetic agents </td>
+<td stylecode="Rrule" valign="top">   Carefully monitor blood glucose <linkhtml href="#Section_5.11">(5.11</linkhtml>, <linkhtml href="#Section_7.3">7.3)</linkhtml>
+</td>
+</tr>
+</tbody>
+</table>

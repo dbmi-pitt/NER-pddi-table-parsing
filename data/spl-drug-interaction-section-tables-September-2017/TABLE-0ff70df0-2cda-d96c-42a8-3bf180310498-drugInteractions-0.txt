@@ -1,0 +1,197 @@
+<table frame="border" xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<tbody>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Inhibitors of CYP3A4</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>The concomitant use of fentanyl transdermal system and CYP3A4 inhibitors can increase the plasma concentration of fentanyl, resulting in increased or prolonged opioid effects particularly when an inhibitor is added after a stable dose of fentanyl transdermal system is achieved <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#_ee0ec5d2-2102-9005-588e-dd7d05a4db1a">5.5</linkhtml>)]</content>. <br/>
+<br/>After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the fentanyl transdermal system plasma concentration will decrease <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#PHARMACOKINETICS">12.3</linkhtml>)]</content>, resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to fentanyl.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention</content>:</td>
+<td>If concomitant use is necessary, consider dosage reduction of fentanyl transdermal system until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals. <br/>
+<br/>If a CYP3A4 inhibitor is discontinued, consider increasing the fentanyl transdermal system dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Examples</content>
+</td>
+<td>Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir), grape fruit juice</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">CYP3A4 Inducers</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>The concomitant use of fentanyl transdermal system and CYP3A4 inducers can decrease the plasma concentration of fentanyl <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#PHARMACOKINETICS">12.3</linkhtml>)]</content>, resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to fentanyl <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#_ee0ec5d2-2102-9005-588e-dd7d05a4db1a">5.5</linkhtml>)]</content>. <br/>
+<br/>After stopping a CYP3A4 inducer, as the effects of the inducer decline, the fentanyl plasma concentration will increase <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#PHARMACOKINETICS">12.3</linkhtml>)]</content>, which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>If concomitant use is necessary, consider increasing the fentanyl transdermal system dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider fentanyl transdermal system dosage reduction and monitor for signs of respiratory depression.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Examples:</content>
+</td>
+<td>Rifampin, carbamazepine, phenytoin</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Benzodiazepines and Other Central Nervous System (CNS) Depressants</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#_0ad27ca0-cbcc-1e69-7ce6-a062b4994997">5.7</linkhtml>)]</content>.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Examples:</content>
+</td>
+<td>Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol.</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Serotonergic Drugs</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome <content stylecode="italics">[see Warnings and Precautions <linkhtml href="#_5442f599-bddf-ba2f-8514-0232ecaa47f9"> 5.10</linkhtml>]</content>.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue fentanyl transdermal system if serotonin syndrome is suspected.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Examples:</content>
+</td>
+<td>Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Monoamine Oxidase Inhibitors (MAOIs)</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>MAOI interactions with opioids may manifest as serotonin syndrome <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#_5442f599-bddf-ba2f-8514-0232ecaa47f9">5.10</linkhtml>)]</content> or opioid toxicity (e.g., respiratory depression, coma).</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>The use of fentanyl transdermal system is not recommended for patients taking MAOIs or within 14 days of stopping such treatment.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Examples:</content>
+</td>
+<td>phenelzine, tranylcypromine, linezolid</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>May reduce the analgesic effect of fentanyl transdermal system and/or precipitate withdrawal symptoms.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>Avoid concomitant use.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Examples:</content>
+</td>
+<td>butorphanol, nalbuphine, pentazocine, buprenorphine</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Muscle Relaxants</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact:</content>
+</td>
+<td>Fentanyl transdermal system may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of fentanyl transdermal system and/or the muscle relaxant as necessary.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Diuretics</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact</content>:</td>
+<td>Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.</td>
+</tr>
+<tr>
+<td colspan="2">
+<content stylecode="bold">Anticholinergic Drugs</content>
+</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Clinical Impact</content>:</td>
+<td>The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.</td>
+</tr>
+<tr>
+<td>
+<content stylecode="italics">Intervention:</content>
+</td>
+<td>Monitor patients for signs of urinary retention or reduced gastric motility when fentanyl transdermal system is used concomitantly with anticholinergic drugs.</td>
+</tr>
+</tbody>
+</table>

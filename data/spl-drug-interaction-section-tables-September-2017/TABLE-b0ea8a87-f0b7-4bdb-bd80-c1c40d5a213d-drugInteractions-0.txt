@@ -1,0 +1,50 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>Table 14: Clinically Important Drug Interactions: Effect of other Drugs on Guanfacine Extended-Release Tablets</caption>
+<col width="38%"></col>
+<col width="38%"></col>
+<col width="38%"></col>
+<thead>
+<tr>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Concomitant Drug Name or Drug Class</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Clinical Rationale and Magnitude of Drug Interaction</content>
+</th>
+<th stylecode="Rrule Botrule Lrule Toprule ">
+<content stylecode="bold">Clinical Recommendation</content>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">CYP3A4 inhibitors, </content>
+<content stylecode="bold">e.g.,ketoconazole</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in a 200% increase in exposure</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Consider dose reduction <content stylecode="italics">[see Dosage and Administration (<linkhtml href="#ID_b5855bd3-5b82-49af-8339-4ad692be1c2d">2.7</linkhtml>)]</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">CYP3A4 inducers, e.g., rifampin</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in a 60% decrease in exposure</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Consider dose increase <content stylecode="italics">[see Dosage and Administration (<linkhtml href="#ID_b5855bd3-5b82-49af-8339-4ad692be1c2d">2.7</linkhtml>)]</content>
+</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

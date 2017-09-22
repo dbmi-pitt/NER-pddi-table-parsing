@@ -1,0 +1,113 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col></col>
+<col></col>
+<tbody>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>
+<content stylecode="bold">Interacting Agent </content>
+</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>
+<content stylecode="bold">Examples </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>
+<content stylecode="bold">Drugs that may increase phenytoin serum levels</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Antiepileptic drugs</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Ethosuximide, felbamate, oxcarbazepine, methsuximide, topiramate</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Azoles</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Fluconazole, ketoconazole, itraconazole, miconazole, voriconazole</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Antineoplastic agents</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Capecitabine, fluorouracil</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Antidepressants</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Fluoxetine, fluvoxamine, sertraline</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Gastric acid reducing agents</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>H<sub>2</sub> antagonists (cimetidine), omeprazole</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Sulfonamides</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Sulfamethizole, sulfaphenazole, sulfadiazine, sulfamethoxazole trimethoprim</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Other</paragraph>
+</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Acute alcohol intake, amiodarone, chloramphenicol, chlordiazepoxide, disulfiram, estrogen, fluvastatin, isoniazid, methylphenidate, phenothiazines, salicylates, ticlopidine, tolbutamide, trazodone, warfarin</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">Drugs that may decrease phenytoin serum levels</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Antineoplastic agents usually in combination</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Bleomycin, carboplatin, cisplatin, doxorubicin, methotrexate</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Antiviral agents</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Fosamprenavir, nelfinavir, ritonavir</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Antiepileptic drugs</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Carbamazepine, vigabatrin</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Other</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     "> 
+<paragraph>Chronic alcohol abuse, diazepam, diazoxide, folic acid, reserpine, rifampin, St. John’s wort<sup>b</sup>, theophylline</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="     Botrule          Toprule         Lrule          Rrule     "> <content stylecode="bold">
+<content stylecode="bold">Drugs that may either increase or decrease phenytoin serum levels</content>
+</content>
+</td>
+</tr>
+<tr>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Antiepileptic drugs</td>
+<td stylecode="     Botrule          Toprule         Lrule          Rrule     ">Phenobarbital, valproate sodium, valproic acid</td>
+</tr>
+</tbody>
+</table>

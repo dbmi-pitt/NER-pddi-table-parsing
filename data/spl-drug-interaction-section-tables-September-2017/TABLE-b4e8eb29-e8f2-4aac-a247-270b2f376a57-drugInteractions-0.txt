@@ -1,0 +1,58 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="50%"></col>
+<col width="50%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Factors</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">Dosage Adjustments for Aripiprazole</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Known CYP2D6 Poor Metabolizers</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Administer half of usual dose</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Known CYP2D6 Poor Metabolizersand strong CYP3A4 inhibitors</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Administer a quarter of usual dose</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Strong CYP2D6 or CYP3A4 inhibitors</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Administer half of usual dose</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Lrule Botrule " valign="top">
+<paragraph>Strong CYP2D6 and CYP3A4inhibitors</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Administer a quarter of usual dose</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>Strong CYP3A4 inducers</paragraph>
+</td>
+<td stylecode="Rrule Botrule " valign="top">
+<paragraph>Double usual dose over 1 to 2 weeks</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

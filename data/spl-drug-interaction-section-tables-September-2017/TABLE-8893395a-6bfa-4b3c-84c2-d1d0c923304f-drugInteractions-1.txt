@@ -1,0 +1,59 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="13%"></col>
+<col width="14%"></col>
+<col width="16%"></col>
+<col width="21%"></col>
+<col width="17%"></col>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>Calcium Channel Blockers</paragraph>
+</td>
+<td stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>Antifungals</paragraph>
+</td>
+<td stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>Antibiotics</paragraph>
+</td>
+<td stylecode="Botrule Lrule Toprule " valign="top">
+<paragraph>Glucocorticoids</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Other Drugs</paragraph>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>diltiazem</paragraph>
+<paragraph>nicardipine</paragraph>
+<paragraph>verapamil</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>fluconazole</paragraph>
+<paragraph>itraconazole</paragraph>
+<paragraph>ketoconazole</paragraph>
+<paragraph>voriconazole</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>azithromycin</paragraph>
+<paragraph>clarithromycin</paragraph>
+<paragraph>erythromycin</paragraph>
+<paragraph>quinupristin/ dalfopristin</paragraph>
+</td>
+<td stylecode="Botrule Lrule " valign="top">
+<paragraph>methylprednisolone</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule " valign="top">
+<paragraph>allopurinol</paragraph>
+<paragraph>amiodarone</paragraph>
+<paragraph>bromocriptine</paragraph>
+<paragraph>colchicine</paragraph>
+<paragraph>danazol</paragraph>
+<paragraph>imatinib</paragraph>
+<paragraph>metoclopramide</paragraph>
+<paragraph>nefazodone</paragraph>
+<paragraph>oral contraceptives</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

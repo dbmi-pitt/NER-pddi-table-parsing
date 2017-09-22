@@ -1,0 +1,65 @@
+<table width="100%" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="25%"></col>
+<col width="73%"></col>
+<tbody>
+<tr>
+<td colspan="2" stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>
+<content stylecode="bold">CYP2C19 or CYP3A4 Inducers </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Clinical Impact:</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Decreased exposure of omeprazole when used concomitantly with strong inducers <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#i4i_pharmacokinetics_id_9bf4571f-1df3-4aba-bdf4-90efa1c69ebb">12.3</linkhtml>)].</content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Intervention:</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>St. John’s Wort, rifampin: Avoid concomitant use with omeprazole <content stylecode="italics">[see Warnings and Precautions (<linkhtml href="#ID_c4bb454f-ecf2-4c6e-9293-cb8f1595136e">5.9</linkhtml>)].</content>
+</paragraph>
+<paragraph>Ritonavir-containing products: see prescribing information for specific drugs.</paragraph>
+</td>
+</tr>
+<tr>
+<td colspan="2" stylecode="Rrule Lrule Botrule " valign="top">
+<paragraph>
+<content stylecode="bold">CYP2C19 or CYP3A4 Inhibitors </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Lrule Botrule " valign="middle">
+<paragraph>
+<content stylecode="italics">Clinical Impact:</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Lrule Toprule Botrule " valign="top">
+<paragraph>Increased exposure of omeprazole <content stylecode="italics">[see Clinical Pharmacology (<linkhtml href="#i4i_pharmacokinetics_id_9bf4571f-1df3-4aba-bdf4-90efa1c69ebb">12.3</linkhtml>)]. </content>
+</paragraph>
+</td>
+</tr>
+<tr>
+<td align="center" stylecode="Rrule Botrule Lrule Toprule " valign="middle">
+<paragraph>
+<content stylecode="italics">Intervention:</content>
+</paragraph>
+</td>
+<td stylecode="Rrule Botrule Lrule Toprule " valign="top">
+<paragraph>Voriconazole: Dose adjustment of omeprazole is not normally required. However, in patients with Zollinger-Ellison syndrome, who may require higher doses, dose adjustment may be considered. </paragraph>
+<paragraph>See prescribing information for voriconazole.</paragraph>
+</td>
+</tr>
+</tbody>
+</table>

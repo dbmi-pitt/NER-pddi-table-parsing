@@ -1,0 +1,28 @@
+<table border="1" frame="void" width="700px" xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<caption>			Table 14: Clinically Important Drug Interactions: Effect of other Drugs on Guanfacine Extended-Release Tablets</caption>
+<tbody>
+<tr>
+<td stylecode="Botrule Lrule Rrule ">											Concomitant Drug Name or Drug Class				</td>
+<td stylecode="Botrule Lrule Rrule Toprule">											Clinical Rationale and Magnitude of Drug Interaction				</td>
+<td stylecode="Botrule Lrule Rrule Toprule">Clinical Recommendation				</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule">Strong and moderate CYP3A4 inhibitors, e.g., ketoconazole, fluconazole				</td>
+<td stylecode="Botrule Lrule Rrule Toprule">											Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in an increase in exposure				</td>
+<td stylecode="Botrule Lrule Rrule Toprule">
+          											Consider dose reduction 
+          <content stylecode="italics">[see </content>
+<content stylecode="bold">Dosage and administration (<linkhtml href="#A2a181186-c7e2-4a4a-aaf2-5bd13010e9ae">2.7</linkhtml>)</content>
+<content stylecode="italics">]</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Botrule Lrule Rrule Toprule">											Strong and moderate CYP3A4 inducers, e.g., rifampin, efavirenz 				</td>
+<td stylecode="Botrule Lrule Rrule Toprule">											Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in a 60% decrease in exposure				</td>
+<td stylecode="Botrule Lrule Rrule Toprule">Consider dose increase<content stylecode="italics">[see </content>
+<content stylecode="bold">Dosage and administration (<linkhtml href="#A2a181186-c7e2-4a4a-aaf2-5bd13010e9ae">2.7</linkhtml>)</content>
+<content stylecode="italics">]</content>
+</td>
+</tr>
+</tbody>
+</table>

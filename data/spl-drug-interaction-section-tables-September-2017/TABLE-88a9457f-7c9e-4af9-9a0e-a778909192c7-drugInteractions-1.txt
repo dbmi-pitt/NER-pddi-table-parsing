@@ -1,0 +1,42 @@
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<col width="132"></col>
+<col width="199"></col>
+<tbody>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Interacting Drug</content>
+</td>
+<td stylecode="Toprule Lrule Rrule ">
+<content stylecode="bold">Interaction</content>
+</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Theophylline</td>
+<td stylecode="Toprule Lrule Rrule ">Serious and fatal reactions. Avoid concomitant use. Monitor serum level (<linkhtml href="#_7_DRUG_INTERACTIONS">7</linkhtml>)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Warfarin</td>
+<td stylecode="Toprule Lrule Rrule ">Anticoagulant effect enhanced. Monitor prothrombin time, INR, and bleeding (<linkhtml href="#_7_DRUG_INTERACTIONS">7</linkhtml>)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Antidiabetic agents</td>
+<td stylecode="Toprule Lrule Rrule ">Hypoglycemia including fatal outcomes have been reported. Monitor blood glucose (<linkhtml href="#_7_DRUG_INTERACTIONS">7</linkhtml>)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Phenytoin</td>
+<td stylecode="Toprule Lrule Rrule ">Monitor phenytoin level (<linkhtml href="#_7_DRUG_INTERACTIONS">7</linkhtml>)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Methotrexate</td>
+<td stylecode="Toprule Lrule Rrule ">Monitor for methotrexate toxicity (<linkhtml href="#_7_DRUG_INTERACTIONS">7</linkhtml>)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Cyclosporine</td>
+<td stylecode="Toprule Lrule Rrule ">May increase serum creatinine. Monitor serum creatinine (<linkhtml href="#_7_DRUG_INTERACTIONS">7</linkhtml>)</td>
+</tr>
+<tr>
+<td stylecode="Toprule Lrule Rrule ">Multivalent cation-containing products including antacids, metal cations or didanosine</td>
+<td stylecode="Toprule Lrule Rrule ">Decreased ciprofloxacin absorption. Take 2 hours before or 6 hours after ciprofloxacin (<linkhtml href="#_7_DRUG_INTERACTIONS">7</linkhtml>)</td>
+</tr>
+</tbody>
+</table>
