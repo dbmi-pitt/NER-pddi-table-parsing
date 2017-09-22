@@ -1,7 +1,7 @@
 import glob
 import codecs
 
-TABLE_DATA_PATH = "/home/rdb20/NER-pddi-table-parsing/data/spl-drug-interaction-section-tables-January-2017/"
+TABLE_DATA_PATH = "/home/rdb20/NER-pddi-table-parsing/data/spl-drug-interaction-section-tables-September-2017/"
 
 
 #####

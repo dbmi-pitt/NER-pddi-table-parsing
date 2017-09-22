@@ -11,13 +11,9 @@ To get tables from SPLs you first have to assemble a list of all setIds:
 
 1) Log onto a server with the entire updated LinkedSPLs RDF graph
 
-2) Create a test.sparql file with the following query:
+2) From the base of this repository, run the following from the command line:
 
-SPARQL SELECT DISTINCT ?setid WHERE { ?s <http://bio2rdf.org/linkedspls_vocabulary:setId> ?setid.};
-
-3) Run the following from the command line:
-
-$ isql-vt -H localhost -S 1111  -U <user name> -P <password> errors=stdout < /tmp/test.sparql > /tmp/test.out
+$ isql-vt -H localhost -S 1111  -U <user name> -P <password> errors=stdout < ./scripts/querySPLSetIds.sparql > /tmp/test.out
 
 3) Copy the results to scripts/setIDS.txt and remove any quotes
 

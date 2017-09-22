@@ -1,0 +1,1 @@
+SPARQL SELECT DISTINCT ?setid WHERE { ?s <http://bio2rdf.org/linkedspls_vocabulary:setId> ?setid.};
