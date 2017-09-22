@@ -1,0 +1,20 @@
+Data in this folder is from manual annotations created by two students
+to table headings extracted from the drug drug interaction sections of
+SPLs. BRAT was used to create the annotations in January 2017. The
+original data came from the headings extracted as described in the
+README in the Heading_NoHeading_Annotations folder.
+
+
+Eric Chou
+18 January 2017
+---
+
+annParse.py parses table_headings.ann and fills the rows of headings-with-min-information-mode-annotations.xlsx
+
+The 'T' identifiers and the annotations are used from the annotator as a key, value pair. These pairs populate the dictionaries of their respective annotation type (see annotation.conf).
+
+When an AnnotatorNote is present for an annotation, they share the same 'T' identifier and therefore share a key, thus this keeps these AnnotatorNotes tied to the annotation in this process.
+
+With annotation types (from annotation.conf) as columns and each annotation as a row, headings.xlsx portrays the contents of table_headings.ann as a table where an 'X' indicates wherever an annotation is associated with an annotation type. The final column includes text from the AnnotatorNotes that corresponds with that row's annotation, where applicable.
+
+With the dictionaries created by the script for each annotation type, the script then iterates each dictionary to write each one into the excel workbook. Along the way, the keys from the annotation type dictionaries are looked up in the AnnotatorNotes dictionary to look for any comments that are tethered to the annotation.
